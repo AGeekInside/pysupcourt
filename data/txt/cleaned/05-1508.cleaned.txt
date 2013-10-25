@@ -1,0 +1,1675 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+ZUNI PUBLIC SCHOOL DISTRICT :
+NO. 89, ET AL., :
+Petitioner :
+v. : No. 05-1508
+DEPARTMENT OF EDUCATION, ET AL., :
+- - - - - - - - - - - - - - - - - x
+Washington, D.C.
+Wednesday, January 10, 2007
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 10:05 a.m.
+APPEARANCES:
+RONALD J. VAN AMBERG, ESQ., Santa Fe, N.M.; on behalf of
+Petitioner.
+SRI SRINIVASAN, ESQ., Assistant to the Solicitor
+General, Department of Justice, Washington, D.C.; on
+behalf of Federal Respondent.
+LEIGH M. MANASEVIT, ESQ., Special Assistant Attorney
+General, Washington, D.C.; on behalf of the State
+Respondent.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+RONALD J. VAN AMBERG, ESQ.
+On behalf of the Petitioners 3
+ORAL ARGUMENT OF
+SRI SRINIVISAN, ESQ.
+On behalf of the Federal Respondent 23
+ORAL ARGUMENT OF
+LEIGH M. MANASEVIT, ESQ.
+On behalf of the State Respondent 46
+REBUTTAL ARGUMENT OF
+RONALD J. VAN AMBERG, ESQ.
+On behalf of the Petitioners 54
+P R O C E E D I N G S
+(10:05 a.m.)
+CHIEF JUSTICE ROBERTS: We'll hear argument
+first today in case 05-1508, Zuni Public School
+District, et al. vs. Department of Education.
+Mr. Van Amberg.
+ORAL ARGUMENT OF RONALD J. VAN AMBERG
+ON BEHALF OF THE PETITIONERS
+MR. VAN AMBERG: Mr. Chief Justice and may
+it please the Court:
+In 1994, Congress enacted the equalization
+formula under the Impact Aid Act. It did so clearly and
+decisively, and described a methodology which was
+unambiguous, was self contained, reflected a recognized
+statistical standard, and assisted in actually
+promulgating -- and -- the intent of the Impact Aid Act,
+which is to benefit impacted local educational agencies
+or school districts and not fund the general educational
+program of the States.
+In so doing, Congress removed from the
+Secretary the previously delegated authority to
+establish by regulation the equalization formula. The
+Secretary in turn in 1996, in enacting his regulations
+in response to the 1994 legislation, disavowed that he
+was engaging in any rulemaking or in fact in any
+interpretations of statutes. Instead, the Secretary
+sought and announced that he was proceeding under an
+exception to the public notice and comment laws,
+5 U.S.C. 553(b), by stating that his regulations merely
+reflected changes in legislation, refining regulatory
+language.
+JUSTICE GINSBURG: Mr. Van Amberg, they were
+essentially the same as the prior regulations, were they
+not? And those regulations had gone through the notice
+and comment process.
+MR. VAN AMBERG: Yes. That is correct,
+Justice Ginsburg -- Ginsburg. Those were essentially,
+except for a few words here and there, those were the
+same regulations. But they were in response to a
+congressional directive back in 1974 that the Secretary
+is to create the equalization formula. In 1994,
+Congress came in with legislation and established that
+formula.
+JUSTICE GINSBURG: I thought that the
+formula was proposed to Congress by the Department of
+Education, which is not something that Congress did in
+other words, to stop the Secretary from whatever he was
+doing. But it was indeed -- wasn't it the Secretary's
+own language that Congress enacted?
+MR. VAN AMBERG: The contention is made that
+this 545-page omnibus education bill --
+JUSTICE GINSBURG: Well, just as to that,
+the provision that we're talking about, do you say, you
+say it wasn't drafted by the Department of Education?
+MR. VAN AMBERG: I don't think we know
+exactly who it was drafted by. I think there is --
+there is some references in the Congressional --
+Congressional Record that this is an administration
+bill. But I would, I would like to respond, Justice
+Ginsburg, based on the assumption that this was the
+Secretary's bill.
+Under the statutory formula, the language is
+clear that what is disregarded in -- in ranking LEAs and
+eliminating percentiles of LEAs is those LEAs which fall
+above the 95th percentile --
+JUSTICE SCALIA: Before you get into the
+substance let's -- let's finish with this, this problem,
+whether it was indeed the other Secretary's own bill.
+Was the Secretary who proposed the -- the '94
+legislation, the same Secretary who had promulgated the
+prior regulations?
+MR. VAN AMBERG: No. This --
+JUSTICE SCALIA: The prior regulations were
+promulgated when?
+MR. VAN AMBERG: The former regulations were
+promulgated in 1976.
+JUSTICE SCALIA: My goodness, that's a long
+time before.
+MR. VAN AMBERG: That's a long time.
+JUSTICE SCALIA: With a different Secretary
+now.
+MR. VAN AMBERG: And a different agency.
+There wasn't even --
+JUSTICE SCALIA: So there's no reason to
+believe that the same Secretary -- that the Secretary
+continued to have the same view of what was proper, is
+there?
+MR. VAN AMBERG: We view that it did not
+and, and also, Justice Scalia and Justice Ginsburg, we
+also view that if this was the chief educational officer
+of the Federal Government, he was more than capable of
+developing a statute which reflected his methodology
+of --
+JUSTICE SCALIA: Indeed he could have copied
+the regulations that were on the book and just put them
+in the statute, couldn't he?
+MR. VAN AMBERG: Well, even in the same act,
+Your Honor, under when they had the EFIG statute, there
+Congress was able to reference the regulations of the
+Secretary. They didn't do so when they were, when they
+enacted the impact aid part of it. So --
+JUSTICE GINSBURG: Well, as -- as far as the
+difference in time, it was the Secretary's decision, the
+later Secretary's decision to retain, as you
+acknowledged, the, almost the identical regulation. You
+said it didn't go through notice and comment the second
+time, but the text was basically the same in '76 and in
+--
+MR. VAN AMBERG: He didn't -- if I could,
+Your Honor, he did not retain the second regulation.
+This was supposed to be a new regulation which was
+promulgated by the Secretary because the Impact Aid Act
+had been repealed --
+JUSTICE GINSBURG: Yes --
+MR. VAN AMBERG: -- and re-enacted.
+JUSTICE GINSBURG: -- and I appreciate that.
+But the text of it, what the regulation said was not
+significantly different from what the earlier regulation
+said.
+MR. VAN AMBERG: No. But it --
+JUSTICE SCALIA: Was this the same
+Secretary, by the way, as the Secretary who issued the
+new regulation, the same Secretary that was in office
+when the new legislation had been proposed?
+MR. VAN AMBERG: The new legislation was
+'94. Secretary enacted it in '96. I think it probably
+was. I -- I -- it was the same administration.
+JUSTICE SCALIA: Why, why would the
+Secretary, if indeed it was his bill, why would he
+deprive himself of the power to decide what the formula
+should be? Which is the power he had before. I mean,
+one must think that there must have been some pressures
+from elsewhere when the Secretary goes in and says take
+some power away from me, please.
+MR. VAN AMBERG: Well, that, and I would
+agree, Justice Scalia, that that is not a, a usual event
+where an administration intentionally disgorges from
+itself its own authority. And, and I would also point
+out the fact that again, there is a dramatic difference
+between what, what the statute proposed and, and the
+methodology described in the regulation. And what's,
+what's very significant is if you go back to 1976 when
+the original regulation was promulgated, there was a
+debate that went on in the public notice and comment
+portion of these proceedings where they discussed
+whether you eliminate percentile of LEAs directly or
+whether you add this extra step of eliminating
+percentage, percentages of pupils and then eliminating
+LEAs as these pupils are eliminated.
+I mean, it's a totally different process,
+totally different philosophy behind them and as we can
+see in this particular case, in New Mexico and in
+Alaska, totally different results.
+JUSTICE ALITO: Well, Mr. Van Amberg, is the
+statutory language really as unambiguous as you suggest?
+It says above the 95th percentile or below the 5th
+percentile, but it doesn't say above the 95th percentile
+of local education agencies or below the 5th percentile
+of local education agencies, does it?
+MR. VAN AMBERG: Well, Justice Alito, I, I
+think what you, I think it is clear and unambiguous.
+And the reason is that if you, in order to run a
+percentile calculation you need units against which to
+run that, and then you need these, an identified set of
+variable standards such as they provided here, the
+average per pupil expenditures of each set of these LEAs
+or districts.
+So you rank the, the LEAs. You've got the
+variable values and then it, it's, the statute provides
+that you find that you eliminate those LEAs which are
+above the 95th percentile. And then if you go back to
+what "such" means and referencing back to other portions
+of the statute, it's 95th percentile of the revenues and
+expenditures of the LEAs in the State. It's a very
+similar process for --
+JUSTICE BREYER: Yes, but what do you
+distribute?
+MR. VAN AMBERG: Pardon?
+JUSTICE BREYER: What do you distribute? I
+mean, I agree you have a, some kind of, let's put
+something on cards, so you have thousands of cards and
+each one has a number on it. What are you distributing
+-- the cards? Are you, are you -- what's distribute --
+a 5th percentile refers to some kind of distribution.
+What's it a distribution of?
+MR. VAN AMBERG: It's the distribution of
+the percent of the, what is --
+JUSTICE BREYER: Is it a thing?
+MR. VAN AMBERG: Like a thing.
+JUSTICE BREYER: Like a -- like a set of
+things that you're distributing, what are they?
+MR. VAN AMBERG: The thing that you're
+running the percentile against is the total number of,
+of expenditures and revenues in the State.
+JUSTICE BREYER: In other words, you take
+all the -- there is a set of numbers, each number is a
+different number and the characteristic of each number
+is there some school district that spends per, or takes
+in per pupil, revenue equal to that number. So we write
+each one on a card. Is that what we're, is that our
+distribution? We have like, let's say we have a, a
+thousand cards. Is that what it is?
+MR. VAN AMBERG: Well, you know, in New
+Mexico's case you have --
+JUSTICE BREYER: No. No. I'm not, I'm
+saying what do you think it has to be? What do you
+think it should be? What are, what is it we are
+distributing? A simple question, I guess, for a
+statistician. I unfortunately am not one and can't find
+one, so I have no idea what this statute means.
+(Laughter.)
+MR. VAN AMBERG: Well, the, the -- the value
+against which --
+JUSTICE BREYER: Not a value. I want to
+know what I'm distributing. And if you don't know I
+would say that this is, I have never seen a case so much
+better fitted for relying on the views of an agency.
+JUSTICE SCALIA: Counsel, I thought you said
+that you did know what it was. I thought you simply
+quoted the statute, the 5th percentile of such
+expenditures or revenues in the State. That's what's
+being distributed.
+MR. VAN AMBERG: Yes, but --
+JUSTICE BREYER: I'm sorry, I don't know how
+--
+JUSTICE SCALIA: Such revenues or
+expenditures in the State consist of, the word "such"
+obviously refers you back to some prior reference to
+revenues in the State, and that prior reference in
+subsection A is a reference to district by district, not
+pupil by pupil.
+MR. VAN AMBERG: That, that's correct.
+JUSTICE BREYER: So, so in other words we
+are distributing those cards, it's a set of numbers? If
+you're certain, isn't it fair to say that this statute
+is not clear as to what it is you're distributing?
+MR. VAN AMBERG: Well, I'm sorry, Justice --
+I'm -- Breyer; I'm having a little trouble understanding
+--
+JUSTICE BREYER: Well, I -- I thought not.
+Is there a --
+MR. VAN AMBERG: -- the question.
+CHIEF JUSTICE ROBERTS: You're not certain
+about the hypothetical but you're certain about the
+statute, aren't you?
+MR. VAN AMBERG: I'm certain about the
+statute. You're provided the variable values that are
+attributed to each of the LEAs; you rank them; and you
+provide a percentile. It's a methodology which was
+described in 1976. It's a methodology employed every
+day in ranking students and schools.
+JUSTICE BREYER: Yeah -- that -- right. But
+I unfortunately don't know enough about this subject, so
+I thought, not being an expert on it, that when you
+referred to a percentile, you have some group of things,
+a set of things that's being distributed in a certain
+order and there is a top of that and a bottom of that.
+MR. VAN AMBERG: Correct.
+JUSTICE BREYER: And if that's what
+percentile refers to, I just want to know what those
+things are that are being distributed. And - and that's
+where I find the ambiguity. And if there is an
+ambiguity, I guess we are going to take the view of the
+agency at least as I understand it. So -- so that's why
+I asked the question.
+MR. VAN AMBERG: All right. And, and I
+think I understand the question now, Justice Breyer.
+Thank you.
+The units that are ranked or distributed are
+the LEAs or the school districts. And they are ranked
+in order of their per pupil expenditures and revenues.
+Those are the units and the component parts of this
+calculation that are provided for us by Congress.
+JUSTICE BREYER: And does the statute say
+you have to do it that way? It has to be the group
+that's distributed?
+MR. VAN AMBERG: It's my understanding under
+-- under Brown and Williamson is if Congress speaks to
+an issue, Congress is to be obeyed.
+JUSTICE BREYER: Clearly.
+MR. VAN AMBERG: There is nothing mysterious
+about this type of a methodology. And this is the one
+that Congress chose.
+JUSTICE BREYER: No, you could do it that
+way and the reason the Government, I think, says that
+you shouldn't do it that way is that it would produce an
+absurd result.
+MR. VAN AMBERG: All right.
+JUSTICE BREYER: That the object of the
+statute is to catch the outliers. And if you, for
+example, had one giant school district like New York
+City which was at the top of the list and another giant
+school district that was at the bottom of the list you
+would cut those two out, and you might have cut out half
+the pupils in the whole State, and those wouldn't be
+outliers would they? I mean, that's the problem.
+MR. VAN AMBERG: And you have a similar
+infirmity associated with the other methodology. That
+is, if you have a number of LEAs which are small in
+numbers, as in New Mexico, particularly if you had a
+number of small LEAs at the bottom, which is I think a
+huge problem policy wise, you were to cut them out and
+let them to float off in their poverty. I think, I can
+understand where there is --
+CHIEF JUSTICE ROBERTS: Doesn't, doesn't
+subsection b(ii) address outliers? I was surprised
+there wasn't more discussion of that in the briefing and
+maybe it's, it's because of some reason I'm unaware of.
+That says that the Secretary in making this
+determination can take into account particular types of
+LEAs where there is extra, additional costs. I would
+have thought for example if you had a very small LEA
+with only 20 students and the cost is particularly high
+because you don't have economies of scale, that you
+haven't -- that would, could be knocked out for that
+reason. Is that not how that works?
+MR. VAN AMBERG: Yes. And this is the, the
+whole problem, that we can argue philosophically how
+whether Congress's methodology or the Secretary's
+methodology is better, but the backdrop of this is that
+the, the statute and also the regulation allows for
+school, for the States to back out all these
+disequalizing expenditures so that you, you make an
+adjustment to more or less end up with a baseline per
+pupil expenditure. And there is really no reason after
+you do that for having a wide disparity, even between
+the top and the bottom LEA.
+The Secretary's formula, and I don't think
+we should be arguing whose formula is better, because if
+they are different, Congress wins, but nevertheless, the
+Secretary's formula, it eliminates 26 percent of the
+school districts. And under New Mexico, if you, if you
+look at the top and the bottom school district even
+after the eliminating of these funding differentials,
+you've got a 244 percent disparity.
+JUSTICE BREYER: It, it eliminates 26 school
+districts but those 26 school districts account for 5
+percent or 10 percent of the pupils. And I guess what
+we are interested in here is not school districts; they
+are not a thing -- they are a thing of a kind, but we
+are interested in students, real people who get money.
+And so that it, that it -- it eliminates 26 percent of
+the school districts would see, to be a good thing, not
+a bad thing, because what we are really interested in
+are the pupils and it keeps in 90 percent of the pupils.
+MR. VAN AMBERG: And Justice Breyer, I think
+Congress and in its methodology has disagreed with that
+view, because it does not rely strictly upon pupils, and
+pupils are not necessarily the driving force in how we
+work this formula.
+JUSTICE SCALIA: I thought the problem was
+disparity in school districts. Since much of the
+funding for education is local funding, in some places
+there are very rich school districts and very, very
+poor, poor school districts. And I thought that the
+purpose of this was to make sure that there is not an
+enormous disparity, not pupil to pupil but district to
+district. It makes perfect sense, it seems to me.
+MR. VAN AMBERG: And that is correct.
+Because these districts particularly in New Mexico serve
+a unique purpose. New Mexico has pockets of, of urban
+and populations, and then they have got small
+traditional villages; they have got farming communities;
+they have got Indian lands; they have got military
+bases. And a school district whether it educates 100
+children or 1,000 children or 5,000 children has a
+special value in the State and in our educational
+process. And simply because a child in New Mexico
+attends the school district that does not have
+particularly many students in it doesn't mean that he
+has to suffer a poorer education than his brethren and
+brothers and sisters in the metropolitan area.
+JUSTICE GINSBURG: Mr. Van Amberg, if there
+is any ambiguity in the statute, one relevant
+consideration might be how would this work across
+States, and I think it's true, is it not, that your
+reading would lead to wildly different, wildly different
+results from State to State depending on whether they
+have large districts or small districts at the top and
+the bottom, whereas the other way, counting pupils
+rather than school districts regardless of size, you
+would get uniformity going from State to State.
+MR. VAN AMBERG: Justice Ginsburg, the
+Secretary recognized in 1976 that both methodologies
+have their problems, depending on how your districts,
+the number of districts that you have in a State, their
+relative populations, how they line up. And --
+JUSTICE STEVENS: Am I correct in
+understanding that at the end of the line here, if you
+win the Federal money will go to your two districts,
+whereas if the other side wins the Federal money will go
+to the State? Is that what the bottom line is?
+MR. VAN AMBERG: That's the bottom line.
+JUSTICE STEVENS: Yes.
+MR. VAN AMBERG: And I would point out,
+Justice Stevens, that Congress has made it clear that
+the impact aid is supposed to go to the impacted
+districts. It is not supposed to fund the general
+educational program of a State. The money that the
+State, that the State of New Mexico seeks to retain is
+under a limited exception that has been created and it
+is, it is not that we are trying to take the State's
+money as the bottom line. It is that the State has
+taken the impact aid dollars and doesn't have an
+equalized system. New Mexico could equalize if it wants
+to. It established its equalization formula.
+JUSTICE STEVENS: Let me ask another general
+question. If it were true, and I don't think it is in
+this case, that the biggest district was the one that
+got the most per pupil money -- the two biggest
+districts that were at the opposite ends of the
+spectrum, they would all be taken out, wouldn't they,
+under your view?
+MR. VAN AMBERG: Well, it actually
+depends -- you get into statistical approaches, but if,
+let's say, there were less than 20 districts, you just
+had let's say 18 districts or 19 districts, then if you
+do the percentile against, if you work the percentile in
+that particular setting, nobody gets eliminated.
+JUSTICE KENNEDY: But you have the same
+problem if it's students, I take it? You'd have the
+same statistical question whether you, you use districts
+or students?
+MR. VAN AMBERG: Correct, because you would
+run -- because if you had districts, big districts at
+both ends, you run your 5 percent on both ends with the
+students, you end up not eliminating anybody.
+JUSTICE BREYER: That's all right. I
+wouldn't think that was a problem. But what about
+Justice Stevens' question. There are 20 districts in
+our State -- it's exaggerated, let me exaggerate it --
+and the rich district has 20, has a quarter of the
+students, and the poor district has another quarter. So
+our outliers in that situation which we're eliminating
+from our calculation are the rich district and the poor
+district. One's at the top, one's at the bottom. And
+now we're left with 18 districts to figure out whether
+they're equalized. But those 18 districts account for
+less than half or about half of all the students.
+That's the problem. It seems that isn't very
+representative and we're trying to get
+representativeness.
+MR. VAN AMBERG: Well, Justice Breyer, I, I
+would respectfully like to go back, not to what we are
+trying to accomplish through judicial decision, but what
+Congress accomplished through its decision.
+JUSTICE BREYER: I understand that. If the
+language doesn't permit it you can't do it, they can't,
+and you win. But if the language does permit it, the
+reason -- you have to stretch the language, I suspect,
+in my view to get to the Government's result. It might
+just barely permit it. But one of the things on their
+side is that if we take your view it produces an absurd
+result, because of what Justice Ginsburg said, because
+there is such variation in the number of pupils among
+school districts in different states.
+MR. VAN AMBERG: Right. If I could address
+that, Your Honor. The only argument I see the State has
+is the argument about absurdity. This debate that we're
+having now is the debate that took place in 1976 in
+front of the Secretary. He recognized that there were
+two methodologies that he was considering. He
+recognized that they both had their problems. But in
+1994, Congress had before it at least or had available
+to it information as to the, whether, what, how this
+particular formula would work. There were only three
+and perhaps -- three States, Kansas, Alaska, New Mexico,
+and perhaps Arizona -- that had -- that were trying to
+take advantage of the, of this narrow exception. So
+they knew the configuration and the composition of these
+school districts.
+And so they could look if they wanted to --
+and there's no legislative history to this, but they
+could have looked if they had wanted to, to exactly what
+the practical effect would be of these two formulas.
+And the practical effect is that in New Mexico the
+formula which the Respondents contend is absurd reduced
+only 11 percent of the LEAs. And with the backdrop that
+this, that these LEAs should have been more or less
+equalized anyhow because of removing the disparate
+funding, that's, that's much more reasonable and
+certainly doesn't reflect an absurdity, and when you
+compare that to the Secretary's approach which
+eliminates 26 percent and cuts loose 23 school districts
+out of 89 from any consideration and you end up with
+kind of a core block in their 14 or 15 percent
+disparity, I think there may be those who could argue
+forcefully that that's an absurdity.
+JUSTICE KENNEDY: I see your white light is
+on. I don't want to take -- would the other States make
+that same answer that you just made?
+MR. VAN AMBERG: Kansas equalizes under any
+formula, as New Mexico did, could do. Alaska, you
+eliminate 22 percent in order for them to just kind of
+squeak by. If they applied Congress's formula they
+would just equalize. This is an option I contend that's
+available to every State that wants to take advantage.
+If you give them a 25 percent disparity allowance, you
+allow them to back out disequalizing expenditures.
+There's really no explanation that's been offered why
+there's any disequalization at all.
+With that, if there is any time -- unless
+there are any further questions.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Mr. Srinivasan.
+ORAL ARGUMENT OF SRI SRINIVASAN, ESQ.
+ON BEHALF OF THE FEDERAL RESPONDENT
+MR. SRINIVASAN: Thank you, Mr. Chief
+Justice, and may it please the Court:
+JUSTICE SCALIA: Mr. Srinivasan, you don't
+want us to stretch the language, do you?
+MR. SRINIVASAN: Well, I don't think you
+need to stretch the language, Justice Scalia.
+JUSTICE SCALIA: And you wouldn't urge us to
+do either, would you?
+MR. SRINIVASAN: Well, it depends on what
+you mean by stretch.
+(Laughter.)
+MR. SRINIVASAN: The question, the question
+before the Court is whether the Secretary's formula is
+unambiguously foreclosed by the statutory test, not
+whether it's the better reading, but whether it's
+unambiguously foreclosed. And we happen to think it's
+the better reading, but we certainly think it's not
+unambiguously foreclosed. And maybe the clearest
+indication that Congress did not unambiguously foreclose
+the Secretary's methodology --
+CHIEF JUSTICE ROBERTS: What's the case that
+says "unambiguously foreclosed"?
+MR. SRINIVASAN: Well, Brand X says that,
+but it's a characterization of the step one inquiry
+under Chevron. And we can use "foreclosed" if you like,
+Your Honor.
+But the clearest indication that the statute
+does not foreclose the Secretary's methodology is a
+provision that I think hasn't been addressed thus far in
+the argument and that's that in the very same act in
+Congress in which Congress enacted Section 7709, the
+provision at issue here, Congress also explicitly
+endorsed and incorporated the Secretary's --
+CHIEF JUSTICE ROBERTS: You begin with an
+argument that directly cuts against your position. They
+knew how to do it under the -- I assume you're referring
+to the education finance and incentive grant program?
+MR. SRINIVASAN: I am.
+CHIEF JUSTICE ROBERTS: Well, they did it
+there, they didn't do it here. To me that suggests the
+opposite of the inference you're trying to draw.
+MR. SRINIVASAN: I don't think so, Mr. Chief
+Justice, with respect. There are two education finance
+incentive grant program, or EFIG, provisions that we
+identified in the briefs and one of them I would
+acknowledge is susceptible to that line of argument,
+although I don't think it's persuasive. But it's the
+other one that I'm focusing on, and what the other one
+does is to explicitly incorporate the Secretary's
+regulations and so what Congress said in 1994 is that
+for purposes --
+CHIEF JUSTICE ROBERTS: Which they did not
+say in this act.
+MR. SRINIVASAN: They didn't, but I think it
+would be very odd to attribute to Congress the intention
+on one hand to say, we like your regulation, so much so
+that we want to use it and we want you to continue to
+use it for purposes of the EFIG program --
+JUSTICE SCALIA: Different purposes.
+MR. SRINIVASAN: They're not --
+JUSTICE SCALIA: They're for different
+purposes.
+MR. SRINIVASAN: They're not different
+purposes at all, Justice Scalia, with respect. They're
+the exact same purpose. In both programs what Congress
+wanted to do was to get an assessment of the extent to
+which education expenditures were equalized in a State
+among school districts. They're the very same purpose.
+CHIEF JUSTICE ROBERTS: But for different
+purposes. In the one case, in this act we're worried
+about an extensive Federal presence that has an effect
+on the tax base available for schools and under the EFIG
+program it's an entirely different question of
+equalization.
+MR. SRINIVASAN: Well, at that level of
+generality you might be right, but with respect to the
+purpose of the equalization provisions of both of those
+acts the purpose is exactly the same. In impact aid,
+just like in EFIG, the question is to what extent has
+the State equalized expenditures across school
+districts. It's the very same question.
+CHIEF JUSTICE ROBERTS: Well, maybe let me
+ask it directly. If they could so easily just say we
+incorporate the Secretary's regulation in EFIG, why
+didn't they do it here?
+MR. SRINIVASAN: Well, because --
+CHIEF JUSTICE ROBERTS: They instead went to
+the trouble of mimicking part of the regulation, but not
+mimicking the appendix, which is where your calculation
+methodology is.
+MR. SRINIVASAN: Well, they didn't mimic it.
+They incorporated it. And so far as the argument is
+that they incorporated just the regulation qua
+regulation and not the appendix to the regulation, I
+don't think that that argument can be squared with the
+statutory text or the regulatory text.
+CHIEF JUSTICE ROBERTS: Can I ask, is there
+a difference legally between a regulation and an
+appendix to the regulation?
+MR. SRINIVASAN: I don't think so, at least
+not in the circumstance of this case, where the
+regulation by its own terms incorporates the appendix.
+And so when Congress incorporated the regulation it
+necessarily incorporated the appendix.
+CHIEF JUSTICE ROBERTS: But you say
+"incorporated," though. What it did was it took the
+language and it did not take --
+MR. SRINIVASAN: No.
+CHIEF JUSTICE ROBERTS: No?
+MR. SRINIVASAN: No, I don't think so, Your
+Honor. The text of the statute in 1994 is set forth at
+the top of page 30 of the Government's brief, and I'm
+quoting from the second line of page 30 and what
+Congress said in the EFIG statute in 1994, again in the
+very same act that enacted this language --
+CHIEF JUSTICE ROBERTS: In the EFIG statute?
+MR. SRINIVASAN: In the EFIG statute.
+CHIEF JUSTICE ROBERTS: But in this statute
+the regulation says look to the, look at the appendix.
+Congress as I understood when it enacted our statute, it
+took language from the regulation; it didn't take the
+part that said look to the appendix.
+MR. SRINIVASAN: Well, it didn't take the
+part that said look to the appendix because I don't know
+that that would have been a sensible thing to do when
+you're enacting a statute. But the point I'm trying to
+make is that when Congress in the EFIG statute
+incorporated the regulation it specifically referred to
+the regulation that the Secretary had in place at that
+time.
+CHIEF JUSTICE ROBERTS: And it didn't do
+that here?
+MR. SRINIVASAN: It didn't do that here, but
+it didn't have to. It makes sense --
+JUSTICE SCALIA: I still think it cuts
+against you rather than for you, the fact that they
+could have done the same thing here and we wouldn't have
+this case.
+MR. SRINIVASAN: Well, let me just make one
+more point on this, Your Honor, and then I'll move to
+the text of Section 7709, because I do think that this
+point has a great deal of force. The reason that
+Congress would have incorporated the regulation
+specifically in EFIG but not in impact aid is because
+we're dealing with an impact aid regulation. So the
+Secretary ordinarily wouldn't have thought that he
+should apply the impact aid regulation for purposes of
+EFIG unless Congress told him to do that and that's what
+Congress did. But with respect to impact aid, there's
+no reason to incorporate the regulation. The regulation
+already existed, and the question is did Congress in
+this act foreclose the Secretary from continuing to
+apply that longstanding regulatory methodology. And I
+would suggest that if Congress really wanted to --
+JUSTICE SCALIA: Mr. Srinivasan, if we could
+come to the, to the text that you're talking about.
+MR. SRINIVASAN: Sure.
+JUSTICE SCALIA: What I don't understand
+about the Government's position is why you use this,
+this per pupil theory for purposes of (B)i), but don't
+use it for purposes of (A). You, you don't -- in the
+major computation portions, namely for purposes of
+paragraph 1, a program of State aid equalizes
+expenditures among local expenditures, if in the second
+fiscal year is made the amount of per pupil expenditures
+made by or per pupil revenue available to, you do it
+agency by agency, don't you? You DON'T apply this, you
+know, it depends on how many pupils in each agency. Why
+don't you do for both?
+MR. SRINIVASAN: Well, if you look at 2(a),
+Your Honor what that says is that the disparity, the
+disparity standard at its broadest level deals with
+whether the per-pupil revenues for the highest ranked
+local educational agency exceeds the per pupil revenues
+for the lowest one by 25 percent.
+JUSTICE SCALIA: Right.
+MR. SRINIVASAN: It would make no difference
+if you take into account pupils for that part of the
+analysis, and here's the reason why. When you take into
+account pupils with respect to a local educational
+agency and you weight the local, the figure by the
+number of pupils served by the local educational agency,
+the per pupil figure that you're going to attach to each
+of those individual pupils is the same. It's the same
+per pupil figure for each one. It's just that you
+multiply it by the number of pupils.
+So for purposes of this part of the statute,
+where you're comparing the highest to the lowest,
+whether you took into account the number of pupils or
+not you'd still be dealing with the same two figures.
+You'd be dealing with a figure that applies to the
+highest ranked local educational agency and you'd be
+dealing with a figure that applies to the lowest ranked
+local educational agency.
+JUSTICE SCALIA: You're saying it comes to
+the same, but the fact remains you don't use that
+methodology in A, because you don't think the language
+requires that methodology. And it is the same language
+in B.
+MR. SRINIVASAN: No, there would be -- I
+don't know that we use one or the other. It's just that
+there would be absolutely no purpose served by using
+pupils with respect to --
+JUSTICE SCALIA: Well, the purpose would be
+to follow the language of the statute, and if you think
+that the language in B requires this kind of an approach
+you should take the same approach in A, especially if it
+makes no difference.
+MR. SRINIVASAN: Well, no; especially
+because it makes no difference, because with respect to
+the B part of it, the 95th and 5th percentile
+exclusions, it makes all the difference in the world
+whether you take into account --
+CHIEF JUSTICE ROBERTS: I have a conceptual
+difficulty, and it may be my limitations with the way
+you do it. You take students and you assign a per-pupil
+number to each individual student.
+MR. SRINIVASAN: Effectively.
+CHIEF JUSTICE ROBERTS: But I would have
+thought the per-pupil concept only makes sense if you're
+dealing with LEAs. They have a per-pupil number because
+they've got a bunch of pupils. You take individual
+students, and you know for example in that school
+district you don't spend the same amount of money on the
+kindergartner that you spend on the eighth grader. And
+yet, you give the kindergartner a per-pupil number and
+the eighth grader a per-pupil number that is the same.
+It's an artificial association. It makes sense to speak
+of per-pupil numbers when you're referring to the LEAs
+because they have so many pupils, they get so much
+money, you can do the calculation. It doesn't make
+sense to say, you know, John Smith the kindergartner has
+a per-pupil expenditure of a thousand dollars. He may
+have $200 and the eighth grader 2,000, so why are you
+creating this artificial association and then using,
+using that methodology?
+MR. SRINIVASAN: Well, it's an approximation
+to be sure, and per-pupil revenues by definition deal
+with approximations across the swath of students that
+are covered by local educational agencies.
+CHIEF JUSTICE ROBERTS: And it's only -- the
+reason is to rank them if you have an entity that has a
+swath of students, the district, that's the way it
+should be ranked. When you're ranking it by pupils,
+maybe if you ranked them by pupils and you have the
+actual numbers of course, which nobody does, your
+methodology would make sense.
+MR. SRINIVASAN: Well, I think what we're
+really doing, Your Honor, is weighting each figure by
+the amount of pupils in the school district, and the
+reason we're doing that is to get a more accurate
+picture of the extent to which any one school district's
+per-pupil revenue figure contributes to the overall
+revenue pictures in the State. And if I could use one
+example which I think might help to crystallize why it's
+necessary to do this sort of weighting and why education
+finance practitioners routinely prescribe that you have
+to do this sort of weighting in order to avoid distorted
+results, if you consider the example of a State that has
+two school districts, and I'll use real examples from
+New Mexico. One would be the district that has the
+highest per-pupil revenues in the state, the Mosquero
+district, in which there's 57 pupils. And the other
+would be the Albuquerque school district, the largest
+school district in the State, which serves 84,000
+pupils.
+Now the per-pupil revenues for Albuquerque
+are roughly $3,000 and the per-pupil revenues for
+Mosquero, the smaller school district, are roughly
+$7,000. And if you imagine a State that consists of
+just those two districts, and you ask the question to
+pair with the statutory language, what is the 50th
+percentile, and I'll use 50th just for ease of analysis,
+what is the 50th percentile of such per-pupil revenues
+in the State? One answer would be that you take the
+number for Mosquero, the 7,000 and you take the number
+for Albuquerque, the 3,000, you split the difference and
+you say the 50th percentile of per-pupil revenues in the
+State is $5,000. But I think that would present a very
+misleading picture of what's actually going on in the
+State.
+CHIEF JUSTICE ROBERTS: No --
+MR. SRINIVASAN: Because --
+CHIEF JUSTICE ROBERTS: Well, because it's
+an absurd hypothetical. What is the --
+MR. SRINIVASAN: I don't -- I -- it is not
+--
+CHIEF JUSTICE ROBERTS: What is the
+smallest number of districts, what is the smallest
+number of school districts in a State?
+MR. SRINIVASAN: One.
+CHIEF JUSTICE ROBERTS: Which State has one
+school district?
+MR. SRINIVASAN: Hawaii. Hawaii has one
+which is a special case but there are states that have a
+relatively small number of school districts.
+CHIEF JUSTICE ROBERTS: In the, in the
+hypothetical you posed why couldn't the Secretary
+address that disparity under (b)(ii)? In other words,
+the school district which has only 57 students, it seems
+to me could be taken out of the calculation under
+(b)(ii), and then you would be dealing only with more
+representative school districts, not the special case of
+the particularly isolated school district or whatever.
+MR. SRINIVASAN: Two points on (b)(ii),
+Mr. Chief Justice. The first is that by -- by the
+statutory text, (b)(ii) is over and above what you do in
+(b)(i,). The 95th and 5th percentiles exclusions. So
+you first have to do that. But the more relevant
+point --
+CHIEF JUSTICE ROBERTS: Why do you have to
+do that? Why do you have to do it first? It says you
+can take into account this -- extent to which the
+program reflects additional costs in particular
+districts.
+MR. SRINIVASAN: No, my point is simply that
+under (b)(i) the statute says the Secretary shall
+disregard local education agencies that are above the
+95th and below the 5th percentile. So I think the
+Secretary has to do that. Now (b)(ii) in some sense
+could be seen as an additional option for the Secretary
+over and above the exclusion, but there is a more
+fundamental point which is that with (b)(ii), it says
+take into account the extent to which a program of State
+aid reflects the additional costs.
+And so what that does is a piggyback on the
+way that the State approaches the situation. So this,
+as -- this provision as the Secretary understands it
+allows it to give effect to a State that gives effect to
+those sorts of considerations, but it's not an
+independent grant of authority for the Secretary himself
+to take those considerations into account.
+JUSTICE SOUTER: Mr. Srinivasan, you -- you
+may have convinced me. I'll stipulate that you have
+convinced me that the argument that you're arguing for
+would probably be a better method, but you haven't
+touched the text of (b)(2)(b)(i) yet, and that's where
+some of us at least are, are having our -- our problems.
+Do you agree that in the absence of the
+other program, I forget the, the acronym for it -- that
+you really would not have any argument that there is
+ambiguity in the text here?
+MR. SRINIVASAN: No. No. Absolutely not.
+JUSTICE SOUTER: Then -- then would you
+address the text?
+MR. SRINIVASAN: Sure, I will.
+It's at page 4a of the appendix of the
+Government's brief, b -- (b)(i). And what the text says
+is disregard local educational agencies with per-pupil
+expenditures or revenues above the 59th percentile or
+below the 5th percentile of such expenditures or
+revenues in the State.
+JUSTICE SOUTER: Okay.
+MR. SRINIVASAN: Now one point I make --
+JUSTICE SOUTER: So what is supposed to be
+disregarded are educational agencies?
+MR. SRINIVASAN: Yes.
+JUSTICE SOUTER: Right. And the agencies
+are identified how? How do we identify the agencies
+that would be disregarded?
+MR. SRINIVASAN: You identify the agencies
+to be disregarded by first identifying the 59th and 5th
+percentiles of per-pupil revenues in the State. And
+then you disregard --
+JUSTICE SOUTER: And we identify their
+per-pupil revenues, too, don't we? Agencies with
+per-pupil expenditures or revenues above or below,
+right?
+MR. SRINIVASAN: Yes, but -- and -- but the
+critical test is the 95th percentile and 5th percentile
+of such expenditures or revenues in the State.
+JUSTICE SOUTER: But that critical test is
+being applied to an agency which is being identified by
+reference to per-pupil expenditures or revenues,
+correct?
+MR. SRINIVASAN: It is. I mean there is no
+doubt that the per-pupil revenues or expenditure figures
+that lie on the spectrum are associated with the local
+educational agencies. That's how --
+JUSTICE SOUTER: Well, it's not merely that
+they are associated with. The very definition, the very
+identification of LEA here is exclusively in terms of
+per-pupil expenditures or revenues. It's not merely in
+association. It is a definition, isn't that so?
+MR. SRINIVASAN: I don't think so. The --
+JUSTICE SOUTER: Then, then what does the
+phrase with per-pupil expenditures or revenues above 95
+or below 5 mean?
+MR. SRINIVASAN: Well, that's true that each
+local education agency has a per-pupil expenditure or
+revenue. But the critical part of the statute which has
+59th percentile or 5th percentile of such expenditures
+or revenues doesn't foreclose weighting. And I think
+the point that Justice Alito made bears, which is --
+JUSTICE SOUTER: Well, why doesn't it? It
+seems to me that the only identification of an entity or
+person, if you want, to be disregarded is the
+identification of an LEA, and the LEA is described in
+terms exclusively of its expenditures or revenues. So
+why doesn't that foreclose your position?
+MR. SRINIVASAN: Well, we -- two parts to
+the answer, Justice Souter. First the Secretary's
+formulation, no less than Petitioner's formulation, does
+disregard local educational agencies with per-pupil
+revenues above the 95th and 5th percentiles.
+JUSTICE SOUTER: Right. Obviously --
+MR. SRINIVASAN: Where we disagree is in
+identifying the 95th exactly.
+JUSTICE SOUTER: After identifying them in
+terms of the expenditures or revenues. That's what
+you're supposed to do.
+MR. SRINIVASAN: Exactly. And I'd --
+exactly. And I'd reiterate the point that Justice Alito
+made earlier, which is that Congress could have
+compelled the approach that Petitioners compelled --
+contend, if it would have said --
+JUSTICE SOUTER: There are lots of things
+that Congress could have done differently from what it
+did do, but it, that doesn't seem to me to inject an
+ambiguity in the identification in, in this subsection
+of the LEA that we are talking about. And it doesn't
+create an ambiguity in, in the clear provision that what
+is to be disregarded is an LEA as so defined.
+MR. SRINIVASAN: Well, I think it does, Your
+Honor, because there are two different ways of ranking
+the LEAs. One is to take the per-pupil revenues
+associated with each LEA and simply take that list into
+account. Another is to take the same list but then
+weight it by the number of pupils in each LEA.
+JUSTICE SOUTER: Sure, that's another way to
+--
+MR. SRINIVASAN: Nothing in the statute
+forecloses that approach.
+JUSTICE SOUTER: -- do it, but tell me why
+that is consistent with the text.
+MR. SRINIVASAN: Because the text refers to
+the 95th and 5th percentiles of such expenditures or
+revenues in the State, and the list that includes the
+weighting does represent a list of expenditures or
+revenues in the State.
+JUSTICE SCALIA: Would such be -- of such
+expenditures or revenues. That refers back to local
+educational agencies with per-pupil expenditures or
+revenues. It's referring you back not to the totality
+of students but to, to agencies with per-pupil
+expenditures or revenues.
+MR. SRINIVASAN: Sure. And I don't, I don't
+dispute that the per-pupil revenue figures belong to a
+local educational agency. But again that doesn't mean
+that you can't take into account the relative extent to
+which a particular school district contributes to the
+overall State picture, and the way you do that --
+CHIEF JUSTICE ROBERTS: Wouldn't the statute
+have told you, though, to, to disregard pupils according
+to the ranking? It does tell you to disregard LEAs,
+which suggests the ranking -- at least to me, that the
+ranking ought to be of LEAs and not pupils.
+MR. SRINIVASAN: Well, it is, it is a
+ranking of LEAs in the first instance and then it's,
+each of those LEA figures is weighted by the number of
+pupils the way we do it, and we do end up disregarding
+LEAs. But as Justice Souter pointed out the first step
+is identifying the 5th and 95th percentiles, and on that
+step we take into account the number of pupils. It's
+only at that step that we take into account the number
+of pupils.
+JUSTICE STEVENS: May I ask --
+MR. SRINIVASAN: And nothing in the statute
+forecloses that. I'm sorry.
+JUSTICE STEVENS: -- a rather basic
+question? What if I'm convinced that your opponent's
+reading is really only the fair reading of the statute,
+but I'm also convinced by you that that's not what
+Congress intended. What should I do?
+(Laughter.)
+MR. SRINIVASAN: Well, one way or another I
+think your should rule in our favor.
+(Laughter.)
+JUSTICE STEVENS: Well no. Accept, accept
+my premises. What do you think I should do?
+MR. SRINIVASAN: Well, I think in that
+situation you sort of have the sliding scale that we
+often confront with textual analysis. And if you really
+think that Congress would have compelled an absurd
+result, and I think it does verge on that, then you
+would --
+JUSTICE STEVENS: I don't think it has to be
+absurd, it's just, I would measure it by what Congress
+actually intended. Assume there two permissible
+readings, and two -- both of them make sense. And I'm
+convinced, assume I'm convinced by you, that they really
+intended to perpetuate the prior method of procedure.
+May I take that, may I come to that result
+even though I think the language really says exactly
+what your opponent says it says?
+MR. SRINIVASAN: Well, if the language
+absolutely unambiguously compels that reading, then I
+think it would be a difficult position. But I don't
+think it goes, goes to that degree.
+CHIEF JUSTICE ROBERTS: I would have thought
+your office had answered that question in countless
+briefs where it tells us to be guided by the language of
+the statute and not some unexpressed intent.
+MR. SRINIVASAN: Well, that's why I said, if
+you think that the statute unambiguously actually
+compels that reading, then I don't know that we would
+have a position.
+JUSTICE SCALIA: Well, you still have a
+Church of the Holy Trinity team over there somewhere,
+don't you?
+(Laughter.)
+JUSTICE BREYER: Why doesn't it -- why
+doesn't absolutely compel it? Where is the ambiguity,
+you say?
+MR. SRINIVASAN: It says --
+JUSTICE BREYER: -- the 5th percentile of
+such per-pupil expenditure. And that --
+MR. SRINIVASAN: That's right.
+JUSTICE BREYER: Now how are you going to
+get that so it doesn't just say just list cards with
+per-pupil expenditure on it, different ones and take the
+top five?
+MR. SRINIVASAN: Well, well it's just the
+number of cards, ultimately, under your hypothetical,
+Justice Breyer.
+JUSTICE BREYER: Do you have a lot of cards
+that have the same cards that have the same number? You
+have a lot --
+MR. SRINIVASAN: They have the same cards,
+we just have -- they have the numbers, exactly.
+JUSTICE BREYER: Yeah.
+MR. SRINIVASAN: It's the same cards with
+the same numbers. We just add more cards in order to
+reflect the extent to which each LEA contributes to the
+overall picture.
+JUSTICE BREYER: And why, why don't you take
+the top five where we have 10 percent of the students,
+let's take the second five and they happens to have the
+same number on the card as the first five, and why don't
+they fall in the first 5 percent?
+MR. SRINIVASAN: I'm not sure I understand.
+JUSTICE BREYER: All right. Forget it.
+(Laughter.)
+MR. SRINIVASAN: Sorry.
+JUSTICE GINSBURG: Can you enlighten us a
+little bit about how this statute developed?
+MR. SRINIVASAN: Sure.
+JUSTICE GINSBURG: As far as I know it was
+the same Secretary of Education when the statute came on
+the books and when the regulation was kind of readopted,
+I think it was --
+MR. SRINIVASAN: I think that's right,
+Justice Ginsburg.
+JUSTICE GINSBURG: But there was a peculiar
+proposal to drop, it was the Secretary's proposal to
+drop the bottom five. So it was a different proposal,
+and what was the reason for that? Why keep, keep the
+95th percentile but not the 5th?
+MR. SRINIVASAN: Well, as we point out in a
+footnote in our brief there was some education finance
+experts that suggested there would be no reason to
+retain the exclusion at the bottom of the range, and I
+think that's because when you have low per-pupil
+revenues there is a reason not to exclude those figures.
+But the important point is the material
+important part of the language, which is 95th percentile
+of such expenditures or revenues in the State, is
+exactly what the Secretary proposed and the Secretary of
+course wouldn't have curtailed his own discretion to
+continue the same methodology that he had long had in
+place. Thank you.
+CHIEF JUSTICE ROBERTS: Thank you, Counsel.
+Mr. Manasevit.
+ORAL ARGUMENT OF LEIGH M. MANASEVIT,
+ON BEHALF OF STATE RESPONDENT
+MR. MANASEVIT: Mr. Chief Justice, may it
+please the Court:
+I'd like to begin with Justice Ginsburg's
+question, because I think that that is very illuminating
+to where we are today. This statute began against a
+history, an 18-year history where the agency had been
+delegated by Congress virtually carte blanche authority
+to devise equalization tests. That was the earlier
+statute. The agency had three tests at the time. One
+was the 25 percent disparity test that we see today and
+there were two other tests.
+In 1994, what happened was the Secretary
+proposed to the Congress and the Congress following the
+Secretary's lead eliminated the two other tests.
+That's, that's what was happening. And Justice Scalia
+asked well, why would the Secretary tie his hands? What
+happened was the Secretary no longer was satisfied or
+liked the other two tests and eliminated those and
+proposed the test that he had been using for 18 years to
+the Congress. Congress adopted that test and that's the
+test that we have today, the 25 percent disparity test.
+The difference is that whereas the Secretary
+had the free rein to develop that disparity test,
+however he wanted, previously, the Secretary -- the
+Congress now told the Secretary in disparity, do the
+following things. First of all 25 percent is the
+maximum disparity that we are going to allow you, number
+one. And number two, take out the outliers in a range
+of 5 to --
+CHIEF JUSTICE ROBERTS: Isn't it -- I'm
+sorry. Go ahead.
+JUSTICE SCALIA: You know, I really don't
+care what the Secretary thought he was doing. I mean,
+it seems to me we have to ask the question, what would a
+member of Congress who voted on this thing have thought
+he was voting for, who had, you know, didn't have this
+history you're giving us. And more importantly, what
+would a citizen to whom this language is promulgated
+think the language means? I don't care what the
+Secretary had in the back of his mind. Why should that
+make any difference to us?
+MR. MANASEVIT: Fair question, Justice
+Scalia, and that brings us back to the language of the
+statute, where of course we begin, and we have to look
+precisely to the language of the statute. The language
+of the statute, what Petitioners mistake is that the
+language of the statute here has a two-part process. We
+don't look at LEAs first. It doesn't say 5th percentile
+of LEAs. We have to first rank expenditures or revenues
+in the State. It's above 95th percentile or below 5th
+percentile of the expenditures.
+JUSTICE SCALIA: Of such expenditures or
+revenues.
+MR. MANASEVIT: Of such.
+JUSTICE SCALIA: So you've got to find out
+what "such" refers to.
+MR. MANASEVIT: And "such" would refer just
+to the previous usage of that precise term, which is
+disregard local education agencies with per-pupil
+expenditures or revenues. So it's that "with per-pupil
+revenues" that the "such" would refer back to, the most
+immediate prior reference, so we're still looking at
+per-pupil revenues or expenditures in the State which we
+have to rank first. We don't identify LEAs first. It
+doesn't say 95th percentile of LEAs. It tells us rank
+per-pupil revenue. The only difference --
+JUSTICE SOUTER: It says disregard LEAs; it
+then identifies certain LEAs which are to be
+disregarded. Nowhere does it say disregard pupils.
+MR. MANASEVIT: No. It says -- it says --
+we are disregarding the LEAs. That's the end of the
+process. But we have to identify the range of value
+that 5 percent and 95 percent applies to. The range --
+the percentiles apply to a range of values. We have in
+New Mexico, we have 89 amounts of per-pupil revenue per
+district, we have 89 of those. But we also have 377,000
+per-pupil revenues, because a per-pupil revenue repeats
+for every time that there's a student, and --
+CHIEF JUSTICE ROBERTS: No. No. See,
+that's my conceptual difficulty. It is only per pupil
+when you're dealing with an aggregation of the pupils.
+If you're going to break it down pupil by pupil, which
+is what you do, you don't have a per-pupil number
+associated with each pupil. You have a number. Nobody
+knows what it is because nobody knows how much you spend
+on each individual. We know how much you give to this
+district, and therefore, the district has a per-pupil
+number, and therefore, I would have thought a reference
+to per-pupil numbers suggests you're grouping according
+to district.
+MR. MANASEVIT: Mr. Chief Justice, we are
+not saying that it can't. We're -- all we're saying is
+that it equally carries both meanings. School finance
+is an extraordinarily technical area, which is precisely
+why Congress left this issue to the agency to work this
+out. When Congress -- when Congress used the terms 5
+percent and 10 percent, and again I'm not, I'm not
+reading Congress's mind to say that when Congress used
+those terms, those percentiles, Congress must have
+intended some national uniformity. This is a national
+program and Congress expects these programs to be
+applied somewhat uniformly across -- across the country.
+JUSTICE SCALIA: Let me --
+CHIEF JUSTICE ROBERTS: Go ahead.
+JUSTICE SCALIA: Let me ask you the same
+question I asked -- I asked the Government. Why don't
+you, if this is a natural reading, why don't you apply
+it to, to 2.A? You don't even think of doing that in
+2.A. In 2.A you just look at the individual agency, but
+it's the same language in 2.A.
+MR. SRINIVASAN: In 2.A, 2.A calls for a
+different type of comparison. And I also note that in
+2.A it refers to percent instead of percentile, which
+refers to two numbers being compared. Percentile refers
+to an entire ranking of value, so the processes are
+somewhat different. Now we're not, I'm not contending
+that this statute is absolutely clear and a model of
+draftsmanship, but certainly the meaning of 95th
+percentile or 5th percentile of such expenditures or
+revenues is a broad enough term.
+JUSTICE BREYER: To include the words
+per-pupil revenue for each pupil, is that what you're
+saying?
+MR. MANASEVIT: Well, to --
+JUSTICE BREYER: How do you want to say it,
+per-pupil revenue attached to each pupil?
+MR. MANASEVIT: Well, I believe --
+JUSTICE BREYER: Or how do you want to say
+it then?
+MR. MANASEVIT: I believe simply that the
+word per-pupil revenue can mean the dollar amount per
+each agency 89 times, or it can mean repeated each time
+a student generates --
+JUSTICE BREYER: What is attached to each
+pupil? You say the word such is broad enough to include
+per-pupil revenue as attached to each pupil?
+MR. MANASEVIT: Yes. Correct. Remember --
+JUSTICE BREYER: And I don't know where to
+look to discover if you're right or wrong.
+MR. MANASEVIT: Well, bear in mind -- bear
+in mind the nature of many education --
+JUSTICE BREYER: Is there any statistical
+text that you could look at to see it that's the way
+people use the words?
+MR. MANASEVIT: That answer I couldn't
+answer, but I can tell you that typically in an
+education statute, funding is distributed on the basis
+of numbers of pupils. So if the statute says $3,000 per
+pupil shall go somewhere, the -- the statute means you
+take that dollar amount and you --
+CHIEF JUSTICE ROBERTS: Well, that must not
+be right, because otherwise we wouldn't have any
+disparity to worry about equalization in the first
+place. Right?
+MR. MANASEVIT: Well, we always -- we always
+will have disparity in the real world and that -- and
+that's because lots of things cause disparity. In this
+case actually, local tax revenues are not the cause of
+disparity because there are no significant local tax
+revenues at issue here. But disparity happens -- in the
+top three or four districts in New Mexico you have under
+100 students, or slightly over 100 students. In a
+district that small, minor things, an insurance recovery
+for example, a couple hundred thousand dollar insurance
+recovery in a district of 87 students will generate
+$3,000 of revenue per member for that year. It's a
+distorting figure. That's precisely what Congress is
+trying to get rid of.
+But when Congress says 5 percent, presumably
+Congress intends that 5 percent to have some uniform
+applicability across the country and not vary with a
+State like New Mexico where it would just eliminate five
+districts. Or in our -- in our neighboring State of
+Maryland, Montgomery County has the highest per-pupil
+revenues in the State. It has 16 percent of the
+population. Under petitioners' view, that -- and it has
+24 districts, so that district would be eliminated under
+petitioners' view. It would completely be eliminated.
+Yet under our view, the 10 percent would fall within
+that and we would keep it in. So --
+CHIEF JUSTICE ROBERTS: Don't you think
+Congress, if Congress is concerned about the, in this
+provision, about the impact of the Federal presence, and
+your reading prevents the money that Congress meant to
+go to those particular districts from actually reaching
+the districts, I mean, wouldn't we be inclined to read
+it the way that, let the money get where Congress meant
+it to go?
+MR. MANASEVIT: Thank you, Mr. Chief
+Justice, because that was on the list of things that I
+wanted to cover, and I'm sure that petitioners 'counsel
+inadvertently misspoke. Impact aid never ever gets
+diverted from the district. Impact Aid goes from the
+Federal Government pursuant to a formula --
+CHIEF JUSTICE ROBERTS: Well, sure, but then
+the question is whether the State can consider it when
+they're figuring out how much money to give it. So in
+effect it's diverted.
+MR. MANASEVIT: Well, remember, the State
+figures a total cost of program for every district
+starting from zero, number of students and dollars
+needed to manage those number of students, and the State
+supplies that amount of money. So where the district
+gets some of that necessary money from another source,
+the State under equalization is allowed to just consider
+that that amount of money, in addition to what the State
+is going to provide, will provide the entire amount.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+MR. MANASEVIT: Thank you very much.
+CHIEF JUSTICE ROBERTS: Mr. Van Amberg, you
+have three minutes remaining.
+REBUTTAL ARGUMENT OF RONALD J. VAN AMBERG
+ON BEHALF OF THE PETITIONERS
+MR. VAN AMBERG: Mr. Chief Justice had a
+question as to whether or not the, an appendix is
+something different from a regulation or carries a
+different weight, and I haven't found anything
+determinative. But I would refer the Court to Young
+versus Community Nutrition Institute where it identifies
+something similar to an appendix as an example, and the
+Court says an example is just that, an example.
+And I don't think we need the argument to
+prevail, but we would submit that it is at best
+confusion, it's confusing that the Secretary would take
+the body of the methodology proposed by Congress, put it
+in his, in the body of his regulation, and then refer
+the public to an appendix in order to, how to work the
+methodology. And in this appendix, he then flips what
+Congress intended and what he had in the body of his own
+regulation.
+I would also suggest that Congress cannot be
+presumed even in this instance to not be, at least have
+some input as to what was happening. In the Senate
+bill, my understanding is that there was a suggestion
+that the disparity figure would only be 10 percent and
+not 25 percent. That didn't make it through but the
+statute as it was written, and I think lasted for about
+a year or so, had the disparity amount going from 25
+percent to 20 percent. That was subsequently amended
+and kept back up at the 25 percent level. So the idea
+that this was not a bill where Congress paid attention,
+I think, is not a warranted assumption.
+JUSTICE GINSBURG: Mr. Van Amberg, could a
+State get to the same result? Let's say your reading of
+the statute is the only permissible one. By combining
+school districts, it's no longer going to be the X
+school district and the Y school district, it will be
+the XY school district, and then the population would
+increase. Still only one LEA.
+MR. VAN AMBERG: There is a provision,
+Justice Ginsburg, in the Impact Aid Act, and I think
+it's 7113, in which it basically says that if the
+Secretary of the Education perceives that a State is
+manipulating its LEAs in a way in which to take
+advantage of the, of this limited exception, it can
+disregard that action. So I think there is built -- I
+think Congress was one step ahead of us and recognized
+that possibility and addressed it.
+JUSTICE GINSBURG: Thank you.
+MR. VAN AMBERG: Thank you. With that,
+thank you very much.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+The case is submitted.
+(Whereupon, at 11:07 a.m., the case in the
+above-entitled matter was submitted.)
+56:22 adopted 47:2 9:4,10 10:3,11 approach 22:8 attribute 25:12
+43:4,20 agencies 3:17 12:12,17,21 approaches 8:13 36:13
+9:8,9 32:22 13:8,16 14:2,6 19:15 36:9 46:14
+22:2 37:15,16,18,23 16:21 17:9,23 32:19 22:22 26:4
+42:16,20 38:11 39:11 18:8,18,20 approximations 29:23
+48:16 21:7 22:17 area 17:22 50:1 avoid 33:15
+29:24,24,25 ambiguity 13:12 arguing 16:4
+13:13 17:24 36:17 B
+31:1 38:5,22 36:24 40:2,4 argument 1:13 b 31:6,13,18
+20:13 50:2,16 51:14 amended 55:21 3:7 21:8,9 23:6 35:15,24 36:2
+aggregation amount 29:22 24:12,17 25:3 36:5,19,19
+35:20 49:13 32:6 33:7 26:24 27:2 37:5,5
+40:10 agree 8:11 10:5 51:13 52:7 36:17,23 46:6 back 4:15 8:17
+36:21 54:10,13,14 54:19 55:4 9:21,22 12:3
+aid 3:12,16 7:1 analysis 30:11 32:17 41:1 47:22,25
+19:4 26:10 announced 4:2 46:23 50:13,13 backdrop 15:20
+24:12 56:8 52:3 assign 31:23 barely 21:2
+26:2 al 1:4,7 3:5 answered 43:8 Assistant 1:18 base 26:4
+29:9 Alaska 9:3 anybody 20:2 1:21 based 5:10
+21:17 22:18 APPEARAN... assisted 3:15 baseline 15:24
+36:3,7 allowed 54:12 applicability 42:21,23 bears 39:1
+35:6 37:2 36:11 applied 22:20 55:24 behalf 1:16,20
+2:3,12 3:6,7,9 applies 30:23,25 attached 51:8,16 2:13 3:8 23:7
+bunch 32:4 31:21 32:1,23 13:22 consist 12:2
+16:4 C 2:1 3:1 49:11,23 50:11 concept 32:2 39:23
+36:18 calculation 9:13 52:8 53:13,21 conceptual contending
+55:16,23 calls 50:18 children 17:16 21:20 46:2
+15:1 care 47:15,21 clear 5:13 9:11 16:5,22 18:21 42:23,23
+18:5,17 carries 49:25 12:11 18:21 20:21 21:14 copied 6:19
+19:3 54:23 40:4 50:24 24:1,13,13,14 core 22:11
+45:13,19 carte 46:14 clearest 23:25 25:7,12,22 correct 4:11
+52:15 56:20,21 42:25 42:20 46:14,20 costs 15:11
+catch 14:15 comes 31:2 46:20 47:2,2,7 35:21 36:7
+cause 52:14,15 comment 4:3,10 47:17 50:2,3,3 counsel 11:18
+certain 12:10,18 7:6 8:19 50:5,6,8 52:24 23:4 46:4
+12:19,21 13:6 communities 53:1,2,14,14 53:23 54:15
+20:3 48:25 17:13 53:16,19 55:7 56:19
+43:19 certainly 22:7 Community 55:11,13,23 counting 18:5
+44:1,7,8 23:24 50:25 55:1 56:14 countless 43:8
+changes 4:5 compare 22:8 congressional country 50:9
+characteristic compared 50:21 4:15 5:7,8 53:3
+10:22 comparing Congress's County 53:6
+24:6 comparison 50:5 course 33:3 46:1
+devise 46:15 disregard 35:25 21:6,21 22:9 31:1 32:22
+34:9 47:4,23 56:13 35:22 52:18 effect 21:25 22:1
+different 6:5,7 5:13 37:13,17 56:3 54:5
+8:25 9:1,3 37:19 39:4 district's 33:9 Effectively
+50:19,23 54:23 distribute 10:2,4 dollar 51:13 29:1,5
+35:9 54:24 10:8 52:7,21 eighth 32:7,9,16
+differentials distributed dollars 19:4 either 23:15
+39:25 52:4 drafted 5:4,6 53:4
+49:12 11:15 12:9,11 dramatic 8:14 53:9,10
+disagree 39:14 district 1:3 3:5 D.C 1:9,19,22 8:22,23 16:9
+discover 51:21 17:7,8,15,19 E 2:1 3:1,1 enacted 3:11
+3:5 4:20 discussed 8:20 20:11 32:6,25 39:21 46:15 24:13 27:22
+discussion 15:7 33:7,18,20,21 ease 34:5 28:2
+23:1 35:7,11 41:8 economies 15:14 28:8
+29:25 15:23 22:24 52:20,22 53:9 education 1:7 ends 19:11 20:1
+12:25 disparity 16:1 districts 3:18 24:19,25 25:24 enlighten 45:2
+16:10 17:2,7 9:17 13:20 33:13 35:25 enormous 17:7
+30:4 35:6 16:18 17:2,4,5 48:16 51:23 54:14
+exclusions 31:19 26:24 45:5 23:23,25 24:4 46:10
+4:16 38:14 39:6 Fe 1:16 42:1 54:4
+26:6,9 existed 29:8 Federal 1:20 2:7 forget 36:22 gives 36:11
+52:10 expects 50:8 6:16 18:15,16 44:24 giving 47:19
+expenditure 23:7 26:3 former 5:25 go 7:6 8:17 9:21
+38:9,22 43:24 figure 20:12 4:16,18,20 20:19 47:13
+22:5 expenditures 30:25 33:6,10 16:6,25 19:6 53:17,20
+26:12 9:16,24 10:19 52:24 55:17 21:16 22:2,18 goes 8:8 43:6,6
+13:21 15:23 38:9 41:5,17 54:1 going 13:13 18:7
+29:22 37:7,8 finance 24:19,25 39:10,10 49:14 54:14
+23:6 38:15,19,24 49:25 found 54:24 good 16:18
+40:21,24,25 13:12 48:12 free 47:5 Government
+51:1 35:16,19 37:19 fundamental Government's
+26:10 explicitly 24:14 fiscal 29:22 further 23:3 36:13
+25:6 fitted 11:17 great 28:24
+44:12 extensive 26:3 five 44:4,19,20 G group 13:5,25
+extent 25:23 44:21 45:13 G 3:1 grouping 49:21
+41:7 44:16 float 15:3 19:7 guided 43:9
+32:5 extraordinarily follow 31:12 generate 52:22 H
+52:21 50:1 following 46:20 generates 51:15 half 14:19 20:14
+47:8 giant 14:16,17 20:14
+21:19 fair 12:10 42:4 forcefully 22:13 17:23 18:8 happened 46:19
+47:24 foreclose 24:1 21:4 45:2,5,10 46:24
+19:4 26:10 intended 42:6 27:25 28:13,17 know 5:5 11:3
+33:19 important 45:22 intention 25:12 36:15 37:1,10 49:18 51:20
+45:23 intentionally 37:12,15,22 knows 49:17,17
+47:19 47:19 interested 16:14 39:1,2,9,13,16 L
+40:12
+41:10
+24:8 incentive 24:19 4:1 5:12 9:5 20:23
+42:2
+28:22 25:1 isolated 35:11 20:24,25 23:11
+43:7
+33:6 40:7 inclined 53:18 issue 14:4 24:14 43:15,19,23 23:13 27:14,22
+46:4
+34:17 25:6 26:16 J 46:8,10,22 47:20,21,25
+44:6 29:7 J 1:16 2:3,12 3:7 47:12,14,24 48:2,2,4 50:17
+50:10
+51:3
+39:3,5 27:9 3:9 4:7,12,19 43:18 44:25
+54:2
+increase 56:6 5:2,9,16,23 6:2 laws 4:3
+56:8,16
+37:16 36:13 7:2,14,16,21 56:19 38:14 39:5,5
+Indian 17:14 8:3,11 9:4,10 40:3,5,9,11
+24:9 10:20 11:5,14 Kansas 21:17 56:6
+48:21 31:24 32:4 12:8,12,15,18 keep 45:14,14 LEAs 5:13,14
+49:18 50:16 13:2,9,17,24 53:12 5:14 8:21,24
+39:15,16 infirmity 14:23 16:11,21 17:1 KENNEDY 12:23 13:20
+information 17:23 18:8,13 19:20 22:14 14:24 15:1,11
+inject 40:1 19:20 20:3,5 kind 10:5,9 40:8 41:12,14
+inquiry 24:6 22:14 23:4,9 31:13 45:7 48:6,21,22,24
+Institute 55:1 25:9,16,18,21 knew 21:20 left 20:12 50:2
+5:20 lots 39:24 52:14 12:24,25 14:7 natural 50:14 O 2:1 3:1
+low 45:20 14:23 15:19,20 nature 51:23 obeyed 14:4
+31:4,5 32:18 necessary 33:13 39:13
+11:1 M 1:21 2:9 46:6 55:10 need 9:13,14 offered 22:25
+44:20 major 29:19 metropolitan 23:13 55:4 office 7:23 43:8
+making 15:9 17:22 needed 54:9 officer 6:15
+Manasevit 1:21 14:25 16:7 53:5 omnibus 5:1
+52:2,12 53:21 52:18 53:4 new 7:11,23,24 opposite 19:11
+manipulating military 17:14 14:16,25 16:7 option 22:21
+19:3 Maryland 53:6 mimicking 18:25 19:5 oral 1:12 2:2,5,8
+27:20 material 45:22 26:20,21 21:17 22:1,18 3:7 23:6 46:6
+56:22 51:22,23 52:18 53:4 13:21 22:19
+53:22 maximum 47:9 minor 52:20 note 50:19 33:15 44:15
+29:21 17:20 23:17 34:12 number 10:7,18 original 8:18
+38:8,20 41:6 misspoke 53:24 10:21,22,22,24 ought 41:14
+31:1 47:15 51:13,14 mistake 48:3 14:24 15:1 outliers 14:15
+35:25 53:18 model 50:24 18:11 21:5 14:21 15:6
+38:10,22 meaning 50:25 money 16:16 30:14,18,21 20:9 47:10
+40:24 meanings 49:25 18:15,16,24 31:24 32:3,8,9 overall 33:10
+48:16 means 9:22 19:3,10 32:6 34:8,8,21,22 41:9 44:17
+11:10 47:21 32:13 53:16,19 35:3 40:11
+measure 42:20 53:6 47:10 49:15,16 page 2:2 27:19
+52:23 34:1,8 numbers 10:21 paid 55:23
+30:2 38:12,15 multiply 30:18 32:11 33:3 paragraph
+50:16 method 36:18 mysterious 14:6 44:12,15 49:21 29:20
+42:24 50:21 52:5 Pardon 10:3
+45:23 42:21 56:2 28:8,22,24 42:24 48:19 24:11,14 36:10
+19:19 21:2 37:11 39:1,20 36:18 56:7
+35:21 perpetuate 45:16,22 problem 5:17 provisions 25:1
+53:17 42:24 pointed 41:19 14:21 15:2,18 26:9
+15:13 persuasive 25:4 policy 15:2 20:4,15 4:3 8:19 55:9
+35:11 per-pupil 30:5 poor 17:5,5 20:8 problems 18:10 pupil 9:16 10:24
+34:6,10 37:6 56:5 proceedings 29:23 30:6,15
+38:22 39:11 portion 8:20 8:25 9:25 51:8,17,18
+20:1 40:8,25 41:2,5 portions 9:22 17:18 48:4 52:6
+43:24 44:3 29:19 49:4 pupils 8:23,24
+30:7 45:20 48:16,17 posed 35:5 processes 50:22 14:20 16:13,20
+46:17 48:20,23 49:7 position 24:17 produce 14:11 16:20,23,24
+49:5,5 49:9,9,15,19 29:16 39:7 produces 21:3 18:5 21:5
+53:1 49:21 51:4,8 43:5,14 program 3:19 29:25 30:10,12
+51:13,18 53:6 possibility 56:15 18:24 24:19 30:14,16,18,21
+Petitioner 1:5 poverty 15:3 25:1,15 26:5 31:10 32:4,12
+1:17 power 8:5,6,9 29:20 35:21 33:1,2,7,20,23
+48:3 53:8,10 practitioners programs 25:22 49:1,13 52:5
+9:6,7,7,8 Petitioner's precise 48:15 promulgated 25:22,25 26:9
+39:10 precisely 48:2 5:20,24 6:1 26:10 31:9,11
+11:20 philosophically 50:1 52:24 7:12 8:18 purposes 25:8
+13:5,10 15:18 premises 42:12 47:20 25:15,16,19,21
+31:18 philosophy 9:1 prescribe 33:14 promulgating 26:2 29:4,17
+36:1 phrase 38:19 presence 26:3 3:16 29:18,19 30:19
+38:2,2 picture 33:9 53:15 proper 6:11 pursuant 54:1
+43:23 34:12 41:9 present 34:11 proposal 45:12 put 6:20 10:5
+48:5 44:17 pressures 8:7 45:12,13 55:7
+pictures 33:11 presumably proposed 4:20
+51:1 piggyback 36:8 53:1 5:19 7:24 8:15 Q
+place 21:10 presumed 55:14 45:25 46:20 qua 26:25
+37:20 52:11 prevents 53:16 provide 12:24 question 11:8
+40:19 places 17:3 previous 48:15 54:14,14 12:17 13:15,17
+49:6 please 3:10 8:9 previously 3:21 provided 9:15 19:8,22 20:5
+23:9 46:9 47:6 12:22 13:23 23:19,19 26:5
+47:16,24 recognized 3:14 reiterate 39:20 48:23 49:7,9 54:19
+54:3,22 18:9 21:11,13 relative 18:12 51:4,8,13,18 roughly 33:25
+35:16 12:1,4 13:21 rulemaking
+49:4,5,6 reference 6:24 remains 31:3 37:20,23,24 running 10:18
+48:6,21 48:19 49:20 51:19 54:6 38:25 39:6,12 S
+references 5:7 removed 3:20 39:17 40:8,20 S 2:1 3:1
+referred 13:5 repealed 7:13 41:3 45:21,24 satisfied 46:24
+28:10 repeated 51:14 48:6,10,17,18 saying 11:6 31:2
+33:1 40:7 32:11 41:1 represent 40:21 51:2 52:15,17 says 8:8 9:6
+refers 10:9 12:3 representative 53:7 14:10 15:9
+13:10 40:18,24 20:16 35:10 re-enacted 7:15 24:4,5 28:1
+42:4 reflect 22:7 respect 24:25 right 13:2,16 48:24 49:2,2
+43:4,13 44:16 25:21 26:8 14:13 20:3 52:5 53:1 55:3
+53:16 reflected 3:14 29:6 30:12 21:7 26:8 30:8 56:9
+4:5 6:17 31:10,17 37:15,25 39:13 scale 15:14
+regulation 3:22 Respondent ROBERTS 3:3 7:21 8:3,11
+22:25 7:18,23 8:16 23:7 46:7 23:4 24:3,16 17:1 23:10,13
+33:6 8:18 15:21 Respondents 24:21 25:9 23:14 25:16,18
+42:4,15 25:13 26:16,20 22:2 26:1,14,19 25:21 28:17
+43:1 26:25 27:1,1,5 response 3:24 27:4,12,16,23 29:12,15 30:8
+27:6,9,10 28:1 4:14 27:25 28:13 31:2,11 40:23
+15:8,16 29:2,4,7,7 45:7 21:1,4 42:17 34:14,16,20,24 47:14,25 48:9
+20:25 54:23 55:8,12 42:25 56:1 35:4,18 41:10 48:12 50:10,12
+29:7 regulations 3:23 results 9:3 18:3 43:7 46:4 school 1:3 3:4
+32:24 4:4,8,9,14 5:21 33:16 47:12 49:11 3:18 10:23
+45:14,18 5:23,25 6:20 retain 7:4,10 50:11 52:8 13:20 14:16,18
+6:24 25:7 18:25 45:19 53:13 54:2,15 15:22 16:7,8
+54:19 rein 47:5 38:23 41:5 2:3,12 3:7 18:6 21:6,21
+25:25 42:22 37:1,10,12,15 2:6 45:6 46:12,16
+32:5 sensible 28:7 37:22 38:4,12 standard 3:15 48:1,2,3,4
+serve 17:10 38:18 39:2,9 30:4 50:24 52:4,5,6
+34:1,22 served 30:14 39:13,16,24 standards 9:15 55:19 56:2
+35:3,7 31:9 40:12,16 41:19 starting 54:8 statutes 4:1
+41:8 serves 33:22 48:24 state 1:22 2:10 statutory 5:12
+56:3,4,4 set 9:14,16 speak 32:10 9:24 10:19 9:5 23:21 27:3
+10:15,21 12:9 speaks 14:3 11:21 12:2,4 34:4 35:14
+setting 19:19 17:17 35:2,10 18:3,3,7,7,11 41:19,21,22
+29:21 significant 8:17 28:10 29:1 19:3 20:6 21:8 Stevens 18:13
+52:16 spectrum 19:12 22:22 25:24 18:19,21 19:7
+4:1,15,22 7:18 spend 32:6,7 33:11,16,19,22 42:2,11,19
+6:5,10 similar 9:25 49:17 34:2,7,11,13 stipulate 36:16
+7:12 14:22 55:2 spends 10:23 34:22,24 36:6 stop 4:22
+8:1 simple 11:8 split 34:9 36:9,11 37:9 stretch 20:25
+15:9 18:9 simply 11:19 squared 27:2 37:20 38:3 23:11,13,17
+28:11 17:18 35:23 squeak 22:20 40:20,22 41:9 strictly 16:23
+35:5,24 40:9 51:12 SRI 1:18 2:6 45:24 46:7 student 31:24
+sisters 17:22 23:6 48:7,20 53:4,5 49:10 51:15
+situation 20:9 Srinivasan 1:18 53:7 54:3,6,9 students 13:1
+36:9 42:14 23:5,6,8,10,12 54:12,13 56:1 15:13 16:16
+size 18:6 23:16,19 24:5 56:10 17:20 19:21,23
+56:10 sliding 42:14 24:20,24 25:11 states 1:1,13 20:2,8,14
+7:3,4 small 14:24 15:1 26:18,23 27:7 18:1 21:6,17 32:25 35:7
+16:3,6 15:12 17:12 27:15,17,24 22:15 35:2 41:2 44:19
+23:20 18:4 35:3 28:5,15,21 State's 19:2 52:19,19,22
+52:20 29:12,14 30:2 stating 4:4 54:8,9
+26:16 smaller 34:1 30:9 31:7,16 statistical 3:15 subject 13:3
+45:12 smallest 34:21 31:25 32:19 19:15,22 51:24 submit 55:5
+34:21 33:5 34:15,18 statistician 11:9 submitted 56:20
+Solicitor 1:18 35:23 36:15,25 6:23 8:15 9:19 subsection 12:5
+22:14 50:23 38:1,8,17,21 12:10,20,22 subsequently
+49:11 sorry 11:24 39:8,14,19 13:24 14:15 55:21
+12:12 42:1 40:6,14,18 15:21 17:24 substance 5:17
+source 54:11 50:18 41:10,25 42:4 55:16
+36:2 Souter 36:15 SRINIVISAN 43:10,12 45:3 suggests 24:22
+49:21 38:14 39:6,17 thought 4:19 35:12 39:8 usual 8:11
+37:12 46:17 47:1,2,3 17:1,5 29:3 47:10 50:21 V
+47:3,5 32:2 43:7 two-part 48:4 v 1:6
+37:3 text 7:7,17 27:3 32:15 52:21 typically 52:3 50:22
+41:4 27:3,18 28:23 thousands 10:6 values 9:19
+45:4 29:13 35:14 three 21:16,17 U 12:22 49:6
+54:2 36:19,24 37:2 46:16 52:18 ultimately 44:6 Van 1:16 2:3,12
+54:15,16 51:14 unaware 15:8 10:3,11,14,17
+15:10 10:17 16:15,15 told 29:5 41:11 44:23 14:13,22 15:17
+21:3 16:18,19 28:7 47:7 understanding 16:21 17:9,23
+22:15,22 28:19 47:17 top 13:7 14:17 12:13 14:2 18:8,18,20
+28:3,5 things 10:16 16:2,8 18:4 18:14 55:16 19:14,24 20:18
+31:14 13:5,6,11 21:2 20:11 27:19 understands 21:7 22:17
+32:4 39:24 47:8 44:4,19 52:18 36:10 54:17,19,21
+35:20 52:14,20 53:22 total 10:18 54:7 understood 28:2 55:25 56:7,17
+40:8,9 think 5:5,6 8:1,7 totality 41:1 unexpressed variable 9:15,19
+41:7,21 9:11,11 11:6,7 totally 8:25 9:1 43:10 12:22
+42:25 13:17 14:10 9:3 unfortunately variation 21:5
+15:1,3 16:3,21 touched 36:19 11:9 13:3 vary 53:3
+52:7 18:1 19:8 20:4 traditional uniform 53:2 verge 42:17
+56:11 22:12 23:12,23 17:13 uniformity 18:7 versus 55:1
+25:4,11 27:2,7 trouble 12:13 uniformly 50:9 13:13 16:23
+40:3 33:12 34:11 38:21 units 9:13 13:19 views 11:17
+40:6 42:9,12 20:16,20 21:18 urban 17:11 virtually 46:14
+46:11 47:21 two 14:19 18:15 25:14,15 29:16
+25:14,14
+51:7,10 work 16:25 1,000 17:16 30 27:19,20 35:15 36:1
+29:11 21:16 50:2 44:19 50:4 40:19 41:20
+53:23 55:9 53:11 55:17 4 45:15,23 48:7
+world 31:19 100 17:15 52:19 46 2:10 96 8:1
+worried 26:2 11 22:3 5
+wouldn't 14:20 14 22:11 38:20 44:22
+15:7 23:14 28:19 16 53:7 50:3 53:1,2
+18:5 46:1 52:9 20:13 47:1 11:20 31:18
+32:25 53:18 18-year 46:13 35:15 36:1
+40:12 write 10:24 19 19:17 37:8,19 38:2
+42:8 written 55:19 1974 4:15 38:24 39:12
+53:19 wrong 51:21 1976 6:1 8:17 40:19 41:20
+12:25 18:9 43:23 45:15
+XY 56:5 4:16 21:14 50th 34:4,5,6,10
+54:24 Y 46:19 545-page 5:1
+38:25 year 29:22 52:23 2 59th 37:7,19
+55:20 2 36:19 38:24
+7113 56:9
+Z 20 15:13 19:16 76 7:7
+26:2 29:2
+48:19
+50:23
+89 1:4 22:10
+05-1508 1:6 3:4 22:9 94 5:19 8:1
+12:8 1 3
+5:15 9:6,7
+51:3 52:1 1 29:20 3 2:4
+31:18
+34:9

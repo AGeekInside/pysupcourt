@@ -1,0 +1,1634 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+BARION PERRY, :
+Petitioner : No. 10-8974
+v. :
+NEW HAMPSHIRE. :
+- - - - - - - - - - - - - - - - - x
+Washington, D.C.
+Wednesday, November 2, 2011
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 10:02 a.m.
+APPEARANCES:
+RICHARD GUERRIERO, ESQ., Concord, New Hampshire; for
+Petitioner.
+MICHAEL A. DELANEY, ESQ., Attorney General, Concord, New
+Hampshire; for Respondent.
+NICOLE A. SAHARSKY, ESQ., Assistant to the Solicitor
+General, Department of Justice, Washington, D.C.; for
+the United States, as amicus curiae, supporting
+Respondent.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+RICHARD GUERRIERO, ESQ.
+On behalf of the Petitioner 3
+ORAL ARGUMENT OF
+MICHAEL A. DELANEY, ESQ.
+On behalf of the Respondent 28
+ORAL ARGUMENT OF
+NICOLE A. SAHARSKY, ESQ.
+On behalf of the United States,
+as amicus curiae, supporting the Respondent 41
+REBUTTAL ARGUMENT OF
+RICHARD GUERRIERO, ESQ.
+On behalf of the Petitioner 52
+P R O C E E D I N G S
+(10:02 a.m.)
+CHIEF JUSTICE ROBERTS: We'll hear argument
+first today in Case 10-8974, Perry v. New Hampshire.
+Mr. Guerriero.
+ORAL ARGUMENT OF RICHARD GUERRIERO
+ON BEHALF OF THE PETITIONER
+MR. GUERRIERO: Mr. Chief Justice, and may
+it please the Court:
+An eyewitness identification made under a
+suggestive influence presents a unique danger of
+misidentification and a miscarriage of justice. It is
+that danger of misidentification which implicates due
+process and requires an evaluation of the reliability of
+the identification. The constitutional --
+JUSTICE SOTOMAYOR: Counselor, does your
+position depend on police involvement at all?
+MR. GUERRIERO: No, Your Honor.
+JUSTICE SOTOMAYOR: I'm -- if a private
+investigator shows a picture or -- that has no
+connection to the police, a company's investigator --
+MR. GUERRIERO: What I would suggest is
+that --
+JUSTICE SOTOMAYOR: -- or the news media
+publishes a picture of someone that it thinks --
+MR. GUERRIERO: I have a two-part answer to
+that. The -- the significance of the suggestive
+influence is how it affects reliability. Most of the
+time that influence, the defense will allege, is from
+some police activity and rightly so because they're
+mostly involved and rightly so because police suspicion
+is the kind of influence that would direct the witness's
+attention and say that's the man.
+But it's not necessarily required, and in
+fact in -- one of the Federal court of appeal cases,
+Dunnigan v. Keane, involved exactly that, a private
+investigator, where a private investigator from a bank
+showed surveillance photos to the witness and then later
+the witnesses made an ID. I mean --
+JUSTICE SCALIA: Mr. Guerriero, if it's
+not -- if it's not limited to suggestive circumstances
+created by the police, why is unreliable eyewitness
+identification any different from unreliable anything
+else? So, shouldn't we look at every instance of
+evidence introduced in criminal cases to see if it was
+reliable or not?
+MR. GUERRIERO: No, Your Honor. I suggest
+that eyewitness identification evidence is unique, and I
+think that this Court recognized that in Wade and in the
+subsequent cases, in fact described it at that time as
+probably the leading cause of miscarriages of justice.
+And in fact experience with the DNA exonerations that
+we've seen recently in the last 10 or 15 years have
+shown that.
+JUSTICE GINSBURG: So, at least for all
+eyewitness testimony, there would have to be some
+pretesting for reliability; is that -- is that your
+contention?
+MR. GUERRIERO: No, Your Honor, and I don't
+think that's exactly what the Court said in Wade and the
+subsequent cases. It's the combination of eyewitness
+identification testimony plus the suggestive influence
+which makes -- which brings it to sort of the height of
+suspicion and creates the greatest risk.
+JUSTICE GINSBURG: And in this case, in
+which category do you place the eyewitness testimony?
+Is it police suggestion, or is it suggestive but not
+through any manipulation on the police's part?
+MR. GUERRIERO: In our case, we do not
+allege any manipulation or intentional orchestration by
+the police. But our position is that it appeared to the
+witness, to Ms. Blandon, that Mr. Perry was in fact a
+suspect, and she looked down, and there was that
+suspicion.
+Now, if we would have been able to have our
+due process claim heard, the judge may or may not have
+agreed that that was suggestive and created a risk.
+But --
+JUSTICE SCALIA: Do you think that our cases
+which exclude or -- or require reversal when there's
+eyewitness testimony impaired by the police -- you think
+that's really limited to eyewitness testimony? Suppose
+the police created suggestiveness in another category of
+evidence. Let's say -- let's say voice evidence, that
+the killer had left a message on the -- on the phone.
+And the police in some manner create suggestiveness that
+causes a witness to identify that as the voice of the
+killer. You really think that we would say, well, this
+is not eyewitness testimony; eyewitness testimony
+creates a special risk? Don't you think that we would
+say, whenever the police render evidence unreliable, it
+-- it should be excluded?
+MR. GUERRIERO: I think that may be a
+separate due process claim. For example, if the
+police --
+JUSTICE SCALIA: Exactly. But that -- that
+impairs your argument, because if we accept your
+argument for eyewitness, we should similarly accept it
+for everything else. There's nothing special about
+eyewitness.
+MR. GUERRIERO: I -- I disagree, Your Honor.
+I think that what the Court has said is that there is
+something special about eyewitness identification
+testimony.
+JUSTICE SCALIA: No, I'm saying we don't
+mean it.
+(Laughter.)
+MR. GUERRIERO: Well --
+JUSTICE SCALIA: I'm saying that it's
+unbelievable that if the -- if the police created
+testimony, not eyewitness testimony, but testimony that
+was unreliable because of police suggestiveness, I think
+we would throw that out as well. Don't you think so?
+MR. GUERRIERO: I -- well, I think that in
+any case -- and I think the Court has said this in other
+circumstances, that in any case a defendant could raise
+a due process claim and say, either because of the way
+the prosecution handled the evidence or because of the
+-- the combination of rulings on evidence, that there
+was a due process violation that implicated fundamental
+fairness.
+JUSTICE KENNEDY: In this case, suppose that
+the police talked to this -- to the lady that was in the
+-- in the apartment and saw the thing out the window and
+said: We -- we think we've solved this case, but you
+can't look at this man. We don't want to you look at
+this man. Don't tell us. We're not going to let you
+look out that window.
+It seems to me that the defendant might have
+a due process argument that the police interfered, that
+she couldn't say, right when he was there, that's not
+the man. I don't know what you want the police to do in
+this case. It seems to me it would have been (a)
+risking this argument from the defendant and (b)
+improper police conduct not to ask the woman, is this
+the man?
+MR. GUERRIERO: I disagree, Your Honor. If
+the police wanted to ask her to make an identification,
+they could have done a line-up procedure or a photo
+line-up procedure fairly promptly that would be distinct
+from and much more fair than the show-up at the scene.
+And there was no emergency or exigency here that would
+require a show-up.
+JUSTICE SCALIA: What about -- what about
+unreliable eyewitness testimony in favor of the
+defendant? Let's assume the same suggestiveness that
+causes you to exclude it when it's been introduced by
+the prosecution, but here it's being introduced by the
+defendant to show that it was somebody else, okay? Is
+that going to be excluded?
+MR. GUERRIERO: It may be excluded under the
+rules of evidence, but the Due Process Clause doesn't --
+JUSTICE SCALIA: Do you think it should be
+excluded under the rules of evidence? If you say it's
+so unreliable -- this is a one-way door?
+MR. GUERRIERO: The Due Process Clause --
+JUSTICE SCALIA: All of the evidence that --
+that causes the defendant to be convicted is excluded,
+but -- but any -- any evidence -- any evidence on the
+other side is not?
+MR. GUERRIERO: Well, the defendant is
+obviously not trying to deprive the State of its liberty
+in the same way that the State is trying to deprive the
+defendant of his liberty at trial. So, the Due Process
+Clause would not apply in that sense. That's not to say
+that there wouldn't be evidentiary grounds for the State
+to raise that objection.
+JUSTICE SCALIA: No, but you see, when --
+when it's the State that causes the unreliability, I can
+see why it is a -- a ground that can be invoked only by
+the defendant. But when you come up with a theory that
+it doesn't matter whether the State was the cause or
+not, I don't know why it wouldn't work both ways, that
+the evidence is inherently unreliable, and it ought to
+be excluded whether it helps the defendant or hurts the
+defendant.
+MR. GUERRIERO: It --
+JUSTICE SCALIA: Once you take the State out
+of the mix, there's no reason to limit it to the -- to
+the defendant.
+JUSTICE GINSBURG: You -- you answered that
+due process works only in favor of the defendant.
+MR. GUERRIERO: That's right.
+JUSTICE GINSBURG: Not in favor of the
+State.
+MR. GUERRIERO: That's right.
+JUSTICE GINSBURG: And that is your only --
+your only distinction. You are saying this is a one --
+one-way --
+MR. GUERRIERO: That's right, Justice
+Ginsburg.
+JUSTICE GINSBURG: -- street.
+JUSTICE SCALIA: Well --
+JUSTICE ALITO: I take it from your -- I
+take it from your answers that simple unreliability is
+not enough. If there's testimony --
+MR. GUERRIERO: That's right.
+JUSTICE ALITO: -- eyewitness testimony that
+seems of very dubious unreliability, that cannot be
+excluded.
+MR. GUERRIERO: That's right. I --
+JUSTICE ALITO: At least not on that ground.
+MR. GUERRIERO: That's right, and I might
+even go further.
+JUSTICE ALITO: Something more is needed;
+suggestiveness is needed.
+MR. GUERRIERO: That's right.
+JUSTICE ALITO: But suggestiveness doesn't
+require any police involvement? Is that right?
+MR. GUERRIERO: That's right. And --
+JUSTICE ALITO: Can you just define what you
+mean by "suggestiveness"?
+MR. GUERRIERO: Well, I think the Court has
+given examples. If it's effectively a show-up or a
+show-up -- the example in Foster involved a couple of
+different kinds of suggestiveness. One was where the
+police did a line-up where the defendant was the only
+common person.
+JUSTICE ALITO: Yes, but those are all
+situations where the police is involved -- the police
+are involved.
+MR. GUERRIERO: Right. The nonpolice
+examples of suggestiveness that rise to the due process
+level are mostly going to be show-ups. The example in
+Dunnigan v. Keane was a private investigator showing --
+from the bank. They had an ATM card that was stolen
+from the person, and he --
+JUSTICE ALITO: Well, what if you have
+cross-racial identification? Would that qualify on the
+ground that studies have shown that those may be less
+reliable?
+MR. GUERRIERO: That may be a separate
+ground to move for a jury instruction or for an expert.
+I'm not sure that -- we certainly don't argue here and
+it wasn't argued below that that's a separate due
+process ground.
+JUSTICE SCALIA: Why not? I mean, that's
+the point. Why not? What about an eyewitness
+identification from 200 yards? You know, normally you'd
+leave it to the jury, and the jury would say that's very
+unlikely. But you want to say it's -- it has to be
+excluded, and if it's not, you retry the person. What
+is magic about suggestiveness as opposed to all of the
+other matters that could cause eyewitness identification
+to be wrong?
+MR. GUERRIERO: Well, two answers to that,
+Your Honor. First, it's not that these things are --
+are always excluded, and in fact the Court has set a
+very high bar. I mean, the standard is this evidence is
+excluded only if it's very substantially likely to lead
+to a misidentification. So --
+JUSTICE ALITO: I understand that, but I
+need to know what you mean by "suggestiveness." What
+does that mean? Can you just give me a definition of
+it?
+MR. GUERRIERO: It is conduct or
+circumstances that point -- that tell the witness that's
+the man. And, most commonly, it would be showing a
+single photograph or presenting the person as a suspect
+or it appearing, as in this case, that the -- the
+defendant was a suspect. And that's essentially how the
+Court has defined it, as conduct that says that's the
+man.
+So, there may be some things that the
+defense argues that are suggestive, and the trial court
+looks at it and says, you know, that's a very slight
+suggestion. You say he is the only guy in the line-up
+with a mustache. I don't even -- I'm not going any
+further. I don't think that's sufficient suggestion.
+That doesn't qualify as saying that's the man.
+JUSTICE KAGAN: But just to repeat Justice
+Scalia's question, once you're not talking about police
+suggestiveness, once you're talking about suggestiveness
+that arises from non-State conduct, why should we be
+focused on suggestiveness as opposed to any other cause
+of unreliability?
+MR. GUERRIERO: Well, because that's what --
+my first reason is that that's what the Court focused on
+in Wade as -- as the main danger.
+JUSTICE KAGAN: Well, the Court was focusing
+on police suggestiveness. That's the context of all our
+cases. Now, you might say, well, look, there's a bigger
+problem, and the bigger problem is the unreliability of
+identifications generally, but that doesn't relate to
+suggestiveness per se.
+MR. GUERRIERO: Well, I think our position
+is in between there. We're not saying that there's a
+due process right to have eyewitness evidence excluded
+generally without some suggestiveness. What we are
+saying is that if the suggestion comes from a nonpolice
+source or if it, as in this case, involved the police
+but their involvement was unintentional, it's just
+accidental, that that suggestiveness should still be
+considered because --
+JUSTICE BREYER: What does that mean?
+JUSTICE GINSBURG: Do you distinguish the --
+do you distinguish the husband's situation? He was an
+eyewitness too, but there was a motion to suppress her
+testimony. Is that an example where there's an
+eyewitness testimony but no suggestiveness? Why didn't
+you move to suppress the husband's statement?
+MR. GUERRIERO: Trial counsel simply did not
+move to suppress that testimony. I don't have a good
+explanation, and, to be frank, I would have filed the
+motion to suppress his testimony as well.
+JUSTICE GINSBURG: So, you'd put them both
+in the same category?
+MR. GUERRIERO: I would have.
+CHIEF JUSTICE ROBERTS: Why isn't it -- this
+may be -- just, again, following up on Justice Alito's
+question, but there's always a degree of suggestiveness.
+It's not like the person is, you know, picked randomly
+off the street and saying, you know, do you know this
+person? It's in the context of an investigation. The
+person has some contact with it. So, there's always
+some suggestiveness that, well, this person might have
+something to do with what went on.
+MR. GUERRIERO: That's right. And if there
+-- if it rises to the level of what the Court has given
+as examples of a show-up or the same defendant appearing
+in a line-up or something else that says that's the man,
+then that raises a red flag. And it's not a --
+CHIEF JUSTICE ROBERTS: But whenever --
+whenever the witness is asked, at least there's a
+suggestion that this might be the man. And I don't know
+why you would think that's any greater than this is the
+man. The police don't come up usually and say, this is
+the person that we think did it; is that who you saw?
+They say, did you see this guy?
+MR. GUERRIERO: Actually, I disagree with
+that aspect of your question, Your Honor. And in fact I
+think the proper police procedure in certainly the
+police departments that I'm familiar with will instruct
+the witness that -- do not assume that anyone that we
+think is a suspect is in this line-up. And that's in
+the standard witness instructions, and they may even do
+multiple line-ups where they say, okay, we're going to
+show you three sets of eight, and the suspect -- or
+there may or may not be a suspect in any of them. We
+just want you to look at this set and see if anyone --
+CHIEF JUSTICE ROBERTS: Well, what about a
+situation like the one we had here, where you're not
+talking about a line-up?
+MR. GUERRIERO: That's right.
+CHIEF JUSTICE ROBERTS: But you're talking
+about the scene of a crime, and the police says, do you
+know this person, did you see this person, or anything
+else? That in itself, any type of identification in the
+course of an investigation, I think you would have to
+say is suggestive, because the person is not picked up
+randomly.
+MR. GUERRIERO: It is, but the key is that
+it's not the suggestion that results in exclusion. It's
+the suggestion that raises the red flag that allows the
+defendant to say, would the trial court please evaluate
+this according to the standards?
+CHIEF JUSTICE ROBERTS: So, this is --
+again, this is just following up, I guess. But I
+remember in law school one of the things in criminal
+law, the professor says, all right, everybody be quiet.
+And then a certain amount of time goes by, and then he
+starts asking people, well, how much time went by? And
+people -- some people say 4 minutes, some people say,
+you know, 1 minute. And it turns out, if I'm
+remembering correctly, to be a lot shorter than most
+people think.
+So, that's at least, the point was trying to
+be made anyway, at least as unreliable as eyewitness
+testimony. So, your argument would have to cover that,
+wouldn't it?
+MR. GUERRIERO: I --
+CHIEF JUSTICE ROBERTS: You know, how long
+were you there before this individual came into the
+shop? The person says, I was there for 5 minutes. And
+that ruins the person's alibi, when it turns out, you
+know, study after study would say, you know, it really
+was 45 seconds or 1 minute.
+MR. GUERRIERO: I think it's important to
+look back at what the Court said in Wade and in fact how
+what the Court said in Wade has been borne out. Of
+course, there's aspects of unreliability to any kind of
+evidence. Somebody could come and claim that there's
+issues with false confessions or issues with forensic
+evidence. I think last term somebody made a claim --
+tried to assert a claim regarding DNA evidence that was
+akin to an eyewitness identification claim.
+But the point is that this kind of evidence
+was singled out by the Court and recognized as having
+particular dangers, and it's been borne out by the
+studies, not psychological --
+JUSTICE KENNEDY: But, again, that was in
+the context of procedures that the police had
+instituted.
+MR. GUERRIERO: It may be that --
+JUSTICE KENNEDY: And your -- and your
+rationale goes much beyond it. In a way, you're
+infringing on the province of the jury. I don't usually
+like to reminisce, but there was a case I had where a
+prosecution witness was very, very certain, all too
+certain. And I said: Do you ever take your wife out to
+dinner or go out to dinner with friends? And he said:
+Oh, yes. I said: Has it ever happened to you that
+midway in the meal you say, is that our waiter? And
+you've seen -- the waiter has brought you the menu, he
+has taken your order, he has brought your food, and you
+were under no stress at the time.
+(Laughter.)
+MR. GUERRIERO: Right.
+JUSTICE KENNEDY: And there was good light.
+So, you teach the jury this way. And you're
+just -- you're just usurping the province of the jury,
+it seems.
+MR. GUERRIERO: I don't think so, Your
+Honor. I mean, we're -- what -- I think what this Court
+has said is that this is a special category of evidence
+that has to be red-flagged by or can be red-flagged by
+the defense for the trial judge to look at it and say --
+JUSTICE BREYER: What is --
+MR. GUERRIERO: -- on a case by -- I'm
+sorry.
+JUSTICE BREYER: Go ahead. You were saying
+on a case that all you want to do is red-flag it for the
+judge.
+MR. GUERRIERO: And then the trial judge
+would look at it and in the rare case where he says it's
+very substantially likely, which we agree is a high
+standard --
+JUSTICE BREYER: All right. Now, how does
+that differ from what exists in I think every State and
+certainly in the Federal Rules in Rule 403? The judge
+may exclude evidence if its relevance is outweighed by
+its prejudice or misleading the jury. So, why, in any
+instance where you think that this statement about to
+come in is unreliable for various reasons, you say:
+Judge, will you please look please look at Rule 403? I
+have some experts over here and whatever else you want
+that would show that this is misleading to the jury.
+For all the reasons you have said in your brief, right?
+All right. So -- so, since that is already
+the law and it does apply to every piece of evidence,
+including all the things we've been talking about, what
+is it that you want to change?
+MR. GUERRIERO: Well, to answer the first
+part of your question, what's different about this
+evidence is that --
+JUSTICE BREYER: I didn't say what's
+different about it. I'm not looking for a difference.
+I'm looking -- I'm saying they're all the same. And,
+indeed, we do what you want right now. It's called Rule
+403 in the Federal system. What I'm asking you is what
+is it you want done, since all you want is the judge to
+look at it carefully, that is not done at this moment?
+MR. GUERRIERO: The analysis under 403,
+which New Hampshire of course has as well, will accord a
+certain weight and value to the opportunity of counsel
+to cross-examine the witness and to make arguments to
+the jury. And unlike any other kind of evidence, this
+Court has said, precious though it is, the right of
+cross-examination does not always --
+JUSTICE BREYER: No, but, judges don't, I'm
+sure -- I'm not 100 percent sure; you'd have to ask a
+trial judge. But I am sure there are instances where
+judges say under Rule 403: I conclude it is misleading
+and it is prejudicial and it can't be made up for;
+therefore, I exclude it.
+All right? That happens. Now, since that's
+what you want the judge to do, I repeat my question:
+What is the difference between what you're asking for
+and what already exists in the law?
+MR. GUERRIERO: The --
+JUSTICE BREYER: Unless -- well, go ahead.
+MR. GUERRIERO: I'm sorry.
+The difference is that under a normal 403
+analysis, when I told the judge, when I said she never
+could describe his face, she couldn't even say what
+clothes he was wearing, the judge will respond to me and
+say, that's fine; that's all great fodder for
+cross-examination. But the difference with this kind of
+evidence is that it's not just ---
+JUSTICE BREYER: Whoa, wait. Let me stop
+you there, because now what you seem to be saying is it
+isn't the case that you simply want the judge to look at
+this with care; rather, you want the judge to change her
+result. You want sometimes this to be excluded where
+under 403 it is sometimes not excluded. All right.
+Now, I asked, if that's what you want, that's a
+different matter. That's a substantive standard. And
+so, you're proposing a different substantive standard,
+and I want to know what it is.
+MR. GUERRIERO: It's -- it's the standard
+that this Court has established: If it's reasonably --
+reasonably likely or substantially likely to lead to a
+risk of misidentification at trial. Very substantially
+likely.
+JUSTICE ALITO: But that would be really a
+great change from the way trials are now conducted,
+wouldn't it? Let me give you this example: A victim is
+raped, and the victim doesn't really have a very good
+opportunity to see the perpetrator. It's dark, the
+person has a mask and so forth. A couple of weeks go
+by, and the victim reads on article in the paper that
+says so-and-so has been arrested for a rape in another
+part of the city. There's a picture of that person in
+the paper. And the victim says that's the person who --
+who raped me.
+Now, you want to make it possible for the
+judge to say to the -- that victim may not testify and
+identify the person -- that that person -- that the
+victim says was the perpetrator of the rape, on the
+ground that the newspaper picture was suggestive, even
+though there wasn't any police involvement, and when you
+look at all the circumstances, the identification is
+unreliable.
+Now, maybe that's a good system, but that is
+a drastic change, is it not, from the way criminal
+trials are now conducted?
+MR. GUERRIERO: Well, it's certainly not the
+change from what the law is in the Federal circuits that
+we cited. And I would also point out that in one of
+the --
+JUSTICE ALITO: Do you know of cases like
+that in which the judge has said that eyewitness
+identification cannot come in?
+MR. GUERRIERO: In Thigpen v. Cory, which is
+a Sixth Circuit case, the court said -- in fact, they
+specifically used the phrase "police machinations" --
+that this did not arise from police machinations. It
+was basically happenstance in that case that the witness
+was -- the witness identified the defendant, and that
+was excluded as unreliable.
+JUSTICE KENNEDY: But we've said in our
+case, Neil v. Biggers -- that was a rape case, and we
+allowed it. We allowed the eyewitness.
+MR. GUERRIERO: Well -- and I think the
+Court said in all its cases, and in particular in
+Simmons, that each case --
+JUSTICE KENNEDY: And, in fact, we said that
+it was unnecessarily suggestive but that it was still
+reliable.
+MR. GUERRIERO: And it may be. I mean, it
+may -- you could have an extremely -- you could have a
+-- the police could do a show-up intending to produce an
+ID, but if the witness got a very good look at the
+person, was calm, was maybe a police officer like in
+Brathwaite, and the court said, we don't care how
+deliberate this -- and even if there's manipulation, we
+don't care how much of that there is, we find it's
+reliable here.
+JUSTICE KAGAN: Suppose that there were some
+other category of testimony which proved even more
+unreliable than the category that you're talking about.
+Let's say that it turned out, study after study after
+study, that jailhouse informants lie. And so, the
+testimony of jailhouse informants is likely to be just
+completely unreliable, to, you know, double as much as
+eyewitness testimony. Same rule for that?
+MR. GUERRIERO: I think it would be a very
+high burden for the defense to meet there, but if the
+finding was that there are times that a witness, that --
+like in the eyewitness situation, where the witness
+truly believes that they're identifying the right
+person, but they are actually not and it could result in
+a miscarriage of justice, then I do believe fundamental
+fairness requires the Court to say due process doesn't
+allow that evidence.
+JUSTICE KAGAN: Okay. Well, now we're
+talking about -- now we are setting up a standard that
+applies outside eyewitness testimony. It's just
+testimony that we find to be -- categories of testimony
+that we find to be extremely unreliable will be subject
+to this new due process red flag. Is that right?
+MR. GUERRIERO: Well, I don't think so, Your
+Honor, but more for a factual reason in that the Court
+said in 1967 that this is the leading cause of
+miscarriage of justice. The studies and -- not just
+studies, but the transcripts and records of actual
+trials.
+JUSTICE KAGAN: No, I understand you have
+very good empirical evidence which should lead us all to
+wonder about the reliability of eyewitness testimony.
+I'm just suggesting that eyewitness testimony is not the
+only kind of testimony which people can do studies on
+and find that it's more unreliable than you would think.
+MR. GUERRIERO: Well, it may -- if somebody
+else came along and said we've done a study and we find
+this kind of evidence, that in 75 percent of the
+wrongful convictions, this evidence contributed to the
+miscarriage of justice, then I would think the Court
+should take a look at that. But I don't think any other
+evidence matches that.
+JUSTICE GINSBURG: What about all the -- all
+the other safeguards that you have? I mean, you can ask
+the judge to tell the jury be careful; eyewitness
+testimony is often unreliable. You can point that out
+in cross-examination --
+MR. GUERRIERO: Yes.
+JUSTICE GINSBURG: -- ask all those
+questions. You can say something about it in your
+summation to the jury. And, as Justice Breyer brought
+up, you have the evidence rule that says if the
+prejudicial value outweighs probative value, that the
+judge can say, I'm not going to let it in.
+Why aren't all those safeguards enough?
+MR. GUERRIERO: If all of those safeguards
+were enough, even when the police made --
+JUSTICE GINSBURG: Well, leaving aside the
+police --
+MR. GUERRIERO: Okay.
+JUSTICE GINSBURG: -- because, there,
+there's an interest in deterrence, in deterring the
+police from manipulating evidence.
+MR. GUERRIERO: I don't think deterrence is
+the primary basis of the Court's cases, Your Honor,
+because the Court has said that if it proves to be
+reliable, no matter how manipulative the police were,
+this evidence comes in. So, the basis of the rule is
+not primarily deterrence; it's the risk of an unfair
+trial and the risk of a miscarriage of justice.
+JUSTICE GINSBURG: It is a difference
+between --
+JUSTICE KENNEDY: Well, it seems to me --
+JUSTICE GINSBURG: -- suggestive and
+suggested by the police.
+MR. GUERRIERO: I'm sorry, Your Honor, I --
+JUSTICE GINSBURG: The -- if the suggestion
+comes from the police, then the evidence will be
+excluded. If the suggestion comes from some place else,
+unless we change the rules --
+MR. GUERRIERO: Well, I think that that's
+a --
+JUSTICE GINSBURG: -- it would be admitted.
+MR. GUERRIERO: I mean, I think that that's
+a -- that's a tricky issue to consider, because
+suggestion coming from the police is different from
+manipulation. And if -- if the rule is unintended
+suggestion from the police implicates due process, then
+Perry was entitled to a due process analysis, because
+the unintended suggestion here was apparent police
+suspicion as he stood there.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+MR. GUERRIERO: Thank you.
+CHIEF JUSTICE ROBERTS: General Delaney.
+ORAL ARGUMENT OF MICHAEL A. DELANEY
+ON BEHALF OF THE RESPONDENT
+MR. DELANEY: Mr. Chief Justice, and may it
+please the Court:
+An eyewitness identification implicates due
+process concerns only when the police arrange a
+confrontation to elicit a witness's identification of a
+suspect and use unnecessarily suggestive techniques that
+skew the fact-finding process. The central concern --
+JUSTICE SOTOMAYOR: Now we've changed the
+language of Wade when it talks about intentional or
+unintentional. And you're suggesting that police
+manipulation always has to be intentionally suggestive?
+MR. DELANEY: I'm not --
+JUSTICE SOTOMAYOR: Even if the policeman
+tells you he wasn't really thinking or focusing on a
+distinguishing characteristic in the line-up?
+MR. DELANEY: That may play a role, Justice
+Sotomayor, but only in a limited sense, and not in the
+way the Petitioner is suggesting we look at
+unintentional conduct. First, for the due process
+inquiry to trigger, there must be an arranged
+confrontation of a suspect and a witness by the police.
+JUSTICE SOTOMAYOR: Could you tell me what
+you think would have happened here? There was a reason
+the police asked this defendant to stay put. They
+didn't want him to leave the scene, correct?
+MR. DELANEY: That -- that's correct.
+JUSTICE SOTOMAYOR: In your judgment -- I
+think Justice Kennedy hit the nail on the head. My
+suspicion is that at some point they would have asked
+the witnesses in the building and engaged in a show-up.
+What's so different between intentionally doing the
+show-up and holding the defendant in the back yard
+standing there next to a police officer, so that anyone
+who wants to -- like this woman, who wants to find the
+guy, can just point to that one? What's the difference?
+MR. DELANEY: The difference in this case is
+the role that the police played in bringing about
+potential suggestion under your hypothetical. What the
+Due Process Clause is concerned about is the role of the
+police in essentially stacking the deck, putting their
+thumb on the scale and skewing the fact-finding process.
+It goes to the integrity of the process --
+JUSTICE SOTOMAYOR: No. I mean, the way not
+to skew it was to put him in the police car and just let
+him sit there in the dark. So, they intentionally made
+him wait at the scene of the crime.
+I'm not talking about whether this was
+necessary or unnecessary, because I think that a
+perfectly good argument could be made that the police
+acted reasonably and necessarily. All right? It makes
+no sense to move a defendant that far from the scene of
+a crime if you're not sure he's the one who committed
+the crime, he or she.
+But I'm going to the question of how do we
+define, if we write this opinion, manipulation without
+getting into a mens rea type analysis and adding yet
+another layer to Biggers?
+MR. DELANEY: Well, first, I don't think you
+need to go there in this case. You can simply say that,
+based on the factual findings of the State court, the
+police did not induce any type of show-up --
+JUSTICE SCALIA: But that's not -- we face
+that problem anyway, even if we -- whether or not we
+decide in this case that it doesn't matter that the
+police manipulated it, we're always going to have the
+problem of when has there been police manipulation;
+right?
+MR. DELANEY: That's correct.
+JUSTICE SCALIA: I mean, that -- that's not
+a creation of this -- of this case.
+MR. DELANEY: That's correct.
+JUSTICE SCALIA: And I -- I would guess that
+in the case you're talking about, just telling the
+person to stay where he is, is not -- now, it would be
+different if -- if the defendant was -- was caught two
+blocks away and the police bring him back to the scene
+of the crime and make him stand there so that the woman
+can see him from the window. That's quite different.
+MR. DELANEY: It is quite different. And
+Stovall tells us that the test is an objective one. We
+look at the totality of the circumstances to determine
+whether there has been suggestive conduct.
+Now, in that regard --
+CHIEF JUSTICE ROBERTS: When you say
+that's -- when you say that's different, you're not --
+you're not suggesting that that would be suggestive, are
+you?
+MR. DELANEY: No, I'm not.
+CHIEF JUSTICE ROBERTS: Because presumably,
+that's the same argument -- that's for the jury and the
+counsel. They can say during cross-examination the guy
+was two blocks away, you know, and wasn't it only
+because the police brought him back that you -- you
+know, all of that. I don't see what difference it makes
+in terms of whether you have a suppression hearing
+before the trial.
+MR. DELANEY: That's correct, Mr. Chief
+Justice. It would not make a difference in that regard.
+And on the facts of this case, we do have clear factual
+findings that this police officer in no way -- in no way
+induced this witness to move towards the window and
+identify a suspect who just happened to be standing next
+to a police officer.
+If the concern under due process in this
+area has been a deterrence rationale, which this Court
+has stated in both Neil v. Biggers and in Manson v.
+Brathwaite, that must be the guiding principle.
+JUSTICE KAGAN: Well, it's both, right,
+General Delaney? I mean, the Court has certainly talked
+about deterrence, but the Court also has very
+substantial discussions in all of these opinions about
+reliability. And from the criminal defendant's point of
+view, it doesn't really much matter whether the
+unreliability is caused by police conduct or by
+something else.
+So -- so, tell me a little bit why you think
+the police conduct here -- you know, that has to be
+there in every case?
+MR. DELANEY: That is true, Justice Kagan,
+that -- that the opinions have discussed both issues.
+And I would offer two considerations. First, to the
+extent that the courts have talked about reliability as
+the linchpin or the likelihood of misidentification
+playing a role, they have only done that read in context
+within and only after an unnecessarily suggestive
+circumstance has been applied.
+JUSTICE KAGAN: I think that that's not
+right. I mean, the reason we want to deter this conduct
+is because the conduct results in misidentifications, in
+unreliable testimony. That's the reason that deterrence
+is an important goal, is because this conduct leads to
+unreliable testimony.
+MR. DELANEY: That is correct, and if we
+expand that out and we apply that rationale to the
+circumstances of a case not involving police activity,
+we lose that deterrence rationale. There is no
+deterrence involved in a suggestive circumstance that
+does not involve the police. Civilians are not going to
+be repeat players in this system.
+JUSTICE KENNEDY: And what you're -- what
+you're saying, I take it, in the answer to Justice
+Kagan, was that there's really a two-part step. First,
+was the police procedure unnecessarily suggestive? And
+then if it was, are there other reliability -- was
+reliability impaired?
+So, you go -- you ask both questions.
+MR. DELANEY: And that is the Biggers test.
+And if we looked at reliability further as sort of the
+touchstone of our due process inquiry, we would need to
+misplace completely the role of examining whether the
+suggestive circumstances are unnecessary. An -- an
+inquiry into necessity only makes sense in the context
+of a police investigation or police work. And if we
+look at Stovall, certainly there's an example of a case
+that was a show-up, where this Court said that, despite
+the clearly suggestive circumstances, that show-up was
+imperative and necessary because the witness may have
+been about to die.
+The Court did not conduct a reliability
+analysis. So, if reliability is the linchpin, it puts
+the Stovall holding in question, and really Stovall
+would be undermined.
+JUSTICE ALITO: What you seem to -- what
+you're saying -- what you're saying seems to suggest
+that the rule we're talking about here is really not an
+aspect of due process per se, but, like the Fourth
+Amendment exclusionary rule, it's a special due process
+exclusionary rule that is meant to deter conduct that
+could result in a constitutional violation.
+Is that right?
+MR. DELANEY: I -- I think that's correct,
+Justice Alito. And the analogy I would use would be to
+your perjury cases. In Mooney, you have clearly set a
+due process standard that prevents police or prosecutors
+from knowingly using false evidence. And the concern
+there is how the police will skew the fact-finding
+process. Stovall and the identification cases are very
+similar to that.
+Our concern, in essence, is that the police
+through unnecessary suggestion in that circumstance are
+going to skew the fact-finding process and, in this
+instance, in essence, create a false or altered memory.
+JUSTICE ALITO: If -- if the exclusionary
+aspect of this is not part of due process itself, then
+doesn't it follow that what due process requires is
+reliability? So, doesn't that mean that -- that the
+Petitioner's argument is correct, the due process
+standard is simply reliability, not suggestiveness?
+MR. DELANEY: It's -- the standard is not
+reliability, Justice Alito. The standard for due
+process in this area is the use of orchestrated police
+suggestion. In --
+JUSTICE KENNEDY: What -- what about cases
+with inflammatory evidence, too many lurid photos or
+testimony that ignites prejudice in the community?
+That's -- that's a -- that's reliability.
+MR. DELANEY: That is, and we have both
+constitutional and non-constitutional tools and
+procedures right now to address that. At the base, we
+require prosecutors, under Jackson v. Virginia, to have
+some minimum level of evidence so that a rational trier
+of fact can establish guilt beyond a reasonable doubt.
+Above that, under the Sixth Amendment, we
+provide tools and procedures that allow a defendant to
+assess the reliability of evidence through
+cross-examination and summation and the right to
+counsel. And, beyond that, we have non-constitutional
+sources under the rules of evidence that are
+specifically designed to assess the relevance and the
+reliability of the evidence. But if we go before that
+and say that the Due Process Clause, after all that, has
+some additional standing in -- in your jurisprudence to
+assess reliability, we really have gone to a very
+different place.
+JUSTICE ALITO: You have two cases. You
+have Mr. Perry's case; then you have another case that's
+very similar. In fact, it's identical, except that in
+that instance the police officer talking to the witness
+said, would you take a look out the window and see if
+you recognize anybody?
+Now, from the perspective of the defendants,
+the cases are -- seem -- as far as whether they get a
+fair trial, the cases are identical; are they not? The
+evidence is the same. The suggestiveness is the same.
+MR DELANEY: No, Justice Alito. Those cases
+are quite different. And to the extent we did have
+objective evidence that the police here had in some way
+brought that woman to the window to, in essence, conduct
+a show-up, then we may have triggered the first prong of
+Biggers. And the court would then be required to do two
+things: First, to determine whether the circumstances
+were suggestive and, independent of that, also determine
+whether it was necessary or not, depending on the
+circumstances of the investigation.
+So, if in fact the police officer had
+directed the witness to the window, there may be at
+least grounds for the Biggers and Manson analysis to
+come into play. These facts are very different from
+that.
+JUSTICE KAGAN: Well, I'm not sure you
+answered Justice Alito's questions about why there
+should be this difference between these two cases. Now,
+you might want to say that where police conduct is
+involved, the chances of an unreliable identification
+are greater. Or you may want to say something else.
+But the question is: If we're focused on reliability,
+why are those two cases any different?
+MR. DELANEY: Well, if we do look back, to
+determine whether the circumstances involving the police
+are any more -- of more serious concern, if we look back
+to Wade, this Court did talk about the unique role of
+police suggestion in this context of confrontations, and
+it specifically focused on the manner and the degree of
+suggestion in which the manner that police or
+prosecution present a witness, present a witness to a
+suspect, what impact that can have.
+That unique aspect of police suggestibility,
+the fact that a police officer when it brings someone
+forward is going to influence a witness to a high
+degree, does play a role and is the grounds upon which
+the Stovall cases have been built.
+JUSTICE SOTOMAYOR: So, tell me -- they gave
+the hypothetical of the police pointing out the
+defendant out the window. But earlier you said it might
+be a different case if the defendant was two blocks away
+and they brought him back. Same scenario. They do
+that, bring him back two blocks; make him stand at the
+scene of the crime; and go upstairs, talk to the woman
+and she spontaneously says it's the guy standing over
+there. That would entitle the defendant to a Wade
+motion? To a Wade hearing?
+MR. DELANEY: You would look at the
+totality of the circumstances. And to the extent from
+an objective standpoint it could be demonstrated that
+the police intentionally brought that witness back to
+the scene --
+JUSTICE SOTOMAYOR: We're now -- we're now
+at mens rea again. So, what has surprised me about this
+case is in some ways the way the State court wrote this,
+because if the State court had simply said something
+like there was no unnecessary show-up here, they were
+just holding someone until they could figure out what
+happened, there was no suggestiveness by the police
+because the woman pointed out the window, throw out the
+motion, we wouldn't be here. The argument has become
+something else now because you're trying to define a
+level of intent on the part of the police to create
+unreliability that I think just complicates the inquiry.
+MR. DELANEY: And I -- and, Justice
+Sotomayor, I'm not trying to create that complication.
+And, in fact, I would -- I would reference the State
+court decision a little bit differently. It did ground
+its holding specifically in a finding that there were no
+sort of suggestive techniques at play here and no
+inducement. The trial court order very specifically
+said it disagrees with the show-up characterization,
+that the witness had pointed out the Petitioner without
+any inducement from the police officer; the officer did
+not direct the witness's attention to the window, and
+the officer did not ask whether a man in the parking lot
+was the man who broke into the cars.
+JUSTICE SOTOMAYOR: But I think that --
+MR. DELANEY: On those facts, that can
+dispose of this case without getting into the issue of
+mens rea.
+JUSTICE SOTOMAYOR: Well, what's happened is
+that your briefing and your counter's briefing is
+broader than I think needs to be on the facts of this
+case. But putting that aside, you've addressed this as
+the need for police manipulation. If you define it that
+way, then we do get into a mens rea discussion rather
+than what I think Biggers and Wade were about, which is
+are the circumstances created by the police
+unnecessarily suggestive.
+MR. DELANEY: Yes. And I agree with you
+that the inquiry under the -- under the first prong of
+Biggers is just that. It's an objective inquiry based
+on the totality of the circumstances.
+If there are no further questions -- because
+the defendant's conviction was the product of a fair
+trial, because the State court properly applied this
+Court's jurisprudence and precedent in the area of
+eyewitness identifications, and because the Petitioner's
+proposed rule would markedly expand this Court's due
+process jurisdiction, we respectfully request that the
+State court judgment be affirmed.
+Thank you.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Ms. Saharsky.
+ORAL ARGUMENT OF NICOLE A. SAHARSKY
+ON BEHALF OF THE UNITED STATES,
+AS AMICUS CURIAE, SUPPORTING THE RESPONDENT
+MS. SAHARSKY: Mr. Chief Justice, and may it
+please the Court:
+A due process inquiry is required only when
+there's a police-arranged confrontation in order to
+obtain an identification and then the police
+unnecessarily suggest that a certain suspect is guilty.
+And that's because, as the State has said, the Court's
+central concern in these cases is the State putting a
+thumb on the scales, gaining an unfair advantage. Just
+as, as Justice Scalia said, the State can't create a
+false document and introduce it at trial, it can't
+manipulate someone's memory and then use that evidence
+to prove guilt at trial.
+JUSTICE KAGAN: So, do you mean to say, Ms.
+Saharsky, that there can never be a due process
+violation from the admission of unreliable evidence?
+Assuming that the State has not created that evidence,
+has not produced that evidence, but the State knows that
+the evidence is unreliable or has a very substantial
+chance of being so, that that can never be a due process
+violation?
+MS. SAHARSKY: I'm saying that's where the
+Court's cases are now. The State can't knowingly
+introduce perjured testimony, but you're not talking
+about perjured, knowingly perjured, testimony.
+If the question is just unreliable, the
+Court has said on numerous occasions -- it's rejected
+claims like that and said the Constitution doesn't
+protect to ensure all evidence is reliable. It provides
+a process by which the court can test reliability
+through cross-examination, confrontation, et cetera.
+The Court has -- and that was in Crawford.
+The Court has also said -- and if I could
+just add one more thing -- in the due process context,
+that where the check comes in is in Jackson v. Virginia,
+that the verdict has to have enough evidence to be
+supported, each element of the crime, beyond a
+reasonable doubt that a rational jury could find it.
+So, that is a due process check.
+But where the Court's cases stand today, the
+Court has not found, so far as we can tell, a case where
+it said that the mere introduction of unreliable
+evidence would violate the Due Process Clause. And
+every time it's been confronted with a claim like that,
+in Dowling, for example, in Colorado v. Connelly, the
+Court has rejected such a claim.
+JUSTICE KAGAN: I'll give you an extreme
+example. The extreme example is where an identification
+has been produced by torture, but the torture has been
+by a non-State actor. Same answer?
+MS. SAHARSKY: That is an extreme example.
+There are many reasons why (a) the prosecution would
+never introduce that kind of evidence to begin with and
+(b) that there would be other checks on the process in
+addition to the confrontation and cross-examination
+types of things that we talked about.
+There would be a check on the process
+through Brady and Giglio, for example, that if the
+government knew that those were the circumstances of the
+identification, they would have to turn that evidence
+over to the other side. There would also be checks in
+terms of the trial process if the government actually
+put on evidence like that. So, it is -- it is very
+unlikely that such a thing would happen.
+We're not saying that the Court has to hold
+in this case that due process could never play a role
+there. But what we're saying here is this is very
+routine, run-of-the-mill evidence. Someone who saw what
+happened and wants to come into court and tell the jury
+that. And, as Justice Kennedy noted, you know, what
+Petitioner is asking for here is to take all of those
+away from the jury, really usurping the jury function
+and having these mini-trials where the court itself is
+trying to decide reliability.
+JUSTICE KENNEDY: It is interesting. I was
+trying to find a case where some other class of evidence
+was excluded because it's unreliable. And as --
+Thompson v. Louisville, as you say, is just insufficient
+evidence, and that's different. Inflammatory evidence
+might be an example.
+MS. SAHARSKY: Yes. I mean, that's
+different because --
+JUSTICE KENNEDY: Lurid photos or something
+like that.
+MS. SAHARSKY: I mean, there you have, first
+of all, a separate constitutional provision of an
+impartial jury, and you have you a direct influence upon
+the jury. So, it's not just unreliable evidence being a
+due process problem. You have this separate Sixth
+Amendment protection, and then you have it acting
+directly on the jury. So, we think that's a different
+case. In the due process context, where the Court's
+cases have really focused is on the State tilting the
+scales, the State corrupting the process by knowingly
+introducing perjured testimony or by, for example,
+refusing to disclose material exculpatory evidence.
+JUSTICE KENNEDY: I think there were some
+early cases when fingerprint testimony couldn't come in,
+when fingerprint technology was just new. I don't know
+if those were due process or not.
+MS. SAHARSKY: I can't say. I mean, when
+you look -- when look at the Court's more current cases,
+though, to the extent that the Court has heard arguments
+like this evidence is too unreliable, we need a special
+Constitutional rule, for example, in Ventris, with
+respect to jailhouse snitches, the Court rejected that
+argument. When the Court was told in Colorado v.
+Connelly there were concerns about reliability, it said,
+no, reliability is up to the jury, and it uses the State
+rules of evidence, and this Court's not going to be a
+rulemaking organ for rules of procedure. The
+Constitution puts in place the various checks on the
+process: compulsory process, cross-examination, et
+cetera. And then outside of that, it's really the role
+of the States to mold the trial process.
+JUSTICE ALITO: I was intrigued by what your
+brief said about Federal Rule of Evidence 403. Do you
+think that a Federal judge under that rule may exclude
+the testimony of a witness on the ground that the
+witness is, in the judgment of the trial judge,
+completely unbelievable?
+MS. SAHARSKY: Well, I mean you would need
+to meet the standard of Rule 403, which is that the --
+the probative value of the witness would be
+substantially outweighed by unfair prejudice. I think
+it is unlikely that evidence would -- of an eyewitness,
+which the Court has said, particularly in cases like
+Biggers and Manson, is fairly probative, important
+evidence; the Court wanted to let it in, even in the
+circumstances of where you know, the police played a
+role in manipulation. So, probably, no, the Court
+wouldn't -- wouldn't take the evidence --
+JUSTICE ALITO: But you think in theory that
+could be done? So, if you put on a cooperating witness
+in the case and this witness has made a hundred
+inconsistent statements previously and has been
+convicted of perjury, that the judge could just say you
+can't put that witness on because that person is -- is a
+liar, and I'm not going to have the witness testify in
+my courtroom?
+MS. SAHARSKY: Well, I mean, Rule 403 isn't
+talking about whether evidence is true or false. It's
+talking about unfair prejudice to the jury, unfair
+prejudice being -- outweighing the probative value of
+the testimony. So, you know, I think it would be a call
+for the judge in that individual case. I don't know
+that that -- that that kind of argument has been made
+very often.
+But it's not just that trial protection;
+there are numerous trial protections outside of the
+constitutional limits that the States have put into
+place specifically with respect to eyewitness
+identification testimony. For example, there are
+special jury instructions that most States use, and New
+Hampshire used special jury instructions here. And
+there's something that's really notable about these
+instructions, which is that what Petitioner wants is,
+when the jury has made a determination here, looking at
+factors like how far was the witness away from the
+person, how long was it before -- between the crime and
+when she made the identification, the jury heard all of
+those factors, heard argument on it, was instructed on
+those things, and it made a determination. And what
+Petitioner wants is for a trial court -- this Court,
+after the fact -- to use those exact same factors and
+come to a different conclusion.
+JUSTICE KENNEDY: Was the -- was the Daubert
+case, our expert witness case where you have to have a
+threshold showing -- was that due process or was that
+just -- that was just rule of evidence.
+MS. SAHARSKY: Yes, it was just interpreting
+Rule of Evidence 702. So, you know, at the end of the
+day, what -- what Petitioner is really asking for here
+is not some kind of threshold inquiry, but really taking
+the question of reliability away from the jury. And it
+would be a very big change in our system. And --
+CHIEF JUSTICE ROBERTS: Well, we did it --
+JUSTICE SOTOMAYOR: Counsel, there are a
+number of circuits that already follow your adversary
+rules. I think it's not just one or two. It's about
+five or six.
+The floodgates open there? How many -- how
+many suppressions of witness identification has occurred
+in those circuits?
+MS. SAHARSKY: It is not many, but the
+principle the Petitioner is arguing for is a significant
+one. It is that the Due Process Clause protects
+against -- protects reliability. And I assure you that
+once this Court says that that is the case, that there
+will be defendants throughout the United States making
+arguments about all different kinds of evidence, not
+involving the police, being unreliable and that that all
+needs to be taken away for -- from the jury, and --
+CHIEF JUSTICE ROBERTS: Well, suppose the --
+lie detectors, for example, that's been taken away from
+the jury on a categorical basis, right?
+MS. SAHARSKY: Well, there are some State
+rules of evidence that do that, but, I mean, we're
+talking about as a matter of due process that it is
+fundamentally unfair at trial to not allow -- this --
+to -- this evidence if given to the trial would be
+fundamentally unfair. And, you know, the Constitution
+has enshrined the jury as the fundamental guarantee, as
+the fundamental protector of liberty; and to think that
+that same Constitution through the Due Process Clause
+means that run-of-the-mill evidence has to be taken away
+from the juries, that the trial court can itself look at
+factors like how good of a view the person had --
+JUSTICE ALITO: There surely is some minimal
+due process requirement for the admission of evidence,
+isn't there? Are you saying there is none? If a State
+abolished the hearsay rule, could it -- would it not be
+a violation of due process if the prosecution introduced
+quadruple hearsay?
+MS. SAHARSKY: Well, I think that there
+would initially be a problem with respect to the
+Confrontation Clause, and the court would probably go
+through the analysis that way. We're not saying that
+the court --
+JUSTICE ALITO: All right. Let me give --
+you're right. Let me give you another example. Let's
+say you have -- the State puts on a witness who -- who
+says this person did it because I saw it in my crystal
+ball.
+MS. SAHARSKY: Right. And I think that the
+answer that I would give is the same one to the question
+Justice Kagan asked, which is where the Court is now,
+the Court has never said that the introduction of some
+kind of evidence is so unreliable it would violate due
+process. In Dowling, for example, it had evidence
+that --
+JUSTICE KENNEDY: Is tea-leaf reading okay?
+MS. SAHARSKY: What I'm saying is the Court
+doesn't need to address that question here. It also
+doesn't need to foreclose it. But this is very
+run-of-the-mill evidence. It doesn't mean that the
+Court could never find that some kind of evidence is so
+problematic that the Due Process Clause could preclude
+its admission, but what we're talking about here is
+fairly run-of-the-mill evidence.
+I would just point the Court to the decision
+in Dowling, which was about a prior conviction for which
+the person had been acquitted; and then that evidence
+was let in at his trial, and he said that's a problem.
+That evidence is too unreliable and too prejudicial, and
+the Court said that's not for the Due Process Clause.
+The Constitution gives you the process to test evidence.
+It doesn't ensure that all of the evidence that's going
+be introduced be reliable. And that's what Petitioner
+is saying here today, and that would be a very expansive
+view of the Due Process Clause that just can't be
+reconciled with cases like Dowling and Colorado v.
+Connelly.
+If the Court has no further questions, we'd
+submit that the judgment of the court below should be
+affirmed.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Mr. Guerriero, you have 2 minutes remaining.
+REBUTTAL ARGUMENT OF RICHARD GUERRIERO
+ON BEHALF OF THE PETITIONER
+MR. GUERRIERO: I will try to make three
+points in those 2 minutes.
+I would ask the Court to consider the
+circumstances that would be excluded if the Court
+accepts the rule proposed by the State, that there has
+to be some intentional manipulation or intentional
+orchestration. Suppose that rather than the accidental
+or happenstance show-up we had here, suppose that the
+accident was in the line-up at the police station, and
+the police were completely in good faith, getting to the
+mental state issue, and -- but in spite of their good
+faith, there was suggestion in the line-up. Would the
+trial court look at that and say, even though this was a
+suggestive line-up, we're not going to consider a due
+process claim because it wasn't intentional or
+deliberate manipulation? We would suggest that that
+would be contrary to the principle that the primary evil
+is the risk of misidentification.
+Consider another circumstance. Suppose
+there are two witnesses at the police station, and in
+spite of the best efforts and good rules of the police,
+witness one looks at the line-up and then -- or looks at
+the photo line-up so that they can't be changed, let's
+say, and leaves the line-up and somehow communicates to
+witness two, I picked the one on the bottom at the
+right; I think that's the one. That suggestion would be
+very powerful from the person who experienced the very
+same crime.
+JUSTICE SCALIA: Tell that to the jury.
+What jury isn't going to be -- I mean, the more
+persuasive your argument is, the more likely it is that
+a jury will take care of that.
+MR. GUERRIERO: The problem is that the
+witnesses who have -- are under the suggestive influence
+actually believe what they're testifying to, and the --
+that's why the Court said in Wade cross-examination for
+this one kind of evidence -- not floodgates, but this
+one kind of evidence -- cross-examination may not always
+be enough. The witness's sincerity has a powerful
+effect on the jury.
+The last point I want to make is that this
+is not going to open the floodgates, as we say, or
+create a slew of new claims. Under the Watkins case,
+this Court knows that there -- there's not even required
+to have a separate hearing on this evidence. And the
+reason a separate hearing isn't required is because
+these issues would be fleshed out in front of the jury.
+This is only a question of what legal
+standard applies when the judge hears the defendant's
+objection that this violates due process, there's a --
+there's a substantial likelihood of misidentification.
+So, it's not any new claims. It's not any separate
+hearings. It's simply a question of what exactly is the
+due process rule.
+Thank you.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+The case is submitted.
+(Whereupon, at 10:58 a.m., the case in the
+above-entitled matter was submitted.)
+54:20 altered 36:1 32:9 36:6 40:4 base 36:18 37:22 39:10,19
+42:1 46:4 49:17 49:22 C
+12:21 aspect 16:6 Biggers 24:7 7:15,16,22,25
+51:15 31:7 aspects 18:6 38:6 41:6,11 19:19,22,25
+1:14 assume 8:21 32:11 39:9,11 33:12 34:4,23
+applied 33:20 ATM 12:1 Brathwaite 44:17 45:2,18
+apply 9:15 20:15 a.m 1:13 3:2 20:21 21:10,21 cases 4:10,20,25
+13:2 34:3 54:19 22:5 26:24 5:11 6:4 14:7
+23:21 area 32:24 36:10 brief 20:13 23:21 24:10
+B 46:18 27:13 35:17,21
+36:2,9
+46:17 argue 12:9 b 8:9 44:5 briefing 41:1,1 36:12 37:9,16
+50:10,21 argued 12:10 back 18:4 30:1 bring 31:20 37:17,19 38:11
+arguing 49:12 38:17,19 39:10 bringing 30:6 42:9,24 43:16
+52:3 52:8 54:17 committed Connelly 43:21 counter's 41:1
+circuits 23:18 common 11:18 consider 28:8 22:25
+15:7 19:15 33:20 34:6 53:10 33:15 court 1:1,12 3:9
+25:1 35:24 53:5 community considered 4:10,24 5:10
+13:25 23:12 31:25 completely 25:5 43:4 46:13 14:3,5 15:19
+34:4,20,25 34:19 46:22 50:3,6 51:23 17:5 18:4,5,13
+44:10 47:6 40:7 36:17 45:12 24:10,20 25:14
+cited 23:19 40:9 contact 15:15 27:14 28:21
+21:5 Civilians 34:7 46:14 context 14:6 33:3,4 34:24
+claim 6:1,19 concern 29:1 15:14 18:17 35:3 37:24
+20:5 18:11 43:20,22 38:19 42:9 38:21 43:10 40:11,14 41:15
+33:3 53:1 concerned 30:8 45:18 41:20 42:3
+claims 43:4 54:4 concerns 28:23 contrary 53:3 43:3,6,8,9,17
+class 45:2 conclude 21:13 26:12 44:24 46:4,7,8
+23:15 50:6,18 51:14 1:17 51:18 51:3,4,9,13,17
+28:3 51:22 52:2 conduct 8:10 convictions 51:22 52:5,6
+clear 32:18 13:6,12,24 26:12 52:14,15,24
+35:17 33:8,11,22,23 47:10 courtroom
+Colorado 43:21 37:22 38:12 31:12,15 32:16 courts 33:16
+combination 23:16 36:6 41:16,18 42:8
+come 9:21 16:2 confrontation corrupting 45:18 46:3,11
+23:23 38:7 42:5 43:7 44:6 Cory 23:24 Crawford 43:8
+16:16,20 48:17 confrontations 21:5 28:15 40:6,9 42:11
+28:15 comes 14:15 38:21 32:10 37:1 54:4
+32:3 27:16 28:1,2 confronted 41:22 49:4 created 4:17 6:2
+41:22 43:11 43:20 52:8 54:17 6:8 7:10 41:7
+49:3,20 coming 28:9 connection 3:21 Counselor 3:16 42:18
+39:8,9,14 determine 31:25 door 9:5 51:24
+defendant's 27:10,12,17 43:14 ESQ 1:15,17,19
+39:12 33:6 41:14 32:24 33:4,24 Dowling 43:21 2:3,6,9,13
+48:11 54:10 34:5,6 51:6,18 52:3 essence 35:23
+defense 4:4 deterring 27:10 drastic 23:15 36:1 37:22
+23:15 25:8 differ 20:4 due 3:13 6:1,19 30:9
+define 11:11 difference 20:22 7:17,20 8:5 9:2 establish 36:21
+22:3 41:4 27:19 30:4,5 11:23 12:10 22:16
+32:10 defined 13:12 32:13,17 38:11 14:13 25:14,21 et 43:7 46:14
+43:7 definition 13:4 different 4:18 28:11,12,22 evaluate 17:5
+46:14 degree 15:11 11:16 20:19,22 29:13 30:8 evaluation 3:14
+38:22 39:4 22:12,13 28:9 32:23 34:18 everybody
+2:6 28:17,18 31:23 32:4 36:3,4,6,9 37:5 evidence 4:20,23
+29:20 30:5 38:16 39:9 42:21 43:10,15 7:19 9:2,4,7,9
+33:13 34:2,16 differently 48:20 49:13,25 18:10,12 19:15
+38:17 dinner 19:1,1 51:5,14,22 21:7 22:4
+53:2 directly 45:17 11:25 35:19 36:13,20
+Department disagrees 40:15 E 42:17,18,19,20
+depend 3:17 discussions 33:5 effect 54:1 46:5,11,18
+deprive 9:12,13 distinct 8:15 efforts 53:7 48:21,23 49:17
+9:8 designed 37:3 distinguish element 43:13 51:12,13,16,19
+despite 34:24 14:21,22 elicit 28:24 51:21,23,24
+11:17 detectors 49:21 distinguishing emergency 8:17 53:23,24 54:6
+15:20 deter 33:22 29:9 empirical 26:4 evidentiary 9:16
+24:4 35:12 DNA 5:2 18:10 engaged 29:24 evil 53:3
+30:1,20 determination document 42:12 enshrined 50:4 exact 48:16
+6:21 extreme 43:23 far 30:20 37:16 found 43:17 16:12 27:2
+43:24 44:2 43:17 48:10 Fourth 35:10 30:23 31:9
+25:20 10:9 friends 19:1 39:3 46:11
+14:24 4:17,23 5:6,11 20:5,25 23:18 function 44:23 52:25 53:16
+34:23 5:16 6:6,7,14 46:18,19 fundamental 54:3
+6:14,23,25 7:3 figure 40:1 7:20 25:13 good 15:3 19:9
+45:6,21 7:11 8:20 filed 15:4 50:4,5 22:23 23:14
+48:4 10:23 12:13,19 find 24:22 25:19 fundamentally 24:18 26:4
+50:22 14:13,23,25 25:20 26:8,10 50:1,3 30:18 50:9
+17:18 18:11 30:3 43:14 further 11:4 52:21,22 53:7
+15:20 25:6,10,18 finding 25:9 41:13 52:5 44:10,13
+21:15 28:22 41:17 findings 31:4 G greater 16:1
+47:2 48:3 32:19 G 3:1 38:14
+9:1,4,8,25 F fingerprint General 1:17,20 ground 9:20
+12:17,23 face 21:25 31:6 45:24,25 28:17 33:3 11:2 12:5,8,11
+14:13 fact 4:10,25 5:2 first 3:4 12:22 generally 14:9 23:10 40:11
+24:5 5:22 12:23 14:3 20:18 14:14 46:20
+45:3 16:6 18:4 29:13 31:2 getting 30:25 grounds 9:16
+23:25 24:12 33:15 34:11 40:23 52:21 38:6 39:4
+36:2 40:10 48:16 five 49:7 10:6,9,12,16 2:3,13 3:5,6,8
+48:16 50:9 25:21 15:6 26:16,22 4:22 5:9,19
+31:4 32:18 focused 13:25 43:23 50:21,22 10:22 11:1,3,7
+29:1 30:10 45:19 given 11:14 12:7,21 13:6
+fairly 8:15 47:4 follow 36:4 49:5 21:21 22:25 18:19 19:8,13
+fairness 7:21 17:8 37:4 39:12 21:3,20,22
+false 18:8 35:19 forensic 18:8 goes 17:11 18:21 25:22 26:9,21
+39:17 47:18 forward 39:3 going 8:2,25 28:4,7,16 52:9
+53:19 husband's 14:22 induced 32:20 8:22,23 50:14 41:19
+36:13 45:5 introduction 18:22 19:10,11
+32:10 identical 37:11 39:3 45:13 15:14 16:24 43:14 44:20,23
+37:17 53:20 34:22 38:3 44:23 45:13,14
+3:4 8:13 12:4,14 inherently 9:24 invoked 9:20 49:22 50:4
+48:6 12:19 16:23 initially 50:17 involve 34:7 53:15,16,18
+32:21 43:24 44:11 48:25 38:13 3:24 4:15 5:1,5
+44:20 48:4,12 49:9 instance 4:19 involvement 5:15 6:4,21 7:5
+52:19 identified 24:4 instances 21:12 involving 34:4 10:12,15,17,18
+25:11 instruction 12:8 issues 18:8,8 13:21,21 14:5
+54:6,7 impact 38:25 16:11 48:5,6,8 15:9,10,23
+impartial 45:13 intent 40:6 jailhouse 25:3,4 20:3,21 21:10
+39:3 28:11,22 intentionally 20:10 21:1,12 25:25 26:3,13
+40:1,12 including 20:16 interesting 45:1 46:19,21 47:13 28:6,15,17,20
+7:1 8:12 47:12 interpreting judges 21:10,13 29:21,22 30:12
+16:6 independent 48:22 judgment 29:21 31:6,13,16
+25:23 38:1 intrigued 46:17 41:20 46:21 32:3,8,17 33:2
+individual 17:23 introduce 42:12 52:6 33:13,21 34:9
+38:9,10 44:21 45:25 35:4 manipulating message 6:10
+40:8 47:6,21,22 line-up 8:14,15 27:11 MICHAEL 1:17
+41:22 48:23 50:3 11:17 13:17 manipulation 2:6 28:18
+knowingly 15:21 16:10,185:18,20 24:21 midway 19:3
+44:21 35:19 42:24 29:9 52:20,23 28:10 29:5 minimal 50:10
+43:1 45:20 52:25 53:8,9 30:24 31:10 minimum 36:20
+47:9 knows 42:19 53:10 41:4 47:7 mini-trials
+49:3,4 54:5 line-ups 16:12 52:17 53:2 44:24
+50:10,21 little 33:10 manipulative minute 17:14
+52:8 L 40:11 27:15 18:2
+54:17 lady 7:23 long 17:22 48:11manner 6:11 minutes 17:13
+24:24 law 17:9,10 20:10,10 21:2markedly 41:18 26:13 27:18
+26:3 20:15 21:19 22:7 23:12 mask 22:25 miscarriages
+23:18 24:18 26:14 matches 26:15 5:1
+38:9 layer 31:1 29:12 31:25 material 45:22 misidentificati...
+43:23 lead 12:25 22:17 34:23 37:13 matter 1:11 9:22 3:12,13 13:1
+26:4 38:17,19 39:1622:12 27:15 22:18 33:17
+25:24 52:24 49:25 54:20 misidentificati...
+19:9 leave 12:15 34:17 meal 19:3 misleading 20:7
+27:21 29:19 looking 20:22,23mean 4:14 7:6 20:12 21:13
+34:9 leaves 53:10 48:9 11:12 12:12,24 misplace 34:19
+44:21 leaving 27:6 looks 13:16 53:8 13:3,4 14:20 mix 10:4
+left 6:10 53:8 19:14 24:15 mold 46:16
+51:8 legal 54:9 lose 34:5 26:17 28:7 moment 21:2
+22:3 26:7 level 11:24 46:2,23 47:17 40:4
+44:4 15:19 36:20 M 49:24 51:12 move 12:8 15:1
+48:25 40:6 machinations 53:16 15:3 30:20
+53:23 liar 47:15 24:1,2 means 50:7 32:20
+liberty 9:12,14 magic 12:18 meant 35:12 multiple 16:12
+lie 25:3 49:21 making 49:16 meet 25:8 46:24
+13:3,16 54:12 13:20 15:21,25 mens 30:25 nail 29:22
+limit 10:4 16:2 40:19,20 39:22 40:24 necessarily 4:9
+17:14,22 limited 4:16 6:7 manipulate 41:5 30:19
+22:14 29:11 42:13 mental 52:22 necessary 30:17
+25:5 limits 48:2 manipulated menu 19:4 35:1 38:2
+33:11 linchpin 33:17 31:9 mere 43:18 necessity 34:21
+41:4 37:12 38:4 47:3 16:25 53:11 36:10 37:12,21
+51:10 39:2 40:17,17 people 17:12,13 picture 3:20,25 38:4,12,18,21
+40:19 17:13,13,16 23:3,10 38:23 39:1,2,7
+44:4 once 10:3 13:22 perjured 42:25 play 29:10 38:7 53:6,7
+51:4,13 13:23 49:15 43:1,1 45:21 39:4 40:13 policeman 29:7
+21:4 25:21 10:14 47:13 played 30:6 47:6 police-arranged
+48:5 open 49:8 54:3 perpetrator players 34:8 42:5
+opinion 30:24 22:24 23:9 playing 33:18 position 3:17
+21:5 22:24 Perry's 37:10 42:3 potential 30:7
+41:24 13:25 12:2,17 13:9 point 12:13 13:7 53:25
+3:6 28:18 16:3,22,22,25 23:19 26:19 precious 21:8
+37:1 orchestrated 23:3,4,8,8 33:6 51:17 prejudice 20:7
+orchestration 31:18 47:14 pointed 40:3,16 47:20
+outweighed 20:6 Petitioner 1:4 8:10,13 11:9 32:8
+1:16 2:4,14 3:7 11:17,20,20 pretesting 5:7
+51:25 52:11 24:1,2,17,19 primarily 27:17
+39:18 P 3:1 41:17 27:23 28:1,9 53:3
+PAGE 2:2 phone 6:10 28:11,13,23 principle 33:1
+47:4,20 proposing 22:13 41:13 52:5 records 26:1 respect 46:7
+45:15 7:18 8:23 quite 31:22,23 25:21 respectfully
+51:20 18:24 38:24 37:20 red-flag 19:22 41:19
+44:3 50:14 red-flagged respond 22:1
+35:18 36:19 R 3:1 reference 40:10 1:18,22 2:7,11
+16:7 protection 45:16 raises 15:22 regard 32:2,17 result 22:9
+46:12 47:25 17:4 regarding 18:10 25:12 35:13
+36:18,23 protector 50:5 17:1 46:7 33:23
+7:17,20 49:14 raped 22:23 relevance 20:6 reversal 6:5
+9:2,6,14 prove 42:14 23:5 37:3 RICHARD 1:15
+11:23 proved 24:25 rare 19:25 reliability 3:14 2:3,13 3:6
+14:13 proves 27:14 rational 36:20 4:3 5:7 26:5 52:10
+28:11 provide 36:23 43:14 33:6,16 34:13 right 8:6 10:8,11
+29:1 provides 43:5 rationale 18:21 34:14,17 35:3 10:15,22 11:1
+30:8,10 province 18:22 32:24 34:3,5 35:4 36:5,7,9 11:3,7,9,10,22
+32:23 19:11 rea 30:25 39:22 36:15,24 37:4 14:13 15:18
+35:10,11 provision 45:12 40:24 41:5 37:7 38:15 16:19 17:10
+psychological read 33:18 43:6 44:25 19:8 20:3,13
+18:15 reading 51:8 46:9,10 49:1 20:14,24 21:8
+41:19 publishes 3:25 reads 23:1 49:14 21:16 22:10
+put 15:6 29:18 really 6:7,13 reliable 4:21 25:11,21 30:19
+30:13 44:14 18:1 22:20,23 12:6 24:14,23 31:11 33:2,22
+47:10,14 48:2 29:8 33:7 27:15 43:5 35:14 36:18,25
+puts 35:4 46:13 34:11 35:5,9 51:25 49:22 50:21,22
+50:23 37:7 44:23 remaining 52:9 51:1 53:12
+49:13,25 putting 30:9 45:19 46:15 remember 17:9 rightly 4:5,6
+41:3 42:9 48:7,24,25 remembering rise 11:23
+reason 10:4 14:3 17:15 rises 15:19
+53:1 Q 25:23 29:17 reminisce 18:23 risk 5:14 6:2,15
+quadruple 33:22,24 54:7 render 6:16 22:18 27:17,18
+13:20 reasonably request 41:19 ROBERTS 3:3
+38:15 43:2 2:12 52:10 54:5,7 49:3,20 52:8
+38:20 says 13:12,16 shows 3:20 3:19,24 29:2,7 statements
+44:17 15:21 16:21 show-up 8:16,18 29:11,16,21 47:12
+47:7 17:10,24 19:25 11:14,15 15:20 30:12 39:6,21 States 1:1,12,21
+25:6 scale 30:10 39:25 40:15 sources 37:2 station 52:20
+27:16 scales 42:10 52:19 so-and-so 23:2 53:6
+35:9,11 45:20 show-ups 11:24 special 6:15,24 stay 29:18 31:18
+41:18 Scalia 4:15 6:4 side 9:10 44:12 7:3 19:15 step 34:11
+6:21 7:5,9 8:19 significance 4:2 35:11 46:5 stolen 12:1
+48:21,23 9:3,7,18 10:3 significant 48:5,6 stood 28:14
+52:16 10:18 12:12 49:12 specifically 24:1 stop 22:5
+31:6,13,16 similar 35:22 37:3 38:22 Stovall 31:24
+Scalia's 13:22 similarly 6:23 spite 52:22 53:7 35:21 39:5
+37:2 scene 8:16 16:21 simple 10:20 39:13 15:13
+49:6 29:19 30:15,20 simply 15:2 22:7 stacking 30:9 stress 19:6
+53:7 31:20 39:12,20 31:3 36:7 stand 31:21 studies 12:5
+50:7 seconds 18:2 single 13:9 16:11 20:2 study 18:1,1
+see 4:20 9:18,20 singled 18:13 22:12,13,15 25:2,2,3 26:10
+sit 30:14 25:17 35:18 subject 25:20
+27:3,4 sense 9:15 29:11 six 49:7 standing 30:2 subsequent 4:25
+41:23,24 separate 6:19 36:22 45:15 39:13 substantial 33:5
+12:7,10 45:12 skew 29:1 30:13 standpoint 42:20 54:12
+45:7,11 45:15 54:6,7 35:20,25 39:18 substantially
+47:17 54:13 skewing 30:10 starts 17:12 12:25 20:1
+49:11,23 serious 38:19 slew 54:4 state 9:12,13,16 22:17,18 47:1
+51:1,9 set 12:23 16:15 slight 13:16 9:19,22 10:3 substantive
+50:24 sets 16:13 Solicitor 1:19 31:4 39:23,24 sufficient 13:19
+13:20 shop 17:24 somebody 8:24 42:8,9,11,18 4:22 35:8 42:7
+15:13 shorter 17:15 18:7,9 26:9 42:19,24 45:19 53:2
+20:23 show 8:24 16:13 someone's 42:13 45:20 46:10 suggested 27:23
+34:10 20:12 sorry 19:20 49:23 50:12,23 suggestibility
+42:23 showed 4:13 21:22 27:24 52:16,22 39:1
+50:12 showing 11:25 sort 5:13 34:17 stated 32:25 suggesting 26:6
+51:9 13:8 48:20 40:13 statement 15:1 29:4,12 32:5
+shown 5:4 12:5 Sotomayor 3:16 20:8 suggestion 5:17
+14:15 surveillance term 18:9 35:15 40:7,21 trigger 29:14
+17:3,4 4:13 terms 32:14 41:2,6 45:17 triggered 37:23
+28:2,9 suspect 5:23 44:13 45:23 46:19 true 33:13 47:18
+30:7 13:9,11 16:10 test 31:24 34:16 47:1,9,21 49:6 truly 25:11
+36:11 16:13,14 28:25 43:6 51:23 50:5,16 51:1 try 52:12
+52:23 29:15 32:21 testify 23:7 53:12 trying 9:12,13
+38:25 42:7 47:15 thinking 29:8 17:17 40:5,9
+5:12,17 5:14,24 28:14 testimony 5:6,12 Thompson 45:4 turn 44:11
+13:15 29:23 5:16 6:6,7,14 three 16:13 turned 25:2
+23:10 system 20:25 6:14 7:4,11,11 52:12 turns 17:14,25
+27:22 23:14 34:8 7:11 8:20 threshold 48:20 two 12:21 31:19
+29:5 49:2 10:21,23 14:24 48:25 32:11 33:15
+33:19 14:25 15:3,5 throw 7:13 40:3 37:9,24 38:11
+T 17:19 24:25 thumb 30:10 38:16 39:9,11
+40:13 T 2:1,1 25:4,6,18,19 42:10 49:6 53:6,11
+52:25 take 10:3,19,20 25:19 26:5,6,7 tilting 45:19 two-part 4:1
+18:25 26:14 26:19 33:24 time 4:4,25 34:11
+7:12 44:22 47:8 42:25 43:1 43:20 31:5
+11:6,8,12 53:18 45:21,24 46:20 times 25:9 types 44:7
+12:18 taken 19:5 49:19 47:21 48:4 today 3:4 43:16
+49:21 50:7 Thank 28:15,16 52:1 U
+talk 38:20 39:12 41:21,22 52:8 told 21:24 46:8 unbelievable
+15:11,16 talked 7:23 33:3 54:16,17 tools 36:17,23 7:10 46:22
+37:18 33:16 44:7 theory 9:21 47:9 torture 43:25,25 undermined
+talking 13:22,23 Thigpen 23:24 totality 31:25 35:6
+36:25 25:1,17 30:16 44:15 touchstone 26:3
+42:1 47:18,19 49:25 20:16 37:25 trial 9:14 13:15 47:19 50:1,3
+49:20 talks 29:3 think 4:24 5:10 19:17,24 21:12 28:10,13
+53:5 teach 19:10 6:4,6,13,15,18 22:18 27:18 unintentional
+techniques 7:15,25 9:3 40:14 41:15 unique 3:11
+technology 14:11 16:1,3,7 46:16,21 47:25 39:1
+tell 8:2 13:7 18:3,9 19:13 50:8 51:20 2:10 41:25
+30:21 43:17 44:20 26:8,13,14 23:16 26:2 24:13 28:25
+53:15 27:12 28:4,7 tricky 28:8 33:19 34:12
+34:20 violates 54:11 17:12 22:22 40:4 702 48:23
+39:25 violation 7:20 We'll 3:3 47:8,8 75 26:11
+10:20,24 50:14 16:12 19:14 wrong 12:20
+18:6 Virginia 36:19 25:16 31:9 wrongful 26:12
+40:7 43:11 35:9 38:15 wrote 39:23
+6:16 7:12 44:18 49:24 X
+9:5,24 W 50:19 51:15 x 1:2,7
+20:9 Wade 4:24 5:10 52:25
+24:5 14:4 18:4,5 we've 5:3 7:25 Y
+26:8 29:3 38:20 20:16 24:6 yard 30:1
+33:24 39:14,15 41:6 26:10 29:2 yards 12:14
+38:13 53:22 Whoa 22:5 years 5:3
+43:2 wait 22:5 30:15 wife 18:25
+45:3,14 window 7:24 8:3
+49:18 31:22 32:20
+19:22 10 5:3
+37:13,22 38:5
+10-8974 1:4 3:4
+22:7 witness 4:13 10:02 1:13 3:2
+10:58 54:19
+42:13 5:22 6:12 13:7
+29:19 100 21:11
+15:24 16:9,11
+38:12,14 15 5:3
+1967 25:24
+wanted 8:13 25:10 29:15 2
+wants 30:3,3 37:12 38:5,24 200 12:14
+48:8,15 38:24 39:3,19
+23:24 wasn't 12:10 47:14,15 48:10 3
+32:25,25 23:11 29:8 48:19 49:9 3 2:4
+43:11,21 32:11 53:1 50:23 53:8,11
+46:8 52:3 Watkins 54:4 witnesses 4:14 4
+46:25 18:21 19:10 witness's 4:7 403 20:5,10,25
+22:21 23:15 28:24 40:18 21:3,13,23
+32:19,19 37:21 woman 8:10 47:17
+wearing 22:1 wonder 26:5 5
+weeks 22:25 works 10:7 52 2:14
+went 15:17 9:23 17:20 7

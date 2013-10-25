@@ -1,0 +1,127 @@
+<html>
+   <head>
+   <script type="text/javascript" src="js/d3/d3.v3.min.js"></script>
+   <script type="text/javascript" src="js/d3-cloud/d3.layout.cloud.js"></script>
+   <script type="text/javascript" src="js/11-9307-speakers_dist.js"></script>
+   <script type="text/javascript" src="js/heatmap.js"></script>
+   <style>
+      body {
+         margin: 0px;
+         padding: 0px;
+         font: 12px Arial;
+      }
+      div.tooltip {   
+  		position: absolute;           
+  		text-align: center;           
+  		width: 60px;                  
+  		height: 40px;                 
+  		padding: 2px;             
+  		font: 10px Arial;        
+  		background: lightblue;   
+  		border: 1px;      
+  		border-radius: 8px;           
+  		pointer-events: none;         
+	  }
+   </style>
+   <script>   
+
+   </script>
+   
+   </head>
+   <body>
+<center>   
+<table style="font: 10px Arial">
+	<tr style="width : 100%">
+		<td style="width : 100%">
+			<div id="jaccard_heatmap"></div>
+		</td>
+		<td style="width : 100%">
+			<div id="cosine_heatmap"></div>
+		</td>
+		<tr>
+			<td>
+				<div id="tagcloud"></div>
+			</td>
+   </tr>
+</table>
+</center>
+   <br>
+   <br>
+
+<script type="text/javascript">
+	var div = d3.select("body").append("div")   
+		.attr("class", "tooltip")               
+		.style("opacity", 0);
+	
+	function displayChart( ) {
+		d3.select("#chart").append
+	}
+
+	var colorScale = d3.scale.linear()
+    	  	.domain([minData_jaccard, (maxData_jaccard - minData_cosine) / 2, maxData_jaccard])
+      		.range(["white", "gray", "black"]);
+
+	//attach a SVG element to the document's body
+	var jaccardSVG = createSVG("jaccard_heatmap",cols_jaccard,rows_jaccard);    	  
+	//generate heatmap rows
+	var jaccardHeatmapRows = createHeatmapRows(jaccardSVG,data_jaccard)      
+    //generate heatmap columns
+    var jaccardHeatmapRects = createHeatmapRects(jaccardHeatmapRows)
+	// label columns
+	var jaccardColumnLabel = createColumnLabel(jaccardSVG,cols_jaccard)
+	
+	jaccardColumnLabel.selectAll("text")
+	.attr("transform", function(d) {
+     return "rotate(-65)" 
+    });
+
+	var jaccardRowLabel = createRowLabel(jaccardSVG,rows_jaccard)
+      
+	jaccardSVG.append("g")
+        .attr("transform", "translate(0," + h + ")")
+        .selectAll("text")  
+            .style("text-anchor", "end")
+            .attr("dx", "-.8em")
+            .attr("dy", ".15em")
+            .attr("transform", function(d) {
+                return "rotate(-65)" 
+                });
+	
+   	jaccardHeatmapRects.on('mouseover', function(d,i) {
+		mouseOver(this,d,i) 
+	});
+
+    var colorScale = d3.scale.linear()
+    	.domain([minData_cosine, (maxData_cosine - minData_cosine) / 2, maxData_cosine])
+    	.range(["white", "gray", "black"]);
+    
+	jaccardHeatmapRects.on('mouseout', function(d,i) {
+	   	   d3.select(this)
+	 	      .attr('stroke-width',0)
+	   	      .attr('stroke','none')
+	       div.transition()        
+	          .duration(500)      
+	          .style("opacity", 0); 
+		});
+
+      
+    //attach a SVG element to the document's body
+    var cosineSVG = createSVG("cosine_heatmap",cols_cosine,rows_cosine);    	  
+    //generate heatmap rows
+    var cosineHeatmapRows = createHeatmapRows(cosineSVG,data_cosine)      
+	//generate heatmap columns
+	var cosineHeatmapRects = createHeatmapRects(cosineHeatmapRows)
+	var cosineColumnLabel = createColumnLabel(cosineSVG,cols_cosine) 
+	var cosineRowLabel = createRowLabel(cosineSVG,rows_cosine)
+	  
+	cosineHeatmapRects.on('mouseover', function(d,i) {
+		mouseOver(this,d,i) 
+	});
+            
+	cosineHeatmapRects.on('mouseout', function(d,i) {
+		mouseOut(this,d,i)
+	});
+      //expression value label
+      </script>
+   </body>
+</html>

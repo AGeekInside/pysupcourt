@@ -1,0 +1,1865 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+GENOVEVO SALINAS, :
+Petitioner : No. 12-246
+v. :
+TEXAS :
+- - - - - - - - - - - - - - - - - x
+Washington, D.C.
+Wednesday, April 17, 2013
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 11:15 a.m.
+APPEARANCES:
+JEFFREY L. FISHER, ESQ., Stanford, California; on behalf
+of Petitioner.
+ALAN K. CURRY, ESQ., Assistant District Attorney,
+Houston, Texas; on behalf of Respondent.
+GINGER D. ANDERS, ESQ., Assistant to the Solicitor
+General, Department of Justice, Washington, D.C.; for
+United States, as amicus curiae, supporting
+Respondent.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+JEFFREY L. FISHER, ESQ.
+On behalf of the Petitioner 3
+ORAL ARGUMENT OF
+ALAN K. CURRY, ESQ.
+On behalf of the Respondent 29
+ORAL ARGUMENT OF
+GINGER D. ANDERS, ESQ.
+For United States, as amicus curiae,
+supporting Respondent 48
+REBUTTAL ARGUMENT OF
+JEFFREY L. FISHER, ESQ.
+On behalf of the Petitioner 58
+P R O C E E D I N G S
+(11:15 a.m.)
+CHIEF JUSTICE ROBERTS: We'll hear argument
+next in Case 12-246, Salinas v. Texas.
+Mr. Fisher.
+ORAL ARGUMENT OF JEFFREY L. FISHER
+ON BEHALF OF THE PETITIONER
+MR. FISHER: Thank you, Mr. Chief Justice,
+and may it please the Court:
+The Fifth Amendment prohibits using a
+person's silence during a noncustodial police interview
+against him at trial, and nothing about the specific
+facts of this case give this Court cause to refrain from
+applying that rule here.
+To the contrary, the State's closing
+argument in this case urging the jury to find
+Mr. Salinas guilty because, quote, "an innocent person
+would have denied law enforcement's accusations,"
+strikes at the core of everything the Griffin rule and,
+indeed, the Fifth Amendment is designed to prohibit.
+It evokes an inquisitorial system of
+justice. It effectively shifts the burden of proof onto
+the defendant, and it demeans individual dignity by
+conscripting the defendant as a product of his own
+demise.
+Now, the Texas Court of Criminal Appeals
+resisted this logic and held the Fifth Amendment didn't
+apply because there was supposedly no compulsion in this
+case in the sense that there was no physical or
+psychological coercion of the kind that's inherent in
+custody.
+But the Texas Court of Criminal Appeals
+simply misunderstood the nature of a Griffin claim and
+the nature of the compulsion. The compulsion that
+Mr. Salinas faced was when the police asked him the
+question about ballistics evidence, there was nothing he
+could do to avoid supplying the State with incriminating
+evidence that it could use against him.
+If he answered the question -
+JUSTICE GINSBURG: Why isn't it -- why isn't
+it like the -- is it Berghuis case? There was a case of
+someone who was given Miranda warnings, and, even so,
+the Court said he was silent. He didn't invoke the
+Fifth Amendment; therefore, his silence can be commented
+on.
+MR. FISHER: No, that's not the holding of
+the Berghuis case, with all due respect. The Berghuis
+case was about whether his subsequent statements could
+be used against him. This Court didn't hold that his
+silence that preceded those statements could be used
+against him, and, indeed, that would be contrary to
+Miranda itself in footnote 37, where the Court said, if
+somebody stands mute in a custodial setting in the face
+of law enforcement accusations, they may not be -
+JUSTICE BREYER: Then what's the law? What
+is -- I mean, Joe Smith leaves a -- a blank in part of
+his tax return. The IRS gets it. Later, it turns out
+to be relevant, and the prosecutor wants to say, hey, he
+left this blank. Okay?
+Now, Griffin doesn't apply, right.
+MR. FISHER: If the -
+JUSTICE BREYER: I mean, isn't it -- you're
+not going to say that any -- any time you refuse to tell
+the government anything and, later on, it turns out to
+be relevant to a criminal prosecution, that that's taken
+as an invocation of the Fifth Amendment. I mean, do you
+want to go that far?
+MR. FISHER: No, I don't need to.
+JUSTICE BREYER: Okay. Then you need a
+line.
+MR. FISHER: This case is -
+JUSTICE BREYER: Then what is -- then you
+need a line. So where is -- there's the tax case; then
+we have a case they're selling tickets to the
+policeman's ball, and somebody comes to the door, and
+the policeman says, hey, I haven't seen you around
+before, and he doesn't answer. Okay? Now, that's
+probably not an invocation.
+And then we have the clear line, which, in
+custody, and, now, you want to extend that line. And so
+what I want to know if we -- if I follow you and extend
+it, what line do I draw?
+MR. FISHER: Well, it's sufficient to decide
+this case to say that a noncustodial police interview
+during the investigation of a crime, where they're
+interviewing somebody about -
+JUSTICE BREYER: So then -
+MR. FISHER: -- who is -- who is, as the
+State concedes, a suspect in a crime. Now, it may well
+be that Griffin extends a little bit further, and,
+remember, the Solicitor General at least agrees that
+Griffin applies in a noncustodial setting.
+JUSTICE KENNEDY: Well, but it's -- it's
+well settled that, when you're -- wherein you're
+examining the witness and he takes -- and he suddenly
+says, I don't want any more questions, that
+that's -- he's waived if you're in court, if you're
+examining a witness on the stand.
+So, against that background, suppose, in
+this case, the facts were just about the same, and he
+said what -- the police said, what would you do if we
+matched the shotgun shells? And he said -- he said,
+"Well" -- and then he starts to cry. He said one word,
+"Well," and he started to cry. Admissible?
+MR. FISHER: I think that would be
+admissible, but it would be forbidden for the -
+JUSTICE KENNEDY: Because he said, "Well"?
+MR. FISHER: Yes. That word would be
+admissible if the State had -
+JUSTICE KENNEDY: But -- but could the
+police officer also testify that and then he started to
+cry?
+MR. FISHER: Perhaps. But the State -- what
+the State would not be able to do would be to argue that
+his silence and refusal to answer the question
+demonstrated his guilt.
+JUSTICE KENNEDY: Or the prosecution could
+say, Well, he said, well, and started to cry, and he
+never told us anything else. That -- that final
+sentence that I used is impermissible?
+MR. FISHER: I think that may well cross the
+line. You have the exact issue that arises already in
+custodial settings, where, under Doyle and footnote 37
+of Miranda, you've held that silence can't be used
+against a criminal defendant.
+So, Justice Kennedy, you're right, that
+questions will arise in two ways: One is whether words
+that the defendant uses are tantamount to refusing to
+answer the question, and then there is a second question
+about physical demeanor evidence.
+The law is already sorted out on this in the
+lower courts, and I think it's a very workable test.
+The Solicitor General agrees with what it is, and the
+reason why this Court hasn't seen a case or -- itself,
+seen a case like that is because, once the rule is
+established that the prosecution can't use silence
+against the defendant, the temptation drops away to try
+to introduce that evidence for some, supposedly,
+different purpose.
+JUSTICE GINSBURG: Mr. Fisher, but then -
+do -- do I understand correctly that you're saying
+demeanor is different, so, although it was impermissible
+to comment on silence, it was okay to say he looked
+down, he seemed to be sweating, he was very nervous, he
+was shuffling his feet.
+MR. FISHER: Insofar as demeanor evidence
+that the State offers has communicative values and the
+State argues that it has communicative value,
+independent of, simply, what the defendant looked like
+when he remains silent, then it -- then it may well be
+able to introduce that evidence.
+Now, as I said, as I was just finishing up
+telling Justice Kennedy, you're not going to have hard
+cases in this respect because, once the temptation -
+once it's clear that silence can't be used, then the
+prosecution, I think, has little motivation to try to
+walk that line.
+And, indeed, I think it would be appropriate
+in a case, if the prosecution said, look, the fact that
+the defendant started crying, we think, is relevant for
+some reason independent of what he -- of failing to
+answer the question. The jury could be instructed, as
+they are in Griffin -- Griffin settings already, that
+you aren't to consider the defendant's refusal to answer
+the question against him, but -
+JUSTICE SOTOMAYOR: Mr. Fisher, I -- I have
+a number of problems. The first is your rule would be
+seen to be giving noncustodial defendants more rights
+than those defendants in custody because you're arguing
+that -- I think -- that a greater degree of expression,
+other than silence, would be needed to show the
+invocation of the privilege against self-incrimination.
+MR. FISHER: No.
+JUSTICE SOTOMAYOR: Or are you trying to
+equate the rights that a defendant has to custodial and
+noncustodial, with respect to invocation?
+MR. FISHER: No. And I -- and this is where
+Justice Ginsburg's question came from, so I think it's
+very important for me to be clear on this.
+A person in a noncustodial setting still has
+fewer rights than a person in a custodial setting. What
+the Court held in Berghuis is that, if the defendant
+wants to exercise his prophylactic right under Miranda
+to cut off police questioning -- those are the words
+this Court used -- that has to be expressly invoked in
+some manner during the interrogation.
+JUSTICE SOTOMAYOR: The problem -- I have an
+easier problem understanding this argument with
+respect -- and I'm going to ask your adversaries -- with
+respect to the situation in which someone is approached
+by the police and said, come in and talk to us. I have
+a hard time understanding how the refusal to come talk
+to them could be held against them. There, I understand
+it.
+But, here, your defendant went in and
+talked. So, once he chose to do that, why does he get
+more rights than Berghuis did, who remained silent for
+2-and-a-half hours? The Court wasn't willing to find
+that that was an invocation of the privilege against
+self-incrimination. Why would it find the refusal to
+ask one -- answer one question indicative of the
+privilege against silence -- or the privilege for
+silence?
+MR. FISHER: Let me -- if I may, let me
+focus on the Berghuis question.
+JUSTICE SOTOMAYOR: I know -
+MR. FISHER: And then turn to the selective
+silence point. The reason why he doesn't have --
+Mr. Salinas doesn't have the right that Mr. Berghuis had
+to cut off questioning. That's the right that has to be
+expressly invoked, and it, indeed, can only be
+effectuated in this setting.
+There was no issue in Berghuis, I don't
+think, that his silence could be used against him. The
+State never argued in the Berghuis case that, because he
+failed to answer for 2 hours, that shows he's guilty.
+What the State argued in Berghuis was the fact that he
+later confessed is what shows that he is guilty.
+JUSTICE KENNEDY: Is -- I don't want -- are
+you saying that, before the Miranda warning is required,
+you cannot invoke the Fifth Amendment?
+MR. FISHER: No. You can.
+JUSTICE KENNEDY: I mean -- that's my -
+that's how I understood that.
+MR. FISHER: You can. There's two
+different rights -
+JUSTICE KENNEDY: I know you're not arguing
+that, but that's why I'm -
+MR. FISHER: Let me separate two rights.
+One is the prophylactic right under Miranda to have
+police cease asking you questions. That's one right,
+and that right has to be expressly invoked in some
+manner during the interrogation, after you've been
+warned, in order to effectuate it.
+There is a separate right, which is the
+genuine Fifth Amendment right to remain silent. And
+this Court said, in Miranda itself and it's never
+questioned since, that that right doesn't have to be
+expressly invoked. So the question is -
+JUSTICE KENNEDY: Well, but it can be
+invoked, and that might make a big difference. In
+your -- in your brief, you acknowledge that most
+citizens know they have a Fifth Amendment right.
+MR. FISHER: Right. So, I think, Justice
+Kennedy -
+JUSTICE KENNEDY: And so if there's -- if
+questions are somehow troublesome, you say, I'm invoking
+my Fifth Amendment right; go away, even if you're not in
+custody, even if Miranda doesn't apply.
+MR. FISHER: Right.
+JUSTICE KENNEDY: And your client didn't do
+that here.
+MR. FISHER: He didn't. And so the
+question -- I think, unless the Court's prepared to hold
+that even an expressed invocation could be used against
+him, then it reduces the question you framed, Justice
+Kennedy. And so ask yourself whether there's any good
+reason to require an express invocation in that setting.
+Mr. Salinas, remember, did expressly invoke
+his right to -- Fifth Amendment right to remain silent,
+at trial, in a timely manner, asking for the evidence to
+be excluded. So the question is whether there's a
+reason to ask him to do it sooner. And our argument is
+it's unnecessary, unfair, and a rule like that would be
+unadministrable. So let me walk through those, if I
+can.
+It's unnecessary because all the cases the
+Solicitor General cites for an express invocation
+principle involve a scenario where the government has no
+good reason to know that it's seeking incriminatory
+information.
+And, Justice Breyer, this is the limiting
+principle that you were searching for in the tax cases
+and the like. If the government doesn't know or have
+good reason to know that the defendant who is silent is
+likely to be exercising his right, then the government
+needs to be put on notice because the government may -
+may well challenge, may well go seek a court order. It
+may well decide to grant immunity. It may do a number
+of things.
+But, here, the government would do
+absolutely nothing different. Police would have done
+absolutely nothing different. Indeed, look at the
+record in this case. What the Solicitor General says is
+that Mr. Salinas should have said, "I refuse to answer
+that question," and, if he had said that, everything
+would be different.
+But look at what the State argued at trial
+and what the officer testified. The officer testified,
+when we asked him that question, he wouldn't answer.
+The prosecution argued to the jury, he refused to answer
+that question. So there is no ambiguity in the setting,
+whether he was remaining silent.
+JUSTICE BREYER: Well, yes, there's no doubt
+he was remaining silent, but the issue is whether he was
+trying to raise his Fifth Amendment right.
+Now, suppose your rule were, whatever the
+situation, where either the individual expressly raises
+his right or, at the least, it's a fair implication from
+the circumstance that he was trying to assert his right,
+would that be a sensible rule?
+And, if so, how would your case stack up?
+MR. FISHER: Yes. I think, as long as the
+latter part of that test, Justice Breyer -- can be
+satisfied by exercising the right, that is remaining
+silent -
+JUSTICE BREYER: It depends on the
+circumstance.
+MR. FISHER: -- in a setting in which -- in
+a setting in which the government has every good reason
+to know that the person is most likely to be relying on
+the Fifth Amendment. And, here, where they are
+investigating a murder and bringing in somebody as a
+suspect and asking him, basically, did you commit the
+crime, I think it's a fair assumption -- at least absent
+any clarification by the police -- remember, when he was
+silent, the police would have had every right to say,
+Mr. Salinas, why aren't you answering the question?
+And so the police could clarify. But,
+absent any clarification from either the police or the
+suspect, the more likely than not scenario -- and that's
+the test the Solicitor General agrees should be used -
+the more likely than not conclusion there is that he is
+exercising the right. Now -
+JUSTICE SOTOMAYOR: How would you deal with
+another common situation where a defendant meets up with
+the police, gives a story, and then, later, changes the
+story. And the question is asked at trial, you never
+volunteered that story to the -- to the police when they
+questioned you.
+Would that be silence, to you? Would that
+be an invocation of his right not to incriminate
+himself? Or would you -- would the prosecutor be barred
+from arguing to the jury, as often is done, he chose to
+say this, but not that, so this is a made-up story.
+MR. FISHER: No, Justice Sotomayor, for two
+reasons: One is, if I understood your hypothetical, it
+sounded like the defendant may have been on the stand,
+and that would be an impeachment scenario that's
+entirely different. But even -
+JUSTICE SOTOMAYOR: Now, sometimes, they
+come back and later do a different confession.
+MR. FISHER: Right. So but -- but even if
+that were the case, then that would be basically using
+his statement against him. And so a material omission
+from a statement is not the same as silence. Here,
+Mr. Salinas was silent.
+Now, it's also not just that there's no good
+reason to require some sort of magic words to be spoken
+by the suspect, but it's unfair. Remember, the States
+tell you, in their amicus brief, that, if you affirm in
+this case and adopt the rule they're asking you for,
+police officers are going to tell people in its custody,
+which would be nothing more than an accurate statement
+of the law, sir, if you are silent in response to any of
+our questions, the prosecution is going to argue that
+that -- that shows that you're guilty.
+They're also going to have every good reason
+to bring people in. I think this goes a little bit to
+Justice Kennedy's question and -- and perhaps just yours
+as well, the fact that Mr. Salinas did agree to commence
+this interview. Remember, he agreed -
+CHIEF JUSTICE ROBERTS: Well, he's not in
+custody. So let's say he's answering the questions.
+All of a sudden, he gets a particular question, and he
+says, you know, it's getting late, I think I'm done, and
+going to go home. Is that an invocation of the Fifth
+Amendment right?
+MR. FISHER: I think you'd have to ask that
+to the Solicitor General. I don't -- I'm not the one
+requiring an invocation. And that is part of the
+administrability problem that the rule raises. I have
+no idea of all the permutations, one of which you've
+raised -
+CHIEF JUSTICE ROBERTS: Well, is that
+something -
+MR. FISHER: -- but you can imagine many
+more.
+CHIEF JUSTICE ROBERTS: Is that something
+that could be used against him at trial?
+MR. FISHER: It can be introduced. It's
+hard to understand how that is probative, the fact that
+he said, I have to leave now, it's time to go.
+CHIEF JUSTICE ROBERTS: Well, it's probative
+if that he says that -- he's answering all the
+questions, they're fine. All of a sudden, they say,
+well, is your shotgun going to match the shell?
+MR. FISHER: Yeah.
+CHIEF JUSTICE ROBERTS: Then he goes, gosh,
+it's late, I'm going to go home. That seems as -
+(Laughter.)
+MR. FISHER: Well -
+CHIEF JUSTICE ROBERTS: That seems as
+probative as the silence.
+MR. FISHER: Well -- and so -- what the
+State cannot do is what it did in this case and sort of
+transform that into he refused to answer, and,
+therefore, it shows he's guilty.
+And, if I could go back to the part of the
+unfairness and the difficulty here, it's not -- it's
+just that -- yes, Mr. Salinas did come to the police
+station, but remember why he came to the police station,
+because they said, we want to bring you in to clear you
+as a suspect, to get elimination prints.
+So he was effectively told to come in, so
+that we can clear you as a suspect, asked perfectly
+innocuous questions at the beginning of the interview,
+and then everything shifted on a dime to this one
+"gotcha" question.
+And I think it's perfectly reasonable and
+customary in out-of-court settings, where the defendant
+isn't on the stand and so telling some story, now,
+trying to backtrack it, but out of court, to be able to
+selectively exercise your right to silence, when you
+feel, now, law enforcement is turning against me.
+And, remember -- this is the other part
+about, Justice Kennedy, your question. Of course,
+people know they have a right to remain silent, so why
+not -- why not ask them to invoke it?
+Remember, people in this setting generally
+don't have lawyers. They don't have a right to lawyers.
+What does the layperson know? The layperson knows, I
+have a right to remain silent. That's what the
+layperson knows. The layperson doesn't know I have to
+say some sort of magic words.
+And the police, believe me, aren't going to
+tell him that he does, in order to -
+JUSTICE ALITO: Would you draw a distinction
+between Mr. Salinas's situation and someone who's
+questioned in the home -- in the person's home or on the
+street?
+MR. FISHER: No, I don't think there is a
+relevant distinction there, Justice Alito, as long as an
+investigatory interview -- and this Court has said, time
+and again, whether it's Berkemer in a traffic stop or -
+or Royer, that the police can try to initiate consensual
+encounters. And the Court has said, time and again,
+that people don't have to participate in them, and they
+can cut them off at any time.
+And it would be odd -
+JUSTICE ALITO: And what if -- what if the
+person -- what if the person was totally unknown to the
+police, but called up the police and said they want -
+and wants to talk to them for some purpose. You
+wouldn't draw a distinction between that situation?
+MR. FISHER: In -- well, if he wants to talk
+to them -
+JUSTICE ALITO: He wants to talk to them
+and -
+MR. FISHER: -- I'm not sure he has the
+right to remain silent, no.
+JUSTICE ALITO: He wants to talk to them,
+and then, in the course of this conversation, the same
+thing happens that happened here.
+MR. FISHER: I think that might, depending
+on the precision of the hypothetical, be a little bit of
+a difficult -- different case. But, if the person said,
+I want to talk to you about criminal activity, started
+giving statements about a -- about a past crime, so it
+was an investigatory interview, I think it may well
+apply.
+JUSTICE KENNEDY: You're -- you're giving us
+Miranda, not Miranda, custody, not custody, gray area.
+That -- that's what you're arguing. You want a gray
+area opinion to be written?
+MR. FISHER: No, I don't want a gray area
+opinion. Remember, Justice Kennedy, at least the
+Solicitor General -- and I'll let the State speak for
+itself -- but the Solicitor General agrees that Griffin
+rule applies in a noncustodial setting.
+I -- I totally understand there's a bright
+line between custody and noncustody, and so a custodial
+suspect is in a different situation than a noncustodial
+suspect.
+But all I'm saying is, again, in agreement
+with the Solicitor General, whereas all we disagree on
+is whether the magic words need to be spoken, that a
+person who is at least in a police investigatory
+setting, and so the police would reasonably expect that
+a failure to speak or answer your question was relying
+on a Fifth Amendment -
+JUSTICE SOTOMAYOR: I -- I'm assuming, now
+that I'm thinking about your argument, you would argue
+that, even in a custodial setting, a prosecutor couldn't
+say, I asked him, did he shoot his wife, and the
+prosecutor can't argue that, because he refused to
+answer, that makes him guilty.
+MR. FISHER: That's precisely what the Court
+said already in Footnote 37 in Miranda, what the lower
+courts have depended on for a generation now, and I
+don't think my opponents are even arguing to the
+contrary.
+JUSTICE SOTOMAYOR: Well, in fact, at most
+trials, district court judges tell juries the evidence
+is not the unanswered question. It's the question plus
+the answer.
+MR. FISHER: Right. Right. Fair enough. I
+think that's perfectly well-established law. And so the
+reason is, is there any reason to distinguish for
+purposes of the Griffin rule -- I understand there's
+reasons to distinguish in the -- in the settings that
+Berghuis raises, but, for purposes of the Griffin rule,
+is there any reason to distinguish between a custodial
+and a noncustodial setting?
+JUSTICE BREYER: Yes. Well, but, yes. The
+answer is going to be yes because we're going to hear it
+in one minute because, as you say, it follows a fortiori
+for Berghuis, you know, it's -- if you're going to have
+to make an explicit statement to invoke your Fifth
+Amendment right, when you're not in an inherently
+coercive setting, I mean, that's going to be the
+argument.
+MR. FISHER: No, but -- but -
+JUSTICE BREYER: You're not in an inherently
+coercive setting, as you are in the Miranda situation,
+you're not at trial, and, outside those two situations,
+you have to say explicitly, I'm invoking the Fifth
+Amendment -
+MR. FISHER: No.
+JUSTICE BREYER: -- or tap on the
+Constitution or something in order to indicate -
+MR. FISHER: No.
+JUSTICE BREYER: -- that's what's at issue
+and that's what -
+MR. FISHER: Justice Breyer, this is
+crucial.
+JUSTICE BREYER: Yes.
+MR. FISHER: If Mr. Salinas had been in a -
+if everything about the case was identical, but he'd
+been in custody, there would be no argument that his
+silence could be used against him.
+JUSTICE BREYER: Right. And that's saying
+because, there, we have a line. It's called the
+in-custody line. Once you get outside of custody -
+MR. FISHER: But it's not because of the
+physical or inherent pressures of custody because what
+the Court has said, time and again, is that, after
+somebody receives their Miranda warnings, they have a
+free and deliberate choice whether to talk. And so -
+JUSTICE BREYER: Well, I don't want to make
+the government's argument for them. They'll make it
+very well.
+MR. FISHER: Well, no, but I do want -- I do
+want to make sure that the Court understands the
+critical difference between the express invocation
+requirement that this Court established in Berghuis and
+what I'm asking for today.
+And the express invocation requirement in
+Berghuis is the -- is -- is to administer the Miranda
+prophylactic rule, that the police have to stop asking
+somebody questions when they invoke their rights, the
+rights they've just been advised of, remember.
+It didn't hold in Berghuis and it -- and
+it's never held that, if somebody is Mirandized -- and
+let's say Mr. Berghuis was Mirandized and just remained
+silent for two hours, and then the police said to
+themselves, oh, this guy is never going to talk, we end
+the interview, there would have been no argument the
+State could have made in that case, that his silence
+could be used against him.
+And so I understand that -- that -- you
+know, I'm -- that custody is different, but, in terms of
+the express invocation requirement, there's no express
+invocation requirement in custody, and there's no reason
+for it here.
+JUSTICE BREYER: So I think the argument
+will be, I think -- it is, at least in my mind, that if,
+after sitting there for 45 minutes -- or maybe it was an
+hour and 45 minutes -- without saying anything, I'm -
+I'm maybe taking a dissenting position, but, if -- when
+he answers -- doesn't answer over that long period of
+time, but doesn't say, I want to remain silent, if that
+long period of behavior is insufficient without the
+express statement to show that he wanted to remain
+silent, so, outside custodial setting, should it be
+insufficient to simply remain silent to show that -- you
+see, it's argument by analogy, I think -
+MR. FISHER: I understand, but his silence
+wasn't able to be used against him in Berghuis; his
+state -- his later statements were. And so, yes, you
+could have a scenario -
+JUSTICE KAGAN: Isn't the -- isn't the
+point, Mr. Fisher -
+MR. FISHER: Pardon?
+JUSTICE KAGAN: The question is: What is it
+insufficient for? In Berghuis, it was insufficient for
+the purpose of cutting off police questions.
+MR. FISHER: Exactly.
+JUSTICE KAGAN: That's not the case here.
+The question here is whether it's sufficient or
+insufficient for the purpose of allowing his -- his
+silence to be used against him at trial.
+MR. FISHER: Precisely.
+JUSTICE KAGAN: That's an entirely different
+question, isn't it?
+MR. FISHER: That's exactly my point. And
+remember, again, the layperson in this setting who
+knows -- if there's one thing the layperson knows and
+most every American knows, is that they have a right to
+remain silent. So somebody nervous in this setting,
+without a lawyer, the one sanctuary they have is simply
+not to talk.
+If you issue an opinion that says, as the
+Solicitor General would like, you have to pronounce some
+sort of magic words, it's terribly unfair and terribly
+misleading and, again, for no good reason. And it
+raises all kinds of administrability problems. The
+Court is going to have an absolute, I think, flood of
+cases of all the permutations of somebody under
+different kind of police warnings or the other that may
+be given ahead of time and different kind of verbal
+formulations.
+Maybe he says, I'd like to talk about
+something else. Maybe he says, as the Chief Justice
+explained, I'm going to leave now. Maybe he actually
+just doesn't show up for the interview. There is
+innumerable permutations. The easy rule -
+JUSTICE ALITO: Unless you're going to argue
+that -- that silence cannot be -- can never be commented
+on in any noncustodial situation -- and I didn't think
+you were willing to go that far when I was questioning
+you previously -- you're going to have the same kind of
+line-drawing questions, aren't you?
+MR. FISHER: No.
+JUSTICE ALITO: Where was it held? What was
+the nature? Who initiated it? Was the person really
+under suspicion? What was the purpose of the -- of the
+questioning?
+MR. FISHER: So as to where -- as to where
+you draw the line, if I understand your question, as to
+where an express invocation before trial would be
+required, you are going to have to draw a line. I think
+it's very easy to draw the line and just say a police
+investigatory interview because that's the setting where
+the police have every reason to believe that silence is
+an exercise of the right.
+All the other settings, whether they be tax
+settings, whether they be immigration cases, all the
+totally disparate settings the Solicitor General cites
+cases involving, it's perfectly reasonable to require an
+advance invocation there.
+But, remember, the Court said in Chavez that
+the Fifth Amendment is a trial right, and so invoking it
+at trial is perfectly timely in the ordinary setting.
+The only question is whether you should have some sort
+of special requirement for special reason. We think
+there is no good reason, and it would be very unfair.
+I'd like to -
+JUSTICE SOTOMAYOR: I guess, as I understand
+your rule -- I'm sorry. I'll ask it on rebuttal.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Mr. Curry.
+ORAL ARGUMENT OF ALAN K. CURRY
+ON BEHALF OF THE RESPONDENT
+MR. CURRY: Mr. Chief Justice, and may it
+please the Court:
+Absent an invocation, a defendant's failure
+to answer a question during a noncustodial, voluntary
+interview should not be protected by the Fifth
+Amendment. It should be -
+JUSTICE SOTOMAYOR: But why, counsel? I
+mean, really, what you're saying is, merely because I
+asked you the question and you choose not to answer, it
+makes you guilty.
+MR. CURRY: Well -
+JUSTICE SOTOMAYOR: It -- no problem. Here,
+you're asking about the crime of investigation. But you
+could have asked him, did you kill Joe Blow on another
+street, and, if he had remained silent, you would be
+arguing that proves he is guilty, I could introduce that
+at trial.
+And you would be arguing it would be
+sufficient to convict him, that you merely asked the
+question and he remained silent about it shows his
+guilt.
+MR. CURRY: Yeah, I don't know that that
+would be sufficient to convict him. And that -- that
+hypothetical might suggest that the probative value of
+that particular failure to answer a question was less -
+JUSTICE SOTOMAYOR: It's a little scary to
+me that an unanswered question is evidence of guilt.
+MR. CURRY: Well -
+JUSTICE SOTOMAYOR: He is not arguing that
+the physical response is not admissible. He is just
+arguing that the mere asking of a question and a failure
+to answer it, you can't argue, as a prosecutor, that
+that shows someone is guilty.
+MR. CURRY: I think one of the things we are
+asking the Court to do, Justice Sotomayor, is to
+recognize that silence, certainly, as occurred in this
+case, doesn't always occur in a vacuum. And the
+defendant's failure to answer this question, accompanied
+by things that he did, along with or contemporaneously
+with -- you know, the shuffling of the feet, the biting
+of the bottom lip -- revealed a guilty conscience on his
+part.
+JUSTICE SCALIA: Well, it would be up to the
+jury, wouldn't it? The jury might well agree with
+Justice Sotomayor, that it doesn't prove anything that
+he answered a question, right?
+MR. CURRY: Right. I mean -
+JUSTICE SCALIA: The question is whether you
+can ask the jury to consider that.
+MR. CURRY: Correct. And I think that's --
+I think that's the import of our argument. And we've
+referenced this Court's language in Baxter, to that
+extent, that a jury can give what weight they wish to
+give it, but the -
+JUSTICE SOTOMAYOR: Your -- my hypothetical
+that I posed earlier, if the police call you and say,
+come in for questioning, and you ignore them, is that an
+invocation of the right to silence or not?
+MR. CURRY: I don't know that that's an
+invocation, Your Honor, but I don't know -
+JUSTICE SOTOMAYOR: Why -- why could you
+argue that that's -
+MR. CURRY: Number one, I don't think a
+prosecutor ever would argue that because that's
+ambiguous and not probative, and I think -- not
+probative for someone just to not come in when police
+offer them a chance to come in.
+JUSTICE SOTOMAYOR: They -- then they're
+arguing what the legal theory of guilt is in that
+situation.
+MR. CURRY: Right. The legal theory of
+guilt in that situation would be lessened than it is in
+this case because there is no -- there is nothing to
+suggest that that defendant was guilty, necessarily,
+because he decided not to show up to the police.
+But, here, in this situation, the
+defendant's failure to answer the question, accompanied
+by the other things that he did, did reveal a guilty
+conscience on his part. And it was nothing to reflect
+that he was trying -
+JUSTICE SOTOMAYOR: All right. So why is
+it -- would it be admissible that someone decides -
+someone comes in, and they say -- police say to him or
+her, we are investigating this crime, help us. They
+start asking questions, and it's clear from the first
+question -- there is a waiver of Miranda, and, from the
+first question, the first question is, did you kill this
+person?
+The guy remains silent. They ask a whole
+bunch of other questions, and he remains silent. Had -
+has he invoked his right?
+MR. CURRY: I don't believe he has, Your
+Honor. I mean, if he -- you said he was provided
+Miranda rights, so maybe they feel he is in custody or
+not, but -
+JUSTICE SOTOMAYOR: So a prosecutor could go
+into the jury and say, he waived his Miranda rights, and
+he is guilty because he refused to answer our questions?
+MR. CURRY: He is guilty if he revealed a
+guilty conscience, Your Honor.
+JUSTICE SCALIA: He wouldn't say that. He
+would say one of the indications of his guilt is that he
+refused to answer the question. No prosecutor would
+argue that, that alone, would support a conviction,
+right?
+MR. CURRY: Correct, Your Honor. And that's
+not what we're -- that's not what we are asking the
+Court to do here. We're not asking the Court to say
+that, every time silence occurs, that's necessarily
+going to be probative, and every time silence occurs,
+that's necessarily going to be something that we
+utilize.
+We're merely saying that, in this particular
+situation, the defendant needs to tell something to the
+police in order to reveal that he is relying on a
+constitutional right and not merely having -
+JUSTICE KAGAN: I'm sorry. Just to nail
+that down because your first three words were "absent an
+invocation."
+MR. CURRY: Yes, Your Honor.
+JUSTICE KAGAN: Are you -- are you, now,
+adopting the Solicitor General's argument? Because your
+brief goes further. So are you, now, saying that the
+crucial thing is the invocation?
+MR. CURRY: I believe that has been our
+position, Your Honor. I believe -- we do have some
+alternative argues, as well, based upon this Court's
+jurisprudence. But I think the government and we both
+agree that the defendant in this particular situation
+would need to invoke.
+And that is the basis upon which we proceed.
+And we are not proceeding just upon Berghuis v.
+Thompkins.
+JUSTICE KAGAN: And so you would agree with
+the government that, if he had invoked, that the Fifth
+Amendment right would come into play?
+MR. CURRY: We would not attempt to -- we
+would not attempt to introduce anything, for example "I
+plead the Fifth," "I don't want to talk any more,"
+something like that, No, we would not be introducing
+that. I do believe that would be a rule -- you know, a
+violation of the rule -
+JUSTICE SCALIA: That's the line you're
+drawing, between his -- his just not answering and his
+saying, I don't want to answer?
+MR. CURRY: Correct, if I understand your
+question.
+JUSTICE SCALIA: The latter can't be
+introduce to the jury, but the former can?
+MR. CURRY: Correct. That's the rule -
+JUSTICE SCALIA: Why would you -- why would
+you draw that -- that line?
+MR. CURRY: I think, Your Honor, I would not
+want to -- I would not want to introduce a statement
+that a defendant was relying on a constitutional right
+by saying, "I don't want to talk any more," as opposed
+to the mere silence, which might be probative, in
+conjunction with other evidence.
+JUSTICE SCALIA: Doesn't the mere silence
+suggest, "I don't want to talk anymore"?
+MR. CURRY: It might, but it also might
+suggest that he's having difficulty coming up with an
+exculpatory response. It might suggest that he can't
+think of a good answer. It might suggest that he is
+worried about the question and he is thinking more about
+how worried he is about the question than how he wants
+to respond to it.
+CHIEF JUSTICE ROBERTS: Particularly since
+he did want to talk some more, right?
+MR. CURRY: Correct. He continued to
+respond -- you know, several questions thereafter,
+continuing to provide exculpatory responses.
+JUSTICE GINSBURG: But isn't the most
+logical inference from the silence not that he isn't
+quick enough to come up with an exculpatory answer, but
+that it would incriminate him if he answered?
+MR. CURRY: Yes, Your Honor. That may be -
+that may be a permissible inference, but I do not
+believe that that necessarily means that he was invoking
+his -- his Fifth Amendment right because he did continue
+to talk. He already knew what the police were
+investigating.
+JUSTICE GINSBURG: But he could -- he could
+invoke the Fifth Amendment with respect to one set of
+questions and not another, and what's disturbing me
+about your position, if it's -- if you have -- someone
+being interrogated, who is savvy, will say, "I plead the
+Fifth." And somebody who is not that smart is just
+silent. To make a difference between those two people
+on whether comment can be made on the failure to respond
+is troublesome.
+MR. CURRY: Your Honor, I think that would
+be consistent with this Court's jurisprudence to -- to
+allow the use of evidence, if there was no invocation
+involved. In Jenkins v. Anderson, Justice Stevens
+recognized the importance of an invocation, even in -
+even in that type of situation.
+This Court -- it's not just Berghuis v.
+Thompkins that we're relying upon, where the Court has
+recognized the necessity of an invocation. Garner v.
+United States says the same thing, that -- that an
+invocation is necessary for Fifth Amendment rights.
+And I know that we don't have a case that is
+squarely on -- on four with this one. But all the
+defendant would have to say is, I don't want to talk
+anymore, or I don't want to answer that question, and
+then we would be in a completely different posture at
+this point.
+But, here, the -- the defendant failed to
+answer a question and did other things that revealed a
+guilty conscience on his part. And that is precisely
+the type of evidence that we believe that we can
+introduce.
+JUSTICE KAGAN: But, Mr. Curry, in a case
+like Berghuis, which is in a custodial setting, if the
+defendant there had not ever said anything, had gone
+through the entire interview and, really, never said a
+word, so that the police kept asking him questions, but
+he never said anything, the prosecutors could then not
+go in and say, look, for 3 hours, we asked him
+questions, and he didn't talk.
+That would be off limits. And the question
+is, if that's off limits, why shouldn't this be off
+limits as well? If there's no invocation necessary
+there, for some of the reasons that Justice Ginsburg was
+saying, why should there be an invocation requirement
+here?
+MR. CURRY: Well, number one, because the
+hypotheticals are different. In -- in our particular
+situation, the defendant did answer questions and only
+did -- you know, fail to answer one particular question.
+JUSTICE KAGAN: Yes. I -- I understand
+that, in your case, there happens to be a kind of
+selective answering sort of question, but let's say -
+let's take that out of the picture, all right? And just
+say -- you know, he just didn't want to answer
+questions, all right? So then the question is, why
+would that case be any different from the case that I
+posited?
+MR. CURRY: Okay. In -- in Berghuis v.
+Thompkins, this Court looked at the ambiguous nature of
+whether or not the invocation had occurred. If, in your
+hypothetical, the defendant failed to answer any
+questions whatsoever -
+JUSTICE KAGAN: He -- he didn't invoke. He
+just didn't answer.
+MR. CURRY: But it could be a suggestion
+where he was attempting to exercise the -- the right
+because he never answered anything. But, in our
+situation, the defendant can't be said to have been
+doing that. He can't be said to have been exercising
+the right because he failed to answer a question, but
+answered several other questions.
+JUSTICE KAGAN: Okay. So you're pinning
+your argument really, on the fact that he did a lot of
+answering.
+MR. CURRY: That's one of the reasons, Your
+Honor.
+JUSTICE KAGAN: On this -- on this, you
+know, you can't pick and choose kind of argument.
+MR. CURRY: Well, we're saying that you
+cannot infer an assertion of a Fifth Amendment right
+based upon this. We cannot infer that he was
+necessarily asserting his Fifth Amendment right, whether
+to cut off questioning or stop talking altogether,
+or -- you know -
+JUSTICE KAGAN: So would it be fair to say
+that your argument is, look, you can't just like keep
+talking and talking and talking and -- and, at that
+point, you have to invoke? If -- if you've been doing a
+lot of talking and then decide you want to stay silent,
+at that point, you have to invoke. But that's not to
+say that you have to invoke in every noncustodial
+encounter. Is that your argument?
+MR. CURRY: No. I think you need to invoke
+in every -- every noncustodial encounter if -- if you do
+not want the things that you say to be utilized against
+you. If you -- if you want to -- you know, if you want
+to be prevented from that evidence being utilized, you
+have to say, I don't want to talk anymore, or I plead
+the Fifth, or whatever the words -
+JUSTICE SCALIA: But I thought you said he
+didn't have to do that, if he didn't answer any
+questions, didn't you? Isn't that what you said?
+JUSTICE KAGAN: You took the words out of my
+mouth.
+MR. CURRY: No, no. If he didn't answer any
+questions, then -- then it would be drawn closer
+to -- to Berghuis v. Thompkins, in which this -
+JUSTICE KENNEDY: Well, but, in Berghuis, we
+found no implication.
+MR. CURRY: Correct. Correct. But if -
+JUSTICE KENNEDY: So -- so Justice Kagan's
+question stands.
+MR. CURRY: But -- but the defendant in
+Berghuis did answer some questions, Your Honor, and
+that's what makes it different from Berghuis. In -- in
+that -- in that case, the defendant did ultimately -
+JUSTICE KENNEDY: Well, a few, as I recall.
+MR. CURRY: Correct. He -
+JUSTICE KAGAN: Mr. Curry, Berghuis is
+different for a different reason. Berghuis is different
+because the question in Berghuis is what do you have to
+do to make the police go away. Here, the police were
+not going away. There was no -- there's no question of
+that. But the question is what do you have to do in
+order to bar the prosecutor from introducing your
+silence at trial.
+So that's a really different question, isn't
+it?
+MR. CURRY: Well, it is a different
+question, but, here, I think the police were,
+quote-unquote, "going away." I mean, they -- they
+finished their questioning at some point. And -
+JUSTICE KAGAN: Exactly. That's why
+Berghuis is irrelevant here because Berghuis said at a
+certain point -- you know, you need to invoke in order
+to stop questioning. But -- but that's not what's at
+issue here.
+MR. CURRY: But this Court's case law still
+requires an invocation. And the rule we're asking this
+Court to adopt would, essentially, settle the split that
+largely exists in -
+JUSTICE BREYER: What is that? That is what
+I'm -- I'm uncertain about this. And they cite page
+468, note 37, of Miranda.
+All right. What is the law, in your opinion
+now, in respect to -- and what case would support this?
+A defendant comes in, he is warned and given his Miranda
+rights. He says, fine, and then he proceeds to answer a
+whole bunch of questions.
+Then they ask question number 432. He says
+nothing. You then go on to 433, 434, et cetera, and he
+answers them all. Okay? At the trial, the lawyer -
+the prosecutor wants to comment on the fact that, in the
+face of that single question -- though answering many,
+many more -- he remained silent.
+Does Griffin say he can -- the prosecutor
+can make that comment, yes or no? And I'd appreciate
+the government answering this question, too, because
+they're -- if they -- are they speaking here? Or are
+you doing the whole argument?
+MR. CURRY: No, the government is also
+arguing as well, Your Honor.
+JUSTICE BREYER: Well, that's -- I'd like to
+get the same answer.
+MR. CURRY: Yes.
+JUSTICE BREYER: Because I -- well, now,
+they cite for the proposition, I think, that it -- that
+the prosecutor is forbidden to make that comment, note
+37 of Miranda. Okay. I just read it.
+MR. CURRY: Correct.
+JUSTICE BREYER: And I -- may be ambiguous
+on the point. It says you have the right to maintain
+immunity in the face of an accusation.
+MR. CURRY: Right. I think the reliance of
+on the footnote is -- is -
+JUSTICE BREYER: No, fine. But what's your
+opinion? I mean, what is the law in respect to that
+single point? And at least to me, I'd -- I'd like to
+know your opinion on that.
+MR. CURRY: Your Honor, I do not believe
+that this Court has extended Griffin to this particular
+type of fact situation, and Griffin wouldn't apply to
+that.
+JUSTICE BREYER: Is there any authority, or
+is it just your opinion that we have to go on?
+MR. CURRY: Well, I believe this Court would
+have had the opportunity to extend Griffin, for example,
+Doyle v. Ohio. Basically, the Court did not do that.
+This Court had the -- the opportunity to extend Griffin
+in Fletcher v. Weir and did not do that.
+So I do not believe this Court has
+necessarily -- you know, sought to always attempt to
+extend Griffin in that situation. Now, we -- I see some
+ambiguity in the standing mute phrase from footnote 37.
+Does that mean not talking at all? Does that mean not
+answering one particular question?
+In your hypothetical, if it was as probative
+as it was in our case -- you know, that might be
+something the prosecution would want to use without
+violating the Fifth Amendment right because there's no
+clear indication that the defendant did, in fact, rely
+upon his Fifth Amendment right.
+Now, I don't want to -- you know, misread
+footnote 37, but that's how we read footnote 37 because
+in the absence of -- there's many, many cases cited
+there, and it's not clear that it's attempted to apply
+an -- an extension of Griffin in that situation.
+The rule we're -- we're offering here would
+not -- would not change the law with regard to how it
+exists in much of the Federal Circuits. In much of the
+Federal Circuits, these defendants where -- where the
+courts have held that we cannot utilize this evidence,
+those defendants have, in fact, done something to
+invoke.
+So I think the -- the rule that we're asking
+the Court to adopt would allow for these -- that case
+law to stand; i.e., if a defendant says, I don't want to
+talk anymore, I plead the Fifth -- you know, we're not
+asking this Court to issue a rule that says that we can
+introduce that.
+All we're asking this Court to -- to
+introduce is consistent with this Court's case law that
+would require an invocation -- or some invocation that
+the Fifth Amendment right was being relied upon and not
+just a difficulty with the question or I can't think up
+an exculpatory answer for that particular question, so I
+don't know what to say.
+I mean, there, the defendant is not relying
+upon a constitutional right. And I think we're asking
+this Court to -- to look at whether an inference has to
+be made that the Fifth Amendment right is being done, or
+perhaps another inference can be -- can be provided.
+And Baxter v. Palmigiano allows for acquiescence -- you
+know, to -- to be something that we can utilize against
+a defendant.
+Here, the jury -
+JUSTICE SOTOMAYOR: Where does the
+compulsion line come in? Your adversary points out
+that, under this scenario, the police can ask you
+questions and say to you -- you know, if you stay quiet
+in this question, I'm going to use it against you at
+trial, that police will actually to that, that they'll
+actually come in and tell defendants who are telling the
+story -- you know, either answer or it'll be used
+against you.
+MR. CURRY: I could perceive then, Your
+Honor, the -- the trial court upholding a claim by the
+defendant that he was coerced at that point, that, at
+that point, the officer -
+JUSTICE SOTOMAYOR: So why can't you say
+that a call from a police officer to someone who says,
+come in and talk, that that can't be used against them
+at trial as -- you gave me a different answer. You said
+it wasn't probative, but you didn't say Griffin would
+protect that.
+MR. CURRY: No, if -- no, if -- I don't know
+that I would say Griffin is protecting it, but what I
+would say is this Court's penalty jurisprudence would
+say that, when a penalty flows directly from something
+the defendant is -- you know, either saying or not
+saying -- you know, that could be a problem.
+So when an officer says -- you know, I'm
+going to hold -- hold against you your failure to answer
+a question -- you know, that can be something where the
+court might utilize as -- as -- for some sort of
+penalties flown.
+Justice -- Justice Stevens said, in his
+dissenting opinion, in McKune v. Lile, that there is an
+appreciable difference between some sort of sanction -
+official sanction being placed upon a -- you know, of
+essentially disobeying of an order, as opposed to a
+voluntary choice arising from -- from just a possible
+adverse consequence.
+And, here, I think, the fact situation that
+confronts this Court in this case is just the risk of an
+adverse consequence and not something that necessarily
+is going to occur.
+However, if an officer says, I'm necessarily
+going to use this against you, the adverse consequence
+may become more -- more tangible at that point. That
+isn't the facts of this particular case.
+I also want to disagree with Mr. Fisher with
+regard to his suggestion that the police essentially
+manipulated this. If you look on the Joint Appendix,
+page 14, lines 9 and 10, the officer clearly says that
+he wants Mr. Salinas to come down to the police station
+and talk, as well as do elimination fingerprints.
+The officer had already been questioned.
+These people knew we were investigating a double murder.
+These people knew that they were looking for a shotgun.
+They now have a shotgun that they got from the
+defendant. So this defendant was not -- you know, all
+of a sudden, sprung on him the idea that they
+were -- you know, looking for him as a possible suspect
+at that point when they asked a ballistics question.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Ms. Anders.
+ORAL ARGUMENT OF GINGER D. ANDERS,
+FOR UNITED STATES, AS AMICUS CURIAE,
+SUPPORTING THE RESPONDENT
+MS. ANDERS: Mr. Chief Justice, and may it
+please the Court:
+In Minnesota v. Murphy, this Court applied
+the general rule that the Fifth Amendment privilege is
+not self-executing and that a suspect must invoke it in
+order to claim its protection to a noncustodial
+interview in which the -- the probation officer doing
+the questioning was aware that the questions that she
+asked could be incriminating.
+The Court there held that because the
+suspect had not invoked his Fifth Amendment rights, his
+statements could be used against him as evidence at
+trial. A suspect's silence should similarly be
+admissible against him when he fails to expressly invoke
+the privilege. Requiring invocation -
+JUSTICE SOTOMAYOR: That is such a radical
+position, that silence is an admission of guilt. That's
+really what the argument is. I certainly understand
+that speaking can implicate you, and, if you choose to
+speak, clearly, whatever you say can be used against
+you, unless you're in custody and unless you've invoked
+the right before.
+But this is radically different. We are -
+we are -- you're trying to say acts of commission and
+omission are the same, but statements are different than
+silence because, then, you're making the person who is
+asking this question your -- your admission. You are
+saying you're adopting their statement as true.
+MS. ANDERS: Well, I think the Court has
+repeatedly recognized that, when a citizen is
+voluntarily interacting with the police and there -
+there is no coercion because it's not a custodial
+situation, we expect that person to be treated as fully
+capable of deciding whether or not to assert his rights.
+This is what the Court said in United States
+v. Drayton in an analogous context, which is whether
+someone has voluntarily consented to a search. The
+person, even if he is not told that -- that he can
+refuse to -- to consent, we still assume that he knew
+that he could refuse to consent, and, therefore, it was
+a voluntary choice.
+And I think you can draw the same inference
+here, that, when someone -- we -- I think we all agree
+that most people know -- people know what their Fifth
+Amendment rights are, and, therefore, they can assert
+them when they don't face any coercive pressure.
+JUSTICE KAGAN: Ms. Anders -
+MS. ANDERS: And so when the person does not
+do that -
+JUSTICE KAGAN: I'm sorry. We don't require
+invocation at trial, and we don't require invocation in
+a custodial setting. And you might think, well,
+custodial, that's very different because, after all,
+custodial is inherently coercive, but that's the whole
+point of Miranda warnings, is that, once we give Miranda
+warnings, that coercion is dispelled and the custodial
+setting, essentially, becomes like a noncustodial
+setting.
+So, if we don't require invocation, even
+after Miranda warnings are given in a custodial setting,
+why should we require invocation here?
+MS. ANDERS: Well, I think the reason that
+we don't require invocation in the Miranda setting, I
+think, highlights the fundamental difference between
+custodial interrogation and noncustodial interrogation.
+So, in the custodial setting, the Court has said
+that -- that the suspect faces inherent coercive
+pressures to confess -
+JUSTICE KAGAN: Yes, but then -
+MS. ANDERS: -- and, therefore -
+JUSTICE KAGAN: -- you're given the
+warnings, and then that's gone.
+MS. ANDERS: Exactly. That's why we give
+the warnings. And, in the warnings, we promise the
+suspect that his silence will not be used against him.
+And so this is what the Court said in Doyle v. Ohio,
+that, because of that promise, the suspect does not have
+to expressly invoked, and his silence can't be used
+against him.
+But, in the voluntary situation, we presume
+that the suspect knows his rights, and, because he is
+not facing any pressure, he can simply say, I don't want
+to answer that question. And so when he doesn't say
+that -
+JUSTICE GINSBURG: You've -- you've said in
+your brief that there might be a whole other -- many
+other reasons for remaining silent, and I -- I suggested
+that the -- in -- in this kind of scenario, the most
+likely reason that the suspect will clam up is that he
+fears incrimination.
+But what -- what obvious other reasons
+unrelated to the Fifth Amendment, why a defendant might
+remain silent? I mean, the Griffin rule is he doesn't
+have to say, I plead the Fifth, because we assume that,
+when he doesn't take the stand, he is doing so because
+he doesn't want to incriminate himself.
+MS. ANDERS: That's right. The -- the
+Griffin rule says -- or it's premised on the idea that,
+when you fail to testify at trial, you're inherently
+exercising your Fifth Amendment right.
+But I think, when you're looking at a -- a
+noncustodial interrogation, the question whether the
+person is trying to exercise his Fifth Amendment right,
+I think the operative question is not whether he wants
+to avoid inculpating himself, it's whether he wants to
+refuse to answer as a matter of right.
+And I think we know that because, if you
+look at the interview as a whole, presumably, his
+overarching motivation is not to inculpate himself.
+That's why his statement -- his statements can be used
+against him at trial because those statements we -
+we've -- the Court held in Minnesota v. Murphy, those
+statements are inconsistent with a desire to refuse to
+answer as a matter of right.
+JUSTICE BREYER: Are you -- are you
+conceding the -- the point that they make? I -- that -
+that even if in the custodial setting he waives his
+Miranda right, he answers 500 questions, but doesn't
+answer one of the 500, that the prosecutor cannot
+comment on that fact that he didn't answer that one?
+MS. ANDERS: I think that raises a
+different -
+JUSTICE BREYER: Does it? What do you
+think? He says, no, you can't, and he quotes Miranda.
+Okay? What do you think?
+MS. ANDERS: Well, there is -- there is a
+circuit split on that, and -- and I think the circuit
+split shows that it raises a different analytical
+question that the Court doesn't have to get into here.
+The circuit split is that some courts say, as I
+understand it, that, even after the person waives his
+Miranda rights, Doyle still applies, and so you can't
+use his silence against him.
+And some of those other courts say, no, once
+he has waived his Miranda rights, he is essentially in
+the same situation as he would be, if he weren't in
+custody -
+JUSTICE BREYER: And do you have a view
+on it?
+MS. ANDERS: I -- I think we think that the
+better view is that Doyle probably does not apply, but I
+think there is a serious question there. And I think
+the Court doesn't have to resolve it here because,
+again, that highlights a distinction between custodial
+and noncustodial interrogation, that, once the suspect
+has been promised, that -
+JUSTICE KENNEDY: Well, what is your answer
+to Justice Kagan's earlier question to -- of the
+hypothetical of the defendant that says nothing for 20
+questions?
+MS. ANDERS: Well, I -- I think the
+standard -
+JUSTICE KENNEDY: Then there's no -- and
+there's no Miranda warning and no custody.
+MS. ANDERS: Right. So like this case,
+except 20 questions.
+Well, I think the standard is whether the -
+the suspect has done something that reasonably can be
+construed as invocation. This is the standard that the
+Court announced in United States v. Quinn a long time
+ago, but it's also the same formulation that the Court
+used in Davis and Berghuis.
+JUSTICE KAGAN: What -- what does that mean?
+Does he just -- how about if he just says, you know, I
+don't really want to answer that question?
+MS. ANDERS: I think, if he expresses the
+desire not to answer the question, that is sufficient
+because he is saying, I'm not going to answer that, and,
+implicitly, he has a right not to do that. I think the
+20 questions hypothetical that Justice Kennedy proposed,
+probably that would not be sufficient by -- by analogy
+to Thompkins, where the suspect sat silent for two
+hours.
+JUSTICE GINSBURG: Okay. But -- but I don't
+think you -- you were going to tell me this great deal
+of conduct, what silence could mean other than, I fear
+incrimination. What else is -
+MS. ANDERS: Absolutely. I think -- I think
+there are several types -- there are several mental
+states that silence can reflect that are both probative
+of guilt and not consistent with the desire to refuse to
+answer the question as a matter of right. So, for
+instance, the suspect could want to answer the question,
+but have trouble coming up with an exculpatory answer.
+He could strategically decide that he is
+just going to sit silent for a bit, to see what else the
+prosecution -- or, I'm sorry -- the police say, in order
+to spin it out, see what they know. He could be
+dismayed or shocked, momentarily, because the question
+reveals that the police have more evidence than he
+thought they did.
+So I think, in all of those situations,
+those -- those mental states are not consistent with the
+desire to invoke the privilege, and that's why
+Petitioner's rule is, essentially, a prophylactic rule
+that would protect a great deal of conduct that has
+nothing to do with the desire to exercise the Fifth
+Amendment right.
+I think -- you know, this case is a good
+example of that, where you have a -- a suspect who
+speaks for -- you know, several minutes -- you know,
+half an hour, whatever, and he's answering questions in
+an exculpatory manner. He's suddenly silent in response
+to one question, and so I think the inference that could
+be drawn there is that he was surprised by the question
+and didn't know how to answer it in the most exculpatory
+manner.
+JUSTICE KAGAN: Well, Ms. Anders, suppose -
+you know, he thinks that the interview is going to be
+one thing, and then it turns out that the interview was
+something else. He realizes, it dawns on him, that the
+police really do see him as a suspect. And he says to
+himself, I better stop answering, right?
+So he says, okay -- he's answered a bunch of
+questions already, but -- but, now, he's -- you know, I
+don't want to answer any more questions. Is that an
+invocation?
+MS. ANDERS: I think that would be
+sufficient, yes, to say, I don't want to answer any more
+questions. And I think -
+JUSTICE KAGAN: Or, if he says, I don't want
+to answer questions about a particular topic; is that an
+invocation?
+MS. ANDERS: I think that would be
+sufficient to invoke with respect to questions on that
+topic. And I think, as -- as in Thompkins, I think it's
+important to have a clear rule here because invocation
+does affect -
+JUSTICE KAGAN: That doesn't sound like a
+clear rule. I mean -- you know, as -- as between -- you
+know, I don't want to answer those questions on a
+particular topic, I don't want to answer that question,
+or just like could we go on to a different question
+or -- or I don't know. Why is that different?
+MS. ANDERS: Well, I think it's -- it's an
+objective standard, and it's the same formulation that
+the Court has already adopted in Berghuis and in
+Thompkins and in Davis. So, in the Miranda context, the
+Court has already faced this problem, how do we know
+when the defendant has invoked his rights and what
+should the standard be?
+And it has said that it is an objective
+standard, it's what's reasonably perceived as an
+invocation, and so -- you know, the lower courts are
+very used to applying that. I think it's very
+administrable because -
+JUSTICE SOTOMAYOR: What's not administrable
+about telling the police you just can't argue to a jury
+that merely not asking a question is guilt? What -
+what lacks administrable?
+MS. ANDERS: Well, I -- I think there are a
+variety of circumstances in which, as I said before,
+silence is probative of guilt. And so the question is
+whether you want a broad, prophylactic rule that will
+protect a great deal of conduct that -- that has nothing
+to do with the exercise of the right.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Mr. Fisher, you have four minutes remaining.
+REBUTTAL ARGUMENT OF JEFFREY L. FISHER
+ON BEHALF OF THE PETITIONER
+MR. FISHER: Thank you. I'd like to make
+three points.
+First, Justice Breyer, your question about
+the state of the law, with respect to question number
+432, In our reply brief, at page 4, we cite cases that
+are all Fifth Amendment cases, and Canterbury, also,
+which is a Tenth Circuit case cited elsewhere in our
+brief, uniformly holding that the Fifth Amendment
+applies.
+The Solicitor General, when they speak about
+a circuit split with relation to Doyle, they're talking
+about impeachment cases. Remember, Doyle and Jenkins,
+which are the cases the State cited to you in response
+to your question are impeachment cases that are entirely
+different.
+Second, if I -- we can look at the
+transcript this afternoon, but I believe both the State
+and the Solicitor General said to you, today, if
+Mr. Salinas would have said, I don't want to answer that
+question, then he would win, then Griffin would apply.
+But, because it was somehow ambiguous, that it
+shouldn't, that is ridiculous. If you look at the
+transcript in this case, what did the officer testify
+when he said -- he asked him the question, he said he
+did not answer.
+What did the prosecutor argue to the jury in
+closing? Verbatim of what the State is telling you
+today is all Mr. Salinas had to say. At closing, the
+State said, the police officer testified that he
+wouldn't answer that question. He didn't want to answer
+that.
+So the whole principle behind express
+invocation jurisprudence is to put the State and the
+police on fair notice that somebody is exercising the
+right to remain silent. There was zero ambiguity in
+this case that was going on.
+So it explains why the rule that the State
+and the Solicitor General have fallen back on in court
+today is formalism of the absolute worst kind, and the
+only thing that this formal requirement of saying some
+sort of magic words -- and I agree with Justice Kagan, I
+don't know what they are -- but whatever they are,
+what -- exactly what the State argued to the jury
+apparently would have been enough, is just nothing more
+than a trap for the unwary, who is told, through culture
+and learning, that he has a right to remain silent.
+And he does the one thing that is consistent
+with his right, which is exercising it, and, somehow,
+the State is telling you that it can walk into court and
+say, because he remains silent, he's guilty of a crime;
+jury, you should conclude he's guilty of a crime.
+And, Justice Sotomayor, when you asked the
+State, well, what about an officer that tells the
+defendant, as he will have every incentive to do, in
+South Carolina v. Neville, in a roughly comparable
+situation, that law enforcement actually admitted they
+were already doing it, but the States tell you they'll
+do it here, when the officer says, if you don't answer,
+we're going to use that against you, the State said that
+would be coercion. But the officer would be doing
+nothing more than stating the rule the Court is asking
+you to announce today.
+So wouldn't the defendant know the law?
+Don't we assume that the suspect knows the law? And the
+State's telling you, well, if the officer tells the
+person what the law is, it's coercion.
+So, really, what we're asking today is
+nothing radical. It's nothing of a departure of our
+deepest traditions, which require the government to
+shoulder the load itself, to prove the case itself, and
+not to enlist the defendant as an instrument in his own
+demise.
+People's silence -- it is the time-honored
+concept of the Fifth Amendment, which, remember, was
+created for out-of-court questioning by law enforcement
+authorities, that people who remain silent could not
+have that used against them at trial.
+And, finally, I hope the -- the confusion
+with respect to the Berghuis, as related to this case,
+has been dispelled. I think Justice Kagan got it
+exactly right. But, remember, another way to make it
+clear is that, if Mr. Salinas had said, in response to
+the question, I'd like for you to stop asking me
+questions, the police wouldn't have had to honor that.
+Somebody not in custody doesn't have a right
+to have questioning cut off, so the police could have
+kept asking him questions. That's the only right that a
+custodial suspect has and needs to expressly invoke.
+The right to remain silent is not something that's ever
+had to be expressly invoked by somebody in custody or
+not in custody, and there's no good reason to require it
+to be invoked here.
+If the Court has any further questions, I'd
+be happy to entertain them. Otherwise, I'll submit the
+case.
+JUSTICE SOTOMAYOR: I'll like to go back to
+what Justice Ginsburg argued because there is an
+argument here that there wasn't an invocation of the
+right, that, by physical conduct, there was a statement.
+Would you have had a problem if the prosecutor had
+argued at trial -- you know, when he was asked about
+this testing, he didn't remain silent, he got nervous?
+MR. FISHER: No, that would be -
+JUSTICE SOTOMAYOR: And that shows his
+guilt.
+MR. FISHER: That would be an entirely
+different case. And we wouldn't have a problem with the
+State making legitimate arguments based on demeanor
+evidence that is, itself, communicative, as opposed to
+what it did in this case, which is argue that his
+silence demonstrated his guilt.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+The case is submitted.
+(Whereupon, at 12:16 p.m., the case in the
+above-entitled matter was submitted.)
+26:4 affect 57:14 analogous 49:22 answers 25:21 25:8,16 26:2
+63:11 afternoon 59:13 55:7 anymore 35:14 39:9,14,22 40:3
+33:22 30:23 34:8,13 48:8,9,12 49:15 Appeals 4:1,7 arguments 63:4
+agreed 17:12 51:9 52:8 53:7 1:14 arising 47:8
+agrees 6:16 8:8 54:16 55:2,14 applied 48:14 16:3 19:6 22:10
+32:6 ahead 27:11 57:21 58:12 21:20 53:18 37:24 48:6,20
+20:23 21:2 answer 6:2 7:15 43:18 44:17 13:11 15:14
+allow 36:23 45:2 11:1,16 14:10 applying 3:14 29:17 30:10,14
+allows 45:19 22:5,12,21 23:6 appreciable 47:5 37:22 41:25
+27:7 ambiguous 31:19 37:10,14 38:9 April 1:9 49:20 50:6
+59:17 39:6 40:12,16 argue 7:14 17:6 assertion 39:16
+30:9 32:11 3:20 4:2,19 45:12 46:5,14 30:11 31:16,18 1:19
+5:16 11:21 46:24 51:19 33:8 58:9 59:22 assume 49:25
+13:10 14:21 54:8 55:1,3,4 argued 11:15,17 assuming 22:7
+28:18 29:10 57:17,18 59:15 argues 8:23 34:6 attempt 34:16,17
+44:11,13 45:10 answered 4:14 22:16 29:20,22 attempting 39:2
+56:9 59:2,4 answering 15:18 argument 1:12 authority 43:20
+62:17 Breyer 5:5,12,19 13:23 27:9 clear 6:4 9:5 10:4 concept 61:20
+25:16 42:3,24 certain 41:21 49:6 62:20
+34:2 51:22 59:1 challenge 14:3 59:23,24 confronts 47:11
+43:24 bright 21:21 change 44:20 coercion 4:5 conjunction
+broad 58:15 Chief 3:3,8 17:13 coercive 23:11 32:8 33:4 37:15
+3:7 burden 3:22 29:1,5 35:22 come 10:16,17 20:11
+58:21 48:7,12 58:18 16:17 19:1,5 consent 49:25
+32:21 California 1:15 47:8 50:2 45:24 46:4,13 consequence
+36:8 call 31:10 46:12 choose 29:13 47:22 47:9,12,15
+43:16,22 called 20:18 24:8 39:14 49:5 comes 5:25 consider 9:14
+59:13 Canterbury 59:2 chose 10:21 16:9 32:12 42:8 31:3
+10:7,22 Carolina 61:1 53:16 59:3,7 55:20 45:8 55:17 56:4
+case 3:4,13,16 Circuits 44:21,22 commence 17:11 60:18
+23:2,8 4:4,16,16,22 circumstance comment 8:18 Constitution
+25:3,5 4:23 5:21,23,24 14:25 15:8 36:19 42:14,18 23:21
+34:11 6:9,25 8:9,10 circumstances 43:4 53:6 constitutional
+38:19 9:9 11:15 14:9 58:13 commented 4:19 33:20 35:9
+15:2 16:19 17:2 cite 42:4 43:3 27:19 45:15
+18:21 21:7 24:4 59:1 commission construed 54:20
+54:23 25:9 26:14 cited 44:16 59:3 49:10 contemporane...
+61:25 30:16 32:2 37:7 59:9 commit 15:14 30:18
+54:16 56:10 48:17 completely 37:11 continuing 36:1
+created 61:21 62:12 demise 3:25 distinguish 22:24
+15:15 21:9 cut 10:9 11:10 demonstrated district 1:17
+60:21,22 62:7 denied 3:18 disturbing 36:14
+34:25 cross 7:21 D 1:19 2:9 3:1 depending 21:5 door 5:25
+40:21 crucial 24:1 34:3 48:9 depends 15:7 double 47:25
+41:4 43:6 cry 7:3,4,12,18 Davis 54:23 designed 3:20 doubt 14:19
+58:18 63:8 curiae 1:21 2:10 deal 15:25 55:11 difference 12:16 54:2 59:7,8
+Curry 1:17 2:6 decide 6:8 14:4 47:5 50:25 28:5,7,8 35:6
+4:1,7,18 30:1,7,13 31:1 decided 32:4 12:1 14:7,8,12 drawing 34:23
+5:2 6:22 31:4,13,17,25 decides 32:11 16:15,17 21:7 drawn 40:17
+10:7,10,23 32:21 33:3,10 deciding 49:20 21:23 25:12 56:16
+14:3 33:24 34:4,16 deepest 61:15 26:19 27:10,11 Drayton 49:22
+20:9,12 34:25 35:4,7,15 defendant 3:23 37:11 38:8,17 drops 8:12
+24:12 35:24 36:6,21 3:24 7:25 8:3 41:1,6,6,6,13 due 4:22
+27:8 37:18 38:7,19 8:12,24 9:10,25 41:15 46:14 D.C 1:8,20
+29:6 39:1,11,15 40:4 10:7,20 13:25 49:9,11 50:14
+33:12,12 40:16,21,24 16:1,13 19:11 53:8,14 57:19 E
+38:20 41:4,5,15,24 32:3 33:18 34:8 57:20 59:11 E 2:1 3:1,1
+43:17,22 42:22 43:1,6,10 35:9 37:9,13,20 63:3 earlier 31:10
+44:2 43:16,22 46:7 38:9,22 39:4 difficult 21:7 54:9
+46:17 40:24 41:2 42:8 difficulty 18:25 easier 10:13
+47:1,11 custodial 5:3 44:12 45:3,14 35:16 45:11 easy 27:17 28:8
+7:23 9:25 10:6 45:21 46:9,21 dignity 3:23 effectively 3:22
+51:2 21:22 22:9 23:3 48:3,3 52:3 dime 19:8 19:5
+52:23 25:25 37:19 54:10 58:1 directly 46:20 effectuate 12:9
+54:4,21 49:18 50:13,14 60:25 61:9,17 disagree 22:1 effectuated
+57:23,25 50:15,17,21 defendants 9:18 47:18 11:12
+61:7 51:1,2 53:3 9:19 44:22,24 dismayed 55:25 either 14:23
+54:5 62:9 46:4 disobeying 47:7 15:20 46:5,21
+53:16,20 9:19 12:24 17:3 29:7 30:17 32:6 dispelled 50:17 47:23
+17:14 21:13,13 degree 9:20 62:1 encounter 40:3,5
+36:22 25:12,14 32:23 demeanor 8:5,17 47:4 20:12
+45:8 49:7 53:23 8:21 63:4 distinction 20:3,8 enforcement 5:4
+61:2,21 52:11 60:5,19 failing 9:11 2:13 3:5,6,8 50:25
+expect 22:4 failure 22:5 29:7 6:8,13 7:5,8,13 62:14
+59:10 explicitly 23:17 60:5 15:3,9 16:11,18 general 1:20
+express 13:8,18 fallen 60:9 17:19 18:2,6,13 6:16 8:8 13:18
+60:3 fears 52:1 21:16 22:13,22 22:1 27:4 28:14
+50:18 expresses 55:2 feel 19:15 32:23 24:3,10,18 26:3 60:9
+56:6 expression 9:20 feet 8:20 30:19 26:8,9,13,18 generally 19:20
+11:11 12:7,14 Fifth 3:10,20 4:2 28:4 47:18 generation 22:15
+9:1 62:9,11 13:10 14:21 Fletcher 44:1 genuine 12:11
+22:19 extend 6:5,6 15:12 17:17 flood 27:8 getting 17:16
+35:12 43:23,25 44:4 22:6 23:9,17 flown 47:2 GINGER 1:19
+37:16 extended 43:17 28:18 29:9 flows 46:20 2:9 48:9
+44:23 extends 6:15 34:14,18 36:9 focus 11:5 Ginsburg 4:15
+56:1 63:5 extension 44:18 36:13,17 37:6 follow 6:6 8:15 36:2,12
+51:9 face 5:3 42:15 48:22 50:5 52:3 44:5,15,15 give 3:13 31:7,8
+62:2 43:9 50:7 52:5,11,14 56:8 forbidden 7:6 50:16 51:9
+faces 51:3 final 7:19 formal 60:11 42:8 50:21 51:7
+56:11 fact 9:9 11:17 find 3:16 10:23 former 35:3 giving 9:18 21:9
+36:1,4 42:14 43:18 43:12 formulations 14:3 17:17 18:8
+55:20 44:12,24 47:10 fingerprints 27:12 18:15,24 27:21
+53:6 47:23 fortiori 23:7 32:25 37:24
+28:11 47:17 finishing 9:2 four 37:8 58:19 43:21 57:19
+52:14 56:8 fail 38:10 52:10 first 9:17 32:14 framed 13:6 62:17
+failed 11:16 32:16,16 33:22 free 24:14 goes 17:9 18:14
+39:5 39:6 Fisher 1:15 2:3 fundamental going 5:13 9:3
+17:3,6,8 29:14,20 30:12 38:8 14:23 introducing
+18:12,15 30:20 32:3,7 infer 39:16,17 34:19 41:11
+23:6,6,8 33:2,3,4 37:15 I inference 36:3,7 investigating
+25:7 27:8 60:21,22 idea 17:23 48:4 45:16,18 50:3 15:13 32:13
+guy 25:7 32:18 52:9 56:15 36:11 47:25
+33:14,15 identical 24:4 information investigation
+46:2,24 H ignore 31:11 13:21 6:10 29:17
+55:4 half 56:13 imagine 18:2 inherent 4:5 investigatory
+56:20 happened 21:4 immigration 24:11 51:3 20:9 21:10 22:3
+61:5 happens 21:4 28:13 inherently 23:10 28:9
+16:23 happy 62:15 43:9 52:10 6:3 9:22 10:1
+27:6 28:22 hard 9:3 10:17 impeachment initiate 20:11 10:24 13:5,8,18
+56:10 18:7 16:14 59:8,10 initiated 28:1 16:7 17:17,21
+hear 3:3 23:6 impermissible innocent 3:17 24:20,23 25:13
+14:1,2 48:21 52:23 40:20 inquisitorial 3:21 36:23,25 37:4,6
+15:10 34:7 help 32:13 implicitly 55:5 Insofar 8:21 38:3,5,21 41:25
+42:19,22 hey 5:8 6:1 import 31:5 instance 55:19 45:9,9 49:1
+highlights 50:25 importance instructed 9:12 50:12,12,20,22
+hold 4:24 13:4 important 10:4 insufficient 57:3,9,13 58:5
+18:15 20:5,5 52:24 interrogated 19:19 23:9 25:1
+6:15,17 33:24 34:5 35:7 incriminating 10:11 12:8 51:1 40:1,2,4 41:21
+21:19 36:6,21 39:12 4:12 48:20 51:1 52:13 54:6 44:25 48:16,25
+23:2 40:25 42:23 incrimination interview 3:11 56:5 57:11 62:9
+43:17,18 43:16 46:8 62:5 52:1 55:13 6:9 17:12 19:7 invoked 10:10
+44:4 hope 61:24 incriminatory 20:9 21:10 25:8 11:11 12:7,14
+46:15,18 hour 25:19 56:13 13:20 27:16 28:9 29:9 12:16 32:20
+59:16 hours 10:23 inculpate 52:20 37:21 48:18 34:14 48:22
+31:23 32:1 Houston 1:18 8:24 9:11 6:11 invoking 12:22
+49:3 55:17 hypothetical indicate 23:21 introduce 8:13 23:17 28:18
+63:1,7 16:12 21:6 30:3 indication 44:12 9:1 29:20 34:17 36:8
+17:7 54:10 55:6 indicative 11:1 45:6,8 involved 36:24
+22:12 hypotheticals individual 3:23 introduced 18:6 involving 28:15
+23:23 21:12,17 40:19 language 31:6 look 9:9 14:8,13 35:11,13
+41:23 45:5 40:22 41:3 54:8 largely 42:2 37:24 39:22 merely 29:12,23
+19:15
+3:6 27:22 38:12 42:6 43:13 52:12 minutes 25:18,19
+39:14 51:24 44:20 45:3,8 lot 39:9,25 56:12 58:19
+kinds 27:7 61:12,21 58:5 5:2 7:24 10:8
+36:22 13:24,25 15:11 60:12 42:8 43:5 50:16
+60:4 17:16 19:18,22 maintain 43:8 50:16,21,24
+16:9 25:12 30:1,19 63:4 54:15 57:24
+31:3,7 31:13,14 34:20 manipulated Mirandized 25:4
+35:3 45:22 35:25 37:7 47:20 25:5
+59:22 38:10,15 39:14 manner 10:11 misleading 27:6
+39:20 40:7 12:8 13:11 misread 44:14
+43:15 56:14,18 misunderstood
+45:4 match 18:12 4:8
+46:1,5 matched 7:2 momentarily
+material 16:20 55:25
+33:21 limiting 13:22
+47:6 48:3 matter 1:11 motivation 9:6
+34:13 limits 38:1,2,3
+50:5,5 52:17,25 55:18 52:20
+38:11,24 line 5:20,23 6:4,5
+54:25 63:11 mouth 40:15
+6:7 7:22 9:7
+56:10,12 McKune 47:4 murder 15:13
+41:5,19 21:22 24:8,9
+mean 5:6,12,16 47:25
+51:5,7 28:5,7,8 34:22
+11:23 23:11 Murphy 48:14
+56:19 35:6 45:24
+58:5 29:12 31:1 52:23
+60:12 lines 47:21
+61:9 32:22 41:17 mute 5:3 44:5
+line-drawing
+43:13 44:6,6
+lip 30:20
+54:24 55:12 N 2:1,1 3:1
+61:10 57:16 nail 33:21
+38:21 24:9 25:25 49:12,19,24 37:22 41:8,8,16
+36:8 odd 20:15 19:11 61:21 53:17 61:12 47:19,22 49:17
+44:3 offer 31:21 overarching person's 3:11 55:23 56:1,23
+offering 44:19 52:20 20:5 58:9 59:25 60:5
+officer 7:11 P 2:4,14 3:7 policeman 6:1
+34:9 40:4 47:21,24 48:18 47:21 59:1 phrase 44:5 posited 38:18
+59:19,25 60:24 Palmigiano physical 4:4 8:5 position 25:20
+official 47:6 part 5:6 15:4 pick 39:14 48:5
+62:23 Ohio 43:24 51:12 19:16 30:21 pinning 39:8 preceded 4:25
+16:3 25:4 8:18 38:19 39:8 participate 20:13 play 34:15 26:18 37:15
+27:19 42:13 43:5 particular 17:15 plead 34:18 precision 21:6
+39:3 53:11 55:10 30:4 33:17 34:8 36:16 40:9 45:4 premised 52:9
+6:9,17 49:11 47:17 57:8,18 48:13 51:18
+10:1,5 once 8:10 9:4,5 Particularly plus 22:20 pressures 24:11
+23:4 10:21 24:9 35:22 point 11:8 26:8 51:4
+29:8 40:2 50:16 53:20 penalties 47:2 26:21 37:12 presumably
+48:17 54:6 penalty 46:19,20 39:24 40:1 52:19
+51:1 operative 52:15 people 17:3,9 41:18,21 43:8 presume 51:16
+54:6 opinion 21:15,17 19:18,20 20:13 43:14 46:9,10 prevented 40:8
+43:15,21 47:4 48:1 50:5,5 50:16 53:2 principle 13:19
+31:17 38:7 opposed 35:10 perceived 58:4 6:9 7:1,11 10:9 10:24 11:2,2
+58:25 47:7 63:5 perfectly 19:6,10 10:16 12:6 14:7 48:15 49:1 56:5
+33:19 41:11,21 17:23 27:9,17 24:25 25:6 18:19 30:3
+ordinary 28:19 20:17,17 21:7 31:20 32:4,12 46:15 55:16
+17:22 provided 32:22 16:5 20:5 47:24 56:23 61:13 9:10 20:8
+46:22 45:18 questioning 10:9 reason 8:9 9:11 reliance 43:10
+62:21 psychological 11:10 27:21 11:8 13:8,13,20 relied 45:10
+4:5 28:3 31:11 13:25 15:10 rely 44:12
+20:19 26:12,16 48:19 61:21 22:24,24 23:3 22:5 33:19 35:9
+23:2 8:2 12:6,22 41:6 50:23 13:10 19:18,23
+7:15 8:4,4 9:12 38:9,16,23 39:7 reasons 16:12 25:5 29:19,24
+12:5 24:25 16:3 17:10,15 56:13 57:1,2,6 recall 41:3 remains 8:25
+58:15 19:9,17 22:5,20 57:8,11,17 62:5 receives 24:13 32:18,19 60:21
+8:11 9:6,9 30:6,10,17,25 Quinn 54:21 record 14:9 19:2,16,20
+17:6 31:2 32:6,15,16 quote 3:17 reduces 13:6 21:17 25:2
+55:23 32:16 33:7 35:1 quotes 53:10 referenced 31:6 26:22 28:17
+22:9,11 37:14 38:1,10 41:17 55:16 repeatedly 49:16
+31:18 38:13,16 39:6 refrain 3:13 reply 59:1
+33:7 40:23 41:7,9,10 R refusal 7:15 9:14 require 13:8
+42:14,17 41:13,16 42:11 R 3:1 10:17,25 16:24 28:15
+53:5 59:22 42:15,19 44:7 radical 49:2 refuse 5:13 45:9 50:11,12
+45:11,12 46:2 61:14 14:10 49:25 50:20,22,24
+49:13 51:19 raise 14:21 55:17 required 11:20
+58:16 54:3,9 55:1,3 raises 14:23 18:22 22:11 requirement
+59:16,20 60:1 really 28:1 29:12 related 61:25 requiring 17:21
+60:19 62:2,6,8 saying 8:16 separate 12:4,10 41:12 48:24
+42:7 62:10,20 11:20 21:25 serious 54:3 49:3,12 51:11
+57:11 rights 9:18,25 24:7 25:19 set 36:13 51:14 53:19
+61:25 10:6,22 12:1,4 29:12 33:17 setting 5:3 6:17 55:12,16 58:14
+36:19 33:1 37:6 42:9 38:5 39:15 13:8 14:17 15:9 silent 4:18 8:25
+2:7,11 50:6 51:17 55:4 60:11 21:20 22:4,9 13:10,25 14:18
+48:11 53:18,21 58:1 says 6:1,21 14:9 23:4,11,15 14:20 15:6,17
+35:17 ROBERTS 3:3 27:3,13,14 37:5 28:9,19 37:19 19:18,23 21:1
+59:9 62:3 17:13,25 18:4,9 42:9,11 43:8 50:13,18,19,21 25:6,22,25 26:1
+roughly 61:1 56:23,25 57:7 28:12,13,14 51:23 52:4 55:8
+37:14 rule 3:14,19 8:10 SCALIA 30:22 settled 6:19 60:6,17,21
+11:9,10 22:25 23:2 scenario 13:19 shifts 3:22 26:1 27:1 51:18
+24:25 27:17 15:21 16:14 shocked 55:25 single 42:15
+28:25 34:20,21 26:6 45:25 shoot 22:10 43:14
+13:10,10 35:4 41:25 51:24 shotgun 7:2 sir 17:5
+44:19 45:1,5 search 49:23 18:12 48:1,2 sit 55:22
+16:7 48:15 52:4,9 searching 13:23 shoulder 61:16 sitting 25:18
+17:18 56:6,6 57:13,16 second 8:4 59:12 show 9:21 25:24 situation 10:15
+58:15 60:8 61:7 see 26:2 44:4 26:1 27:16 32:4 14:23 16:1 20:4
+22:22,22 55:22,24 56:23 shows 11:16,18 20:20 21:23
+24:7 S seek 14:3 17:7 18:23 23:15 27:20
+28:11,18 S 2:1 3:1 seeking 13:20 29:24 30:12 31:24 32:1,5
+31:1,12 Salinas 1:3 3:4 seen 6:1 8:9,10 53:14 62:25 33:18 34:8 37:1
+32:10,20 3:17 4:10 11:9 9:18 shuffling 8:20 38:9 39:4 43:18
+34:15 13:9 14:10 selective 11:7 30:19 44:4,18 47:10
+36:9 15:18 16:22 38:13 silence 3:11 4:19 49:19 51:16
+39:2,6 17:11 19:1 24:3 selectively 19:14 4:25 7:15,24 53:22 61:2
+42:6 47:22 59:15,24 self-executing 8:11,18 9:5,21 situations 23:16
+44:11 62:3 48:16 11:2,3,8,14 56:3
+45:10,15 Salinas's 20:4 self-incriminat... 16:6,21 18:19 smart 36:17
+49:8 52:8 sanction 47:5,6 9:22 10:25 19:14 24:6 25:9 Smith 5:6
+sanctuary 27:1 selling 5:24 26:3,17 27:19 Solicitor 1:19
+8:8 13:18 spoken 16:24 stay 39:25 46:1 48:5,16,22 51:3 terribly 27:5,5
+15:22 22:2 Stevens 36:24 51:11,13,17,25 test 8:7 15:4,22
+21:18,19 sprung 48:4 47:3 54:6,19 55:8,19 testified 14:14
+27:4 28:14 squarely 37:8 stop 20:10 24:25 56:11,23 61:10 14:14 59:25
+59:6,14 stack 15:2 39:19 41:22 62:9 testify 7:11
+stand 6:23 16:13 56:24 62:4 suspect's 48:24 52:10 59:19
+15:13 standard 54:13 19:12 46:5 sweating 8:19 Texas 1:6,18 3:4
+25:1,4 54:18,20 57:22 strategically system 3:21 4:1,7
+27:9 58:2,4 55:21 Thank 3:8 29:1
+60:5 62:6 standing 44:5 street 20:6 29:19 T 48:7 58:18,22
+stands 5:3 40:23 strikes 3:19 T 2:1,1 63:8
+50:11 started 7:4,11,18 63:11 takes 6:20 34:3 37:5 56:21
+9:10 21:8 subsequent 4:23 talk 10:16,17 60:11,18
+27:5 state 4:12 6:14 18:11 48:4 21:2,8 24:14 30:18 32:7
+38:13 7:9,13,14 8:22 suddenly 6:20 25:7 27:2,13 37:14 40:6
+60:12 8:23 11:15,17 56:14 34:18 35:10,14 think 7:5,21 8:7
+10:12 11:6 58:25 59:9,13 30:2 55:3,7 45:4 46:13 12:19 13:4 15:3
+16:11,16 59:23,25 60:4,8 57:5,11 47:23 15:15 17:9,16
+28:24 60:14,20,24 suggest 30:3 talked 10:21 17:19 19:10
+30:5,8 61:5 63:4 32:3 35:14,16 talking 39:19,23 20:7 21:5,10
+31:9 statement 16:20 35:17,18 39:23,23,25 22:16,23 25:16
+32:10 16:21 17:4 23:9 suggested 51:23 44:6 59:7 25:17 26:2 27:8
+45:23 25:24 35:8 suggestion 39:1 tangible 47:16 27:20 28:7,21
+49:2 58:8 49:14 52:21 47:19 tantamount 8:3 30:13 31:4,5,17
+62:17,25 62:20 supplying 4:12 tap 23:20 31:19 34:7 35:7
+59:6 2:10 16:25 37:5 14:22 56:19 55:11 61:3 50:23,25 52:12
+54:21 55:16 8:13 46:4 58:9 59:23 53:10,11,13
+59:7 47:22 19:4,6 21:23,24 terms 25:12 58:6,12 62:1
+trouble 55:20 unfairness 18:25 Weir 44:1
+37:3 true 49:14 2:10 37:5 48:1053:21 went 10:20
+40:18 try 8:12 9:6 49:21 54:21 waiver 32:15 weren't 53:22
+57:12,24 20:11 unknown 20:17 waives 53:3,17 We'll 3:3
+14:25 19:13 13:14,17 60:20 33:12,17 37:3
+52:14 unwary 60:16 6:21 11:19 19:3 44:19,19 45:1,4
+20:9,12,14 turns 5:7,14 use 4:13 8:11 24:19 25:22 whatsoever
+25:22 56:21 36:23 44:10 34:18,24 35:8,8 38:23
+33:13,14 two 8:2 11:25 46:2 47:15 35:10,14,23 wife 22:10
+12:4 16:11 53:19 61:5 37:9,10 38:15 willing 10:23
+36:18 55:8 utilize 33:16 40:9 44:10,14 win 59:16
+43:18 47:1 51:18 52:7 55:1 witness 6:20,23
+60:10 57:17,18 58:15 words 8:2 10:9
+U V 59:15 60:1 16:24 19:25
+60:16 unadministrable 36:24 37:2,4 wants 5:8 10:8 40:10,14 60:12
+28:14 22:20 30:6 45:19 47:4 42:14 47:22 worst 60:10
+21:21 22:25 vacuum 30:16 54:15 61:9 62:5 63:3
+16:3 18:5 understanding Verbatim 59:23 Washington 1:8
+view 53:24 54:2 1:20 Y
+26:17
+41:12 24:19 violation 34:21 26:4 46:15
+46:3,8,14 understood voluntarily 49:17 62:19
+50:12 11:24 16:12 49:23 way 62:2
+61:23 unfair 13:14 voluntary 29:8 ways 8:2 1
+16:25 27:5 47:8 50:2 51:16 Wednesday 1:9 10 47:21
+1:13 3:2
+1:4 3:4
+63:10
+47:21
+1:9
+11:16
+54:10,17 55:6
+1:9
+2:7
+2:4 37:24
+5:2 7:23 22:14
+43:5 44:5
+59:1
+42:11 59:1
+42:12
+42:12
+25:18,19
+42:5
+2:11
+53:4,5
+2:14
+47:21

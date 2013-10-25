@@ -1,0 +1,1659 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+UNITED STATES, :
+Petitioner :
+v. : No. 06-562
+ATLANTIC RESEARCH CORPORATION. :
+- - - - - - - - - - - - - - - - - x
+Washington, D.C.
+Monday, April 23, 2007
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 10:04 a.m.
+APPEARANCES:
+THOMAS G. HUNGAR, ESQ., Deputy Solicitor General,
+Department of Justice, Washington, D.C.; on behalf of
+the Petitioner.
+OWEN T. ARMSTRONG, JR., ESQ., Milwaukee, Wis; on behalf
+of the Respondent.
+JAY D. GECK, ESQ., Deputy Solicitor General, Olympia,
+Wash; on behalf of Washington, et al., as amici
+curiae, supporting the Respondent.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+THOMAS G. HUNGAR, ESQ.
+On behalf of the Petitioner 3
+ORAL ARGUMENT OF
+OWEN T. ARMSTRONG, JR., ESQ.
+On behalf of the Respondent 27
+ORAL ARGUMENT OF
+JAY D. GECK, ESQ.
+On behalf of Washington, et al., as amici
+curiae, supporting the Respondent 44
+REBUTTAL ARGUMENT OF
+THOMAS G. HUNGAR, ESQ.
+On behalf of the Petitioner 51
+P R O C E E D I N G S
+(10:04 a.m.)
+CHIEF JUSTICE ROBERTS: We'll hear argument
+first this morning in Case 06-562, United States versus
+Atlantic Research Corporation.
+Mr. Hungar.
+ORAL ARGUMENT OF THOMAS G. HUNGAR
+ON BEHALF OF THE PETITIONER
+MR. HUNGAR: Thank you, Mr. Chief Justice,
+and may it please the Court:
+In Section 113(f) of CERCLA, Congress
+created a precisely drawn detailed mechanism for
+potentially responsible parties to recover their
+response costs from other PRPs. Respondent seeks to
+circumvent the limitations that Congress imposed on that
+remedy by manufacturing a parallel mechanism for
+contribution-like relief under Section 107.
+Respondent's theory should be rejected because it
+violates fundamental canons of statutory construction,
+renders Section 113(f) superfluous, makes a mockery of
+the textual limitations enforced by this Court in Cooper
+Industries, and would frustrate Congress's clear intent
+to encourage settlements with the government in order to
+achieve supervised effective cleanups.
+Respondent essentially asks this Court to
+create a shadow contribution scheme under the guise of
+Section 107(a) by borrowing all of the features of the
+Section 113(f) remedy except the one that Respondent
+can't satisfy, namely the requirement that contribution
+be sought only during or following a civil action or
+settlement.
+JUSTICE GINSBURG: Mr. Hungar, was this
+Court wrong in your view, it wasn't dispositive of the
+case in Key Tronic when it said, "Section 107
+unquestionably provides a cause of action for private
+parties to seek recovery of cleanup costs?"
+MR. HUNGAR: Your Honor, we agree that
+Section 107(a)(1) through (4)(b), subparagraph (b)
+creates a cause of action for private parties, in
+particular the private parties who are not PRPs, who are
+therefore other persons other than the PRPs who are the
+subject of that statutory sentence. So we agree in that
+sense. We don't think it creates a cause of action for
+the particular private parties who are trying to sue in
+this case, that is PRPs.
+JUSTICE GINSBURG: So you think that when
+the Court says this, it didn't contemplate that PRPs
+would be included among private parties?
+MR. HUNGAR: Well, in Key Tronic, obviously
+the Court was facing a different question so I don't
+think it was trying to in any way authoritatively
+resolve this issue, as the Court held in Cooper
+Industries. But I -- certainly there is language in
+Cooper -- excuse me, in Key Tronic that can be read to
+suggest that the Court assumed or thought there was some
+sort of remedy for PRPs. It's not clear whether it was
+referring to contribution or some other remedy. But in
+Cooper Industries, the Court made clear that that was
+dicta and that's in our view correct, because the Court
+in Key Tronic was faced with a different question
+altogether.
+JUSTICE SOUTER: Who were the PRPs, or who
+are the individuals other than PRPs who are likely to,
+to avail themselves to the cause of action under Section
+7? That's one of the problems I have. I mean, it's got
+to be someone other than owners of the land now, owners
+of the land then. I mean, who's going to bring these
+actions?
+MR. HUNGAR: Well, people who are -- who are
+excluded by other provisions of Section 107 from the
+category of liable parties would be entitled to bring
+such an action if they don't --
+JUSTICE SOUTER: But can you give me an idea
+of generally --
+MR. HUNGAR: A city that cleans up a site
+and that is not itself --
+JUSTICE SOUTER: That's not -- you know,
+that's not a private party within the meaning of the
+quotation.
+MR. HUNGAR: No, it is, Your Honor.
+JUSTICE SOUTER: Pardon?
+MR. HUNGAR: It is, because a city can't sue
+under subparagraph (a). Only the State can sue.
+JUSTICE SOUTER: Well, it's not the United
+States of America, but we wouldn't normally refer to it
+as a private party. And -- but I don't mean to get tied
+up in that, but can you think of any individuals or
+corporations who are not likely to come in to one of the
+four categories in 7 who would, who would take advantage
+of this?
+MR. HUNGAR: Yes, Your Honor. And first of
+all, just let me make clear: Subparagraph (b) doesn't
+refer to private parties only; it says any other person.
+JUSTICE SOUTER: No I realize that. I'm
+trying to --
+MR. HUNGAR: But with respect to private
+parties in particular, any private party who was a
+so-called innocent person under the statute, who because
+--
+JUSTICE SOUTER: No. Those are people who
+would have a defense under the later sections of --
+subsections of Section 7. They are still people who
+would fall within the first four categories.
+MR. HUNGAR: I think, Your Honor, that you
+have to read the statutory sentence in Section 107(a) as
+a whole, and what it says is that the people in these
+categories, owners, operators, arrangers and so forth,
+collect in the conjunctive, shall be liable for -- and
+then under (b), any other necessary cost or response
+incurred by any other person.
+And that the other provisions of the statute
+such as subparagraph (b) with respect to the third party
+defense, subparagraph (d), subparagraphs that create --
+I mean, I'm sorry, subsections that create various
+defenses, what they say is if you satisfy this defense,
+you're not liable. You are taken out of the category of
+liable parties, the category that is the subject of this
+statutory sentence. And therefore in our view, you
+become an other person. So people who are able to
+satisfy the defenses are other persons, and that's what
+the lower courts have held in cases where this has come
+up.
+JUSTICE SOUTER: Well, you know that when
+they go into court. Let's assume they bring the action
+and the answer is well, you fall into one of the
+categories one through four, and the person says oh, but
+I -- I'm not liable because ultimately I will have an
+innocent party defense. Would we then have a collateral
+trial on the innocent party defense in -- in the cause
+of action for, for reimbursement?
+MR. HUNGAR: Well, I don't think it's a
+collateral trial. It's just one of the issues in the
+case.
+JUSTICE SOUTER: But I mean if that would be
+the first issue, we'd have to try the innocence of the
+person who was bringing the action?
+MR. HUNGAR: Well, I think the court could
+obviously structure the issues as it saw fit but
+certainly that would be one the issues in the case, but
+again people in that category aren't the only --
+JUSTICE SOUTER: Well the -- the trouble
+with having, I mean the trouble with that approach is
+that whatever you, whatever may be the ultimate effect
+of subsection (b) is referred to as defenses. And the
+way you're using it the so-called defenses would be an
+-- an affirmative element in the action for, for, for
+cost reimbursement with is just -- and I mean it
+certainly at the least would involve a very odd language
+usage in the statute.
+MR. HUNGAR: Well I don't think so because
+what the statute says is people, the people who are the
+subject of the sentence shall be liable to other
+persons. And if someone by virtue of the statute is
+rendered not liable --
+CHIEF JUSTICE ROBERTS: Well, but you --
+MR. HUNGAR: -- they are not in the
+subject; they are in the other category.
+CHIEF JUSTICE ROBERTS: Well you've glided
+over the great difficulty which is it doesn't say that
+people identified in the statute shall be liable to
+other persons. It says they will be liable to, under
+certain circumstances, the United States, a State or an
+Indian tribe and they are liable for -- for other costs
+incurred by any other person. And it just seems that
+the most natural reading of that construction is that
+the other refers to other than the United States or a
+State or an Indian tribe.
+MR. HUNGAR: Your Honor, that would
+certainly be a -- a permissible reading of the statute,
+were it not for the other "other." The -- the statute
+in subparagraph (b) refers to any, provides a cause of
+action or refers, really imposes liability for any
+"other" necessary costs. The other necessary costs --
+that other, the only other costs that that "other" can
+refer to are the costs of governmental entities, the
+United States and the States and Indian tribes under
+subparagraph (a). So the first other in subparagraph
+(b) makes clear that it's not talking about the
+subparagraph (a) claims; it's talking about other
+claims, because by definition the United States or a
+State cannot recover under (b) by virtue of the first
+other.
+Congress in the development of this
+language, the first other was already in the statutory
+language. Congress, at the last minute there was a
+change, a compromise in order to get the bill passed and
+reduce the onerousness of its provisions, and they added
+the second other. The only logical explanation and the
+only way to give effect to the second other is to
+construe it as we do.
+JUSTICE ALITO: In the years since CERCLA
+was enacted have there been any real cases in which a
+party that you would regard as an innocent party has
+brought a cost recovery action?
+MR. HUNGAR: Yes, sir. And actually there's
+an annotation that, that collects the cases. We haven't
+done an exhaustive survey, but certainly the annotation
+is -- which is at 12 A.L.R. F.2d 161 -- collects a
+number of such cases. And the lower courts have
+addressed these questions and have, and adjudicated them
+so this is not a novel suggestion. And it's one that
+has arisen because, because remember, under the well
+established law of every circuit that had addressed the
+question prior to the Cooper Industries decision, a PRP
+could not sue solely under Section 107(a). They had to
+sue, they had to comply with the, the Section 113
+mechanism, and the courts held that in order to avoid
+the disastrous consequences that would ensue if
+respondents or the court of appeals --
+JUSTICE BREYER: What are -- what are they?
+I mean as I read this, I can't get anything out of the
+language. I mean the two "others" might just make it
+more clear. So we have another Section 113 that talks
+about contribution and it says you can get contribution
+if there has been a lawsuit, and so forth, or if there
+has been a settlement. Fine.
+Now the question comes up, well, suppose
+there hasn't been a lawsuit or a settlement. Now if we
+look at the language here, at least my initial reading
+of it, it does not say. It says that they are liable.
+These PRPs are liable to this other PRP or person there.
+But it doesn't just say explicitly bring a suit, and it
+doesn't say explicitly you can't bring a suit.
+So I think well, why can't he bring a suit?
+If he brings a suit how is the sky to fall? On the
+other hand, if you don't let him bring a suit, they say
+well, maybe the Government just -- will just stay out of
+this. The Government won't enter into settlements
+because the Government is a big polluter. And it would
+not like to get sued often, so they will stay away from
+the settlement and be home free.
+So that's what they say on your -- on their
+side, I think, primarily. What do you say on your side?
+How will the sky fall if in fact they win and they can
+bring suits under 107?
+MR. HUNGAR: Your Honor, the sky will fall
+because under that interpretation PRPs can evade the
+settlement bar that Congress enacted in order to
+encourage settlement, and Congress's clear goal in
+providing a contribution remedy and providing an
+explicit opportunity for PRPs to sue was to encourage
+settlement with the Government. Congress wanted to
+reduce litigation, encourage settlement and Government
+supervised cleanups, and so it created the settlement
+bar in Section 113(f)(2), which, if a PRP settles with
+the Government, the United States or a State, settles
+for a response cost liability, it then has a
+contribution action to --
+JUSTICE GINSBURG: How does it work with "or
+a State" because I thought that there was some
+suggestion that States, they don't want to bother with
+the Federal legislation, so they'll say you're okay
+under the State legislation. You can't force a State to
+-- to take on that responsibility.
+MR. HUNGAR: Well, Your Honor in our view
+what Section 113(f)(3)(b), the settlement contribution
+provision, requires is that a State settle, the parties
+settle with the State and resolve its liability to the
+State for response costs which is a defined term under
+CERCLA.
+JUSTICE GINSBURG: The States, we have a
+brief from the States telling us look, we don't want to
+put our money on that kind of thing. We've got very
+high-risk sites and we want to spend our resources
+making sure those are cleaned up.
+MR. HUNGAR: Well, Your Honor, every State
+has a voluntary cleanup program which encourages parties
+to settle, and under many of those programs there is an
+opportunity if they do the settlement to required
+standards to obtain a discharge of liability from the
+State for response costs. And there is no reason why
+those settlement agreements can't be written and they
+often are.
+JUSTICE GINSBURG: Well, they -- they can.
+Of course they can but the States are telling us that
+this puts a burden on them that they don't want.
+MR. HUNGAR: Your Honor, the States already
+have these programs in existence. There is no reason
+why the settlement language can't be written
+appropriately and moreover, in many States, I suspect
+most States, the PRPs are required to pay the costs of
+the State that it incurs in monitoring and in ensuring
+that the settlement agreement is appropriate. The State
+of Washington, for example, which is here today, if you
+look at the web site of its Department of Ecology, it
+has extensive procedures, extensive opportunities for
+parties to come to the State, present the information,
+obtain a settlement if they want -- if they will pay the
+State's costs in monitoring and making sure that what
+the PRP is doing is an appropriate cleanup. And that's
+what CERCLA should encourage. There are --
+JUSTICE GINSBURG: Well, let's just go back
+to Justice Breyer's question, because it was I think a
+major point of the Eighth Circuit. That is, they said
+the United States, the United States is a big polluter,
+could avoid its own responsibility by not bringing any
+enforcement action and by not settling, and you -- you
+said there would be a disincentive for the PRP -- a
+disincentive to settlement, but you didn't answer the
+question of why wouldn't the United States when it is a
+polluter and it would be responsible on this site, to
+say well, we are going to, we are not going to settle?
+MR. HUNGAR: Well, two -- two responses.
+Number one of course, if that happened, there is always
+the State option, the States settled thousands of cases.
+Number two, that's just not the way it works in
+practice. EPA has the enforcement authority with
+respect to these private, the private sites that we are
+talking about. EPA has no incentive not to do its job
+and every incentive to do its job.
+JUSTICE SOUTER: Well, what about the --
+what about the statement in the red brief that -- that
+there is presently in existence a directive that EPA not
+proceed against any Federal agency?
+MR. HUNGAR: I -- I think what Your Honor is
+referring to is a directive perhaps that requires EPA to
+obtain the Attorney General's approval before it will
+issue a unilateral administrative order. But that
+doesn't apply to Section 107, excuse me, Section 106(1)
+consent orders the, the EPA issues. It enters into
+numerous settlement agreements in cases implicating
+Federal PRPs; we cited a number in our brief and there
+are many more, and -- and EPA has a detailed set of
+standards. They occupy a hundred pages.
+JUSTICE SOUTER: Well, excuse me. Are cases
+that you referred to cases in which EPA has gone against
+a -- we'll say a third party polluter, but the
+Government is also involved?
+MR. HUNGAR: Yes. We cite a number from the
+Federal Register.
+JUSTICE SOUTER: Okay. Now, has EPA during
+the pendency of that directive gone directly against any
+Federal agency?
+MR. HUNGAR: If Your Honor means filing a
+lawsuit the answer is no --
+JUSTICE SOUTER: No.
+MR. HUNGAR: -- because in our view EPA
+can't sue the United States. If Your Honor means, I
+mean definitely there are enforcement actions or --
+proceeding. The way EPA normally works, just to be
+clear, is that when it learns of a site, it learns of a
+release of hazardous materials, it does a preliminary
+assessment to find out whether this is a problem or not,
+whether it's a problem that they should pay attention to
+or if they should instead refer to the State. And if
+it's of sufficient magnitude that it's for the EPA
+rather than the State to deal with, they proceed to
+identify all the PRPs they can sent notices to them and
+attempt to settle.
+JUSTICE SOUTER: All right --
+MR. HUNGAR: They always do that.
+JUSTICE SOUTER: What if, what if one of the
+PRPs they so identify is the Department of Defense?
+MR. HUNGAR: Yes. They attempt to settle,
+they attempt to settle with the Department of Defense as
+well as --
+JUSTICE SOUTER: Do they have to get the
+Attorney General's approval before doing that? Before
+naming the Department of Defense?
+MR. HUNGAR: Well, they wouldn't sue them.
+If you mean by sending notice to the Department of
+Defense --
+JUSTICE SOUTER: However they initiate, I
+don't know as a matter of procedure how they initiate
+enforcement action --
+MR. HUNGAR: They send a letter.
+JUSTICE SOUTER: It's by that letter --
+MR. HUNGAR: They send a letter to all
+PRPs.
+JUSTICE SOUTER: Do they need the Attorney
+General's approval to send the letter?
+MR. HUNGAR: I'm not sure. I don't believe
+so, but I --
+JUSTICE SOUTER: What if, what the
+Department of Defense says "nothing doing"? What does
+EPA do then?
+MR. HUNGAR: They would -- if, if the
+private parties are willing to settle and pay, and take
+responsibility for their share of the liabilities, EPA
+can and will settle with them, regardless.
+JUSTICE SOUTER: Well, what does it do about
+the Department of Defense?
+MR. HUNGAR: Well --
+JUSTICE SOUTER: In my hypo, the Department
+of Defense says you know, we are not talking with you.
+MR. HUNGAR: Well, number one the Department
+of Defense has additional legal obligations to deal with
+hazardous waste even beyond anything EPA can do.
+JUSTICE SOUTER: Maybe it does. But let's
+just talk about EPA. What does EPA do in the case that,
+when Defense stonewalls?
+MR. HUNGAR: Just, just to be -- just to
+finish my last point, if I may -- which can be enforced
+by citizen suits.
+But leaving that point aside, if --
+ultimately they would go to the Attorney General I
+suppose and ask for authority to issue a unilateral
+order. But I'm not aware that that problem is a
+significant one, and the fact is there are numerous
+settlements, and they don't, under -- under -- for
+Respondent to have a cause of action, EPA doesn't have
+to settle with the Federal PRP; all they have to do is
+settle with the private PRP, and if the private PRP is
+willing to pay its share, which EPA determines according
+to standards about its -- vary, considering various
+factors about who contributed what and who caused which
+portion of the problem --
+JUSTICE SOUTER: And at that point 113 would
+kick in --
+MR. HUNGAR: Correct.
+JUSTICE SOUTER: -- regardless of Defense?
+MR. HUNGAR: Correct. And again if EPA
+somehow refused to settle, the -- they could settle with
+the State. So it's just not -- EPA does not have any
+incentive to block cleanups. EPA wants to encourage
+cleanups and if the best way to get the cleanup done is
+to settle with a private party, then that's what EPA is
+going to do.
+JUSTICE GINSBURG: Then why this case --
+there's a point that was made by the Eighth Circuit, and
+also in the States' brief on page 24, and that is that
+the EPA was engaged in settlement negotiations with
+Atlantic Research, and then after this Court decided
+Cooper Industries that negotiation terminated.
+MR. HUNGAR: Your Honor, that's not correct.
+My understanding is that the negotiations were between,
+were -- Atlantic Research brought a claim seeking,
+seeking money from essentially the Defense Department,
+and my understanding was that the negotiations were only
+to settle Atlantic Research's claim whether you call it
+a contribution or a cost recovery claim, not an attempt
+by Atlantic Research to resolve its liability to the
+United States. They were not negotiating with EPA with
+respect to EPA's enforcement authority. They are
+negotiating with Justice Department lawyers in the
+environmental defense section who represent Federal PRP
+defendants. They weren't -- they weren't trying to
+resolve their liability in order to give rise to a
+contribution claim. What they were trying to do was
+merely make the United States pay them without first
+having resolved their own liability, which is why it
+makes no sense for them to be bringing a contribution
+claim.
+JUSTICE BREYER: Can I -- can I go back?
+Because I'm trying to, since I do find it so open with
+the language, what I'm doing is making what I call the
+list of acorns. You say the sky is falling and I want a
+comparative list.
+MR. HUNGAR: Yes. Yes.
+JUSTICE BREYER: On their side I have an
+acorn, which is if they don't win, EPA and DOD just are
+not going to settle these things because they want to
+escape us suing them. And you say, are you kidding?
+EPA loves to sue.
+(Laughter.)
+JUSTICE BREYER: And they like to settle.
+Don't worry about it. All right.
+On your side, you're saying well, you know,
+if we don't -- if we don't -- accept your
+interpretation, they won't enter into settlements. To
+which I guess they will make the same response. Are you
+kidding? The EPA loves to sue us and we are frightened
+of them and we'll settle.
+Okay. So I've got one acorn each side, now
+are there other acorns on the Government side; namely
+the sky is falling --
+MR. HUNGAR: Yes, Your Honor.
+JUSTICE BREYER: What are they? I'd just
+like to make the whole list of acorns.
+MR. HUNGAR: Well, the first and foremost
+way in which the sky is falling is that the court of
+appeals approach, Respondent's approach would eviscerate
+the settlement bar, because the whole point of the
+settlement bar is to give parties an incentive to settle
+with the Government knowing that they will be protected
+from contribution claims. But if Respondent has a cost
+recovery claim under Section 107, the settlement bar
+goes out the window. And in fact that's what a number
+of the courts of appeals have held in -- in making clear
+that Section 113 does govern these claims. EPA has
+entered into settlements with literally tens of
+thousands of PRPs.
+JUSTICE SCALIA: But you have to pay the
+costs. I mean, isn't that something of a disincentive?
+Before you can sue?
+MR. HUNGAR: Well, but the claim here is
+that the parties want to pay the costs and incur
+voluntary cleanup costs anyway. They just don't want to
+settle first. So if I'm understanding your question --
+JUSTICE SCALIA: Yes. It would be one thing
+if you skip away from a settlement without having to pay
+any money. But in order to come under, under 9607, they
+have to, they have to shell out the money.
+MR. HUNGAR: Maybe I'm not understanding.
+My point, Your Honor, is that there are tens of
+thousands of parties who have already settled, shelling
+out some money or not, with the EPA in reliance on the
+unanimous view of the courts of appeals that PRPs could
+not sue them because the contribution bar protected
+them, Section 113(f) would protect them.
+CHIEF JUSTICE ROBERTS: Well, how sure are
+you -- how sure are you that it doesn't protect them
+still?
+MR. HUNGAR: Well, Your Honor, what it
+applies to is contribution claims, and respondent and
+Respondent's amici are very clear that they want is not
+a contribution claim because they recognize that the
+settlement bar would preclude their claims, but a cost
+recovery claim, and Section 113(f)(2) says
+"contribution," not "cost recovery." Those are very
+clearly --
+CHIEF JUSTICE ROBERTS: Well, when one
+responsible party has paid out the cost and is seeking a
+cost recovery claim from another responsible party, it's
+not too much of a stretch to call it a contribution
+claim, is it?
+MR. HUNGAR: Well, Your Honor, if you want
+to call what the PRP is seeking a contribution claim,
+then we submit that it should be governed by the
+traditional understanding of contribution and by
+Congress's explicit terms defining what it wants
+contribution claims to be. Even if you assume that in
+some sense Section 107 imposes liability on PRPs to
+other PRPs, it doesn't say what to do with that
+liability and how you litigate it. Section 113(f) is
+how Congress explicitly, carefully addressed that
+question and when Congress has done so this Court
+normally assumes that what Congress specifically said as
+the remedy and delineated as the remedy, including the
+limitations thereon, are what apply.
+CHIEF JUSTICE ROBERTS: You're not worried
+about any of that when you're dealing with an innocent
+party, the person you say can bring this action under
+107(4)(b). Don't all those same concerns and objections
+apply in that case as well?
+MR. HUNGAR: No, Your Honor, because the
+normal rule in American law is that innocent victims get
+to sue the people who have injured them for recovery,
+but the defendants, the liable parties, don't get to sue
+each other except in contribution when it has been made
+available.
+CHIEF JUSTICE ROBERTS: But you don't know,
+you don't know, that you're dealing with an innocent
+party until the end of the litigation.
+MR. HUNGAR: Well, that might be true in
+many circumstances, Your Honor. But that doesn't mean
+that we don't give someone who can establish they are
+innocent party a right to full recovery and someone who
+is not an innocent party is relegated to contribution.
+CHIEF JUSTICE ROBERTS: Do you have another
+example of an innocent party who can bring an action
+under 107(4)(b) other than a governmental subdivision?
+MR. HUNGAR: Yes, Your Honor. A party who
+qualifies, who can show that under the third party
+defense the hazardous release was not due to any, any
+fault of their own, and can satisfy the requirements of
+that defense.
+CHIEF JUSTICE ROBERTS: But they're somehow
+affected by the hazardous release.
+MR. HUNGAR: I'm sorry?
+CHIEF JUSTICE ROBERTS: But they're still
+somehow affected by the hazardous release.
+MR. HUNGAR: Well, yes. They could be a
+subsequent owner, for example, under the bona fide
+purchaser exemption or the third party exemption.
+CHIEF JUSTICE ROBERTS: But my point is that
+subsequent owner, EPA is going to start looking at him
+as a PRP, not as an innocent party. In other words,
+there is going to have to be an awful lot of litigation
+before he can establish that he is not a PRP and is
+instead an innocent, innocent party.
+MR. HUNGAR: Well, they could also just
+resolve it through settlement, Your Honor. And either
+they could then proceed with their lawsuit or, if they
+want to admit some minimal liability and obtain a
+contribution claim, they could proceed in that fashion.
+But there are solutions to the problems that have been
+identified under our interpretation, but there is no
+plausible solution to the problems that their
+interpretation produce, including eviscerating the
+settlement bar. It's no surprise that some of the
+largest polluters in America have lined up in support of
+this view, because this will allow them to reopen
+settlements and go after parties who thought they had
+paid up their liability and obtained settlement
+protection by virtue of the Section 113(f) settlement
+bar.
+JUSTICE GINSBURG: The person who settled,
+wouldn't that person be protected? Wouldn't the court
+say, this person has made a bargain with the EPA and
+we're not going to extract any more from them?
+MR. HUNGAR: Not if the claim is a cost
+recovery claim under Section 107, because section -- the
+settlement bar applies only to claims for contribution.
+This is Section 113(f)(2), which appears on page 9a of
+the appendix to our brief.
+JUSTICE GINSBURG: Yes, but to make the
+statute work in harmony, to harmonize 107 with 113, it
+seems to me that would be an altogether reasonable
+position for a court to take. If someone has settled
+and is protected by virtue of that settlement, then when
+someone else tries to go after that same person the
+court could say: We have to make the statute work and
+we're going to honor the settlement.
+MR. HUNGAR: Your Honor, I submit if the
+court were seeking go harmonize Sections 113 and 107 the
+way to do it would be to give effect to the limitations
+that Congress imposed on PRP remedies, but not merely
+the settlement bar, but also the requirement that
+actions be brought during or following civil actions and
+settlements, and also the statute of limitations, which
+the Respondent's theory would also permit them to evade.
+If I may, I'd like to reserve the balance of
+my time.
+CHIEF JUSTICE ROBERTS: Thank you,
+Mr. Hungar.
+Mr. Armstrong.
+ORAL ARGUMENT OF OWEN T. ARMSTRONG, JR.
+ON BEHALF OF THE RESPONDENT
+MR. ARMSTRONG: Mr. Chief Justice and may it
+please the Court:
+I would like to address the settlement bar.
+One thing that the Court should keep in mind is that a
+cost recovery action under 107(a)(4)(B) is an action for
+restitution. This is an equitable action. There is no
+jury trial under CERCLA. The district court is sitting
+as a court of equity. And as Justice Ginsburg just
+pointed out, the court is empowered in any case, any
+107(a)(4)(B) case, to accord settlement protection to a
+settling party as a matter of equity. It may do that
+simply as a matter of equity or, as we pointed out in
+our brief, it may do so by virtue of a contribution
+counterclaim by the settling party.
+So the court, a district court, is empowered
+to give full protection to any party who has settled so
+long as the matters addressed a portion of 107 --
+JUSTICE BREYER: How? I'm not so sure
+because -- unless you want to stipulate that that
+restitution -- if you want us to write in the opinion
+that in fact in a 107 action if one of the parties sued
+has entered into a settlement he shall have precisely
+the same protection from suit as if it were a 113
+action. Do you want to say that or not?
+MR. ARMSTRONG: Well, Your Honor, I believe
+the district court as a matter of equity should accord
+in most cases -- now there may be exceptions --
+JUSTICE BREYER: Well, I would worry about
+the equity. I just want to know if you want to
+stipulate that that's the proper interpretation, because
+I could easily imagine a case where your client bought a
+beautiful golf course and he wants to turn it into a
+golf course. Unfortunately, there's a little mess under
+there and he spends $10 million on that. And he says
+the real fault is the Union Oil Company and I'm going to
+sue them because they're the ones who dumped this and
+they've cost me $9 million. And it turns out that Union
+through precisely good luck and a brilliant attorney has
+settled this very matter for one dollar with EPA.
+Barred?
+MR. ARMSTRONG: No, Your Honor, it would not
+be barred in that case.
+JUSTICE BREYER: Ah, that's what I thought,
+and that's what he's saying. That's what he's saying,
+that's why he has brought his second acorn, because he
+said there's a huge difference here. What you will do
+is if you get this 107 action you'll argue to the court
+as to what's fair, but what 113 says is once you settle
+with the Federal Government you're home free.
+MR. ARMSTRONG: Well, Your Honor, in your
+hypothetical, spending one dollar, there is no question
+that the court sitting in equity and also as a matter of
+a contribution counterclaim would be entitled to review
+the settlement and if that matter is in the matters
+addressed, if it has been resolved by the Government --
+and I should point out that in a settlement, settlements
+are publicly noticed, so parties have an opportunity to
+object to any settlement which they feel is unfair. And
+presumably our golf course owner would be identified in
+that circumstance.
+CHIEF JUSTICE ROBERTS: Well, but there's
+nothing, there's nothing unnecessarily unfair. It turns
+out that the Union Oil Company is bankrupt and in part
+of the settlement they agreed to turn over all the
+documents listing whoever it was that gave them the
+chemicals. And it's a very complicated thing because
+we're dealing with people often in these cases that
+don't have assets and only limited responsible parties
+have the assets. So they're trying to recover what they
+can from the others.
+MR. ARMSTRONG: That is correct, Your Honor.
+That would not be unfair any more than it would be
+unfair in a contribution action, in which case the court
+is directed to apply principles of equity in allocating
+responsibility.
+JUSTICE STEVENS: Well, almost by definition
+a settlement is for the full amount that you'd have to
+spend without the settlement, almost by definition.
+MR. ARMSTRONG: Well, that is correct, Your
+Honor.
+JUSTICE STEVENS: You don't usually settle
+for 100 percent of your liability.
+MR. ARMSTRONG: That is correct, and I think
+Congress did write that into the contribution part of
+the statute --
+JUSTICE KENNEDY: So that means that in
+every settlement agreement you'd have to engage in this
+analysis to see whether or not it was fair.
+MR. ARMSTRONG: Well, I believe in every
+settlement agreement the court would have to engage in
+an analysis as to what matters addressed are for
+purposes of the settlement.
+JUSTICE BREYER: How are you going to choose
+this? Because he is, I think you're -- maybe you're in
+a slightly awkward position because the Government is
+saying that one of the reasons that you're stuck with
+113 is because Congress didn't really want through 107
+to give parties like your clients an opportunity to
+review for fairness or equitable principles, whatever
+you like, the settlements that had taken place with the
+defendant in EPA. And that's so we can get people to
+settle, among other things. They feel they're home
+free.
+Now, you have two choices here. I think you
+could say, one, well, that's the way it is, we should
+have a 107 action and we should review these settlements
+for fairness; or two, you could say one of the
+principles of fairness is the principle that's written
+into 113 about no review, and we're happy with reading
+that into 107. So which is it that you would like to
+say?
+MR. ARMSTRONG: Well, Your Honor, that's
+absolutely true, because I think one of the principles
+of fairness is to solidify the settlement agreement.
+JUSTICE BREYER: When you say that's
+absolutely true, you mean absolutely true that you have
+that choice, or is it --
+MR. ARMSTRONG: I believe that a reviewing
+court should in each instance -- if a district court
+decides to avoid the settlement, if it says that it's
+not fair, I believe that would undercut the finality of
+a settlement so long as it's contained within the
+matters addressed.
+JUSTICE BREYER: All right, so then he's
+wrong in thinking that the motivating force behind this
+action is to permit people to get equitable review of
+prior settlements? What you simply want -- and you're
+not interested in that; you'll go with no equitable
+review of private settlements. Read 113 into it. You
+want the right to bring the case where there has no
+settlement and Government has done nothing.
+MR. ARMSTRONG: That is absolutely correct
+in our case, Your Honor, and I think we've stipulated to
+that.
+JUSTICE GINSBURG: But to talk about the
+other polluter or the other in this case, where the
+other polluter is not someone who is going to settle
+because it's the Government itself --
+MR. ARMSTRONG: Yes, Your Honor.
+JUSTICE GINSBURG: So I don't think you're
+in a position to concede anything one way or another
+because that's not your case.
+MR. ARMSTRONG: That is correct, Your Honor,
+because in our case, I think as we have made it quite
+clear, all we are seeking in this case is to recover a
+proportion of our response costs. We cannot conceive,
+because we are not confronted with the issue that has
+been posed -- I would not object as a matter of a bright
+line rule if the Court were to rule that a settlement is
+protected from a back end or a roundabout 107(a)(4)(B)
+action in order to disturb a settlement agreement. We
+do not have those circumstances in this case, that is
+correct. And we are only seeking restitution in our
+case. We are seeking an equitable result, a
+proportionate share of ARC's response costs.
+JUSTICE GINSBURG: What about the
+Government's concern that prenups shouldn't go on
+unsupervised. That's when EPA brings an enforcement
+action, there's a monitor there. When there's a
+settlement, then the Government is there. But if you
+just go off on your own and do this, you're doing it
+unsupervised by any State authority, any Federal
+authority, and that could --
+MR. ARMSTRONG: Your Honor, I believe in
+most cases there is State involvement. There is in the
+ARC case, although it is not in the record. We have
+entered into a cooperative relationship with the State
+in cleaning up the site. And I think in almost every
+case a PRP is well advised to bring in experts to make
+sure that the cleanup is consistent with the national
+contingency plan, because absent that, satisfying that
+requirement, the PRP is not entitled to recover any of
+its costs. So there is a very demanding requirement
+written into CERCLA. The national contingency plan
+occupies 9605 and it occupies several hundred pages of
+40 C.F.R. part 300.
+CHIEF JUSTICE ROBERTS: As you read the
+statute, you're talking about a PRP, but any other
+person doesn't have to be a PRP, does it?
+MR. ARMSTRONG: No, Your Honor. That is
+correct, although --
+CHIEF JUSTICE ROBERTS: You could set up a
+company that cleans up these sites, right, and go
+traveling around the country and clean them up and then
+send people a bill and cite your reading of 1074(b),
+right?
+MR. ARMSTRONG: 107(a)(4)(B) would include
+both PRPs and what we might call non-PRPs. I believe
+one of the amicus parties studies 364 cases between the
+years of 1995 and 2000 and there was one case out of
+that 364 that involved precisely your hypothetical, Your
+Honor.
+CHIEF JUSTICE ROBERTS: Well, if we rule in
+your favor presumably there will be a lot more, right?
+MR. ARMSTRONG: PRPs will certainly be able
+to seek cost recovery under 107(a)(4)(B).
+CHIEF JUSTICE ROBERTS: What about non-PRPs?
+MR. ARMSTRONG: There are very few non-PRPs.
+The only non-PRPs that I can think of is perhaps the
+hypothetical you just advanced, because as has been
+pointed out, the so-called innocent adjoining landowner
+is a PRP, is a covered person under 107(a)(4)(b), and
+only has a defense to liability. And it is absolutely
+true that in order to bring an action, according to the
+Government, that particular PRP would have to establish
+through affirmative action that it's -- that it
+satisfies the, the liability exclusion in 107(b). And
+that is a very drawn out process. The criteria for
+satisfying the defense in 107(b) takes up 2 1/2 pages of
+the, of the statute.
+So what we are involved in in that case,
+Your Honor, is yes, PRPs may bring cost recovery
+actions. And I think that was true in 1980 when the
+statute was passed. Contrary to the Government's
+representation, there are 10 cases holding that actions
+may be brought under 107(a)(4)(b) by so-called PRPs
+between the time that CERCLA was passed in 1980 and the
+amendment to CERCLA in 1986, in October of 1986. Courts
+held without exception, without exception, that covered
+persons or PRPs indeed do have a right to bring a cost
+recovery action under 107(a)(4)(b).
+And Congress when it passed 113, was looking
+at those cases only that had some doubt about whether
+contribution could also be brought. In other words,
+whether a party could seek restitution despite the fact
+that it was compelled to do a cleanup via a lawsuit.
+And some courts found that there was an implied right to
+contribution, some found that there was a common law
+right, but Congress in 1986 specifically said, we are
+only concerned with the implied right to contribution,
+given this Court's holding in the Northwest Airlines
+case and in Texas Industries. Congress was concerned
+that there would be no right to contribution unless it
+codified that right, which it did in 1986. And I think
+the legislative history makes it quite clear that
+Congress did not intend to disturb or to cut back on the
+rights that courts had found consistently in that
+six-year window between 1980 and 1986, all of which held
+that PRPs indeed do have a right to bring cost recovery
+actions.
+JUSTICE SOUTER: But in -- in response to
+your -- going back to your response to Justice Breyer, I
+take it the -- the right under -- under 107 was affected
+to the extent, or at least you would agree that it was
+affected to the extent that if there is a settlement
+they are home free and there can't be a 107 action; is
+that correct?
+MR. ARMSTRONG: That is correct.
+JUSTICE SOUTER: Okay. So it disturbed the
+old scheme to that extent.
+MR. ARMSTRONG: It did, although most of
+these cases I do believe did not involve settlements,
+but I think obviously when Congress enacted 113, I think
+it certainly wanted to encourage settlements in cases
+where there had been an action brought against a PRP.
+Obviously I think settlement saves everybody the time
+and effort of litigating these matters, and I think for
+that reason, in 113 we get contribution protection, we
+get the ability to bring a contribution action. So
+certainly settlement was a key element of 113 but it was
+a key element of that provision, not Section 107. But I
+think Congress has made it quite clear to encourage
+settlements, if it's in the matters addressed, that
+there should be immunity for those parties that are
+settling their claims with the Government or a State in
+a judicially approved or administratively approved
+settlement. So I don't believe --
+JUSTICE GINSBURG: What about the
+disincentive to settlement? You just said how important
+settlement was, or what a good thing it is to encourage
+it. But the Government says if you could just clean up
+without any order and without making any proposed
+settlement, just do it and get back your costs, then
+there's a powerful disincentive to settle.
+MR. ARMSTRONG: Well, Your Honor, I think
+once again, settling is not a disincentive in the sense
+that if you do settle, you are deemed -- all of your
+costs are deemed to be consistent with the national
+contingency plan. You need not be concerned in that
+particular case about satisfying the burden of proof
+that you have as a PRP that your costs are consistent
+with the national contingency plan, which is no easy
+matter. The national contingency plan as I stated,
+appearing in 40 C.F.R., part 300, occupies a good
+hundred pages. It is a very detailed and demanding set
+of requirements. So there is a strong incentive, I
+still believe, for parties to settle because in such a
+case they do not have to establish that there is
+consistency with the national contingency plan.
+They also obtain immunity from suits,
+assuming it's in the matters addressed. Now a party
+that voluntarily remediates a site has to worry about
+both of these elements. It can be sued. It has no
+immunity. It is certainly subject to being sued by
+another PRP, by a State, an Indian tribe, or the
+Government, regardless of how much or how well it's done
+in remediating a site, whereas a settlement gives that
+protection to a PRP.
+JUSTICE SCALIA: So you say there are two
+factors which still exert pressure to settle. One is
+that you don't have to bear the burden of showing that
+you conform with the national contingency plan, and
+second, that --
+MR. ARMSTRONG: The second factor is --
+JUSTICE SCALIA: -- you insulate yourself
+from contribution suits by other people.
+MR. ARMSTRONG: That is correct, Your Honor.
+That is absolutely correct. Because in cleaning up a
+site, you can clean up all or part of a site. That's
+what 113(f)(3)(b) states.
+JUSTICE SCALIA: Do you rely at all on -- in
+9607(a)(b)? It says any other necessary costs of
+response incurred by any other person. Does the word
+"any" add anything to your case? Do you think it urges
+us to give the broadest possible interpretation to other
+person?
+MR. ARMSTRONG: I believe it --
+JUSTICE SCALIA: Other necessary costs?
+MR. ARMSTRONG: I believe it does, Your
+Honor. I mean, I can't imagine language more broad than
+that. I do believe the first use of the word other that
+opposing counsel referred to is to make it quite clear
+that there can't be a duplication of liability.
+Obviously a PRP that is exposed to liability in a case
+cannot be required to pay both the Government and the
+other party who is cleaning up the site.
+And I would say that the second use of the
+word other, which has become quite critical in the
+Government's argument, the Government I think concedes
+that the way the statute initially read in the first
+draft omitted the term other and simply read any person.
+And the Government says well, the insertion of the word
+other prior to the enactment of CERCLA indicates that
+what Congress intended was to withdraw from that huge
+basket, if you will, all PRPs. Well, that is not the
+case at all, because initially the definition section of
+person that was contained in the initial draft of CERCLA
+did not include the United States. It cross-referenced
+the Clean Water Act. So the United States was not a
+person within the initial draft.
+And the addition of the word other, the
+second other in 107(a)(4)(b) was to make it clear.
+Otherwise, you're going to have a statute that says the
+government can recover under (a)(4)(a) and (a)(4)(b).
+So I do believe that the addition of the second word
+other simply explained and clarified that the Government
+was to bring its action under 107(a)(4)(a), not under
+107(a)(4)(b).
+And I think as Justice Scalia has mentioned
+before, it would be very odd for Congress to have so
+drastically changed CERCLA by inserting the word other
+without any commentary whatsoever. There was a good
+deal of debate about the exclusion of joint and several
+liability under CERCLA, about the exclusion of
+contribution, and other matters. There was not a
+mention made of the addition of the word other preceding
+person in 107(a)(4)(b).
+JUSTICE SCALIA: Now you say this very
+language that's in 107 now had been interpreted
+unanimously by the courts?
+MR. ARMSTRONG: That's correct.
+JUSTICE SCALIA: So that part of your case
+is that, is to say that it's limited by 113 is to say
+that there's been an implied repeal.
+MR. ARMSTRONG: That's correct, Your Honor.
+JUSTICE SCALIA: Unless all those cases were
+wrong.
+MR. ARMSTRONG: That is absolutely correct.
+JUSTICE SCALIA: So it's not just a
+legislative history point you're making, it's not just a
+point as to what Congress's expectations were. It's
+also -- it's also a point that relates to implicit
+repeal.
+MR. ARMSTRONG: It would be tantamount to a
+repeal.
+JUSTICE SCALIA: And if the Government's
+only strong point is that 113 is meant to coerce
+settlement, and 113 didn't exist before, then it must be
+very clear that previously 107 did give them a cause of
+action.
+MR. ARMSTRONG: That is absolutely correct.
+That logic is impeccable, Your Honor, I believe so.
+Because that -- that law was well established and there
+was no -- there was no such thing as contribution.
+There was no protection prior to --
+JUSTICE SCALIA: No acorns on the other
+side.
+MR. ARMSTRONG: No acorns.
+(Laughter.)
+JUSTICE STEVENS: May I ask just one
+question about your position on the remedial settlement
+provision in 113(f)(2)? Do you read it to provide not
+only immunity from contribution suits but from any other
+litigation whatsoever?
+MR. ARMSTRONG: No, Your Honor, it's not any
+other litigation whatsoever. I think that it is quite
+clear that what (f)(2) does provide is in a settlement,
+if a party is seeking under CERCLA -- now when you say
+other litigation, I assume you perhaps mean State law,
+etcetera. If it's a State law contribution claim, I
+believe that provision would afford immunity from a
+State law contribution claim, assuming it could be
+asserted. Now of course it could not be asserted
+against the United States. But I do believe that that
+language --
+JUSTICE STEVENS: If there were a claim that
+didn't really technically qualify as contribution, it
+would not, it would not provide a bar.
+MR. ARMSTRONG: If it were a CERCLA claim,
+Your Honor, under 107(a)(4)(b), it would. However, if
+it is not a claim based upon CERCLA, and there are
+certainly a myriad of claims that can be brought --
+remember, CERCLA is a strict liability provision -- I
+don't believe that would bar all lawsuits entirely.
+That's correct, Your Honor. If there's nothing further
+--
+CHIEF JUSTICE ROBERTS: Thanks,
+Mr. Armstrong.
+Mr. Geck.
+ORAL ARGUMENT OF JAY D. GECK
+ON BEHALF OF WASHINGTON, ET AL., AS AMICI CURIAE
+SUPPORTING THE RESPONDENT
+MR. GECK: Thank you, Mr. Chief Justice.
+May it please the Court:
+There are more than 400,000 sites across the
+country that are contaminated by hazardous wastes. The
+amici States recognize that if these sites are to be
+cleaned up, it's going to take the work of private
+parties. In turn, we recognize that private parties
+rely upon cost recovery to obtain their costs and
+financial incentives to do the site cleanup. The United
+States argument ignores this vast majority of sites that
+do not have the opportunity of litigation and do not
+have the opportunity of settlement.
+I'll turn first to the words "any other
+person" where the United States argues that it means
+innocent person. The words "innocent person" are found
+nowhere in Section 107 of CERCLA. To get there, the
+United States borrows from other sections of CERCLA. If
+the word other were superfluous -- and we do not think
+it is, we do not think that's the right reading -- the
+better textual reading here is the natural reading of
+Section 107. These are two sections that are
+practically twins and if words are known by the company
+they keep, you have three parallel structures in each of
+these cost recovery sections.
+And further, we point out that the
+Government's argument leads to an implausible result.
+If people have to prove their innocence in order to
+qualify for a cost recovery claim, then there would be,
+indeed, a possible multiyear trial just in order to
+decide whether they had a right to cost recovery. A far
+better approach would be not to destroy a cost recovery
+claim after that work but to allow those issues, that is
+a plaintiff's potential liability under 107, to be
+raised as a contribution counterclaim. And that way you
+have an incentive for settlement between that private
+plaintiff and the defendants, and that way you have
+equity being done.
+JUSTICE SCALIA: Why wouldn't the States
+prefer to proceed, to force people to proceed under 113,
+so that the States would have, you know, a hand in
+deciding how the cleanup should go? I don't -- I don't
+quite understand why you're here. I would have thought
+that the States' interest would be similar to the
+Government's.
+MR. GECK: The States recognize that to
+proceed under settlement puts a near impossible task.
+EPA, of course, can settle very few sites, they have
+limited resources, and that's one of the reasons why we
+don't have settlements in many cases. And apparently
+they sometimes have disincentives for proceeding with a
+settlement because it would open the Government to a
+contribution claim. The States also have some other
+resource limits.
+The States in order to go into a settlement,
+and this is an important point, the Government is
+blurring the State settlement right here. It's
+referring to a cost recovery right which the States
+could seek under Section 107 of CERCLA, but there's a
+great deal of uncertainty as to whether a State
+settlement that orders a cleanup would be a resolution
+of CERCLA liability, and a Second Circuit case from Con
+Edison that's pending before this Court discusses that
+at length. Uncertainty does not drive settlement.
+You asked a question, Justice Scalia, about
+other reasons why there are incentives for settlement,
+and I'd point out a third, fourth and fifth one. One,
+you do get to settle your claims that the Government is
+bringing against you, which is a powerful incentive to
+settle, to have peace with the Government in certainty.
+And then a further point is that you get no better
+remedy necessarily. There is no reason to walk away
+from the settlement with the Government, and I don't
+believe the Government can point to any examples where
+people have walked away from settlements in order to
+pursue 107 claims, because 107 doesn't necessarily lead
+to a windfall. If you're a liable person or potentially
+liable person, you're going to see your defendants raise
+your liability and they are going to interpose a
+cross-claim under Section 113.
+And finally --
+CHIEF JUSTICE ROBERTS: Is that how it
+works? They would have to, if you bring a 107 action,
+the defendant has to bring his responsive action under
+113? Or is it as, I guess your friend had stated
+earlier, equitable principles are going to lead to an
+allocation of responsibility under 107?
+MR. GECK: I would rely first on the textual
+basis, that any person can bring a cost recovery claim.
+And then the text in Section 113(f)(1) says that any
+person sued under Section 107 may bring their
+contribution claim against any other person. That would
+naturally include even the plaintiff in that claim.
+JUSTICE SCALIA: The last sentence of
+(f)(1), right?
+MR. GECK: The fifth sentence of (f)(1) is
+what I was referring to. Any person may seek
+contribution from -- and this is at 67a of the petition,
+and I believe it's 9a or 11a of the U.S. brief -- any
+person may seek contribution from any other person who
+is liable or potentially liable under Section 107 during
+or following the 107 action. A 113 action supplements
+the 107 action that the government is so concerned
+about.
+Turning then to the question that this would
+bypass contribution protection: As a threshold matter,
+that is an issue that is rooted in the language of
+Section 113(f)(2). It is not a signal as to how to
+interpret Section 107 itself, because there are a host
+of potential 107 actions that might come to bear that
+the United States admits to and those actions could
+equally be posed. But more importantly perhaps is that
+because any person who does a settlement with the
+Government would raise their settlement either as a
+defense or as a counterclaim, as my colleague said, the
+court would have the authority under 113(f)(1), the
+third sentence, there to allocate and apportion
+responsibility among all liable persons. And at that
+point, if it had been a judicial settlement that would
+be very strong evidence that you had paid your
+proportionate share to the site.
+Furthermore, what the Government is
+overlooking is the settlements, there are a number of
+checks and balances on settlements. This is not a real
+world problem that the Government describing. The
+matters addressed, provision of the settlement that the
+EPA very carefully crafts, doesn't overreach.
+Occasionally it will, but when it does address an entire
+cleanup at a site that signals that the EPA is going to
+be in control of the cleanup for the remainder of the
+site and you're not going to have unknown parties coming
+in and entering a site.
+To do so would be in fact inconsistent
+with the national contingency plan and you would never
+make the elements of proving consistency with the
+national consistency plan in triggering a 107 right.
+JUSTICE SCALIA: What's the meaning of that
+last sentence in (f)(1), "Nothing in this subsection
+shall diminish the right of any person to bring an
+action of contribution in the absence of a civil
+action," of a civil action under 9606 or 9607? What are
+they referring to.
+MR. GECK: Well, it clearly indicates that
+there is a savings for other contribution rights that
+may exist under other areas of law.
+JUSTICE SCALIA: State law?
+MR. GECK: State law is certainly a
+possibility there and that would of course be a stronger
+indicator that you could give a broader reading to
+contribution protection under (f)(2) and that's what
+several courts have done. But the scope of whether a
+State law meets contribution protection has been debated
+in the courts and it's of course not before us today.
+In the end, the last and most important
+point is that the Government's construction not only
+bars cost recovery from potentially liable persons even
+an innocent person who reads Section 107 would not step
+forward. If you touch a site and you begin operating
+and moving waste -- and Mr. Chief Justice, your
+hypothetical about a do-gooder organization that might
+come in and do cleanups. There is a good likelihood
+that they would be receiving a counterclaim that would
+say that they had operated the site and become a liable
+party. And that could litigate for years.
+So in the end, in the end of the case, the
+United States leaves no incentive for private cost
+recovery and there are 400,000 sites that do need
+cleanup, and Congress did contemplate there would be two
+cause of actions, one under 107 for cost recovery when
+people had incurred costs, and the other one would be
+for contribution when people had been sued or had
+settled their civil suit liability.
+If there is no further questions, thank you.
+CHIEF JUSTICE ROBERTS: Thank you, Mr. Geck.
+(Whereupon, at 10:57 a.m., the case in the
+above-entitled matter was submitted.)
+Mr. Hungar, you have four minutes remaining.
+REBUTTAL ARGUMENT OF THOMAS G. HUNGAR
+ON BEHALF OF THE PETITIONER
+MR. HUNGAR: Mr. Chief Justice:
+Justice Souter, in further answer to your
+question, EPA can and does send PRP letters to Federal
+PRPs without approval from the Justice Department. The
+approval is only for a unilateral administrative order
+under Section 106.
+JUSTICE SOUTER: So the only thing they
+would need the Attorney General's approval for would be
+institution of suit?
+MR. HUNGAR: Or a unilateral administrative
+order.
+JUSTICE SOUTER: Could they institute suit?
+MR. HUNGAR: Well, in our view the EPA can't
+sue the Department of Defense because there would be no
+justiciable controversy.
+With respect to the implied repeal issue
+that was discussed, we disagree strongly with the
+assertion that there was this unanimous group of ten or
+some cases prior to 1986. In fact the cases were
+divided, as we explain in our reply brief.
+JUSTICE SCALIA: But even if there wasn't,
+you wouldn't have your principal argument, which is, you
+know, which is that the reason not to interpret 107 the
+way your friends on the other side want is that you're
+going to destroy the settlement provision of 113, which
+didn't use to exist. What argument would you make for
+having us read the word "other" in the what seems to me
+strange way you want?
+MR. HUNGAR: Your Honor, the point is that
+the settlement bar under their interpretation is either
+eviscerated, as Respondents amici argue, or that's the
+position that they take, that they want to be able to
+sue for cost recovery and evade the settlement bar.
+Respondent of course doesn't make that argument because
+they don't have to in this case. But unless the Court
+imports the settlement bar into cost recovery actions,
+there's going to be this huge problem. And if the Court
+does import --
+JUSTICE SCALIA: You're missing my point.
+My point is the settlement bar didn't used to exist. So
+previously, whether the cases were split or not, there
+was -- your best argument for the proposition that
+107(a) does not permit suit did not exist.
+MR. HUNGAR: Your Honor, as I understand the
+argument it's that there was this unanimous pre-1986
+body of law and it was completely clear and perfectly
+understood that there was this cause of action.
+JUSTICE SCALIA: Assume it didn't exist.
+Assume that body of law didn't exist. But what would
+you have argued when somebody came in and said 107, this
+provision, includes PRPs? You may have argued -- your
+best argument would not have been available.
+MR. HUNGAR: But, Your Honor, the point is
+it was not clear in 1986 what this language meant and
+what the extent of the PRP rights were. Congress
+addressed that question. There is not a hint of a
+suggestion in the legislative history that Congress was
+recognizing a PRP action under 107 independent of
+Section 113. Congress spoke to the question of PRPs
+suing and the only way it spoke to it explicitly was in
+Section 113. When Congress says that, this Court has
+said over and over again that when Congress speaks in an
+area of uncertainty, as in Fausto, as in Brock against
+North Dakota, as in the State of Vermont, is where the
+prior asserted right was not clearly established, was
+not authoritatively recognized, it's not an implied
+repeal question. It's a question of reconciling the
+statutes in a way that gives effect to the later
+statutes, a more specific statute.
+Which as here, Section 113, their
+interpretation gives effect to part of it because they
+say oh well, let's borrow a settlement bar to make it
+all work, but you can't do -- you can't do it that way.
+The Court rejected that very same approach in the Rancho
+Palos Verdes case from a couple of terms ago.
+We agree that you need to borrow the
+limitations of Section 113(f). You just need to borrow
+all of them, including the one that they can't satisfy,
+which is that Congress said for suits by PRPs against
+PRPs, just like is normally the case among joint tort
+feasors, it's a contribution suit and they have to wait
+for a law suit or for a settlement, or some discharge of
+the liability. And that also avoids burdening the
+courts with the extremely time-consuming and costly and
+difficult question of assessing whether the NCP has been
+complied with, whether the costs comply with the
+national contingency plan. Because if they settled,
+then the expert agency has already had a chance to
+address that and the court doesn't need to get into it
+in anywhere near the same detail. Their approach is a
+recipe for burdening the Federal courts with claims that
+Congress did not clearly indicate should be there.
+If States want to provide contribution
+actions that allow these sorts of claims they can, and
+many States have done so, including Washington State,
+which is here. So parties can bring these claims in
+State court if they want to. They can get settlements
+from the States if they want to and are willing to pay
+the costs. So the burdens that they identify are not
+there. Implied repeal does not apply here and because
+of the uncertainty, as we indicated at pages 9 through
+10 of our reply brief and footnote 5, there was no
+unanimous widespread consensus among the Federal courts.
+This just hasn't come up very much, and the courts were
+divided. I'd also like to address -- thank you.
+CHIEF JUSTICE ROBERTS: Thank you,
+Mr. Hungar. The case is submitted.
+(Whereupon, at 11:02 a.m., the case in the
+above-entitled matter was submitted.)
+additional 18:12 26:24 ARC's 33:24 Atlantic 1:6 3:5
+51:16 49:18 55:8,24 36:12 areas 50:10 attempt 16:24
+addressed 10:25 America 6:10 argue 29:16 17:4,5 20:6
+33:1 38:7 39:10 23:6 44:15,21 argument 1:12 29:7 52:2
+40:2 49:16 53:25 52:25 2:2,5,8,12 3:3 authoritatively
+adjoining 35:20 amicus 35:8 3:7 27:18 5:1 54:10
+52:4 answer 7:25 arisen 11:2 available 24:16
+43:5 38:10 51:21 2:6 27:17,18 avoid 11:7 14:21
+admit 25:25 anyway 22:13 27:20 28:19 32:14
+5:14,22 advantage 6:14 appeals 11:9 32:6,12 33:1,8 awful 25:19
+8:5,11,21 advised 34:13 21:22 22:4,23 33:12 34:8,24 awkward 31:14
+10:19 affirmative 8:21 APPEARAN... 35:6,14,17 A.L.R 10:23
+14:22 35:25 1:14 37:17,20 38:19 a.m 1:13 3:2
+19:1 afford 43:20 appearing 39:3 39:23 40:1,11 51:15 56:2
+25:1 agency 15:14 appears 26:20 40:13 42:5,9
+55:7 appendix 26:21 42:12,18,25 B
+29:16 ago 54:19 applies 23:5 43:7,14 44:3 b 4:13,13 6:17
+31:25 agree 4:12,17 26:19 44:12 7:9,12 8:19
+33:20 37:13 54:20 apply 15:19 24:5 arrangers 7:7 9:21 10:3,6
+35:23,25 agreed 30:8 24:10 30:18 aside 18:20 41:13
+37:15,24 agreement 14:8 55:19 asked 47:5 back 14:17
+41:16 31:6,9 32:8 apportion 49:7 asks 3:25 20:19 33:19
+47:23,24 33:20 approach 8:17 asserted 43:22 37:5,11 38:17
+agreements 21:22,22 45:22 43:22 54:9 balance 27:13
+53:16 13:22 15:21 54:18 55:9 assertion 52:12 balances 49:14
+Ah 29:12 appropriate assessing 55:4 bankrupt 30:7
+27:10,10 al 1:21 2:10 appropriately 16:18 21:23,24 22:2
+37:9 44:15 14:5 assets 30:12,13 22:24 23:8
+49:1 ALITO 10:16 approval 15:17 assume 7:24 26:6,12,19
+53:5 allocate 49:7 17:8,21 51:23 23:22 43:18 27:9,22 44:2,8
+allocating 30:18 51:24 52:2 53:17,18 52:24 53:2,5,9
+11:24 12:1,10 51:15 53:4 34:21 35:1,12 19:16 22:13
+2:4,7,10 35:23 36:6,14 cases 7:21 10:17 51:14,20 55:25 47:1 49:19,20
+3:8 27:19 37:8 38:3 10:21,24 15:5 choice 32:11 51:8
+51:19 41:16 47:23,24 15:21,25 16:1 choices 31:23 cleanups 3:24
+31:8 55:15 34:9 35:8 36:9 circuit 11:3 51:1
+34:8 bringing 8:11 36:17 37:21,23 14:19 19:20 clear 3:22 5:6,8
+37:21 14:21 20:17 42:10 46:15 47:2 6:17 10:3
+39:6 47:9 52:13,13 53:10 circumstance 11:13 12:14
+brings 11:25 categories 6:14 30:4 16:16 22:4
+43:1,20 34:2 7:3,7 8:1 circumstances 23:6 33:14
+44:8 broad 40:14 category 5:21 9:12 24:21 37:4 38:6
+48:14 broader 50:14 7:16,17 8:15 33:21 40:16 41:11
+Brock 54:7 cause 4:10,14,18 cite 16:4 35:4 53:15,23
+20:2 27:10 19:1 42:23 citizen 18:19 50:8 54:9
+45:7,8 46:24 43:19,21,25 collects 10:21,23
+21:6 carefully 24:1 37:23 38:4 23:22 26:19 coming 49:21
+28:12,22 49:17 39:13 44:6 38:9 44:6 47:8 commentary
+31:12 case 3:4 4:9,20 50:12 47:16 55:10,13 41:21
+37:11 8:8,14 18:15 certainty 47:10 55:15 common 36:22
+19:21 29:11 30:17 changed 41:20 40:3 41:8 45:13
+consistently cooperative court 1:1,12 41:22 46:25
+3:19 9:15 3:5 5:9 7:24 8:12 debate 41:22
+construe 10:15 6:13 21:21 24:2 decide 45:21
+contaminated 30:15,23 31:2 28:1,2,3,9,9,20 deciding 46:7
+contemplate 34:25 37:16,17 31:9 32:13,13 deemed 38:21
+38:23 contributed 26:17 27:24 22:4,23 36:12 defense 7:1,13
+19:6 29:6 35:15 36:21 37:6 7:15 8:3,4 17:3
+13:6 20:6,14 48:4 50:21 covered 35:21 25:5,7 35:22
+10:8,10 23:5,7,10,15 costly 55:3 crafts 49:17 defenses 7:15,20
+24:1 23:18,20,22 costs 3:14 4:11 create 4:1 7:13 8:19,20
+27:8 24:15,24 26:1 9:13,23,23,24 7:14 defined 13:9
+36:16 26:19 28:7 9:25 13:9,21 created 3:12 defining 23:21
+37:1,5 29:22 30:17 14:6,14 22:9 12:19 definitely 16:14
+38:6 31:3 36:18,22 22:12,13 33:15 creates 4:14,18 definition 10:5
+51:8 36:24 37:2 33:24 34:17 criteria 36:2 30:20,22 41:5
+54:1,3,5 38:2,3 39:25 38:17,22,25 critical 40:22 delineated 24:4
+55:11 41:24 43:3,12 40:6,12 44:24 cross-claim demanding
+23:21 45:25 46:18 counsel 40:16 cross-referenc... Department
+48:7,13,15,21 counterclaim 41:7 1:16 14:10
+3:17 44:20 39:3 Deputy 1:15,20
+controversy course 13:25 D 49:15
+50:1 Cooper 3:21 5:2 30:3 43:22 7:13 44:14 destroy 45:22
+39:4 drive 47:4 enter 12:3 21:10 27:12 53:2 extent 37:13,14
+duplication entering 49:22 evidence 49:10 extremely 55:3
+E entities 9:25 eviscerating 50:3,15
+16:7 Edison 47:3 15:16,20,23 36:13 52:13
+Eighth 14:19 19:15,17,22 41:22,23 32:15
+22:9 element 8:21 31:20 34:2 25:15,15 12:9,11
+38:4,5 46:13 49:17,19 exert 39:19 falling 20:22
+49:25 EPA's 20:9 10:22 far 45:21
+32:13 enacted 10:17 31:18 32:20,22 53:9,12,17,18 Fausto 54:7
+enactment 41:2 equity 28:2,5,6 15:13 feasors 54:25
+14:16 19:15 escape 21:3 expert 55:7 15:14,22 16:5
+20:21 enforced 3:21 20:3 explanation 55:10,22
+18:18 establish 24:22 10:13 feel 30:2 31:21
+engage 31:6,9 et 1:21 2:10 54:4 finally 47:21
+10:2,6,9 17:8,21 52:2 38:9,15 39:15 24:21 25:3,23 ignores 45:1
+21:20 Ginsburg 4:7,21 40:19,23 41:1 27:4,5 28:19 imagine 28:25
+40:15,24 12:24 13:11,24 41:13,15 46:17 29:10,19 30:15 40:14
+48:3 14:17 19:19 46:21 47:8,10 30:24 32:6 immunity 38:8
+48:17 38:12 governmental 36:6 38:19 impeccable 43:1
+24:22 27:7 34:1 36:8 52:23 53:13,22 implicating
+45:6 gives 39:16 group 52:12 34:19 39:4 52:10 54:10
+glided 9:8 47:25 2:13 3:6,7,9 import 53:7
+37:15 26:9 27:2,6 H 6:21 7:4 8:6,12 importantly
+goes 22:3 harmonize 15:3,15 16:4,9 27:8
+21:2 25:17,19 hazardous 16:17 18:2,8,11,17 impossible
+29:4 31:12 25:12 44:20 20:24 21:17,20 incentive 15:9
+47:11 41:12 44:22 held 5:2 7:21 23:17 24:11,20 21:24 39:5
+47:18,19 48:1 11:7 22:4 25:3,10,13,22 46:1 47:9 51:6
+53:6 high-risk 13:14 51:17,18,20 47:6
+51:18 govern 22:5 home 12:6 29:18 29:20 35:10,19 including 24:4
+government honor 4:12 6:5 55:14
+48:3,11 3:23 12:2,3,4 6:16 7:4 9:18 I inconsistent
+51:14 12:17,18,21 12:11 13:5,16 idea 5:23 49:23
+40:7 interpretation 25:11,16 26:13 42:3 43:24 48:16 49:8
+12:12 21:10 26:22 27:15,20 48:22 53:23 50:21 51:3
+54:15 30:25 31:5,12 43:8 3:21 24:5 27:7
+39:14 involve 8:23 33:25 34:21 36:22 43:2,18 limited 30:12
+involvement 40:5,12 41:18 lawsuit 11:15,18 lined 26:7
+15:18 18:22 43:25 44:11,17 lawsuits 44:8 listing 30:9
+11:4 52:10 48:9 50:2,11 lead 47:16 48:1 litigate 23:25
+37:1 issues 8:7,13,14 50:24 51:14,20 leads 45:17 51:4
+52:6,15 53:8 leaves 51:6 litigation 12:18
+JAY 1:20 2:9 justiciable 52:9 legal 18:12 43:13,15,18
+job 15:9,10 K 13:3 little 29:2
+27:18 31:5 letter 17:16,17 look 11:19 13:12
+10:18 judicially 38:10 5:10 38:4,5 letters 51:22 looking 25:17
+jury 28:1 kick 19:9 let's 7:24 14:17 36:16
+25:1,18 Justice 1:16 3:3 kidding 21:3,12 18:14 54:16 lot 25:19 35:13
+35:20 3:9 4:7,21 5:12 kind 13:13 liabilities 18:4 loves 21:4,12
+50:22 5:23 6:2,6,9,19 know 6:2 7:23 liability 9:22 lower 7:21 10:24
+10:9,10
+monitor 34:3 36:25 46:17 Palos 54:19
+28:5,6 morning 3:4 notices 16:23 operators 7:7 Pardon 6:6
+29:8,21 motivating novel 11:1 opinion 28:14 part 30:7 31:3
+33:17 32:19 number 10:24 opportunities 34:20 39:3
+48:21 moving 50:24 15:4,6,22 16:4 14:11 40:3 42:6
+56:3 multiyear 45:20 18:11 22:3 opportunity 54:15
+31:10 numerous 15:21 30:1 31:17 4:19 6:22
+38:1,7 N 18:24 45:2,3 35:24 38:24
+41:24 N 2:1,1 3:1 opposing 40:16 parties 3:13
+naming 17:9 O option 15:5 4:11,14,15,19
+7:14 8:9 34:18 38:22 object 30:2 3:7 27:18 6:22 7:17 13:7
+11:11 39:1,2,8,21 33:17 44:14 13:17 14:12
+16:14 49:24 50:1 objections 24:9 order 3:23 10:11 18:3 21:24
+22:9 55:6 obligations 11:7 12:13 22:12,21 24:14
+32:10 natural 9:15 18:12 15:18 18:23 26:9 28:15
+43:18 45:11 obtain 13:20 20:13 22:17 30:1,12 31:17
+NCP 55:4 25:25 39:9 38:16 45:18,20 44:23,23 49:21
+45:5 necessarily obtained 26:10 51:24 52:5 party 6:3,11,22
+necessary 7:9 8:13 37:22,25 47:1 10:18,18 16:2
+11:7 40:12 Occasionally 50:25 24:8,19,23,24
+55:8 occupy 15:24 OWEN 1:18 2:6 39:10 40:20
+20:10 odd 8:23 41:19 owner 25:14,17 passed 10:11
+22:17,18 North 54:8 ones 29:5 paid 23:13 26:10 9:1,1,10 24:13
+Northwest open 20:20 49:10 30:11 31:20
+35:4 47:14 49:9 principal 52:16 27:1 33:19 put 13:13
+45:18 50:20 52:23 principle 32:2 protection 26:11 puts 14:1 46:12
+47:15 53:8,9,22 principles 30:18 28:4,10,17
+pointed 28:3,6 31:18 32:2,7 38:2 39:17 Q
+53:12 polluters 26:7 private 4:10,14 43:16 44:2 5:10 11:4,17
+8:1,11 28:11 6:11,18,21,22 provides 4:10 24:2 29:20
+11:21 posed 33:17 15:8,8 18:3 9:21 43:10 47:5
+26:13,14 49:2 19:3,3,17 providing 12:15 48:20 51:22
+27:2 position 26:25 32:23 44:22,23 12:15 53:25 54:3,11
+35:21 31:14 33:10 46:1 51:6 proving 49:25 54:11 55:4
+43:10 53:1 problem 16:18 provision 13:7 questions 10:25
+42:1 possibility 50:13 16:19 18:23 38:5 43:11,20 51:13
+47:17 possible 40:9 19:7 49:15 44:7 49:16 quite 33:13 37:4
+48:4,6,7 45:20 53:6 52:19 53:20 38:6 40:16,22
+potential 45:24 problems 5:15 provisions 5:20 43:15 46:8
+50:4,22 48:25 26:2,4 7:11 10:12 quotation 6:4
+9:3,11 47:17 48:16 procedures 12:20 14:15,23 R
+49:8 50:21 14:11 19:2,3,3 20:11 R 3:1
+powerful 38:18 proceed 15:14 23:18 25:18,20 raise 47:18 49:4
+2:4,14 3:8 45:13 proceeding 35:24 37:24 read 5:4 7:5
+practice 15:7 16:15 46:16 38:25 39:14,17 11:11 32:23
+28:16 29:7 program 13:17 PRPs 3:14 4:15 reading 9:15,19
+39:1,2,8 prefer 46:5 proof 38:24 12:12,16 14:6 45:11 50:14
+49:24 preliminary proper 28:24 15:22 16:23 reads 50:22
+55:6 16:17 proportion 17:3,19 22:7 real 10:17 29:4
+44:18 presently 15:13 33:24 49:11 36:10,14 37:8 really 9:22
+19:8 presumably proposition 53:20 54:3,23 reason 13:21
+21:23 30:3 35:13 53:11 54:24 14:3 38:2
+25:16 previously protect 22:25 publicly 30:1 47:12 52:17
+42:14,15 42:23 53:10 23:2 purchaser 25:15 reasonable
+45:16 pre-1986 53:14 protected 21:25 purposes 31:11 26:24
+47:7,11 primarily 12:8 22:24 26:14 pursue 47:16 reasons 31:15
+47:6
+51:18 54:18 Research's 20:5 reviewing 32:12 54:5
+46:11 release 16:17 20:7,13 25:23 36:14,21,23,24 42:2,6,10,13
+relegated 24:24 29:24 45:10,21 46:22 46:4 47:5 48:9
+relief 3:17 resources 13:14 50:1,4 54:9 53:8,17
+48:3 respect 6:21 53:24 37:19
+30:13 remaining 51:17 respondent 1:19 9:5,8 23:1,12 29:14 39:22,23
+34:16 remedial 43:10 1:22 2:7,11 24:6,17,25 40:21 41:11,14
+remediates 3:14,25 4:3 25:8,11,16 47:2
+20:6 remediating 27:19 44:16 34:21 35:1,12 3:20 4:2,3,9,13
+23:9,10 39:16 53:3 35:16 44:11 5:14,20 7:2,5
+24:13,23 remedies 27:8 respondents 47:22 51:14 11:5,6,13
+27:24 remedy 3:16 4:3 11:9 52:25 55:25 12:20 13:6
+36:6,15 5:6,7 12:15 Respondent's rooted 48:22 15:19,19 20:11
+44:24 24:4,4 47:12 3:18 21:22 roundabout 22:2,5,25 23:9
+remember 11:2 23:6 27:12 33:19 23:23,25 26:11
+48:4 44:7 response 3:14 rule 24:12 33:18 26:18,18,20
+51:7,9 rendered 9:4 7:9 12:22 13:9 33:18 35:12 38:5 41:5 45:7
+renders 3:20 13:21 21:11 45:12 46:24
+42:19 52:10 responses 15:3 satisfies 36:1 50:22 51:25
+16:20 reply 52:14 13:4 14:21 7:20 25:6 sections 7:1 27:6
+40:16 represent 20:11 48:2 49:8 satisfying 34:15 see 31:7 47:18
+46:23 36:9 15:1 23:13,14 saves 37:25 36:19 46:24
+50:7 required 13:19 30:12 savings 50:9 48:12,15
+requirement 4:4 47:24 saying 21:8 23:13,18 27:6
+39:15 requires 13:7 result 33:23 11:14,20 17:25 send 17:16,18
+3:5 19:23 20:2 31:18,25 32:3 38:15 40:6 sending 17:11
+38:20 53:2,5,9 54:16 six-year 37:7 14:12 15:5 strange 52:22
+9:2 48:9 12:3 18:25 12:11 20:22 39:14 43:18,19 strong 39:5
+49:7 21:10 22:6 21:16,21 43:21 46:22,25 42:21 49:10
+26:9 27:11 slightly 31:14 50:11,12,17 stronger 50:13
+32:21,23 37:21 Solicitor 1:15,20 stated 39:2 structure 8:13
+16:24 46:15 47:15 solution 26:4 statement 15:12 stuck 31:15
+18:3,5 49:13,14 55:16 solutions 26:2 states 1:1,3,12 studies 35:8
+settles 12:20,21 somebody 53:19 3:4 6:10 9:12 subdivision 25:2
+20:5 settling 14:22 sorry 7:14 25:10 9:16 10:1,1,5 subject 4:17
+28:5,8 38:9,20 sort 5:6 12:21 13:1,11 7:17 9:2,7
+29:17 shadow 4:1 sorts 55:13 13:12,25 14:2 39:13
+31:21 share 18:4 19:4 sought 4:5 14:5,6,20,20 submit 23:19
+38:18,21 33:24 49:11 Souter 5:12,23 14:25 15:5 27:5
+46:13 shell 22:18 6:2,6,9,19,25 16:13 19:21 submitted 51:16
+shelling 22:21 7:23 8:9,16 20:8,15 40:4 56:1,3
+26:13,25 showing 39:20 16:11,25 17:2 44:21 45:1,5,8 4:13 6:8,17
+29:8 side 12:8,8 17:7,13,17,20 46:4,6,9,11,18 7:12,13 9:21
+55:6 20:25 21:8,14 17:24 18:6,9 46:20,23 49:1 10:2,2,4
+12:6 52:18 37:10,18 51:21 55:17 7:13
+signal 48:23 52:1,6 State's 14:14 subsection 8:19
+13:6,19 signals 49:19 so-called 6:23 statute 6:23 7:11 50:3
+14:4,8 significant 8:20 35:20 8:24 9:1,3,10 subsections 7:2
+15:21 18:24 36:10 9:19,20 26:23 7:14
+21:23,24 similar 46:9 speaks 54:6 27:3,11 31:4 subsequent
+23:8 simply 28:6 specific 54:13 34:22 36:4,8 25:14,17
+26:6,10 32:21 40:25 specifically 24:3 40:24 41:12 sue 4:19 6:7,8
+27:1 41:15 36:23 54:13 11:5,6 12:16
+28:4 sir 10:20 spend 13:14 statutes 54:12 16:13 17:10
+29:23,25 site 5:25 14:10 30:22 54:13 21:4,12 22:10
+15:1 16:16 spending 29:20 statutory 3:19 22:24 24:13,14
+32:8 34:12 39:11,16 spends 29:3 4:17 7:5,18 29:5 52:8 53:2
+40:3,3,20 split 53:10 10:9 sued 12:5 28:15
+34:4 44:25 49:11,19 spoke 54:3,4 stay 12:2,5 39:12,13 48:6
+38:4 49:21,22 50:23 standards 13:20 step 50:22 51:11
+51:3 15:24 19:5 STEVENS sufficient 16:21
+42:22 sites 13:14 15:8 start 25:17 30:20,25 43:9 suggest 5:5
+45:3 35:2 44:19,21 State 6:8 9:12 43:25 suggestion 11:1
+45:1 46:13 9:17 10:6 stipulate 28:13 13:1 54:1
+47:1,4,6 51:7 12:21,25 13:3 28:24 suing 21:3 54:4
+49:3,4,9 sitting 28:1 13:3,7,8,9,16 stipulated 33:2 suit 11:22,23,24
+12:1 term 13:9 40:25 three 45:14 unanimously 19:5
+51:12 terminated threshold 48:21 42:4 vary 19:5
+53:12 19:24 tied 6:11 uncertainty vast 45:1
+55:1 terms 23:21 time 27:14 36:11 46:25 47:4 Verdes 54:19
+39:9,25 Texas 37:1 time-consuming undercut 32:15 versus 3:4
+54:23 text 48:5 55:3 understand 46:8 victims 24:12
+45:9 45:11 48:3 tort 54:24 understanding 7:18 13:5
+44:17 51:13,14 traditional 22:19 23:20 26:8 52:7
+Thanks 44:11 traveling 35:3 53:16 virtue 9:3 10:6
+44:16 thereon 24:5 tribe 9:13,17 Unfortunately voluntarily
+22:15 27:23 tribes 10:1 unilateral 15:18 voluntary 13:17
+23:1,2 things 21:2 Tronic 4:9,24 Union 29:4,6 W
+34:14 31:21 5:4,10 30:7 wait 54:25
+12:8 36:7 14:20,20,25 14:1,13 20:22
+32:7 33:2,9,13 6:20 20:12,14 44:25 45:5,8 28:13,14,18,23
+26:25 36:7 37:3,22 turn 29:1 30:8 unknown 49:21 32:21,24 52:18
+44:22 37:22,25 38:1 44:23 45:4 unnecessarily 52:22 53:1
+38:6,19 40:8 Turning 48:20 30:6 55:12,16,17
+18:10 25:4,15 47:7 32:1 39:18 urges 40:8 Wash 1:21
+49:7 45:12 51:8 usage 8:24 Washington 1:8
+51:18 ultimate 8:18 usually 30:25 55:14
+15:6 52:16 107(a)(1) 4:13 50:15
+19:16 write 28:14 31:3 107(a)(4)(a) 2000 35:9
+27:7 written 13:22 41:16 2007 1:9
+33:10 14:4 32:2 107(a)(4)(b) 23 1:9
+45:25 34:18 27:24 28:4 24 19:21
+52:18,22 wrong 4:8 32:19 33:19 35:6,15 27 2:7
+42:11 35:21 36:10,15
+x 1:2,7 107(b) 36:1,3 300 34:20 39:3
+Y 25:2
+32:3 51:4 11a 48:14 4 4:13 41:13,13
+43:13,15 22:5 26:23
+0 29:17 31:16 5
+55:21
+37:22 38:2,4
+2:14
+10 36:9 55:21 54:3,5,14
+106 51:25 54:21 9
+45:9 106(1) 15:19 113(f)(1) 48:5 9 55:20
+107 3:17 4:9 49:6 9a 26:20 48:14
+45:4,6 15:19 22:2 23:9 26:20 9606 50:6
+23:23 26:18,23 43:11 48:23 9607 22:17 50:6
+27:3 29:16 31:16,25 40:4
+45:23 32:4 37:12,15 12 10:23
+38:5 42:3,23 161 10:23
+47:23 46:24 47:16,16 37:7
+39:11 51:9 52:17 1995 35:9
+17:10 2
+4:2 7:5

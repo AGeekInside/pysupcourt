@@ -1,0 +1,1460 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+WILLIE GENE DAVIS, :
+Petitioner :
+v. : No. 09-11328
+UNITED STATES :
+- - - - - - - - - - - - - - - - - x
+Washington, D.C.
+Monday, March 21, 2011
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 10:05 a.m.
+APPEARANCES:
+ORIN S. KERR, ESQ., Washington, D.C.; on behalf of
+Petitioner.
+MICHAEL R. DREEBEN, ESQ., Deputy Solicitor General,
+Department of Justice, Washington, D.C.; on
+behalf of Respondent.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+ORIN S. KERR, ESQ.
+On behalf of the Petitioner 3
+ORAL ARGUMENT OF
+MICHAEL R. DREEBEN, ESQ.
+On behalf of the Respondent 23
+REBUTTAL ARGUMENT OF
+ORIN S. KERR, ESQ.
+On behalf of the Petitioner 46
+P R O C E E D I N G S
+(10:05 a.m.)
+CHIEF JUSTICE ROBERTS: We will hear
+argument first this morning in Case 09-11328, Davis v.
+United States.
+Mr. Kerr.
+ORAL ARGUMENT OF ORIN S. KERR
+ON BEHALF OF THE PETITIONER
+MR. KERR: Thank you, Mr. Chief Justice, and
+may it please the Court:
+This case raises the intersection of two
+similar doctrines of the same vintage that point in
+exactly opposite directions: The first, retroactivity;
+and the second, the good faith exception. This Court
+should reverse and hold that the good faith exception
+does not apply to reliance on precedent, and instead,
+that should be governed by the retroactivity principles
+of Griffith v. Kentucky.
+I think it's helpful to start with
+Linkletter v. Walker, the 1965 decision that introduced
+the concept of retroactivity. Linkletter held that
+Mapp v. Ohio, which had held that the exclusionary rule
+applied to State violations of the Fourth Amendment, is
+not retroactive. The Linkletter decision was premised
+on a simple syllogism: The exclusionary rule is about
+deterrence; a decision that postdates a search cannot
+deter the police; and therefore, the exclusionary rule
+should not be available in cases before Mapp.
+Linkletter's syllogism is the same syllogism
+that the Court is attempting -- that, sorry, the
+government is attempting to rely on in this case.
+History has shown that that syllogism is powerful in the
+context of collateral review and habeas corpus
+proceedings, but it should not apply on direct review.
+It should not apply on direct review for two
+basic reasons. First, because on direct review the
+first case must be treated like other cases on direct
+review, the exclusionary rule must be available in order
+to protect the adversary process and avoid advisory
+opinions, which -
+JUSTICE SCALIA: Excuse me. You lose me in
+the argument because it doesn't seem to me that we -- if
+we did apply the good faith rule, we would be denying
+retroactive effect to the altered judgment. It
+continues to apply to matters beforehand, but it's a
+totally different question whether, assuming it is
+retroactive, the good faith exception to the
+exclusionary rule applies. It's a -- it's a separate
+question from retroactivity, it seems to me.
+MR. KERR: I disagree, Justice Scalia.
+During the Linkletter period, the scope of the
+exclusionary rule for the Fourth Amendment was an
+essential concern in a series of retroactivity cases,
+Linkletter being the first, Desist v. United States
+being the second. There were -- many of the Linkletter
+era retroactivity cases were concerned with the Fourth
+Amendment exclusionary rule.
+JUSTICE KENNEDY: Yes, but just to pursue
+Justice Scalia's point: The good faith rule is itself a
+rule that's intact, that's a precedent, that was on the
+books, and the good faith rule qualifies the
+exclusionary rule. So why aren't we just following the
+good faith rule here?
+MR. KERR: The -
+JUSTICE KENNEDY: I mean, there's nothing
+retroactive or prospective about it. It's just -- it's
+just applying the existing law.
+MR. KERR: I disagree, Justice Kennedy.
+It's not applying existing law, because the effect of
+what is labeled the good faith exception in this setting
+is actually to apply the prior decision; that is, to
+have all of the substance and effect of a retroactivity
+decision.
+JUSTICE KENNEDY: Well, that's an
+application of -- that's a subset, it's one application,
+of the good faith rule, which is an overall principle.
+But we're being faithful, under the government's view,
+it seems to me, to the overall principle.
+MR. KERR: I think the Court needs to take
+away the labels here. The government is using a label
+of good faith for what is essentially a retroactivity
+argument.
+JUSTICE SCALIA: It's not a label at all.
+You're -- we're not denying the application of the
+altered rule to your client's conduct. It applies. But
+the question of whether, when it does apply, the good
+faith disregard of it by a police officer nonetheless
+allows the evidence to be admitted, it's a totally
+different -- we're giving full retroactive effect to
+the -- to the change in the law.
+MR. KERR: At the same time, Justice Scalia,
+whatever rule is applied in this case would have to be
+the same rule that applies in Gant itself, and without
+the incentive of counsel to argue in favor of the change
+in the law, that would block claims by defense attorneys
+to overturn the precedents of this Court.
+CHIEF JUSTICE ROBERTS: Well, Mr. Kerr, our
+cases have talked about the deterrence impact on police
+conduct. It seems to me you're trying to expand that
+notion to cover incentives for defendants, and as I
+read -- I guess it's Leon, in footnote 25, it says the
+argument that defendants will lose their incentive to
+litigate meritorious Fourth Amendment claims as a result
+of a good faith exception is -- is unpersuasive.
+MR. KERR: Leon, I think, raised a different
+setting. It raised the question of reliance on errors
+by a magistrate judge, which simply does not implicate
+the concerns of retroactivity, which is this Court
+changing its interpretation of the Fourth Amendment. I
+think that raises a distinct set of principles, as
+Justice Harlan recognized in his dissent in Desist and
+his separate opinion -
+CHIEF JUSTICE ROBERTS: Well, I think our -
+our theory on the exclusionary rule across the board,
+without regard to the underlying substantive violation,
+is that you look to deterrence of police conduct. And
+here, I mean -- I mean, you agree the police did nothing
+wrong in this case, don't you?
+MR. KERR: Yes.
+CHIEF JUSTICE ROBERTS: So what impact -
+why do we want to deter them from doing what's right?
+MR. KERR: Because it takes two branches of
+government for the exclusionary rule to deter
+constitutional violations. The Court has to properly
+construe the Fourth Amendment and the police need to
+then properly follow the Court's precedents. The Court
+can't turn away from the role of this Court's precedents
+in the enforcement of the Fourth Amendment.
+JUSTICE ALITO: Well, I understand your
+argument with respect to decisions of this Court, and I
+think that's your strongest argument, but would you
+concede that that argument does not apply when the
+precedent on which the police are relying is a decision
+of one of the courts of appeals or a State supreme court
+Fourth Amendment decision?
+In that situation, there will be plenty of
+avenues for obtaining review of the correctness of those
+decisions; isn't that right?
+MR. KERR: Justice Alito, I think it depends
+on what the good faith exception is. The government's
+brief I think does not exactly articulate what the
+standard is that -- to which it would like to apply.
+Even so, most Circuit Court decisions
+interpreting the Fourth Amendment are derivative of this
+Court's decisions interpreting the Fourth Amendment.
+And this case is a good example. The facts of this case
+are quite similar to the facts of Belton. The Eleventh
+Circuit had not actually expanded upon Belton; it had
+merely had relatively routine applications of Belton.
+JUSTICE ALITO: Well, it applied its
+understanding of Belton, which turned out to be
+different from the understanding of the Arizona Supreme
+Court in Gant and the understanding of at least four
+members of this Court when Gant got here.
+MR. KERR: At the same time, the Eleventh
+Circuit's development of the law was -- went no further
+than Belton itself, and this Court needs adversaries to
+make forthright arguments to this Court which may
+involve distinguishing precedent and may involve
+overturning precedent.
+JUSTICE ALITO: If I could just come back to
+my question: Suppose you have a decision in one of the
+courts of appeals that says certain conduct is permitted
+under the Fourth Amendment, and the police in that
+circuit, Federal law enforcement officers in that
+circuit, follow that precedent.
+Now, is -- will there not be plenty of
+opportunities to review the correctness of that decision
+because the issue may arise in other circuits where the
+matter isn't settled?
+MR. KERR: If this Court adopts a good faith
+exception that is quite narrow and would not allow an
+officer in one circuit to reasonably rely on the clear
+circuit court decisions of another circuit, that's
+certainly a possibility. However, it's not clear as to
+why the Court would adopt such a narrow version of the
+exception. The language that the government proposes,
+at least, seems to be the language of qualified
+immunity; the notion of reasonable reliance on a
+decision being believed to be lawful.
+JUSTICE GINSBURG: Mr. Kerr, the line that
+has been suggested by Justice Scalia and Justice
+Kennedy, that is exactly the line that the Eleventh
+Circuit took; is it not the case?
+I mean, Judge Kravitch said: Yes, the
+Fourth Amendment was violated, so to that extent we're
+following retroactivity precedent. But the remedy is
+something different. That was exactly the line that she
+took, wasn't it?
+MR. KERR: That's correct.
+JUSTICE GINSBURG: And on your theory, I
+mean, there's another question in this case; that is,
+perhaps this evidence would come in under the inventory,
+as a -- as a legitimate inventory search, and if the
+Court decided that question, then -- then the question
+you're arguing, the exclusionary rule question, would
+have no practical consequences.
+On your theory, the way you reasoned,
+shouldn't the Court first decide was this a legitimate
+inventory search, and if so, then we never get to any
+exclusionary rule question?
+MR. KERR: That issue, of course, has not
+been briefed in this case. It would remain for the
+Eleventh Circuit to apply that in the event the Court
+reverses.
+At the same time, I wish to be clear that
+I'm not arguing that the exclusionary rule is available
+in every case when the Court overturns its precedent,
+merely that it is a remedy in some cases, and I think
+it's actually a necessary cost.
+CHIEF JUSTICE ROBERTS: If I could just
+follow up on Justice Ginsburg's question. Why did this
+defendant have any incentive to bring his constitutional
+claim if, as may or may not appear too likely, the
+inventory search is going to result in the admission of
+the evidence anyway?
+It seems that your theory goes too far in
+saying that defendants will never have an incentive to
+bring a constitutional challenge if there's some other
+ground on which the evidence might be admitted, and
+that's never been our law.
+MR. KERR: I agree that's never been the
+Court's law, and I think there's an important
+distinction to be made here. The distinction is between
+an argument that has a remote chance of success, and
+defendants will make those claims, and arguments that
+have no chance of success, which is no -
+CHIEF JUSTICE ROBERTS: Well, it's often -
+we do that. We take cases where you can bring a
+constitutional challenge or a different challenge all
+the time, qualified immunity cases, you know, what was
+the law and was it clearly established? Defendants
+bring the qualified immunity cases all the time even if
+they have a tough case on whether it's clearly
+established. Harmless error cases, the underlying
+violation, whether it's a harmless error, and the Court
+can decide the case on either ground, but that doesn't
+keep defendants from bringing the claims.
+MR. KERR: But there's a big difference
+between a tough case and no case. The difficulty of the
+government's claim is the defendant would know any
+effort to challenge this Court's precedent cannot
+logically lead to any relief. Either the defendant will
+lose on the merits, if the Court upholds its precedent
+or the defendant will lose under the good faith
+exception.
+CHIEF JUSTICE ROBERTS: So your incentive
+argument really only holds up when the ground on the
+alternative ground is hopeless? Otherwise we'll expect
+the defendants to bring a Fourth Amendment claim because
+it's pretty easy to bring.
+MR. KERR: Hopeless meaning a zero percent
+chance of likelihood. That's the difficulty of the
+government's position, is that it -
+JUSTICE KAGAN: Mr. Kerr, let's say I'm
+concerned about the kinds of issues that you're raise,
+the incentives on defense counsel and also the oddity of
+the Court deciding a case in which it's absolutely not
+possible to grant a remedy. Wouldn't the solution to
+that be not the rule that you are advocating, but
+instead a much more limited rule which said that in that
+case the exclusionary rule applied, but not in any other
+case, not in any case on direct appeal?
+MR. KERR: I think Justice Harlan's answer
+to that is persuasive, that it's inconsistent with basic
+norms of constitutional adjudication to treat the first
+case differently from other cases not on -- other cases
+on direct review.
+JUSTICE KAGAN: I guess, Mr. Kerr, I'm not
+sure that that's right. Justice Harlan was talking
+about constitutional rights at a period where, as the
+Chief Justice said, the exclusionary rule was viewed as
+part of the constitutional right. But if this Court
+doesn't view the exclusionary rule that way any more, if
+it views the exclusionary rule as simply a prophylactic
+rule which gives a particular defendant a windfall in
+order to gain systemic effects, systemic benefits, why
+would we do it any more broadly than we would need to do
+it? And we would just say: Look, we understand your
+point that this would very much change the incentives
+for defense counsel. We understand your point that it's
+kind of, I don't know, maybe inconsistent with Article
+III to take a case in which there was absolutely no
+chance of relief being granted, but we can deal with
+those issues simply by saying that in your case you get
+relief, but not in any other.
+MR. KERR: Justice Kagan, that was the
+precise premise of the Linkletter regime. The idea of
+the exclusionary rule as a judge-created remedy, the
+idea of the exclusionary rule as not being a personal
+right, that actually was the premise of Linkletter. So
+to go back to something that resembles that regime in
+substance, even if with a new label. I think is ill
+advised in light of the history of the Linkletter era,
+and the Court's struggles to try to articulate a
+consistent standard that can treat the first case and
+other cases similarly.
+I think Desist was a Fourth Amendment case,
+Peltier also a Fourth Amendment case, Peltier also a
+Fourth Amendment case. The government's proposal is
+essentially a return to Peltier with a difference. If
+the Court wants to treat the first case differently than
+later cases, it is essentially recreating Peltier.
+JUSTICE ALITO: With respect to the
+incentives that you're talking about, is there really
+much difference between what would apply in a case like
+this and what already applies in cases that fall under
+Krull? Suppose Congress enacts a statute that
+authorizes a search under particular circumstances, as
+it did, as was the case in Almeida-Sanchez. Now, under
+Krull nobody is going to be able to, and no one who is
+subjected to a search under that statute is going to be
+able, to challenge, to obtain suppression, unless you
+can say that a reasonable law enforcement officer
+couldn't have thought that this statute which was
+enacted by Congress and signed by the President was a
+correct interpretation of the Fourth Amendment.
+Now, maybe there'll be a few cases like
+that, but in the great majority, the vast majority of
+cases, the person will not be able to mount such a
+challenge. So what is the difference between the
+situation here and the situation that the Court already
+approved in Krull?
+MR. KERR: I think there are two
+differences. One is that there is a substantial
+difference from the standpoint of a defendant or defense
+attorney between a remote chance of success in a legal
+claim and no chance of success on a legal claim. Krull
+leaves open the possibility -- and it may be remote, but
+nonetheless a possibility -- of relief if the defendant
+can persuade a court that a reasonable officer would
+have known in light of this Court's precedent that the
+statute allowed unconstitutional searches.
+JUSTICE ALITO: Well, we could leave that
+open here. We could say that there's no good faith
+immunity if a reasonable officer couldn't have believed
+that a prior decision of this Court was a correct
+interpretation of the Fourth Amendment. Maybe that
+sounds strange only because we have a higher opinion of
+ourselves than we do of the Congress and the President.
+MR. KERR: And yet I think your -- your
+hypothetical, your suggestion that perhaps the Court
+could adopt that standard, shows the difficulty of
+trying to craft a good faith exception that ends up
+running up against the Linkletter problem. This is
+exactly the issue the Court struggled with during the
+Linkletter era that Justice Harlan -
+JUSTICE GINSBURG: Essentially, is your
+argument essentially that we should distinguish never,
+which would be this case if your position is not right,
+and hardly ever. Is that -
+MR. KERR: That's correct. Where the rule
+is never, defendants are unlikely to make any sort of
+claim, and this Court would be denied the opportunity to
+review its own precedents, and that's an essential role
+of this Court's decisions in the Fourth Amendment
+setting.
+JUSTICE KENNEDY: Well, you might respond
+that the government's going to say, well, there's Monell
+that's in their brief, and you'll probably say that
+that's a weak substitute for a criminal defense
+attorney's doing it in the trial itself.
+MR. KERR: It is a weak substitute. There's
+been no case that I'm aware of at least involving
+liability against a municipality seeking law reform.
+It's because the Court has rejected the notion of
+municipal liability as being based on respondeat
+superior.
+JUSTICE KENNEDY: Suppose we were concerned
+with the costs of your rule in the sense that Gant does
+have some exception for the safety of the officers, and
+I think you can read the case if there's some general
+safety considerations for not securing the car in a
+neighborhood rather than leave it by itself. If we
+adopted your rule, the prosecution in all those cases
+would not have had the opportunity to make those
+additional defenses or those -- to advance those
+additional justifications for the search. Maybe you'll
+say, well, I'm just trying to resurrect Linkletter.
+MR. KERR: I disagree. Just to explain,
+Justice Kennedy, my rule would be to retain the existing
+practice of this Court. I'm suggesting no changes in
+the practice of this Court, and that is when the Court
+recognized the need to overturn Belton or at least to
+substantially change Belton in the Gant case, the Court,
+Justice Alito in his dissent, recognized that there were
+costs along with that and that led to review of cases in
+the lower courts. In many of those lower court
+decisions, the lower courts held that the searches were
+nonetheless constitutional under Gant, and that was
+absolutely proper. In those situations there is no
+constitutional violation, no one goes -
+JUSTICE KENNEDY: Well, those cases were
+pending. I was concerned with cases that were closed, I
+suppose.
+MR. KERR: In the closed cases, I'm not in
+any way challenging the traditional rule of Teague v.
+Layne and Stone v. Powell that the new rule is not
+available. As soon as the conviction is final, the door
+is closed and no defendant can seek review. This is
+only about direct review and the initial case in which
+the rule is announced, and that's why I think it raises
+a special set of jurisprudential problems because it
+implicates this Court's need to avoid advisory opinions
+and to avoid what would amount to a one-way street.
+Under the government's proposed rules, proposed rule,
+defendants would have a limited ability to challenge
+precedents that construe the Fourth Amendment too
+narrowly, but of course of government would be free in
+any case to challenge precedents that the government
+believes construes the Fourth Amendment too broadly.
+The concern is that over time that would lead to an
+asymmetry in the Court's outcomes, not as a result of
+the measured judgments of this Court, but rather as a
+result of the incentives on counsel, and the Court
+should strive to avoid that sort of result.
+CHIEF JUSTICE ROBERTS: You're asking us for
+an exception to our general approach, assuming the
+general approach is not the one you succeed, for, as you
+put it, cases where there's zero possibility of success,
+while allowing application of the good faith precedent,
+even if the chances of success are remote.
+Is it really worth the candle to have
+litigation over whether it was a difference between zero
+chance and remote chance, as opposed to continuing to
+apply the good faith rule across the board?
+MR. KERR: Just to be clear, the Court has
+not applied the good faith exception in this setting.
+The government is arguing for an expansion of the good
+faith exception into territory which has traditionally
+been thought to be the regime of retroactivity.
+CHIEF JUSTICE ROBERTS: I understand your
+position on that. Now, getting to my question, is it
+really worth it for us to have litigation over the
+difference between zero and remote in determining what
+rule we should apply in this case?
+MR. KERR: I don't foresee litigation on
+that point because, at least as I understand the
+government's rule, as soon as a defendant utters the
+phrase "This court should overturn its precedent," then
+the good faith exception would automatically apply.
+That's at least how I understand the government's
+proposed rule. So it would be up to this Court to craft
+exactly what the standard would be, but if the standard
+is broad enough such that upon asking for -
+CHIEF JUSTICE ROBERTS: Most lawyers don't
+take that position. Most lawyers would argue the
+Court's precedents should be overturned and, if not,
+here's why our case is different. And we would still be
+required under your theory to look if that second
+argument has zero chance or only a remote chance.
+MR. KERR: In that circumstance I think the
+Court would be forced with issuing what -- forced to
+issue what may amount to an advisory opinion.
+CHIEF JUSTICE ROBERTS: And it seems to
+me -- I mean, in terms of the incentives on the defense
+counsel, it would be an odd defense lawyer who is going
+to say you should consider argument A because my second
+argument has got zero chance of succeeding.
+MR. KERR: I think the incentive on defense
+counsel, if the government's rule is adopted, is to
+never argue that cases should be overturned, and instead
+make not terribly candid arguments to this Court that
+every case is distinguishable.
+JUSTICE SCALIA: Mr. Kerr, I've been on the
+bench 30 years or so now. I have never, never heard
+counsel come before the court and say that we should
+overrule a case without making the argument: The facts
+of this case are not within the prior decision anyway.
+It just doesn't happen.
+MR. KERR: Katz v. United States is perhaps
+a case worth focusing on, where the Court overturned the
+rule of Goldman and Olmstead that wiretapping does not
+implicate the Fourth Amendment. Katz's brief to this
+Court argued that the Goldman-Olmstead regime had -- was
+no longer applicable, had been implicitly overturned by
+prior cases, and then said if it has not been implicitly
+overturned, it must be overruled. There was no attempt
+to try to distinguish the facts of the Katz case from
+the Goldman-Olmstead regime.
+JUSTICE SCALIA: There was still not the
+argument you should overrule the prior case, period,
+with no effort to show why you could come out that way
+without overruling the prior cases. I just don't
+know -
+MR. KERR: Those arguments, I agree, Justice
+Scalia, are rare. At the same time they are important
+arguments. It is an -- it is an alternative argument -
+JUSTICE SCALIA: I'm saying they're
+nonexistent. I'm not saying they're rare.
+CHIEF JUSTICE ROBERTS: The difference
+between zero and remote.
+(Laughter.)
+MR. KERR: Nonetheless, the incentive on
+counsel under the government's rule would be not to ever
+make the claim that a precedent should be overturned.
+And the Court needs that argument to be made in
+appropriate cases so the Court can enter decisions and
+consider the balance of the considerations
+appropriately. It has done so under the current
+practice, and that is really as a result of Griffith v.
+Kentucky, which applies not only -- allows the
+exclusionary rule to be available in the first case, but
+in other cases on direct review.
+If there are no further questions, I would
+like to reserve the balance of my time.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Mr. Dreeben.
+ORAL ARGUMENT OF MICHAEL R. DREEBEN
+ON BEHALF OF THE RESPONDENT
+MR. DREEBEN: Mr. Chief Justice, and may it
+please the Court:
+Because the exclusionary rule has severe
+consequences for the truth-seeking function of a
+criminal trial, this Court has restricted its
+application to those situations in which it's necessary
+to further the deterrent purpose of the exclusionary
+rule, namely to shape police conduct.
+The Court has repeatedly rejected efforts to
+expand the exclusionary rule to serve other purposes,
+such as schooling judges who issue warrants on the need
+to respect the Fourth Amendment, reminding legislatures
+about their obligations under the Fourth Amendment, and
+for other purposes such as to preserve judicial
+integrity.
+JUSTICE GINSBURG: Mr. Dreeben, what about
+Gant itself? Gant severely qualified Belton. Should
+there have been a suppression remedy for Gant, as
+Justice Kagan suggested, the very case that changes the
+law?
+MR. DREEBEN: Justice Ginsburg, let me give
+two responses to that. First of all, the rule that the
+Eleventh Circuit adopted in this case, and that is the
+only rule before the Court, involves a situation in
+which there is binding appellant precedent that
+instructs the officer, tells the officer, what you're
+about to do complies with the Fourth Amendment.
+The state of the law in Arizona would not
+necessarily have risen to that level, in light of the
+dissonance in that court's opinions, in the Arizona
+Supreme Court opinions, about the reach and scope of
+Belton.
+So the question about whether the rule that
+we're urging here would have applied in Arizona is a
+separate question from the one that the Eleventh Circuit
+resolved.
+JUSTICE GINSBURG: And how would you answer
+it? Was Gant purely prospective or did Gant itself get
+the exclusionary rule?
+MR. DREEBEN: Gant obtained relief. This
+Court granted certiorari in Gant limited to the Fourth
+Amendment question, and Arizona never raised any good
+faith exception to the exclusionary rule in that case,
+so the Court did not address the good faith issue.
+JUSTICE GINSBURG: Suppose -- suppose it had
+been raised?
+MR. DREEBEN: The logic of our position
+would be that, to the extent that Gant was seeking
+Belton to be overruled, he would not be able to impugn
+the actions of the officers who relied on it. To the
+extent that he was doing what he actually did do and
+which this Court's opinion in Gant accepted, which is to
+say that the Gant opinion, that the Belton opinion did
+not resolve the fact pattern in Gant, he would not be
+automatically governed by the good faith exception. And
+as a result, Gant is really the best illustration of how
+unusual it is for a lawyer to come to this Court and
+say, please outright overrule a Fourth Amendment
+decision.
+JUSTICE KAGAN: Mr. Dreeben, do you think
+that if a lawyer did that, if a lawyer filed a cert
+petition and said you should overturn the following
+Fourth Amendment precedent, and that was all that was in
+the cert petition, would we be able to grant that cert
+petition knowing that there was no possibility of relief
+for that petitioner?
+MR. DREEBEN: Yes, Justice Kagan, I believe
+the Court could grant that petition, although it's
+highly likely that any criminal defendant who filed it
+would couple it with a claim that this Court should
+either reverse, modify, or limit any holding that came
+out.
+JUSTICE KAGAN: But you think that we would
+have appropriate Article III authority to decide that
+question without any hope of relief?
+MR. DREEBEN: Certainly the Court would have
+Article III authority, because it's always free to
+limit, modify or abrogate one of its precedents,
+including a holding, if one issued from this decision,
+that the good faith rule applies when the Court
+overrules its decision.
+Litigants can all the time be faced with
+impossible arguments under existing precedent, but that
+doesn't preclude this Court's Article III jurisdiction
+to adjudicate challenges to that precedent. That's
+indeed the very premise of Petitioner's argument.
+JUSTICE SCALIA: I assume if Petitioner says
+we should be able to overrule our prior substantive
+precedent, he should also logically say that we should
+be able to overrule our prior precedent regarding the
+exclusionary rule. So that whenever somebody wants to
+come up here to challenge prior precedent, he can just
+say: You know, Your Honors, we're asking you to
+overrule two cases: The first one, the substantive rule
+of Fourth Amendment law; and secondly, whether that -
+that change in law can govern the action of the
+policeman who didn't realize that the law was going to
+be changed.
+MR. DREEBEN: That's correct, Justice
+Scalia, and I think it illustrates why there is no
+Article III impediment. Now, this Court may
+prudentially be reluctant to take a case in which it
+knows that its resolution of the Fourth Amendment issue
+would not dictate a reversal of the judgment, even if
+the Fourth Amendment issue went in favor of the
+defendant, but it is not that dissimilar from the
+situation in qualified immunity, when there is no law on
+the books that governs an issue and a petitioner asks
+the Court to resolve the Fourth Amendment issue.
+JUSTICE SCALIA: And if he asks for the
+double overruling that I just suggested, I guess there's
+some chance that the Court would do it?
+MR. DREEBEN: It would be remote, but not
+zero.
+(Laughter.)
+JUSTICE SOTOMAYOR: You've just raised the
+question of qualified immunity and the similarities.
+There is one problem that I have with the regime that
+you are suggesting, which is that because laws differ
+among circuits, now we've created a regime where we say
+if the law was clear or if there was law on this issue
+in your circuit, and the police officer relied on it,
+the exclusionary rule won't apply; but if the law was
+uncertain or not clear in another circuit, then the
+exclusionary rule does apply.
+There's something illogical about permitting
+that kind of difference to control the outcome of
+suppression. Are you through the back door trying to
+get in a qualified immunity thing? If any police
+officer has a reasonable cause to believe their conduct
+didn't violate the Constitution, then no suppression?
+That is what it sounds like your brief is ultimately
+suggesting.
+MR. DREEBEN: Well, Justice Sotomayor, we're
+not kind -- trying to come in through the back door with
+qualified immunity as a standard in this case. If we
+ever were to urge that, it would be through the front
+door. We would make the argument overtly.
+This case doesn't involve that issue. Judge
+Kravitch's opinion for the Eleventh Circuit very
+carefully distinguished between cases in which governing
+precedent instructed the officers, your conduct is
+lawful if you do this, from cases in which the law is
+unclear and there is no governing precedent.
+JUSTICE SOTOMAYOR: So there's no value in
+your mind to the fact, as your adversary is saying -- I
+don't -- I haven't found one case previously by this
+Court where it has applied the good faith exception to
+the finding by the Court of a Fourth Amendment
+violation. Have you? It's never been done in any case,
+correct?
+MR. DREEBEN: Not directly under the
+exclusionary rule. United States v. Peltier considered
+the factors that now go into the good faith exception
+under the rubric of then-prevailing retroactivity law.
+JUSTICE SOTOMAYOR: Well, what we're doing
+is sort of -- your adversary is right, we're returning
+to Linkletter, aren't we? We're sort of saying it's
+going to apply, the exclusionary rule is going to apply
+in some cases, but not all.
+MR. DREEBEN: Not returning to Linkletter,
+Justice Sotomayor, because Linkletter was an
+across-the-board rule that said that this Court had the
+authority to render -
+JUSTICE SOTOMAYOR: I'm talking about what
+happened before then.
+MR. DREEBEN: Before -
+JUSTICE SOTOMAYOR: We're going to have the
+exclusionary rule apply sometimes but not other times.
+MR. DREEBEN: That's true, but that's a
+direct consequence of the logic of the good faith
+exception itself; and the considerations that had
+informed this Court's retroactivity jurisprudence in the
+Peltier decision were taken out of the law of
+retroactivity when the Court decided Griffith v.
+Kentucky; but those same considerations became relevant
+to the good faith exception, which is tied to the
+question of whether there is a need to deter police
+misconduct because the police have disregarded the
+governing law.
+JUSTICE BREYER: Is there -- is there
+anything to be said for simplicity? The normal rule is
+when the police violate the Fourth Amendment you exclude
+the evidence. That's the rule. Then there are some
+exceptions, good faith, et cetera. But that's the
+normal rule.
+You have a new law in this Court. The new
+law says, now this is a violation; we didn't previously
+think it is, but it is; and that applies to the case in
+front us and to other cases on direct appeal. The
+reason that's simple is that's what we've always done.
+And somebody says let's make an exception here, bring in
+the exception, good faith, and we say no. Why? Not
+because any of the policy arguments are wrong, but just
+because, as this last 40 minutes demonstrates, once we
+do that it's so complicated, only 14 people are going to
+understand it and they're not going to understand it,
+either.
+MR. DREEBEN: Well, Justice Breyer, I think
+nine of the people who will understand it are on this
+Court.
+JUSTICE BREYER: That's very optimistic.
+(Laughter.)
+MR. DREEBEN: I'm an optimist.
+JUSTICE GINSBURG: I don't think that -
+JUSTICE SCALIA: I don't think it's so
+complicated, counsel. Don't worry about it.
+(Laughter.)
+MR. DREEBEN: The principle is very
+straightforward. The principle is that the exclusionary
+rule applies only when it can deter police misconduct.
+When police rely on a warrant issued by a magistrate, a
+statute or a judicial decision issued by a court of
+appeals that governs their conduct, they are not making
+a decision about what the Fourth Amendment requires.
+They are following a different actor in the system, and
+this Court has held that there is no deterrent value to
+suppress evidence with an important cost to the
+truth-seeking function of the criminal trial, which is
+why, even if it makes for a simpler rule, the Court does
+not automatically suppress evidence just to achieve
+simplicity. It does -
+JUSTICE SCALIA: Actually, why don't we just
+abolish the exclusionary rule? That would be really
+simple. Whatever evidence tends to prove the truth
+comes in. That would be a very simple system if we're
+looking for just simplicity, wouldn't it?
+MR. DREEBEN: It would be an extremely
+simple system.
+JUSTICE SCALIA: You're not proposing that,
+though?
+MR. DREEBEN: Not in this case, because this
+case represents only an application of existing doctrine
+in the Court with respect to the purposes of the
+exclusionary rule.
+JUSTICE KENNEDY: There is something ironic
+in your position that the defendant who lives in the
+circuit that is most clearly wrong is treated worst.
+MR. DREEBEN: The defendant in these cases
+is not the object of the Court's protection. I think,
+as Justice Kagan's question made clear, the exclusionary
+rule is not a personal individual right. It's not a
+constitutional right at all. It is a remedy that this
+Court has devised, not to protect the defendant's
+interests as such. The Fourth Amendment violation has
+happened out of court. It cannot be repaired. The
+purpose of the exclusionary rule is to deter future
+conduct by other counterparts of that police officer or
+the police officer himself, so that when he confronts
+the situation in the future he will be more solicitous
+of Fourth Amendment rights.
+JUSTICE SOTOMAYOR: Well, if there's a
+circuit split, how do we encourage police officers to be
+careful about the Fourth Amendment? There's a
+presumption somehow that because a circuit precedent
+exists that says it's okay to do this, that police
+officers have to do this. I don't necessarily believe
+that. If there's a circuit split and a police officer
+knows that other circuits are saying this is
+unconstitutional, why are we taking away the deterrent
+effect of having thoughts occur to the officer about
+thinking through whether there's a better way and a
+legal way to do things?
+With respect to the Fourth Amendment, we've
+built -- your adversary is right, we've built in so many
+exceptions, and including in this case the inventory
+search, that the officers have many different ways of
+doing things than merely doing what this particular
+court thought was legal or this circuit. So I guess my
+question is, when there's a circuit split, why are we,
+as Justice Kennedy is saying, giving protection to the
+circuit that's plain wrong and to the officer who chose
+to follow that advice?
+MR. DREEBEN: Justice Sotomayor, we don't
+expect police officers to attempt to define the content
+of the Fourth Amendment on their own. They are
+recipients of the status of the law from the courts that
+govern their activities; training programs will be
+instituted based on that law. I'm sure that careful
+training programs will advise officers that there may be
+some legal risk if there's a circuit split, and that a
+decision may ultimately be reversed; but we don't expect
+police departments to try to make the Fourth Amendment
+decision on their own. And there's some sound -
+JUSTICE SOTOMAYOR: But they're going to be
+protected -- they're going to be protected from that -
+MR. DREEBEN: Well -
+JUSTICE SOTOMAYOR: -- meaning they're going
+to get qualified immunity from any personal liability.
+MR. DREEBEN: Yes, but the reason that the
+Fourth Amendment balance has been struck in any given
+way in a particular court is because that is felt to be
+the reasonable way for officers to operate. In other
+words -
+JUSTICE SCALIA: I assume that an officer
+when he goes out to do his job does not have primarily
+in mind not to get sued, but I think primarily in mind
+he wants to arrest somebody in such a manner that the
+person can be convicted of the crime that he's done,
+right?
+MR. DREEBEN: Justice Scalia, that's exactly
+right. The officers are seeking to protect the public
+interest, and by not taking advantage of decisions in
+their circuits that explain that certain behavior is
+reasonable, they can be putting the public interest at
+risk by relinquishing procedures that have been held to
+comply with the Fourth Amendment and yet allow the
+police to solve crime or to arrest suspects.
+Now, there's been a lot of discussion in
+Petitioner's argument about the need to provide an
+incentive to counsel to raise Fourth Amendment
+challenges to existing precedent. I think it's useful
+at the outset to look a little bit empirically at that
+question, because some members of the Court have
+expressed concern about that possibility.
+From as best as I can tell, this Court has
+not overruled one of its Fourth Amendment precedents in
+a manner that favored defendants' interests since 1969.
+Despite whatever incentives may have existed as a result
+of the exclusionary rule, defendants will typically
+understand that stare decisis is the normal course that
+this Court follows, and as a result, they are highly
+likely to structure their arguments in a manner that
+will seek to distinguish, limit, or undermine a
+precedent rather than calling for its outright
+overruling.
+JUSTICE ALITO: Well, particularly in light
+of that, what is wrong with the suggestion that Justice
+Kagan raised in one of her questions about retaining an
+exception to the good faith exception for the situation,
+for the defendant whose case comes up here and results
+in the overruling of one of this Court's precedents?
+The Court invented the exclusionary rule.
+The Court invented the good faith exception to the
+exclusionary rule. Is there anything to prevent the
+Court from inventing a new exception to the exception to
+the exclusionary rule?
+MR. DREEBEN: No, Justice Alito, there is
+nothing to prevent this Court from inventing that
+exception. That exception would serve the purpose of
+encouraging litigants to ask the Court to overrule its
+decisions and thereby to receive a benefit when they do
+so. If it's limited to the first individual who
+actually succeeds in that endeavor, it would limit the
+costs of the exclusionary rule, which, after all, result
+in the exclusion of reliable probative evidence of guilt
+in every case where it's applied.
+And the Court could tailor the exclusionary
+rule in that manner. If it did so, it would certainly
+minimize the costs, and it would represent the least
+amount of intrusion on the purposes of the exclusionary
+rule. But I would caution the Court in this respect.
+If the Court were to adopt another purpose for the
+exclusionary rule, namely creating incentives for
+counsel to challenge existing precedent, that will
+represent a substantial departure from this Court's
+consistent holdings that the only function of the
+exclusionary rule is to deter police misconduct, and
+once the Court has acknowledged that an additional
+exception to the exclusionary rule is justified, even if
+in these rare situations, it will create pressure for
+litigants to urge that additional policy interests of
+the administration of justice would be served if the
+Court would create yet another exception.
+JUSTICE SCALIA: I don't think we'd look
+particularly good, either, do you? I mean, if.
+We had one case raising a Fourth Amendment
+question, and let's say six others who raise -- that
+raise the same question, what would we do? We would
+grant the first and hold the second? No use to hold the
+second, because they're going to lose anyway, right?
+MR. DREEBEN: Yes.
+JUSTICE SCALIA: So I guess we would -- we
+would just grant the first and deny all the rest, even
+though they're raising the same issue?
+MR. DREEBEN: I think the strongest argument
+against -
+JUSTICE SCALIA: It doesn't smell very good.
+MR. DREEBEN: -- the proposal, Justice
+Scalia, would be an appearance of arbitrariness in the
+Court's actions.
+JUSTICE BREYER: So that's why, isn't it -
+that's why the normal rule has been that the person
+litigating the case gets the advantage of the new rule,
+as do other people whose initial appeals are not final,
+and there we are. That's a rule existing, I guess, for
+a long time. I guess these other people have to have
+raised the question in their case. They have to have
+asked for it. They can't -- they have to follow normal
+rules. Has that caused havoc, or has that caused
+things -- the legal system, even before -
+MR. DREEBEN: Justice Breyer, it hasn't
+caused havoc, for several reasons. One is it's
+extraordinarily rare for this Court to overrule its own
+Fourth Amendment precedent. It's apparently equally
+rare, or almost equally rare, for the courts of appeals
+to overrule their precedent and adopt a more
+defendant-friendly Fourth Amendment rule.
+I cannot claim to have done an exhaustive
+survey of all of the courts of appeals decisions that
+possibly overruled Fourth Amendment holdings, but the
+results of my research disclose only one case in which a
+court of appeals overruled its precedent to favor a
+defendant, and that occurred in 1987 in the Fifth
+Circuit, and the Fifth Circuit adopted a good faith
+exception precisely like the one that the government is
+urging the court to adopt today and declined to suppress
+the evidence for that reason. No other circuit has
+apparently confronted the question of whether overruling
+a decision triggers the good faith exception.
+JUSTICE BREYER: I would have thought it was
+more for this Court, actually, anyway. I don't know if
+it has to be the words "overruling." My recollection
+was: Has the Court created a new rule of law? I think
+it goes back to Cardozo, Sunburst or something, that if
+the Court creates a new rule of law, then does it apply
+prospective, retroactively? And the worked-out position
+was it applies retroactively, but to the litigant and to
+those whose appeals are not final if they raised it.
+MR. DREEBEN: Yes, Justice Breyer.
+JUSTICE BREYER: And you want to change
+that, it seems to me.
+MR. DREEBEN: No. That is the retroactivity
+question, and the retroactivity question is -
+JUSTICE BREYER: You're hiving off the -
+the suppression. I understand.
+MR. DREEBEN: This Court has acknowledged
+that the exclusionary rule is not an individual right,
+it's a remedy. It doesn't involve any violation of
+constitutional rights of the defendant. It's a remedy
+that this Court devised after finding a Fourth
+Amendment.
+And I think, as Justice Ginsburg pointed
+out, in Judge Kravitch's opinion for the Eleventh
+Circuit, Judge Kravitch acknowledged that Gant is the
+law; the search in that case was unconstitutional. The
+next question is an entirely separate issue of remedy,
+and that remedy issue is governed by this Court's good
+faith precedents. The rarity with which courts of
+appeals have confronted this simply reflects the fact
+that, even without the lack of incentive that Petitioner
+says will result if the Court agrees with the government
+today, holdings that overrule Fourth Amendment decisions
+squarely and favor defendants do not occur all that
+often.
+JUSTICE GINSBURG: Were we right that -
+there were several cases that were TBR'd in light of
+Gant. Maybe some of them shouldn't have been TBR'd
+under your theory.
+MR. DREEBEN: Well, Justice Ginsburg, before
+the litigation that occurred in the wake of Gant, there
+was only one precedent on the books in any circuit that
+I'm aware of that had applied the -- in the Federal
+system -- that had applied a good faith rule to overrule
+judicial decisions. That was United States v. Jackson
+in the Fifth Circuit. It's cited in the Eleventh
+Circuit's opinion in this case. It happened in 1987.
+So I think it's fair to say that prosecutors
+and government officials were not raising good faith
+exclusionary rule arguments in the cases that were held
+for Gant. I don't believe that the United States had
+done so, and as a result, it was perfectly logical and
+in accordance with this Court's normal practice to
+grant, vacate, and remand those cases for further
+consideration under Gant.
+But in the wake of Gant, courts began to
+think of the logic of Leon and Krull and this Court's
+recent decision in Herring v. United States and attempt
+to apply the logic of those decisions to a circumstance
+in which a police officer relies on a binding and
+governing appellate precedent, and they concluded that
+courts that announce precedents have every reason to
+expect that litigants will rely on them and that police
+officers will rely on them. Therefore, there is no
+deterrent purpose to be served by suppressing the
+evidence. It's all cost.
+And the cost would be that individuals whose
+convictions have been obtained based on evidence that
+was seized in reasonable good faith reliance on existing
+appellate precedent will now be able to overturn their
+convictions, and that's a heavy cost to the
+administration of justice. It's why the exclusionary
+rule has been confined to particularized circumstances
+where it's thought that it will actually achieve a
+benefit, and it has not been expanded beyond those
+purposes.
+So given that litigants, criminal
+defendants, have a tremendous incentive to challenge
+their convictions and to try to navigate around
+precedents while simultaneously showing that those
+precedents may have underlying material flaws, this
+Court is highly unlikely to be deprived of cases in
+which litigants attempt to undermine precedents without
+actually calling for their overruling. That is what
+happened, for example, in Batson v. Kentucky, where the
+Petitioner in that case did not want to head-on confront
+Swain v. Alabama and ask for its overruling, and as a
+result asserted that racially discriminatory peremptory
+challenges were invalid under the Sixth Amendment,
+rather than the Equal Protection Clause. This Court got
+the case and concluded that the proper analysis was the
+Equal Protection Clause and it accordingly overruled
+Swain in relevant part.
+So it's highly unlikely that if, in fact, a
+precedent of this Court is beginning to fray around the
+edges and justices of this Court have written
+concurrences or dissents that explain that they no
+longer believe that the logic of that is sound,
+litigants will exploit those statements in an effort to
+narrow the precedent and ultimately expose its flaws, so
+that if this Court determines it can overrule the
+precedent, and it can do so even if the exclusionary
+remedy will not follow.
+JUSTICE ALITO: Would the rule that you're
+arguing for apply only in the situation where there is a
+binding precedent that affirmatively approves a
+particular police practice, or would it also apply in
+the situation in which there is simply absolutely
+nothing on the books that prohibits the police practice,
+so that a reasonable officer wouldn't have any reason to
+think that the practice was unconstitutional?
+MR. DREEBEN: This case, Justice Alito, only
+involves the example of binding appellate precedent, and
+Judge Kravitch's opinion for the Eleventh Circuit
+distinguished between the two situations. In the
+situation in which there is no precedent, such that an
+officer would not be instructed that his conduct is
+affirmatively unconstitutional, qualified immunity
+applies, and there would be arguments that there is
+nothing to deter if an officer acts within that empty
+space.
+But there is a countervailing argument, and
+the countervailing argument, which Judge Kravitch talked
+about in the Eleventh Circuit, opinion, would be that
+when there's no law on the books courts should give
+officers to -- an incentive to act in favor of the more
+constitutionally protective manner, rather than taking a
+flier on what might turn out to be unconstitutional.
+JUSTICE GINSBURG: She did say that if there
+is ambiguity, then the police must err on the side of
+not searching. Do you think that that's -- do you
+accept that?
+MR. DREEBEN: No, Justice Ginsburg, I would
+not submit to the Court that the United States
+necessarily agrees with that. I think that this case
+doesn't involve that problem and, as I said, there are
+contrary arguments that could be advanced based on this
+Court's description in Herring of the purpose of the
+exclusionary rule to reach conduct that is either
+reckless or intentional or at the least systematically
+negligent.
+And, so, some day this Court may have to
+confront whether the narrow limitation that Judge
+Kravitch adapted -- adopted in her opinion is the
+correct rule of law versus a broader view that exclusion
+is only appropriate when the officers have engaged in
+truly culpable conduct. But that's not a bridge that
+the Court needs to cross in this case. It's not an
+argument that the United States is advancing for
+affirmance of the judgment.
+This judgment can be affirmed simply by
+holding that the syllogism that the court of appeals
+adopted that, absent a deterrent purpose there is no
+basis for exclusion, there is no deterrent purpose here,
+that's sufficient to resolve this case and the Court can
+leave for another day, if it agrees with that
+proposition, whether the exclusionary rule should have
+any broader exception for good faith behavior.
+If the Court has no further questions -
+CHIEF JUSTICE ROBERTS: Thank you,
+Mr. Dreeben.
+Mr. Kerr, you have 6 minutes.
+REBUTTAL ARGUMENT OF ORIN S. KERR
+ON BEHALF OF THE PETITIONER
+MR. KERR: Thank you.
+I would like to start with the costs -- or
+return to the costs here of the exclusionary rule.
+First, the plain error doctrine is going to largely
+address the concerns that the government has in this
+case. If this Court is seeking to limit the scope of
+the exclusionary rule when the Court overturns
+precedents under the plain error doctrine, if defendants
+don't raise a challenge to the search or seizure in
+their case there will be no relief available to them.
+So therefore, the only possible relief that
+could be granted is for individuals that saw the issue,
+raised the issue, and that will, of course, include the
+individual who raises the claim in a case where the
+Court overturns its precedent, therefore avoiding any of
+the difficulties similar to that of retroactivity.
+JUSTICE KENNEDY: In -- in -- in one -- in
+one sense if we're talking about costs, the rule the
+government proposes is -- is defendant friendly, in that
+this Court may be more willing to impose stricter rules
+under the Fourth Amendment, if it knows that the good
+faith rule will protect against the -- the costs of -
+of overturning the conviction.
+MR. KERR: That's exactly right, Justice
+Kennedy. And, in fact, that exact argument was one of
+the reasons Justice Harlan concluded that the
+exclusionary rule should be available in the first case
+and on direct review. The Court needs to be aware of
+the costs when it overturns precedent. It should not
+depart from precedent lightly.
+And I think Gant is a good example. Justice
+Alito's dissent nicely points out the very real costs of
+the shift from the Belton rule to the Gant rule, and if
+there were no costs in a regime of pure prospectivity,
+the Court would feel much more free to overturn its
+precedents because no one would actually be affected by
+the rule of any cases that are either on direct review
+or in the initial case or of those individuals whose
+convictions are already final.
+JUSTICE KENNEDY: But that could work to the
+benefit of defendants as a class, not the particular
+defendant?
+MR. KERR: That works to the benefit of
+defendants as a class, absolutely. In fact, going back
+to the Linkletter era, that was one of the -- perceived
+as one of the benefits of Linkletter, that it freed the
+Court to overturn precedent. But I think that is an
+improper consideration. It is necessary for Fourth
+Amendment decisionmaking for the Court to accurately
+weigh the costs and benefits of any shift in the rules.
+And so I think that the costs of the exclusionary rule
+in that setting are actually necessary costs.
+And I also think concerns of a windfall that
+are available to defendants are overstated because of
+the many doctrines that limit the scope of the
+exclusionary rule such as inevitable discovery or
+standing. Actually the only individuals who would
+receive the benefit of the exclusionary rule would be
+those individuals who were not searched in the first
+place if the Constitution were followed.
+So, those are individuals who actually did
+not receive -- will not receive a windfall. They will
+essentially, if they were lucky enough to raise the
+issue, go back to the state that they were before the
+Constitution was violated. And again, that's a limited
+group of people, and those are, I think, the necessary
+costs required by the basic norms of constitutional
+adjudication that Justice Harlan raised in his dissent
+in Desist v. United States, and I think in a lot of
+ways this case does return to those concerns of Justice
+Harlan, raised both in his Desist dissent and his
+separate opinion for the Court in Mackey v. United
+States.
+I also wanted to focus on how similar the
+issue is in this case to -- in the Linkletter era, if
+you read the Desist dissent, in particular Justice
+Harlan's dissent, it's clear that he's considering the
+issue of retroactivity to be about the scope of the
+exclusionary rule.
+The Eleventh Circuit below had this idea
+that retroactivity is about the availability of a rule,
+but rules are not sort of ephemeral ideas that are
+available or not without any impact. It must be that if
+they are available, they are available independently of
+when they were announced and should be enforced
+accordingly.
+If there are no further questions -
+CHIEF JUSTICE ROBERTS: Thank you, Mr. Kerr.
+The case is submitted.
+(Whereupon, at 11:02 a.m., the case in the
+above-entitled matter was submitted.)
+26:23 adopts 9:21 14:25 15:17 23:16 32:18 35:20 38:11
+42:15 advance 18:2 16:13 17:6 19:8 applications 8:24 44:17,18 45:19
+49:25 advantage 35:13 25:2,18,23 27:5 24:19 29:8 37:7 12:1 21:13
+18:16 44:3 29:6,17 33:25 33:14,24 34:11 26:15 30:24 Arizona 9:2
+advice 34:8 34:18 35:1,17 31:21 40:3 24:13,15,19
+advocating 13:10 amount 19:5 21:4 11:4 15:6 20:1 articulate 8:16
+40:12,20 affirmatively analysis 43:11 28:10 29:19,19 asked 38:24
+affirmed 45:21 announced 19:2 43:25 44:2 20:20 27:3
+46:1 anyway 11:16 appropriate 35:5
+Alito's 47:16 30:25 approves 44:1 34:10 42:3 43:3
+allowed 16:8 31:24 38:20 38:15 attorney 16:2
+49:2 Almeida-Sanc... appear 11:14 argued 21:25 authority 26:9,12
+42:17 altered 4:19 6:10 38:15 11:7 20:4 43:25 authorizes 15:9
+ambiguity 44:25 appellant 24:10 4:17 6:7 7:2 8:5 32:6
+39:7,17 5:2,7 7:3,9,25 42:15 44:8 12:23 16:24 49:15
+18:24 23:3 42:20 47:25 carefully 29:1 cert 25:21,24,24 40:20 41:12,16
+47:11 48:2,17 case 3:4,11 4:6 certain 9:13 44:9,19 49:14
+49:17,18 benefits 14:2 4:12 6:17 7:18 35:14 circuits 9:19 28:5
+48:5,9 8:21,21 10:9,17 certainly 9:25 33:19 35:14
+beyond 42:20 13:12,13,13,17 cetera 30:20 circumstance
+47:12 42:5 44:1,8 15:10 16:25 15:21 19:7,10 15:9 42:18
+block 6:20 19:1,10 20:11 42:23 46:18 claim 11:14
+39:25 branches 7:22 25:3 27:12 18:22 claims 6:20 7:3
+Breyer 30:16 28:21,24 29:7 chance 11:25 12:1,13
+35:1 39:2,21 40:5,6 32:17,18 34:1 16:2,3 19:25,25 Clause 43:10,12
+42:13 bridge 45:17 38:19,23 39:12 chances 19:22 11:6 20:2 28:6
+brief 8:16 17:10 40:21 41:17 change 6:15,19 28:9 33:1 49:11
+briefed 11:3 45:5,18,25 40:6 32:23
+3:8 broader 45:15 12:4,6,8,10 7:13,20 11:11 21:17 22:8
+46:9 46:3 13:17,17 14:22 12:3,22 13:22 25:17 27:2
+19:11 17:25 18:12,18 21:5 22:16 23:7 comes 32:11
+33:17 21:12 22:2,9,23 49:22 complicated 31:6
+43:18 C 23:4 27:4 29:1 chose 34:7 31:17
+calling 36:10 32:24 41:7,20 9:15,16,23,24 comply 35:17
+9:1,7 18:9 candle 19:23 cause 28:15 28:25 32:23 concern 5:3
+24:2,17 car 17:23 caused 38:25,25 33:13,15,18 19:12 35:25
+47:17 Cardozo 39:25 39:3 34:4,5,7,16 concerned 5:6
+17:19 33:3 40:15 49:1 36:6 46:22 24:15 25:12 22:23 35:13
+constitutionally court 1:1,12 3:10 26:19 30:8 37:2 39:10 41:3
+48:12 construe 7:25 7:8,24 8:1,5,9 37:16 38:16 decisis 36:6
+19:8 8:18 9:3,4,7,8 40:23 41:23 declined 39:17
+47:10 content 34:10 10:24 11:4,8 cover 6:25 12:16,18,20
+continues 4:20 13:23 15:2,22 create 37:21,24 18:25 20:14
+9:13 23:18 contrary 45:7 17:4,16 18:7,8 39:24 32:22,24 36:16
+29:2 control 28:12 18:8,10,13 creates 40:1 39:14 40:15
+33:8 convicted 35:9 19:14,15 20:2 creating 37:14 47:3 48:1
+45:9,17 conviction 18:24 20:15,18 21:3 crime 35:9,18 defendants 6:25
+42:13,16,24 23:15,19 24:9 42:22 19:7 36:3,5
+corpus 4:8 26:3,5,11,15 culpable 45:17 46:17 47:25
+16:15 17:2 27:9 29:11 30:22 31:11,23 D defendant-frie...
+correctness 8:12 33:6 34:4 35:2 Davis 1:3 3:4 defense 6:20
+23:14 cost 11:10 32:3 36:19,21,24 deal 14:9 17:11 21:6,7,10
+costs 17:20 37:19,24 39:4 12:12 26:9 define 34:10
+48:7 46:11,12 47:2,6 40:1,12,16 41:2 30:10 31:5
+22:24 48:9,10,11 49:1 43:21 45:4,12 decision 3:20,24 deny 38:9
+counsel 6:19 45:18,22,25 4:1 5:21,23 8:8 denying 4:18 6:9
+22:20 23:7 48:8 49:6 21:19 25:19 departments
+37:15 18:13,14 34:12 31:23,25 34:17 departure 37:16
+48:19,24 33:8 42:1,7 44:20 42:3 deprived 43:2
+11:13,19 44:17,18 11:23 12:17 48:8 derivative 8:19
+13:16,21 couple 26:5 14:20 16:7 17:6 decisions 8:5,13 description 45:8
+18:15,17 course 11:2 19:9 19:4,13 20:23 8:18,20 9:24 Desist 5:4 7:11
+18:14
+49:3,5,10 discovery 48:15 35:11 36:23 err 44:25 exclusionary
+31:21 discussion 35:19 44:7 45:3 46:6 errors 7:6 7:14,23 10:21
+37:18 disregard 6:12 D.C 1:8,15,18 ESQ 1:15,17 2:3 11:1,7 13:12,22
+disregarded 2:6,9 13:24,25 14:14
+dissent 7:11 E 2:1 3:1,1 17:5 23:17,20 24:24
+49:2,5,10,11 edges 43:16 15:1,3 16:23,24 28:10 29:13,19
+7:16 dissimilar 27:16 5:22 6:14 33:21 established 12:7 32:20 33:1,7
+33:20 24:15 effort 12:17 22:8 et 30:20 37:5,8,11,14
+45:23,24 distinct 7:10 43:19 event 11:4 37:18,20 40:13
+distinguish 16:24 26:6 31:8 38:1 30:19 32:3,6,10 46:12,16 47:11
+16:1 distinguished 24:8,20 28:25 exactly 3:13 8:16 exhaustive 39:9
+20:10 29:1 44:10 40:19 41:16 10:8,13 16:21 existed 36:4
+28:12 distinguishing 44:9,19 49:14 20:19 35:11 existing 5:17,19
+doctrine 32:18 35:23 example 8:21 32:18 35:22
+7:5 9:2 doctrines 3:12 enacted 15:16 exception 3:14 42:14
+12:5 48:14 enacts 15:8 3:15 4:22 5:20 exists 33:16
+32:1 34:2 doing 7:21 17:12 encourage 33:13 7:4 8:15 9:22 expand 6:24
+34:3,3 37:1 16:19 17:21 expanded 8:23
+16:18 double 27:21 enforced 49:19 30:7,12 31:2,3 expect 12:24
+13:13,18 2:6 23:8,9,11 9:15 15:14 36:21,25,25 explain 18:5
+23:4 30:6 24:1,6,25 25:7 engaged 45:16 37:20,24 39:16 35:14 43:17
+47:12,21 25:20 26:2,11 enter 22:23 39:20 46:3 exploit 43:19
+18:5 32:13,17,24 equally 39:5,6 exclusion 37:6 25:8,11
+48:4 49:9
+4:12 5:4 10:24 47:19 29:19 30:3 31:6 25:1 46:21
+23:3 24:7 friendly 47:3 34:23 38:6 Griffith 3:18 23:1
+43:14 flaws 43:1,20 32:4 37:17 21:25 22:5 group 48:25
+48:3 flier 44:23 further 9:6 23:5 good 3:14,15 guess 7:1 13:19
+22:4 follow 8:1 9:16 future 33:7,10 6:11 7:4 8:15 guilt 37:6
+5:9,11 followed 48:19 G 3:1 20:1,3,4,16 habeas 4:8
+6:1,6 following 5:12 gain 14:2 25:2,4,15 26:15 happen 21:20
+7:4 8:15 10:12 25:22 Gant 6:18 9:3,4 29:8,14 30:6,12 happened 30:1
+12:20 32:1 17:20 18:10,15 30:20 31:3 33:6 41:17 43:5
+19:21 follows 36:7 24:2,2,3,23,23 36:15,19 38:1 Harlan 7:11
+footnote 7:1 24:25 25:1,8,12 38:13 39:15,20 13:20 16:22
+26:15 forced 21:3,3 25:13,14,16 40:23 41:14,19 47:10 49:2,5
+30:6,12 foresee 20:12 40:20 41:8,11 42:14 46:3 47:5 Harlan's 13:14
+31:3 forthright 9:8 41:21,25 42:1 47:15 49:11
+39:15 found 29:7 47:15,17 govern 27:6 harmless 12:10
+40:24 four 9:3 GENE 1:3 34:13 12:11
+42:14 Fourth 3:23 5:2,6 general 1:17 governed 3:17 havoc 38:25 39:3
+47:6 7:3,9,25 8:3,10 17:22 19:18,19 25:15 40:23 head-on 43:6
+41:4 17:6 19:8,11 31:15 40:18 19:9,10 20:4 18:14 32:2
+21:24 23:22,23 41:6,10 44:24 39:16 41:2,19 35:16 41:20
+27:15,19 29:9 give 24:6 44:20 6:2 8:15 12:16 45:8
+35:17,21 36:2 go 14:17 29:14 governs 27:18 history 4:7 14:19
+47:23 48:7 35:6 39:25 26:3 38:5,9 holding 26:6,14
+free 19:9 26:12 15:11,12 17:9 granted 14:9 holdings 37:17
+34:1 44:8 14:12 15:4 16:9 Kentucky 3:18
+13:15 14:7 ironic 32:21 17:19 18:6,11 Kerr 1:15 2:3,9
+37:3 40:13 27:13,15,18,19 23:7,11 24:1,4 8:14 9:5,21
+27:11 46:21 47:22 46:22 48:23 27:20 28:1,19 13:19 14:12
+16:11 instituted 34:14 34:23 35:5,11 47:8 48:2 49:22
+28:2,14 instructed 29:2 J 36:12,13,23 kind 14:7 28:12
+34:24 44:12 Jackson 41:15 37:23,25 38:8 28:20
+instructs 24:11 job 35:6 38:13,14,17 kinds 13:6
+integrity 23:25 28:24 40:19,20 40:10,18 41:6 14:7 22:10 27:3
+interest 35:13,15 judges 23:21 43:24 44:7,24 knowing 25:25
+36:3 37:22 14:14 47:8,10,15,24 knows 27:13
+32:3 8:20 judicial 23:24 18:3 45:14
+11:13,18 36:19 jurisprudential 25:20 26:2,8 L
+21:10 inventing 36:21 19:3 36:14 label 6:5,8 14:18
+35:21 36:24 justice 1:18 3:3,9 Kagan's 33:1 labeled 5:20
+42:23 inventory 10:18 4:16,25 5:8,9 Katz 21:21 22:4 labels 6:5
+10:19,25 11:15 5:15,18,24 6:8 Katz's 21:24 lack 41:1
+14:5 15:5 7:20 8:4,14,25 Kennedy 5:8,15 largely 46:13
+31:13,18 limitation 45:13 majority 15:19 narrow 9:22 10:1 42:13
+9:6,15 19:7 25:1 37:3 making 21:18 narrowly 19:9 occur 33:21 41:4
+12:7 48:24 31:24 navigate 42:24 occurred 39:14
+17:15 line 10:6,8,13 manner 35:8 necessarily 41:11
+27:5,6 Linkletter 3:20 36:3,8 37:9 24:14 33:17 odd 21:7
+28:6,6 3:21,24 5:1,4,5 44:22 45:5 oddity 13:7
+29:3,15 14:13,16,19 Mapp 3:22 4:3 necessary 11:10 officer 6:12 9:23
+16:20,22 18:4 March 1:9 23:16 48:7,11 15:14 16:6,11
+39:24 29:18,21,22 material 43:1 48:25 24:11,11 28:7
+44:20 48:4,5 49:9 matter 1:11 9:20 need 7:25 14:3 28:15 33:8,9,18
+Linkletter's 4:4 49:25 18:9 19:4 23:21 33:21 34:7 35:5
+43:3,19 21:6 38:1 47:12 29:2 33:13,17
+little 35:23 35:24 11:18,21,22 Ohio 3:22
+34:4,16 logical 41:22 merits 12:19 new 14:18 18:23 one-way 19:5
+logically 12:18 MICHAEL 1:17 30:22,22 36:21 open 16:4,10
+long 38:22 mind 29:6 35:7,7 40:1 opinion 7:12
+43:18 minutes 31:5 nine 31:10 25:12,13,13
+37:25 30:14 31:21 normal 30:17,21 45:14 49:6
+12:19,20 38:6 Monday 1:9 norms 13:16 49:1 opportunities
+36:12 lower 18:13,13 morning 3:4 17:16 opportunity 17:4
+18:14 mount 15:20 18:1
+46:15 Mackey 49:6 obligations 23:23 optimistic 31:12
+23:9 42:18 6:23 7:16,17,25 19:10 20:23 prophylactic
+46:8 pattern 25:14 30:14,18 31:21 43:1,3 46:17 38:14
+pending 18:19 37:18 42:5,8 preclude 26:19 47:3
+25:18 percent 13:2 position 13:4 preserve 23:24 17:25
+27:4 peremptory 43:8 16:25 20:8,22 President 15:16 prosecutors
+39:4,7 perfectly 41:22 25:7 32:22 40:2 16:15 41:18
+43:21 period 5:1 13:21 possibility 9:25 pressure 37:21 prospective 5:16
+36:2 39:11 permitted 9:13 25:25 35:25 33:15 prospectivity
+43:12 permitting 28:11 possible 13:9 pretty 13:1 47:18
+36:11,17 personal 14:15 postdates 4:1 30:23 protected 34:21
+43:4,7 33:2 34:24 Powell 18:23 primarily 35:6,7 34:21
+20:15 25:25 26:3 23:1 41:23 44:2 7:10 prove 32:10
+42:15 petitioner 1:4,16 44:4,6 prior 5:21 16:12 provide 35:20
+48:6 2:4,10 3:8 26:1 precedent 3:16 21:19 22:2,7,9 prudentially
+21:12,22 41:1 43:6 46:9 9:16 10:12 11:8 probably 17:10 public 35:12,15
+Petitioner's 12:17,19 16:7 probative 37:6 pure 47:18
+phrase 20:15 22:21 24:10 28:3 45:6 purpose 23:17
+47:13 plain 34:7 46:13 26:24,25 27:2 procedures 37:13 42:10
+29:2,4 33:15 35:16 45:8,23,24
+34:3 35:2 pointed 40:18 47:13,14 48:6 proper 18:16 putting 35:15
+47:25 points 47:16 precedents 6:21 43:11
+Q
+24:2 reason 31:1 35:16 result 7:3 11:15 risen 24:14
+28:2,14 34:25 39:18 reluctant 27:12 19:13,15,16 risk 34:16 35:16
+34:24 42:7 44:5 rely 4:6 9:23 23:1 25:16 36:4 ROBERTS 3:3
+reasonable 10:4 31:22 42:8,9 36:7 37:5 41:2 6:22 7:13,20
+7:6 9:12 42:14 44:5 remand 41:24 39:12 21:5 22:16 23:7
+reasonably 9:23 remedy 10:12 resurrect 18:4 46:5 49:22
+20:8 reasoned 10:23 11:9 13:9 14:14 retain 18:6 role 8:2 17:5
+25:2 reasons 4:11 24:3 33:3 40:14 retaining 36:14 routine 8:24
+28:2 39:3 47:10 40:15,22,23 retroactive 3:24 rubric 29:15
+33:1 34:5 REBUTTAL 2:8 43:23 4:19,22 5:16 rule 3:22,25 4:2
+38:3,4,23 46:8 reminding 23:22 6:14 4:13,18,23 5:2
+40:9,9,22 receive 37:2 remote 11:25 retroactively 5:7,9,10,11,12
+46:4 recipients 34:12 20:10 21:1 retroactivity 6:18 7:14,23
+reckless 45:10 22:17 27:23 3:13,17,21 4:24 10:21 11:1,7
+repaired 33:6 10:12 20:6 13:24,25 14:1
+recreating 15:3 37:16 49:12,15 18:22,23 19:2,6
+46:18 regard 7:15 49:1 returning 29:17 23:3,13,18,20
+regarding 26:25 requires 31:25 29:21 24:7,9,18,24
+28:1 36:14 20:6 21:25 22:5 resembles 14:17 reverse 3:15 27:4 28:8,10
+40:4 28:3,5 47:18 reserve 23:6 26:6 29:13,19,23
+49:2,5 rejected 17:16 resolution 27:13 reversed 34:17 30:4,17,19,21
+46:23 relatively 8:24 27:19 45:25 review 4:8,9,10 33:2,7 36:5,18
+43:13 respect 8:5 15:4 9:18 13:18 17:5 37:12,14,18,20
+39:4,6,6 reliance 3:16 7:6 33:24 37:12 23:4 47:12,21 39:8,24 40:1,13
+14:11 16:5 Respondent 1:19 33:2,3,25 35:10 47:6,11,17,17
+20:9 23:1
+48:9 49:16 46:15 44:3,11 29:13 41:15,21 24:4 27:21
+46:8 7:12 24:20 Sixth 43:9 15:15 16:8 Sunburst 39:25
+22:14,15 36:25 solution 13:9 31:20 18:20 25:5,5
+33:19 served 37:23 solve 35:18 strange 16:14 suppress 32:3,6
+42:10 somebody 27:1 street 19:5 39:17
+30:23 setting 5:20 7:6 soon 18:24 20:14 strive 19:16 42:10
+33:16 41:2 17:7 20:3 48:11 sorry 4:5 strongest 8:6 suppression
+10:7 severe 23:13 29:17,18 49:16 struck 35:1 28:13,16 40:11
+22:6,12 severely 24:2 Sotomayor 28:1 structure 36:8 supreme 1:1,12
+26:22 shape 23:18 28:19 29:5,16 struggled 16:21 8:9 9:2 24:16
+31:16 shift 47:17 48:9 29:22,25 30:3 struggles 14:20 sure 13:20 34:14
+35:5,11 show 22:8 33:12 34:9,20 subjected 15:12 survey 39:10
+38:8,13 showing 42:25 34:23 submit 45:4 suspects 35:18
+shown 4:7 sound 34:19 submitted 49:23 Swain 43:7,13
+48:14 similar 3:12 8:22 space 44:16 14:18 32:14 39:1
+46:25 49:8 special 19:3 substantial 15:25 41:14
+11:15 similarly 14:22 34:5,16 substantially 45:10
+18:3 simple 3:25 31:1 squarely 41:4 18:10 systemic 14:2,2
+40:21 32:10,11,14 standard 8:17 substantive 7:15
+simpler 32:5 14:21 16:18 26:23 27:4 T
+simply 7:7 13:25 standpoint 16:1 succeed 19:19 take 6:4 12:4
+21:8 38:5 simultaneously state 3:23 8:9 success 11:25 taken 30:9
+42:25 24:13 48:23 12:2 16:2,3 takes 7:22
+35:12 TBR'd 41:7,8
+49:22 treat 13:16 14:21 3:5 5:4 21:21 Walker 3:20 32:23 34:7
+treated 4:12 42:3 45:4,19 43:6
+11:17 tremendous unpersuasive 7:4 wants 15:2 27:1 x 1:2,7
+41:9 42:23 unusual 25:17 35:8
+triggers 39:20 urging 24:19 Washington 1:8
+8:6,14 truly 45:17 use 38:5 wasn't 10:14
+20:10
+11:9,23 truth 32:10 useful 35:22 way 10:23 13:24
+22:17
+14:18,23 truth-seeking utters 20:14 18:22 22:8
+16:16 23:14 32:4 33:22,23 35:2,3
+19:2 21:2 try 14:20 22:4 V ways 34:2 49:4 0
+25:20 34:18 42:24 v 1:5 3:4,18,20 weak 17:11,13 09-11328 1:5 3:4
+27:10 trying 6:24 16:19 3:22 5:4 18:22 weigh 48:9
+31:9,15 18:4 28:13,20 18:23 21:21 went 9:6 27:15 1
+32:25 turn 8:2 44:23 23:1 29:13 we'll 12:24 10:05 1:13 3:2
+37:25 turned 9:1 30:10 41:15 we're 6:2,9,14 11:02 49:24
+39:24 two 3:11 4:10 42:3 43:5,7 10:11 24:19 14 31:6
+41:18 7:22 15:24 24:7 49:3,6 27:3 28:19 1965 3:20
+44:6 45:1 27:4 44:10 vacate 41:24 29:16,17,18 1969 36:3
+47:15 48:6 typically 36:5 value 29:5 32:2 30:3 32:11 47:2 1987 39:14 41:17
+vast 15:19 we've 28:5 31:1
+U version 10:1 33:24,25 2
+34:4 39:21 uncertain 28:9 45:15 windfall 14:1 23 2:7
+unclear 29:4 viewed 13:22 48:12,21 25 7:1
+33:20 vintage 3:12 21:23 3
+44:6,13 violate 28:16 wish 11:6 3 2:4
+30:18 words 35:4 39:23 30 21:16
+12:6,8
+22:12 underlying 7:15 violated 10:11 work 47:24 4
+26:17 12:10 43:1 48:24 worked-out 40:2
+31:5
+2:10
+46:7

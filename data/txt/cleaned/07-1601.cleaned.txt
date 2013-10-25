@@ -1,0 +1,1762 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+BURLINGTON NORTHERN AND :
+SANTA FE RAILWAY :
+COMPANY, ET AL., :
+Petitioners :
+v. : No. 07-1601
+UNITED STATES, ET AL. :
+- - - - - - - - - - - - - - - - - x
+and
+- - - - - - - - - - - - - - - - - x
+SHELL OIL COMPANY, :
+Petitioner :
+v. : No. 07-1607
+UNITED STATES, ET AL. :
+- - - - - - - - - - - - - - - - - x
+Washington, D.C.
+Tuesday, February 24, 2009
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 10:15 a.m.
+APPEARANCES:
+KATHLEEN M. SULLIVAN, ESQ., New York, N.Y.; on behalf of
+the Petitioner in No. 07-1607.
+MAUREEN E. MAHONEY, ESQ., Washington, D.C.; on behalf of
+the Petitioners in No. 07-1601.
+MALCOLM L. STEWART, ESQ., Deputy Solicitor General,
+Department of Justice, Washington, D.C.; on behalf of
+the Respondents.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+KATHLEEN M. SULLIVAN, ESQ.
+On behalf of the Petitioner in No. 07-1607 4
+MAUREEN E. MAHONEY, ESQ.
+On behalf of the Petitioners in No. 07-1601 18
+MALCOLM L. STEWART, ESQ.
+On behalf of the Respondents 26
+REBUTTAL ARGUMENT OF
+KATHLEEN M. SULLIVAN, ESQ.
+On behalf of the Petitioner in No. 07-1607 55
+P R O C E E D I N G S
+(10:15 a.m.)
+CHIEF JUSTICE ROBERTS: We will hear
+argument first this morning in case 07-1601, Burlington
+Northern and Santa Fe Railway Company et al. v. United
+States.
+Ms. Sullivan.
+ORAL ARGUMENT OF KATHLEEN M. SULLIVAN
+ON BEHALF OF THE PETITIONER
+IN NO. 07-1607
+MS. SULLIVAN: Mr. Chief Justice, and may it
+please the Court:
+The court of appeals in this case untethered
+CERCLA liability for response costs from the plain
+statutory language of CERCLA section 107(a)(3), and in
+so doing also imposed potentially crippling liability on
+entities with only the most attenuated connection to any
+harm. 107(a)(3), which is reprinted in the petition
+appendix in 1607 on page 266a, provides that among the
+potentially responsible parties under CERCLA are
+so-called arrangers; that is, those persons who by
+contract, agreement, or otherwise arranged for disposal
+of hazardous substances.
+The paradigmatic case, of course, would be a
+generator of hazardous waste calls up "Waste Co." and
+asks Waste Co. to take those substances to a landfill or
+to otherwise dispose of them. Where CERCLA does not
+define a statutory term -- and there's no definition of
+"arrange" -- this Court has long said, for example in
+United States against Bestfoods, that we look to the
+ordinary meaning of the language, and the plain meaning,
+the ordinary meaning, of "arrange for" is to make plans
+or preparations to do something. The ordinary meaning
+of the word "for" is to refer to a purpose or goal. And
+the ordinary meaning of "to dispose" is to discard or to
+throw away. So --
+CHIEF JUSTICE ROBERTS: What if your shipper
+here knew that every time he delivered one of these
+truckloads of the chemical, one-third of it would end up
+on the ground and seeping through the ground, and no
+doubt about it, he knew that, and yet they kept sending
+it? Wouldn't that be arranging for the disposal of at
+least a third of the shipment?
+MS. SULLIVAN: No, Your Honor. That's not
+our facts, of course, but even if there -- there had
+been knowledge here, knowledge is not sufficient to give
+rise to the specific intent required by the statute.
+Just as in the criminal law, we wouldn't infer in a
+specific intent case that one is presumed to know the
+natural consequences of one's acts. What is required
+here is an actual plan to dispose. And --
+JUSTICE KENNEDY: Well, suppose that it's
+Shell's truck -- that isn't this case, but suppose it's
+Shell's truck, and every time they make a delivery the
+driver catches the waste in a can, four or five gallons,
+and dumps it in the creek. Is Shell liable there under
+the statute?
+MS. SULLIVAN: Justice Kennedy, Shell might
+well be liable there, but not under 107(a)(3), rather
+under 107(a)(2).
+JUSTICE KENNEDY: I mean, hasn't it arranged
+for the disposal of the --
+MS. SULLIVAN: You wouldn't reach arranger
+liability there, Your Honor, because as in the Amcast
+case, when Judge Posner said the truck is a facility,
+the truck would be a facility that Shell owns or
+operates in that instance. But in this case, of course,
+Shell was hiring independent contractor truckers to ship
+the waste.
+JUSTICE KENNEDY: Well, I'm -- I'm not sure
+that I agree with your answer. Can you give me an
+example under this statute where Shell might be an
+arranger -- give me some hypothetical in which Shell
+would be an arranger?
+MS. SULLIVAN: Well, Your Honor, we believe
+under arranger liability shell would never be an
+arranger here. The only thing --
+JUSTICE SOUTER: What if Shell went out of
+business and it had some stuff left in the tanks? At
+that point, they might very well hire somebody to do
+exactly what you're saying.
+MS. SULLIVAN: That's correct, Your Honor.
+JUSTICE SOUTER: That would be an eccentric
+situation, but it could happen.
+MS. SULLIVAN: Justice Souter, if Shell had
+residual waste product that it was seeking to dispose,
+then the natural reading of 107(a)(3) would apply
+because that would be waste product.
+JUSTICE KENNEDY: Why isn't that the case in
+my hypothetical -- it's just a hypothetical -- where the
+driver catches the five gallons that spills out of the
+hose every week and dumps it in the creek?
+MS. SULLIVAN: Your Honor --
+JUSTICE KENNEDY: That's really the same as
+the question you answered Justice Souter, and that's an
+arranger under (3).
+MS. SULLIVAN: Your Honor, the key
+difference in the two hypotheticals that you've posed is
+that Shell is the owner and operator of the disposal of
+waste there, and therefore it would be a 107(a)(2) case,
+not an arranger case. The arranger liability is
+designed for --
+JUSTICE GINSBURG: Ms. Sullivan, would it be
+altogether different if, instead of the FOB destination
+term, Shell continued as owner of the product until it
+had gone from the hose or whatever delivers it, so that
+there is no transfer of ownership until the delivery is
+complete?
+MS. SULLIVAN: Yes, Justice Ginsburg, that
+would be a different case. That would be a case like
+the so-called formulator cases, of which United States
+against Aceto from the 8th Circuit is paradigmatic. And
+in that case the key is that the company arranging --
+the company was held liable for arranging to dispose of
+waste where it owned the product throughout a
+manufacturing process, sent it out to a formulator, but
+got it back as its own product, knowing that inherent in
+the formulation process was the creation of waste
+material. So Shell would have been the owner of the
+waste.
+JUSTICE GINSBURG: The problem I have with
+that line you're pursuing is the FOB destination term is
+an eminently fixable connection, and CERCLA is -- can be
+a punishing statute, but the one thing that was not
+intended was for the parties to arrange themselves out
+of arranger liability by providing neatly that the
+moment the product reaches a destination there's no
+continuing responsibility on the part of the seller.
+MS. SULLIVAN: Justice Ginsburg, that is
+correct with respect to arranging for the disposal of
+waste. One couldn't evade one's responsibility for
+arranging for the disposal of waste products. If you're
+shipping sludge or discarded materials or spent battery
+casings or waste oil, if you're shipping waste then you
+can't get out of your obligations by simply arranging
+for someone else to collect the waste FOB destination.
+But the difference here is that this is not a waste
+case. This is a --
+JUSTICE KENNEDY: Isn't it waste when it
+spills? You deliver -- you're supposed to deliver 100
+gallons, 5 gallons spills; isn't that waste?
+MS. SULLIVAN: Justice Kennedy, it only
+matters for 107(a)(3) if we arrange for it to spill.
+And as Judge Posner said in Amcast, no one arranges for
+an accident except in the --
+JUSTICE KENNEDY: They know that --
+hypothetical. They know that in the course of delivery
+you're always going to spill about five gallons. That's
+waste.
+MS. SULLIVAN: Well, Justice Kennedy, the
+district court found in this case that Shell had
+knowledge of spills at the site of the bulk unloading.
+These were minute spills, only 80 gallons, 80 gallons a
+year out of 123,000, or .07 percent.
+JUSTICE KENNEDY: All I'm talking about is
+just a hypothetical definition of waste.
+MS. SULLIVAN: Your Honor, even if the
+spills are waste, the key for arranger liability, the
+key for arranger liability is that you arrange for
+spills.
+JUSTICE KENNEDY: But we were talking about
+waste, and I just wanted to get your agreement -- maybe
+you won't agree -- that when the product is delivered
+and 5 percent of it spills, that is waste, and we can
+talk about the other parts of it later.
+MS. SULLIVAN: Your Honor, the statute
+CERCLA, by cross-reference to the Solid Waste Disposal
+Act, does include spills and leaks as possible waste,
+and the natural application of that definition would be
+to spills or leaks in a waste disposal. If a landfill
+operator spills or leaks waste, then obviously that's
+waste. But even if you treat drips of a useful product
+-- and there's no dispute here that the D-D shipped to
+the agricultural facility was a useful product, shipped
+for commercial use for application in the fields. Even
+if you view it as a spill of that product if a little
+bit falls out of the hose upon delivery at the bulk
+storage tank, it does not entail that Shell was an
+arranger for the disposal of hazardous waste.
+JUSTICE ALITO: What if Shell had a choice
+between two companies to do the delivery. One would
+deliver it with no spillage whatsoever, but the other
+would deliver it with a certain amount, a small amount
+of spillage. And Shell chose the latter because it was
+cheaper. Would it not be arranging under those
+circumstances?
+MS. SULLIVAN: It might well be because
+there would be an economic benefit to Shell from the
+arrangement for shipment in the leaky truck. That would
+be quite a different case from this one. There was no
+economic benefit to Shell from the leaks here. In fact,
+Shell did everything possible, so far as the record
+shows, to prevent spills.
+JUSTICE SOUTER: But I thought your
+definition of -- of disposal implied the disposition of
+something whose use had, in effect, been exhausted, so
+that I would have thought your answer to Justice Alito's
+question would have been different because even in the
+case in which they hired a sloppy delivery, they're not
+getting rid or the deliverer is not necessarily getting
+rid of a product whose use has been exhausted.
+MS. SULLIVAN: That is correct, Your Honor.
+We believe the --
+JUSTICE SCALIA: I would have thought you
+would have similarly answered Justice Kennedy's question
+differently and would have said that just because
+something's wasted doesn't mean that it is waste. I
+mean, you may waste part of what is delivered, but what
+is spilled is -- it doesn't seem to me to be waste.
+MS. SULLIVAN: Justice Kennedy and Justice
+Souter an easy way to hold this case and to reverse the
+court of appeals would be simply to hold that when a
+useful product is spilled it is not waste. And the
+cross-reference to the Solid Waste Disposal Act would
+support that interpretation because in 42 U.S.C. Section
+6903(3) Congress defined "hazardous waste" as that
+material which is discarded. It analogize it to sludge.
+This is not a case about sludge or waste material.
+CHIEF JUSTICE ROBERTS: But your argument
+assumes a sharp distinction between useful product and
+waste. Yet it's quite common to talk about there being
+waste associated with a useful product. When you use up
+so much of this, there's going to be a certain
+percentage of waste.
+MS. SULLIVAN: Correct, Your Honor. But the
+-- so even if you don't draw the line simply at the
+useful product-waste distinction, we still do not
+qualify as an arranger under 1007(a)(3) because we did
+not arrange for the spill, we did not arrange for the
+waste.
+The government relies on facts in the record
+to suggest that we had some special knowledge or special
+responsibility, and of course the government's argument
+that mere knowledge of a third-party's spills would
+create arranger liability would disrupt commerce across
+a range of industries. It would mean that the chlorine
+company is liable when the pool supply store spills a
+few drops of chlorine and the place becomes a facility.
+It would mean that the maker of perchloroethylene is
+liable when the dry cleaning establishment spills dry
+cleaning fluid near the dry cleaning machine, even if
+they had nothing to do with it.
+CHIEF JUSTICE ROBERTS: That's making it too
+easy for you. It would mean all of those people would
+be liable when in the course of delivering stuff they
+know there's going to be a certain amount that's going
+to spill, and even, perhaps the Justice Alito
+hypothetical, they could have easily chose the truck
+that causes more spill rather than the one that causes
+less. It's not simply here's the product, we're gone,
+see you later, and all of a sudden there's a spill.
+MS. SULLIVAN: Your Honor, there's no
+suggestion in the record here that we're in Justice
+Alito's example. The district court found that spills
+--
+CHIEF JUSTICE ROBERTS: No, no, i know. But
+I'm trying to reach the extent of your argument. So in
+that type of a case would there be arranger liability?
+MS. SULLIVAN: There -- we believe there
+would not be because spilling a useful product while
+it's being delivered should not count as waste. But
+even if you treated that as waste within the meaning of
+the statute or even if you treated that as a discard of
+a hazardous substance, there still should not be
+arranger liability based on mere knowledge. There has
+to be knowledge of a third party's spills.
+The difference from Justice Alito's example
+is that Shell there would be invested in the spillage as
+part of its own economic transaction, as in formulator
+cases, where you send a material out to a manufacturer
+intending for it, expecting for it to spill in the
+process, you know you're going to get 98 percent back.
+That's not this case. Shell sought here, as most
+routine commercial sellers and shippers do, to get a
+third-party truck to take all of the stuff to B&B and
+have it used for its commercial application as pesticide
+in the field. There was no built-in here, no effort to
+build in here any benefit for Shell in the leaky truck,
+Quite distinguishing Justice Alito's example. The
+government --
+JUSTICE GINSBURG: Well, one benefit would
+be avoiding CERCLA liability through a means other than
+what I call the fixable connection. Is this the first
+occasion on which Shell because of its sales of D-D has
+been charged with CERCLA liability? Is this a case of
+first impression, or have there been other instances in
+which Shell did very much the same thing, delivered the
+D-D FOB destination?
+MS. SULLIVAN: Your Honor, this is the first
+and only case in the nation that has held that arranger
+liability applies to a mere sale of a useful product
+because a third-party purchaser after acquiring
+possession and control spilled the product. So there's
+no other case I am aware of in which it's been
+adjudicated that there is any liability under these
+facts.
+But the key distinction here is that even if
+you don't distinguish between the useful product and
+waste and even if you go with Justice Kennedy's idea
+that spilling a useful product could be waste, it still
+is not arranging for the disposal of that substance
+unless there's an intent to dispose. Here Shell wanted
+every drop of D-D to be safely placed in the bulk
+storage tank.
+JUSTICE STEVENS: Ms. Sullivan, can I
+interrupt you? Because I'm still puzzled by your answer
+to Justice Alito. Are you conceding that if in this
+case Shell had an alternative carrier who would not have
+spilled a bit, that then there would be liability?
+MS. SULLIVAN: No, we are not, Justice
+Stevens.
+JUSTICE STEVENS: I thought you did in your
+answer to Justice Alito. Why wouldn't that be? Explain
+your answer a little more fully?
+MS. SULLIVAN: Justice Stevens, we concede
+that if there is a waste product that leaves Shell and
+Shell deliberately arranges for a leaky carrier, there
+would be no issue. That would be 107(a)(3). Even if --
+and we concede there might be a possible case in which
+Shell deliberately chooses to send a useful product in a
+way that it leaks. It puts the product into leaky
+containers when it leaves the shop. Then there might be
+some case in which you might attribute knowledge, infer
+intent from knowledge.
+But this is not that case because here the
+transfer to the third party -- the transfer to the third
+party occurs at tender of delivery under ordinary UCC
+principles. The -- the transfer to the third-party
+purchaser occurs, and that's when the spillage occurs.
+JUSTICE GINSBURG: I thought there was as
+part of this picture that Shell had a manual which told
+its purchasers how to handle this material, and that
+Shell was well aware that B&B was not following the
+precautions laid out in the manual.
+MS. SULLIVAN: Justice Ginsburg, two points:
+The manual comes out only in 1978, and a Shell
+representative visits the site only in 1979. That
+leaves 19 years of liability unaccounted for on that
+period.
+But, more important, it would be terribly
+impractical and terribly perverse in relation to the
+purposes of the environmental laws that Congress passed
+to penalize a manufacturer for telling a third-party
+purchaser how to handle a product more safely. So to
+use the manual issued in 1978 or the inspection in 1979
+as evidence that Shell knew there were spills and,
+therefore, was an arranger would be perverse in relation
+to the environmental statutes.
+If there are no further questions, I would
+like to reserve the balance of my time.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Ms. Mahoney.
+ORAL ARGUMENT OF MAUREEN E. MAHONEY
+ON BEHALF OF THE PETITIONERS
+IN NO. 07-1601
+MS. MAHONEY: Mr. Chief Justice, and may it
+please the Court:
+I would like to start with section 912 of
+the Restatement because I think it really helps to
+demonstrate that the trial court fully understood and
+properly applied the common law standards that govern
+the determination of apportionment in a pollution case.
+That section provides that when a party bears the burden
+of proof, they have to establish the extent of harm and
+the amount of money with, quote, "as much certainty as
+the nature of the tort and circumstances permit," end
+quote.
+At the time that CERCLA was adopted in 1980,
+common law courts for more than a century had been using
+that standard to apportion damages and harm in pollution
+cases based on essentially rough estimates because the
+nature of the tort, pollution, and the circumstances
+don't allow for the kind of precision that we might
+require in some other settings such as proof of -- of
+fault, for instance.
+And the United States, they say that the
+district court departed from those common-law standards,
+but it's telling: They don't cite a single common-law
+case decided before CERCLA in their entire brief. If
+you were to look at section 840(e) of the Restatement,
+which governs nuisance cases and apportionment -- it's
+an application of the section 433(a) standards -- they
+cite -- the Restatement cites approximately 50 cases. I
+don't think there's a single one where a court denied
+apportionment for a nuisance for a harm such as this one
+that is theoretically capable of apportionment.
+JUSTICE GINSBURG: This court -- - this
+court, Ms. Mahoney, didn't deny apportionment.
+Apportionment was never requested. The court said:
+"I'm going to have to figure this out on my own." In
+fact, the court deplored the parties for following what
+he called a "scorched-earth tactic."
+So the apportionment is not something that
+has been denied to the PRPs in this case. It's
+something that the court thought was proper and fair,
+but it didn't deny any request made by parties, isn't
+that so?
+MS. MAHONEY: Your Honor, in note 16 of the
+Ninth Circuit's opinion it actually rejects that
+argument by the government and says that apportionment
+was pled throughout the case; that the government was on
+notice. That's note 16. The trial court very
+specifically rejected the government's claims of waiver
+saying, yes, apportionment was at issue here throughout
+the case, both in terms of --
+JUSTICE GINSBURG: Can you point to me the
+part of the district court opinion that conflicts with
+the part that I remember so well? He is saying, this is
+a really tough assignment; I have to figure it out.
+MS. MAHONEY: Oh, he does say that, Your
+Honor. But what he says is that the theory of
+apportionment that was offered by the railroad, the
+argument that it made -- they offered an expert -- that
+gave substantial precision about how to allocate harm
+among the different chemicals on the site -- he doesn't
+accept that approach. He accepts a different approach.
+But at 252(a) he says -- he confirms --
+there is, quote, "considerable evidence of the relative
+levels of activities and number of releases on the two
+parcels" that allow him to find a basis of -- for making
+a reasonable estimate of the apportionment, which was
+his responsibility as the factfinder. In addition, Your
+Honor --
+JUSTICE GINSBURG: Is it -- is it a judge's
+responsibility, no matter what evidence may be in the
+record from which one could make a finding, when a
+finding hasn't been sought?
+MS. MAHONEY: Well, Your Honor, the finding
+of apportionment was sought. The trial court -- and,
+again, note 16 of the -- of the Ninth Circuit's opinion
+makes clear -- and the government doesn't say otherwise
+-- that the railroads had requested apportionment. The
+issue was whether or not they had argued the precise
+theory, and the factfinder certainly has the authority
+to choose the theory that it thinks best approximates
+what is a reasonable estimate.
+And in fact, Your Honor, the theory that the
+trial court seized upon was actually suggested by the
+government's own expert on cross-examination in the
+transcript at -- at 4077 to '78.
+And in addition, Your Honor, when it was
+time for closing argument, which was September 28th,
+1999, at the very beginning of the transcript, page 4,
+the trial court said to the government -- it said to the
+parties at the beginning of the closing argument, here's
+what I want to know about. I want you to address
+yourselves to whether or not I can apportion this harm
+based upon the relative area on the site and the
+relative time. He put the government on notice.
+When the findings of fact came out, Your
+Honor, the government could have filed a motion to amend
+under Rule 52. They in fact filed a motion. They could
+have asked to submit additional evidence if they somehow
+thought that this had been unfair. They didn't do that.
+Shell did it for other reasons, but the government
+elected not to.
+JUSTICE KENNEDY: And I suppose the district
+court, if it wanted additional evidence, could have
+said, I want additional evidence on this point.
+MS. MAHONEY: It absolutely could have. And
+so that argument of waiver was rejected by two courts
+below, both by the district court in denying the motion
+to amend -- it granted it in certain respects, but
+rejected waiver, and then by the Ninth Circuit --
+CHIEF JUSTICE ROBERTS: What if -- what if
+you have a situation where it's clear under
+apportionment one party is liable for one-tenth and the
+other is liable for nine-tenths, but one-tenth is enough
+to pollute the -- the water. Do you have apportionment
+in that situation?
+MS. MAHONEY: It depends, but generally yes.
+And the reason, if it, as here -- the cost of the remedy
+is driven by the mass of the contamination -- and it was
+undisputed that that was the case here -- then the costs
+have gone up based upon the aggregate harm.
+CHIEF JUSTICE ROBERTS: Well, I assume it's
+not a linear, if that's the right word, progression,
+because once you've got to start a clean-up, you've got
+to start a clean-up, whether it's, you know, caused by
+one-tenth or -- or nine-tenths.
+MS. MAHONEY: But it's that the whole cost
+-- the question under apportionment is: Are all of the
+damages attributable to the harm that was caused by the
+defendant? And if they're not, then apportionment is
+appropriate. And here --
+JUSTICE GINSBURG: But that hasn't been --
+that hasn't been the position of most courts under
+CERCLA. I thought they -- I thought that there had been
+relatively few cases where apportionment, when
+requested, was even allowed because the theory is the
+act provides for contribution. One PRP can go after
+another, but the party who shouldn't be left holding the
+bag is the public, the innocent victims of the
+pollution.
+MS. MAHONEY: Well, Your Honor, under -- the
+government has acknowledged that the apportionment
+standards from the Restatement apply under the -- under
+CERCLA. And cases, as I indicated, the cases under
+840(e) almost always allowed apportionment for
+pollution, even though it meant that a farmer or a
+rancher or a grower was left holding with harm that was
+caused by another defendant. But the law has always
+said you can't impose damages on a defendant that had no
+causal responsibility.
+Here what we're talking about, under the
+Ninth Circuit's holding, that they -- they didn't
+question the district court's factfinding at 248a that
+it is indisputable that the overwhelming majority of
+hazardous substances were released by B&B on its own
+parcel, on its own land, not on the railroad's land.
+Its own operations on its own --
+JUSTICE GINSBURG: I thought -- I thought --
+and tell me if my recollection of the facts is
+incorrect, that the -- the newer parcel that enabled B&B
+to expand its operation, the waste went into a pond,
+what was called South, that was on the other side, that
+was on the original B&B parcel. So you had the waste
+flowing from one part to the other.
+MS. MAHONEY: The trial court found that it
+was plausible that some leakage, some spills on the
+railroad parcel, during the 13 years of the lease made
+it into the groundwater by traveling nearly two football
+fields in an area that hardly has any rain, but said
+that 9 percent was the maximum of damages that could
+possibly be attributable to this.
+What the Ninth Circuit really says is that,
+even though B&B began dumping thousands of gallons of
+chemical rinsate in 1960, which was 36 years before this
+case was filed, 15 years before the lease was ever
+entered into, that all of that harm that was caused by
+B&B has to be paid by the railroads, because they can't
+-- that's almost $40 million now -- because they can't
+prove with precision whether their share of the damages
+might be zero or one million or nine million.
+And so what, in essence, the Ninth Circuit
+did was said that because there weren't adequate records
+to prove what amount of dumping was going on in 1960
+when there wouldn't have been any reason to keep those
+records, that as a default matter 100 percent of the
+harm has to be allocated by the railroads, even though
+it's not -- they didn't question the district court's
+finding that it's indisputable that the overwhelming
+majority was by B&B on its own land. And the court has
+to --
+CHIEF JUSTICE ROBERTS: What about the issue
+of insolvency? You have talked about the Restatements.
+There's the comment H to one of the Restatement
+provisions that says you don't apportion if one of the
+other parties is insolvent.
+MS. MAHONEY: Actually, that's -- Your
+Honor, what it actually says is that the district court
+in exceptional cases may deny apportionment due to
+insolvency. And here the district court at 248a found
+this was not such a case, exercised its discretion to
+say no.
+And in addition, Your Honor, there are no
+cases cited in that section of the Restatement where
+this was actually done. And the Third Restatement in
+section 28, comment C, says that that comment was
+actually inconsistent with section 433(a) principles.
+Thank you.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Mr. Stewart.
+ORAL ARGUMENT OF MALCOLM L. STEWART
+ON BEHALF OF THE RESPONDENTS
+MR. STEWART: Mr. Chief Justice, may it
+please the Court:
+If I could begin with the issue of arranger
+liability. The Ninth Circuit distinguished what it
+referred to as the useful product cases and made it
+clear that it would not impose arranger liability on
+Shell simply under the theory that Shell had sold a
+useful product that was later disposed of in a way that
+contaminated the environment.
+Rather, the Court of Appeals and the
+district court emphasized both that Shell had control
+over the delivery process and that Shell knew that, as
+the district court put it, leaks and spills were
+inherent in the chosen method.
+JUSTICE BREYER: How does that differ from
+you using your printer, there's an ink cartridge and you
+replace them after a while, and mine has a little thing
+attached that says don't put it in your ordinary garbage
+bin because it's dangerous or whatever it is, put it in
+this envelope and do something?
+Now, I'm sure that HP makes those and knows
+that several million people won't do it. They will
+throw it in the garbage bin, and they ship to it me.
+All right. Are they now arrangers?
+MR. STEWART: No, I don't think they
+would -- they -- I don't think they would be arrangers
+for the disposal.
+JUSTICE BREYER: Because?
+MR. STEWART: Because even though they might
+foresee that in some --
+JUSTICE BREYER: Oh, some? No, probably
+millions. I don't know anybody who does put it in the
+right garbage can.
+(Laughter.)
+MR. STEWART: But -- first, I think under
+ordinary tort law principles a seller's knowledge that a
+certain percentage of its product would be misused would
+not be sufficient to give rise to liability --
+JUSTICE BREYER: Then how is that then
+different from Shell? Shell here knows that to some
+degree their people are going to spill this. And, of
+course, shell arranged the transport. And in my
+imaginary hypothetical -- I don't really know -- so does
+HP.
+MR. STEWART: There are two differences.
+The first is that while HP might know that some
+percentage of its customers would dispose of the
+material improperly, here the district court found that
+Shell knew that spills and leaks occurred with every
+delivery. And the second --
+JUSTICE BREYER: Well, now maybe HP knows
+that there is a particularly bad customer like Breyer
+who --
+(Laughter.)
+-- because I foolishly admitted at dinner
+that I dispose of them all improperly. Now are they
+Shell?
+MR. STEWART: The second difference here is
+that Shell arranged for the delivery and controlled the
+circumstances under which the delivery would be made.
+That is, Shell hired the common carrier and Shell
+required that B&B have bulk storage facilities so that
+the D-D would have to be pumped from the delivery truck
+into the bulk storage.
+JUSTICE BREYER: So then, suddenly if HP, in
+fact, uses -- I guess they lease -- you know, they have
+a common carrier, imagine -- or suppose it's car
+batteries, same problem. They have their own trucks,
+and they -- or they use Fed Ex; I don't know. And they,
+in fact, put in an instruction, which says: Really do
+it; really put it in the special now.
+MR. STEWART: Again, at a certain point,
+once the product has been used by the customer --
+JUSTICE BREYER: I'm trying to find that
+point. And what I have found you so far to say from the
+briefs is that what Shell here did -- I'm not saying it
+easy -- but what they did was they arranged the
+transport, that seems to me to be common, and they put
+some instructions in which said the right way to dispose
+of it. Well, doesn't everybody do that?
+MR. STEWART: No, because the fact
+circumstance here was not that Shell or the common
+carrier transferred control of the D-D to B&B with
+instructions as to how it was to be used at a later
+date, and the customer then violated those instructions.
+The fact pattern here is that the spills occurred during
+the process of delivery.
+And to return to Justice Alito's
+hypothetical, you asked what if Shell deliberately chose
+a particular delivery company that it knew would result
+in spills, but did so for economic advantage, that's
+exactly the case here. That is, at a prior time the D-D
+had been shipped to B&B's facility in sealed drums, so
+whatever the possibility that it might be misused later,
+it wouldn't be spilled or leaked during the process of
+delivery and transfer. But Shell decided that it was to
+its economic advantage to require bulk storage of D-D.
+JUSTICE SCALIA: Excuse me. You say in the
+process of delivery. I thought that this material
+became the property of the buyer when the truck arrived.
+Are you saying it only -- it only became the property of
+the buyer when it was unloaded from the truck?
+MR. STEWART: The district court
+specifically declined to make a finding there. That
+is --
+JUSTICE SCALIA: What does "FOB" normally
+mean?
+MR. STEWART: It says "FOB delivery or place
+of delivery." And the district court found that B&B
+acquired what it called stewardship over the property at
+the time that the truck entered the premises, but that
+it --
+JUSTICE SCALIA: I think -- I think it's
+something of a misdescription to say that this spillage
+is occurring in the course of delivery.
+MR. STEWART: But the district court --
+JUSTICE SCALIA: I think as far as Shell was
+concerned, delivery had been made when the truck pulled
+up.
+MR. STEWART: Well, the district court
+specifically declined to find -- to make a finding as to
+who owned the D-D at the time it was spilled.
+JUSTICE SCALIA: You're making it.
+MR. STEWART: We don't think that our
+argument is dependent upon the question of ownership,
+because Shell undeniably had ownership and possession of
+the D-D at the time the arrangement was made, and --
+JUSTICE STEVENS: Independent of the time of
+control.
+JUSTICE BREYER: Independent but not at the
+time of the spill.
+MR. STEWART: That's correct. But that
+would be true in the paradigmatic arranger case, where
+one company has generated waste and hires a hauler to
+pick it up and take it away. Those parties could easily
+provide by contract that title would pass to the hauler
+at the time the garbage --
+JUSTICE BREYER: Then in your view what it
+is is a company arranges with a transporter for disposal
+when the company knows that the transporter on arrival
+may spill some of the product?
+MR. STEWART: It's more than --
+JUSTICE BREYER: I guess then every oil
+company -- well, I mean, every liquid product company in
+the United States is going to be -- fall within that
+because a lot of people do spill things.
+MR. STEWART: Knowledge might well be
+sufficient, but here we have more than knowledge, we
+have control.
+JUSTICE SOUTER: But why do we -- I mean, do
+we have control? Shell says to its buyer, see that the
+delivery is made in the following way, so it doesn't
+spill all over the place. If Shell did control, it
+wouldn't have to say that to the buyer. In effect it
+could either order the buyer, as a condition of receipt
+of the product, or it could require that as part of the
+-- its terms with the - with the deliverer. It seems to
+me that the way Shell has set it up indicates that
+control has passed to somebody else at the time that the
+spigot starts going in the tank.
+MR. STEWART: Well, as Ms. Sullivan said,
+the instructions were given in 1978, fairly far into the
+period of contamination. But Even before that date
+Shell had control in the sense that it required bulk
+storage on the B&B facility.
+JUSTICE SOUTER: He says, we won't sell you
+to unless you -- you -- you have these tanks, correct?
+MR. STEWART: And its contract with the
+common carrier required that the common carrier have
+particular equipment for pumping the D-D out of the
+truck and into the bulk storage facility.
+JUSTICE SOUTER: Okay, so what is your -- no
+question, those are -- those are terms of their
+willingness to deal. But what is your basis for saying
+that when the truck pulls up and they -- the hose is
+turned on to deliver, that at that point Shell is
+controlling the process?
+MR. STEWART: They have -- they have control
+of the process in the sense of defining the way it is to
+be done. You're correct that the actual process of
+unloading is being done by employees of the common
+carrier and employees of B&B rather than employees of
+Shell. But again, the whole point of arranger liability
+is to not allow the people who set in motion the process
+that culminates in disposal to get off the hook.
+JUSTICE SOUTER: So you don't -- but maybe
+you do claim, I'm not sure -- that Shell actually could,
+in effect get damages from its deliverer as a result of
+the -- the deliverer's incidental spillage. Is that
+your position?
+MR. STEWART: That is --
+JUSTICE SOUTER: That is, that the spillage
+is a breach of the contract between the transporter and
+Shell?
+MR. STEWART: Well, I think if -- if Shell
+had pursued such a cause of action, then the delivery
+company might well have argued that these -- this was
+foreseeable and that there was --
+JUSTICE SOUTER: But do you have any basis
+for saying that if it had pursued that course of action,
+Shell would have succeeded?
+MR. STEWART: No. And --
+JUSTICE SOUTER: Then why is Shell in
+control?
+MR. STEWART: I mean, that's my point.
+Shell would not have succeeded in such a suit, because
+the delivery company would have argued successfully this
+was known to be an inherent consequence of the delivery
+process that Shell has chosen.
+JUSTICE SOUTER: Well, yes, but you're
+saying that the delivery company would have had a
+defense, but you are -- are saying that Shell would have
+had at least a theoretical right under its actual
+contract with the deliverer to assert the -- the control
+over the manner of delivery that would have prevented
+the spill; is that what you're saying?
+MR. STEWART: Well, it certainly insisted by
+contract on the use of the pumping equipment of -- to
+pump the D-D from the truck into the bulk storage
+facility. And that was --
+JUSTICE SOUTER: That's the only way they
+could do it if the buyer did have bulk storage, isn't
+that correct?
+MR. STEWART: That's correct.
+JUSTICE SOUTER: Okay.
+MR. STEWART: So -- and to use an analogy --
+JUSTICE STEVENS: May I ask, is it essential
+to your theory that Shell had title to the material
+until delivery?
+MR. STEWART: It's not essential to our
+theory. That is, the point of the arranger liability
+provision is to get at situations in which one person
+sets in motion a --
+JUSTICE STEVENS: What if it were a fungible
+product and the purchaser just agreed to take either
+some product of this -- this quantity and quality and so
+forth, but they could substitute other -- other goods
+from another source? Would Shell still be liable?
+MR. STEWART: I mean, I guess I would have
+to know more about the hypothetical in -- as to the
+circumstances in which the disposal occurred.
+JUSTICE STEVENS: Well, Shell gave all the
+same instructions they gave here, but they just didn't
+insist that it be their product rather than somebody
+else's, another oil company's product.
+MR. STEWART: I guess I just -- I don't
+really understand the hypothetical, because I don't
+understand the situation in which Shell would be
+indifferent as to whether its product was being bought
+or the product of a competitor was being bought.
+JUSTICE SOUTER: Mr. Stewart, could I go
+back to a -- we have been arguing about details. Can I
+go back to the -- to the broader question? What is your
+best response to the argument that Ms. Sullivan makes
+that "arrange for disposal" implies something
+significantly different from "arrange for transfer,"
+"arrange for release," "arrange for delivery" -- that
+the -- that the combination of arrangement as an
+intentional act and disposal, as opposed to one of these
+-- these other processes, implies that the, in effect,
+the use of the product intended has become exhausted and
+that one in getting rid of waste as distinct from merely
+wasting something. What is -- what is your best answer
+to that?
+MR. STEWART: We agree that the term
+"arrange for" connotes intentionality, and we think it's
+satisfied here because Shell intentionally set in motion
+the process of delivery. It insisted upon the delivery
+being done in a particular fashion, and it knew that
+spills and leaks were inherent in that process. To use
+an analogy --
+JUSTICE SCALIA: Excuse me.
+JUSTICE SOUTER: But if we're not arguing
+about that, what you are arguing about, then, is the --
+is the implication of disposal, as opposed to a more
+neutral term like transfer or delivery or what-not.
+What's your answer to that?
+MR. STEWART: The further point I would make
+is that the term "disposal" is specifically defined to
+include spilling and leaking.
+JUSTICE SOUTER: Oh, but those are certainly
+ways in which disposal can occur, as I -- I think came
+out in the argument. If the -- if Waste Management
+spills things along the highway on the way to the dump,
+it may be leakage, but a disposal is going on because in
+fact it is a way of getting rid of something that no
+longer has any use.
+So I -- I can -- I don't think the -- the
+inclusion of leakage within the definition answers the
+question whether disposal is something different from
+transfer.
+MR. STEWART: To use a couple of analogies,
+I think if I know that my car leaks oil whenever it's
+operated and I choose to drive it on the public highway,
+I think I could naturally be said to have intentionally
+discharged oil onto the highway. It may be --
+JUSTICE SOUTER: Well you have discharged,
+but you -- the question is whether it's disposal.
+MR. STEWART: Well --
+JUSTICE SOUTER: "Discharge" is a more
+neutral term.
+MR. STEWART: Well again, the term
+"disposal" is specifically defined to include spilling
+and leaking. You're right that one --
+JUSTICE SOUTER: No, but I mean, that --
+that -- that begs the question. Because in the course
+of disposing, in the sense that she argues for, there
+can be leakage.
+MR. STEWART: That's true, but --
+JUSTICE SOUTER: The question is disposal
+versus transfer or some more neutral term.
+MR. STEWART: If you had a situation, for
+instance, where the trash company was hauling waste and
+intended to dispose of it in a more classic sense by
+dumping it at a landfill, but along the way the truck
+leaked, and some of the items spilled out --
+JUSTICE SOUTER: When?
+MR. STEWART: -- I think everybody
+acknowledges that there is disposal there, and I think
+we would also say that a company that contracted with
+that trash hauler, knowing that the vehicle tended to
+leak trash on -- on every delivery, could be said to
+have arranged for not only the ultimate disposal, but --
+JUSTICE BREYER: No that's at that point,
+because I think you're focusing on the word. You don't
+use the word "for" disposal, and I think that is the key
+word, and the question is intention versus purpose.
+So that in your trash hauler case, it seems
+to work pretty well for me that when we say that that
+trash truck of course intended in the sense that it was
+its purpose to dispose of the trash when it got to the
+dump, but the leakage along the way, it was not its
+purpose.
+So how do we deal with that? The statute
+tells us that they are an owner of a facility or a
+vessel that leaks, and therefore they are liable that
+way. Now, that seems to work.
+So we get your example. What doesn't seem
+to work is when you import the notion of intention in
+the sense of knowing that to the arranger provision,
+because at that point I don't see how -- and I have to
+buy that to get your argument. At that point I do not
+see how you get every thing of Clorox on the shelf on
+the shelf in the supermarket and don't put Clorox right
+in the arranger provision and lots of other companies
+that shouldn't be held as arrangers. That's my problem.
+Are you following that?
+MR. STEWART: I am following that, but I
+think that the court of appeals dealt with this and
+said: Our holding does not suggest that every
+manufacturer of a useful product is liable down the road
+if the customer ultimately disposes of it --
+JUSTICE BREYER: It does say that, but my
+problem is I can't find in the distinctions that they
+made useful distinctions that will do that. It will say
+"many," but it won't say, for example, the car battery
+manufacturer who sends his car batteries out in his own
+trucks to places where people will get them, and he
+knows that they're not going to do it properly no matter
+how hard he tries.
+Well, he's not an arranger. He didn't
+arrange the transport for disposal; he arranged the
+transport for sale.
+MR. STEWART: I mean, I think in a sense the
+argument for liability there would depend in part on an
+assumption that people will systematically violate the
+law, like it would be an easy thing for the Court to say
+we will not assume and we will not impose liability on
+the basis of the assumption that battery customers will
+systematically violate the law.
+But the second thing that would be missing
+in that hypothetical, even if the battery manufacturer
+were assumed to know that every one of his customers
+would dispose of them ultimately in an improper way, is
+that the battery manufacturer would not be in control of
+that process.
+The manufacturer's control over the use of
+the batteries and their ultimate disposal would be
+severed once he turned them over, and that was not the
+case here. And again I think to return to the purposes
+of the arranger liability provision, the operator
+liability provision deals very well with the people who
+undertake the actual disposal, but Congress evidently
+thought that that was not enough.
+JUSTICE KENNEDY: Well, is Shell liable
+because it -- it knew of the transportation
+arrangements?
+MR. STEWART: I think it is a combination of
+knowledge and control. Knowledge might be sufficient,
+but knowledge and control together form a basis for
+arranger liability. Again, if I know that the
+particular common carrier uses a truck, to use a variant
+of my earlier hypothetical, if I know that a particular
+common carrier uses a truck that leaks oil whenever it's
+operated on the highway and I contract with that carrier
+and ask it to haul goods, I think I can naturally be
+said to have arranged for the discharge of oil on --
+JUSTICE SOUTER: Yes, but you -- in that
+case, you have knowledge but you don't have control
+because you're using a common carrier.
+MR. STEWART: I have -- I have control in
+the sense that I have deliberately selected a mode of
+delivery, a particular common --
+JUSTICE SOUTER: Then you mean simply
+control over your own choice process?
+MR. STEWART: Well --
+JUSTICE SOUTER: Not control over the
+behavior of your hauler?
+MR. STEWART: Not -- not control in the
+sense of using my own personnel to drive the truck.
+JUSTICE KENNEDY: Whether you have -- you
+might have knowledge that one chemical broker is more
+careless than another in the way the product was
+ultimately sold, I don't see why your theory doesn't
+make the seller liable as an arranger if it knows or
+ought to know that at some point in the distribution
+process there is likely to be spillage which will enter
+the waters of the United States. I think that's what
+your argument implies. I just don't see that in the
+statute.
+MR. STEWART: Again, because here Shell had
+control over the very aspect of the process that
+resulted in spills and leaks.
+JUSTICE SCALIA: You mean it could have --
+could have adopted some other means?
+MR. STEWART: Not only --
+JUSTICE SCALIA: That's all you mean by
+having control over it.
+MR. STEWART: Not only that it could have
+adopted some other means, but that it insisted upon the
+particular means --
+JUSTICE SCALIA: All right. So all you're
+requiring is knowledge that using this means will --
+will result in a spill. I don't think knowledge alone
+is enough for -- I think you need purpose. If you
+arrange for disposal, I think you have to have a
+purpose. It -- it has to be your object to have the oil
+leaking along the highway as you go. Merely knowing
+that it's going to be leaking, I mean, there may be some
+other way under the statute that you can find liability
+on the part of the shipper, but not, it seems to me, on
+the -- on the ground that the shipper arranged for this
+leak. He didn't want the leak. He knew it was
+happening, but that was not the object of the transport.
+MR. STEWART: Clearly, if the Court reads
+the term "arrange for" to require purpose, we lose in
+this case --
+JUSTICE SCALIA: All right.
+MR. STEWART: -- because that was not the
+purpose of the transaction. But here there was both
+knowledge and control.
+And in terms of fairness to Shell, I think
+it is worth noting that in the typical arranger setting,
+where a person asks a trash hauler to come pick up my
+trash and deposit it in an appropriate place, that the
+arranger's ultimate liability may be determined very
+substantially by steps that the hauler takes afterwards;
+that is, if the arranger believes that the trash is
+going to be disposed of safely, but in fact the hauler
+dumps it in a way that will contaminate the environment.
+The arranger was --
+JUSTICE ALITO: Can I ask you a question
+about your argument that the Petitioners waived their
+apportionment argument? Aren't there many pages of the
+district court record in which the parties address
+apportionment? For example, in the government's
+response to the Petitioners' apportionment argument,
+don't you have more than 20 pages of findings of fact
+and conclusions of law on the issue of apportionment?
+MR. STEWART: We haven't used the word
+"waiver" in our brief and -- but we concede that the
+railroads and Shell, at least in a cursory way, raised
+the issue of apportionment at trial, and the Ninth
+Circuit found that was sufficient to preserve it. In
+our view, this is like any case in which a party with
+the burden of proof on a particular issue asserts that a
+particular proposition is true but fails to introduce
+sufficient evidence to carry its burden. You wouldn't
+speak of that as waiver, but it's still a failure of the
+party to come forward with enough to carry the day. And
+you --
+CHIEF JUSTICE ROBERTS: On the question of
+apportionment, is it really your position that because
+of the precision you would require, that if there's a
+big fight over whether it's 10 percent responsibility or
+30 percent and there's no way to tell, that if the
+parties said, look, we'll take 40 percent, that that's
+no good?
+MR. STEWART: No, I think that would be an
+acceptable approach. I think that --
+CHIEF JUSTICE ROBERTS: Isn't that what
+happened here? I mean, whatever -- I guess the
+railroads said 6 percent, and the district court said,
+well, just to be on the safe side, we'll give them 9
+percent.
+MR. STEWART: Well, I guess we would have
+two responses. The first is, although the district
+court certainly believed that he was -- the district
+judge believed he was building in a margin of safety, in
+our view it's still speculative as to whether the
+railroad's share of the contamination exceeded or was
+less than 9 percent.
+But the more fundamental point is the one
+that you raised in one of your questions; that is, the
+ultimate harm to the government in a practical sense is
+the incurrence of response costs, and in general that's
+the way that damages are measured in a CERCLA case. You
+don't ask, what threat -- what was the degree of public
+-- of threat to the public safety that was posed by the
+contamination? You ask, how much did it cost to clean
+it up? And it --
+JUSTICE ALITO: Do you dispute what Ms.
+Mahoney said, that it costs a great deal more to clean
+up some of the other chemicals than the ones that the
+railroad was responsible for?
+MR. STEWART: Well, I think -- I don't think
+that the record kind of establishes the relative costs
+of different contaminants. What I understood Ms.
+Mahoney to say --
+JUSTICE ALITO: The volume, the volume.
+MR. STEWART: What I understood her to say
+was that the cost of the remedial action is proportional
+to the mass of chemicals to be removed, and we do
+dispute that proposition. The railroad's expert, Dr.
+Kalinowski testified about the remedial action that the
+government at that time was contemplating, and it was
+what was referred to as "a pump-and-treat system," where
+water would be pumped out of the aquifer and it would be
+treated with granular-activated carbon, or GAC, and that
+was a method of removing the contaminants so that the
+water could be pumped back in. And Dr. Kalinowski said
+the amount of GAC that would be needed to implement that
+remedy would be proportional to the mass of the
+chemicals involved, but that the crucial point for these
+purposes is the treatment with GAC is only a small
+portion of the pump-and-treat remedy; that is, it's
+essential to drill wells, pump the water out, then treat
+it, and then under the prior remedial approach, pump it
+back in. And then --
+CHIEF JUSTICE ROBERTS: But that still
+doesn't address the question, if you have varying
+degrees of whatever you want to call it -- fault or
+causal relationship -- that that's a sensible way to
+apportion the liability.
+MR. STEWART: I think the first preliminary
+point is there's no reason to think that the cost of the
+remedy as a whole would be proportional to the mass of
+the contaminants because you have very substantial fixed
+costs, but the other point I would make is this is where
+the insolvency of B&B really seems to us to become
+crucial because, if you had all solvent defendants and
+the evidence showed that the remedy the government
+implemented would have been more or less the same if it
+had only been 10 percent of the contamination, 30
+percent of the contamination, or 100 percent of the
+contamination, that so much of the costs were fixed
+costs that reducing the volume was really not going to
+affect the cost in any meaningful way -- if you had all
+solvent defendants, it might still be the case that
+dividing the costs up in proportion to the contamination
+they caused would do rough justice.
+CHIEF JUSTICE ROBERTS: Well, what -- what
+about Ms. Mahoney's three answers, when I asked that
+question of her?
+MR. STEWART: Well, I believe her first
+answer was the cost of the remedy would be proportional
+to the amount of contamination, which we disagree with,
+and we don't think Dr. Kalinowski's testimony bears that
+out, because all he said was the amount of
+granular-activated carbon that would be necessary is
+proportional to the mass of contaminants. And that --
+CHIEF JUSTICE ROBERTS: She also said that
+the Restatement comment h that you rely on cites no
+cases, and the Third Restatement backs away from that
+comment.
+MR. STEWART: Well, as to the first point,
+the comment h, you're right, doesn't cite cases, and it
+does say that this -- the insolvency of the defendant
+need not prevent apportionment, only that it would
+provide a basis for doing so in exceptional cases. But
+in our view, the exceptional case would be one in which
+the ultimate determination was that the cost of the
+remedy, the amount of the relevant harm, would be more
+or less the same even if only one defendants's
+contamination were at issue, that it --
+CHIEF JUSTICE ROBERTS: So you don't think
+that the insolvency should prevent apportionment if you
+have a situation where a party is 1 percent responsible
+and the 99 percent responsible party is insolvent?
+MR. STEWART: Well, we would say even as to
+10 or 20 percent, if it were established that the remedy
+the government would have been required to implement,
+had the only source of contamination been leakage on the
+railroad parcel -- if it were established that the
+government could have cleaned that up at 10 percent or
+20 percent of the cost of the remedy that was actually
+chosen, then there might be a sound basis for
+apportionment despite the insolvency of B&B.
+But our big point is, at the very least, the
+government should not be left holding the bag for costs
+that it would have been required to incur if the
+railroad parcel had been the only source of
+contamination, because --
+CHIEF JUSTICE ROBERTS: And what do we have
+in the way of findings on that question?
+MR. STEWART: We don't have findings either
+way. That is, the district court framed the relevant
+inquiry as what percentage of the contamination was
+attributable to the railroad parcel, to the
+Shell-controlled deliveries, and to the B&B parcel. But
+it made no finding one way or the other as to what the
+cost of the remedy would have been if only the -- the
+only source of contamination had been the railroad
+parcel.
+And certainly the -- the primary equitable
+thrust of the argument on the other side is it's unfair
+to make us pay for somebody else's contamination. But
+to the extent that the government would have been
+required to implement a remedy this costly or even 60
+percent this costly had the railroads or Shell been the
+only source of contamination, by imposing at least that
+amount of liability, we're not asking for them to pay
+for B&B's contamination. We're simply asking for them
+to pay for the response costs that their own --
+CHIEF JUSTICE ROBERTS: But is that right?
+I mean doesn't it -- aren't you challenging the whole
+basis for apportionment? I mean there is -- I don't
+think when you're apportioning responsibility, you
+allocate whether or not the actors independently caused
+the harm. I thought the assumption was, yes,
+everybody's -- all of this group has contributed to the
+harm, but now we're going to apportion their
+responsibility.
+MR. STEWART: Well, indeed, the second
+restatement says as a categorical matter that if either
+of two causes would have been independently sufficient
+to bring about the result, then there's joint and
+several liability. The example that the restatement
+gives is two merging fires that destroyed a building.
+And so I think it is established in -- in
+the second restatement that the -- there is no
+apportionment if either of two causes would have brought
+about the -- the feared harm.
+With -- with respect to the third
+restatement, I would say that at least in the case of --
+you're -- you're right. There is no exact counterpart
+to comment (h) in the third restatement. But at least
+as to indivisible harms -- and I think this is
+potentially an indivisible harm that the government
+would have been required to undertake more or less the
+same response action regardless of the source of
+contamination.
+At least as to individual harms, the third
+restatement gives a variety of approaches that a local
+jurisdiction could take. There's joint and several
+liability, pure several liability, and then there are
+several permutations. And the third restatement is --
+JUSTICE SCALIA: Is that a finding? Do we
+have to take it as a given that this was an indivisible
+harm?
+MR. STEWART: I don't know that -- I think
+you should take it as a given because it was the
+defendant's burden to prove different divisibility. But
+I think if you don't regard the defendants as having the
+burden, I don't think there is an evidentiary basis for
+feeling confident one way or the other as to whether the
+harm was indivisible. But with respect to --
+JUSTICE ALITO: What is the basis for
+thinking that every little detail in the latest
+restatement, including comments, is binding in a CERCLA
+case?
+MR. STEWART: I don't think so, and this
+Court in Norfolk and Western -- it was dealing with a
+different statute, but it said when you're looking at
+the restatement, it's more important what the state of
+the law was when Congress enacted the statute rather
+than what the common-law principles are now. And as
+we've said in our brief, we think for that reason the
+second restatement is the more crucial document.
+But if you were to look at the third
+restatement, one of the things you would find is that
+the drafters, as to indivisible harms, identified a
+variety of approaches that a local jurisdiction could
+take -- expressly decline to choose a preferred one
+among them, but said the most important determinant in
+choosing between them is how will the risk that a
+particular defendant be insolvent will be allocated.
+So the drafters of the third restatement
+certainly didn't treat insolvency as a factor that
+should be ignored in citing questions of an
+apportionability.
+JUSTICE GINSBURG: May I -- may I just ask
+one question about the -- the situation of -- of these
+two potentially responsible parties? They are the only
+ones left, right? Because B&B is bankrupt, and there's
+nobody else that has been identified.
+MR. STEWART: That's correct.
+JUSTICE GINSBURG: So it's only those two.
+And one question about the arranger liability -- well,
+first on the apportionment. Assuming we don't accept
+your entire position, would a remand so that proof could
+be put in by both sides focusing on the issue of
+apportionment be appropriate? You questioned the
+district, even -- even if apportionment were possible,
+you questioned how he arrived at it.
+MR. STEWART: I guess that's true. To the
+argument that I've just been sketching out, that -- that
+the crucial question is what response costs the
+government would have been required to bear if -- if
+only the railroad parcel's contamination had been at
+issue, our argument is that the -- the railroads failed
+to prove divisibility. But another option would be to
+remand for factual proceedings to address that question.
+JUSTICE GINSBURG: And is it true, as Ms.
+Sullivan said, that there is no other arranger case like
+this one where the, quote, "arranger" is the seller of a
+product?
+MR. STEWART: I think there is no "arranger"
+case going in either direction that is on all fours with
+this one where there is the sale of a useful product
+during the course of a delivery that the seller arranged
+-- that the seller controlled.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Ms. Sullivan, we will give you five minutes.
+REBUTTAL ARGUMENT OF KATHLEEN M. SULLIVAN
+ON BEHALF OF THE PETITIONER
+IN NO. 07-1607
+JUSTICE KENNEDY: Ms. Sullivan, just on the
+apportionment point, do you agree that it is your burden
+to show that this is a divisible harm, and can you tell
+me how you showed that?
+MS. SULLIVAN: Yes, Justice Kennedy. The --
+there is no dispute in this case that this was a
+divisible harm. Mr. Stewart answered Justice Scalia's
+question incorrectly.
+The district court found and the circuit
+court also found -- the circuit court's finding is on
+page 36-A of the Petitioner's appendix -- that there is
+no dispute that the harm here is divisible; that is,
+there -- the -- the harm here is capable of
+apportionment. That is not disputed before this Court.
+What is disputed is whether at the second
+stage of analysis the railroads and Shell met our burden
+-- and we agree it is our burden under restatement
+principles -- of showing the -- the quantum of division,
+the reasonable basis for how the shares were allocated
+by the District Court. And Justice Alito is correct.
+There are meticulous findings, 20 pages of findings,
+based on record evidence from the government's witnesses
+and from the extensive expert testimony that both Shell
+and the railroads put in that went to the apportionment
+issue. Shell argued --
+CHIEF JUSTICE ROBERTS: I'm not sure I know
+what it means to say it's a divisible harm.
+MS. SULLIVAN: It's capable of
+apportionment. The restatement suggests in the cases
+applying this -- it says you ask at the first stage: Is
+the harm capable of apportionment as a matter of law?
+And then as a matter of --
+CHIEF JUSTICE ROBERTS: So that means that
+whatever percentage of responsibility the parties have,
+that's the percentage of cost that they --
+MS. SULLIVAN: They should bear. But then
+they -- it's up to the parties to prove a reasonable
+basis for apportionment. But both Shell and the
+railroads did argue, Justice Ginsburg -- put into
+evidence and argued at the district court that there
+should be apportionment --
+CHIEF JUSTICE ROBERTS: So does that mean
+that, let's say, the -- how does that work when it costs
+$2 million to sort of start a clean-up, no matter who,
+and then, you know, the more stuff there is, the extra
+million it is? Is that -- is -- is the initial cost a
+divisible harm?
+MS. SULLIVAN: Well, Mr. Chief Justice, the
+district court here was conservative. It allocated all
+of the costs, fixed and specific, to the parties. So
+the conservative estimate of six percent for Shell, nine
+percent for the railroads, was based on the heroic
+assumption that a few drops spilled two football fields
+away of a volatile substance that evaporates twice as
+fast as water would be picked up by a rainfall that
+could happen at the relevant quantities only once every
+ten years according to our expert, once every seven
+years according to the government's expert -- on the
+heroic assumption that all of those drips reached the
+pond which created a single plume of contamination.
+Assuming that, then we award six percent or nine percent
+of liability.
+But the point is there was record evidence,
+Justice Ginsburg -- and there is no need for a remand on
+this. There was ample evidence for which the six
+percent and the nine percent could be -- we -- and we
+didn't object and say we --
+JUSTICE GINSBURG: That's not normally how
+-- when -- when someone has a burden of proof, it's a
+burden of coming forward. And the one thing that we do
+know from this district judge is he's saying, I was left
+largely to make it up. What he -- the components of his
+allocation did not come from -- yes, there is some
+evidence in the record. But ordinarily when you talk
+about a party who has a burden of proof, we don't mean
+they put in a piece here and a piece there and left it
+to the district judge to figure out.
+MS. SULLIVAN: Justice Ginsburg, there is no
+question that both the railroads and Shell argued for
+zero percent liability. But the same evidence that we
+put in and the proposed findings of fact -- for example,
+if you want to look at Docket Nos. 1317 and 1318,
+Shell's proposed findings of fact did suggest a basis
+for apportionment. So we met our burden of production
+as well as proof. But the -- to return to the question
+--
+JUSTICE KENNEDY: I'm really concerned about
+the time and the white light, but I'm -- I'm not sure
+you answered the Chief Justice's hypothetical about $2
+million, which is an initial clean-up that has to be
+expended no matter how large the -- the spill was. How
+did you discharge your burden of proof to show that that
+is not the case here or that that is divisible?
+MS. SULLIVAN: Justice Kennedy, here -- and
+I refer you to the Petitioner's appendix at page -- I'm
+sorry, to the joint appendix at page 288, to the expert
+Kalinouski who described it as a single mass removal
+scheme.
+This is not a case like a toxic soup case in
+a landfill with 238 different chemicals that require
+different extraction procedures. This is a case in
+which two chemicals reached the ground water and were to
+be removed by a single mass extraction scheme, a single
+-- what the expert called at joint appendix 288 a mass
+removal scheme. It was not disputed or argued on appeal
+that there was a single remediation process. So this is
+a simple case in which we are relying --
+JUSTICE BREYER: Well, we don't suppose that
+that cost -- that single thing cost $2 million, and you
+will have to hire that $2 million machine even if there
+is one drop. So for the cost of that machine it
+couldn't matter if your client put in one drop and
+nobody else put in any, or the others put in 40 billion
+drops. Can you allocate it? It would seem fair to
+allocate it, but I guess maybe in the restatement there
+is some law somewhere saying you can't, because it's
+just one single cost that takes place regardless.
+What's the state of the law on that? How do you --
+MS. SULLIVAN: May I answer? A reasonable
+basis is all that's required. A practical approximation
+is appropriate here. Here the court did not distinguish
+between fixed capital costs and operating costs that
+might matter in a different case. But the key point
+here is that you should affirm as a matter of Federal
+common law that restatement 433(a) provides only a
+demand for a reasonable basis and not exactitude. Thank
+you very much.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+The case is submitted.
+(Whereupon, at 11:19 a.m., the case in the
+above-entitled matter was submitted)
+60:23 10:24 12:12 26:25 approximation 35:21 40:5,10
+16:7,13 45:2 1:22 area 21:23 24:23 45:1 54:14
+allocate 20:14 19:7 argues 38:22 arranges 9:19
+allocated 25:15 applies 15:16 37:13,14 arranging 5:17
+36:24 allow 18:23 21:22 25:23 14:7 18:3 arrival 32:5
+52:16 allowed 23:15 apportionabili... 21:17,20 22:11 54:20
+41:23 9:19 18:12 19:6,10 54:22 55:1,15 aspect 43:12
+26:6 amount 11:8,8 19:25 20:4,12 8:25 9:18 10:9 asserts 45:16
+25:12 47:22 22:17,19 23:7 36:21,22,22 associated 12:22
+48:6 55:3 51:12 26:2 45:4,6,7,9 44:11 41:8
+analogize 12:17 52:7 54:15,18 29:17 39:13 Assuming 54:15
+analysis 56:8 57:5,8 59:1 arrangement 41:9 51:20
+11:22 16:6,13 20:16 46:5 36:23 attached 27:8
+55:19 59:6 23:10 44:20 7:21 8:1,1 9:1 attribute 16:23
+answers 38:4 54:18 60:13 10:8,9 11:4 authority 21:9
+best 21:10 36:19 29:23 30:24 60:15,21,22 23:1 25:20
+Bestfoods 5:5 50:13,25 54:10 18:21 19:6,8 46:6 48:5 49:2
+47:21 binding 53:10 C 56:21 57:15 59:6
+bit 11:2 16:9 C 3:1 4:1 26:9 casings 9:9 60:20
+21:23 39:14 40:18 56:5,20,23 24:2 25:5 49:1 chooses 16:20
+56:14 59:25 capital 60:14 51:19 choosing 54:1
+brief 19:4 45:11 car 29:7 38:8 causes 13:24,24 chose 11:9 13:23
+34:14 briefs 29:16 carbon 47:19 century 18:19 chosen 27:4
+42:5 bring 52:2 49:10 CERCLA 4:14 34:24 50:12
+50:12 broader 36:18 careless 43:3 4:15,20 5:2 circuit 8:12
+53:5,8 broker 43:2 carrier 16:8,17 8:23 10:17 22:14 25:1,10
+57:5 brought 52:7 29:1,7,23 33:9 15:7,10 18:18 26:19 45:14
+60:12,18 build 15:3 33:9,22 42:7,9 19:4 23:13,23 56:1,2
+41:18 52:4 carry 45:18,20 certain 11:8 21:5 24:6
+41:9,12 bulk 10:2 11:2 case 4:4,13,24 22:13 28:2 29:22
+16:3 29:2,4 5:24 6:3,15,17 29:12 circumstances
+53:5 55:19 14:23 15:10,15 certainty 18:15 cites 19:8 49:13
+3:4,6,8,11 59:9 19:4,19 20:1,5 charged 15:10 claims 20:3
+18:4 26:15 Burlington 1:3 22:24 25:4 cheaper 11:10 classic 39:4
+4:4 26:4 30:7 chemical 5:14 clean 46:25 47:3
+14:9 49:5 buyer 30:15,17 44:12 45:15 47:4,13,24 13:16,16
+35:12 49:21 52:10 Chief 4:3,11 57:11 59:7
+42:3 17:17 41:23 31:19 32:14,16 19:14,16,20 deal 33:14 39:24
+58:15 connection 4:17 33:18 34:19 21:19 22:8,12 dealing 53:13
+49:13 34:23 43:12,18 44:16 30:18,24 31:6 30:11
+52:12 consequences controlled 28:24 31:10 40:14 decline 53:24
+14:24 considerable correct 7:7 9:5 56:1,2,6,12 defendant 23:9
+20:18 12:2,25 31:22 57:7,16 60:13 24:2,3 49:18
+29:1 16:22 35:14 54:12 22:11 23:12 defendants
+contaminants 56:12 court's 24:7 48:16,24 53:4
+42:7 47:8,20 48:13 cost 22:22 23:6 25:16 56:2 defendants's
+49:11 46:25 47:12 create 13:10 49:24
+contaminate 48:11,23 49:6 created 58:2 defendant's
+53:17 contaminated 51:2 57:2,13 creek 6:6 7:17 defense 35:2
+contamination costly 51:9,10 crippling 4:16 defined 12:16
+8:13,14 46:16,25 48:19 46:21 47:3,7 21:14 defining 33:19
+30:5 48:20,21,25 48:14,21,22,25 cross-reference definition 5:3
+32:4,5,9 49:7,25 50:8 50:15 51:14 10:17 12:14 10:6,19 11:20
+34:12,22 50:18,23 51:3 54:23 57:10,17 crucial 47:24 38:4
+39:3,10 51:7,11,13 60:14,14 48:16 53:19 degree 28:6
+58:2 26:12 55:13 culminates degrees 48:7
+47:16 count 14:11 cursory 45:12 16:17,20 30:4
+contract 4:22 couple 38:7 customers 28:12 11:7,8 33:16
+45:11 35:4,8 42:10 6:17 9:22 13:8 10:13 12:8
+contractor 6:18 38:21 39:20 damages 18:20 32:22 34:3
+44:21 disposition 54:3 else's 36:10 51:7
+11:2,6,24 28:10 59:22 driver 6:5 7:16 enabled 24:14
+27:2 different 8:4,10 disrupt 13:10 drop 16:3 60:3,4 enacted 53:16
+11:15,23 20:15 distinct 37:2 drops 13:13 entail 11:3
+30:2,5,11 20:16 28:5 distinction 57:20 60:6 enter 43:7
+36:21 38:5 12:20 13:2 drums 30:8 entered 25:5
+32:17 47:8 53:3,14 15:22 dry 13:15,15,16 31:1
+59:17,18 60:15 distinctions due 26:2 entire 19:4
+differently 12:6 40:19,20 dump 37:24 54:16
+37:8,8 dinner 28:20 distinguish 39:22 entities 4:17
+39:12 direction 55:9 15:23 60:13 dumping 25:2 envelope 27:10
+55:11 disagree 49:7 distinguished 25:12 39:5 environment
+discarded 9:8 15:4 D-D 10:23 15:9 17:17,23
+42:12 59:9 district 10:1 30:12 31:12,17 equitable 51:5
+9:5,7 10:17,20 31:10 45:5 4:1 18:3 essentially 18:21
+9:2,11 44:1 55:24 56:4,19 30:6,12 estimates 18:21
+dispose 5:2,10 57:14 59:10 effect 11:21 et 1:5,8,15 4:5
+disposed 26:23 doubt 5:16 35:25 50:21 29:20 39:8
+49:22 disposes 40:17 49:8 55:9 51:21
+22:3 21:12,25 22:2 45:8 50:20,21 fundamental 42:11
+45:18
+56:13,13 58:23 46:18 govern 18:11
+56:14 30:1 38:1 58:25 fungible 35:24 government
+58:5,7,16 44:24 45:8 fires 52:4 further 17:24 13:6 15:5
+58:23,25 first 4:4 15:8,11 37:18 19:25 20:1
+14:4,17 failed 55:1 fixed 48:13,21 10:3,3 25:2 13:8 20:3
+40:3,21 fails 45:17 57:17 60:14 garbage 27:8,13 21:14 45:6
+52:3 failure 45:19 flowing 24:18 27:23 32:2 56:14 57:25
+fair 19:20 60:6 fluid 13:16 general 2:2 governs 19:6
+fall 32:10 focusing 39:15 generated 31:24 47:19 49:10
+far 11:17 29:15 following 17:8 getting 11:25,25 ground 5:15,15
+37:1 fashion 37:9 foolishly 28:20 8:21 9:4 15:6 24:22
+47:14 February 1:18 34:13 58:10,20 46:11 54:21
+57:24,25 Fed 29:9 form 42:5 give 5:21 6:21 60:7
+51:8 fight 45:25 forward 45:20 go 15:24 23:16 happen 7:9
+filed 22:1,2 25:4 24:19 26:3 going 9:23 12:23 happening 44:9
+13:13 25:17 30:19 fours 55:9 44:4,24 48:22 22:25 23:8
+33:5,11 31:11 51:1 framed 50:22 51:22 55:9 24:1 25:5,15
+39:25 52:23 56:2 fully 16:14 good 46:3 46:20 49:23
+53:7 6:23 7:15,15 incorrect 24:14 33:2 36:8 14:6,17 15:4,6
+56:4 9:22 10:6 incorrectly intended 8:25 15:24 16:5,7
+13:23 28:8 55:25 37:1 39:4,20 16:10,12,13,15
+30:4 36:5,12 incur 50:16 intending 14:21 17:5,10 18:1,6
+59:6 46:21 16:2,24 22:7,15 23:1
+39:11,18 independently intentional 27:5,18,21
+44:19,22 I 51:19 52:1 36:24 28:4,16 29:5
+idea 15:24 indicated 23:23 intentionality 29:14 30:3,13
+11:4 ignored 54:5 36:14 37:7 38:10 32:3,8,15 33:6
+14:14 imaginary 28:8 indisputable interpretation 33:12 34:1,7
+imagine 29:7 24:8 25:17 12:15 34:14,18,25
+51:9 52:14,24 53:7 invested 14:18 37:13,21 38:12
+implication infer 5:23 16:23 21:8 25:20 41:25 42:13,19
+42:10 implied 11:20 27:4 34:23 45:16 49:25 43:17,22 44:13
+implies 36:20,25 37:10 54:17 55:1 45:2,22 46:6
+40:15 imposed 4:16 insisted 35:7 59:13,21 56:12,18,25
+imposing 51:11 37:8 43:20 judge 6:15 9:19 57:6,9,15 58:6
+7:7,18,22 17:16 25:21 26:3 judge's 20:24 59:11,25 60:20
+12:2 impression 48:15 49:18 jurisdiction Justice's 59:6
+14:2 15:11 50:2,13 54:4 52:20 53:23
+19:23 improper 41:14 insolvent 25:24 justice 2:3 4:3 K
+21:3 improperly 50:4 54:2 4:11 5:12 6:2,8 Kalinouski
+22:1 28:13,21 inspection 17:20 6:11,20 7:3,8 59:14
+26:1,6 incidental 34:4 instance 6:17 7:10,14,19,20 Kalinowski
+33:15 including 53:10 instruction 10:5,11 11:5 49:8
+29:5 inconsistent instructions 12:5,10,10,19 1:23 3:3,10 4:8
+7:14 25:18 13:10 14:8,15maker 13:14 meaning 5:6,6,7
+9:14,17 landfill 5:1 15:7,10,16,20making 13:18 5:8,10 14:12
+10:5 10:20 39:5 16:9 17:13 20:20 31:13 meaningful
+12:10 59:17 26:19,21 28:3MALCOLM 48:23
+41:25 language 4:15 33:23 35:21 2:2 3:7 26:14 means 15:7
+55:18,22 5:6 41:5,8,21,22 Management 43:15,20,21,23
+large 59:8 42:6 44:5,21 37:23 56:19,25
+latest 53:9 52:3,21,21 manual 17:6,9 measured 46:22
+15:22 law 5:23 18:11 13:12,15,20 14:20 17:18 merely 37:2
+60:15 18:19 24:2 22:17,18 36:3 40:16,22 41:12 44:3
+27:2 56:23 60:8,10 light 59:5 41:17 method 27:4
+30:5 60:17 line 8:22 13:1 manufacturing 47:20
+42:1 44:8 laws 17:17 linear 23:2 8:16 meticulous
+13:21 44:8 little 11:1 16:14
+21:21 leakage 24:20 27:7 53:9 47:13,23 48:12 27:12 57:11,13
+27:22 37:25 38:4,23 local 52:19 49:11 59:14,20 59:7 60:1,2
+29:6,9 39:22 50:8 53:23 59:21 millions 27:22
+38:8 leaked 30:10 long 5:4 material 8:19 mine 27:7
+42:6,8 39:6 longer 38:2 12:17,18 14:20 minute 10:3
+53:1 leaking 37:20 look 5:5 19:5 17:7 28:13 minutes 55:14
+57:12 38:19 44:3,4 46:2 53:20 30:14 35:18 misdescription
+leaks 10:18,20 58:24 materials 9:8 31:4
+40:5 16:21 27:3 lose 44:11 20:25 25:14 misused 28:2
+28:14 37:10 lot 32:11 40:24 51:25 30:9
+10:2 13:7 43:13 59:8 60:4,15 moment 9:2
+14:15,16 leaky 11:14 15:3 M 60:16,23 money 18:15
+28:1 16:17,21 M 1:23 3:3,10 matters 9:18 morning 4:4
+42:4 lease 24:21 25:4 4:8 55:15 MAUREEN motion 22:1,2
+43:2 29:6 machine 13:16 1:25 3:5 18:3 22:12 33:24
+44:16 leaves 16:16,22 60:2,3 maximum 24:24 35:23 37:7
+32:5 24:1 50:15 19:13,23 20:10 13:19 30:22 N 3:1,1 4:1
+43:5 54:10 58:13,18 21:3 22:10,21 32:9,15 34:20 nation 15:15
+occasion 15:9 31:12 party's 14:16 picture 17:6
+offered 20:12,13 penalize 17:18 places 40:23
+58:6 oil 1:12 9:9 32:8 page 3:2 4:19 32:11 33:24 plans 5:7
+39:1 Okay 33:12 pages 45:4,8 14:22 24:24 26:17
+one's 5:25 9:6 31:23 51:10 57:18,19 33:16,23 34:20
+23:5 22:18 23:5 24:17,21 50:9 percentage 39:14 40:6,7
+22:14 operated 38:9 51:4 50:23 57:1,2 47:24 48:11,14
+25:1,10 42:10 parcels 20:20 perchloroethy... 49:16 50:14
+45:13 operates 6:17 parcel's 54:25 13:14 55:19 58:5
+operations 20:7,8 24:18 permit 18:16 pollute 22:19
+operator 7:24 44:6 52:22 18:20,22 23:19
+20:7 21:5 42:7,8,18 personnel 42:25 pool 13:12
+37:15 54:2 perverse 17:16 posed 7:23
+order 32:20 8:25 19:16,21 Petitioner 1:13 54:16
+17:2 27:8 46:2 54:9 57:1 Petitioners 1:6 possession 15:18
+overwhelming 18:13 22:17 59:12 11:17 16:19
+52:14 12:20,22 13:25 PRP 23:16 33:13 36:18 reason 22:22
+14:10 15:16,18 PRPs 19:19 38:5,13,21,25 25:13 48:11
+16:20,21 17:19 38:9 46:23,24 48:6 49:4 reasonable
+29:13 32:6,9 pulls 33:15 54:23 55:3,25 56:11 57:4
+25:8 36:15 37:1 pumped 29:3 54:18,20 REBUTTAL
+40:16 43:3 47:18,21 questions 17:24 3:9 55:15
+products 9:7 pump-and-treat 12:21 15:4 24:13
+progression purchaser 15:17 45:5 47:7
+50:2 59:9 39:17,21,23 50:9,17,24 refer 5:9 59:12
+28:1 property 30:15 41:20 47:25 46:8 51:10 regardless 52:16
+56:10 30:16,25 pursued 34:11 55:1 56:8,16 60:9
+40:11,19 49:6,11 29:11,18 40:9 rain 24:23 17:22
+58:25 57:6 58:18,23 raised 45:12 48:8
+45:17 47:14 puts 16:21 rancher 24:1 21:23,24 47:7
+27:2 53:3 55:2 57:4 reach 6:13 14:7 release 36:22
+provide 32:1 Q reached 58:1 released 24:9
+49:20 qualify 13:3 59:19 releases 20:19
+37:8,10 provides 4:19 quality 36:1 reaches 9:2 relevant 49:23
+42:20 18:13 23:16 quantities 57:23 reading 7:12 50:22 57:23
+59:23 60:17 quantity 36:1 reads 44:10 relies 13:6
+9:2 40:5,10 41:21 11:23 12:5 29:10,11 36:12 remand 54:16
+41:22 23:7 24:7 45:23 48:15,22 55:3 58:6
+48:3 responsible 4:20 routine 14:24 seeping 5:15 33:23 34:2,9
+54:9 selected 42:17 34:24 35:2,18
+48:1,12 18:9 19:5,8 S 3:1 4:1 seller 9:3 43:5 41:25 43:11
+49:6,23 23:22 25:22 safe 46:9 55:6,11,12 44:17 45:12
+51:2,9 26:7,8 49:13 safely 16:3 sellers 14:24 51:10 56:8,15
+52:19,22 53:10 sale 15:16 41:3 16:20 Shell's 6:3,4
+54:3 56:9,21 sales 15:9 sends 40:22 Shell-controlled
+result 30:5 34:3 20:8 29:16 42:17,25 46:20 11:14
+23:15 41:20 59:2 says 19:25 20:11 21:17 44:6,7
+32:21 rid 11:25 12:1 26:1,9 27:8 37:7 shipping 9:8,9
+45:24 37:2 38:1 29:10 30:23 sets 35:23 shop 16:22
+right 23:2 27:14 32:16 33:6 setting 44:18 show 55:20 59:9
+29:2 33:4 35:3 38:19 SCALIA 12:4 seven 57:24 55:21
+50:7,16 40:9 43:22 30:13,21 31:3 severed 41:19 showing 56:10
+52:15 44:13 49:17 31:7,13 37:12 share 25:8 46:16 shows 11:18
+60:12 51:15 52:11 43:14,17,22 shares 56:11 side 24:16 46:9
+road 40:16 scorched-earth 7:1,3,10,24 8:5 similarly 12:5
+3:8 26:15 13:18 14:6 second 28:15,23 11:17 14:18,23 12:12 13:1,25
+45:7 23:1 25:20 52:6 53:19 16:8,16,17,20 51:13
+51:14 26:12 45:22 56:7 17:6,8,11,21 single 19:3,9
+54:23 46:6 48:5 49:2 section 4:15 22:5 26:22,22 58:2 59:14,20
+13:8 56:18,25 57:9 26:10 29:1,1,16,22 site 10:2 17:12
+24:4 60:20 see 14:1 32:16 30:4,11 31:7 20:15 21:23
+51:18,23 rough 18:21 40:6,8 43:4,9 31:16 32:16,18 situation 7:9
+36:13 30:19 31:11 6:22 8:24 substance 14:14 supposed 9:15
+50:3 54:8 37:19 38:18 10:16 14:13 16:1 57:21 Supreme 1:1,20
+11:1 13:4,22 steps 44:22 44:22 41:6,10
+59:8 30:25 34:22 take 5:1 14:25
+36:9 31:4 34:4,7 27:15,19,25 sufficient 5:21 53:2,24
+43:7 28:10,23 29:12 28:3 32:13 takes 44:22 60:9
+15:18 16:9 31:6,10,14,22 52:1 58:16
+37:20 35:14,16,20 suggestion 14:3 tank 11:3 16:4
+51:3,11 10:10,14,18,20 39:2,8 40:13 3:3,10 4:7,8,11 55:20
+10:21 11:18 41:4 42:3,16 5:19 6:8,13,25 telling 17:18
+11:19 14:4,16 17:21 43:16,19 44:10 8:3,9 9:4,17,25 tells 39:25
+32:15 24:20 27:3 44:14 45:10 10:7,16 11:12 ten 57:24
+34:1,7 28:14 30:1,6 46:4,11 47:6 12:2,10,25
+43:13 47:11 48:10 14:2,9 15:14 tender 17:2
+36:16 stage 56:8,22 49:5,16 50:5 16:5,10,15
+38:12
+standards 18:11 53:1,12 54:12 36:19 55:5,14 38:16,17 39:1
+42:13,19 19:2,7 23:22 54:21 55:8,24 55:15,18,22 44:11
+start 18:8 23:3,4 storage 11:3 56:20 57:3,15 terms 20:5
+state 53:15 35:9,12 supermarket terribly 17:15
+1:20 4:6 5:5 14:25 57:12 support 12:15 testimony 49:8
+32:10 43:8 submitted 60:21 22:7 29:7 Thank 18:1
+24:12 30:14 21:4,13,19 understood volume 47:10,10
+threat 46:23,24 truck 6:3,4,15 52:15 W
+throw 5:11 13:23 14:25 22:24 waiver 20:3
+26:22 27:13 15:3 29:3 unfair 22:4 51:6 22:11,14 45:11
+43:4 thrust 51:6 30:15,17 31:1 United 1:1,8,15 45:19
+27:7 17:25 18:18 35:9 39:5,20 8:11 19:1 22:9 44:8 48:7
+41:7,11 21:17,24 30:7 42:7,9,25 32:10 43:8 58:24
+60:1 31:1,12,17,18 truckers 6:18 unloaded 30:17 wanted 10:12
+53:21 47:16 59:5 trucks 29:8 33:21 Washington
+told 17:6 true 31:23 38:24 use 10:25 11:21
+37:6,22 28:1 55:4 29:9 35:8,16
+8:15
+39:8
+toxic 59:16 29:14 39:16 41:17 9:9,11,12,14
+41:4,20 transaction Tuesday 1:18 42:7 9:16,24 10:6,8
+43:8 14:19 44:15 turned 33:16 useful 10:22,24
+44:1
+46:4,5 21:18 twice 57:21 13:2 14:10
+12:7,8,9
+48:10
+49:8 17:1,1,3 30:11 17:10 20:19 16:20 26:20,23 12:21,22,24
+51:18 36:21 37:16 22:11 24:22 40:16,20 55:10 13:5 14:11,12
+53:1,4 38:6 39:1 28:10 46:12 uses 29:6 42:7,9
+16:16
+29:23 54:13 57:20 37:2,23 39:3
+26:8 transportation variety 52:19 47:18,21 48:2
+52:9,12 42:1 U 53:23 57:22 59:19
+53:20 transporter UCC 17:2 varying 48:6 waters 43:8
+32:4,5 34:8 ultimate 39:13 vehicle 39:11 way 12:11 16:21
+15:17 39:18,20,21 46:20 49:22 vessel 40:1 32:17,23 33:19
+44:19,20,23 ultimately 40:17 victims 23:18 35:11 37:24
+treat 10:22 48:2 unaccounted 45:15 46:15 40:2 41:14
+12:4 treated 14:12,13 undeniably violate 41:6,10 45:12 46:1,22
+17:5 47:19 31:16 violated 29:25 48:8,23 50:20
+22:4 treatment 47:25
+24:12
+07-1607 1:14,24 288 59:13,21
+37:13 1 50:3 36 25:3
+10 45:25 48:19 36-A 56:3
+1:21 4:2
+107(a)(2) 6:10 42 12:15
+4:18 6:9 7:12 5
+9:18 16:18 5 9:16 10:14
+57:10 123,000 10:4 52 22:2
+6:13 1318 58:24 6
+25:13 15 25:4 6 46:8
+32:19 16 19:23 20:2 60 51:9
+21:5 6903(3) 12:16
+4:19
+25:3,12
+17:11,20
+25:3,4 1980 18:18 840(e) 19:5
+1999 21:18 23:24
+9
+45:8 50:6,11 9 24:24 46:9,17
+59:17 99 50:4
+24 1:18
+20:17

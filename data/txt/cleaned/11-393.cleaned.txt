@@ -1,0 +1,2514 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - -x
+NATIONAL FEDERATION OF INDEPENDENT :
+BUSINESS, ET AL., :
+Petitioners : No. 11-393
+v. :
+KATHLEEN SEBELIUS, SECRETARY OF :
+HEALTH AND HUMAN SERVICES, ET AL. :
+- - - - - - - - - - - - - - - - - -x
+and
+- - - - - - - - - - - - - - - - - -x
+FLORIDA, ET AL., :
+Petitioners : No. 11-400
+v. :
+DEPARTMENT OF HEALTH AND :
+HUMAN SERVICES, ET AL. :
+- - - - - - - - - - - - - - - - - -x
+Washington, D.C.
+Wednesday, March 28, 2012
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 10:19 a.m.
+APPEARANCES:
+PAUL D. CLEMENT, ESQ., Washington, D.C.; for
+Petitioners.
+EDWIN S. KNEEDLER, ESQ., Deputy Solicitor General,
+Department of Justice, Washington, D.C.; for
+Respondents.
+H. BARTOW FARR, III, ESQ., Washington, D.C.; as
+Court-appointed amicus curiae.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+PAUL D. CLEMENT, ESQ.
+On behalf of the Petitioners 4
+ORAL ARGUMENT OF
+EDWIN S. KNEEDLER, ESQ.
+On behalf of the Respondents 28
+ORAL ARGUMENT OF
+H. BARTOW FARR, III, ESQ.
+As the Court-appointed amicus curiae 56
+REBUTTAL ARGUMENT OF
+PAUL D. CLEMENT, ESQ.
+On behalf of the Petitioners 81
+P R O C E E D I N G S
+(10:19 a.m.)
+CHIEF JUSTICE ROBERTS: We will continue
+argument this morning in Case Number 11-393, National
+Federation of Independent Business v. Sebelius, and Case
+11-400, Florida v. The Department of HHS.
+Mr. Clement.
+ORAL ARGUMENT OF PAUL D. CLEMENT
+ON BEHALF OF THE PETITIONERS
+MR. CLEMENT: Mr. Chief Justice, and may it
+please the Court:
+If the individual mandate is
+unconstitutional, then the rest of the Act cannot stand.
+As Congress found and the Federal Government concedes,
+the community-rating and guaranteed-issue provisions of
+the Act cannot stand without the individual mandate.
+Congress found that the individual mandate was essential
+to their operation.
+And not only can guaranteed issue and
+community rating not stand, not operate in the manner
+that Congress intended, they would actually counteract
+Congress's basic goal of providing patient protection
+but also affordable care.
+You can -- if you do not have the individual
+mandate to force people into the market, then community
+rating and guaranteed issue will cause the cost of
+premiums to skyrocket. We can debate the order of
+magnitude of that, but we can't debate that the
+direction will be upward. We also can't debate --
+JUSTICE SOTOMAYOR: Counsel, that may well
+be true. The economists are going back and forth on
+that issue, and the figures vary from up 10 percent to
+up 30. We're not in the habit of doing the legislative
+findings.
+What we do know is that for those States
+that found prices increasing, that they found various
+solutions to that. In one instance -- and we might or
+may not say that it's unconstitutional -- Massachusetts
+passed the mandatory coverage provision. But others
+adjusted some of the other provisions.
+Why shouldn't we let Congress do that, if in
+fact the economists prove -- some of the economists
+prove right that prices will spiral? What's wrong with
+leaving it to -- in the hands of the people who should
+be fixing this, not us?
+MR. CLEMENT: Well, a couple of questions --
+a couple of responses, Justice Sotomayor. First of all,
+I think that it's very relevant here that Congress had
+before it as examples some of the States that had tried
+to impose guaranteed issue and community rating, and did
+not impose an individual mandate. And Congress rejected
+that model. So, your question is quite right in saying
+that it's not impossible to have guaranteed issue and
+community rating without an individual mandate. But
+it's a model that Congress looked at and specifically
+rejected.
+And then, of course, there's Congress's own
+finding, and their finding, of course -- this is finding
+(i), which is 43a of the Government's brief, in the
+appendix. Congress specifically found that having the
+individual mandate is essential to the operation of
+guaranteed issue and community rating.
+JUSTICE SOTOMAYOR: That's all it said it
+was essential to. I mean, I'm looking at it. The
+exchanges. The State exchanges are information-
+gathering facilities that tell insurers what the various
+policies actually mean. And that has proven to be a
+cost saver in many of the States who have tried it. So,
+why should we be striking down a cost saver --
+MR. CLEMENT: Well --
+JUSTICE SOTOMAYOR: -- when, if what your
+argument is -- was that Congress was concerned about
+costs rising?
+MR. CLEMENT: Well --
+JUSTICE SOTOMAYOR: Why should we assume
+they wouldn't have passed an information --
+MR. CLEMENT: I think a couple of things.
+One, you get -- I mean, I would think you'd sort of have
+to take the bitter with the sweet. And if Congress --
+if we're going to look at Congress's goal of providing
+patient protection but also affordable care, we can't --
+I don't think it works to just take the things that save
+money and cut out the things that are going to make
+premiums more expensive. But at a minimum --
+JUSTICE SOTOMAYOR: I think on the bottom
+line, is why don't we let Congress fix it?
+MR. CLEMENT: Well, let me answer the bottom
+line question, which is, no matter what you do in this
+case, at some point there's going to be -- if you strike
+down the mandate, there's going to be something for
+Congress to do. The question is really what task do you
+want to give Congress? Do you want to give Congress the
+task of fixing the statute after something has been
+taken out, especially a provision at the heart, or do
+you want to give Congress the task of fixing health
+care? And I think it would be better in this
+situation --
+JUSTICE SOTOMAYOR: We're not taking -- if
+we strike down one provision, we're not taking that
+power away from Congress. Congress could look at it
+without the mandatory coverage provision and say this
+model doesn't work; let's start from the beginning. Or
+it could choose to fix what it has. We're not declaring
+-- one portion doesn't force Congress into any path.
+MR. CLEMENT: And, of course, that's right,
+Justice Sotomayor, and no matter what you do here,
+Congress will have the options available. So, if you --
+if you strike down only the individual mandate, Congress
+could say the next day, well, that's the last thing we
+ever wanted to do so we are going to strike down the
+rest of the statute immediately and then try to fix the
+problem. So, whatever you do, Congress is going to have
+options. The question is --
+JUSTICE SCALIA: There's such a thing as
+legislative inertia, isn't there?
+MR. CLEMENT: Well, that's exactly --
+JUSTICE SCALIA: I mean --
+MR. CLEMENT: -- what I was going to say,
+Justice Scalia, which is I think the question for this
+Court is -- we all recognize there's legislative
+inertia. And then the question is what's the best
+result in light of that reality?
+JUSTICE SOTOMAYOR: You are not suggesting
+that we should take on more power to the Court?
+MR. CLEMENT: No, I --
+JUSTICE SOTOMAYOR: Because Congress would
+choose to take one path rather than another. That's
+sort of taking onto the Court more power than one, I
+think, would want.
+MR. CLEMENT: And I agree. We're simply
+asking this Court to take on, straight on, the idea of
+the basic remedial inquiry into severability which looks
+to the intent of the Congress --
+JUSTICE SCALIA: Yes, I wanted to ask you
+about that. Why do we look to the -- are you sure we
+look to the intent of the Congress? I thought that, you
+know, sometimes Congress says that these provisions will
+-- all the provisions of this Act will be severable, and
+we ignore that when the Act really won't work, when the
+remaining provisions just won't work. Now, how can you
+square that reality with the proposition that what we're
+looking for here is what would this Congress have
+wanted?
+MR. CLEMENT: Well, two responses,
+Justice Scalia: We can look at this Court's cases on
+severability, and they all formulate the test a little
+bit differently.
+JUSTICE SCALIA: Yes, they sure do.
+MR. CLEMENT: But every one of them talks
+about congressional intent. But here's the -- there's
+the other answer --
+JUSTICE SCALIA: That's true, but is it
+right?
+MR. CLEMENT: It is right. And here's how I
+would answer your question, which is, when Congress
+includes a severability clause, it's addressing the
+issue in the abstract. It doesn't say, no matter which
+provisions you strike down, we absolutely, positively
+want what's left.
+JUSTICE SCALIA: All right. The consequence
+of your proposition, would Congress have enacted it
+without this provision, okay, that's the consequence.
+That would mean that if we struck down nothing in this
+legislation but the -- what is it called -- the "Corn
+Husker kickback," okay, we find that to violate the
+constitutional proscription of venality, okay?
+(Laughter.)
+JUSTICE SCALIA: When we strike that down,
+it's clear that Congress would not have passed it
+without that. It was -- it was the means of getting the
+last necessary vote in the Senate. And you're telling
+us that the whole statute would fall because the
+Cornhusker kickback is bad. That can't be right.
+MR. CLEMENT: Well, Justice Scalia, I think
+it can be, which is to say that the basic proposition,
+that it's congressional intent that governs. Now,
+everybody on this Court has a slightly different way of
+divining legislative intent. And I would suggest the
+one common ground among every member of this Court, as I
+understand it, is you start with the text. Everybody
+can agree with that.
+JUSTICE KAGAN: So, Mr. Clement, let's start
+with the text. And you suggest, and I think that there
+is -- this is right, that there is a textual basis for
+saying that the guarantee-issue and the community-rating
+provisions are tied to the mandate. And you -- you
+pointed to where that was in the findings.
+Is there a textual basis for anything else?
+Because I've been unable to find one. It seems to me
+that if you look at the text, the sharp dividing line is
+between guarantee issue, community ratings, on the one
+hand; everything else, on the other.
+MR. CLEMENT: Well, Justice Kagan, I'd be
+delighted to take you through my view of the text and
+why there are other things that have to fall.
+The first place I'd ask you to look is
+Finding (J), which is on the same page, 43a. And as I
+read that, that's a finding that the individual mandate
+is essential to the operation of the exchanges.
+But there are other links between guaranteed
+issue and community rating and the exchanges. And
+there, I think, it's just the way that the exchanges are
+supposed to work, and the text makes this clear, is
+they're supposed to provide a market where people can
+compare community-rated insurance. That's what makes
+the exchanges function.
+JUSTICE KAGAN: Although the exchanges
+function perfectly well in Utah, where there is no
+mandate. They function differently, but they function.
+And the question is always, does Congress want half a
+loaf? Is half a loaf better than no loaf? And on
+something like the exchanges, it seems to me a perfect
+example where half a loaf is better than no loaf. The
+exchanges will do something. They won't do everything
+that Congress envisioned.
+MR. CLEMENT: Well, Justice Kagan, I think
+there are situations where half a loaf is actually
+worse, and I want to address that. But before I -- more
+broadly -- but before I do that, if I can stick with
+just the exchanges.
+I do think the question that this Court is
+supposed to ask is not just whether they can limp along
+and they can operate independently, but whether they
+operate in the manner that Congress intended. And
+that's where I think the exchanges really fall down,
+because the vision of the exchanges was that if you got
+out of this current situation where health insurance is
+basically individualized priced based on individualized
+underwriting and you provide community rating, then it's
+going to be very easy for people to see, okay, well,
+this is a silver policy, and this is a bronze policy,
+and this is a gold policy. And we can -- you know, I
+can just pick which insurer provides what I think is
+going to be the best service based on those comparable
+provisions.
+JUSTICE KAGAN: Mr. Clement, you just said
+something which you say a lot in your brief. You say
+the question is the manner in which it would have
+operated. And I think that that's not consistent with
+our cases. And I guess the best example would be
+Booker, where we decided not to sever provisions,
+notwithstanding that the sentencing guidelines clearly
+operate in a different manner now than they did when
+Congress passed them. They operate as advisory rather
+than mandatory.
+MR. CLEMENT: But, Justice Kagan, I mean, I
+actually think Booker supports our point as well,
+because there are two aspects of the remedial holding of
+Booker. And the first part of it, which I think
+actually very much supports our point is where the
+majority rejects the approach of the dissent, which
+actually would have required nothing in the statute to
+have been struck, not a single word.
+But, nonetheless, this Court said, boy, if
+you do that, then all of the sentencing is basically
+going to be done by a combination of the juries and the
+prosecutors, and the judges are going to be cut out.
+And the Court said the one thing we know is that's not
+the manner in which Congress thought that this should
+operate.
+Now, later they make a different judgment
+about the -- which particular provisions to cut out.
+But I do think Booker is consistent with this way of
+looking at it. It's certainly consistent with Brock,
+the opinion that we rely on, because there the Court
+only reached that part of the opinion after they had
+already found that the must-hire provision operated
+functionally independent from the legislative veto.
+So --
+JUSTICE GINSBURG: Mr. Clement, there are so
+many things in this Act that are unquestionably okay. I
+think you would concede that reauthorizing -- what is it
+-- the Indian Health Care Improvement Act, changes to
+the Black Lung benefits. Why make Congress redo those?
+I mean, it's a question of whether we say everything you
+did is no good, now start from scratch, or to say, yes,
+there are many things in here that have nothing to do,
+frankly, with the affordable health care, and there are
+some that we think it's better to let Congress to decide
+whether it wants them in or out.
+So, why should we say it's a choice between
+a wrecking operation, which is what you are requesting,
+or a salvage job? And the more conservative approach
+would be salvage rather than throwing out everything.
+MR. CLEMENT: Well, Justice Ginsburg, two
+kinds of responses to that: One, I do think there are
+some provisions that I would identify as being at the
+periphery of this statute, and I'll admit that the case
+for severing those is perhaps the strongest.
+But I do think it's fundamentally different,
+because if we were in here arguing that some provision
+on the periphery of the statute, like the Biosimilars
+Act or some of the provisions that you've mentioned, was
+unconstitutional, I think you'd strike it down and you
+wouldn't even think hard about severability.
+What makes this different is that the
+provisions that have constitutional difficulties or are
+tied at the hip to those provisions that have the
+constitutional difficulty are the very heart of this
+Act. And then if you look at how they are textually
+interconnected with the exchanges, which are then
+connected to the tax credits, which are also connected
+to the employer mandates, which is also connected to
+some of the revenue offsets, which is also connected to
+Medicaid, if you follow that through what you end up
+with at the end of that process is just sort of a hollow
+shell. And at that point, I think there is a strong
+argument for not -- I mean, we can't possibly think that
+Congress would have passed that hollow shell without the
+heart of the Act.
+CHIEF JUSTICE ROBERTS: Well, but it would
+have -- it would have passed parts of the hollow shell.
+I mean, a lot of this is reauthorization of
+appropriations that have been reauthorized for the
+previous 5 or 10 years, and it was just more convenient
+for Congress to throw it in, in the middle of the
+2700 pages than to do it separately. I mean, can you
+really suggest -- I mean, they cite the Black Lung
+Benefits Act, and those have nothing to do with any of
+the things we're talking about.
+MR. CLEMENT: Well, Mr. Chief Justice, you
+know, they tried to make them germane. But I'm not here
+to tell you that, you know -- some of their -- surely,
+there are provisions that are just looking for the next
+legislative vehicle that's going to make it across the
+finish line, and somebody's going to attach it to
+anything that's moving. I mean, I'll admit that.
+But the question is -- when everything else
+from the center of the Act is interconnected and has to
+go, if you follow me that far, then the question is
+would you keep this hollowed-out shell?
+JUSTICE SOTOMAYOR: Well, but it's not --
+JUSTICE KENNEDY: But I'm still not sure,
+what is the test -- and this was a colloquy you had with
+Justice Scalia with the Cornhusker hypothetical. I need
+to know what standard you're asking me to apply. Is it
+whether as a rational matter the separate parts could
+still function, or does it focus on the intent of the
+Congress?
+If you -- suppose you had party A wants
+proposal number 1; party B wants proposal number 2.
+Completely unrelated. One is airline rates; the other
+is milk regulation. And we -- and they decide them
+together. The procedural rules are these have to be
+voted on as one. They are both passed. Then one is
+declared unconstitutional. The other can operate
+completely independently. Now, we know that Congress
+would not have intended to pass one without the other.
+Is that the end of it, or is there some different test?
+Because we don't want to go into legislative history,
+that's intrusive, so we ask whether or not an objective
+-- as an objective rational matter, one could function
+without -- I still don't know what the test is that
+we're supposed to apply. And this is the same question
+as Justice Scalia asked. Could you give me some help on
+that?
+MR. CLEMENT: Sure. Justice Kennedy, the
+reality is I think this Court's opinions have at various
+times applied both strains of the analysis.
+JUSTICE KENNEDY: And which one -- and what
+test do you suggest that we follow if we want to clarify
+our jurisprudence?
+MR. CLEMENT: I'm -- I'm a big believer in
+objective tests, Justice Kennedy. I'd be perfectly
+happy with you to apply a more textually based objective
+approach. I think there are certain Justices that are
+more inclined to take more of a peek at legislative
+history, and I think if you look at the legislative
+history of this, it would only fortify the conclusion
+that you would reach from a very objective textual
+inquiry. But I am happy to focus the Court on the
+objective textual inquiry --
+CHIEF JUSTICE ROBERTS: I don't
+understand --
+JUSTICE KENNEDY: And that objective test is
+what?
+MR. CLEMENT: It is whether the statute can
+operate in the manner that Congress -- that Congress
+intended. And --
+JUSTICE SOTOMAYOR: No statute can do that,
+because once we chop off a piece of it, by definition,
+it's not the statute Congress passed. So, it has to be
+something more than that.
+MR. CLEMENT: Justice Sotomayor, every one
+of your cases, if you have a formulation for
+severability, if you interpret it woodenly, it becomes
+tautological. And Justice Blackmun addressed this in
+footnote 7 of the Brock opinion that we rely on, where
+he says: Of course, it's not just -- you know, it
+doesn't operate exactly in the manner because it doesn't
+have all the pieces, but you still make an inquiry as to
+whether -- I mean, when Congress links two provisions
+together and one really won't work without the other --
+JUSTICE SOTOMAYOR: So, what is wrong with
+the presumption that our law says, which is we presume
+that Congress would want to sever? Wouldn't that be the
+simplest, most objective test? Going past what
+Justice Scalia says we have done, okay, get rid of
+legislative intent altogether, which some of our
+colleagues in other contexts have promoted, and just
+say: Unless Congress tells us directly it's not
+severable, we shouldn't sever. We should let them fix
+their problems.
+You still haven't asked -- answered me why
+in a democracy structured like ours, where each branch
+does different things, why we should involve the Court
+in making the legislative judgment?
+MR. CLEMENT: Justice Sotomayor, let me try
+to answer the specific question and then answer the big
+picture question. The specific question is -- I mean,
+you could do that. You could adopt a new rule now that
+basically says, look, we've sever --
+JUSTICE SOTOMAYOR: It's not a new rule. We
+presume. We've rebutted the presumption in some
+cases --
+MR. CLEMENT: Right. But --
+JUSTICE SOTOMAYOR: -- but some would call
+that judicial action.
+MR. CLEMENT: I think in fairness, though,
+Justice Sotomayor, to get to the point you're wanting to
+get to, you'd have to ratchet up that presumption a
+couple of ticks on the scale, but -- and because the one
+thing --
+JUSTICE SOTOMAYOR: And what's wrong with
+that?
+MR. CLEMENT: Well, one thing that's wrong
+with that, which is still at a smaller level, is that's
+inconsistent with virtually every statement in every one
+of your severability opinions, which all talk about
+congressional intent.
+JUSTICE KAGAN: Well, it's not inconsistent
+with our practice, right, Mr. Clement? I mean, you have
+to go back decades and decades and decades, and I'm not
+sure even then you could find a piece of legislation
+that we refused to sever for this reason.
+MR. CLEMENT: I don't think that's right,
+Justice Kagan. I mean, I think there are more recent
+examples. A great example I think, which sort of proves
+and maybe is a segue to get to my broader point, is a
+case that involves a State statute, not a Federal
+statute, but I don't think anything turns on that, is
+Randall v. Sorrell, where this Court struck down various
+provisions of the Vermont campaign finance law. But
+there were other contribution provisions that were not
+touched by the theory that the Court used to strike down
+the contribution limits. But this Court at the end of
+the opinion said, you know, there's no way to think that
+the Vermont legislator would have wanted these handful
+of provisions there on the contribution side. So, we'll
+strike down the whole thing.
+And if I could make the broader point, I
+mean, I think the reason it makes sense in a democracy
+with separation of powers to in some cases sever the
+whole thing is because sometimes a half a loaf is worse.
+And a great example, if I dare say so, is Buckley. In
+Buckley this Court looked at a statute that tried to, in
+a coherent way, strike down limits on contributions and
+closely related expenditures.
+This Court struck down the ban on
+expenditures, left the contribution ban in place, and
+for four decades Congress has tried to fix what's left
+of the statute, largely unsuccessfully; whereas it would
+have I think worked much better from a democratic and
+separation of powers standpoint if the Court would have
+said: Look, expenditures are -- you can't limit
+expenditures under the Constitution. The contribution
+provision is joined at the hip. Give Congress a chance
+to actually fix the problem, not just --
+JUSTICE KAGAN: Mr. Clement --
+JUSTICE BREYER: Can I ask you one question,
+which is a practical question? I take as a given your
+answer to Justice Kennedy. You're saying let's look at
+it objectively and say would Congress have intended
+this, okay? This is the mandate in the community --
+this is Titles I and II, the mandate, the community,
+pre-existing condition, okay? Here's the rest of it,
+you know, and when I look through the rest of it, I have
+all kinds of stuff in there. And I haven't read every
+word of that, I promise. All right.
+I mean, as you pointed out, there's biosimilarity,
+there's breast feeding, there's promoting nurses and
+doctors to serve underserved areas, there's the CLASS
+Act, et cetera.
+What do you suggest we do? I mean, should
+we appoint a special master with an instruction? Should
+we go back to the district court? You haven't argued
+most of these. As I hear you now, you're pretty close
+to the SG. I mean, you'd like it all struck down, but
+if we are supposed to apply the objective test, I don't
+know if you differ very much.
+So, what do you propose that we do other
+than spend a year reading all this and have you argue
+all of it?
+MR. CLEMENT: Right. What I would propose
+is the following, Justice Breyer, is you follow the
+argument this far and then you ask yourself whether what
+you have left is a hollowed-out shell or whether you
+have --
+JUSTICE BREYER: I would say the Breast
+Feeding Act, the -- getting doctors to serve underserved
+areas, the biosimilar thing and drug regulation, the
+CLASS Act -- those have nothing to do with the stuff
+that we've been talking about yesterday and the day
+before, okay?
+So, if you tell me at that level, I'd say,
+sure, they have nothing to do with it; they could stand
+on their own. The Indian thing, about helping the
+underserved Native Americans -- all that stuff has
+nothing to do with it. Black lung disease, nothing to
+do with it. Okay?
+So, that's -- you know what you have there?
+A total off-the-cuff impression. So, that's why I'm
+asking you what should I do?
+MR. CLEMENT: What you should do is let me
+say the following, which is follow me this far, which is
+the mandatory, individual mandate is tied, as the
+Government suggests, to guaranteed issue and community
+rating, but the individual mandate, guaranteed issue,
+and community rating together are the heart of this Act.
+They -- they're what make the exchanges work.
+The exchanges in turn are critical to the
+tax credits, because the amount of the tax credit is key
+to the amount of the policy price on the exchange. The
+exchanges are also key to the employer mandate, because
+the employer mandate becomes imposed on an employer if
+one of the employees gets insurance on the exchanges.
+But it doesn't stop there. Look at the
+Medicare provision for DSH hospitals, okay? These are
+hospitals that serve a disproportionate share of the
+needy. This isn't in Title I. It's in the other part
+that you had in your other hand. But it doesn't work
+without the mandate, community rating, and guaranteed
+issue.
+JUSTICE ALITO: Well, can I ask you this,
+Mr. Clement?
+MR. CLEMENT: Sure.
+JUSTICE ALITO: If -- what would your
+fallback position be if we don't accept the proposition
+that if the mandate is declared unconstitutional, the
+rest of the Act, every single provision, has to fall?
+Other proposed -- other dispositions have been proposed.
+There's the Solicitor General's disposition, the
+recommended disposition to strike down the
+guaranteed-issue and community-rating provisions. One
+of the -- one amicus says strike down all of Title I;
+another says strike down all of Title I and Title II.
+What -- what would you suggest?
+MR. CLEMENT: Well, I -- I think what I
+would suggest, Justice Alito -- I don't want to be
+unresponsive -- is that you sort of follow the argument
+through and figure out what in the core of the Act
+falls. And then I guess my fallback would be if what's
+left is a hollowed-out shell, you could just leave that
+standing.
+If you want a sort of practical answer, I
+mean, I do think you could just -- you know, you could
+use Justice Breyer's off-the-cuff as a starting point
+and basically say, you know, Title I and a handful of
+related provisions that are very closely related to that
+are really the heart of the Act.
+CHIEF JUSTICE ROBERTS: Well, but that
+doesn't --
+MR. CLEMENT: The bigger volume in his other
+hand -- I mean, you could strike one and leave the
+other, but at a certain point -- I'm sorry,
+Mr. Chief Justice.
+CHIEF JUSTICE ROBERTS: Finish your certain
+point.
+MR. CLEMENT: At a certain point, I just
+think that, you know, the better answer might be to say
+we've struck the heart of this Act; let's just give
+Congress a clean slate. If it's so easy to have that
+other big volume get re-enacted, they can do it in a
+couple of days. It won't be a big deal. If it's not,
+because it's very --
+(Laughter.)
+MR. CLEMENT: Well, but -- I mean, you can
+laugh at me if you want, but the point is I rather
+suspect that it won't be easy. Because I rather suspect
+that if you actually dug into that, there'd be something
+that was quite controversial in there and couldn't be
+passed quickly --
+CHIEF JUSTICE ROBERTS: But the reality --
+MR. CLEMENT: -- and that's our whole point.
+CHIEF JUSTICE ROBERTS: The reality of the
+passage -- I mean, this was a piece of legislation
+which, there was -- had to be a concerted effort to
+gather enough votes so that it could be passed. And I
+suspect with a lot of these miscellaneous provisions
+that Justice Breyer was talking about, that was the
+price of a vote: Put in the Indian health care
+provision and I will vote for the other 2700 pages. Put
+in the black lung provision, and I'll go along with it.
+That's why all -- many of these provisions,
+I think, were put in, not because they were
+unobjectionable. So, presumably, what Congress would
+have done is they wouldn't have been able to put
+together, cobble together the votes to get it through.
+MR. CLEMENT: Well, maybe that's right,
+Mr. Chief Justice. And I don't want to, I mean, spend
+all my time on -- fighting over the periphery, because I
+do think there are some provisions that I think you
+would make, as an exercise of your own judgment, the
+judgment that once you've gotten rid of the core
+provisions of this Act, that you would then decide to
+let the periphery fall with it.
+But if you want to keep the periphery,
+that's fine. What I think is important, though, as to
+the core provisions of the Act, which aren't just the
+mandate, community rating, and guaranteed issue, but
+include the exchanges, the tax credit, Medicare, and
+Medicaid -- as to all of that, I think you do want to
+strike it all down to avoid a redux of Buckley.
+If I could reserve the remainder of my time.
+CHIEF JUSTICE ROBERTS: Thank you, Mr.
+Clement.
+Mr. Kneedler.
+ORAL ARGUMENT OF EDWIN S. KNEEDLER
+ON BEHALF OF THE RESPONDENTS
+MR. KNEEDLER: Thank you, Mr. Chief Justice,
+and may it please the Court:
+There should be no occasion for the Court in
+this case to consider issues of severability, because,
+as we argue, the -- the minimum coverage provision is
+fully consistent with Article I of the Constitution.
+But if the Court were to conclude otherwise, it should
+reject Petitioners' sweeping proposition that the entire
+Act must fall if this one provision is held
+unconstitutional.
+As an initial matter, we believe the Court
+should not even consider that question. The vast
+majority of the provisions of this Act do not even apply
+to the Petitioners, but instead apply to millions of
+citizens and businesses who are not before the Court.
+CHIEF JUSTICE ROBERTS: How does your
+proposal actually work? Your idea is that, well, they
+can take care of it themselves later. I mean, do you
+contemplate them bringing litigation and saying -- I
+guess the insurers would be the most obvious ones --
+without -- without the mandate, the whole thing falls
+apart, and we're going to bear a greater cost, and so
+the rest of the law should be struck down.
+And that's a whole other line of litigation?
+MR. KNEEDLER: Well, I -- I think the
+continuing validity of any particular provision would
+arise in litigation that would otherwise arise under
+that provision by parties who are actually --
+CHIEF JUSTICE ROBERTS: But what cause of
+action is it? I've never heard of a severability cause
+of action.
+MR. KNEEDLER: Well, in the first place, I
+don't -- the point isn't that there has to be an
+affirmative cause of action to decide this. You
+could -- for example, to use the Medicare reimbursement
+issues, one of the things this Act does is change
+Medicare reimbursement rates. Well, the place where
+someone adjudicates the validity of Medicare
+reimbursement rates is through the special statutory
+review procedure for that.
+And the same thing is true of the
+Anti-Injunction Act --
+JUSTICE SCALIA: Mr. Kneedler, there are
+some provisions which nobody would have standing to
+challenge. If the provision is simply an expenditure of
+Federal money, it doesn't hurt anybody except the
+taxpayer, but the taxpayer doesn't have standing. That
+-- that just continues. Even though it is -- it should
+-- it is so closely allied to what's been struck down
+that it ought to go as well. But, nonetheless, that has
+to continue because there's nobody in the world that can
+challenge it.
+Can that possibly be the law?
+MR. KNEEDLER: I think that proves our
+point, Justice Scalia. This Court has repeatedly said
+that just because there's -- no one may have standing to
+challenge -- and particularly like tax credits or taxes
+which are challenged only after going through the
+Anti-Injunction Act, just because no one has standing
+doesn't mean someone must.
+But beyond that --
+JUSTICE SCALIA: But those are provisions
+that have been legitimately enacted. The whole issue
+here is whether these related provisions have been
+legitimately enacted or whether they are so closely
+allied to one that has been held to be unconstitutional
+that they also have not been legitimately enacted.
+You can't compare that to -- to cases
+dealing with a statute that nobody denies is -- is
+constitutional.
+MR. KNEEDLER: This case is directly
+parallel to the Printz case, in our view. In that case,
+the Court struck down several provisions of the Brady
+Act but went on to say it had no business addressing the
+severability of other provisions that did not apply to
+the people before the Court.
+JUSTICE BREYER: But what he's thinking --
+JUSTICE SOTOMAYOR: But is that a matter
+of --
+JUSTICE BREYER: What he's thinking of is
+this: I think Justice Scalia is thinking, I suspect, of
+-- imagine a tax which says this tax, amount Y, goes to
+purpose X, which will pay for half of purpose X. The
+other half will come from the exchanges somehow. That
+second half is unconstitutional. Purpose X can't
+possibly be carried out now with only half the money.
+Does the government just sit there
+collecting half the money forever because nobody can
+ever challenge it? You see, there -- if it were
+inextricably connected, is it enough to say, well, we
+won't consider that because maybe somebody else could
+bring that case and then there is no one else?
+I mean, is that --
+MR. KNEEDLER: Yes, we think that is the
+proper way to proceed. Severability --
+JUSTICE GINSBURG: Mr. Kneedler, it's not a
+choice between someone else bringing the case and a law
+staying in place. And what we're really talking about,
+as Justice Sotomayor started this discussion, is who is
+the proper party to take out what isn't infected by the
+Court's holding? With all these provisions where there
+may be no standing, one institution clearly does have
+standing, and that's Congress.
+And if Congress doesn't want the provisions
+that are not infected to stand, Congress can take care
+of it.
+It's a question of which side -- should the
+Court say we're going to wreck the whole thing, or
+should the Court leave it to Congress?
+MR. KNEEDLER: We think the Court should
+leave it to Congress for two reasons. One is the point
+I'm making now about justiciability, or whether the
+Court can properly consider it at all. And the second
+is we think only a few provisions are inseverable from
+the minimum coverage provision.
+I just would like to --
+CHIEF JUSTICE ROBERTS: Before you go,
+Mr. Kneedler, I'd like your answer to Justice Breyer's
+question.
+I think you were interrupted --
+MR. KNEEDLER: Yes.
+CHIEF JUSTICE ROBERTS: -- before you had a
+chance --
+MR. KNEEDLER: No, we believe that in that
+case, the tax -- the tax provision should not be struck
+down. In the first place, the Anti-Injunction Act would
+bar a direct suit to challenge it. And it would be very
+strange to allow a tax to be struck down on the basis of
+a severability analysis. Severability arises in a case
+only where it's necessary to consider what relief a
+party before the Court should get. The only party --
+JUSTICE ALITO: Suppose that there was a --
+suppose there was a non-severability provision in -- in
+this Act. If one provision were to be held
+unconstitutional, then every single -- someone would
+have to bring a separate lawsuit challenging every
+single other provision in the Act and say, well, one
+fell and the Congress said it's all -- it's -- it's a
+package, it can't be separated.
+That's your position?
+MR. KNEEDLER: The fact that -- that such a
+clause might make it easy doesn't change the point.
+Article III jurisdictional problems apply to easy
+questions as well as hard questions. If I could just --
+JUSTICE KENNEDY: But there's no Article III
+jurisdictional problem in Justice Alito's hypothetical,
+that this is a remedial exercise of the Court's power to
+explain the consequences of its judgment in this case.
+MR. KNEEDLER: But this Court had said that
+one has to have standing for every degree of relief that
+is sought. That was in Davis. That was Los
+Angeles v. Lyons. That's --
+JUSTICE SCALIA: Mr. Kneedler --
+MR. KNEEDLER: -- Daimler/Chrysler.
+JUSTICE SCALIA: -- don't you think it's
+unrealistic to say leave it to Congress, as though
+you're sending it back to Congress for Congress to
+consider it dispassionately, on balance, should we have
+this provision or should we not have provision? That's
+not what it's going to be. It's going to be these
+provisions are in effect, even though you -- a lot of
+you never wanted them to be in effect and you only voted
+for them because you wanted to get the heart of the --
+of the Act, which has now been cut out. But,
+nonetheless, these provisions are the law, and you have
+to get the votes to overturn them.
+That's an enormously different question from
+whether you get the votes initially to put them into the
+law.
+What -- there is no way that this Court's
+decision is not going to distort the congressional
+process. Whether we strike it all down or leave some of
+it in place, the congressional process will never be the
+same. One way or another, Congress is going to have to
+reconsider this. And why isn't it better to have them
+reconsider it -- what should I say -- in toto, rather
+than having some things already in the law which you
+have to eliminate before you can move on to consider
+everything on balance?
+MR. KNEEDLER: We think, as a matter of
+judicial restraint, limits on equitable remedial power
+limit this Court to addressing the provision that has
+been challenged as unconstitutional and anything else
+that the plaintiff seeks as relief. Here the only
+thing --
+JUSTICE KENNEDY: But when you say "judicial
+restraint" --
+JUSTICE SOTOMAYOR: Mr. Kneedler, would you
+please --
+CHIEF JUSTICE ROBERTS: Justice Kennedy.
+JUSTICE KENNEDY: When you say "judicial
+restraint," you are echoing the earlier premise that it
+increases the judicial power if the judiciary strikes
+down other provisions of the Act. I suggest to you it
+might be quite the opposite. We would be exercising the
+judicial power, if one Act was -- one provision was
+stricken and the others remained, to impose a risk on
+insurance companies that Congress had never intended.
+By reason of this Court, we would have a new regime that
+Congress did not provide for, did not consider. That,
+it seems to me, can be argued at least to be a more
+extreme exercise of judicial power than to strike --
+than striking the whole.
+MR. KNEEDLER: I -- I think not, Justice --
+JUSTICE KENNEDY: I just don't accept the
+premise.
+MR. KNEEDLER: I think not, Justice Kennedy,
+and then I'll move on.
+But this is exactly the situation in Printz.
+The Court identified the severability questions that
+were -- that were briefed before the Court as important
+ones but said that they affect people who are -- rights
+and obligations of people who are not before the Court.
+JUSTICE SOTOMAYOR: Mr. Kneedler, move away
+from the issue of whether it's a standing question or
+not.
+MR. KNEEDLER: Right.
+JUSTICE SOTOMAYOR: Make the assumption
+that's an -- that this is an issue of the Court's
+exercise of discretion, because the last two questions
+had to do with what's wise for the Court to do, not
+whether it has power to do it or not.
+MR. KNEEDLER: Right. And --
+JUSTICE SOTOMAYOR: So, let's move beyond
+the power issue, which your answers have centered on,
+and give me the sort of policy. And I know that's a --
+that's a bugaboo word sometimes, but what should guide
+the Court's discretion?
+MR. KNEEDLER: Well, we think that matters
+of justiciability do blend into --
+JUSTICE SOTOMAYOR: Would you please --
+MR. KNEEDLER: No, I understand.
+JUSTICE SOTOMAYOR: I've asked you three
+times to move around that.
+MR. KNEEDLER: -- blend into -- blend into
+discretion and, in turn, blend into the merits of the
+severability question. And as to that, just to answer a
+question that several Justices have asked, we think that
+severability is a matter of statutory interpretation.
+It should be resolved by looking at the structure and
+the text of the Act, and the Court may look at
+legislative history to figure out what the text and
+structure mean with respect to severability. We
+don't --
+JUSTICE SCALIA: Mr. Kneedler, what happened
+to the Eighth Amendment? You really want us to go
+through these 2,700 pages?
+(Laughter.)
+JUSTICE SCALIA: And do you really expect
+the Court to do that? Or do you expect us to give this
+function to our law clerks?
+(Laughter.)
+JUSTICE SCALIA: Is this not totally
+unrealistic, that we're going to go through this
+enormous bill item by item and decide each one?
+MR. KNEEDLER: Well --
+JUSTICE SOTOMAYOR: I thought the simple
+answer was you don't have to because --
+MR. KNEEDLER: Well, that is -- that is
+the --
+JUSTICE SOTOMAYOR: -- what we have to look
+at is what Congress said was essential, correct?
+MR. KNEEDLER: That is correct, and I'd also
+like to -- going -- I just wanted to finish the thought
+I had about this being a matter of statutory
+interpretation. The Court's task, we submit, is not to
+look at the legislative process to see whether the bill
+would have been -- would have passed or not based on the
+political situation at the time, which would basically
+convert the Court into a function such as a whip count.
+That is not the Court's function.
+JUSTICE KAGAN: And, Mr. Kneedler, that
+would be a revolution --
+MR. KNEEDLER: Yes.
+JUSTICE KAGAN: -- in our severability law,
+wouldn't it?
+MR. KNEEDLER: It would.
+JUSTICE KAGAN: I mean, we have never
+suggested that we are going to say, look, this
+legislation was a brokered compromise, and we're going
+to try to figure out exactly what would have happened in
+the complex parliamentary shenanigans that go on across
+the street and figure out whether they would have made a
+difference.
+Instead, we look at the text that's actually
+given us. For some people, we look only at the text.
+It should be easy for Justice Scalia's clerks.
+(Laughter.)
+MR. KNEEDLER: I think -- I think that's --
+JUSTICE SCALIA: I don't care whether it's
+easy for my clerks. I care whether it's easy for me.
+(Laughter.)
+MR. KNEEDLER: I think that -- I think
+that's exactly right. As I said, it is a question of
+statutory interpretation.
+CHIEF JUSTICE ROBERTS: Well, how is that --
+what's exactly right? It's a question of statutory
+interpretation. That means you have to go through every
+line of the statute. I haven't heard your answer to
+Justice Scalia's question yet.
+MR. KNEEDLER: Well, I think in this case
+there is an easy answer, and that is -- Justice Kagan
+pointed out that that the Act itself creates a sharp
+dividing line between the minimum coverage provision --
+the package of -- of reforms: The minimum coverage
+provision along with the guaranteed issue and community
+rating. That is one package that Congress deemed
+essential.
+CHIEF JUSTICE ROBERTS: How do you know
+that? Where is this line? I looked through the whole
+Act. I didn't read -- well --
+MR. KNEEDLER: It is -- it is in
+Congress's --
+CHIEF JUSTICE ROBERTS: Where is the sharp
+line?
+MR. KNEEDLER: It is in Congress's findings
+that the -- that the minimum coverage provision --
+without it, the Court -- the Congress said, in Finding
+(I), without that provision, people would wait to get
+insurance, and therefore -- and cause all the adverse
+selection problems --
+CHIEF JUSTICE ROBERTS: No, no. That --
+MR. KNEEDLER: -- that gave rise to it.
+CHIEF JUSTICE ROBERTS: That makes your case
+that the one provision should fall if the other does.
+It doesn't tell us anything about all the other
+provisions.
+MR. KNEEDLER: Well, I -- I think -- I think
+it does, because Congress said it was essential to those
+provisions, but it conspicuously did not say that it was
+essential to other provisions.
+CHIEF JUSTICE ROBERTS: Well --
+JUSTICE ALITO: May I ask you about the
+argument that's made in the economists' amicus brief?
+They say that the insurance reforms impose 10-year costs
+of roughly $700 billion on the insurance industry and
+that these costs are supposed to be offset by about 350
+billion in new revenue from the individual mandate and
+350 billion from the Medicaid expansion.
+Now, if the 350 billion -- maybe you'll
+disagree with the numbers, that they're fundamentally
+wrong. But assuming that they're in the ballpark, if
+the 350 million from the individual mandate were to be
+lost, what would happen to the insurance industry, which
+would now be in the -- in the hole for $350 billion over
+10 years?
+MR. KNEEDLER: I don't -- I mean, first of
+all, for the Court to go beyond text and legislative
+history to try to figure out how the finances of a bill
+operated, it's like being the budget committee. But --
+but we think the economists had added up the figures
+wrong. If there's Medicaid expansion, the insurance --
+and the insurance companies are involved in that,
+they're going to be reimbursed for the --
+CHIEF JUSTICE ROBERTS: But what if there
+isn't Medicaid expansion? We've talked about the
+individual mandate, but does the Government have a
+position on what should happen if the Medicaid expansion
+is struck down?
+MR. KNEEDLER: We don't -- we don't think
+that that would have any effect. And that could be
+addressed in the next argument. But we don't think that
+would have any effect on the -- on the rest of the -- on
+the rest of the Act.
+CHIEF JUSTICE ROBERTS: So, it -- the
+Government's position is that if Medicaid expansion is
+struck down, the rest of the Act can operate --
+MR. KNEEDLER: Yes.
+CHIEF JUSTICE ROBERTS: -- without it.
+MR. KNEEDLER: Yes. It's -- in the past,
+Congress has expanded Medicaid coverage without there
+being -- it's done it many times without there being a
+minimum coverage provision.
+JUSTICE KENNEDY: But I still don't
+understand where you are with the answer to
+Justice Alito's question.
+Assume that there is a -- a substantial
+probability that the 350 billion plus 350 billion equals
+7 is going to be cut in half if the individual mandate
+is stricken. Assume there is a significant possibility
+of that. Is it within the proper exercise of this
+Court's function to impose that kind of risk? Can we
+say that the Congress would have intended that there be
+that kind of risk?
+MR. KNEEDLER: Well, we don't think it's in
+the Court's place to look at the -- at the budgetary
+implications, and we also --
+JUSTICE KENNEDY: But isn't that -- isn't
+that the point, then, why we should just assume that it
+is not severable?
+MR. KNEEDLER: No.
+JUSTICE KENNEDY: If we -- if we lack the
+competence to even assess whether there is a risk, then
+isn't this an awesome exercise of judicial power?
+MR. KNEEDLER: No, I don't --
+JUSTICE KENNEDY: To say we're doing
+something and we're not telling you what the
+consequences might be?
+MR. KNEEDLER: No, I don't think so, because
+when you -- when you're talking about monetary
+consequences, you're looking through the Act, you're
+looking behind the Act, rather than -- the Court's
+function is to look at the text and structure of the Act
+and what the substantive provisions of the Act
+themselves mean. And if I could go past --
+JUSTICE SCALIA: Mr. Kneedler, could I --
+can you give us a prior case in -- that resembles this
+one in which we are asked to strike down what the other
+side says is the heart of the Act, and yet leave in --
+as you request, leave in effect the rest of it? Have we
+ever -- most of our severability cases, you know,
+involve one little aspect of the Act, and the question
+is whether the rest. When have we ever really struck
+down what was the main purpose of the Act and left the
+rest in effect? Do you have a case for that?
+MR. KNEEDLER: I think Booker is the best
+example of that. In Booker, the mandatory sentencing
+provisions were central to the Act, but the -- but the
+Court said Congress would have preferred a statute
+without the mandatory provision in the Act, and the
+Court struck that, but the rest of the sentencing
+guidelines remained.
+JUSTICE SCALIA: I think the reason -- the
+reason the majority said that was that they didn't think
+that what was essential to the Act was what had been
+stricken down, and that is the -- the ability of the
+judge to say on his own what -- what the punishment
+would be. I don't think that's a case where we
+struck -- where we excised the heart of the statute.
+You have another one?
+MR. KNEEDLER: There's no example --
+JUSTICE SCALIA: There is no example. This
+is really --
+MR. KNEEDLER: There's no example to our --
+that we have found that suggests the contrary.
+JUSTICE SCALIA: Is this really a case of
+first impression?
+MR. KNEEDLER: It's a --
+JUSTICE SCALIA: I don't know another case
+where we have been confronted with this -- with this
+decision.
+Can you take out the heart of the Act and
+leave everything else in place?
+MR. KNEEDLER: Well, I would like to go to
+"the heart of the Act" point in a moment. But what I
+would like to say is this is a huge act with many
+provisions that are completely unrelated to market
+reforms and operate in different ways. And we think it
+would be extraordinary in this extraordinary act to
+strike all of that down because there are many
+provisions and it would be too hard to do it.
+JUSTICE BREYER: I mean, I think it's not
+uncommon that Congress passes an act, and then there are
+many different titles, and some of the titles have
+nothing to do with the other titles. That's a common
+thing. And you're saying you've never found an instance
+where they're all struck out when they have nothing to
+do with each other.
+My question is -- because I hear Mr. Clement
+saying something not too different from what you say.
+He talks about things at the periphery. We can't reject
+or accept an argument on severability because it's a lot
+of work for us. That's beside the point. But do you
+think that it's possible for you and Mr. Clement -- I'm
+exploring this -- to get together and agree on --
+(Laughter)
+JUSTICE BREYER: -- I mean, on a list of
+things that are, in both your opinions, peripheral?
+Then you would focus on those areas where one of you
+thinks it's peripheral and one of you thinks it's not
+peripheral. And at that point, it might turn out to be
+far fewer than we're currently imagining, at which point
+we could hold an argument or figure out some way or
+somebody would hold an argument and try to -- try to get
+those done.
+Is that a pipe dream or is that a --
+MR. KNEEDLER: I -- I just don't think
+that's realistic. The Court would be doing it without
+the parties, the millions of parties --
+JUSTICE SCALIA: Have a conference committee
+report afterwards, maybe.
+(Laughter.)
+MR. KNEEDLER: Yes. No, it just -- it just
+is not something that a court would ordinarily do. But
+I would like --
+JUSTICE SOTOMAYOR: Could you get back to
+the argument of -- of the heart?
+MR. KNEEDLER: Yes.
+JUSTICE SOTOMAYOR: Striking down the heart,
+do we want half a loaf or a shell?
+MR. KNEEDLER: Right.
+JUSTICE SOTOMAYOR: I think those are the
+two analogies that --
+MR. KNEEDLER: Right. And -- and I would
+like to discuss it again in terms of the text and
+structure of the Act. We have very important
+indications from the structure of this Act that the
+whole thing is not supposed to fall.
+The most basic one is the notion that
+Congress would have intended the whole Act to fall if
+there couldn't be a minimum coverage provision is
+refuted by the fact that there are many, many provisions
+of this Act already in effect without a minimum coverage
+provision. Two point -- 2 and a half million people
+under 26 have gotten insurance by one of the insurance
+requirements, $3.2 billion --
+JUSTICE SCALIA: Anticipation of the minimum
+coverage. That's going to bankrupt the insurance
+companies, if not the States, unless this minimum
+coverage provision comes into effect.
+MR. KNEEDLER: There's no reason to think
+it's going to -- it's going to bankrupt anyone. The
+costs will be set to cover those -- to cover those
+amounts that are --
+JUSTICE SOTOMAYOR: I thought that the
+26-year-olds were saying that they were healthy and
+didn't need insurance yesterday.
+MR. KNEEDLER: Two and a half --
+JUSTICE SOTOMAYOR: So, today they're going
+to bankrupt the --
+MR. KNEEDLER: Two and a half million people
+would be -- would be thrown off the insurance rolls if
+the Court were to say that. Congress made many changes
+to Medicare rates that have gone into effect. For
+Congress -- for the courts to have to unwind millions of
+Medicare reimbursement rates -- Medicare has covered 32
+million insurance -- preventive care visits by patients
+as a result of this Act.
+CHIEF JUSTICE ROBERTS: All of that was
+based on the assumption that the mandate was
+constitutional. And if -- that certainly doesn't stop
+us from reaching our own determination on that.
+MR. KNEEDLER: No, but what I'm saying is
+it's a question of legislative intent, and we have a
+very fundamental indication of legislative intent that
+it -- that Congress did not mean the whole Act to fall
+if -- without the minimum coverage provision, because we
+have many provisions that are operating now without
+that.
+But there's a further indication about why
+the line should be drawn where I've suggested, which is
+the package of these particular provisions. All of the
+other provisions of the Act would continue to advance
+Congress's goal, as the test that was articulated in
+Booker, but it's been said in Regan and other cases.
+You look to whether the other provisions can continue to
+advance the purposes of the Act.
+Here they unquestionably can. The public
+health -- the broad public health purposes of the Act
+that are unrelated to the minimum coverage provision but
+also the other provisions designed to enhance affordable
+-- access to affordable care: The employer
+responsibility provision, the credit for small
+businesses, which is already in effect, by the way, and
+affecting many small businesses. That --
+JUSTICE SCALIA: But many people might
+not -- many of the people in Congress might not have
+voted for those provisions if the central part of this
+statute was not adopted.
+MR. KNEEDLER: But that --
+JUSTICE SCALIA: I mean, you know, you're --
+to say that we're effectuating the intent of Congress is
+just unrealistic. Once you've cut the guts out of it,
+who knows, who knows which of them were really desired
+by Congress on their own and which ones weren't?
+MR. KNEEDLER: The question for the Court
+is, Congress having passed the law by whatever majority
+there might be in one house or the other, Congress
+having passed the law, what at that point is -- is the
+legislative intent embodied in the law Congress has
+actually passed?
+CHIEF JUSTICE ROBERTS: Well, that's right.
+But the problem is, straight from the title, we have two
+complementary purposes, patient protection and
+affordable care. And you can't look at something and
+say this promotes affordable care; therefore, it's
+consistent with Congress's intent. Because Congress had
+a balanced intent. You can't look at another provision
+and say this promotes patient protection without asking
+if it's affordable.
+So, it seems to me if you ask what is going
+to promote Congress's purpose, that's just an inquiry
+that you can't carry out.
+MR. KNEEDLER: No, I -- with respect, I
+disagree, because I think it's evident that Congress's
+purpose was to expand access to affordable care. It did
+it in discrete ways. It did it by the penalty on
+employers that don't -- that don't offer suitable care.
+It did it by offering tax credits to small employers.
+It did it by offering tax credits to purchasers. All of
+those are a variety of ways that continue to further
+Congress's goal. And most of all, Medicaid, which is --
+which is unrelated to -- to the private insurance market
+altogether.
+And in adopting those other provisions
+governing employers and whatnot, Congress built on its
+prior experience of using the tax code, which it has --
+for a long period of time, Congress has subsidized the
+provision of health care --
+JUSTICE KENNEDY: I don't quite understand
+about the employers. You're saying Congress mandated
+employers to buy something that Congress itself has not
+contemplated? I don't understand that.
+MR. KNEEDLER: No. Employer coverage -- 150
+million people in this country already get their
+insurance through -- through their employers. What
+Congress did in seeking to augment that was to add a
+provision requiring employers to purchase insurance or
+pay a tax penalty.
+JUSTICE KENNEDY: Based on the assumption
+that the cost of those policies would be lowered
+by certain provisions which are, by hypothesis -- we're
+not sure -- by hypothesis, are in doubt.
+MR. KNEEDLER: No, I -- I think it's -- any
+cost assumptions -- there's no indication that Congress
+made any cost assumptions, but -- but there's no reason
+to think that the individual -- that the individual
+market, which is where the minimum coverage provision is
+directed, would affect that.
+I would like to say -- I have pointed out
+why the other things would advance Congress's goal. The
+point here is that the package of three things would be
+contrary -- would run contrary to Congress's goal if you
+took out the minimum coverage provision.
+And here's why -- and this is reflected in
+the findings. If you take out minimum coverage but
+leave in the guaranteed issue and community rating, you
+will make matters worse. Rates will go up, and people
+-- there will be less -- fewer people covered in the
+individual market.
+JUSTICE ALITO: Well, if that is true, what
+is the difference between guaranteed-issue and
+community-rating provisions, on the one hand, and other
+provisions that increase costs substantially for
+insurance companies?
+For example, the tax on high cost health
+plans, which the economists' amicus brief said will cost
+$217 billion over 10 years?
+MR. KNEEDLER: Those are -- what Congress --
+Congress did not think of those things as balancing
+insurance companies. Insurance companies are
+participants in the market for Medicaid and -- and other
+things.
+JUSTICE KENNEDY: But you're saying we have
+-- we have the expertise to make the inquiry you want us
+to make, i.e., the guaranteed issue, but not the
+expertise that Justice Alito's question suggests we must
+make.
+MR. KNEEDLER: Well --
+JUSTICE KENNEDY: I just don't understand
+your position.
+MR. KNEEDLER: -- that's because -- that's
+because I think this Court's function is to look at the
+text and structure and the legislative history of the
+law that Congress enacted, not the financial -- not a
+financial balance sheet, which doesn't appear anywhere
+in the law. And just --
+JUSTICE GINSBURG: You're relying on
+Congress's quite explicitly tying these three things
+together.
+MR. KNEEDLER: We do. That's -- that's --
+and it's not just the text of the Act, but the
+background of the Act, the experience in the States, the
+testimony of the National Association of Insurance
+Commissioners.
+That's the -- that's the problem Congress
+was addressing. There was a -- there was -- a shifting
+of present actuarial risks in that market that Congress
+wanted to correct. And if you took the minimum coverage
+provision out and left the other two provisions in,
+there would be laid on top of the existing shifting of
+present actuarial risks an additional one because the
+uninsured would know that they would have guaranteed
+access to insurance whenever they became sick. It would
+make the -- it would make the adverse selection in that
+market problem even worse.
+And so, what -- and Congress, trying to come
+up with a market-based solution to control rates in that
+market, has adopted something that would -- that would
+work to control costs by guaranteed issue and community
+rating, but if you -- if -- if you take out the minimum
+coverage, that won't work. That was Congress's
+assumption, again, shown by the text and legislative
+history of this provision. And that's why we think
+those things rise or fall in a package, because they cut
+against what Congress was trying to do.
+All of the other provisions would actually
+increase access to affordable care and would have
+advantageous effects on price. Again, Congress was
+invoking its traditional use of the tax code, which has
+long subsidized insurance through employers, has used
+that to impose a tax penalty on -- on employers, to give
+tax credits. This is traditional stuff that Congress
+has done.
+And the other thing Congress has done, those
+pre-existing laws had their own protections for
+guaranteed issue and community rating. Effectively,
+within the large employer plans, they can't discriminate
+among people. They can't charge different rates. What
+Congress was doing, was doing that in the other market.
+If it can't, that's all that should be struck from the
+Act.
+CHIEF JUSTICE ROBERTS: Thank you,
+Mr. Kneedler.
+Mr. Farr.
+ORAL ARGUMENT OF H. BARTOW FARR, III,
+AS THE COURT-APPOINTED AMICUS CURIAE
+MR. FARR: Mr. Chief Justice, and may it
+please the Court:
+At the outset, I would just like to say I
+think that the Government's position in this case that
+the community-rating and guaranteed-issue provisions
+ought to be struck down is an example of the best
+driving out the good, because, even without the minimum
+coverage provision, those two provisions, guaranteed
+issue and community rating, will still open insurance
+markets to millions of people that were excluded under
+the prior system and for millions of people will lower
+prices, which were raised high under the old system
+because of their poor health.
+So, even though the system is not going to
+work precisely as Congress wanted, it would certainly
+serve central goals that Congress had of expanding
+coverage for people who were unable to get coverage or
+unable to get it at affordable prices.
+So, when the government --
+JUSTICE GINSBURG: One of the points that
+Mr. Kneedler made is that the price won't be affordable
+because the -- he spoke of the adverse selection
+problem, that there would be so fewer people in there,
+the insurance companies are going to have to raise the
+premiums.
+So, it's nice that Congress made it possible
+for more people to be covered, but the reality is they
+won't because they won't be able to afford the premium.
+MR. FARR: Well, Justice Ginsburg, let me
+say two things about that.
+First of all, when we talk about premiums
+becoming less affordable, it's very important to keep in
+mind different groups of people, because it is not
+something that applies accurately to everybody.
+For people who were not able to get
+insurance before, obviously, their insurance beforehand
+was -- the price was essentially infinite. They were
+not able to get it at any price. They will now be able
+to get it at a price that they can afford.
+For people who are unhealthy and were able
+to get insurance, but perhaps not for the things that
+they were most concerned about, or only at very high
+rates, their rates will be lower under the system, even
+without the minimum coverage provision.
+Also, you have a large number of people who,
+under the Act --
+JUSTICE SCALIA: Excuse me. Why do you
+say -- I didn't follow that. Why?
+MR. FARR: Because --
+JUSTICE SCALIA: Why would their rates be
+lower?
+MR. FARR: Their rates are going to be lower
+than they were under the prior system because they are
+going into a pool of people, rather than -- some of whom
+are healthy, rather than having their rates set
+according to their individual health characteristics.
+That's why their rates were so high.
+JUSTICE KAGAN: But the problem, Mr. Farr,
+isn't it, that they're going to a pool of people that
+will gradually get older and unhealthier. That's the
+way the thing works. Once you say that the insurance
+companies have to cover all of the sick people and all
+of the old people, the -- the rates climb. More and
+more young people and healthy people say why should we
+participate; we can just get it later when we get sick.
+So, they leave the market. The rates go up further.
+More people leave the market. And the whole system
+crashes and burns, becomes unsustainable.
+MR. FARR: Well, that's --
+JUSTICE KAGAN: And this is not --
+MR. FARR: Sorry.
+JUSTICE KAGAN: -- like what I think. What
+do I know? It's just what -- what's reflected in
+Congress's findings, that it's -- it looks at some
+States and says this system crashed and burned. It
+looked at another State with the minimum coverage
+provision and said this one seems to work; so, we'll
+package the minimum coverage provision with the
+nondiscrimination provisions.
+MR. FARR: Well, in a moment, I'd like to
+talk about the finding, but if I could just postpone
+that for a second and talk about adverse selection
+itself.
+I think one of the misconceptions here,
+Justice Kagan, is that Congress, having seen the
+experience of the States in the '90s with community
+rating and guaranteed issue, simply imposed the minimum
+coverage provision as a possible way of dealing with
+that, and if you don't have the minimum coverage
+provision, then, essentially, adverse selection runs
+rampant. But that's not what happened.
+Congress included at least half a dozen
+other provisions to deal with adverse selection caused
+by bringing in people who are less healthy into the Act.
+There are -- to begin with, the Act
+authorizes annual enrollment periods so people can't
+just show up at the hospital. If they don't show up and
+sign up at the right time, they at least have to wait to
+the -- to the time next year. That's authorized by the
+Act.
+There -- with respect to the subsidies,
+there are three different things that make this
+important. First of all, the subsidies are very
+generous. For people below 200 percent of the Federal
+poverty line, the subsidy will cover 80 percent, on
+average, of the premium, which makes it attractive to
+them to join.
+The structure of the subsidies, because
+their income -- they create a floor for -- based on the
+income of the person getting the insurance, and then the
+government covers everything over that. And this is
+important in adverse selection because if you do have a
+change in the mix of people and average premiums start
+to rise, the government picks up the increase in the
+premium. The amount that the person who is getting
+insured contributes remains constant at a percentage of
+his or her income.
+And the third thing --
+JUSTICE SCALIA: There is nothing about
+Federal support that is unsustainable, right? That is
+infinite.
+(Laughter.)
+MR. FARR: Well, I mean, that's a fair
+point, Justice Scalia, although one of the things that
+happens, if you take the mandate out, while it is true
+that the subsidies that the government provides to any
+individual will increase, and they will be less
+efficient -- I'm not disputing that point -- actually,
+the overall amount of the subsidies that the government
+will provide will decline, as the Government notes
+itself in its brief, because there will be fewer people
+getting them. Some people will opt out of the system
+even though they're getting subsidies.
+But I'd just like to go back for one more
+second to the point about how the subsidies are part of
+what Congress was using, because the other thing is that
+for people below 250 percent of the Federal poverty
+line, Congress also picks up and subsidizes the
+out-of-pocket costs, raising the actuarial value.
+So, you have all of that, and then you have
+Congress also, unlike the States, establishing -- or I
+should be precisely accurate -- unlike almost all the
+States, establishing an age differential of up to three
+to one. So, an insurance company, for example, that is
+selling a 25-year-old a policy for $4,000 can charge a
+60-year-old $12,000 for exactly the same coverage.
+The States typically in the '90s, when they
+were instituting these programs, they either had pure
+community rating, where everybody is charged the same
+premium -- everybody regardless of their age is charged
+the same premium. Some States had a variance of 1.5
+to 1. Massachusetts, for example, which did have good
+subsidies, but their age band was two to one.
+So, when Congress is enacting this Act, it's
+not simply looking at the States and thinking: Well,
+that didn't go very well. Why don't we put in a minimum
+coverage provision? That will solve the problem.
+Congress did a lot of different things to
+try to combat the adverse selection.
+Now, if I could turn to the finding, because
+I think this is the crux of the Government's position,
+and then the plaintiffs pick up on that and then move --
+move from that to the rest of the Act. And it seems to
+me, quite honestly, it's an important part because that
+is textual. You know, in this whole sort of quest for
+what we're trying to figure out, the finding seems to
+stand out as something that the Court can rely on and
+say here's something Congress has actually told us.
+But I think the real problem with the
+finding is the -- the context in which Congress made it.
+It's quite clear. If the Court wants to look, the
+finding is on page 42 -- 43a, excuse me, of the
+Solicitor General's severability brief, in the appendix.
+But the finding is made specifically in the
+context of interstate commerce. That is why the
+findings are in the Act at all. Congress wanted to
+indicate to the Court, knowing that the minimum coverage
+provision was going to be challenged, wanted to indicate
+to the Court the basis on which it believed it had the
+power under the Commerce Clause to enact this law.
+Why does that make a difference with respect
+to Finding (I), which is the one that the Government is
+relying on, and in particular the last sentence, which
+says this requirement "is essential to creating
+effective health insurance markets" in which guaranteed
+issue and pre-existing illnesses can be covered.
+And the reason is because the word
+"essential" in the Commerce Clause context doesn't have
+the colloquial meaning. In the Commerce Clause context,
+"essential" effectively means useful. So that when one
+says -- in Lopez, when the Court says section 922(q) is
+not an essential part of a larger regulatory scheme of
+economic activity, it goes on to say: In which the
+regulatory scheme would be undercut if we didn't have
+this provision.
+Well, if that's all Congress means, I agree
+with that. The system will be undercut somewhat if you
+don't have the minimum coverage provision. It's like
+the word "necessary" in the Necessary and Proper Clause
+Clause. It doesn't mean, as the Court has said on
+numerous occasions, absolutely necessary. It means
+conducive to, useful, advancing the objectives,
+advancing the aims. And it's easy to see, I think, that
+that's what Congress did.
+JUSTICE SCALIA: Is there any dictionary
+that gives that --
+MR. FARR: I'm sorry, Justice Scalia.
+JUSTICE SCALIA: -- that definition of
+"essential"? It's very imaginative.
+(Laughter.)
+JUSTICE SCALIA: Just give me one
+dictionary.
+MR. FARR: Well -- but I think my point,
+Justice Scalia, is that they're not using it in the true
+dictionary sense.
+JUSTICE SCALIA: How do we know that? When
+people speak, I assume they're speaking English.
+MR. FARR: Well --
+(Laughter.)
+MR. FARR: I think that there are several
+reasons that I would suggest that we would know that
+from. The first is, as I say, the findings themselves.
+Congress says at the very beginning -- the head of it is
+Congress makes the following findings. And they're
+talking about the interstate -- you know, (B) is headed
+"Effects on the national economy and interstate
+commerce." So, we know the context that Congress is
+talking about. It is more or less quoting from the
+Court's Commerce Clause statement.
+But if one looks at the very preceding
+finding, which is Finding (H), which is on 42 over onto
+43, Congress at that point also uses the word
+"essential." In the second sentence, it says this
+requirement -- and again, we're talking about the
+minimum coverage provision -- "is an essential part of
+this larger regulation of economic activity," which is,
+by the way, an exact quote from Lopez, in which "the
+absence of the requirement would undercut Federal
+regulation," also an exact quote from Lopez.
+But what it's referring to is essential --
+an essential part of ERISA, the National Health Service
+Act, and the Affordable Care Act. It can't possibly be,
+even the plaintiffs haven't argued, that those acts
+would all fall in their entirety if you took out the
+minimum coverage provision.
+And as a second example of the same usage by
+Congress, the statute that was before the Court in
+Raich, section 801 of Title 21, the Court said that the
+regulation of intrastate drug activity, drug traffic,
+was essential to the regulation of interstate drug
+activity. Again, it is simply not conceivable that
+Congress was saying one is so indispensable to the
+other, the way the United States uses the term here, so
+indispensable that if we can't regulate the intrastate
+traffic, we don't want to regulate the interstate
+traffic, either. The whole law criminalizing drug
+traffic would fall.
+So, I think once you look at the finding for
+what I believe it says, which is we believe this is a
+useful part of our regulatory scheme, which the Congress
+would think in its own approach would be sufficient --
+JUSTICE SOTOMAYOR: Counsel --
+MR. FARR: Yes, Justice.
+JUSTICE SOTOMAYOR: The problem I have is
+that you're ignoring the congressional findings and all
+of the evidence Congress had before it that community
+ratings and guaranteed issuance would be a death
+spiral -- I think that was the word that was used --
+without minimum coverage. Those are all of the
+materials that are part of the legislative record here.
+So, even if it might not be because of the
+structure of the Act, that's post hoc evidence. Why
+should we be looking at that as opposed to what Congress
+had before it and use "essential" in its plain meaning:
+You can't have minimum coverage without, what the SG is
+arguing, community ratings and guaranteed issue. You
+can't have those two without minimum coverage.
+MR. FARR: Well, I think that's a fair
+question. But the idea that -- that all the information
+before Congress only led to the idea that if -- that you
+would have death spirals seems to me to be contradicted
+a little bit at least by the CBO report in November of
+2009, which is about 4 months before the Act passed,
+where the CBO talks about adverse selection.
+Now, I want to be clear. This is at a time
+when the minimum coverage provision was in the statute.
+So, I'm not suggesting that this is a discussion without
+that in it. But, nonetheless, the CBO goes through and
+talks about adverse selection and -- and points out the
+different provisions in the Act, the ones I have
+mentioned plus one other, actually, where in the first 3
+years of the operation of the exchanges, those insurance
+companies that get sort of a worse selection of -- of
+consumers will be given essentially credits from
+insurance companies that get better selection.
+JUSTICE KENNEDY: So, do you want us to
+write an opinion saying we have concluded that there is
+an insignificant risk of a substantial adverse effect on
+the insurance companies -- that's our economic
+conclusion -- and therefore not severable? That's what
+you want me to say?
+MR. FARR: It doesn't sound right the way
+you say it, Justice Kennedy. So --
+(Laughter.)
+MR. FARR: No, I --
+JUSTICE SOTOMAYOR: But you don't want them
+to say, either, that there is a death spiral. Do you
+want -- you don't want us to make either of those two
+findings, I'm assuming.
+MR. FARR: That's correct. Now, I -- I
+agree that there's a risk and the significance of it
+people can debate. But what I think is -- is lost in
+that question -- and I didn't mean to be whimsical about
+it. I think what is lost in it a little bit is what's
+on the other side, which is the fact that if you follow
+the Government's suggestion, if the Court follows the
+Government's suggestion, what is going to be lost is
+something we know is a central part of the Act. I mean,
+indeed, if one sort of looks at the legislative history
+more broadly, I think much of it is directed toward the
+idea that guaranteed issue and community rating were the
+crown jewel of the Act.
+The minimum coverage provision wasn't
+something that everybody was bragging about. It was
+something that was meant to be part of this package. I
+agree with that.
+But the -- but the point of it was to have
+guaranteed issue and minimum coverage. I mean -- excuse
+me -- guaranteed issue and community rating. And that's
+-- under the Government's proposal, those would
+disappear. We would go back to the old system.
+And under what I think is the proper
+severability analysis, the -- the real question the
+Court is asking, should be asking, is, would Congress
+rather go back to the old system than to take perhaps
+the risk that you're talking about, Justice Kennedy?
+CHIEF JUSTICE ROBERTS: You -- you're
+referring to the Government's second position. Their
+first, of course, is that we shouldn't address this
+issue at all.
+MR. FARR: That's correct.
+CHIEF JUSTICE ROBERTS: I asked Mr. Kneedler
+about what procedure or process would be anticipated for
+people who are affected by the change in -- in the law
+and the change in the economic consequences. Do you
+have a view on how that could be played out? It does
+seem to me that if we accept your position, something --
+there have to -- there has to be a broad range of
+consequences, whether it's additional legislation,
+additional litigation.
+Any thoughts on how that's going to play
+out?
+MR. FARR: Well, if the Court adopts the
+position that I'm advocating, Mr. Chief Justice, I think
+what would happen is that the Court would say that the
+minimum coverage provision, by hypothesis of course, is
+unconstitutional, and the fact of that being
+unconstitutional does not mean the invalidation of any
+other provision.
+So, under the position I'm advocating, there
+would no longer be challenges to the remaining part of
+the Act. The --
+CHIEF JUSTICE ROBERTS: But if the challenge
+is what we're questioning today, whether -- if you're an
+insurance company and you don't believe that you can
+give the coverage in the way Congress mandated it
+without the individual mandate, what -- what type of
+action do you bring in court?
+MR. FARR: You -- if the Court follows the
+course that I'm advocating, you do not bring an action
+in court. You go to Congress and you seek a change from
+Congress to say the minimum coverage provision has been
+struck down by the Court: Here is our -- here -- here's
+the information that we have to show you what the risks
+are going to be. Here are the adjustments you need to
+make.
+One of the questions earlier pointed out
+that States have adjusted their systems as they've gone
+along, as they've seen things work or not work.
+You know, as I was talking earlier about the
+-- the different ratio for ages in insurance. The
+States have tended to change that because they found
+that having too narrow a band worked against the
+effectiveness of their programs. But they -- except for
+in Massachusetts, they didn't enact mandates.
+So, to answer -- I think to answer your
+question directly, Mr. Chief Justice, the position I'm
+advocating would simply have those -- those pleas go to
+Congress, not in court.
+Now, if one -- just to discuss the issue
+more generally, if that's helpful, I think that if there
+were situations where the Court deferred -- let's say
+for discretionary reasons, they just said -- the Court
+said we're not going to take up the question of
+severability and therefore not resolve it in these other
+situations, it certainly seems to me that in enforcement
+actions, for example, if the time comes in 2014 and
+somebody applies to an insurance company for a
+policy and the insurance company says, well, we're not
+going to issue a policy, we don't think your risks are
+ones that we're willing to cover -- it seems to me that
+they could sue the insurance company and the insurance
+company could raise as a defense that this provision,
+the guaranteed-issue provision of the statute, is not
+enforceable because it was inseverable from the decision
+-- from the provision that the Court held
+unconstitutional in 2012.
+JUSTICE SCALIA: Mr. Farr, let's consider
+how -- how your approach, severing as little as
+possible, thereby increases the deference that we're
+showing to Congress. It seems to me it puts Congress in
+this position: This Act is still in full effect. There
+is going to be this deficit that used to be made up by
+the mandatory coverage provision. All that money has to
+come from somewhere. You can't repeal the rest of the
+Act because you're not going to get 60 votes in the
+Senate to repeal the rest. It's not a matter of
+enacting a new Act. You got to get 60 votes to repeal
+it. So, the rest of the Act is going to be the law.
+So, you're just put to the choice of, I
+guess, bankrupting insurance companies and the whole
+system comes tumbling down, or else enacting a Federal
+subsidy program to the insurance companies, which is
+what the insurance companies would like, I'm sure.
+Do you really think that that is somehow
+showing deference to Congress and respecting the
+democratic process?
+It seems to me it's a gross distortion of
+it.
+MR. FARR: Well, Your Honor, the difficulty
+is that it seems to me the other possibility is for the
+Court to make choices particularly based on what it
+expects the difficulties of Congress altering the
+legislation after a Court ruling would be. I'm not
+aware of any severability decision that has ever looked
+anything like that.
+JUSTICE SCALIA: No, I -- that wouldn't be
+my approach. My approach would say, if you take the
+heart out of the statute, the statute's gone. That
+enables Congress to do what it wants in the usual
+fashion. And it doesn't inject us into the process of
+saying: This is good, this is bad, this is good, this
+is bad.
+MR. FARR: Well --
+JUSTICE SCALIA: It seems to me it reduces
+our options the most and increases Congress's the most.
+MR. FARR: And I guess to some extent I have
+to quarrel with the premise, Justice Scalia, because at
+least the position that I'm advocating today, under
+which the Court would only take out the minimum coverage
+provision, I don't think would fit the description that
+you have given of taking out the heart of the statute.
+Now, I do think once you take out guaranteed
+issue and community rating, you're getting closer to the
+heart of the statute. And one of the -- one of the
+difficulties I think with the Government's position is
+that I think it's harder to cabin that, to draw that
+bright line around it. It's harder than the Government
+thinks it is.
+I mean, to begin with, even the Government
+seems to acknowledge, I think, that the exchanges are
+going to be relatively pale relatives of the exchanges
+as they're intended to be, where you're going to have
+standardized products, everybody can come and make
+comparisons based on products that look more or less the
+same.
+But the other thing that's going to happen
+is with the subsidy program. The way that the subsidy
+program is set up, the subsidy is calculated according
+to essentially a benchmark plan. And this -- if one --
+if the Court wants to look at the provisions, they're --
+they begin at page 64a of the private plaintiffs' brief.
+Again, in the appendix. The particular provision I'm
+talking about's at 68a. But there's a -- there's a
+question -- you -- you're looking essentially to
+calculate the premium by looking at a -- at a
+standardized silver plan.
+First question, obviously, is: Is there
+going to be any such plan if you don't have guaranteed
+issue and community rating, if the plans can basically
+be individualized? But the second problem is that, in
+the provision on 68a, the -- the provision that's used
+for calculating the subsidy, what -- what is anticipated
+in the provision under the Act, as it is now, is that
+you do have the floor of the income. You would -- you
+would take this benchmark plan, and the government would
+pay the difference.
+And as we talked about earlier, the
+benchmark plan can change for age, and -- and the
+provision says it can be adjusted only for age. So, if
+in fact you even have such a thing as a benchmark plan
+anymore, if the rates of people in poor health go up
+because of individual insurance underwriting, the
+government subsidy is not going to pay for that.
+JUSTICE KAGAN: Mr. Farr, I understood that
+the answer that you gave to Justice Scalia was
+essentially that the minimum coverage provision was not
+the heart of the Act. Instead, the minimum coverage
+provision was a tool to make the nondiscrimination
+provisions -- community rating, guaranteed issue --
+work.
+So, if you assume that, that all the minimum
+coverage is, is a tool to make those provisions work,
+then I guess I would refocus Justice Scalia's question
+and say, if we know that something is just a tool to
+make other provisions work, shouldn't that be the case
+in which those other provisions are severed along with
+the tool?
+MR. FARR: No, I don't think so, because
+there are -- there are many other tools to make the same
+things work. That's I think the point.
+And if one -- and the case that comes to
+mind is New York v. The United States, where the Court
+struck down the "take title" provision but left other --
+two other incentives essentially in place.
+Even without the minimum coverage provision,
+there will be a lot of other incentives still to bring
+younger people into the market and to keep them in the
+market. And if -- if my reading of the finding is
+correct -- and that's all that Congress is saying, that
+this would be useful -- it doesn't mean that it's
+impossible to have --
+JUSTICE BREYER: But would you -- I'd just
+like to hear before you leave your argument, if you want
+to, against what Justice Scalia just said. Let's
+assume, contrary to what you want, that the Government's
+position is accepted by the majority of this Court. And
+so, we now are rid, quote, of the true "heart" of the
+bill. Now, still there are a lot of other provisions
+here like the Indian Act, the black lung disease, the
+wellness program, that restaurants have to have a
+calorie count of major menus, et cetera.
+Now, some of them cost money, and some of
+them don't. And there are loads of them. Now, what is
+your argument that just because the heart of the bill is
+gone, that has nothing to do with the validity of these
+other provisions, both those that cost money or at least
+those that cost no money? Do you want to make an
+argument in that respect, that destroying the heart of
+the bill does not blow up the entire bill; it blows up
+the heart of a bill? And I'd just like to hear what you
+have to say about that.
+MR. FARR: Well, Justice Breyer, I think
+what I would say is, if one goes back to the -- what I
+think is the proper severability standard and say, would
+Congress rather have not -- no bill as opposed to the
+bill with whatever is severed from it, it seems to me
+when you're talking about provisions that don't have
+anything to do with the minimum coverage provision,
+there's no reason to answer that question as any other
+way than yes, Congress would want these provisions.
+JUSTICE KENNEDY: Is that the real Congress
+or a hypothetical Congress?
+(Laughter.)
+MR. FARR: An objective Congress, Your
+Honor, not the specific -- not with a vote count.
+JUSTICE BREYER: Have you come across --
+MR. FARR: Excuse me.
+JUSTICE SCALIA: Why put -- why put Congress
+to that false choice?
+MR. FARR: Well --
+JUSTICE SCALIA: You know -- you only have
+two choices, Congress. You can have the whole bill or
+you can have -- you can have parts of the bill or no
+bill at all. Why that false choice?
+MR. FARR: I think the reason is because
+severability is by necessity a blunt tool. The Court
+doesn't have -- even if it had the inclination, doesn't
+essentially have the authority to retool the statute --
+JUSTICE BREYER: Yes. Oh, I know. So, you
+-- I would say stay out of politics. That's for
+Congress, not us.
+MR. FARR: Right.
+JUSTICE BREYER: But the -- the question
+here is -- you've read all these cases or dozens -- have
+you ever found a severability case where the Court ever
+said: Well, the heart of the thing is gone, and,
+therefore, we strike down these other provisions that
+have nothing to do with it, which could stand on their
+feet independently and can be funded separately or don't
+require money at all.
+MR. FARR: I think the accurate answer would
+be I am not aware of a modern case that says that. I
+think there probably are cases in the '20s and '30s that
+would be more like that.
+If I could just take one second to address
+the economists' brief because Justice Alito raised it
+earlier. I just want to make one simple point. Leaving
+aside the whole balancing thing, if one looks at the
+economists' brief, I think it's very important to note
+that when they're talking about one side of the balance
+-- may I finish?
+CHIEF JUSTICE ROBERTS: Certainly.
+MR. FARR: When they're talking about the
+balance, they're not just talking about the minimum
+coverage provision. They very carefully word it to say
+the minimum coverage provision and the subsidy programs.
+And then, so when you're doing the mathematical
+balancing, the subsidy programs are extremely large.
+They -- in year 2020, they're expected to be over
+$100 billion in that one year alone. So, if you're
+looking at the numbers, please consider that.
+Thank you, Your Honors.
+CHIEF JUSTICE ROBERTS: Thank you, Mr. Farr.
+Mr. Clement, you have 4 minutes remaining.
+REBUTTAL ARGUMENT OF PAUL D. CLEMENT
+ON BEHALF OF THE PETITIONERS
+JUSTICE SOTOMAYOR: Mr. Clement, could you
+respond to amici's point? He says that Congress didn't
+go into this Act to impose minimum coverage. They went
+into the Act to have a different purpose, i.e., to get
+people coverage when they needed it, to increase
+coverage for people, that this is only a tool. But
+other States -- going back to my original point, that
+there are other tools besides minimum coverage that
+Congress can achieve the same goals. So, if we strike
+just a tool, why should we strike the whole Act --
+MR. CLEMENT: Mr. Chief --
+JUSTICE SOTOMAYOR: -- when Congress has
+other tools available?
+MR. CLEMENT: Mr. Chief Justice, I'll make
+four points in rebuttal, but I'll start with Justice
+Sotomayor's question, which is to simply say this isn't
+just a tool; it's the principal tool. Congress
+identified it as an essential tool. It's not just a
+tool to make it work. It's a tool to pay for it, to
+make it affordable. And, again, that's not my
+characterization; that's Congress's characterization in
+Sub-finding (I) on page 43a of the Government's brief.
+Now, that brings me to my first point in
+rebuttal, which is Mr. Kneedler says, quite correctly --
+tells this Court don't look at the budgetary
+implications. Well, the problem with that, though, is
+once it's common ground that the individual mandate is
+in the statute at least in part to make community rating
+and guaranteed issue affordable, that really is all you
+have to identify. That establishes the essential link
+that it's there to pay for it.
+You don't have to figure out exactly how
+much that is and which box -- I mean, it clearly is a
+substantial part of it, because what they were trying to
+do was take healthy individuals and put them into the
+risk pool -- and this is quoting their finding -- which
+is in order -- they put people into the market, which
+will lower premiums. So, that's what their intent was.
+So, you don't have to get to the final
+number. You know that's what was going on here, and
+that's reason alone to sever it.
+Now, the Government -- Mr. Kneedler also
+says there's an easy dividing line between what they
+want to keep and what they want to dish out. The
+problem with that is that, you know, you read their
+brief and you might think, oh, there's a
+guaranteed-issue and a community-rating provision
+subtitle in the bill. There's not.
+To figure out what they're talking about you
+have to go to page 6 of their brief, of their opening
+severability brief, where they tell you what's in and
+what's out. And the easy dividing line they suggest is
+actually between 300g(a)(1) and 300g(a)(2), because on
+community rating, they don't -- they say that (a)(1)
+goes, but then they say (a)(2) has to stay because
+that's the way that you'll have some sort of -- kind of
+Potemkin community rating for the exchanges. But if you
+actually look at those provisions, (a)(2) makes all
+these references to (a)(1). It just doesn't work.
+Now, in getting back to the -- an inquiry
+that I think this Court actually can approach is, to
+look at what Congress was trying to do, you need look no
+further than the title of this statute: Patient
+Protection and Affordable Care. I agree with Mr. Farr
+that community rating and guaranteed issue were the
+crown jewels of this Act. They were what was trying to
+provide patient protection. And what made it
+affordable? The individual mandate. If you strike down
+guaranteed issue, community rating, and the individual
+mandate, there is nothing left to the heart of the Act.
+And that takes me to my last point, which is
+simply this Court in Buckley created a halfway house,
+and it took Congress 40 years to try to deal with the
+situation, when contrary to any time of their intent,
+they had to try to figure out what are we going to do
+when we're stuck with this ban on contributions, but we
+can't get at expenditures because the Court told us we
+couldn't. And for 40 years, they worked in that halfway
+house.
+Why make them do that in health care? The
+choice is to give Congress the task of fixing this
+statute, the residuum of this statute after some of it
+is struck down, or giving them the task of simply fixing
+the problem on a clean slate. I don't think that's a
+close choice. If the individual mandate is
+unconstitutional, the rest of the Act should fall.
+CHIEF JUSTICE ROBERTS: Thank you, Mr.
+Clement.
+Mr. Farr, you were invited by this Court to
+brief and argue in these cases in support of the
+decision below on severability. You have ably carried
+out that responsibility, for which we are grateful.
+Case No. 11-393 is submitted. We will
+continue argument in Case Number 11-400 this afternoon.
+(Whereupon, at 11:50 a.m., the case in the
+above-entitled matter was submitted.)
+64:2 66:18,18 60:8,16,19 amount 24:22 16:14
+85:4 76:10,24 78:6 advocating 71:5 analogies 48:12 28:24 84:23
+action 20:18 affect 37:6 53:13 Angeles 34:21 arguing 15:16
+47:6 actions 72:23 affordable 4:23 10:1,5 20:9,9 3:2,5,8,11 4:4
+activity 64:19 7:6 15:3 50:20 22:22 26:5,20 4:8 6:22 16:8
+55:18 actuarial 55:12 56:7 57:19,22 43:19 72:12,12 43:6 47:6,17
+55:16 62:15 58:8 66:18 76:22 79:1 47:18 48:6
+added 42:20 84:1 answered 20:4 78:11,15 81:7
+70:25 71:1 age 62:19 63:1,4 anticipated arises 33:23
+addressed 19:12 agree 9:5 11:6 49:1 articulated
+14:21,23 addressing 10:6 69:12 70:2 30:11 31:3 aside 80:15
+16:10 31:18 36:1 83:22 33:20 asked 18:5 20:4
+17:4 55:11 aims 65:4 anybody 30:15 38:2,7 45:2
+24:2 adjudicates 30:7 airline 17:17 anymore 76:18 70:18
+25:15 adjusted 5:15 AL 1:4,8,12,16 apart 29:16 asking 9:6 17:11
+72:4 76:16 Alito 25:9,12,24 appear 54:25 24:13 51:23
+29:3,7 adjustments 34:1 42:2 APPEARAN... 70:10,10
+31:3 72:1 53:25 80:13 1:24 aspect 45:6
+33:20 admit 15:13 Alito's 34:15 appendix 6:10 aspects 13:23
+35:8 17:2 43:20 54:16 63:24 75:24 assess 44:12
+38:10 adopt 20:11 allied 30:18 applied 18:9 Association 55:8
+41:5 adopted 51:3 31:10 applies 58:10 assume 6:25
+44:20 55:23 allow 33:22 72:24 43:21,24 44:8
+adopting 52:14 altering 74:9 apply 17:11 18:4 65:18 77:3
+adopts 71:4 altogether 19:24 18:15 23:14 78:2
+46:11,14 advance 50:12 52:13 29:7,8 31:19 assuming 42:11
+50:16 53:15 Amendment 34:12 69:10
+advancing 65:3 38:15 appoint 23:10 assumption
+50:5,12 65:4 Americans 24:8 approach 14:1 37:12 49:24
+55:6 advantageous amici's 81:10 15:8 18:16 53:4 56:2
+49:24 53:4 54:7 81:2 brings 82:6 84:24
+14:5 20:12 bit 9:22 68:8 69:21 33:19,23 34:17
+76:6 bitter 7:4 19:13 45:1,9,22 46:5
+33:22 64:5 16:18 24:9 bronze 13:6 77:13 80:2,9
+65:24 38:4,5 budgetary 44:5 22:3 31:12
+believe 29:5 blunt 79:18 built 52:15 cause 5:1 29:23
+67:10,10 Booker 13:16,22 burned 60:1 29:24 30:3
+35:1 benchmark box 82:16 businesses 29:9 center 17:4
+62:10 75:21 76:12,15 boy 14:4 50:23,24 centered 37:19
+78:20 76:17 Brady 31:17 buy 52:21 central 45:12
+83:18 benefits 14:24 bragging 69:25 51:2 57:17
+best 8:21 13:9 breast 23:6,24 C 3:1 4:1 certain 18:16
+57:7 23:20,24 27:15 calculate 76:2 53:6
+80:17,21 12:11,13 15:4 47:11 77:24 calculating 76:9 49:25 57:16
+beyond 31:5 Breyer's 26:7 calorie 78:8 challenge 30:14
+bill 38:24 39:11 80:13,16 82:5 32:24 40:9,10 36:2 64:4
+78:16,16,17,22 briefed 37:5 51:19,20 52:5 challenging 34:5
+56:25 billion 42:5,7,8 71:19,21 77:18 84:13 change 30:5
+71:22 63:22 68:11 64:6,14,15 complementary 51:1,6,9,11,12
+76:15 clearly 13:17 66:3,5 51:18 51:14,21 52:15
+Clement 1:25 55:9 17:17,22 46:16 53:1,9 54:8,9
+5:21 6:20,24 42:19 47:24 compromise 55:21 56:5,8
+8:18,25 9:5,19 46:24 82:10 concede 14:22 57:16,17 58:2
+11:7,18 12:16 4:25 5:25 6:4 conceivable 62:14,17 63:5
+15:10 16:21 12:1 13:4 concerned 6:22 64:2,22 65:5
+18:23 20:8,16,19 24:19 25:7 concerted 27:12 66:8,23 67:3
+21:1,7,11 28:10 40:25 conclude 29:1 67:11,17,24
+22:19 23:19 53:21 55:24 concluded 68:23 68:6 70:10
+29:10 24:14 25:10,11 56:16 57:10 conclusion 71:17,22,23
+33:11,16 25:23 26:13,19 60:12 62:25 18:19 69:1 72:15 73:12,12
+40:15 27:2,9,24 67:17 68:2 condition 23:1 74:2,9,16
+28:16 47:3,8 69:22 70:5 conducive 65:3 77:21 78:22
+43:9 81:6,7,9,19,22 75:5 76:6 77:1 conference 79:2,3,4,6,10
+49:23 84:21 82:11 83:12,15 47:24 79:14,23 81:10
+56:22 clerks 38:20 83:23 84:2 confronted 46:9 81:17,20,25
+70:13,18 40:6,10 community-ra... Congress 4:14 83:20 84:6,14
+72:13 climb 59:14 12:5 4:17,21 5:16 congressional
+81:5,19 close 23:12 community-ra... 5:23 6:1,5,10 9:25 11:1 21:5
+84:20 84:18 4:15 11:10 6:22 7:4,11,16 35:15,17 67:16
+73:21 30:18 31:9 57:6 83:5 7:25 8:4,7,8,12 6:7 7:5 41:7,10
+84:14 closer 75:5 companies 9:1,8,11,12,17 50:13 51:21
+cobble 27:23 36:17 42:22 10:5,11,19 52:1,4,11
+coherent 22:7 54:10 57:25 13:19 14:9,24 56:1 59:25
+14:6 comparable 32:24 33:3,5 34:17 44:17,20
+64:6,14 73:16 75:15 compare 12:5 35:18 36:17,19 conservative
+65:1 79:8 31:12 39:6 41:1,12 15:8
+comes 49:4 comparisons 41:23 43:15 consider 28:23
+77:13 competence 46:22 48:19 33:7,24 35:2
+81:3 Corn 10:14 66:23,24 69:17 covers 61:12 17:18 28:5
+28:25 10:23 17:10 71:19,20,22,24 crashes 59:19 decided 13:16
+correct 39:6,7 72:15,18,19 create 61:10 decision 35:15
+70:17 77:21 75:1,22 77:14 creates 40:22 74:11 84:24
+28:25 29:16 53:5,9 83:19 84:5,10 28:11 50:22 declaring 8:3
+15:22,24 78:9,13,14 courts 49:19 24:22 31:1 deemed 41:1
+49:25 costs 6:23 42:4,6 Court's 9:20 52:8,9 56:12 defense 73:4
+55:24 62:15 34:16 35:14 criminalizing 74:2
+67:13 39:15 44:1,5 critical 24:21 deficit 73:14
+79:7 66:5 83:24 65:9
+country 52:24 2:6 3:10 57:1 curiae 2:6 3:10 delighted 11:19
+couple 5:21,22 cover 49:7,7 57:1 democracy 20:5
+50:12,15 course 6:7,8 8:5 coverage 5:14 cut 7:8 14:7,12 22:13 74:3
+85:2 19:14 70:15 8:1 28:24 33:9 35:8 43:23 denies 31:13
+4:11 8:20,24 48:22 49:2,4 D Deputy 2:2
+12:21 14:4,8 53:12,18,20 4:1,8 81:7 designed 50:20
+78:2 20:6 21:17,20 57:9,18,18 34:23 destroying
+21:21 22:6,9 58:20 60:2,4 dare 22:5 78:15
+28:21,22 29:1 63:8 64:3,24 day 8:9 24:3 50:1
+31:17,20 33:2 68:1,3,12 deal 26:24 60:19 65:13,16
+33:3,4,7,25 69:24 70:4 84:6 differ 23:15
+84:9 37:4,5,7,15 73:15 75:1 60:14 54:1 64:7
+45:13,15 47:22 80:22,23 81:11 debate 5:2,3,4 13:18 14:11
+51:10 57:3 covered 49:20 decades 21:8,8,8 20:6 35:11
+63:9 district 23:11 effective 64:11 equals 43:22 6:15 11:24
+72:7 dividing 11:15 effectively 56:16 equitable 35:25 12:1,2,6,7,12
+40:23 83:1,10 64:16 ERISA 66:17 12:14,20,25
+doctors 23:7,25 72:10 ESQ 1:25 2:2,5 24:20,21,24
+47:22 56:19,19 effectuating essential 4:17 32:3 68:18
+74:9 doubt 53:7 efficient 62:4 39:6 41:2,23 excised 45:23
+dozen 60:18 effort 27:12 41:25 45:19 excluded 57:11
+draw 75:8 either 62:24 65:10 66:9,11 63:23 70:4
+driving 57:8 embodied 51:14 essentially 58:13 34:16 36:21
+72:13 DSH 25:3 24:24,25,25 77:16 79:20 exercising 36:14
+D.C 1:18,25 2:3 56:17 82:13 expand 52:5
+38:5 E 3:1 4:1,1 56:10,11 23:8 78:8 expansion 42:8
+72:3,6 76:14 enact 64:6 72:11 11:5 58:10 43:10
+easy 13:5 26:22 31:7,9,11 69:25 75:15 expected 81:1
+40:6,10,10,21 enacting 63:5 67:23 expenditure
+echoing 36:11 enforceable exact 66:13,15 expenditures
+66:12 68:25 enforcement 19:15 37:3 84:10
+5:17,17 42:3 enhance 50:20 example 12:13 52:16 55:7
+80:13,16 enormously 22:5 30:4 expertise 54:14
+EDWIN 2:2 3:6 enrollment 46:3 54:5 57:7 explain 34:17
+effect 35:5,6 entire 29:2 66:22 72:23 exploring 47:9
+57:24 Florida 1:12 4:6 General 2:2 17:1 19:22
+69:16 38:11 39:25 18:11 23:20 generous 61:5 39:8,23,24
+76:17 40:2 42:18 24:15 25:25 germane 16:22 42:23 43:23
+25:15 figures 5:7 follows 69:17 83:18 69:18 71:2
+29:3 42:20 71:20 Ginsburg 14:20 72:1,20 73:1
+48:17,19 final 82:22 footnote 19:13 15:10 32:15 73:14,17,20
+56:4 finance 21:18 force 4:25 8:4 55:2 57:21 75:13,14,18
+67:8 finances 42:18 forever 32:7 58:5 76:5,20 81:15
+financial 54:24 formulate 9:21 give 7:17,17,20 82:23 84:8
+find 10:15 11:14 19:10 26:21 37:20 good 15:1 57:8
+47:16 60:7 63:11,17 5:11,11 6:10 given 22:21 40:5 governing 52:15
+57:2 64:8 66:7,7 72:8 80:2 gives 65:7 4:14 24:17
+59:3,9 67:9 77:20 four 22:11 81:23 giving 84:16 32:6 43:1
+60:6 82:19 frankly 15:3 go 17:5,25 21:8 57:20 61:12,15
+65:8,14 findings 5:9 full 73:13 23:11 27:18 62:2,5,6 64:8
+67:14 11:12 41:10 fully 28:25 30:19 33:11 75:9,11 76:12
+69:3,6,11 53:20 59:25 function 12:6,8 38:15,23 40:1 76:20 82:25
+71:4,20 64:2 65:23,25 12:9,9 17:13 40:17 42:17 Government's
+74:6,20 67:16 69:10 18:2 38:20 44:24 46:13 6:9 43:10 57:5
+76:21 fine 28:8 39:14,15 44:1 53:22 59:17 63:12 69:17,18
+78:19 finish 17:1 26:17 44:22 54:22 62:10 63:7 70:6,14 75:7
+39:8 80:18 functionally 70:7,11 71:22 78:2 82:5
+80:8,20 first 5:22 11:21 14:18 72:14 76:18 governs 11:1
+83:22 13:24 30:1 fundamental 81:11 83:8 gradually 59:11
+33:20 42:16 50:4 goal 4:22 7:5 grateful 84:25
+30:15 70:15 76:4 funded 80:6 goals 57:17 gross 74:4
+62:13 82:6 further 50:9 81:17 ground 11:4
+73:23 fit 75:2 52:10 59:17 goes 32:1 64:19 82:10
+20:2 22:11,18 83:13 guarantee 11:16
+28:10 34:13 46:20 hollowed-out 44:1 56:11 42:7,12 43:1
+53:21 harder 75:8,9 17:6 23:22 81:11 43:23 53:11,11
+55:17,24 head 65:24 26:3 imposed 24:25 53:24 59:7
+57:9 headed 66:1 honestly 63:15 60:13 62:3 71:18
+64:11 health 1:8,15 Honor 74:6 79:7 impossible 6:3 76:19 82:10
+68:2 7:20 13:2 Honors 81:4 77:23 84:1,2,18
+70:4,5 14:23 15:3 hospital 60:23 impression individualized
+76:5 77:1 27:16 50:18,18 hospitals 25:3,4 24:12 46:6 13:3,3 76:7
+83:23 52:18 54:5 house 51:12 Improvement individuals
+57:14 59:7 84:5,12 14:23 82:18
+25:19 76:18 84:13 HUMAN 1:8,16 77:18 inertia 8:15,21
+57:6 73:5 healthy 49:10 hurt 30:15 inclination inextricably
+59:6,15 60:20 Husker 10:15 79:19 32:9
+hear 23:12 47:3 53:7 71:7 include 28:11 32:24
+73:22 heard 29:24 17:10 34:15 includes 10:6 61:22
+77:5 40:18 79:4 income 61:10,11 information
+26:10,21 35:7 idea 9:6 29:11 21:3,6 initial 29:5
+48:6,8 identified 37:4 56:7 61:15 inject 74:17
+78:15,17 80:3 82:13 73:11 74:22 52:1 54:14
+22:4 34:3 73:7 II 22:25 25:21 4:5 14:18 73:6
+help 18:5 III 2:5 3:9 34:12 independently insignificant
+48:9,23 helpful 72:17 34:14 56:25 12:23 17:22 68:24
+60:18 helping 24:7 illnesses 64:12 80:6 instance 5:12
+54:2 58:18 59:8 imagine 32:1 78:6 institution 32:21
+history 17:25 immediately indication 50:4 23:10
+71:6 56:3 69:20 44:6 82:9 48:16 36:17 41:14
+hoc 67:23 important 28:8 indispensable 42:4,5,13,21
+60:17 holding 13:23 58:8 61:4,13 individual 4:12 49:2,11,16,21
+58:12 10:7 11:16 10:10,18,24 65:17 67:13,14 Kneedler 2:2
+59:12 12:1 24:17,18 11:7,18 12:7 67:15 68:22 3:6 28:17,18
+62:20 25:8 28:10 12:16 13:11,21 69:4,7 70:12 28:20 29:19
+68:18,21 31:7 37:9,13 14:20 15:10 70:13,18 71:5 30:1,12,23
+71:16 37:19 40:25 16:11,21 17:7 71:14 72:13 31:15 32:13,15
+53:21 54:15 17:8,10 18:5,7 73:9 74:13,21 33:4,12,15,18
+55:24 56:16 18:10,14,23,25 74:24 76:21,22 34:10,18,22,23
+76:19 57:10 60:13 19:5,9,12,19 77:5,24 78:1 35:24 36:7,23
+73:1 75:5 76:6 22:20,22 23:20 81:9,20,22,23 39:7,16,18,21
+17:23 83:23 84:2 25:24 26:7,11 Justices 18:16 41:6,10,17,22
+22:23 issues 28:23 26:16,17 27:8 38:7 42:16 43:4,12
+44:2 30:5 27:10,15,25 justiciability 43:14 44:4,10
+75:14 item 38:24,24 28:15,20 29:10 33:6 37:24 44:14,18,25
+17:13 31:6,21,22,24 K 46:7,13 47:21
+21:5 J 31:25 32:15,18 Kagan 11:7,18 48:2,7,10,13
+51:6,14 J 11:22 33:11,12,16 12:7,16 13:11 49:5,12,15
+82:21 jewel 69:23 34:1,14,15,22 13:21 21:6,12 50:2 51:4,10
+jewels 83:24 34:24 36:5,7,9 22:19 39:16,19 52:3,23 53:8
+17:4 join 61:8 37:1,8,12,18 59:9,21,23 55:5 56:23
+39:10 judges 14:7 39:5,16,19,22 1:7 know 5:10 9:12
+judgment 14:11 40:6,9,15,19 keep 17:6 28:7 13:7 14:8
+34:17 41:16,18 42:1 83:2 17:22 18:3
+67:1,6 35:25 36:5,10 43:13,18,20 18:7,10,14,25 23:2,15 24:11
+44:13 45:17 46:1,5,8 36:5,9,10,24 37:20 41:3
+jurisdictional 49:9,13,23 52:19 53:4 63:16 65:17,22
+Justice 2:3 4:3 55:2 56:22 key 24:22,24 83:3
+6:3,12 9:9,20,23 10:2 65:8,9,12,15 kinds 15:11 23:3 lack 44:11
+80:25 69:20 83:20 29:15 42:7,12 17:2 19:17
+31:7,9,11 74:11 82:10 84:1,3 26:6,14 27:2
+38:17,21 37:18 72:18 16:24 38:9 71:17 38:12 39:22
+47:10 73:9 78:1 44:20,21 63:6 mandates 16:3 42:16 44:24
+61:23 level 21:2 24:5 67:24 76:1,2 72:11 46:21 47:11
+69:5 light 8:22 81:3 mandatory 5:14 50:5 51:5
+limit 22:15 36:1 looks 9:7 59:25 8:1 13:20 61:24 65:1
+30:22 35:25 80:15 73:15 71:9 75:11
+35:9,13 limp 12:22 Lopez 64:17 manner 4:20 77:22 82:16
+38:20 line 7:11,13 66:13,15 12:24 13:13,18 meaning 64:15
+51:11,13 11:15 17:1 Los 34:20 14:9 19:3,15 67:25
+54:24 29:18 40:18,23 lost 42:13 69:13 March 1:19 means 10:20
+64:6 67:7 41:4,9 50:10 69:15,18 market 4:25 40:17 64:16,22
+73:20 61:6 62:14 lot 13:12 16:13 12:4 46:16 65:2
+34:25 19:17 lower 57:12 59:17,18 77:19 42:25 43:2,10
+45:3,4 list 47:11 58:19 59:2,3 77:20 82:20 43:15 52:11
+53:21 litigation 29:13 82:21 markets 57:11 54:11
+77:25 29:18,21 71:1 lowered 53:5 64:11 Medicare 25:3
+68:8 69:15 24:9 27:18 55:22 49:18,20,20
+23:22 loaf 12:11,11,11 72:11 15:18 68:17
+45:8 12:13,13,17 M master 23:10 menus 78:8
+77:15 22:4 48:9 magnitude 5:3 materials 67:21 merits 38:5
+long 52:17 56:10 main 45:8 mathematical middle 16:16
+27:11 look 7:5,25 9:10 majority 14:1 matter 1:21 7:13 million 42:12
+70:25 9:11,20 11:15 29:7 45:18 8:6 10:7 17:12 48:23 49:15,21
+11:21 15:25 51:11 78:3 18:2 29:5 52:24
+11:3 22:15,22 23:2 33:6 38:8 39:9 47:23 49:19
+16:25 25:2 38:10 mandate 4:12 73:18 85:4 57:11,12
+18:17,18 39:5,11,23 4:16,17,25 6:1 matters 37:23 mind 58:9 77:14
+20:7 40:4,5 44:5,22 6:4,11 7:15 8:8 53:22 minimum 7:9
+39:11 50:15 51:19,22 11:11,23 12:9 mean 6:14,17 28:24 33:9
+50:3,4 54:22 63:22 22:24,25 24:16 7:3 8:17 10:13 40:23,24 41:11
+48:20,22 necessity 79:18 offering 52:8,9 56:25 party 17:15,16
+50:6,19 need 17:10 offset 42:6 order 5:2 82:20 32:19 33:25,25
+49:11 72:1 offsets 16:4 ordinarily 48:3 pass 17:23
+57:8 83:20 off-the-cuff original 81:15 passage 27:11
+60:2,4 needed 81:13 24:12 26:7 ought 30:19 passed 5:14 7:1
+63:7 needy 25:5 oh 79:21 83:4 57:7 10:19 13:19
+66:11 never 29:24 35:6okay 10:12,15 outset 57:4 16:9,12 17:20
+67:20 35:17 36:17 10:16 13:5 out-of-pocket 19:7 27:7,13
+39:22 46:25 14:21 19:23 62:15 39:12 51:11,13
+70:4 new 20:11,13 22:24 23:1 overall 62:5 51:15 68:9
+75:1 36:18 42:7 24:4,10 25:3 overturn 35:10 passes 46:22
+77:3 73:19 77:14 old 57:13 59:14 path 8:4 9:2
+78:25 nice 58:2 70:7,11 P patient 4:22 7:6
+81:11 nondiscrimin... older 59:11 P 4:1 51:18,23 83:21
+60:5 76:25 once 19:6 28:4 package 34:8 83:25
+note 80:16 82:10 56:4 60:4 70:1 3:12 4:8 81:7
+notion 48:18 51:9 68:16 63:23 75:23 76:13,20 82:2
+17:16,16 58:21 12:23,24 13:18 parallel 31:16 people 4:25 5:19
+73:15 81:3 43:11 46:17 part 13:24 14:16 40:5 41:13
+numerous 65:2 operated 13:14 25:5 51:2 48:23 49:15
+nurses 23:6 14:17 42:19 62:11 63:15 50:25 51:1
+38:3 objective 18:1,2 15:7 68:18 82:11,17 58:9,11,16,21
+18:14,15,20,22 opinion 14:15 participants 59:5,10,13,14
+66:2,17 obviously 58:12 opt 62:8 31:1 74:8 percent 5:7 61:5
+64:25,25 occasions 65:2 oral 1:21 3:2,5,8 parts 16:12 61:17
+offer 52:7 4:8 28:18 17:12 79:15 perfect 12:12
+33:5 34:11 poverty 61:6 prior 45:1 52:16 proposition 9:16
+53:16 61:25 35:25 36:12,15 probability 10:16
+28:1,6,7 66:8 70:3 44:13 64:6 probably 80:10 14:7
+77:12 80:14 powers 22:3,14 problem 8:12 protection 4:22
+2:1 3:4,13 pointed 11:12 practice 21:7 57:24 59:9 protections
+29:2,8 81:8 23:5 40:22 preceding 66:6 63:8,20 67:15 56:15
+68:15 81:23 preferred 45:13 problems 20:3 proves 21:13
+policy 13:6,6,7 premium 58:4 17:19 13:4 36:19
+30:1,6 political 39:13 7:9 58:1,7 process 16:6 providing 4:22
+33:20 politics 79:22 61:14 82:21 35:16,17 39:11 7:5
+44:5 pool 59:5,10 present 55:12,16 70:19 74:3,17 provision 5:14
+77:16 82:19 presumably products 75:15 7:19,24 8:1
+75:23 position 25:13 presumption programs 62:24 27:18 28:24
+54:20 57:5 pretty 23:12 promise 23:4 30:14 33:9,19
+71:5,11 72:13 49:21 promoted 19:25 36:1,15 40:23
+36:8 74:7 price 24:23 43:25 64:25 50:22 51:22
+57:3 possible 47:8 27:16 56:8 70:8 78:21 52:18 53:2,12
+58:2 60:14 57:22 58:13,14 properly 33:7 53:18 55:14
+16:7 30:22 32:5 prices 5:11,18 70:6 60:14,16 63:8
+21:14 66:18 57:13,19 propose 23:16 64:4,21,24
+26:7,15 post 67:23 principal 81:25 23:19 66:11,21 68:12
+27:3 postpone 60:7 Printz 31:16 proposed 25:16 69:24 71:7,10
+73:4,5,7 79:10,10 82:18 Randall 21:17 22:2 36:18 reject 29:2 47:5
+75:2,24 82:20 range 70:24 45:17,18 49:5 rejected 6:1,6
+puts 73:12 ratchet 20:21 53:10 64:13 rejects 14:1
+77:15 rates 17:17 30:6 79:1,17 82:24 related 22:8
+78:25 Q 30:8 49:18,20 reasons 33:5 26:9,9 31:8
+83:5 quarrel 74:24 53:22 55:22 65:22 72:19 relatively 75:13
+9:12,13 question 6:2 59:1,3,6,8,14 16:13 relevant 5:23
+10:8 7:13,16 8:13 59:17 76:18 reauthorized relief 33:24
+13:10,16 8:19,21 10:5 rating 4:20 5:1 16:14 34:19 36:3
+15:12,18 12:10,21 13:13 5:25 6:4,12 reauthorizing rely 14:15 19:13
+16:24 14:25 17:3,5 12:1 13:4 14:22 63:18
+21:18,19 18:4 20:9,10 24:18,19 25:7 rebuttal 3:11 relying 55:2
+25:19 20:10 22:20,21 28:10 41:1 81:7,23 82:7 64:9
+27:14,19 29:6 33:1,13 53:21 55:25 rebutted 20:14 remainder
+29:7 35:11 37:9 56:16 57:10 recognize 8:20 28:14
+31:6,8 38:6,7 40:13 60:13 62:25 recommended remained 36:16
+32:20 40:16,19 43:20 69:22 70:5 25:18 45:16
+33:8 45:6 47:3 50:3 75:5 76:6 77:1 reconsider remaining 9:15
+36:13 51:10 54:16 82:11 83:12,15 35:19,20 71:12 81:6
+68:5 69:14 83:23 84:2 record 67:21 remains 61:17
+45:12 70:9 72:13,20 ratings 11:16 redo 14:24 remedial 9:7
+48:21 76:1,4 77:5 67:18 68:2 reduces 74:21 13:23 34:16
+79:1,25 81:24 ratio 72:7 redux 28:13 35:25
+51:2 questioning rational 17:12 references 83:17 repeal 73:16,18
+53:6 71:15 18:2 referring 66:16 73:19
+55:14 questions 5:21 reach 18:20 70:14 repeatedly
+57:6,9 34:13,13 37:4 reached 14:16 reflected 53:19 30:24
+68:16 37:14 72:3 reaching 50:1 59:24 report 47:25
+77:1,4,7 quickly 27:7 read 11:23 23:3 refocus 77:5 68:8
+78:5,13 quite 6:2 27:6 41:5 80:1 83:3 reforms 40:24 request 45:4
+79:2 36:14 52:19 reading 23:17 42:4 46:17 requesting 15:7
+83:16 55:3 63:15,22 77:20 refused 21:10 require 80:7
+78:4 realistic 47:22 regardless 63:1 64:10 66:10,14
+45:8 52:1 R 4:1 12:25 16:18 66:25 67:1 reserve 28:14
+81:12 Raich 66:24 19:18 26:10 regulatory residuum 84:15
+51:18 raised 57:13 45:7 46:2,5 reimbursed resolved 38:9
+35:12 raising 62:15 82:12 reimbursement 52:3 61:2 64:7
+73:21 rampant 60:17 reason 21:10 30:4,6,8 49:20 78:15
+3:7 28:19 16:11 18:23 17:10 18:5 66:9 shell 16:7,9,12
+15:11 27:10 28:15 31:6,25 34:22 13:17 14:5 26:3 48:9
+84:25 33:16 36:9 38:22 40:9 separate 17:12 40:1
+25:15 41:16,18 42:1 46:1,5,8 47:24 separated 34:8 55:15
+43:7,8 42:24 43:9,13 49:1 50:25 separately 16:17 show 60:23,23
+45:4,7,9 49:23 51:16 51:5 58:23 80:6 71:25
+63:14 56:22 70:13,18 59:1 61:20,25 separation 22:3 showing 73:12
+71:14 80:19 65:6,8,9,12,15 22:14 74:2
+81:5 84:20 65:17 73:9 serve 23:7,25 shown 56:2
+rule 20:11,13 79:10,13 66:17 side 21:24 33:1
+ruling 74:10 77:5 1:16 80:17
+scratch 15:1 sever 13:16 69:12
+salvage 15:8,9 66:9,22 70:14 severability 9:7 simple 39:1
+saver 6:18,19 SECRETARY 15:20 19:11 simplest 19:22
+10:3,4,10 22:22 29:13 section 64:17 29:24 31:19 60:13 63:6
+11:9 46:25 47:4 66:24 32:14 33:23,23 67:2 72:14
+21:7,11 49:10 50:2 see 13:5 32:8 37:4 38:6,8,12 81:24 84:5,16
+27:24 52:20 54:13 39:11 65:4 39:19 45:5 single 14:3
+40:13 67:3 68:23 seek 71:22 47:6 63:24 25:15 34:4,6
+48:10,13 74:18 77:21 seeking 53:1 70:9 72:21 sit 32:6
+60:24 says 9:12 19:14 seeks 36:3 74:11 78:21 situation 7:22
+69:3 19:20,23 20:12 seen 60:11 72:5 79:18 80:2 13:2 37:3
+25:20,21 32:1 segue 21:14 83:9 84:24 39:13 84:7
+65:24 66:9 60:8,16,19 severed 77:8 skyrocket 5:2
+68:24 81:10 82:7 selling 62:21 73:10 slightly 11:2
+70:12 83:1 Senate 10:21 SG 23:13 68:1 small 50:22,24
+scale 20:22 73:18 share 25:4 52:8
+63:24 spoke 57:23 stay 79:22 83:13 subsidies 61:2,4 Supreme 1:1,22
+72:24 standard 17:11 51:17 subsidizes 62:14 surely 16:23
+standardized strange 33:22 73:24 75:19,19 27:14 31:25
+65:8 31:3 32:21,22 strike 7:14,24 43:21 68:24 57:15 58:19
+25:25 standpoint 15:19 21:20,25 substantially 62:8 64:23
+37:20 22:14 22:7 25:18,20 54:3 70:7,11 73:23
+68:19 start 8:2 11:5,7 25:21 26:14 substantive systems 72:4
+83:14 15:1 61:14 28:13 35:16 44:23
+6:13,21 started 32:18 46:19 80:4 Sub-finding T 3:1,1
+7:10,23 starting 26:7 81:17,18 84:1 82:5
+9:1 17:7
+20:8 60:2 striking 6:19 sufficient 67:12
+22:21
+32:18 66:5 strong 16:7 16:18 18:11 46:11 53:20
+37:8,12 States 1:1,22 strongest 15:14 23:9 25:22,24 55:25 62:1
+38:2 5:10,24 6:18 struck 10:13 36:13 65:22
+72:20
+48:5,8
+55:7 60:1 14:3 21:17 83:10 74:14 75:1,4
+49:9,13 60:12 62:17,19 22:9 23:13 suggested 39:23 76:12 77:15
+69:7 62:23 63:2,6 26:21 29:17 50:10 80:12 82:18
+67:4 72:4,8 30:18 31:17 suggesting 8:23 taken 7:19
+statute 7:18 8:11 43:11 45:7,15 suggestion talk 21:4 58:7
+45:13,23 51:3 38:12 44:22 support 61:21 32:17 44:19
+73:5 74:15 61:9 67:23 supports 13:22 70:12 72:6
+63:25 82:11 83:21 stuck 84:9 suppose 17:15 80:17,20,21
+statute's 74:15 56:12 supposed 12:3,4 talks 9:24 47:5
+84:14,16 36:4 46:25 67:12,19 68:4 81:16,21 15:19 17:21
+59:12 61:19 70:8 71:5 total 24:12 31:10 32:4
+28:11 76:17 80:3,15 74:1 75:2,4,7,8 toto 35:20 71:9 73:8
+32:1,1 things 7:2,7,8 75:12 77:10,12 touched 21:20 84:19
+11:20 14:21 78:19,21 79:17 traditional 56:9 undercut 64:20
+53:3 15:2 16:20 80:8,10,16 56:12 64:23 66:14
+56:9,11 20:6 30:5 83:4,19 84:17 traffic 66:25 underserved
+35:21 47:5,12 thinking 31:21 67:6,7,8 23:7,25 24:8
+56:4 58:6,17 75:10 true 5:6 10:2 43:19 52:19,22
+41:20 72:5 77:12 thought 9:11 62:1 65:15 understood
+think 5:23 7:2,3 14:9 39:1,8 78:4 76:21
+9:4 10:24 11:8 thoughts 71:2 39:25 42:18 13:4 76:19
+18:18 20:19 thrown 49:16 tumbling 73:23 67:4 77:14
+23:14 21:11,12,13,16 ticks 20:22 turn 24:21 38:5 unobjectionable
+21:22 22:2,13 tied 11:11 15:23 47:15 63:11 27:21
+38:10,11 30:23 31:25 60:24,25 68:11 33:5 37:14 34:25 38:23
+42:17 32:13 33:4,8 72:23 84:7 48:12,23 49:12 51:7
+48:14 33:14 34:24 times 18:9 38:3 49:15 51:17 unrelated 17:17
+55:6 35:24 36:23 43:16 55:14 57:9 46:16 50:19
+37:1,23 38:7 title 25:5,20,21 58:6 63:4 68:3 52:12
+63:16 40:20 41:22,22 51:17 66:24 79:14 25:25
+44:4,18 45:10 titles 22:25 type 71:18 22:12
+81:4,5 46:17,21 47:8 today 49:13 59:19 61:21
+47:21 48:11 71:15 74:25 U unwind 49:19
+20:23 56:3 57:5 77:9 79:18 uncommon use 26:7 30:4
+22:4 59:23 60:10 81:14,18,25,25 46:22 56:9 67:25
+29:15 63:12,20 65:4 82:1,2,2 unconstitutio... useful 64:16
+67:11 27:3,25 28:7 72:20,25 73:2 Y 32:1 62:21
+28:12 32:23 73:11 84:9 year 23:17 60:25 250 62:13
+77:25 whatnot 52:15 68:18 84:6,11 2700 16:17
+34:21 wanted 8:10 9:9 willing 73:2 York 77:14
+9:18 21:23 wise 37:15 young 59:15 3
+78:12 55:13 57:16 word 14:3 23:4 30 5:8
+18:8 74:16 75:22 9:15 12:3 $3.2 48:25 350 42:6,8,9,12
+Washington 19:18 24:20 $350 42:14 43:22,22
+35:14,18 47:17 82:2 83:17 83:12,17 43 66:8
+70:22 67:4 69:3 works 7:7 59:12 42:15 54:7
+75:19 world 30:20
+83:14 worse 12:18
+1:13 4:6 6
+6 83:8
+85:3 60 73:17,19
+79:7 wellness 78:7 27:22 39:20
+52:23 60-year-old
+81:11 wreck 33:2 2 64a 75:23
+17:16 48:23 68a 75:25 76:8
+73:17 we'll 21:24 60:3 write 68:23
+83:13,16
+38:16
+8:3 9:5,16 19:19 20:24 7 19:13 43:23
+18:4 21:1 42:11,21
+32:17
+38:23 80 61:6
+10:9 12:10 x 1:2,9,11,17 2012 1:19 73:8
+44:15,16 801 66:24
+17:25 32:2,2,4 2014 72:23
+51:6 81 3:13
+19:21 2020 81:1
+63:17
+26:5 Y 21 66:24 9
+71:15
+60:12 62:23
+64:17

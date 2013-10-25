@@ -1,0 +1,1680 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+UNITED STATES, :
+Petitioner : No. 11-192
+v. :
+JAMES X. BORMES :
+- - - - - - - - - - - - - - - - - x
+Washington, D.C.
+Tuesday, October 2, 2012
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 11:02 a.m.
+APPEARANCES:
+SRI SRINIVASAN, ESQ., Deputy Solicitor General,
+Department of Justice, Washington, D.C.; on
+behalf of Petitioner.
+JOHN G. JACOBS, ESQ., Chicago, Illinois; on behalf of
+Respondent.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+SRI SRINIVASAN, ESQ.
+On behalf of the Petitioner 3
+ORAL ARGUMENT OF
+JOHN G. JACOBS, ESQ.
+On behalf of the Respondent 31
+REBUTTAL ARGUMENT OF
+SRI SRINIVASAN, ESQ.
+On behalf of the Petitioner 54
+P R O C E E D I N G S
+(11:02 a.m.)
+CHIEF JUSTICE ROBERTS: We will now hear
+argument in Case 11-192, United States v. Bormes.
+Mr. Srinivasan.
+ORAL ARGUMENT OF SRI SRINIVASAN
+ON BEHALF OF THE PETITIONER
+MR. SRINIVASAN: Thank you,
+Mr. Chief Justice, and may it please the Court:
+This Court's decisions have long established
+that Congress will be deemed to have waived the
+Government's sovereign immunity only if it unequivocally
+expresses its intent to do so.
+JUSTICE SOTOMAYOR: Under your view, is
+there any situation today where the Tucker Act would be
+applied to a statute? Because if we start with the
+statute, which always seems to be where you're pointing
+us to, and we're only looking for a clear waiver of
+sovereign immunity, then there'll never be another
+Tucker Act action in the future.
+MR. SRINIVASAN: There are such statutes,
+Justice Sotomayor. Of course --
+JUSTICE SOTOMAYOR: What would they look
+like to be able to get around our clear statement rule?
+MR. SRINIVASAN: Well, they would have two
+features consistent with this Court's decisions that
+have found the Tucker Act to be applicable. One would
+be that the statute does not contain its own remedial
+mechanism, and the second would be that the substantive
+obligations in the statute run against the United
+States, and the United States alone.
+And an example of that type of statute is
+the one that this Court found to be supported by the
+Tucker Act in White Mountain Apache Tribe or in Mitchell
+II. Those are the kinds of statutes as to which I think
+the Tucker Act was meant to apply.
+JUSTICE SOTOMAYOR: So basically -- I'm not
+sure why we're even addressing the issue of Tucker Act
+jurisdiction. We should have really just been briefing
+the issue of whether the statute at issue here waives
+sovereign immunity --
+MR. SRINIVASAN: Well, of course --
+JUSTICE SOTOMAYOR: -- because that becomes,
+to you, the operative question.
+MR. SRINIVASAN: It does when they're
+dealing with the statute like this.
+And, of course, the reason that we're
+addressing Tucker Act immunity is because Tucker Act
+immunity is the basis for jurisdiction in this case
+according to the reasoning of the Federal circuit.
+And the problem with the reasoning of the
+Federal circuit is it allows the litigant to readily
+circumvent the Court's strict test for sovereign
+immunity waivers by the straightforward device of
+adding the Tucker Act as a jurisdictional basis in the
+complaint.
+And it's not at all clear why a plaintiff
+couldn't do that for any claim under any statute,
+including a statute as to which this Court would have
+already concluded that the unequivocal expression test,
+the standard test applied for waivers of sovereign
+immunity, was not satisfied.
+Now, to give the Court a concrete example of
+this, in Lane v. Pena, the court concluded that for
+Rehabilitation Act claims under Section 504 of the
+Rehabilitation Act, there was no unequivocal expression
+of an intent to waive sovereign immunity by Congress for
+purposes of damages claims; and, therefore, a
+damages claim can't be brought against the United States
+under Section 504.
+But under the Federal circuit's approach,
+there's no apparent reason why a plaintiff couldn't
+bring a damages claim against the United States for a
+violation of Section 504 of the Rehabilitation Act by
+adding the Tucker Act to the jurisdictional bases in the
+complaint. Because if the plaintiff were able to do
+that, notwithstanding this Court's decision in
+Lane V. Pena, the result would be that the plaintiff
+could say, the Federal circuit, you should look at the
+statute and ask the question whether it can be fairly
+interpreted to mandate the payment of money by the
+Government.
+There's no unequivocal expression of an
+intent to waive sovereign immunity, but that doesn't
+detract from the ability of the Federal circuit to
+conclude that the statute, nonetheless, can be fairly
+interpreted to mandate the payment of money.
+Now, of course, if that issue were to arise,
+we would make the argument that the statute can't be so
+read. But the possibility that a plaintiff could make
+that argument, notwithstanding this Court's decision in
+Lane V. Pena, we think reinforces the need to
+conclude -- to conclude that the Tucker Act can't be
+applied in the way that the Federal circuit sought to
+apply it here.
+JUSTICE SOTOMAYOR: Could I ask you --
+JUSTICE GINSBURG: Mr. Srinivasan --
+JUSTICE SOTOMAYOR: I'm sorry, I was going to
+ask -- following up on my question --
+MR. SRINIVASAN: Sure.
+JUSTICE SOTOMAYOR: -- many courts have held
+that the FLSA has an express waiver of sovereign
+immunity. And many of them have recognized, if not all,
+a Tucker Act remedy.
+Under your new approach, that holding is
+incorrect, I presume --
+MR. SRINIVASAN: Well, the --
+JUSTICE SOTOMAYOR: -- because the FLSA has
+its own remedial scheme?
+MR. SRINIVASAN: I think one -- one way to
+look at the FLSA, if we're looking at it in the first
+instance, would be to conclude that the FLSA itself has
+a waiver of sovereign immunity. And so you wouldn't
+look to the Tucker Act as the basis for the waiver of
+sovereign immunity, and you would look at FSLA in the
+way that we think you should look at FCRA -- excuse me,
+the Fair Credit Reporting Act, or FCRA.
+Now, Your Honor is correct that there is a
+body of court of claims jurisprudence that doesn't
+necessarily view the statute in that way. But if you
+apply the framework that we think is the correct one to
+apply, as we set forth in our brief, you might reach the
+same conclusion under the Fair Labor Standards Act,
+although under a slightly different route.
+JUSTICE SOTOMAYOR: But then the Federal
+circuit has no jurisdiction over those claims, according
+to you, because the waiver is in the FLSA, it has its
+own judicial remedy. They're not authorized, then, to
+go to --
+MR. SRINIVASAN: Well, it would depend.
+There is a little bit of an anomaly in the FLSA because
+the FLSA doesn't necessarily point to any particular
+court as the basis of jurisdiction.
+JUSTICE SOTOMAYOR: It has the same language
+as here, in -- you can bring your suit in any Federal or
+state court of competent jurisdiction.
+MR. SRINIVASAN: Right. It says: "In any
+Federal or state court of competent jurisdiction," but
+this statute specifically allows for claims to be
+brought in district courts and a court of competent
+jurisdiction.
+So one way --
+JUSTICE SOTOMAYOR: I don't know -- I don't
+see the difference between --
+MR. SRINIVASAN: Well, I think one way to
+potentially see the difference -- and I'm not going to
+quibble with -- with what Your Honor's saying, but one
+way to potentially see a difference is because the FLSA
+only refers to courts of competent jurisdiction -- it
+doesn't have a free-standing provision that reversed the
+district courts -- it's possible to read that statute as
+essentially incorporating the Tucker Act as setting
+forth what the court of competent jurisdiction would be.
+Here, 1681(p), which is set forth at 13(a)
+and 14(a) of the appendix to the Government's brief,
+speaks specifically about actions being brought under
+FCRA in any appropriate United States District Court,
+and then only, it goes on to talk about, or in any other
+court of competent jurisdiction.
+So that's a potential basis for drawing a
+distinction between the two.
+JUSTICE KAGAN: Mr. Srinivasan, what you say
+has a good deal to recommend it, and it's basically, you
+know, why should we read the Tucker Act to reverse
+everything that we know about sovereign immunity, but
+it's really hard to get that from the text of this --
+the Tucker Act.
+In fact -- I mean, I guess my question is:
+Do you have any textual argument for the result that you
+are asking us to reach?
+MR. SRINIVASAN: Sure. I do, Your Honor.
+The text of the Tucker Act, it's true, if you read the
+text to apply to its full potential reach, then the
+argument would be more difficult; but, the text of the
+Tucker Act has never been read that way, including by
+this Court itself, starting with Nichols v. United
+States --
+JUSTICE KAGAN: Well, that's not really a
+textual argument. That's an argument about how we've
+sensibly limited the reach of the Tucker Act. But the
+Tucker Act does seem to include what your friend there
+says it includes --
+MR. SRINIVASAN: Well, I guess --
+JUSTICE KAGAN: -- against any statute. Not
+any statute except the ones with remedial provisions,
+but just any statute.
+MR. SRINIVASAN: Sure. I guess you -- you
+-- if you read the Tucker Act to its full textual reach,
+I think we would have a more difficult case. But our
+argument is that when the statute refers to claims
+founded on any act of Congress, it was never intended to
+apply literally to any conceivable act of Congress.
+And, in fact, this Court's own test for money
+mandating -- the money mandating test that applies to
+the Tucker Act embodies that understanding because --
+JUSTICE SCALIA: I assume you're appealing
+to the textual principle that the specific governs the
+general. Isn't that what's going on here?
+MR. SRINIVASAN: We're appealing --
+JUSTICE SCALIA: That the Tucker Act is a
+more general provision, and you are saying it's -- it's
+overcome by a more specific provision that provides for
+compensation, but excludes the Federal Government.
+MR. SRINIVASAN: We're certainly relying on
+that, Justice Scalia, when you're asking whether the
+Tucker Act can be used as the basis for waiving
+sovereign immunity for claims under the Fair Credit
+Reporting Act. So when you bring the Fair Credit
+Reporting Act into play, yes, we're absolutely relying
+on the specific versus the general proposition, as this
+Court has relied on in any number of cases.
+I guess I understood Justice Kagan's
+question to be talking about the Tucker Act and the
+Tucker Act alone, without bringing into play any other
+statute. Now, I take Your Honor's point that it's hard
+to conceive of the Tucker Act in that kind of isolated
+fashion, because usually you'll be asking a question
+whether a claim can be brought against the United States
+under some other statutory regime.
+And so if that statutory regime includes its
+own remedial mechanism, as FCRA does, it's hard to avoid
+resort to the specific control as a general proposition.
+But the other point about construing the
+text of the Tucker Act alone is that the Tucker Act is a
+waiver of sovereign immunity. And so the canon that we
+construe waivers of sovereign immunity strictly comes
+into play when we construe the terms of the Tucker Act
+itself. And I think it stands to reason that when you
+apply that canon, you wouldn't read the Tucker Act to
+encompass fully any act of Congress, because the
+implications for waivers of sovereign immunity would be
+quite substantial.
+And so the Court has never construed the
+Tucker Act that way, and it shouldn't countenance that
+kind of construction now, which is effectively what the
+Federal Circuit's interpretation allows, because, rather
+than applying the strict standard under which Congress
+would have to be seen to have unequivocally expressed an
+intent to waive the Government's sovereign immunity in
+the terms of FCRA, it allows a plaintiff to avoid that
+by simply resorting to the Tucker Act in the
+jurisdictional basis of a complaint, and getting the
+real act by the Federal Circuit's own description
+standard that applies to the Tucker Act.
+JUSTICE GINSBURG: The United States -- the
+United States is governed by the substance of the Credit
+Reporting Act. The Act applies to the Government, but
+your point is there's no sanction for
+noncompliance, even though the United States, a
+Government system, is supposed to conform to the
+standards in the Act.
+MR. SRINIVASAN: Well, I guess a few
+responses, Justice Ginsburg. First, on the question of
+whether the United States is subject to the substantive
+obligations in FCRA, I don't know that's there's a one
+size fits all answer. I think you'd have to go
+provision by provision and make an assessment.
+And the reason I would say that is that,
+with respect to certain provisions at least, there are
+other statutes that, depending on the provision, have a
+specific obligation against the Government. And I'm
+thinking in particular of the Debt Collection
+Improvements Act, the Privacy Act in certain contexts.
+And so you have -- you have to ask the question whether,
+with respect to the particular FCRA provision that's
+alleged to run against the United States, would the
+better basis for finding the United States' obligations
+be some other statute that speaks more specifically to
+the question.
+So I'm resisting the notion that the -- the
+FCRA's references to "person" in all of its substantive
+obligations would necessarily encompass the Government.
+Now, there's at least one provision as to which we don't
+deny that the Government is covered, and that's
+1681(b)(b)(b), and that provision is set forth at pages --
+at page 7a of the appendix to the Government's brief.
+And with respect to the particular provision
+at issue in this case, the truncation provision, I guess
+we don't have to confront the question of whether the
+Government is bound by that provision. It might well
+be, but we don't have to confront that question, because
+the Government acts as if it's in compliance with that
+provision because it has to.
+There's a series of network agreements that
+the Government has entered into with credit card
+companies that allow the Government to participate in
+the credit card system. As a condition --
+JUSTICE SCALIA: Excuse me. 1681b(b)(b),
+you said? Where is that case?
+MR. SRINIVASAN: 1681(b)(b). If you look
+at --
+JUSTICE SCALIA: You said 7a.
+MR. SRINIVASAN: Well, I'm sorry. It starts
+at 4a. And the -- 4a, permissible purposes of
+Government reports; the conditions for furnishing. And
+then if you go to 7a -- that's also part of (b)(b) --
+b(b)4 has an exception for national security
+investigations. And it talks at (b)(b)(4)(A) about "in
+the case of an agency or department of the United States
+Government which seeks to obtain and use." And because
+there's a reference to the United States Government in
+that provision --
+JUSTICE SCALIA: Right.
+MR. SRINIVASAN: -- it stands to reason that
+the term "person" in (b)(b) -- which starts at 4a;
+excuse me -- encompasses the United States Government.
+I guess the short answer, Justice Ginsburg,
+is I don't think that there is a one size fits all
+answer. But the other part of your question is, are we
+taking the position that even if substantive obligations
+run against the United States, there still wouldn't be a
+remedy, at least a remedy in damages against the United
+States? And the answer to that is yes.
+But that's not at all atypical under this
+Court's sovereign immunity jurisprudence, and it's not
+at all atypical for Congress to have fashioned a scheme
+that runs in that way. And the Privacy Act at least is
+one example, where in the Privacy Act, which applies to
+the Government and the Government alone, there are
+certain obligations that the Government has to comply
+with in that statute.
+But Congress is very careful to cabin the
+circumstances in which the Government would be subject
+to liability and money damages.
+JUSTICE SCALIA: Still in all, your argument
+is -- is not just a straightforward specific governs the
+general argument. I mean, that would be the case if --
+if the other statute which the plaintiff is trying to
+run around through the Tucker Act specifically -- it
+clearly prohibits suit against the Government. Then you
+would say, you know, the specific governs the general
+even though the govern -- the Tucker Act permits it; this
+statute prohibits it.
+But you're saying this other statute here
+does not really prohibit it. You're just saying this
+other statute does not permit it under our usual rules
+about waiver of sovereign immunity being strictly
+construed. So, you know, it's a -- it's a -- it's a
+difference -- it's an odd sort of a specific governs the
+general argument.
+MR. SRINIVASAN: I think, with respect,
+Justice Scalia, I think that's a distinction that
+ultimately doesn't make a difference in the context of
+this case. In the prior cases in which this Court has
+applied the specific over the general canon in related
+contexts, it's true that the statutes in some situations
+contemplated liability against the United States, but it
+had -- that statute would have certain limitations.
+And I'm thinking, for example, of Hinck, of
+Erika, of Brown v. General Services Administration,
+cases like that, and Sheehan. And what the Court said
+was, where a statute provides for liability against the
+United States, but in certain situations, you don't look
+to a different statute, the Tucker Act, to circumvent
+those kinds of limitations.
+JUSTICE SCALIA: No, but that's -- that's
+because the negative implication of that statute is --
+affirms that there is no liability of the United States.
+Okay? But here, you don't have -- you don't have that
+negative implication at all, do you?
+MR. SRINIVASAN: Well, I guess -- I don't
+think we need to have that negative implication to that
+full extent in order to invoke the specific versus the
+general canon, because the question at the end of the
+day is what did Congress intend? And where Congress
+enacts a specific remedial scheme that sets out the
+extent to which liability will be imposed under, in this
+case, the Fair Credit Reporting Act, it stands to reason
+that Congress would have expected courts to look to the
+remedial scheme that it established to determine to
+metes and bounds of liability, not to some other general
+default provision.
+JUSTICE KAGAN: Mr. Srinivasan --
+MR. SRINIVASAN: And therefore in that
+sense, the specific remedial scheme that's in the
+statute should control over some other general scheme
+that Congress might well not have had in mind at all
+when it set forward the terms under which claims can be
+brought under FCRA.
+JUSTICE KAGAN: How specific does the other
+statute have to be? Suppose there were another statute
+that just said any party can bring suits to enforce any
+rights against any persons under this statute.
+Would you be making the same argument?
+MR. SRINIVASAN: If -- if the statute were
+that general?
+JUSTICE KAGAN: Yes. If that's all the
+statute says. It just says any party can bring suit to
+enforce rights under this statute. So there's not a
+lot of hoopla and a lot of detail about a remedial
+scheme. Would you still say that -- this controls over
+the Tucker Act?
+MR. SRINIVASAN: I think I would, because I
+think in that context, Congress would have made a
+determination on the scope of liability for claims under
+that statute. It would have given thought to that
+issue, and it would have set forth in a very general
+provision the metes and bounds of the liability. And
+Congress I think in that context wouldn't have expected
+anyone to look to the Tucker Act, because Congress gave
+no indication that it was thinking about the Tucker Act.
+Now, in Your Honor's hypothetical, if you
+had a statute that spoke in those kinds of general
+terms, of course, we'd have I think a very good argument
+that there would have been no contemplation of a waiver
+of sovereign immunity. So we would strongly resist the
+notion that the United States might fall within the
+compass of that general provision.
+But on the question of whether you'd look to
+that general provision as opposed to the Tucker Act, I
+think you would look to that general provision, because
+Congress in the context of enacting that statute told
+everybody: We're defining the extent to which liability
+can be asserted in court by reference to this general
+provision; this is where you ought to look, not
+somewhere else.
+Now, one other --
+JUSTICE SCALIA: Isn't it really -- doesn't
+the question come down to as you're putting it
+whether -- whether the Tucker Act eliminates for all
+other statutes the presumption against liability on the
+part of the United States?
+MR. SRINIVASAN: It does. I think it does.
+And I think that's quite a breathtaking proposition, and
+not one that Congress would have intended by virtue of
+the Tucker Act --
+CHIEF JUSTICE ROBERTS: Well, then it's
+really the specific governing the general, but the other
+way around, right? The Tucker Act discusses
+specifically the liability and the sovereign immunity of
+the United States, and if the statute just generally
+doesn't address it, then the Tucker Act is the specific
+one and the other statute is the general one.
+MR. SRINIVASAN: Well, it would be hard to
+square that understanding with the way -- with the
+series of this Court's cases that apply the specific
+versus general canon, because I think the same argument
+could have been made in Brown v. General Services
+Administration, in Erika, in Hinck, that if you thought
+that the subject --
+CHIEF JUSTICE ROBERTS: You'd win under this
+argument, too, right?
+MR. SRINIVASAN: I'm sorry?
+CHIEF JUSTICE ROBERTS: You win under this
+argument, too. It just seems to me that it's not quite
+right to say that FCRA -- FCRA does not specifically
+address the liability of the United States.
+MR. SRINIVASAN: Right.
+CHIEF JUSTICE ROBERTS: The Tucker Act does.
+So the Tucker Act is the one that's specific, and it
+applies instead of the general language in the -- in
+FCRA.
+MR. SRINIVASAN: It -- well, you can look at
+it that way, Mr. Chief Justice, but I guess my only
+response --
+JUSTICE SCALIA: In which case you would
+lose, not win.
+MR. SRINIVASAN: Well, that's the question
+because it depends on --
+JUSTICE SCALIA: Yes ­ you better resist it.
+MR. SRINIVASAN: -- it depends on how you
+construe the Tucker Act.
+I mean, I think Your Honor is correctly
+construing the Tucker Act's waiver of sovereign immunity
+only to apply to a certain limited subset of acts of
+Congress. And if you construed it in a sufficiently
+limited way, I suppose we could live with that result.
+But I think the better way to approach the
+question is to look at the particular remedial scheme
+that Congress enacted in the scope of the statute
+itself. And for purposes of questions of sovereign
+immunity, you'd look to that particular remedial scheme
+and ask the age-old question, countenanced by this
+Court's decisions, of whether there is an unequivocal --
+unequivocal expression of an intent to waive sovereign
+immunity in the scope of that statute itself.
+JUSTICE SCALIA: So what is covered by the
+Tucker Act? I mean, every -- every basis for suit
+against the Government, every claim that the Government
+owes you money rests upon some statutory text, doesn't
+it?
+MR. SRINIVASAN: There -- well --
+JUSTICE SCALIA: So what --
+MR. SRINIVASAN: -- not claims in contract,
+for example. Obviously, if there is an expressed
+contract with the United States, I don't know that that
+comes under a statute, necessarily, but --
+JUSTICE SCALIA: Okay. Express contracts
+with the United States. Anything else?
+MR. SRINIVASAN: The just compensation
+clause. That doesn't come under a statute, it comes
+under the Constitution, but the Tucker Act can be used.
+JUSTICE SCALIA: Okay. But anything that
+comes under a statute, you would look to the other
+statute to see whether there is sovereign immunity under
+that statute; and, if there is under that statute, then
+the Tucker Act does not overcome it.
+MR. SRINIVASAN: If that statute -- at least
+if that statute has its own remedial scheme, then you'd
+look to the remedial scheme in that statute.
+But I think this is where I started off with
+Justice Sotomayor.
+JUSTICE SOTOMAYOR: That's exactly what I
+started with. That's what I started with: Is there
+anything left to the Tucker Act?
+MR. SRINIVASAN: Right. And I think there
+is. I think the -- statutes like the one that this
+Court had before it in White Mountain Apache Tribe are
+ones.
+Another example that I could give the Court
+is there is a statute that dealt with payment of
+compensation to prisoners of war. This was the statute
+that was at issue in Bell v. The United States. I think
+it's cited in footnote 42 of the Court's opinion in
+Bowen v. Massachusetts.
+But that statute specifically set forth that
+compensation would be owed to prison -- prisoners of war
+held in captivity. That statute did not have its own
+remedial scheme. Its substantive obligation ran against
+the United States, and the United States alone, by
+nature.
+And the Tucker Act, I think, in that context
+would step in to supply a waiver of sovereign immunity
+and jurisdiction in the Court of Federal Claims. And
+the reason is that that statute has the two predicate
+conditions that we think have to be met in order to even
+raise the question whether the Tucker Act steps in.
+JUSTICE SOTOMAYOR: So the new rule is if a
+statute is written to impose obligations only on the
+Government, then the Tucker Act is implicated
+immediately. If the rule says the Government and any
+party who contracts with it -- a Medicaid provider --
+must do X, Y, and Z, and the Government and the Medicaid
+provider have the burdens of accomplishing Y, unless
+there is an express waiver of sovereign immunity, the
+Tucker Act doesn't come into play.
+MR. SRINIVASAN: I think that's --
+JUSTICE SOTOMAYOR: That's your position.
+MR. SRINIVASAN: I think that's right, Your
+Honor, but I'd qualify it in one respect, which is that
+if -- if the statute contains its own remedial scheme,
+that's an independent reason for not looking at the
+Tucker Act.
+JUSTICE SOTOMAYOR: Well, you are not going
+to suggest that if the scheme I just described says X,
+Y, and Z, have to do all these things, and someone to
+whom they owe that obligation can sue the Medicaid
+provider, for example, for breach of that obligation,
+presumably -- I'm putting in a lot of hypotheticals
+given our case law -- but you're saying they can't sue
+the Government under the Tucker Act --
+MR. SRINIVASAN: Right.
+JUSTICE SOTOMAYOR: -- unless there is an
+express waiver.
+MR. SRINIVASAN: That's right. I think you
+would look to the question of whether there's been a
+sufficiently expressed waiver in the terms of the
+statute itself, which is the traditional test that this
+Court has applied.
+JUSTICE KAGAN: How about if a statute has
+no remedial provision at all; it just lists a set of
+legal obligations, but it's a generally applicable
+statute, it doesn't concern only the United States?
+Would your argument still apply that the Tucker Act has
+no force?
+MR. SRINIVASAN: Yes, it would. I think
+it's easier where you have a remedial scheme, obviously,
+but I think it's also the case that where the
+substantive obligation is a generally applicable one and
+doesn't run against the United States alone, you'd
+still, I think, want to --
+JUSTICE KAGAN: So then your argument really
+isn't about another statute having a remedial scheme.
+In the briefs, you present it as another statute has a
+remedial scheme, of course you should look to that more
+particular remedial scheme. But you would take the
+argument and say, even if the other statute doesn't have
+a remedial scheme, we don't look to the Tucker Act; we
+just think of the Tucker Act as having a limitation that
+is not in the Tucker Act's test -- text in order to make
+the Tucker Act consistent with everything we thought we
+knew about principles of sovereign immunity?
+MR. SRINIVASAN: That's true. I mean, but I
+guess -- you don't have to reach the question of whether
+the Tucker Act applies or the statute doesn't have its
+own remedial scheme, obviously, in this case, because
+FCRA does have its own remedial scheme. Our argument
+would still apply.
+And on the question of whether we're reading
+the Tucker Act in one particular way to a subsets of
+acts of Congress, I guess one point I'd make is that the
+money mandating test that this Court has always applied
+where the Tucker Act does apply already presupposes that
+it doesn't apply to just any act of Congress, because
+the act of Congress has to be a money-mandating one.
+JUSTICE SCALIA: Say it again. I lost it.
+Give me the last sentence again.
+MR. SRINIVASAN: The last sentence, the last
+thought at least -- maybe I should try to rephrase it,
+but the last thought is that this Court's jurisprudence
+already presupposes that the Tucker Act doesn't apply to
+every act of Congress because the Court's jurisprudence
+requires that the act of Congress be money-mandated.
+So we're already in a zone in which the
+Tucker Act's reference to acts of Congress doesn't
+literally extend to every conceivable act of Congress.
+It only extends to certain acts of Congress. And I --
+JUSTICE KENNEDY: But is this a
+money-mandated statute?
+MR. SRINIVASAN: I -- if you didn't
+have -- that's -- that's -- I guess -- if you didn't
+have the remedial scheme.
+We don't get to that question,
+Justice Kennedy, because you only get to the
+money-mandating question if there is not a remedial
+scheme in the text of the statute itself and the
+substantive obligation runs against the United States,
+and the United States alone, which this one doesn't
+because it's generally applicable.
+And it's hard to conceive of that question
+in the abstract because the question is whether the
+statute is money-mandating in that it specifically
+contemplates the payment of money by the United States;
+and, precisely because the statute is generally
+applicable, I think we would say that under this statute
+it's not money-mandating, because it's not
+money-mandating in that it doesn't contemplate payment
+by the United States with relevant specificity because
+the substantive obligation is generally applicable.
+You only get to that question in a context
+like White Mountain Apache Tribe or Mitchell II, where
+the substantive obligation runs against the United
+States, and the United States alone, and where there's
+no remedial scheme embedded within the statute itself.
+And then you ask the question whether is that kind of
+substantive obligation that runs against the United
+States, is that one that's naturally conceived as a
+money-mandating.
+And on that, I think you would look at a
+couple of considerations consistent with this Court's
+decisions. One is, is the obligation one that
+necessarily deals with compensation? So, for example,
+the statute I was referring to earlier that has to do
+with compensation for -- for imprisoned prisoners of
+war, that one naturally has to do with compensation, so
+it might be money-mandating.
+In White Mountain Apache Tribe and the other
+trust cases that arise under the Indian Tucker Act, the
+Court concluded that because background principles of
+trust law would necessarily contemplate the payment of
+money, that those statutes are money-mandating.
+But the principal point here --
+JUSTICE SOTOMAYOR: Counsel, this sort of
+begs the question --
+MR. SRINIVASAN: -- is you only get to that
+question if you get past that hurdle.
+JUSTICE SOTOMAYOR: -- the statute awards
+damages for breach of the obligation, so it's
+money-mandating. The issue is not whether it's
+money-mandating; the question is who's it mandating.
+MR. SRINIVASAN: Well, right, but --
+JUSTICE SOTOMAYOR: But there is not an
+issue of whether it contemplates the payment of damages.
+It expressly awards --
+MR. SRINIVASAN: But I think the
+money-mandating test, Justice Sotomayor, is whether it
+contemplates the payment of damages by the
+United States. And I guess that's why I'm having a hard
+time addressing that question in the abstract, because
+there's a predicate condition that hasn't been
+satisfied.
+That question only naturally arises where
+the substantive obligation runs against the
+United States and the United States alone. I think
+precisely for the reason that Your Honor says, where the
+substantive obligation is generally applicable in that
+it applies to parties beyond the United States, it's
+hard to ask the question whether the statute is
+money-mandating in the relevant sense.
+JUSTICE SOTOMAYOR: I -- it is -- there is
+some difficulty with your argument, which is, going back
+to my simplified hypothetical, Government and
+Medicaid -- X providers have to do X, Y, and Z; if those
+persons, being defined as Government and providers,
+doesn't do what they have to do, they have to pay these
+damages.
+MR. SRINIVASAN: That -- I will grant --
+JUSTICE SOTOMAYOR: I mean, that's pretty
+clear.
+MR. SRINIVASAN: Well, I will grant you,
+Justice Sotomayor, that that hypo is more difficult than
+this case because, although I would construe that to be
+generally applicable, it does talk about the Government.
+It specifically references the Government, and I think,
+by Your Honor's hypothetical, the United States alone.
+It's not an undifferentiated reference to persons, which
+is what you have in FCRA.
+I still think I would call that generally
+applicable such that the Tucker Act wouldn't come into
+play, but I don't deny that it would be a closer case
+than what you have here.
+If the Court has no further questions, I
+would like to reserve the balance of my time.
+CHIEF JUSTICE ROBERTS: Thank you, Counsel.
+Mr. Jacobs.
+ORAL ARGUMENT OF JOHN G. JACOBS
+ON BEHALF OF THE RESPONDENT
+MR. JACOBS: Mr. Chief Justice and may it
+please the Court:
+If I may, I should like to begin with
+Justice Kennedy's question: Is this a money-mandating
+statute?
+Section 1681(a) defines "persons" and it
+defines "persons" as, inter alia, "any Government or
+Government body or agency." That, it would seem to me,
+would be extraordinarily clear that the Government is
+subject to this act and subject to money-mandating.
+JUSTICE SCALIA: Well, you wouldn't -- you
+wouldn't need the Tucker Act now, would you?
+MR. JACOBS: We --
+JUSTICE SCALIA: Just sue under the statute.
+MR. JACOBS: We could. We believe we should
+be able to recover simply under FCRA itself, yes, Your
+Honor. But if there were any question as to whether the
+Government is in fact covered, that would seem to me to
+be answered by 1681b(b)(4).
+JUSTICE SCALIA: So are you splitting your
+claim? I mean, if you have both a cause of action under
+FCRA and under the Tucker Act, the one has to go to the
+Federal Circuit and the other elsewhere, or the Court of
+Claims and then the Federal Circuit? What do you do?
+MR. JACOBS: Your Honor, that was -- that
+was the subject of some debate in the court below. We
+took the appeal to the Federal Circuit because the claim
+was based in whole or in part on the Tucker Act.
+JUSTICE SCALIA: You also claimed under
+FCRA, under the statute, right?
+MR. JACOBS: Yes, we do, Your Honor.
+JUSTICE SCALIA: Okay.
+JUSTICE BREYER: So why do you care? I
+mean, you're in the Northern District of Illinois, you
+bring a case under this Act. I guess you lost because
+you wanted to appeal. And so -- so what is the big
+deal? Appeal to the Seventh Circuit. Who cares. Why
+do you care which circuit you go to? You said you
+think -- well, why do you care?
+MR. JACOBS: We don't particularly care,
+Your Honor, but we believe that we are required by the
+statute to appeal to the Federal Circuit if the claim is
+based in whole or in part on the Tucker Act.
+JUSTICE BREYER: I guess you and the
+Government could have stipulated, we agree it goes to
+the Seventh Circuit, and nobody would have opposed you
+on that.
+MR. JACOBS: I -- I -- I do not know, Your
+Honor.
+JUSTICE BREYER: This case is about you want
+to go to -- you want to go the Federal Circuit, they
+want you to go to the Seventh Circuit?
+MR. JACOBS: Right.
+JUSTICE BREYER: Okay.
+MR. JACOBS: And in 1681(b)(b)(4), the
+statute said --
+CHIEF JUSTICE ROBERTS: I'm sorry. Before
+you get --
+MR. JACOBS: Yes.
+CHIEF JUSTICE ROBERTS: But if you -- their
+argument is if you go to the Seventh Circuit, you don't
+get any money, right? Because if you're getting money
+from the United States, don't you have to go to the
+Court of Claims in a case like this?
+MR. JACOBS: I don't believe so, Your Honor.
+CHIEF JUSTICE ROBERTS: No?
+MR. JACOBS: I mean, 1681(p) says you can
+sue either in district court or any other court of
+competent jurisdiction. And in that regard, there's
+been a lot of talk about the remedial scheme, and with
+respect, Your Honor, I would submit that this is -- this
+is not some reticulated, remedial scheme where you have
+to file a claim and have a hearing and those kinds of
+things where this Court has enforced that against
+people.
+Here, it's just a typical statute that says
+you have to do A, B, and C, and if you don't you can be
+sued in Federal court.
+JUSTICE SCALIA: Do you know any other
+statutes offhand -- I can't think of any, but maybe you
+know some -- in which you can get money out of the
+United States but don't have to go through the Court of
+Claims and the Federal circuit? What other statutes are
+there? And if there are none, the reason I ask the
+question, it becomes less and less plausible that FCRA
+was meant to allow suit against the Federal Government.
+MR. JACOBS: The Privacy Act, Your Honor,
+allows you to sue the Government in the district court.
+JUSTICE SCALIA: For money damages.
+MR. JACOBS: I believe so, Your Honor.
+JUSTICE BREYER: Not in tort. This seems an
+awful lot like a tort, or tell me why it isn't. I mean,
+what you are saying is there's a statute that says you
+can't print more than the last five digits of a card or
+the date, the expiration date, and they did both and you
+want to say "or" means one or the other, it doesn't mean
+and/or. That's what the case is about fundamentally,
+right?
+MR. JACOBS: The case is about printing the
+expiration date, Your Honor.
+JUSTICE BREYER: Yes, can you do and/or or
+or. All right, got it. Now, if you print -- in your
+view of it, they printed too much about a person's
+credit card.
+MR. JACOBS: Yes.
+JUSTICE BREYER: It sounds like an -- sort
+of like an invasion of privacy, which is normally a
+tort.
+MR. JACOBS: It is like it, but I believe
+this Court's jurisprudence has been for a long while
+now, at least since Jacobs and I would submit even
+earlier, Dooley onward, that it doesn't make any
+difference whether -- if you're suing under a statute of
+the United States or a contract or anything else, if
+there's any element of tort in it, it doesn't matter.
+JUSTICE BREYER: What do you mean? You can
+sue for -- in other words, if the statute were to say,
+if Smith, a Government employee, assaults a person, he
+gets damages. Federal statute. Now he brings a
+claim -- I don't know this law; I'm asking, I'm not
+arguing. The plaintiff sues the United States for
+assault. And you're saying that they can bring that in
+the Court of Claims because it's a statute.
+I don't know how this law works. I just
+read that and I know the language doesn't totally tell
+you. It's about liquid, illiquid. I didn't get that
+part exactly. But as I've understood it, you can't
+bring a tort suit in the Court of Claims. Now, that's
+what I would like you to elaborate, because this sounds
+rather like a tort suit, not sort of. That's why I am
+asking.
+MR. JACOBS: As no doubt intended, Your
+Honor posed a very difficult question. I would submit
+that if the statute says that you may not do A, B, and
+C, that you could then sue in the Court of Claims.
+JUSTICE BREYER: Even if it says you may not
+assault someone.
+MR. JACOBS: Yes. Even though
+traditionally, you could think of that as a tort, I
+believe that's this Court's jurisprudence.
+JUSTICE BREYER: And the case I should look
+at to show that is what? That's all right if you don't
+have it.
+MR. JACOBS: I think Daly -- Dooley, I
+think, Your Honor, in 1901 said: "Regardless of whether
+the exactions of taxes were tortious or not, we think
+this case is within one of the first class of cases
+specified in the Tucker Act of claims based upon a law
+of Congress."
+CHIEF JUSTICE ROBERTS: But your argument --
+your answer is a little more complicated, because the
+statute doesn't say tort claims, it says claims sounding
+in tort, which means cases that aren't torts, but are
+like torts. And it seems to me the case you -- you --
+you have here is like tort, an invasion of privacy or
+something like that.
+MR. JACOBS: Your Honor, I believe, again,
+that this Court has not interpreted the cases that way.
+There is a debate as to whether a breach of fiduciary
+duty is a tort or something else, and yet this Court in
+White Mountain and other cases has -- has not found that
+to be a bar.
+CHIEF JUSTICE ROBERTS: Well, your friend
+says that that's a fiduciary -- that's a trust breach,
+which has been regarded as different than a tort.
+MR. JACOBS: That's what the Government
+says, but it is also a breach of fiduciary duty, and
+that is often regarded as a tort, Your Honor. 16 --
+JUSTICE GINSBURG: May I ask you, Mr.
+Jacobs --
+MR. JACOBS: I'm sorry.
+JUSTICE GINSBURG: -- whether you think
+Congress ever honed in on the issue whether the United
+States, given the multitude of financial transactions in
+which it engages, ever thought that sovereign immunity
+would be waived? I mean, if you're right about this,
+the consequences are enormous for the Federal fisc. And
+we -- the -- the statute developed in a peculiar way.
+First, there was the definition of person
+when there was no civil liability, and then some years
+later the prohibition of having both the credit card
+number and the expiration date. In all of it, is there
+any hint that Congress envisioned a waiver of sovereign
+immunity in the Fair Credit Reporting Act?
+MR. JACOBS: Your Honor, I would submit yes,
+there is no explicit -- to my knowledge, there is no
+explicit reference in the Congressional Record to
+whether this was going to impact the Government or not.
+However, what they talked about was the almost epidemic
+proportion of identity theft going on, and in response
+to that this bill was passed.
+Knowing that the Government is one of the
+largest issuers of credit card receipts, one would have
+to wonder why they would want to exclude the Government
+in terms of protecting the public. That would not make
+sense. It doesn't make any difference where the
+credit --
+JUSTICE SCALIA: For the same reason that
+you have the principle of sovereign immunity. They're
+-- they are perfectly willing to subject corporations to
+immense liability, but they are not willing to subject
+the Federal Government to immense liability. That's
+what the doctrine of sovereign immunity is all about,
+isn't it?
+MR. JACOBS: That's exactly correct,
+Your Honor. But that's why I said in terms of
+protecting the public, you wouldn't want to exclude such
+a large -- such a large thing.
+And when they wanted to protect the
+Government, as they did in 1681(b)(b)(4), when they
+wanted to exclude them, they explicitly did so --
+JUSTICE KAGAN: Mr. Jacobs --
+MR. JACOBS: -- the next year.
+JUSTICE KAGAN: -- the -- the import of the
+Government's argument is that if your interpretation
+governed, we would be facing, really, a quite massive
+change in the law of sovereign immunity as we've known
+it until this time.
+So I will give you an -- Congress decides to
+pass a statute, and the statute has a cause of action in
+it. And the drafters say to each other, do we have to
+say that the Government retains sovereign immunity? And
+everybody says, no, the rules are that if we say nothing
+at all, the Government does retain sovereign immunity.
+Now, under your world, the next time
+Congress passes such a statute and that question comes
+up, you would say, oh, we have to say that the
+Government waives -- retains its sovereign immunity,
+because if we don't say that, somebody's going to bring
+an action under the Tucker Act.
+So for every statute, both the ones that
+have been written under the old rules and the new ones
+to come, we have completely flipped the presumption.
+Now, Congress is going to have to say when it wants to
+retain sovereign immunity, and if it doesn't -- if it
+doesn't, the Tucker Act applies, and you get to be in
+court.
+MR. JACOBS: With respect, Justice Kagan, I
+don't think that's true at all. They went out of their
+way to define person to include the Government. And
+that's significant in this respect, Your Honor. We cite
+the Moore case, Moore v. The Department of Agriculture,
+an almost identically worded statute, where it said, a
+Government --
+JUSTICE KAGAN: I don't think that quite
+answers the question. That's a -- that's a question
+about what FCRA means and whether under any standard,
+whether the fairly arguable standard or the express
+standard, you should win. And that's a different
+question.
+The question is what standard are we going
+to hold you to. Are we going to say, all you need to
+show is that it's fairly arguable, or are we going to
+say, no, unless there's an express statement that the
+Government has waived its sovereign immunity, the
+Government retains it?
+And as to that, you're asking us to flip the
+presumption from now on.
+MR. JACOBS: I don't believe so, Your Honor.
+I think they went out of their way to say this applies.
+It's not some general statute that says if a credit card
+is printed improperly.
+JUSTICE GINSBURG: When the definition of
+persons was put into the statute, there was no civil
+liability; isn't that right? So they didn't -- they
+could not have been thinking about civil liability.
+MR. JACOBS: Well, when they amended FCRA in
+1996 to add the -- to change the word from credit
+reporting agency to person, I would submit that had to
+be a conscious step.
+And proof of that is found, I think, in two
+subsequent amendments. One, the next year,
+1681(b)(b)(4), saying, but this does not apply to the
+Government if there is a national security issue. And
+then the Government pointed to 1681(u)(i), that talked
+about if the FBI improperly disclosed information, what
+liability it would have.
+Now, in the appendix to the Government's
+brief, it stops there. But in the Government's petition
+for cert at page 78a, it also has 1681(u)(l) which says
+any other provision of this section notwithstanding,
+people are limited to this remedy against the
+Government. Why would Congress say that if there were
+not other liability for Congress -- for the
+United States?
+So, I believe the -- Congress was about as
+clear as it could be that it knew this applied to the
+United States, and when it wanted to carve something
+out, it did so, twice.
+Now --
+JUSTICE SCALIA: I -- I really have -- I
+haven't followed this argument. You say (l) --
+MR. JACOBS: (l).
+JUSTICE SCALIA: -- shows that they had
+liability by the Government in mind?
+MR. JACOBS: Yes, Your Honor. I believe
+that --
+JUSTICE SCALIA: I mean, why anybody --
+notwithstanding any other provision, the remedies and
+sanctions set forth in this section shall be the only
+judicial remedies and sanctions for violation of this
+section.
+MR. JACOBS: I believe, Your Honor, that --
+JUSTICE SCALIA: Why -- why does that bear
+upon whether the United States is liable or not?
+MR. JACOBS: This (u) only applies to
+United States, the FBI. 1681(u) is explicitly passed
+with regard to the FBI getting information and
+improperly disclosing it.
+JUSTICE SCALIA: I see.
+MR. JACOBS: And this would say,
+notwithstanding any other provisions, and it wouldn't do
+that if there weren't other provisions applicable.
+And that, Your Honor, takes me back to the
+Moore case, which we discussed many times in our brief,
+a similarly, almost identical statute, the Equal Credit
+Opportunity Act.
+The Truth in Lending Act, the equal
+opportunity -- the Equal Credit Opportunity Act and FCRA
+were all part of the Consumer Credit Protection Act,
+different parts of it. And the Equal Credit Opportunity
+Act had the same, almost the same definition with one
+word different of importance.
+And then the -- the Fifth Circuit said,
+there is no exception in here, once it says that, for
+any person -- it doesn't have an exception for the
+United States, unlike the Truth in Lending Act which had
+a specific provision exempting the United States.
+This is identical except for one word
+different. This says any, the most emphatic word it
+could use. The other two statutes say, a Government or
+Government entity. This statute says, any Government or
+Government entity.
+And the United States makes no response to
+that interpretation that is throughout our judicial
+system. And, indeed, it would be difficult to because
+throughout the United States now, the -- the United
+States no longer even attempts to argue that ECOA does
+not provide for waiver of sovereign immunity.
+JUSTICE SCALIA: Well, if you are right
+about that, I guess we could write a very narrow opinion
+saying the Tucker Act applies where there is a cause of
+action under the original statute anyway, in which case
+we would not have made much new law, would we?
+MR. JACOBS: Well, I'm hoping we won't make
+much new law, Your Honor --
+JUSTICE SCALIA: Yes.
+MR. JACOBS: -- because I believe this is
+consistent with this Court's longstanding jurisprudence.
+And, indeed, the -- the cases where the
+Court says, no, we're not going to let you bring this
+under the Tucker Act, is where the party is trying to
+escape, to get around a limitation in the substantive
+act, where they're trying to avoid a statute of
+limitations, avoid the requirement to file a -- a claim,
+as in Elkhorn Mining, as -- to get around -- get away
+from a court as in Hinck, where it says the tax court
+will have jurisdiction of this. And then they are
+trying to get around --
+That's not going on here. We're -- the
+Plaintiff in this case is not trying to evade any
+Congressional intent or statutory provision of FCRA.
+And the Government points to nothing -- no violence that
+would be done to the FCRA by allowing this.
+The -- the reason that this statute was
+passed was to protect consumers. The Congress was clear
+that if any Government violates the statute, it has this
+liability. I do not know how you could have a clearer
+money-mandating statute.
+And, Justice Scalia, you asked, well, would
+we just win under the -- under the statute? My answer
+to that would be unequivocally yes, we should. It's an
+unequivocal waiver.
+And that's the irony here. I think you have
+a -- a more unequivocal waiver in this statute than you
+do almost any other where the Court has found that yeah,
+that's a fair inference of a money-mandating situation.
+JUSTICE BREYER: Well, I mean, the -- a lot
+of these provisions are technical, like the one I think
+is fairly technical, the one you are talking about, the
+Government -- it provides for treble damages -- treble
+damages, does it?
+MR. JACOBS: Yeah.
+JUSTICE BREYER: Minimum damage, punitive
+damages, a fairly lengthy statute of limitations
+compared to the court of claims.
+MR. JACOBS: 2 years.
+JUSTICE BREYER: 2 years. And they have 6
+in the other?
+MR. JACOBS: 2 years or 5 years -- 2 years
+from discovery, 5 years --
+JUSTICE BREYER: My -- my impression was
+there are several differences. And normally, these
+things you, at least arguably, are not appropriate
+against the Government, because the Government when it
+knows the law will follow it, we hope. And, therefore,
+you don't need brow-beating mechanisms to make sure they
+follow it once it's clarified. So, therefore, it -- I
+mean, I can imagine arguments.
+At the same time, there are differences
+between the relief scheme in this statute and the normal
+one you have in the Court of Claims. And they're
+arguing that that means that they didn't want this
+Tucker Act and these other things to apply.
+I just want to know what your reply is to
+that. They are different.
+MR. JACOBS: They -- they are different,
+Your Honor, but, with respect, I see nothing about
+saying, this is what you must do, and if you don't do,
+this is what you have to pay -- I see nothing unusual
+about saying that can be in the Court of Claims; that
+that's a Tucker Act claim. That doesn't seem -- that's
+not some reticulated statute unlike the Civil Service
+Review Act or something like that, where you have to do
+all these steps, have this hearing first, have that
+hearing --
+JUSTICE SOTOMAYOR: So are you happy with
+the circuit's suggestion that the specific does govern
+the general insofar as it will adopt whatever FCRA's
+limitations are?
+MR. JACOBS: Yes. And that's --
+JUSTICE SOTOMAYOR: And into its own
+processes?
+MR. JACOBS: Yes.
+JUSTICE SOTOMAYOR: Your position is that's
+perfectly okay.
+MR. JACOBS: Yes. And I think that is
+consistent with this Court's jurisprudence.
+CHIEF JUSTICE ROBERTS: Now, it does seem --
+I mean, Justice Breyer's point. It does seem a little
+ad hoc. In other words, they don't fit quite together,
+and your answer is: Well, we'll just take whatever, you
+know, whatever we have to, to make it fit. It would go
+under the least imposing on the Government.
+It suggests that Congress did not expect the
+Tucker Act to apply if you've got to change the remedial
+provisions in FCRA to get it to fit under the Tucker
+Act.
+MR. JACOBS: Well, Your Honor, if I
+understand your question correctly, I -- I don't believe
+I agree with the premise.
+This Court has consistently said, as Your
+Honor said, that the Tucker Act only provides an outer
+limit for filing, but we'll use the shorter time period.
+In Ruckelshaus v. Monsanto, the Court said: No, no, no,
+you've got -- because Monsanto didn't want there to be a
+Tucker Act claim. It wanted to be able to argue: We
+have no relief available to us for having to disclose
+the components of our insecticides. And they wanted to
+argue: There is no relief available to us.
+And this Court said: No, you've got a --
+you've got a Tucker Act claim. You do have relief
+available to you. And the Court said: Yeah, you didn't
+file a claim. There is a procedure where you could file
+a -- a claim saying: This is a trade secret, and the --
+you then would have arbitration. And the Court said:
+You haven't done that; go ahead and do that and then
+let's see what happens. But you've got a Tucker Act
+claim.
+And incidentally, in that regard, in
+Ruckelshaus v. Monsanto, the Court discussed extensively
+the Restatement of Torts as to whether a trade secret --
+a listed trade secret under the Restatement of Torts,
+and then went ahead and said: No. You've got a Tucker
+Act claim here.
+JUSTICE BREYER: Right. So is -- are you
+also saying, FCRA, the underlying statute, clearly
+waives sovereign immunity, so we don't have to worry
+about whether the standard is a weak standard or a tough
+standard, doesn't matter. We win anyway.
+MR. JACOBS: Absolutely.
+JUSTICE BREYER: So what you want us to say
+is, okay. We will apply the tough standard. There's
+still -- there's still -- sovereign immunity is waived
+in FCRA. And since sovereign immunity is clearly waived
+there, then you can bring this under the Tucker Act, and
+the only differences are the remedial schemes are
+slightly different, but that doesn't matter.
+Am I correctly stating what you are now
+telling us?
+MR. JACOBS: I'm telling Your Honor that we
+win under such a test. We don't believe such a test is
+called for, but if -- if such a test were used, we still
+win because you do have such a clear waiver.
+JUSTICE SOTOMAYOR: One of the purposes of
+the Tucker Act was to provide a remedy, where none
+existed, to get rid of the private bills. What's wrong
+with the Government's basic proposition which is where
+you have a remedy you have to pursue that remedy. And I
+think that, at bottom, that's their argument.
+What's wrong with that scheme? Instead of
+permitting two remedies with potentially conflicting
+commands, whether it's on the amount of damages or the
+nature of the recovery or the statute of limitations,
+why isn't their vision of what the Tucker Act -- the
+role the Tucker Act should play one that should be given
+voice? One that should be followed?
+MR. JACOBS: Your Honor, I would submit that
+that would be a substantial change in this Court's
+jurisprudence. Congress passed the Tucker Act, and this
+court, for years now, has said, "If you meet these
+requirements, you may sue under the Tucker Act."
+JUSTICE SCALIA: The Government doesn't
+concede that you have a cause of action under FCRA at
+all.
+MR. JACOBS: No.
+JUSTICE SCALIA: They say -- they say just
+the opposite. And so what I find peculiar is that there
+should be two causes of action for the same thing. You
+can proceed either under FCRA or under the Tucker Act or
+both. I mean, that's very strange to me. It seems to
+me, one or the other, and it would normally be the
+specific governing the general.
+So if you say there is one under FCRA, why
+do we need the Tucker Act?
+MR. JACOBS: Your Honor, the Tucker Act,
+made available by Congress, could we proceed only under
+FCRA? Yes, we could, but the Tucker Act is available,
+the statute 1295 says what it says, and we have appealed
+to the Court of Appeals. But there is --
+JUSTICE SCALIA: Do you have any other case
+where -- where you -- somebody's been allowed to proceed
+under the Tucker Act where there is clear ability to
+proceed under some other statute?
+MR. JACOBS: Your Honor, I cannot name you a
+case off the top of my head. As I said, I believe the
+Privacy Act allows you to do either. The -- all --
+JUSTICE SOTOMAYOR: The FSLA as well.
+MR. JACOBS: I'm sorry?
+JUSTICE SOTOMAYOR: The FSLA as well.
+MR. JACOBS: Yes. The FSLA -- I was going
+to say, as Your Honor said earlier. But the cases
+where a Tucker Act remedy has been denied, as I've said,
+are where a person was trying to evade a limitation of
+the substantive act. That's not this case. This case
+is four-square within the court's jurisprudence. The
+Government argues now for a new -- and it's not clear to
+me exactly what test, but it's a limiting one. It
+would -- it would cut back the Tucker Act.
+JUSTICE KAGAN: But Mr. Jacobs, you are
+trying to evade a certain kind of limitation. The
+limitation that you are trying to evade is the rule that
+waivers of sovereign immunity have to be express. And
+that's the rule you are trying to evade by going under
+the Tucker Act.
+MR. JACOBS: No, Your Honor. We believe,
+and we've maintained throughout, that we do have an
+express waiver, 1681(a) --
+JUSTICE KAGAN: But then you wouldn't need
+to go under the Tucker Act. The difference between
+going under the Tucker Act and going under the statute
+is the difference between, you know, what -- what
+standard is a court going to hold you to, to decide
+whether there has been a waiver of sovereign immunity.
+MR. JACOBS: The standard, I would submit,
+Your Honor, is that the Tucker Act is always available
+unless a -- the substantive statute provides a
+limitation on that ability; either saying it shall be --
+shall be litigated in the Tax Court, it can only be
+litigated if it is preceded by a claim, an
+administrative claim, some limitation like that. If --
+if there's something that says it has to be in another
+forum, then you would be evading it. But otherwise, the
+Tucker Act remedy is available and it's appropriate and
+it's precisely, I would submit, that what do you do --
+CHIEF JUSTICE ROBERTS: You can finish your
+sentence.
+MR. JACOBS: -- what do you do when you say,
+eh, we think this is -- you know, is this express
+enough? And that's the Tucker Act saying, well, it's
+clearly a fair inference.
+CHIEF JUSTICE ROBERTS: Thank you, Counsel.
+MR. JACOBS: Thank you.
+CHIEF JUSTICE ROBERTS: Mr. Srinivasan, you
+have three minutes left.
+REBUTTAL ARGUMENT OF SRI SRINIVASAN
+ON BEHALF OF THE RESPONDENT
+JUSTICE SCALIA: Mr. Srinivasan, I hate to
+eat up any of your time, but do you acknowledge that
+there are other statutes under which a person can
+proceed, either under the statute or under the Tucker
+Act?
+MR. SRINIVASAN: No, I'm not aware of that
+situation, and I think that's why you look to this
+remedial provision that Congress enacted to determine
+the metes and bounds.
+JUSTICE SCALIA: What about the Privacy Act?
+MR. SRINIVASAN: The Privacy Act has its own
+remedial mechanism within it typically.
+JUSTICE SCALIA: So -- so you'd say you
+either proceed under the Privacy Act and you're covered
+there, or you don't --
+MR. SRINIVASAN: Or you don't proceed at
+all, yeah.
+JUSTICE SCALIA: And what about -- what is
+it? FSLA was the other one?
+MR. SRINIVASAN: Well, FLSA is a bit
+complicated, for the reasons I was adverting to earlier.
+It's -- this Court has never confronted the question of
+how exactly you go forward under the FLSA. And I think,
+because of the ambiguity in the courts to which the FLSA
+refers, for the reasons I was discussing with Justice
+Sotomayor earlier, I think you could see that statute as
+incorporating the Tucker Act itself, but that would be
+something that Congress did.
+JUSTICE SCALIA: What about (u)(l), that
+your friend raised?
+MR. SRINIVASAN: (u)(i). I think there's
+several answers to (u)(i). First of all, I'm not sure
+which way that cuts because the fact -- it may be
+(u)(l), it may be (u)(i), but (u) -- I'm not sure which
+way that cuts because, on one hand, the fact that
+Congress specifically provided for the United States to
+be liable in certain situations I think cuts in favor of
+our understanding, not against it.
+But there's a more fundamental point about
+the argument that my friend makes on the other side,
+which is that that statute was enacted, I think, before
+the civil remedies provisions were expanded to encompass
+all persons. So it's hard to conclude that that
+notwithstanding any other provision would have referred
+to something that came along later.
+Now, I have two points that I'd like to make
+in rebuttal, one of which, there's been some questions
+today about which is the specific statute and which is
+the general statute.
+Now, one, I think, clear indication that the
+specific statute for present purposes should be FCRA is
+to look at what the Plaintiffs allege.
+The Plaintiffs are bringing a FCRA claim,
+and there's no mistake about that, because the
+Plaintiffs seek the FCRA advantage of statutory damages
+of at least $100. And so they're grounding their claim
+in the FCRA cause of action. And I think, therefore,
+you should look at FCRA to determine whether the
+Government is liable.
+And you don't have a situation in which you
+can mix and match under both; you should look to FCRA to
+determine whether there's been a clear and express
+waiver of sovereign immunity.
+The other point I would like to discuss is
+something that -- references something Justice Breyer
+was adverting to earlier, which is even if there was
+some universe in which you could contemplate a
+hybridization where you apply the Tucker Act, even
+though there's a cause of action already in the statute,
+you wouldn't do so in the context of this case because
+there are clear indications that Congress wouldn't have
+contemplated a resort to the Tucker Act.
+The Tucker Act doesn't apply to torts. This
+claim is a tort claim. We know this because the Court
+in Safeco a few terms ago -- this is at 551 U.S. 69 --
+specifically referred to the Restatement of Torts as a
+means of -- interpreting the term willfulness, which is
+the linchpin for the claim here.
+I see my time has expired.
+CHIEF JUSTICE ROBERTS: Thank you, Counsel.
+The case is submitted.
+(Whereupon, at 12:03 p.m., the case in the
+above-entitled matter was submitted.)
+49:6,11,17,24 allow 14:12 21:2 26:12 assault 36:6,21
+49:6 51:5,9,11,19 allowed 52:6 41:19 43:15 asserted 19:15
+57:19 52:7,11,17,19 allows 5:2 8:15 apply 4:11 6:20 assume 10:22
+53:10,15,23 52:11 10:18 12:5 atypical 15:15
+54:25 55:13 amended 42:1 25:16 26:15,20 authorized 8:4
+action 3:20 32:5 42:6 42:7 47:13 49:12 52:1,2
+51:13,18 56:18 and/or 35:6,10 57:4,9 avoid 11:22
+actions 9:7 answer 13:7 approach 5:21 awards 29:9,16
+acts 14:8 21:16 15:8,10,14 7:6 21:19 aware 54:17
+6:18 7:5 26:18 27:7,9 37:10 46:5 appropriate 9:8 awful 35:1
+9:3 Act's 21:15 26:7 48:16 47:3 53:23 a.m 1:13 3:2
+27:7 answered 32:3 arbitration
+11:1 add 42:2 55:18 arguable 41:7 b 14:22,22,24,24
+adding 5:5,25 anybody 43:7 41:12 15:6,6 34:11
+address 20:8,23 anyway 45:2 arguably 47:3 36:18
+addressing 4:13 50:4 argue 44:22 back 30:8 43:23
+4:23 29:21 Apache 4:9 49:6,9 52:23
+Administration 23:10 28:8,24 argues 52:21 background
+16:5 17:1 20:15 apparent 5:22 arguing 36:5 29:1
+17:5,19 administrative appeal 32:11,20 47:12 balance 31:5
+19:1,2 53:20 32:21 33:1 argument 1:12 bar 37:21
+20:2 adopt 48:3 appealed 52:3 2:2,5,8 3:4,6 based 32:12
+21:1 advantage 56:16 appealing 10:22 6:14,16 9:20 33:2 37:7
+22:5,19 adverting 55:7 10:25 9:25 10:5,5,16 bases 5:25
+23:7,24 57:2 Appeals 52:4 16:1,3,16 basic 50:22
+affirms 17:9 APPEARAN... 18:10 19:5 basically 4:12
+26:5,6 agency 14:25 1:14 20:13,18,21 9:14
+31:17 42:3 appendix 9:6 25:16,24 26:4 basis 4:24 5:5
+27:3 age-old 21:24 14:2 42:12 26:14 30:8 7:15 8:9 9:11
+28:25 ago 57:11 applicable 4:2 31:8 33:20 11:7 12:18
+agree 33:4 48:25 25:14,21 27:21 37:9 39:24 13:18 22:5
+agreements 28:2,6 30:3,20 43:1 50:24 bear 43:13
+34:21 14:10 31:1 43:22 54:10 56:1 begs 29:6
+38:18 Agriculture applied 3:16 arguments 47:8 behalf 1:17,18
+44:1 41:1 5:11 6:19 arises 29:24 2:4,7,10 3:7
+ahead 49:16,23 16:21 25:11 asked 46:4 31:9 54:11
+alia 31:16 26:19 42:21 asking 9:21 11:6 believe 31:24
+33:24 brings 36:3 45:1 51:13 claimed 32:13 37:10 55:7
+35:18 brought 5:19 56:18 57:5 claims 5:15,18 comply 15:21
+37:16 8:16 9:7 11:19 causes 51:18 7:20 8:2,15 components
+42:20 18:5 cert 42:14 10:16 11:8 49:8
+45:7 Brown 17:1 certain 13:10,14 18:4,21 22:11 concede 51:13
+50:16 20:14 15:21 16:24 24:1 32:8 conceivable
+53:5 brow-beating 17:4 21:16 33:23 34:17 10:18 27:8
+b(b)4 14:23 certainly 11:5 46:20 47:11,20 conceived 28:14
+54:20 captivity 23:20 57:16 50:9 54:5 conditions 14:21
+37:18,23 39:2 41:20 32:7,8,11,21 come 19:20 conform 13:1
+care 32:17,22,23 32:22 33:1,5 22:18 24:13 confront 14:5,7
+careful 15:23 34:17 44:8 comes 12:2 Congress 3:11
+carve 42:22 12:12,19 48:2 40:10 12:6,13 15:17
+35:10,15 case 3:4 4:24 circumstances commands 51:2 15:23 17:16,16
+36:20,25 10:15 14:4,15 15:24 companies 17:20 18:3,20
+14:25 16:3,20 circumvent 5:3 14:12 18:25 19:1,13
+49:25 17:19 21:7 17:5 compared 46:20 20:1 21:17,21
+57:1 25:2,20 26:13 cite 40:25 compass 19:9 26:18,21,22
+42:13 35:6,8 36:25 41:25 47:22 23:14,19 28:19 40:3,10,18
+37:6,13 41:1 56:3 28:21,22 42:17,18,20
+18:8,14 cases 11:12 34:7 36:4 complaint 5:6 57:7
+36:6,12 16:20 17:2 45:14 47:21 6:1 12:18 Congressional
+45:10 20:12 28:25 49:6,11,13,14 completely 38:21 45:21
+37:6,12,17,20 49:18,24 53:19 40:17 conscious 42:4
+cause 32:5 40:4 57:10,10,14 complicated 38:11
+48:24 50:13 54:25 department 9:8 32:18 34:2
+28:17 31:6 54:6 11:9 12:22 41:1 doctrine 39:12
+48:12 57:16 14:11,13 17:19 depend 8:6 Dooley 35:21
+12:10 39:2,6 41:20 13:11 doubt 36:16
+21:24 44:3,4,5 21:12 drawing 9:11
+course 3:22 4:17 cuts 55:19,21,23 described 24:22 D.C 1:8,16
+30:19 26:2 D 12:19 E
+21:17 4:8 5:9,13,14 Daly 37:3 determination earlier 28:20
+21:15 8:16 9:4,8,10 damages 5:18 determine 17:21 55:7,12 57:2
+17:2 19:15 29:19 30:13 developed 38:12 ECOA 44:22
+29:2 57:3 32:7,10 33:23 date 35:4,4,9 16:19 35:22 51:19 52:11
+57:8 34:22 36:7,12 day 17:16 differences 47:2 elaborate 36:13
+29:15,19 40:21 45:10,16 dealing 4:21 different 7:25 eliminates 19:21
+47:11,20 49:1 dealt 23:13 41:8 44:5,7,14 embedded 28:11
+19:13 49:20 51:10 37:18 difficult 9:25 emphatic 44:14
+28:7 52:4 53:12,18 Debt 13:13 10:15 30:18 employee 36:2
+55:8 57:10 decide 53:12 36:17 44:20 enacted 21:21
+8:25 9:2 17:20 decision 6:2,16 digits 35:3 enacting 19:13
+35:23 court's 3:10 4:1 4:1 22:1 28:18 disclosed 42:10 encompass 12:6
+10:19 15:16 default 17:23 discovery 46:25 encompasses
+23:16 27:2,4 defined 30:11 discussed 43:24 enforce 18:8,15
+48:12 51:8 definition 38:13 discussing 55:11 enormous 38:11
+covered 13:25 denied 52:17 16:18 entity 44:16,17
+express 7:3 51:19,23 52:2 55:9 33:21 43:17
+53:2,7 54:3 FCRA's 13:22 46:10 15:8 38:3,6
+expressed 12:14 features 4:1 four-square give 5:13 23:12
+expression 5:10 8:1,11,14 11:4 free-standing 38:8 51:5
+extend 27:8 33:10 34:12,17 37:22 55:16 33:10,10,11,20
+53:1 extensively 38:11 39:11 FSLA 7:16 48:17 49:16
+49:20 fiduciary 37:18 52:12,14,15 53:9 55:9
+40:7 extraordinarily file 34:7 45:14 17:14 10:24 24:21
+39:14 F financial 38:8 55:25 41:11,12 45:10
+55:9 facing 39:25 find 51:17 fundamentally 45:19 52:15
+15:19 32:2 55:19,21 finish 53:25 furnishing good 9:14 19:5
+22:12 fair 7:18,24 11:8 first 7:12 13:4 14:21 govern 16:8
+24:25 11:9 17:19 37:6 38:13 further 31:4 48:2
+38:18 46:11 47:24 55:18 future 3:20 governed 12:22
+fairly 6:5,11 fit 48:15,17,21 G governing 20:4
+46:19 five 35:3 31:8 Government 6:7
+15:7 fashioned 15:17 FLSA 7:3,9,12 11:23 16:3,7 14:6,8,11,12
+FBI 42:10 43:16 55:6,9,10 17:15,22 18:2 15:20,20,21,24
+18:5 20:22,22 footnote 23:16 48:3 51:22 32:2 33:4
+38:16 30:24 31:25 forth 7:23 9:4,5 generally 20:7 37:25 38:22
+43:4 32:25 33:8,24 15:16 16:13 54:5 39:21,22 40:22
+34:5,21,24 19:7 20:6 information 41:18 42:1
+46:1,15 35:9 36:17 21:15,23 22:3 42:10 43:17 43:2,5,12,15
+48:18 37:4,16 38:2 22:22 23:25 insecticides 49:8 43:20 45:4,7
+52:21 38:19 39:15 24:12 26:9 insofar 48:3 46:17,21,24
+40:25 41:18 38:9,18 39:8 instance 7:13 47:16 48:5,8
+9:6 12:15 45:5 47:17 40:12,19 41:14 intended 10:17 50:15 51:7,15
+39:24 48:23 49:2 44:23 50:2,8,9 20:1 36:16 51:25 52:9,13
+50:22 50:15 51:7,25 53:2,13 56:24 intent 3:13 5:17 52:15,24 53:5
+53:15 implicated 24:7 45:21 JAMES 1:6
+30:22 implications 12:12 39:24 judicial 8:4
+11:13 hope 47:5 import 39:23 interpreted 6:6 jurisdiction
+14:4 15:8 hoping 45:4 importance 44:7 6:12 37:17 4:14,24 8:2,9
+21:5 hurdle 29:8 impose 24:6 interpreting 8:12,14,17,25
+27:13 hybridization imposed 17:18 57:13 9:4,10 24:1
+32:19 57:4 imposing 48:18 invasion 35:16 34:3 45:17
+44:25 hypo 30:18 impression 47:1 37:14 jurisdictional
+20:10 identical 43:25 13:14 6:13 14:4 52:20
+29:20 44:13 incidentally 18:23 23:15 Justice 1:16 3:3
+56:4 identically 41:2 49:19 29:11,15 38:7 3:9,14,22,23
+illiquid 36:10 including 5:9 11:1,6,13
+45:16 24:8 9:3 55:13 31:7,8,10,22 15:8 16:1,18
+24:17 9:16 11:8 12:1 indications 57:7 37:16,25 38:4 24:21 25:5,12
+32:1,9,15 12:2,7,15 inference 46:11 38:5,19 39:14 25:24 26:23
+29:5 33:7 34:13,15 limited 10:6 match 56:22 30:6 31:13,19
+36:4,8,9 46:2 21:16,18 42:16
+47:14 48:17 limiting 52:22 35:24 50:4,12 Monsanto 49:4
+53:11 54:3 linchpin 57:14 57:19 49:5,20
+32:4,13 57:10 liquid 36:10 mean 9:19 16:3 Moore 41:1,1
+33:3 Knowing 39:1 listed 49:22 21:14 22:5 43:24
+knowledge lists 25:13 26:10 30:15 Mountain 4:9
+34:13,23 38:20 literally 10:18 32:5,18 34:1 23:10 28:8,24
+35:10,15 known 40:1 27:8 35:1,5,25 37:20
+36:20,25 knows 47:5 litigant 5:2 38:10 43:7 multitude 38:8
+38:3,6 litigated 53:18 46:12 47:8
+L 53:19 48:14 51:20 N
+41:4,22 l 43:1,2 55:15,20 little 8:7 37:10means 35:5 N 2:1,1 3:1
+43:3,7 Labor 7:24 48:14 37:12 41:6 name 52:9
+44:24 Lane 5:14 6:3 live 21:18 47:12 57:13 narrow 44:25
+46:4,12 6:17 long 3:10 35:19 meant 4:11 national 14:23
+47:1 language 8:10 longer 44:22 34:20 42:8
+21:2 36:9 longstanding mechanism 4:4 naturally 28:14
+50:6,19 large 39:17,17 45:8 11:22 54:23 28:22 29:24
+52:5 largest 39:2 look 3:23 6:4 mechanisms nature 23:23
+law 25:2 29:2 7:12,15,16,17 47:6 51:3
+54:6,8 36:4,8 37:7 14:16 17:4,20Medicaid 24:9 necessarily 7:21
+40:1 45:3,5 19:1,10,12,16 24:10,24 30:10 8:8 13:23
+47:5 21:4,20,23 meet 51:10 22:14 28:19
+left 23:7 54:9 22:21 23:2 met 24:3 29:2
+17:24 let's 49:17 56:22 Minimum 46:18 53:8
+25:12 liability 15:25 looking 3:18 Mining 45:15 negative 17:8,11
+39:21,23 16:23 17:3,9 7:12 24:19 minutes 54:9 17:13
+41:4 17:18,22 18:21 lose 21:8 mistake 56:15 network 14:10
+53:8 18:24 19:14,22 lost 26:23 32:19Mitchell 4:9 never 3:19 10:1
+41:25 42:11,18 46:12 money 6:6,12 new 7:6 24:5
+liable 43:14 M 22:7 26:19 52:21
+28:12 limit 49:3 making 18:10 33:21,21 34:15 noncompliance
+limitation 26:6 mandate 6:6,12 34:23 12:25
+34:7 53:1,17,20 10:20,20 26:19 27:5,11 normally 35:16
+13:6 16:7 45:14 46:19 23:17 28:3,4,15,23 notion 13:21
+22:13 48:4 51:3 massive 39:25 29:3,11,12,18 19:8
+42:15 overcome 11:3 permit 16:12 30:2 53:24 proposition
+56:5 22:24 permits 16:8 predicate 24:2 11:11,23 19:25
+owed 23:19 person 13:22 premise 48:25 protect 39:18
+24:24,25 page 2:2 14:2 persons 18:9 presume 7:7 provide 44:23
+27:19 42:14 30:11,23 31:15 presumption 50:20
+pages 14:1 31:16 41:23 19:22 40:17 provided 55:22
+30:3 part 14:22 15:10 56:4 41:17 provider 24:9
+33:2 36:11 petition 42:13 26:20 27:3 providers 30:10
+24:6 44:4 Petitioner 1:4 pretty 30:15 30:11
+participate 1:17 2:4,10 3:7 principal 29:4 provides 11:3
+26:13 13:13,16 14:3 16:4 36:5 principles 26:9 provision 9:1
+32:16 parts 44:5 12:3 24:13 prior 16:20 19:12,16 25:13
+48:10 party 18:8,14 31:2 51:5 prison 23:19 42:15 43:8
+24:9 45:11 please 3:9 31:11 prisoners 23:14 44:12 45:21
+51:9 48:14 55:25 35:16 37:14 46:13 48:21
+23:13 27:25 points 45:22 problem 5:1 purposes 5:18
+29:19 posed 36:17 proceed 51:19 50:19 56:12
+51:17 24:15 48:9 54:25 55:2 put 41:23
+31:8 42:16 potential 9:11 prohibition p.m 57:18
+48:10 potentially 8:22 prohibits 16:6,9 Q
+9:19 reasoning 4:25 34:4,6 48:20 47:22 49:14 50:1
+13:4 5:1 50:11 54:19,23 reverse 9:15 53:17 54:4
+14:5 reasons 55:7,11 remedies 43:8 reversed 9:1 says 8:13 10:8
+15:10 rebuttal 2:8 43:10 51:1 Review 47:23 18:14,14 24:8
+19:10,20 54:10 56:8 56:3 rid 50:21 24:22 30:2
+receipts 39:2 remedy 7:5 8:4 right 8:13 15:4 34:1,10 35:2
+25:8 recognized 7:4 15:13,13 42:16 20:5,18,22,24 36:18,20 37:11
+27:15 recommend 50:20,23,23 23:8 24:16 37:23 38:1
+9:14 52:17 53:23 25:4,7 29:13 40:7 41:20
+29:6,8 Record 38:21 rephrase 27:1 32:14 33:12,21 42:14 44:9,14
+recover 31:25 reply 47:14 35:7,11 37:1 44:16 45:10,16
+31:13 recovery 51:3 reporting 7:18 38:10 41:24 52:3,3 53:21
+34:19 reference 15:2 11:9,10 12:23 44:24 49:25 Scalia 10:22
+40:10 19:15 27:7 17:19 38:18 rights 18:9,15 11:1,6 14:14
+30:23 38:21 42:3 ROBERTS 3:3 14:18 15:4
+55:8 references 13:22 reports 14:21 20:3,17,20,25 16:1,18 17:7
+56:8 referred 56:5 requirement 33:25 37:9,22 22:4,10,15,20
+39:25 refers 8:25 51:11 role 51:5 34:13,23 39:7
+48:15 10:16 55:11 requires 27:5 route 7:25 42:25 43:3,7
+10:6,14 5:15,16,24 14:3 16:17 15:12 16:5 18:1,2,17
+reinforces 6:17 24:17 34:5 25:22 21:20,23 23:1
+10:1,14 relevant 28:5 Respondent 27:19 28:9,13 24:22 25:19,25
+36:9 30:6 1:19 2:7 31:9 29:25 26:2,3,5,13,14
+16:11 remedial 4:3 Restatement sanction 12:24 scope 18:21
+20:4 7:10 10:11 49:21,22 57:12 sanctions 43:9 21:21 22:3
+39:25 11:22 17:17,21 rests 22:7 43:10 second 4:4
+18:1,16 21:20 result 6:3 9:20 satisfied 5:12 secret 49:14,21
+13:9 15:5 23:21 24:18 retain 40:8,19 saying 8:23 11:2 section 5:15,20
+24:2,19 25:13,19,25 retains 40:6,12 16:10,11 25:2 5:24 31:15
+34:18 26:2,3,5,13,14 41:15 35:2 36:6 42:7 42:15 43:9,11
+45:24 27:14,17 28:11 reticulated 34:6 45:1 47:18,20 security 14:23
+somebody's 20:6,22 23:18 States 1:1,3,12 33:1,15 34:10
+43:19 sorry 6:23 14:19 55:22 57:12 5:23 9:8 10:3 36:7,18 37:11
+49:17 20:19 33:16 specificity 28:5 11:19 12:21,22 38:12 40:4,4
+57:15 38:5 52:13 specified 37:7 12:25 13:5,17 40:10,15 41:2
+4:18 6:21,23 3:6 54:10 20:23 22:13,16 47:22 50:1
+54:1 24:21 25:5 3:21,25 4:17 27:20,25 28:5 55:12 56:2,9
+30:7,15,18 7:11 8:6,13,21 29:20 30:1,1,4 statutes 3:21
+sought 6:19 13:3 14:16,19 36:5 38:8 23:9 29:3
+23:18 sounds 35:15 17:12,24,25 43:16 44:11,12 54:14
+43:9 36:13 18:11,19 19:24 44:18,21,22 statutory 11:20
+7:14,16 9:16 23:8 24:14,16 4:3,5,7,15,21 steps 24:4 47:24
+39:12 40:1,6,8 12:13,20 41:6 18:7,9,11,14 16:13
+speaks 9:7 13:19 standards 7:24 22:18,21,22,23 31:19,19 32:10
+54:18 11:3,11,23 stands 12:4 15:5 23:2,13,14,18 submit 34:5
+13:12 16:2,7 17:19 23:20 24:2,6 35:20 36:17
+55:23 17:17 18:1,6 started 23:3,6,6 25:15,25 26:1 51:7 53:14,24
+51:22 56:9,12 state 8:12,14 28:2,11,20 subsequent 42:6
+tax 45:16 53:18 34:14 36:23 truncation 14:4 56:7
+15:11
+25:21 46:14 42:5 46:8,13 Truth 44:2,11 typically 54:23
+28:6,9 tell 35:1 36:9 48:11 50:24 try 27:1
+29:25 telling 50:14,15 54:3,18 55:9 trying 16:4 U
+45:12 term 15:6 57:13 55:12,17,23 45:11,13,18,20 u 43:15 55:15,17
+53:16 terms 12:3,16 56:2,11,18 52:18,25 53:1 55:18,20,20,20
+34:2,22 39:4,15 57:11 16:25 19:2 Tucker 3:15,20
+51:11
+25:9 52:22 three 54:9 10:1,6,7,14,21 55:24
+22:5 10:5,14,23 today 3:15 56:9 19:1,2,11,21 5:10,16 6:8
+36:12,14 Thank 3:8 31:6 told 19:13 20:2,5,8,25 22:1,2 46:7,9
+18:15 25:8 37:12,14,19,24 25:16 26:5,6,7 3:4 4:5,6 5:19
+10:13 51:18 49:21,22 57:9 32:12 33:2 13:18 14:25
+55:18,20 things 24:23 57:12 37:7 40:14,20 15:2,7,12,13
+44:20 think 4:10 6:17 tough 50:3,7 47:21 48:20,21 19:8,23 20:7
+trade 49:14,21 49:2,6,11,17 20:23 22:13,16
+18:19,20,25 traditionally 52:7,17,23 28:9,10,13
+23:3,8,9,15,24 38:8 55:13 57:4,8,9 34:16 35:23
+25:7,18,20,23 Tribe 4:9 23:10 twice 42:23 42:19,22 43:14
+waiving 11:7 worded 41:2 14:14
+want 25:23 33:9 words 36:1 1681b(b)(4)
+50:6 worry 50:2 1681(b)(b)
+10:2 Washington 1:8 write 44:25 1681(p) 9:5 34:1
+20:14 1:16 written 24:6 1681(u) 43:16
+41:1 way 6:19 7:11 40:16 1681(u)(i) 42:9
+7:17,21 8:18 wrong 50:21,25 1681(u)(l) 42:14
+20:13 12:10 15:18 X 1996 42:2
+21:18,19 26:17 24:22 30:10,10 2
+55:19,21 Y 24:10,11,23 2012 1:9
+10:25
+22:2 you're 10:22 4a 14:20,20 15:6
+19:14
+45:10,19 Z
+41:14 we've 10:5 40:1
+Z 24:10,23 30:10 5
+5 46:24,25
+8:3 White 4:9 23:10
+16:13 $ 54 2:10
+37:20 $100 56:17 551 57:11
+21:15 who's 29:12
+24:12 willfulness 1 6
+38:17 57:13 11-192 1:4 3:4 6 46:22
+46:7,9 willing 39:9,10 11:02 1:13 3:2 69 57:11
+53:7,13 win 20:17,20 12:03 57:18
+21:8 41:8 46:5 7
+52:3
+9:5
+53:2 wonder 39:3 78a 42:14
+9:6
+50:2 44:13,14 1681b(b)(b)

@@ -1,0 +1,1818 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+MARYLAND, :
+Petitioner : No. 12-207
+v. :
+ALONZO JAY KING, JR. :
+- - - - - - - - - - - - - - - - - x
+Washington, D.C.
+Tuesday, February 26, 2013
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 11:10 a.m.
+APPEARANCES:
+KATHERINE WINFREE, ESQ., Chief Deputy Attorney General,
+Baltimore, Maryland; on behalf of Petitioner.
+MICHAEL R. DREEBEN, ESQ., Deputy Solicitor General,
+Department of Justice, Washington, D.C.; for United
+States, as amicus curiae, supporting Petitioner.
+KANNON K. SHANMUGAM, ESQ., Washington, D.C.; on behalf
+of Respondent.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+KATHERINE WINFREE, ESQ.
+On behalf of the Petitioner 3
+ORAL ARGUMENT OF
+MICHAEL R. DREEBEN, ESQ.
+For United States, as amicus curiae,
+supporting the Petitioner 14
+ORAL ARGUMENT OF
+KANNON K. SHANMUGAM, ESQ.
+On behalf of the Respondent 28
+REBUTTAL ARGUMENT OF
+KATHERINE WINFREE, ESQ.
+On behalf of the Petitioner 59
+P R O C E E D I N G S
+(11:10 a.m.)
+CHIEF JUSTICE ROBERTS: We will hear
+argument next this morning in Case 12-207,
+Maryland v. King.
+Ms. Winfree?
+ORAL ARGUMENT OF KATHERINE WINFREE
+ON BEHALF OF THE PETITIONER
+MS. WINFREE: Mr. Chief Justice, and may it
+please the Court:
+Since 2009, when Maryland began to collect
+DNA samples from arrestees charged with violent crimes
+and burglary, there have been 225 matches, 75
+prosecutions, and 42 convictions, including that of
+Respondent King.
+JUSTICE SCALIA: Well, that's really good.
+I'll bet you, if you conducted a lot of unreasonable
+searches and seizures, you'd get more convictions, too.
+(Laughter.)
+JUSTICE SCALIA: That proves absolutely
+nothing.
+MS. WINFREE: Well, I think, Justice Scalia,
+it does, in fact, point out the fact that -- that the
+statute is working, and, in the State's view, the Act is
+constitutional.
+JUSTICE SCALIA: So that's its purpose, to
+enable you to identify future criminals -- the
+perpetrators of future crimes? That's the purpose of
+it? I thought that that wasn't the purpose set forth in
+the -- in the statute.
+MS. WINFREE: No, not -- not just to
+identify people -- the purpose of the statute is to
+enable the State to identify perpetrators of serious
+crimes and -- and to use the information to make bail
+determinations for people who are validly in their
+custody.
+JUSTICE SOTOMAYOR: And I'm having a hard
+time understanding the bail argument because, in my
+time, most bail decisions were made at the time of
+arrest. And, here, the arrest was in April, and the
+results didn't come up until August.
+MS. WINFREE: That's true,
+Justice Sotomayor.
+JUSTICE SOTOMAYOR: And, yet, he was
+detained anyway, correct?
+MS. WINFREE: He was detained anyway.
+JUSTICE SOTOMAYOR: And -- and there might
+be a case where someone's gotten out, but it would be
+the rare case.
+MS. WINFREE: Well --
+JUSTICE SOTOMAYOR: It's -- you don't use it
+routinely for the bail determination.
+MS. WINFREE: At this point, you're
+absolutely correct, Justice Sotomayor. We don't use it
+routinely for a couple of reasons. For one, as in
+Mr. King's case, there has been, in the past, a more
+substantial delay in getting those results back.
+Our -- our lab now is getting results
+between 11 and 17 days. Now, that, of course --
+JUSTICE SOTOMAYOR: Well, that doesn't
+include the time to collect the sample, send it to you,
+or the time to do the match. It's just to do the genome
+rapid, correct?
+MS. WINFREE: No, that's the whole -- that's
+the whole process, Justice Sotomayor. It's for getting
+the sample and getting it into the system, the DNA
+profile, and getting the match back. That's what we're
+being told. It's from 11 to 17 days.
+Now, of course, that wouldn't be timely for
+that first bail determination, but the State, under
+Maryland's procedure, certainly has the ability to go
+back to -- to the judge and ask that sentence -- or
+that -- I'm sorry -- that bail determination to be
+modified. And, in point of fact, though, we don't have
+any particular statistics in Maryland.
+In California's amicus brief, which was
+joined by the 49 other States and D.C. and Puerto Rico,
+they actually do cite two particular examples where --
+where two people, Castillo and Shamblin, were arrested.
+One was arrested on a credit card charge and
+another on a drug charge. Mr. Castillo was actually
+released on his -- on OR, and, when his sample was
+matched, it came back to a -- an unsolved rape and
+sodomy, and his OR was revoked.
+In Mr. Shamblin's case, he was granted
+diversion because his drug charge is a relatively
+low-level offense and, when the match came back, it --
+it tied him to a rape and murder. His diversion was
+revoked, and he's currently pending charge -- pending
+trial on both of those charges.
+CHIEF JUSTICE ROBERTS: Your -- your
+procedure limits the collection to certain violent
+offenses, right?
+MS. WINFREE: It does, Mr. Chief Justice.
+CHIEF JUSTICE ROBERTS: But your argument
+would not be so limited, would it? Under your theory,
+there's no reason you couldn't undertake this procedure
+with respect to anybody pulled over for a traffic
+violation?
+MS. WINFREE: Well, in Maryland, it's not
+just the fact that we have those -- those violent crimes
+and burglaries. Actually, we don't collect DNA unless
+someone is physically taken into custody.
+Now, with respect to --
+CHIEF JUSTICE ROBERTS: Well, I understand.
+But there's no reason you couldn't, right? I gather
+it's not that hard. Police officers who give
+Breathalyzer tests, they can also take a Q-tip or
+whatever and get a DNA sample, right?
+MS. WINFREE: Well, what I would say to that
+is that, with respect to a traffic stop, this Court
+said, in Berkemer, that a motorist has an expectation
+that a traffic stop is going to be relatively brief and
+temporary, that he or she will be given a citation and
+sent on their way.
+CHIEF JUSTICE ROBERTS: Well, how long does
+it take to -- to undergo the procedure? You know, you
+say, ah, and then -- you know.
+MS. WINFREE: It doesn't take long, but what
+I was suggesting is that, because of the nature of a
+traffic stop, this Court might well decide that a
+motorist has a reasonable expectation of privacy not
+to --
+JUSTICE GINSBURG: How about a Terry stop?
+A Terry stop?
+MS. WINFREE: In a Terry -- well, this
+Court, I guess we would look at two -- one case in
+particular, this Court's case -- decision in Hayes
+v. Florida. That involved a defendant who was taken
+into custody, so his -- he was not arrested, but taken
+into custody for -- to get his fingerprints, and this
+Court held that that was not -- that was not
+constitutional.
+But the Court further said that there could
+be a circumstance in a Terry stop, if the officer had
+reasonable suspicion to believe that -- that the
+individual was --
+JUSTICE GINSBURG: But these -- these are
+all cases -- I mean, the dominant use is to solve what
+they call cold -- cold cases, and you gave one example.
+This case is another. A rape committed 6 years before,
+right?
+And there was no reasonable suspicion, there
+was no -- nothing, right? And the suspicion comes up
+only because the DNA sample comes back as a match. So
+is it the -- this is a very reliable tool, but it's not
+based on any kind of suspicion of the individual who's
+being subjected to it, right?
+MS. WINFREE: That's correct, Your Honor.
+And, if I could go back to your question
+about the Terry stop, the cornerstone of our -- and I do
+believe that this Court could -- could -- who knows how
+this Court would come out in that situation, but I
+think, in terms of our argument, the corner --
+JUSTICE SCALIA: I know.
+(Laughter.)
+MS. WINFREE: Well, happily, we don't have
+to decide that one today. But what -- what I -- the
+cornerstone of our argument is that when an individual
+is taken into custody, an individual is arrested on a
+probable cause -- a probable cause arrest, that person,
+by virtue of being in that class of individuals whose
+conduct has led the police to arrest him on -- based on
+probable cause, surrenders a substantial amount of
+liberty and privacy.
+JUSTICE KAGAN: But, Ms. Winfree, that can't
+be quite right, can it? I mean, such a person -- assume
+you've been arrested for something, the State doesn't
+have the right to go search your house for evidence of
+unrelated crimes; isn't -- isn't that correct?
+MS. WINFREE: That's correct, Justice Kagan.
+JUSTICE KAGAN: It doesn't have the right to
+go search your car for evidence of unrelated crimes.
+MS. WINFREE: That's correct.
+JUSTICE KAGAN: Just because you've been
+arrested doesn't mean that you lose the privacy
+expectations and things you have that aren't related to
+the offense that you've been arrested for.
+MS. WINFREE: That's correct, but what we're
+seizing here is not evidence of crime. What it is, is
+information related to that person's DNA profile. Those
+26 numbers --
+JUSTICE KAGAN: Well -- and if there were a
+real identification purpose for this, then I understand
+that argument. But, if it's just to solve cold cases,
+which is the way you started, then it's just like
+searching your house, to see what's in your house that
+could help to solve a cold case.
+MS. WINFREE: Well, I would say there's a
+very real distinction between the police generally
+rummaging in your home to look for evidence that might
+relate to your personal papers and your thoughts. It's
+a very real difference there than swabbing the inside of
+an arrestee's cheek to determine what that person's
+CODIS DNA profile is.
+It's looking only at 26 numbers that tell us
+nothing more about that individual.
+JUSTICE KAGAN: Well, but, if that's what
+you're basing it on, then you're not basing it on an
+arrestee. I mean, then the Chief Justice is right, it
+could be any arrestee, no matter how minor the offense.
+It could be just any old person in the street.
+Why don't we do this for everybody who comes
+in for a driver's license because it's very effective?
+MS. WINFREE: I think the difference there
+is these people are lawfully in custody, having been
+arrested based on probable cause, and that --
+JUSTICE SOTOMAYOR: All right. So, now, I
+see two lines of cases, okay? The Fourth Amendment,
+which says you can't do a search without a warrant and
+probable cause, and Samson, and most of your brief
+argument was based on Samson.
+As I read Samson, it was the special
+relationship between the parolee or the probationary
+person, that line of cases, and the assumption being
+that they're out in the world, I think, by the largesse
+of the State. So the State has a right to search their
+home, just as it would their cell, essentially.
+Why is that true for an arrestee? What
+about -- what creates this special relationship that
+permits you to intrude, search their home, search their
+car, search their person, to solve other cases?
+MS. WINFREE: Well --
+JUSTICE SOTOMAYOR: Because you're going to
+have to tell me why searching their person is different
+than searching their home or car.
+MS. WINFREE: Well, if I could start at the
+back end of your question, Justice Sotomayor, we're not
+suggesting -- and this statute doesn't permit the State
+or police to search an arrestee's home or his person
+beyond -- beyond simply swabbing the cheek for the DNA.
+Now, in terms of the -- the individual's
+relationship to the State, an arrestee is not that
+dissimilar. There is, obviously, a range of -- of
+relationships with the State. Those of us who are out
+on the street, ordinary citizens are at one end, people
+who are imprisoned upon conviction are at the other end.
+And -- but, in terms of when an arrestee is
+physically in custody, he has a reduced expectation of
+privacy, and that's what makes, in our view, it makes
+this case more similar. To be sure, this is not Samson.
+It's -- there's no -- there's no one case in this
+Court's jurisprudence that's exactly like this.
+JUSTICE SOTOMAYOR: There's no other case,
+but Samson, in that line that permits searches on this
+balancing.
+MS. WINFREE: Well --
+JUSTICE SOTOMAYOR: So what I want to know
+is what's the legal theory now? How far do we let the
+State go each time it has some form of custody over you,
+in schools, in workplaces, wherever else the State has
+control over your person?
+MS. WINFREE: Well, those are different
+situations, Justice Sotomayor. We're not suggesting
+that -- that the police could swab a student for -- for
+a DNA sample. We're talking about a special class of
+people who, by their conduct, have -- have been arrested
+based on probable cause.
+JUSTICE BREYER: Can I ask you a particular
+specific quick question?
+MS. WINFREE: Yes, Justice Breyer.
+JUSTICE BREYER: As I read this, this
+concerns people arrested for a felony, a crime of
+violence, attempted crime of violence, burglary, or
+attempted burglary.
+MS. WINFREE: Yes, Justice Breyer.
+JUSTICE BREYER: And so we're not talking
+about people who are driving cars and traffic stops and
+all these other things?
+MS. WINFREE: That's absolutely correct.
+JUSTICE BREYER: The only thing we have to
+decide is whether a person, where there's probable cause
+to arrest a person for those four crimes, their
+fingerprints are all taken.
+MS. WINFREE: Yes.
+JUSTICE BREYER: And whether they also can
+take DNA. That's the issue?
+MS. WINFREE: That's correct,
+Justice Breyer.
+JUSTICE BREYER: Okay. Nothing else. Thank
+you.
+MS. WINFREE: If there are no further
+questions, I'll reserve the remainder of my time
+for rebuttal.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Mr. Dreeben?
+ORAL ARGUMENT OF MICHAEL DREEBEN,
+FOR UNITED STATES, AS AMICUS CURIAE,
+SUPPORTING THE PETITIONER
+MR. DREEBEN: Thank you, Mr. Chief Justice,
+and may it please the Court:
+Arrestees are in a unique category. They
+are on the gateway into the criminal justice system.
+They are no longer like free citizens who are wandering
+around on the streets retaining full impact Fourth
+Amendment rights.
+The arrest itself substantially reduces the
+individual's expectation of privacy. The arrestee can
+be searched and sent to arrest. His property, whether
+or not connected with a crime, can be inventoried.
+When he's taken into the jail situation, he
+can be subjected to a visual strip search. If he's
+admitted to the population of the jail, he'll be given a
+TB test and a thorough medical screen. These are not
+individuals who are like free citizens, and they are not
+like free citizens in another significant respect.
+Arrestees are rarely arrested for the first
+time. They tend to be repeat customers in the criminal
+justice system. Up to 70 percent of arrestees have been
+previously arrested.
+CHIEF JUSTICE ROBERTS: Yes, but that
+doesn't mean, for example, that you can go into their
+house without a warrant.
+MR. DREEBEN: That is certainly correct,
+Chief Justice Roberts, and the reason for that is going
+into the house will expose a substantial number of
+highly private things to the view of the State. Taking
+a DNA sample is not of that character. It is far more
+like taking a fingerprint.
+CHIEF JUSTICE ROBERTS: Well, that -- this
+is a factual question. I understand your emphasis on
+the fact that it only looks at 26 loci, and they are
+supposedly not connected in any way with other
+information.
+Does the sample that you retain, can it be
+evaluated more broadly? In other words, saying, well,
+the law says we only look at these 13, but we have this
+saliva, we want to look at all sorts of other stuff.
+MR. DREEBEN: Well, by law, the -- the
+government, under CODIS, and the States cannot look at
+anything except identification information. The sample
+contains the entire genome. The sample cannot be looked
+at as a matter of law.
+And I think it's critical to this case to --
+for the Court to understand that, if the Court
+concludes, as is probably correct, that the individual
+will retain a reasonable expectation of privacy in the
+genomic material that does not reveal identity, then
+additional Fourth Amendment scrutiny would be required
+before the government could make use of the rest of the
+genome.
+Here, it's making use of an identity
+indicator that is highly similar to fingerprints with
+one significant difference: It is far more accurate.
+When Respondent committed his rape --
+JUSTICE KAGAN: Well, Mr. Dreeben, is it
+really? Because, if this were like fingerprints, I
+think that you would have a quite good case. But, as
+I've been reading about this, it -- it seems as though
+the technology is not the same as the fingerprint
+technology; and, because the technology is different, it
+is used differently.
+Fingerprints, you go in, you put in a
+fingerprint, there is identifying information that comes
+back to you in 5 minutes, right?
+This, you put in something, and Ms. Winfree
+said was 11 to 17 days, in this case, it's four months,
+and it doesn't seem to be used because the technology
+doesn't allow it to be used as the kind of routine
+identifier that fingerprints does.
+So am I wrong about that?
+MR. DREEBEN: You are not wrong, Justice
+Kagan, but the future is very close to where there will
+be rapid DNA analyzers that are devices that can analyze
+and produce the identification material in -- in the DNA
+within 90 minutes. And the design of this program is to
+put them at the booking station, so that DNA can be
+taken, and, within 90 minutes, that information is
+known.
+In that circumstance, it will be highly
+relevant to the immediate release/custody decision,
+which it already can play a role in --
+JUSTICE BREYER: That -- that part is
+surprising. Then do you think the States are wrong? I
+mean, they all say in their brief, in footnote 10, DNA
+identification database samples have been processed in
+as few as 2 days in California and -- although around
+30 days has been average.
+So I guess the technology is there, now, to
+process this in 2 days, not 9 days.
+MR. DREEBEN: Yes, Justice Breyer -- Yes,
+Justice Breyer. There is no question it can be done
+quickly because of the volumes. I'm not contending
+that, today, it is --
+JUSTICE BREYER: In the case of -- do you
+have any information -- are there instances with
+fingerprints where returns have not come back for as
+long as 30 days? Or are they all, or almost all, done
+in 5 minutes?
+MR. DREEBEN: Fingerprint histories tend to
+come back quickly, except if the prints are
+unrecognizable or unreadable. It is very significant, I
+think, that fingerprints are used for crime solution, as
+well as --
+JUSTICE ALITO: Well, before you get on
+to -- before you go to that, fingerprints have been
+taken, I believe, from people who are booked for
+offenses for many, many, many years; isn't that right?
+MR. DREEBEN: Correct.
+JUSTICE ALITO: When did -- when did the
+FBI's AFIS system for comparing fingerprints by computer
+begin?
+MR. DREEBEN: That, I cannot tell you,
+Justice Alito. It is now in use. It is in use both for
+identification, and, contrary to the representation of
+Respondent in his brief, fingerprints are run against
+the latent fingerprint database, which reflects
+fingerprints from crime scenes.
+It returns about 50,000 hits a year.
+JUSTICE ALITO: Well, the question that I
+had was this: If the constitutionality of taking
+fingerprints is dependent on the speed with which a
+fingerprint comparison can be done now by a computerized
+system, would that mean that the taking of fingerprints
+was unconstitutional back in, let's say, the '50s, when
+that wasn't possible, and fingerprints could only be
+compared manually?
+MR. DREEBEN: No, I certainly do not think
+that it would have been unconstitutional at any point
+because the State has a compelling interest in taking
+biometric identification information from the individual
+that is arrested and using it for a myriad of purposes,
+determining criminal history, attempting to solve
+crimes, funneling that information back --
+JUSTICE KAGAN: Mr. Dreeben, could I
+understand how this works, exactly? The swab is taken,
+and if I -- there is a database which is known
+offenders, and there is a database which is kind of
+crime scene DNA, is that correct?
+MR. DREEBEN: That is correct.
+JUSTICE KAGAN: And, when the swab is taken
+and it's put into the system, you check that against the
+crime scene DNA database, is that correct?
+MR. DREEBEN: That is the routine method
+under CODIS, yes.
+JUSTICE KAGAN: Do you check it -- does
+Maryland check it against the known offenders database?
+MR. DREEBEN: I do not know precisely
+whether Maryland does that. The Federal system does not
+routinely do that. Upgrades to the software system will
+permit it to do that, and many States do it.
+JUSTICE KAGAN: Because that suggests that,
+right now, it's functioning as let's solve some crimes,
+which is a good thing -- you know, that we should solve
+some crimes, but not as an identification device because
+you're -- if it were an identification device, you would
+be comparing it to the known offender database, not to
+the cold case database.
+MR. DREEBEN: I agree with that, and I think
+that, in California, the brief for the States indicates
+that many States do that, and California itself uses it
+to resolve discrepancies in identity when a fingerprint
+comes back and it returns to multiple names, or the
+fingerprint is not good enough to permit an
+identification. California cross-checks, so it does
+perform an identification function.
+And, as I suggested, with the advent of
+rapid DNA, it's not that it is unconstitutional before
+rapid DNA, but rapid DNA will permit DNA identification
+to replace fingerprint identification because it's far
+more accurate, and it has far more utility in the
+secondary purpose of fingerprints, which is to match
+them to latent prints and solve crimes.
+And this is highly relevant to both of the
+major purposes for taking DNA, crime solution and
+facilitating the release/custody determination. Any
+judge who is looking at a bail case would like to
+know -- I have a guy who has been arrested on grand
+theft auto. He has no criminal history.
+Should I release him back on the street?
+Well, it's a first offense, he has family ties, maybe
+yes. If that judge --
+JUSTICE GINSBURG: Mr. Dreeben, can you
+explain how it works, mechanically? Because I
+understand -- at least maybe this is just the Maryland
+statute, but if you can't use the swab that is taken
+from the arrestee when he is arrested -- it can't be
+used, it's inadmissible -- then you do it again. You do
+it -- but what it does supply is probable cause because
+you found out that he was a perpetrator of a rape 6
+years ago.
+Then you have probable cause and you get a
+warrant and do it again. What -- what is the reason for
+the doubling -- the doing it twice?
+MR. DREEBEN: That serves an enhanced
+reliability function, to ensure that there is no mix-up,
+and it provides an evidentiary function of permitting
+the new DNA match to be admitted in a sample that is
+taken under the warrant.
+It has nothing to do with undercutting the
+value of taking DNA on the spot because I was indicating
+the judge who would know this defendant's DNA came back
+and returned a cold case hit to a murder-rape. He's not
+such a good risk to be put back on the street.
+CHIEF JUSTICE ROBERTS: That argument only
+makes sense if we're in your -- your future world where
+it's 90 minutes, right?
+MR. DREEBEN: No, Mr. Chief Justice --
+CHIEF JUSTICE ROBERTS: It depends on -- if
+we have a situation such as Maryland says, 11 to
+17 days, the footnote, whatever, the amicus brief says
+something else, but you are not going to put off the
+bail hearing for 2 weeks?
+MR. DREEBEN: No, but bail can be revoked,
+and the government will go back in and make a motion to
+revoke bail, if new information emerges that indicates
+this individual is a danger to the community.
+And the whole point of this is we are
+talking about arrestees, somebody who has taken a step
+into the gateway of the criminal justice system. The
+criminal justice system, at that point, has to deal with
+this person.
+It has to know who is this person, which
+includes what has this person done, so we know whether
+to release him and, if we keep him, in what situations
+do we keep him.
+JUSTICE SOTOMAYOR: That doesn't explain why
+you can't go into his home.
+MR. DREEBEN: Yes, it does, Justice --
+JUSTICE SOTOMAYOR: I mean -- you know, if
+the whole issue is how dangerous is he, you should be
+able to go into his home, into his car, to any place he
+has visited, to just sort of run rampant in his life to
+make sure that he is not a bail risk.
+MR. DREEBEN: We are not asking for that,
+and I don't think that the Court's balancing test
+suggests that these two cases are equivalent. My first
+submission is that because we are talking about --
+JUSTICE SOTOMAYOR: But you are because what
+you are saying really is law enforcement need, alone,
+without any suspicion whatsoever of another crime,
+permits you to take this information from the person and
+use it.
+MR. DREEBEN: I'm saying that because an
+arrestee is someone whose conduct has given rise to
+probable cause that he committed a crime, he's in a
+different position from ordinary citizens. And this
+Court does, as it did in Samson and in Knights, balance
+the expectations of privacy against the governmental
+interests.
+And, here, the expectation of privacy is
+minimal in the cheek swab, and the information obtained.
+It's identical --
+CHIEF JUSTICE ROBERTS: According to Samson
+and Knights, you're dealing with people who are still
+subject to the -- a criminal sentence.
+MR. DREEBEN: Well, they're differently
+situated in that respect, Mr. Chief Justice. And I will
+acknowledge that there is no case on my side that
+decides the case this way. And there's no case that --
+on Respondent's side that decides the case for him. The
+Court, I think, has treated the category of what he
+calls special needs cases -- what the Court has called
+special needs cases -- as dealing with suspicionless or
+warrantless intrusions on ordinary citizens.
+JUSTICE KAGAN: But the typical special
+needs case is one in which we say there's no law
+enforcement interest, that there's an interest other
+than the interest in solving crime.
+MR. DREEBEN: Well, we have a strong law
+enforcement interest with respect to people who are
+arrested based on probable cause. They are no longer
+similarly situated to other people. They can be
+deprived of their liberty. Their property can be
+searched upon entry into the jail.
+JUSTICE KAGAN: When you started,
+Mr. Dreeben, you started by saying -- you know, they
+have a reduced expectation of privacy, and we have
+important interests. You went right into free-form
+balancing. That's typically not the way we do it.
+If we said to you, look -- you know, the way
+we do it is you need a warrant, and if you -- there is
+some exceptions, then you have to put yourself into a
+well-recognized exception where you can search without a
+warrant. And that's especially the case when there is
+no suspicion whatsoever.
+How would you do it? How would you do it
+short of free-form balancing? What exception are you a
+part of?
+MR. DREEBEN: We're not asking for a new
+exception. What we're asking for is for the Court to
+apply what it called "the key principle of the Fourth
+Amendment." It said that in Bell v. Wolfish. It said
+that in Martinez --
+JUSTICE SOTOMAYOR: The key principle is the
+Fourth Amendment --
+JUSTICE KENNEDY: Is it -- is it your
+position that this is a search incident to an arrest?
+MR. DREEBEN: No, Justice Kennedy, it's not.
+That stands on its own doctrinal footing. But we do
+think the fact that --
+JUSTICE KENNEDY: Why isn't this is a search
+incident to an arrest?
+MR. DREEBEN: It is certainly a search --
+JUSTICE KENNEDY: Just -- just like taking
+the pockets out and -- and seeing what's in the person's
+overcoat and so forth is a search incident to an arrest.
+MR. DREEBEN: You can certainly look at it
+as an incident of the arrest. The Court's search
+incident to arrest cases have been bottomed on different
+justifications than the ones that we're advancing here.
+I'm entirely happy if you, Justice Kennedy,
+view it as an incident to arrest in that sense because I
+think that it is appropriately viewed as something that
+the government has a compelling interest in doing once a
+person has been arrested, and that is, knowing who that
+person is, which includes knowing what the person has
+done.
+And DNA does that in a far more powerful way
+than fingerprints has done --
+JUSTICE SCALIA: Yes, but our -- our search
+incident to arrest cases don't allow that. That's sort
+of the point. They -- they allow you to search for
+firearms, they allow you to search for material that
+relates to the crime for which the person has been
+arrested.
+But you can't search the person for other
+stuff.
+MR. DREEBEN: That's inaccurate,
+Justice Scalia. A search incident to arrest allows a
+full search of the person for any destructible
+evidence because a person who has been arrested has a
+tremendous incentive to destroy evidence.
+And I just want to come back --
+JUSTICE SCALIA: Well, wait. Evidence
+relating to matters other than the crime of arrest?
+MR. DREEBEN: Yes, on -- on the individual's
+person. The crime of arrest limitation appears only in
+Arizona v. Gant, and it relates to cars. But I think
+it's critical to note that Respondent has conceded that
+an individual can have their DNA taken once convicted.
+Suppose we have the same individual who's
+picked up on grand theft auto, and that individual knows
+that, if he's convicted of grand theft auto, he is going
+to have his DNA taken, but he also knows that he's
+committed a string of rapes. And, if the government
+cannot take his DNA now, it will not connect him -- may
+I complete the sentence -- it will not connect him to
+those rapes.
+So he has a tremendous incentive to flee.
+The government has a tremendous need for this
+information at the time of arrest to solve crimes,
+exonerate the innocent, and give closure to victims.
+Thank you.
+CHIEF JUSTICE ROBERTS: Thank you,
+Mr. Dreeben.
+Mr. Shanmugam?
+ORAL ARGUMENT OF KANNON K. SHANMUGAM
+ON BEHALF OF THE RESPONDENT
+MR. SHANMUGAM: Thank you, Mr. Chief
+Justice, and may it please the Court:
+Maryland searched my client without a
+warrant, in order to investigate crimes for which there
+was no suspicion. It is settled law that warrantless,
+suspicionless searches are presumptively
+unconstitutional.
+The State cites no --
+JUSTICE KENNEDY: He was held -- he was held
+with probable cause --
+MR. SHANMUGAM: That is correct.
+JUSTICE KENNEDY: -- and his -- and his
+custody was restrained. He was in a police station.
+MR. SHANMUGAM: That is also correct.
+JUSTICE KENNEDY: Were handcuffs put on him
+during the transport process? Do you know?
+MR. SHANMUGAM: I don't know that the record
+indicates that.
+JUSTICE KENNEDY: But they -- they could --
+they could have been?
+MR. SHANMUGAM: Yes.
+JUSTICE KENNEDY: So his liberties were
+constrained in all of those respects. He would have to
+take off most of his clothes, subject to a patdown
+search?
+MR. SHANMUGAM: We're --
+JUSTICE KENNEDY: They could look -- they
+could look in his -- in his briefcase?
+MR. SHANMUGAM: Yes. Just to be clear,
+Justice Kennedy, we're not disputing the proposition
+that certain intrusions on privacy are permissible as to
+arrestees, but where we fundamentally disagree with the
+State and the Federal Government is with regard to the
+argument that this Court should take the rationale of
+Samson v. California and essentially extend that
+rationale to the point of arrest.
+The government --
+JUSTICE KENNEDY: I think -- I think there
+is some merit to your argument in that regard. In
+Samson, he was a parolee, and he actually, as I recall,
+signed a -- a consent form as part of the probation.
+MR. SHANMUGAM: That is correct. An agreed
+part of the condition of parole. That is -- that is
+correct.
+CHIEF JUSTICE ROBERTS: Well, that is right.
+But I'm curious as to why your position is that -- let's
+say he served his time. He's no longer subject to the
+criminal justice system. He's not on parole; he's not a
+probationer. You concede that the DNA evidence can be
+taken from him, correct?
+MR. SHANMUGAM: I would concede,
+Mr. Chief Justice, that it -- that it could be taken at
+least while he is still under the supervision of the
+State because, after all, both Samson and Knights were
+cases in which the individual was still under State
+supervision; that is to say, we're not arguing that, at
+the point of conviction, that the resulting lessened
+expectation of privacy extends in perpetuity as, say, a
+firearm or felon disability does.
+But what we are arguing is that -- to look
+at this Court's cases in Samson and Knights, they both
+centrally depended on the proposition that it is the
+fact of conviction that deprives an individual of the
+full protections of the Fourth Amendment.
+CHIEF JUSTICE ROBERTS: What is the
+pertinence of the fact -- I mean, this is not something
+that people are or can keep private. I mean, if you're
+in the interview room or something, you take a drink of
+water, you leave, you're done. I mean, they can examine
+the DNA from that drink of water.
+MR. SHANMUGAM: Well, Mr. Chief Justice --
+CHIEF JUSTICE ROBERTS: Doesn't that
+compromise the -- the expectation of privacy?
+MR. SHANMUGAM: I think it's an open
+question as to whether or not there would be a search
+when DNA is collected from cells that could be said to
+have been involuntarily or voluntarily abandoned.
+And, to the extent that there's an argument
+that there would still be a search, it would be based on
+this Court's reasoning in Skinner, where the Court
+suggested that the subsequent analysis of a urine sample
+would constitute a further invasion of the test of --
+CHIEF JUSTICE ROBERTS: No, it's not a --
+MR. SHANMUGAM: -- the privacy interest.
+CHIEF JUSTICE ROBERTS: My question was not
+trying to get at whether it's a search or not. It's
+whether -- it's getting at the reasonableness of the
+expectation of privacy that the -- your DNA is protected
+from examination when it's left wherever you happened to
+have been.
+MR. SHANMUGAM: I would say two things about
+the privacy interests at stake here. First of all,
+there is an intrusion into the body, and that is what
+triggers the applicability of the Fourth Amendment here,
+to be sure, but it is also a relevant intrusion for
+Fourth Amendment purposes.
+But, secondly, and perhaps more importantly,
+there is a legitimate expectation of privacy in the
+contents of an individual's DNA. And, to the extent
+that this Court were to engage in balancing, we
+certainly think that interest is --
+CHIEF JUSTICE ROBERTS: Well, I mean, isn't
+that part of the -- isn't that part of the question,
+whether there is a legitimate expectation of privacy in
+a person's DNA?
+MR. SHANMUGAM: Yes, and we think that the
+answer to that question is yes, that an individual
+has --
+CHIEF JUSTICE ROBERTS: Well, I know, but
+you're simply just -- you're -- I guess that's begging
+the question. And -- but I'd just be repeating my
+question -- how legitimate is it to you to expect
+privacy in something that the police can access without
+you even knowing about it, without any voluntary or
+involuntary -- if you take a drink of water, if you
+leave behind a cigarette butt?
+MR. SHANMUGAM: Well -- Mr. Chief Justice,
+I've heard Mr. Dreeben to concede, as I think he must,
+that an individual retains a legitimate expectation of
+privacy in at least some of the information contained in
+the individual's DNA.
+And I suppose we can have a dispute about
+what types of information would qualify. But I think it
+really is settled that there are profound privacy
+concerns raised by the government's coming into
+possession of an individual's DNA.
+JUSTICE SCALIA: Mr. Shanmugam, I -- I
+wouldn't have made the concession that you've made, that
+this case is about reasonable expectation of privacy.
+If there's no reasonable expectation of privacy, there's
+no search.
+But, here, there is a search. You have a
+physical intrusion. You -- you pull a guy's cheek apart
+and stick a -- a swab into his mouth. That's a search,
+reasonable expectation of privacy or not.
+MR. SHANMUGAM: Well -- Justice Scalia, I
+didn't think I was conceding anything, but if I --
+JUSTICE SCALIA: Well, I thought you did.
+MR. SHANMUGAM: If I was -- let me just be
+clear. We don't think that this Court should be
+engaging in balancing here. Indeed, that is really our
+principal submission to this Court.
+JUSTICE ALITO: Well, do you think the
+intrusion is worse when you just take a swab and you go
+inside somebody's cheek, as opposed to rolling
+fingerprints? Which is the greater intrusion?
+MR. SHANMUGAM: Well, we think that it is
+settled that intrusions into the body constitute a
+search for Fourth Amendment purposes.
+JUSTICE ALITO: Which is --
+MR. SHANMUGAM: I suppose that the argument
+could be made, Justice Alito, that there is a similar
+trespass on the person and, therefore, a search when
+fingerprints are collected. I would note,
+parenthetically, that, in the first half an hour of this
+argument, we heard no explanation, either by the State
+or by the Federal government, as to their theory as to
+why fingerprinting is constitutional.
+Now, we --
+JUSTICE ALITO: Well, the thrust of a lot of
+what we -- we have been presented with in the briefs and
+what we have heard this morning -- and, by the way, I
+think this is perhaps the most important criminal
+procedure case that this Court has heard in decades.
+The -- the attorney for the State began by
+listing a number of crimes just in Maryland that had
+been solved using this. So this is what is at stake:
+Lots of murders, lots of rapes that can be -- that can
+be solved using this new technology that involves a very
+minimal intrusion on personal privacy.
+But why isn't this the fingerprinting of the
+21st century? What is the difference? If it was
+permissible and it's been -- it's been assumed to be so
+for decades, that it is permissible to fingerprint
+anybody who's booked, why is it not permissible to take
+a DNA sample from anybody who is arrested?
+MR. SHANMUGAM: Justice Alito, we think that
+fingerprinting is distinguishable on three grounds.
+First of all, as a practical matter, an individual's DNA
+contains far more information and far more personal
+information than an individual's fingerprints. But, as
+a doctrinal matter, we think that fingerprinting is
+distinguishable --
+JUSTICE ALITO: Well, as to -- as to the
+first, in our cases involving searches for -- where a
+urine sample is taken to determine drug use, the urine
+can be analyzed for all sorts of things besides the
+presence of drugs, and the Court has said, in those
+cases, we are only going to consider that -- we are
+considering that this is a reasonable search with
+respect to the determination of whether the person has
+taken drugs, not all the other information --
+MR. SHANMUGAM: But that is because --
+JUSTICE ALITO: -- that might be obtained
+from it.
+MR. SHANMUGAM: But that is because,
+Justice Alito, in those cases, cases like Skinner and
+Von Raab and Vernonia, there was a special need, apart
+from the ordinary interests in law enforcement. And,
+here, it is clear that the primary purpose of the
+Maryland statute and, indeed, the similar statutes on
+the Federal and State levels, was the ordinary interest
+in crime control, to solve unsolved crimes.
+And that is why those special needs cases
+are distinguishable. And I think that's why the State,
+essentially, disavows any reliance on the Special Needs
+Doctrine --
+JUSTICE KAGAN: What are your other two
+distinctions?
+MR. SHANMUGAM: With regard to
+fingerprinting, we think that, notwithstanding the
+physical intrusion involved with taking an individual's
+fingers and putting them on the pad, that the better
+view is that fingerprinting is not a search, and, to the
+extent that this Court has addressed the question, it
+has suggested that fingerprinting is not a search
+because an individual has no expectation of privacy in
+their fingerprints because their fingers are constantly
+exposed --
+JUSTICE BREYER: I would like a complete
+answer to what Justice Alito and Justice Kagan both were
+asking, I think. I mean, to summarize that, if I look,
+in terms of intrusion, I am not talking legally, I am
+talking practically. It doesn't seem to me -- I can
+argue that it is certainly a much lesser intrusion than
+fingerprints. You have to stand there, have the thing
+rolled; your -- stick out your tongue. I mean, it's
+hard to say it's more, for me, I'm not saying for
+others.
+Accuracy, it's much more accurate, and that
+doesn't just help the defendant. There is a whole brief
+here filed by the victims that have case after case,
+where people spent 5 years in prison, wrongly, and where
+this system and the CODIS helped victims avoid being
+arrested and sent to jail when they were innocent, so it
+works both ways.
+So, one, it's no more intrusive; two, it is
+much more accurate. And three and four and five, how
+it's different and worse in practice, is what I would
+ask you to summarize.
+MR. SHANMUGAM: Sure. Well --
+JUSTICE BREYER: And, by the way, when you
+talk about what information you could get out of it,
+there is a brief filed by leading scientists in the
+field, and I came away from the brief thinking there
+isn't much more information because fingerprints can be
+abused, too.
+Of course, you can learn loads from
+fingerprints. Photos, try photos; my God, you could
+learn a lot, who he was, who -- you know, so all these
+things could be abused. But I came away from that
+brief, frankly, to think, well, in terms of the
+possibility of abuse, it's there, but these other
+things, photos, too.
+MR. SHANMUGAM: Justice Breyer, let me --
+JUSTICE BREYER: Okay. So, now, you tell
+me, in light of that hostile question --
+(Laughter.)
+JUSTICE BREYER: -- I would like you -- I
+would like you to tell me, okay, it's different from
+fingerprints and worse because of one, two, three, and I
+will write it down, and I'll remember it.
+JUSTICE SCALIA: He gave us one and two. I
+have been waiting for three. Will you drop the shoe?
+(Laughter.)
+MR. SHANMUGAM: Let me -- I will gladly get
+to three with regard to fingerprinting, and then I would
+like to say a word about balancing, in the event that
+the Court reaches it. Obviously, we don't think that
+balancing is appropriate here because we don't think
+that the Special Needs Doctrine is applicable, and we
+don't think that Samson should be extended to arrestees.
+But, with regard to fingerprinting, the
+other reason why we think fingerprinting is different,
+above and beyond the fact that we think the better view
+is that fingerprinting is not a search, is because
+fingerprinting, as it is currently practiced, does serve
+a special need.
+The primary purpose of fingerprinting is to
+identify an individual who is being taken into the
+criminal justice system.
+JUSTICE KAGAN: So, Mr. Shanmugam, that
+seems to me a real distinction in this case, as it's
+been litigated. I take what the government is saying is
+something like, give us 5 years, and those won't look
+very different.
+In other words, we will be able to do, in 5
+years' time, exactly what we can do with fingerprinting,
+except it will be, as Justice Breyer says, more
+accurate. So we are just about 5 years ahead of that,
+so give us a break.
+MR. SHANMUGAM: And my response to that
+would be that, under the Special Needs Doctrine, what is
+relevant is not how a system could conceivably operate;
+what is relevant is the primary purpose behind the
+program at issue.
+So, if the government were to come back in 5
+years' time with a DNA testing program, the primary
+purpose of which was pretrial supervision or
+identification, one of these other purposes that is
+being offered, then, sure, the analysis would be
+different.
+That is simply a consequence of the fact
+that this Special Needs Doctrine, unlike the rest of the
+Fourth Amendment, looks to purpose, namely, the purpose
+of the program at issue.
+JUSTICE KENNEDY: A person -- a person has
+been arrested for a felony and is in custody, do the
+police -- does the justice system have an interest in
+knowing whether that person committed other crimes?
+MR. SHANMUGAM: The justice system always
+has an interest in law enforcement and solving crimes,
+and we certainly don't dispute that proposition. But
+what we do dispute is Mr. Dreeben's principal submission
+to this Court, which is that simply because law
+enforcement can do certain things to arrestees, it can
+do others.
+The primary thing is --
+JUSTICE KENNEDY: My question is whether or
+not the police, who have John Doe in custody for a
+felony, have an interest in knowing, at the outset or
+within a few weeks' time, whether or not that person has
+committed other crimes?
+MR. SHANMUGAM: The difference between an
+arrestee and an ordinary citizen, Justice Kennedy, is
+that, as to an arrestee, the police have probable cause
+to believe that the arrestee committed a particular
+offense.
+JUSTICE KENNEDY: But they also have a
+reason for keeping him in custody.
+MR. SHANMUGAM: Related --
+JUSTICE KENNEDY: And my -- my question is,
+do they have an interest -- a legitimate interest in
+knowing if that person has committed other crimes?
+MR. SHANMUGAM: They have that interest,
+but, if they want to investigate other crimes, they have
+to do what they would have to do as to an ordinary
+citizen. They have to have a warrant or some level of
+individualized suspicion.
+CHIEF JUSTICE ROBERTS: There are two
+different -- two different interests. One is we want to
+solve unsolved crimes; and the other is we want to be
+sure -- we have someone in our custody, and we want to
+be sure, before he is released back into the community,
+that he isn't a person who has committed five violent
+crimes before that.
+Now, your brief says, well, the only
+interest here is the law enforcement interest. And I
+found that persuasive because of the concern that it's
+going to take months to get the DNA back anyway, so they
+are going to have to release him or not before they know
+it.
+But if we are in a position where it now
+takes 90 minutes -- or will soon take 90 minutes to get
+the information back, I think that's entirely
+different because, there, you can find out whether --
+it's just tied in with the bail situation, do you want
+to release him or not?
+MR. SHANMUGAM: The touchstone of the
+analysis, under the Special Needs Doctrine, is what was
+the primary purpose of the program at issue. And there
+is no evidence that pretrial supervision was a purpose
+of any of these.
+CHIEF JUSTICE ROBERTS: Well, that's
+because -- that's because we are not yet at a situation
+where it takes 90 minutes. Sure, it's not going to do
+you any good if it's taking 4 months or whatever it took
+in this case.
+But, if it's at the point where it's 90
+minutes, it would be critical to make that
+determination.
+MR. SHANMUGAM: Well, Mr. Chief Justice, as
+I said to Justice Kagan, the constitutional analysis may
+very well change at later point. But I think it's
+important to underscore that neither the State of
+Maryland nor the Federal government identifies a single
+instance in which a pretrial supervision decision in
+their jurisdictions was altered as a result of the DNA
+test.
+CHIEF JUSTICE ROBERTS: Well, let's put it
+this way. Let's -- let's say the judge or the
+magistrate is going to make a bail determination and he
+says, well, it's important to me to know whether you are
+going to commit another crime.
+So we are not saying you have to give a DNA
+sample, but it will enter into my calculation if you
+refuse to do it.
+MR. SHANMUGAM: Well, outside the
+programmatic context, ordinary Fourth Amendment rules
+would apply. And ordinary --
+CHIEF JUSTICE ROBERTS: Well, what does that
+mean? Is that okay or not?
+MR. SHANMUGAM: Well, I think, in that
+circumstance, where there is no individualized
+suspicion, a search cannot occur. And an
+arrestee stands --
+CHIEF JUSTICE ROBERTS: Well, we do it --
+doesn't that sound just like a Breathalyzer? You are
+pulled over, they say, we want you to take a
+Breathalyzer test. They say, you don't have to, but, if
+you don't, your license is suspended for 6 months or
+whatever.
+Why isn't that the same thing.
+MR. SHANMUGAM: Well -- you know, I will say
+that the one thing that is slightly different about your
+hypothetical, Mr. Chief Justice, is that the analysis
+might be somewhat different where what you are talking
+about is a condition of release. I think you would
+trigger the Unconstitutional Conditions Doctrine and the
+analysis might operate somewhat separately -- somewhat
+differently.
+But, just to conclude with regard to my
+answer with Justice Kennedy and then to get back to the
+rest of Justice Breyer's question, Justice Kennedy, with
+regard to arrestees, the intrusions on privacy that are
+permissible are all intrusions that relate to the
+arrest.
+So to take the two principal examples, the
+Search Incident to Arrest Doctrine, which you mentioned,
+and searches associated with an individual's continued
+detention, so the strip searching example, those
+doctrines have discrete justifications that limit their
+scope.
+So the Search Incident to Arrest Doctrine
+permits searches for officer safety, to prevent
+destruction of evidence, and at least in the vehicular
+context, to search for evidence related to the offense
+of arrest.
+Now, none of those rationales apply here,
+and I would note, parenthetically, that in
+Schmerber v. California, this Court suggested that the
+Search Incident to Arrest Doctrine would not permit
+searches into the body. It will permit only --
+JUSTICE KENNEDY: But we are also talking
+about identity. I assume that, in Maryland and in a
+number of States, the time between release on bail and
+return for trial is more than four months.
+And, if it's found, as an identity matter,
+that this person has a criminal record or that they
+are -- is suspected of serious crimes, that is a
+mandatory ground for reconsideration of bail. And you
+say there is no interest in that.
+MR. SHANMUGAM: I am not disputing that the
+government has an interest in knowing about prior
+offenses that an individual has committed. What I am
+simply saying is that the primary purpose of DNA
+testing, unlike fingerprinting, is to investigate
+unsolved crimes.
+That is the ordinary interest in law
+enforcement, and when the government is indicating --
+JUSTICE GINSBURG: I thought
+fingerprinting -- Mr. Shanmugam, I thought
+fingerprinting was used to determine whether they -- the
+person has a record. We have this person, and now, we
+check the fingerprints to find out if he has a prior
+record, that's different from to find out if he has
+committed a crime that we don't know about.
+But -- but are fingerprints used to
+determine whether the person has a prior record?
+MR. SHANMUGAM: Fingerprints taken upon
+booking are primarily used for the purpose of
+identification, and, by identification, I would include
+determining whether the individual had a prior criminal
+record because, as IAFIS is currently structured, that
+is information that is returned once there is a hit for
+that initial search.
+Now --
+JUSTICE ALITO: What was the purpose of
+fingerprinting before it was possible to make
+fingerprint comparisons by computer?
+MR. SHANMUGAM: Well, I think fingerprinting
+really has, from the outset, served the purpose of
+identification because fingerprinting really came into
+being approximately 100 years ago because, in large
+urban areas, officers could no longer identify
+individuals on sight.
+Now, to be sure, fingerprinting does serve a
+law enforcement purpose as well. As Mr. Dreeben
+indicated, there is a latent fingerprint database that
+roughly corresponds to --
+JUSTICE ALITO: Well, I would assume that,
+before it was possible to do computer searches, the way
+in which fingerprinting established identification, what
+it did in that respect was to identify the person
+arrested on this occasion, so that, if the person was
+arrested again, then the police would know that it was
+the same person.
+There was no way of -- no practicable way of
+taking the fingerprints of somebody who was booked and
+determining whether that person -- you didn't have
+anything to compare it to. And they certainly -- you
+couldn't do it manually.
+MR. SHANMUGAM: That is true. But, again,
+the purpose of fingerprinting, as it developed over
+time, was identification in the sense that, as
+fingerprints were being collected, individuals could
+proceed to be identified based on prior --
+JUSTICE SOTOMAYOR: Can we go back to --
+JUSTICE ALITO: Yes, so you know that, on
+day one, you have arrested -- you've arrested Mr. X, and
+then, a year later, you arrest somebody else, and you
+know it's Mr. X again. And DNA can do exactly the same
+thing, except more accurately.
+MR. SHANMUGAM: But I think it's important
+to realize, Justice Alito, that at least, as the DNA
+system is currently constituted, when an arrestee's
+profile is prepared, it is compared against the offender
+and arrestee indices, not the forensic index.
+And, indeed, as we understand it -- and I
+think Mr. Dreeben's discussion of this is probably
+consistent with this, at least on the Federal level, it
+is not permissible to take that profile and search it
+against the offender and arrestee indices.
+Now, that very well may occur in certain
+States. We don't have any reason to believe that that
+is what takes place in Maryland. But, again, this is
+really what distinguishes the way in
+which fingerprinting is --
+JUSTICE BREYER: I think I can totally lose
+this because -- because I have a confusion that you can
+clear up. There is something to what you say. I see
+what you are saying. But what does this word
+"identification" mean? It's used for identification.
+We have a person, he's been arrested.
+He writes his name down, Mr. Smith. Maybe
+he's lying. We have his picture. Well, his picture's
+pretty good. If he turns up in a bar somewhere in the
+future, we can look, see, and that's awfully good.
+And, now, you say, well, what is
+fingerprinting doing that photos aren't doing, in terms
+of identification? What does it do, in terms of just
+identification?
+MR. SHANMUGAM: Sure.
+JUSTICE BREYER: What does it do?
+MR. SHANMUGAM: We think it means
+determining or confirming the identity of an individual.
+JUSTICE BREYER: What does that mean,
+confirming his identity? We have -- you mean what?
+What exactly?
+MR. SHANMUGAM: Confirming, for instance, in
+this case, that the individual in the government's
+custody was Alonzo King.
+JUSTICE BREYER: Oh, really? I mean, do you
+think the fingerprints -- where do you go to find out if
+he's Alonzo King? A lot of people have never had their
+fingerprints taken before.
+MR. SHANMUGAM: Well, but 73 million people
+are in the criminal offender --
+JUSTICE BREYER: That's what it's for? To
+determine what his name really is?
+MR. SHANMUGAM: And his criminal -- and, to
+be sure, his adjudicated criminal history, which can
+also be --
+JUSTICE BREYER: Ah. You want to determine
+what his name really is, plus his adjudicated criminal
+history, and, here, we have the DNA, which I guess might
+or might not help determine what his name really is,
+and, with criminal history, it does about the same. And
+also fingerprints are sometimes used to -- for unsolved
+crimes, and they are sometimes used for unsolved crimes,
+but your point really is more for unsolved crimes.
+Have I got it.
+MR. SHANMUGAM: Justice Breyer, no, I think,
+with respect, you haven't. With regard to DNA testing,
+a DNA profile -- at least as the Federal system is
+configured -- is compared against the forensic index.
+That is the index of samples from unsolved crimes. And
+so that is really in contradistinction to how the
+fingerprint database works.
+JUSTICE SOTOMAYOR: Counsel, I -- I am
+really worried about the question you haven't satisfied
+me with, which is I agree completely that, today, it's
+used primarily and almost exclusively for purposes of
+solving other crimes.
+But let's -- is this -- the question that I
+think one of my colleagues asked, is that only because
+technology hasn't moved fast enough?
+You said we have to look at the
+constitutional principles 5 years from now, when they
+will use it to pull up a guy's criminal history, not
+unsolved crimes, but criminal history. Get to that day.
+MR. SHANMUGAM: Sure. Well,
+Justice Sotomayor --
+JUSTICE SOTOMAYOR: Tell me what the -- tell
+me what the -- why you would then say that would still
+be unconstitutional?
+MR. SHANMUGAM: Justice Sotomayor, assuming
+that this Court does not accept the proposition that
+arrestees are somehow subject to a lessened expectation
+of privacy, the only other --
+JUSTICE SOTOMAYOR: Right. Let's assume we
+go under a normal Fourth Amendment, you need probable
+cause to search.
+MR. SHANMUGAM: Right. And the only other
+potentially applicable exception to the principle that
+warrantless, suspicionless searches are unconstitutional
+is the special needs exception, and that exception looks
+to the primary purpose of the program at issue.
+And the mere fact that DNA testing could be
+used for other purposes wouldn't necessarily be
+dispositive of the inquiry. If the primary purpose of
+DNA testing is still to investigate unsolved crimes, the
+program would still not qualify under the Special Needs
+Doctrine.
+JUSTICE KAGAN: But, Mr. Shanmugam, just
+suppose -- I mean, I guess the question is would this be
+unconstitutional? It's not the world we are living in
+now, but let me -- 10 years from now, the government
+says, we are really switching over to a fingerprint
+system -- to a DNA system, and what that system is going
+to allow us to do is it's going to allow us to identify,
+and it's going to allow us to bring up the old criminal
+history, and it's going to allow us to see whether there
+are also unsolved crimes that we can tag to this person
+and discover that he's really, really dangerous.
+All right? And so the government puts that
+system into effect. Is it constitutional?
+MR. SHANMUGAM: I think that it could be,
+and that would simply be because you would have a system
+where DNA testing is essentially being used as
+fingerprinting is being used today. But, again, I don't
+think --
+JUSTICE SOTOMAYOR: I was interested in a
+broader thought process, actually. Do you mind giving
+it to me?
+MR. SHANMUGAM: Well -- well --
+JUSTICE SOTOMAYOR: Which is, there is
+something inherently dangerous about DNA collection that
+is not the same as fingerprinting.
+MR. SHANMUGAM: Well, there is, and that
+gets me back, finally, to the rest of Justice Breyer's
+question from a few minutes ago because Justice Breyer
+had kind of asked how the analysis should work, in the
+event that the Court were to proceed to balancing.
+And so I just want to say a word about the
+relevant privacy interests and the relevant governmental
+interests and to explain why we think that the relevant
+privacy interests outweigh those governmental interests.
+On the privacy side of the ledger, we
+certainly believe that there are profound privacy
+concerns associated with the government's collection of
+an individual's DNA. And, leaving aside the question of
+how much personal information is contained in the 13
+loci -- and we certainly think that there is significant
+personal information, even as to those loci -- I don't
+think there can be any dispute that, when you evaluate
+the entirety of an individual's DNA, there is a great
+deal of personal information contained there. And, in
+our view, that has to be taken into account when
+engaging in balancing.
+Now, the government's response to that is
+essentially the "just trust us" defense; namely, that
+the government is not looking at all that information,
+it is only looking at a certain subset of that
+information. But that has never been how this Court has
+analyzed privacy interests, at least outside the special
+needs context.
+Probably the closest analog is this Court's
+decision in Tyler v. United States, where the Court said
+that it was of no moment that the heat-sensing device
+that was at issue in that case did not detect any
+information about the intimate details of activities
+within the home.
+CHIEF JUSTICE ROBERTS: You -- you disclose
+all of this intimate private information when you take a
+drink of water and leave -- leave the glass behind.
+MR. SHANMUGAM: But, Mr. Chief Justice, as I
+said at the outset, we believe that there might still
+be -- indeed, we think the better view under this
+Court's cases is that there would still be a Fourth
+Amendment search there.
+The only difference would be that you don't
+have the intrusion into the body that makes the question
+of whether or not there is a search here an easy one.
+Now, I want to say just a word about the
+governmental --
+JUSTICE ALITO: What if someone has a bloody
+shirt and throws it away in the trash -- in a public
+trash can along the street, you are saying that the
+police can't analyze that without a search warrant?
+MR. SHANMUGAM: The argument would be that
+the subsequent analysis of the DNA, nevertheless, still
+constitutes a search. And the most significant decision
+on this issue, to date, is the Fourth Circuit's decision
+in United States v. Davis, which I would encourage you
+to look at, if you are interested in this issue, because
+it holds that the extraction of the DNA from an item
+that was lawfully in the government's custody still
+constitutes a search.
+Let me say just a word, though, about the
+governmental side of the balance here because I think
+this is important. Ms. Winfree started with the
+statistics about the efficacy of DNA testing of
+arrestees, but our submission is, simply, that, when you
+look at the relevant subset of cases, namely individuals
+who have been arrested, but who are not subsequently
+convicted of the offense of arrest, the law enforcement
+value of DNA testing is relatively modest.
+My understanding is that --
+JUSTICE ALITO: But your client was
+convicted of the offense of arrest.
+MR. SHANMUGAM: That is correct.
+JUSTICE ALITO: And it was a serious
+offense, punishable by up to 10 years imprisonment.
+MR. SHANMUGAM: Well, my client --
+JUSTICE ALITO: Isn't that correct? And he
+was sentenced to 4 years.
+MR. SHANMUGAM: That is -- my client was
+convicted of the crime of arrest, to be sure. But,
+under the Maryland statute, that crime was not a serious
+enough crime to qualify for DNA collection at that
+point.
+JUSTICE ALITO: For Fourth Amendment
+purposes -- for Fourth Amendment purposes, do you think
+that it is -- that it is permissible to take a DNA
+sample from someone who is convicted of an offense that
+would qualify as a felony under common law?
+MR. SHANMUGAM: We think that it would be
+permissible to collect DNA from any individual who has
+been convicted and is subjected to the continued
+supervision of the State. And that is simply because
+those individuals have a lessened expectation of
+privacy.
+But just to get on the table --
+JUSTICE GINSBURG: When they're no longer in
+the custody of the State, does the government have to
+destroy it? They served their time, and their
+privileges have been restored.
+MR. SHANMUGAM: We don't -- we don't think,
+in that circumstance, Justice Ginsburg, that the
+government would have to destroy the DNA sample. But
+we --
+JUSTICE KENNEDY: Does a felon who's been
+arrested have a reduced expectation of privacy at the
+time of arrest?
+MR. SHANMUGAM: I'm sorry? A felon who has
+been --
+JUSTICE KENNEDY: Does a felon -- does a
+person who has been arrested for a felony have a reduced
+expectation of privacy at the time of his arrest?
+MR. SHANMUGAM: I would not say that that
+person has a reduced expectation of privacy. What I
+would say is that there are certain intrusions on
+privacy, some of which are quite substantial, that are
+permissible because there are justifications unique to
+the arrest.
+So, in Florence, this Court permitted the
+strip search of an individual who is being admitted into
+the general jail population, based on the special need
+of ensuring prison safety and preventing contraband from
+being introduced into the prison.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Ms. Winfree, you have 3 minutes remaining.
+REBUTTAL ARGUMENT OF KATHERINE WINFREE
+ON BEHALF OF THE PETITIONER
+MS. WINFREE: On the question of rapid DNA,
+the FBI estimates that we're about 18 to 24 months away
+from that world, and I would cite the National District
+Attorneys Association's amicus brief on page 20 where it
+discusses the -- that this is not science fiction. So
+we are very, very close to that.
+And I wanted to just address a couple of the
+questions that arose during Respondent's presentation.
+Justice Kennedy, the State does have a compelling need
+and a compelling interest in knowing who is in its
+custody, and arrestees do not have a legitimate
+expectation of privacy in their identity.
+We have a legitimate and compelling need to
+identify suspects and to aid in solving crimes.
+And our -- and our definition of what
+identification is, is somewhat broader than
+Respondent's. It's not just what his name is and what
+his face is and what his fingerprints show. It is that
+CODIS DNA profile, those 26 numbers, so that -- in our
+view, that's a broader definition of -- of identity.
+And I wanted also, just finally, to address
+Justice Alito's question. This is the fingerprinting of
+the 21st century, but it's better. Typically, DNA
+evidence is used to identify rapes and murderers.
+Fingerprints typically do not solve those kinds of
+crimes.
+And, if the primary purpose of
+fingerprinting is just to identify, it also is used --
+fingerprinting, now, is used -- the prints are compared
+against the latent database in IAFIS, and they are used
+to solve crimes. But they typically don't solve the
+kind of crimes that we are talking about here, and it
+wouldn't have been solved in Mr. -- in Mr. King's case.
+CHIEF JUSTICE ROBERTS: How can I base a
+decision today on what you tell me is going to happen in
+2 years? You say, in 2 years, we will have this rapid
+DNA available, but we don't now.
+Don't I have to base a decision on what we
+have today?
+MS. WINFREE: Well, that's really only one
+component of our argument, Mr. Chief Justice, that,
+certainly, with respect to a bail determination, we will
+be able to make it more rapidly at the time that that
+rapid DNA comes into effect. But --
+JUSTICE SCALIA: Yes, but, if we believe
+that the purpose of it has much to do with whether it's
+legitimate or not, you can't demonstrate that the --
+that the purpose is immediate identification of the
+people coming into custody, you just can't demonstrate
+that now. Maybe you can in 2 years.
+The purpose now is -- is the purpose you
+began your presentation with, to catch the bad guys,
+which is a good thing. But -- you know, the Fourth
+Amendment sometimes stands in the way.
+MS. WINFREE: It has a corollary purpose,
+Justice Scalia. What we are suggesting and arguing is
+that solving crimes, to be sure, is the key component,
+but in solving crimes and connecting an arrestee to a
+crime that's unsolved informs a judge's determination
+about whether to release that individual.
+And, as Mr. Dreeben said, bail modifications
+can happen; they do happen all the time. And, in
+Maryland, it's going to have -- it's going to be
+happening before rapid DNA. Right now, we are able to
+make that determination in a period between 11 and
+17 days.
+So we are not asking you to base your
+decision on the futuristic world, which is really only 2
+years out, with rapid DNA anyway. But we can make those
+bail determinations now, and, in fact, they are
+important for where we house prisoners and -- and how we
+supervise them in custody.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+The case is submitted.
+(Whereupon, at 12:11 p.m., the case in the
+above-entitled matter was submitted.)
+appropriate 11:1,19 12:8 B
+61:18 allow 17:9 27:12 appropriately 22:2 24:10 6:8,12 8:20,25
+62:5 53:10,11,12 approximately 44:20 49:7,12 18:12,16 19:15
+13:20 Alonzo 1:6 April 4:15 arrestees 3:12 22:17,19 23:5
+38:4,12 44:13 52:16 9:4,9 10:10 aside 54:16 21:17 23:3,4,6
+55:20 57:12,13 11:12 14:12 asked 51:25 23:24 43:6
+6:1 14:13 23:1 34:25 35:5 26:5,6 37:21 balance 24:13
+40:25 43:9,22 arrest 4:15,15 59:8 34:15 39:17,19
+analyze 17:14 26:18,22,24,25 52:15 bar 50:1
+58:22 analyzed 36:11 28:1,3,17 assuming 52:11 61:21
+anybody 6:23 58:20 attempting basing 10:24,24
+anyway 4:20,21 8:5 9:10,18 attorney 1:15 35:14 61:6
+34:17 applicability 27:22 35:25 available 60:16 18:22 42:1
+35:1,9 32:18 38:9 41:7 48:9 average 18:3 49:14 54:14
+applicable 39:20 48:10,24,24 avoid 38:8 55:17 60:24
+47:17 52:19 49:23 56:20 awfully 50:2 Bell 26:8
+55:18 44:10 60:2 citizens 12:11 comparing 19:1
+California 18:2 certain 6:17 14:19 15:5,6 20:22
+30:9 46:5 49:13 55:3 class 9:12 13:6 19:13
+46:7 calls 25:3 26:19,23 32:25 57:4,7 19:20 27:5
+car 9:23 11:22 37:24 41:12 close 17:13 59:13,14,17
+48:13 card 6:5 60:21 closest 55:7 37:19
+case 3:4 4:23,24 character 15:18 clothes 29:23 51:21
+44:22,24 16:9,23 17:7 charges 6:15 cold 8:15,15 31:22
+21:17 22:18 20:12 47:4 22:18 47:19 48:6
+17:23 24:24,25,25 cheek 10:19 colleagues 51:25 computerized
+25:1,7,25 34:3 12:6 24:17 collect 3:11 5:11 19:13
+38:16 35:13 38:6,6 34:7,19 7:2 57:18 concede 30:23
+40:13 40:7 43:17 Chief 1:15 3:3,9 collected 31:25 30:25 33:17
+50:8,11 50:15 55:10 6:16,19,20 7:5 35:3 48:20 conceded 28:5
+51:3 60:12 62:3,4 7:16 10:25 collection 6:17 conceding 34:11
+54:6 cases 8:14,15 14:10,15 15:11 54:2,15 57:10 conceivably
+11:22 24:2 22:23,24 24:19 18:12,16 27:24 concern 42:23
+17:25 27:12 31:4,10 30:19 31:1,14 comes 8:19,20 33:24 54:15
+20:25 36:9,13,21,21 31:20,21 32:7 11:3 17:4 21:3 concession 34:2
+38:5,18 37:3 55:19 32:9 33:1,8,16 60:23 conclude 45:11
+39:1 56:19 42:14 43:13,21 coming 33:24 concludes 16:11
+59:8 Castillo 6:4,6 44:4,15,21 61:3 condition 30:17
+11:7,11 13:8 Circuit's 56:8 42:1,8,19 conducted 3:17
+52:17 citation 7:14 42:18 50:10,12,14
+31:6,12 24:6,11 25:9 depends 22:24
+3:18 37:2 44:8 47:6 D 3:1 deprives 31:12
+cornerstone 9:1 61:13 dangerous design 17:16
+correct 4:20 5:4 13:23 19:24 database 18:1 destructible
+13:20 14:3 35:15 37:2 48:3 51:18 45:25
+30:18,24 57:1 51:9,10,16,23 day 48:24 52:5 detention 45:20
+48:4 60:11 61:11,12 23:1 61:20 21:16 36:15
+8:8 35:7 51:19 59:1 15:8 19:23 dealing 24:20 60:21 61:13,19
+52:3 62:2 21:19 23:10,11 25:4 determinations
+couple 5:5 59:11 24:21 30:22 decades 35:13 4:10 61:24
+38:22 46:13 47:12 decide 7:21 9:8 36:10 47:2,8
+3:10 7:11,21 51:4,7 52:4,5 decides 24:25 determining
+14:16 16:10,10 criminals 4:2 decision 8:3 48:14 50:10
+26:6 29:1 30:8 28:5 43:19 55:8 56:7,8 device 20:20,21
+55:6 39:18 41:14 14:13 38:5 11:5 16:19
+54:8 55:4,8 currently 6:14 22:17 55:21
+Court's 8:3 49:5 definition 59:19 13:3 17:1
+26:24 31:10 8:5,6 9:10 11:6 delay 5:7 38:13 39:9,23
+credit 6:5 42:17 50:16 Department 45:4,6 47:5
+57:8 13:13,14 14:25 59:15 61:3 depended 31:11 24:22 45:10
+18:18 19:8 62:1 dependent disability 31:8
+36:6 emerges 23:6 example 8:15 factual 15:21
+53:3 24:5 25:8,11 26:3,6 52:19 fast 52:1
+54:20 Doe 41:19 42:22 46:24 exceptions FBI's 19:1
+50:4,4 engage 32:24 exclusively Federal 20:14
+40:7 Dreeben 1:17 enhanced 22:10 expect 33:11 51:14
+37:4 16:4,21 17:12 enter 44:10 14:23 16:12 felony 13:13
+19:3,18,25 entirely 27:2 31:7,22 32:12 58:13
+23:4,19,25 entry 25:15 52:13 57:21 filed 38:6,18
+8:20 10:6 25:17 26:5,14 especially 25:25 59:16 59:25
+12:6 26:19,23 27:19 ESQ 1:15,17,20 expectations find 43:5 47:4,5
+14:2 28:2,21 33:17 2:3,6,10,13 10:2 24:14 50:18
+17:14,15 48:2 61:15 essentially 11:18 explain 21:24 fingerprint
+20:4 Dreeben's 41:13 30:9 37:5 23:17 54:11 15:19 16:25
+21:8,9,9,9 49:9 53:19 55:1 explanation 17:4 18:15
+22:13,16 drink 31:17,19 established 48:7 35:5 19:7,13 21:2,4
+27:9 33:14 55:15 estimates 59:6 expose 15:16 21:10 35:23
+driver's 11:4 evaluate 54:20 exposed 37:18 47:19 48:3
+31:19,25 driving 13:18 evaluated 16:1 extend 30:9 51:18 53:8
+33:4 drop 39:13 event 39:17 54:8 extended 39:21 fingerprinting
+35:25 drug 6:6,11 everybody 11:3 extends 31:7 35:7,20 36:2,6
+40:22 36:10 evidence 9:19,23 extent 32:2,23 37:10,13,15
+44:2,9 drugs 36:12,16 10:5,16 27:22 37:14 39:16,22,23,25
+49:1,4 D.C 1:8,18,20 27:23,25 30:23 extraction 56:11 40:1,3,12
+6:2 43:11 45:25 46:21 47:1,2
+53:1,9 46:1 60:3 F 47:18,20,22
+54:2,16 E evidentiary face 59:22 48:1,7,18
+56:6,11 E 2:1 3:1,1 22:12 facilitating 49:17 50:4
+57:10 easy 55:23 exactly 12:18 21:16 53:20 54:3
+free 14:19 15:5 15:12 17:3 handcuffs 29:14 60:9
+16:18,22 free-form 25:19 23:22 34:18 61:16,16 identification
+18:12 26:3 48:22 50:18 happened 32:13 10:9 16:6
+19:1 full 14:20 27:21 52:16 happening 17:15 18:1
+31:13 God 38:23 61:18 19:5,21 20:20
+21:12 function 21:6 going 7:13 11:24 happily 9:7 20:21 21:5,6,9
+34:20 22:11,12 15:15 23:2 happy 27:2 21:10 40:24
+36:5 functioning 28:9 36:13 hard 4:12 7:7 47:11,11,22
+38:20 20:18 42:24,25 43:15 38:2 48:7,19 49:22
+39:10 fundamentally 44:6,8 53:9,10 Hayes 8:3 49:22 50:5,6
+48:13 30:6 53:11,12 60:14 hear 3:3 59:20 61:2
+50:18,20 funneling 19:24 61:17,17 heard 33:17 identified 48:21
+59:22 further 8:9 14:7 good 3:16 16:23 35:5,11,13 identifier 17:10
+32:6 20:19 21:4 hearing 23:3 identifies 43:25
+24:2 16:5,15 23:5 51:6 identifying 17:4
+35:4 G 27:5 28:11,16 helped 38:8 identity 16:13
+G 3:1 30:7,11 35:6 he'll 15:3 16:17 21:2
+generally 10:15 55:25 56:15 52:4,5 53:12 35:12 43:24
+16:7,16 33:24 50:15 hits 19:9 56:16 61:25
+getting 5:7,8,15 grand 21:18 home 10:16 32:21
+46:12 8:13 21:23 great 54:21 55:12 imprisonment
+46:11 58:4 ground 46:15 hostile 39:6 inaccurate
+16:14 40:9,15 44:9 guess 8:2 18:4 house 9:19 inadmissible
+31:13 given 7:14 15:3 33:9 51:5 53:5 10:12,12 15:13 22:3
+34:23 24:10 guy 21:18 15:16 61:25 incentive 27:23
+44:13 giving 53:23 guys 61:6 hypothetical 28:15
+55:19 gladly 39:15 guy's 34:7 52:4 45:5 incident 26:13
+57:12,13 glass 55:15 26:18,22,24,25
+go 5:21 8:25 H I 27:3,12,20
+inherently 54:2 involuntary 22:20,23,24 9:22,25 10:8
+innocent 28:18 involved 8:4 23:20 24:4,19 17:13 19:25
+inside 10:18 involving 36:9 26:20 27:2,11 37:20 40:6
+29:17 50:14 43:10 52:22 29:18,21 30:1 2:10 28:23
+interest 19:20 item 56:11 31:1,14,20,21 1:15 2:3,13 3:7
+9:9,10 41:20 42:7,7,9 38:9 58:23 35:1,9 36:1,8 keeping 42:4
+16:11 42:22,22 46:16 JAY 1:6 36:18,21 37:7 Kennedy 26:12
+23:7 46:18,23 59:14 John 41:19 37:19,20,20 26:14,17,20
+31:4 interested 53:22 joined 6:2 38:16 39:4,5,8 27:2 29:8,11
+33:6,18 56:10 JR 1:6 39:12 40:5,6 29:14,18,21
+40:4 interests 24:15 judge 5:22 21:17 40:13 41:6,8 30:1,4,12 41:6
+47:12 25:19 32:16 21:22 22:17 41:10,18,24 41:18,24 42:3
+57:18 36:23 42:15 44:5 42:3,6,14 42:6 45:12,13
+61:14 54:10,11,12,12 judge's 61:13 43:13,21,22 46:8 58:7,12
+44:18 interview 31:17 44:2 45:5,12,13,13 key 26:7,10
+47:25 55:14 12:18 48:5,22,23 kind 8:22 17:9
+56:19 introduced justice 1:18 3:3 49:4,18 50:8 20:3 54:7
+58:25 3:9,16,20,22 50:11,17,23 60:11
+14:23 intrusion 32:17 4:22 5:1,4,10 52:7,8,11,15 King 1:6 3:5,15
+32:23 32:19 34:7,18 5:15 6:16,19 53:4,22 54:1,5 50:16,19
+36:3 34:20 35:19 6:20 7:5,16,24 54:6 55:13,16 King's 5:6 60:12
+37:11 37:11,22,24 8:13 9:5,16,21 56:1,24 57:2,5 Knights 24:13
+54:16,21 55:22 9:22,25 10:8 57:12,24 58:4 24:20 31:3,10
+15:24 30:5 34:22 11:24 12:3,19 59:13 60:1,13 9:5 12:23
+17:4,18 45:14,15 58:17 12:23 13:4,9 60:20,24 61:10 20:13,19 21:18
+19:21,24 intrusive 38:11 13:11,12,16,17 62:2 22:17 23:13,14
+24:7,17 invasion 32:6 13:21 14:1,4,5 justifications 23:20 25:17,21
+33:19,22 inventoried 14:10,15,18 27:1 45:21 29:15,16 33:8
+14:25 15:9,11,15,20 58:19 38:24 42:25
+43:4 investigate 29:3 16:21 17:12,23 44:7 45:3 47:6
+54:17,19 42:10 46:21 18:6,7,10,20 K 48:10,23 49:1
+55:2,4 53:1 18:25 19:4,10 K 1:20 2:10 61:7
+involuntarily 19:25 20:6,11 28:23 knowing 27:6,7
+41:9,20 levels 37:1 mandatory million 50:21 58:23 59:13,17
+46:18 liberties 29:21 46:15 mind 53:23 needs 25:3,4,7
+liberty 9:15 manually 19:17 minimal 24:17 37:3,5 39:20
+license 11:4 Martinez 26:9 minor 11:1 43:9 52:21
+life 23:23 1:16 3:5,11 17:18 18:14 neither 43:24
+48:3 lines 11:9 61:17 61:15 note 28:5 35:3
+listing 35:15 Maryland's modified 5:24 46:4
+39:7,14 living 53:6 match 5:12,17 months 17:7 37:10
+25:7,10 loci 15:22 54:18 21:12 22:13 44:25 46:11 35:15 46:10
+36:23 54:19 matched 6:8 59:6 numbers 10:7
+42:22 long 7:16,19 matches 3:13 morning 3:4 10:21 59:23
+48:2 18:13 material 16:13 35:11
+57:16 longer 14:19 17:15 27:14 motion 23:5 O
+47:24 57:24 16:8 36:3,6 mouth 34:8 obtained 24:17
+55:15,15 31:9 37:21 10:1,25 15:12 murderers 60:3 occasion 48:9
+lose 10:1 49:18 means 50:9 name 49:24 10:3 11:1
+59:15,17 lot 3:17 35:9 mechanically 50:24 51:4,6 21:21 42:2
+38:24 50:19 21:24 59:21 46:1 56:21,25
+57:21 low-level 6:12 mentioned National 59:7 offenses 6:18
+44:4,5,5 M merit 30:13 52:24 officer 8:10
+52:15 magistrate 44:6 method 20:9 need 24:5 25:22 45:24
+making 16:17 2:6 14:12 40:2 52:16 47:24
+44:16 25:11,13 31:16 1:16,19 2:4,8 37:23 37:16 45:14
+percent 15:9 photos 38:23,23 precisely 20:13 57:22 58:8,14
+35:22,23,24 physically 7:3 59:12 61:6 privileges 58:2
+14:12 permit 12:4 picture 49:25 29:5 11:11 13:8,22
+20:16 21:4,9 picture's 49:25 pretrial 40:23 22:4,7 24:11
+25:5 12:20 24:7 play 17:22 prevent 45:24 probably 16:11
+37:1 45:24 please 3:10 preventing 49:9 55:7
+42:11 permitted 58:21 14:16 29:1 58:24 probation 30:15
+46:23 permitting plus 51:4 previously probationary
+55:17 perpetrator point 3:23 5:3 primarily 47:10 probationer
+perpetrators 4:3 23:8,11 27:13 primary 36:24 procedure 5:21
+46:4 35:2 36:15 population 15:3 prints 18:16 profile 5:17 10:6
+47:3,3,8 48:8,9 26:13 30:20 47:8,12 48:21 profound 33:23
+33:2 53:13 58:13,16 possession 33:25 58:24,25 program 17:16
+personal 10:17 possibility 39:2 prisoners 61:25 40:20,22 41:5
+8:3 13:9 54:17,19,22 47:18 48:6 9:15 10:1 53:2
+person's 10:6,19 potentially 12:15 14:23 programmatic
+11:6 12:11 pertinence 48:12 32:12,16,22 proposition 30:4
+41:12 42:6 45:13 reason 6:22 7:6 release/custody return 46:11
+51:20,24 53:5 15:15 22:8 17:21 21:16 returned 22:18
+59:5 60:1 49:14 21:14 32:19 returns 18:12
+quick 13:10 34:3,4,9 36:14 reliability 22:11 revoke 23:6
+R 1:17 2:6 3:1 recall 30:14 repeat 15:8 10:25 11:8,17
+10:9 21:12 rampant 23:23 record 29:16 representation 25:19 30:19
+40:3,19 range 12:9 46:13 47:3,5,8 19:5 52:15,18 53:15
+41:4,4 rape 6:8,13 8:16 47:13 required 16:14 61:18
+46:20 16:20 22:5 reduced 12:14 reserve 14:8 rights 14:21
+rapes 28:11,14 25:18 58:8,13 resolve 21:2 rise 24:10
+52:22 35:17 60:3 58:16 respect 6:23 7:4 risk 22:19 23:24
+60:6,25 rapid 5:13 17:14 reduces 14:22 7:11 15:6 Roberts 3:3 6:16
+21:8,9,9 59:5 reflects 19:7 24:23 25:11 6:20 7:5,16
+32:20 61:23 regard 30:7,13 51:13 60:21 15:20 22:20,24
+40:24 rapidly 60:22 37:9 39:16,22 respects 29:22 24:19 28:20
+52:24 rare 4:24 45:11,14 51:13 Respondent 30:19 31:14,21
+rarely 15:7 relate 10:17 1:21 2:11 3:15 32:7,9 33:1,8
+22:19 30:10 related 10:2,6 28:5,24 44:4,15,21
+25:23 rationales 46:3 42:5 46:1 Respondent's 55:13 59:1
+44:4 reaches 39:18 relates 27:15 25:1 59:12,21 60:13 62:2
+57:10,16 really 3:16 relatively 6:11 result 44:2 20:9
+13:10 33:23 34:15 release 21:20 results 4:16 5:7 20:15
+18:7 47:21,22 49:16 23:15 42:25 5:8 rules 44:13
+31:24 50:17,24 51:4 43:7 45:7 retain 15:25 rummaging
+33:2,6,10 51:6,10,17,20 46:10 61:14 16:12 10:16
+37:14 53:8,14,14 released 6:7 retaining 14:20 run 19:6 23:23
+41:18 60:19 61:22 42:18 retains 33:18
+27:14,17,20,21 Shamblin 6:4 situated 24:23 54:1
+7:9 8:20 34:8,23 35:2 1:20 2:10 15:1 22:25 13:6 25:3,4,6
+15:18,25 36:14 37:13,15 28:22,23,25 43:6,14 36:22 37:3,5
+22:13 39:25 44:19 29:10,13,16,20 situations 13:4 39:20 40:2,17
+35:25 45:18,23 46:1 29:25 30:3,16 23:15 41:3 43:9
+44:10 46:6 47:15 30:25 31:20,23 Skinner 32:4 52:21 53:2
+58:5 49:11 52:17 32:8,15 33:5 36:21 55:5 58:23
+51:16 56:7,13 58:22 34:13,21,25 Smith 49:24 speed 19:12
+12:16 25:15 29:2 37:9 38:15 software 20:15 spot 22:16
+24:13,19 searches 3:18 39:4,15 40:6 Solicitor 1:17 stake 32:16
+31:3 12:20 29:5 40:16 41:10,23 solution 18:18 35:16
+39:21 36:9 45:19,24 42:5,9 43:8,21 21:15 stand 37:25
+25:17 searching 10:12 47:20 48:17 19:23 20:18,19 start 12:2
+40:8 44:9 11:25 12:1 49:3 50:7,9,14 21:13 28:17 started 10:11
+49:21 45:20 50:21,25 51:12 37:2 42:16 25:16,17 56:16
+secondary 21:12 52:6,11,18 60:4,10,10 State 4:8 5:20
+23:1 see 10:12 11:9 54:4 55:16 60:12 12:4,8,10,25
+42:21 49:20 50:2 56:5 57:1,4,7 solving 25:9 13:1 15:17
+53:8 53:12 57:17 58:3,10 41:11 51:23 19:20 29:7
+4:1 9:5 seizing 10:5 shirt 56:2 somebody 23:9 35:5,14 37:1,4
+seizures 3:18 shoe 39:13 48:13,25 43:24 57:20,25
+send 5:11 short 26:3 somebody's 59:13
+60:24 sense 22:21 27:3 show 59:22 34:19 States 1:1,12,19
+48:19 side 24:24 25:1 someone's 4:23 2:7 6:2 14:13
+47:21 58:1 simply 12:6 33:9 12:23 13:4 4:7 12:4 22:1
+12:5 serves 22:10 41:2,14 46:20 23:17,20 24:4 36:25 57:9
+8:10 supervision 31:2 32:6 44:3,24 thought 4:4
+31:5 40:23 T testing 40:22 34:12 46:25
+22:19 supply 22:4 tag 53:13 56:17,22 three 36:2 38:12
+supporting 1:19 take 7:8,17,19 tests 7:8 39:10,13,16
+53:5 33:14 34:18 62:2 ties 21:21
+Supreme 1:1,12 44:23 45:17 theory 6:21 14:8 15:8
+30:21 43:15 48:1 9:10 13:24 41:17 45:2,4 58:1,9,14
+50:7 51:1 52:6 15:1 17:18 49:2 61:7 60:22 61:16
+57:19 surprising 17:24 22:1,14 23:9 13:19 15:17 today 9:8 18:9
+41:13 suspected 46:14 31:1 36:10,16 38:25 39:3 60:14,18
+suspects 59:18 40:4 47:9 41:15 told 5:18
+44:25 takes 43:3,15 11:5,16 16:9 tool 8:21
+8:18,19,22 talk 38:17 18:18 19:18 touchstone 43:8
+42:13 44:19 23:9 24:3 25:2 26:16 7:13,21 13:18
+25:4 29:5 46:8 60:11 30:12,12 31:23 trash 56:2,3
+15:16 swab 13:5 20:1 technology 33:22 34:11,14 tremendous
+20:6 22:1 16:25 17:1,1,8 34:17,21 35:12 27:23 28:15,16
+swabbing 10:18 52:1 37:21 39:1,18 trial 6:15 46:11
+37:15 switching 53:8 19:3 39:5,9 43:4,23 44:17 triggers 32:18
+system 5:16 52:8,8 60:14 45:7 47:20 true 4:17 11:19
+13:4 19:1,14 20:7 tend 15:8 18:15 50:18 51:12,25 trust 55:1
+20:14,15 23:10 terms 9:4 12:7 53:17,21 54:11 try 38:23
+24:2 urine 32:5 36:1044:23 51:3 59:2,3,5 60:19 22:25 61:19
+37:7 36:10 54:9 55:24 61:9 11:10 1:13 3:2
+39:10,12 use 4:9 5:1,4 wanted 59:11,25 Wolfish 26:8 12-207 1:4 3:4
+45:17 8:14 16:15,17warrant 11:10 word 39:17 12:11 62:4
+utility 21:11 25:5 29:4 work 54:7 18 59:6
+working 3:24
+21:8 26:8 28:4 30:9 wasn't 4:4 19:16 21:24 38:10 60:15,15 61:4
+45:8 46:5 55:8 56:9 water 31:18,19 51:18 61:22
+53:6 validly 4:10 33:14 55:15 world 11:16 20 59:8
+56:22 15:23 24:25 59:7 61:22 2013 1:9
+victims 28:18 44:5 48:6,12 38:13 39:10 24 59:6
+15:21 view 3:24 12:15 61:8 34:2 52:24 15:22 59:23
+20:1 15:17 27:3 ways 38:10 60:12 28 2:11
+49:8 37:13 39:24 weeks 23:3 write 39:11
+56:23 59:24 well-recognized wrong 17:11,12 3 2:4 59:2
+violence 13:14 4
+13:4,6,17
+14:13 55:8 violent 3:12 6:17 x 1:2,7 48:24 42 3:14
+26:5,6
+7:1 42:19 49:1 49 6:2
+29:25
+visited 23:23 whatsoever 24:6 Y
+volumes 18:8 Winfree 1:15
+38:7 40:9 40:14,21 52:3
+50s 19:15
+voluntary 33:13 3:22 4:6,17,21
+52:3 50,000 19:9
+57:3,6 59 2:14
+6:19,25 7:10
+42:16 wait 27:25 9:16,21,24 61:23
+8:16 22:5
+51:8,9 waiting 39:13 10:4,14 11:5 1 44:25
+15:9
+50:21
+3:13
+18:5
+17:16,18
+43:3,3

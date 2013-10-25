@@ -1,0 +1,1656 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+MASSACHUSETTS, ET AL., :
+Petitioners :
+v. : No. 05-1120
+ENVIRONMENTAL :
+PROTECTION AGENCY, ET AL. :
+- - - - - - - - - - - - - - - - - x
+Washington, D.C.
+Wednesday, November 29, 2006
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 10:02 a.m.
+APPEARANCES:
+JAMES R. MILKEY, ESQ., Assistant Attorney General,
+Boston, Mass; on behalf of Petitioners.
+GREGORY C. GARRE, ESQ., Deputy Solicitor General,
+Department of Justice, Washington, D.C.; on
+behalf of Respondents.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+JAMES R. MILKEY, ESQ.
+On behalf of the Petitioners 3
+ORAL ARGUMENT OF
+GREGORY C. GARRE, ESQ.
+On behalf of the Respondents 25
+REBUTTAL ARGUMENT OF
+JAMES R. MILKEY, ESQ.
+On behalf of Petitioners 52
+P R O C E E D I N G S
+(10:02 a.m.)
+CHIEF JUSTICE ROBERTS: We'll hear argument
+first today in 05-1120, Massachusetts versus
+Environmental Protection Agency. Mr. Milkey.
+ORAL ARGUMENT OF JAMES R. MILKEY
+ON BEHALF OF THE PETITIONERS
+MR. MILKEY: Mr. Chief Justice, and may it
+please the Court:
+If I may, I'd like to frame the merits very
+quickly and then turn immediately to standing. Although
+the case before you arises in an important policy area,
+it turns on ordinary principles of statutory
+interpretation and administrative law. EPA made a
+decision based on two grounds, both of which constitute
+plain errors of law reviewable under any standard.
+EPA's principle grounds was that it lacked authority
+over the emissions of the four substances at issue, even
+if they, in fact, endanger public health and welfare.
+That legal conclusion fails as a matter of law.
+As a fallback position, EPA declined to
+consider if these substances are endangering public
+health and welfare, claiming its policy approach made
+more sense than the regulatory scheme encompassed in
+section 1202 of the Clean Air Act. Although EPA
+possesses a good deal of discretion in applying the
+statutory endangerment test, it cannot rest its ruling
+on impermissible grounds as it did here.
+We are not asking the Court to pass judgment
+on the science of climate change or to order EPA to set
+emission standards. We simply want EPA to visit the
+rulemaking petition based upon permissible
+considerations.
+And now, Your Honor, I'd like to turn to
+standing. Petitioner showed a wide variety of injury in
+fact, all of which are the kinds of harms the statute
+was aimed at preventing. For example, our uncontested
+affidavits establish that as a matter of physics, the
+more greenhouse gases accumulate in the air, the more
+temperatures are going to rise, ocean waters expand, and
+the seas rise. And of course as the seas expand, they
+rise everywhere around the world. Some areas such as
+Massachusetts will be hit particularly hard because
+we're also subject to a land subsidence, but that --
+JUSTICE SCALIA: I thought that the standing
+requires imminent harm. If you haven't been harmed
+already, you have to show the harm is imminent. Is this
+harm imminent?
+MR. MILKEY: It is, Your Honor. We have
+shown that the sea levels are already occurring from the
+current amounts of greenhouse gases in the air, and that
+means it is only going to get worse as the --
+JUSTICE SCALIA: When? I mean, when is the
+predicted cataclysm?
+MR. MILKEY: Your Honor, it's not so much a
+cataclysm as ongoing harm. The harm does not suddenly
+spring up in the year 2100, it plays out continuously
+over time. And even to the extent you focus on harms
+that occur in the future, there's nothing conjectural
+about that. Once these gases are emitted into the area,
+and they stay a long time, the laws of physics take
+over.
+JUSTICE SCALIA: Well, there's a lot of
+conjecture about whether -- I gather that there's
+something of a consensus on warming, but not a consensus
+on how much of that is attributable to human activity.
+And I gather that -- what is it? Something like seven
+percent of the total carbon dioxide emissions are
+attributable to automobiles in the United States?
+MR. MILKEY: It's actually about 6 percent,
+Your Honor.
+JUSTICE SCALIA: 6 percent? Thank you.
+MR. MILKEY: But it's important to point out
+as well, though, that in the ruling we challenge, EPA
+has disavowed authority over all U.S. sources of
+emissions, which constitute about 20 percent of
+global --
+JUSTICE SCALIA: Yes, but that doesn't go to
+the harm that you're claiming. I mean, we're talking
+about the, you know, the standing issue right now. And
+if you've been harmed, you've claimed harm because of
+carbon dioxide emissions, right?
+MR. MILKEY: Agreed, Your Honor. But my
+point was that they disclaimed authority over all
+sources of carbon --
+JUSTICE SCALIA: I understand, but that has
+nothing to do with whether you have standing. That has
+to do with the merits of the case. But on the standing
+point, only new cars would be affected, right? So even
+the reduction of the 6 percent would take a few years,
+wouldn't it?
+MR. MILKEY: It would take a few years, Your
+Honor, but it is a basic premise of the Clean Air Act
+that vehicle fleets regularly turn over --
+JUSTICE SCALIA: I understand. But it goes
+to how imminent the harm is and how remediable the
+imminent harm is. If, in fact, the 6 percent will only
+be reduced to maybe five and a half in the next few
+years, your --
+MR. MILKEY: Your Honor, we have shown in
+the record that a 40 percent reduction in carbon dioxide
+from cars is currently feasible. And since those
+emissions account for --
+JUSTICE SCALIA: Not in the first year.
+MR. MILKEY: No, no. We agree, Your Honor.
+JUSTICE SCALIA: I mean ultimately, when all
+the cars currently on the roads are off and the new cars
+with, you know, whatever measures you think will reduce
+the carbon dioxide are on the road, then 40 percent
+would be the figure.
+MR. MILKEY: Yes, Your Honor.
+JUSTICE GINSBURG: But whatever position
+holds for motor vehicles would similarly hold for power
+plants, and has there been any application to EPA with
+respect to carbon dioxide in power plants?
+MR. MILKEY: There has, Your Honor. In
+fact, EPA has turned down a rulemaking petition to
+regulate them under the new source performance standard
+section of the Clean Air Act, and that is currently on
+appeal in the D.C. Circuit, but it is currently stayed
+pending the outcome of this case, and it just --
+CHIEF JUSTICE ROBERTS: Do you get the
+benefit of that broader allegation in establishing your
+standard? In other words, if you've challenged EPA's
+refusal to apply a particular level of greenhouse
+regulation to a particular model of car, can you say,
+well, they're following the same approach to a coal
+powered -- coal fueled power plant, and so we get to
+establish a broader injury? Or, aren't you limited to
+the specific legal challenge you're raising here?
+MR. MILKEY: Your Honor, I think it's
+actually more direct in the sense that in the decision
+we challenge here, they said greenhouse gases are not
+air pollutants under any regulatory provision of the
+act. So at least on --
+CHIEF JUSTICE ROBERTS: Don't you have to
+show injury from their decision here? The fact that
+other people, or you presumably as well might be injured
+by their decisions that you are not challenging here,
+that doesn't help your standing here, does it?
+MR. MILKEY: I believe it does, Your Honor,
+because we cannot win that other case unless we win this
+case here in terms of the authority question. And in
+any event, it is important to point out that because of
+the scale of the problem, relatively small percentage
+deductions in global emissions can lead to real world
+results.
+JUSTICE KENNEDY: But at the outset, you
+made this, some of this perhaps reassuring statement
+that we need not decide about global warming in this
+case. But don't we have to do that in order to decide
+the standing argument, because there's no injury if
+there's not global warming? Or, can you show standing
+simply because there is a likelihood that the perceived
+would show that there's an injury?
+MR. MILKEY: Your Honor, especially in this
+case where none of our affidavits were challenged, I
+don't think the Court needs to go there ultimately on
+the merits because we showed through our uncontested
+affidavits that these harms will occur. There was no
+evidence put in to the contrary, and I would add that
+the reports on which EPA itself relies conclude that
+climate change is occurring in --
+CHIEF JUSTICE ROBERTS: Those affidavits
+talked about the fact that if the government starts to
+regulate, the technology is going to change, if the
+technology changes, other governments will adopt it, and
+all that, and that strikes me as sort of spitting out
+conjecture on conjecture, the sort that we disapproved
+of.
+MR. MILKEY: Your Honor, although we believe
+we have shown other governments will follow suit, we are
+not in any sense relying on that. We can easily show
+our standing without relying on that. And that's
+because --
+CHIEF JUSTICE ROBERTS: Same argument if the
+automobile emissions were 1 percent contributors?
+MR. MILKEY: It would be the same argument.
+And I would add that EPA in other contexts has
+determined on several occasions that a 1 percent
+contribution is significant under the Clean Air Act.
+CHIEF JUSTICE ROBERTS: How is that
+consistent with our taxpayer standing cases where the
+argument is that a taxpayer doesn't have standing to
+challenge an illegal expenditure as a general matter
+simply because his contribution, the benefit that he's
+claiming is so small and so widely dispersed?
+MR. MILKEY: Your Honor, it is different
+because here there is particularized injury that we have
+shown. The injury doesn't get any more particular than
+states losing 200 miles of coastline, both sovereign
+territory and property we actually own, to rising seas.
+JUSTICE ALITO: If you look ahead, I don't
+know how far imminence allows you to look ahead, but
+let's say we're looking at 5 years or 10 years, what
+particularized harm does the record show that
+Massachusetts will, or faces an imminent threat of
+suffering, that can be traceable to the reductions that
+you want to produce through these regulations?
+MR. MILKEY: Well, Your Honor, if I can deal
+with the traceability part of that question first,
+traceability is easy to show here because the extent of
+our harm is caused by the overall amount of the gases in
+the air. And being focused on the 20 percent of all
+U.S. sources, or the 6 percent of the cars, that's still
+a sizeable portion of the problem, so we know that 6 or
+20 percent is there.
+In terms of the particular harms, similarly
+we have shown --
+JUSTICE ALITO: 6 percent is the total
+emissions, the total contribution from motor vehicles in
+the United States, right?
+MR. MILKEY: To the global carbon dioxide
+emission.
+JUSTICE ALITO: To the global. And so, the
+reduction that you could achieve under the best of
+circumstances with these regulations would be a small
+portion of that, would it not?
+MR. MILKEY: It would be, we have shown in
+the record it would be about a two-and-a-half percent
+over the time it takes to turn the fleet over. But it's
+important that given the nature of the harms, even small
+reductions can be significant. For example, if we're
+able to save only a small fraction of the hundreds of
+millions of dollars that Massachusetts parks agencies
+are projected to lose, that reduction is itself
+significant.
+CHIEF JUSTICE ROBERTS: That assumes
+everything else is going to remain constant, though,
+right? It assumes there isn't going to be a greater
+contribution of greenhouse gases from economic
+development in China and other places that's going to
+displace whatever marginal benefit you get here.
+MR. MILKEY: Yes, Your Honor. But reducing
+domestic emissions will reduce our harm, the harm we
+would otherwise face regardless of what --
+CHIEF JUSTICE ROBERTS: Not if your harm is
+the alleged loss of coastline. Not necessarily. It
+depends upon what happens across the globe with respect
+to greenhouse emissions.
+MR. MILKEY: Your Honor, we would still lose
+coastline but we would not lose as much because these
+harms are cumulative, and while reducing U.S. emissions
+will not eliminate all the harm we face, it can reduce
+the harm that these emissions are causing.
+So it will necessarily reduce our harm and
+satisfy redressibility.
+JUSTICE SCALIA: I mean, do we know that
+that's a straight line ratio, that a reduction of
+two-and-a-half percent of carbon dioxide -- well, two
+and a half overall would save two-and-a-half percent of
+your coastline? Is that how it works? I'm not a
+scientist, but I'd be surprised if it was so rigid.
+MR. MILKEY: Your Honor, I don't believe
+it's established it's necessarily a straight line. But
+I want to emphasize that small vertical rises cause a
+large loss of horizontal land. For example, where the
+slope is less than 2 percent, which is true of much of
+the Massachusetts coastline, every foot rise will create
+a loss of more than 50 feet of horizontal land. And for
+example, in the State of New York, the Oppenheimer
+affidavit projects that New York could well lose
+thousands of acres of its sovereign territory by the
+year 2020. So the harm is already occurring. It is
+ongoing and it will happen well into the future.
+CHIEF JUSTICE ROBERTS: What's your
+strongest case from this Court to support your standing
+allegation?
+MR. MILKEY: Your Honor, what I would say to
+that is our standing here is so much more direct and
+particularized than, for example, the harm this Court
+found sufficient in Laidlaw, which was --
+CHIEF JUSTICE ROBERTS: Laidlaw was a
+specific citizen suit provision, wasn't it?
+MR. MILKEY: It was, Your Honor.
+CHIEF JUSTICE ROBERTS: So doesn't that make
+it somewhat analytically distinct from this case?
+MR. MILKEY: I don't believe so, Your Honor.
+Here I think the fact that the States are showing harm
+not only to them in a property sense, but in their
+sovereign capacity --
+JUSTICE KENNEDY: What's your authority for
+that? I have the same question as the Chief Justice. I
+was looking at your brief for the strongest case.
+Suppose there were a big landowner that owned lots of
+coastline. Would he have the same standing that you do
+or do you have some special standing as a State, and if
+so what is the case which would demonstrate that?
+MR. MILKEY: Well, Your Honor, first of all,
+we agree that a large landowner would himself or herself
+have --
+JUSTICE SCALIA: What of a small landowner?
+JUSTICE KENNEDY: No, no. I'm asking
+whether you have some special standing --
+MR. MILKEY: Yes --
+JUSTICE KENNEDY: -- as a State and, if so,
+what's the authority for that?
+MR. MILKEY: Your Honor, first of all, I do
+think we have special standing. For example, here it's
+uncontested that greenhouse gases are going to make
+ozone problems worse, which makes it harder for us to
+comply with our existing Clean Air Act responsibilities.
+And the -- in the West Virginia case, which
+is a D.C. Circuit case, the Court found that that itself
+provided an independent source of standing. In terms of
+Supreme Court cases, the -- it's been -- for 200 years,
+this Court has recognized loss of state sovereign
+property as a traditional --
+JUSTICE KENNEDY: Well, I don't know. 1907
+was Georgia versus Tennessee Copper, and that was
+pre-Massachusetts versus Mellon. That seems to me your
+best case.
+What about a small landowner? I asked the
+question about a big landowner. Suppose you have a
+small landowner and he owned a lot?
+MR. MILKEY: Your Honor, I think if someone
+is losing property because of this problem, then that
+person would have standing, but we're nowhere near a de
+minimis threshold here. We have shown we own property,
+200 miles of coastline which we're losing, and we think
+the standing is straightforward.
+JUSTICE SCALIA: No, I'm not sure -- I think
+our opinions have even said it, but certainly
+commentators have often said it, that really the far
+margin of our standing cases has been, you know, the
+famous scrap case, in which the allegation was that the
+added pollution from municipal incineration of municipal
+waste which would -- which couldn't be transported by
+rail for burial because the ICC rates were too high,
+that added pollution interfered with the students' --
+they were Georgetown Law students -- their hiking in the
+George Washington Forest along the Blue Ridge.
+That seems to me a much more immediate kind
+of damage; yet that's been referred to as really the far
+margin of our standing cases. You're talking not about
+their being affected by ambient air but being affected
+by a stratospheric effect which then has another
+consequence that you allege.
+MR. MILKEY: Your Honor, once these are
+emitted the laws of physics take over, so our harm is
+imminent in the sense that lighting a fuse on a bomb is
+imminent harm. It may take --
+JUSTICE GINSBURG: Mr. Milkey, does it make
+a difference that you're not representing a group of law
+students, but a number of States who are claiming that
+they are disarmed from regulating and that the
+regulatory responsibility has been given to the Federal
+Government and the Federal Government isn't exercising
+it? I thought you had a discrete claim based on the
+sovereignty of States and their inability to regulate
+dependent on the law Congress passed that gives that
+authority to the EPA. I thought that was --
+MR. MILKEY: Your Honor, you are correct
+that we are saying that provides us also an independent
+source of our standing.
+JUSTICE SCALIA: I don't understand
+that. You have standing whenever a Federal law preempts
+State action? You can complain about the implementation
+of that law because it has preempted your State action?
+Is that the basis of standing you're alleging?
+MR. MILKEY: In short, Your Honor --
+JUSTICE SCALIA: Do you know any case that
+has ever held that?
+MR. MILKEY: Your Honor, I would cite you to
+the amicus brief of the State of Arizona et al., which
+cites several cases, albeit not in this Court, that
+stand for that principle.
+Your Honor, if I may turn to the merits
+quickly, section 202(a)(1) provides EPA jurisdiction
+over any air pollutant that motor vehicles emit. It's
+not restricted to certain types of air pollutants or to
+air pollutants that cause certain kinds of harm. And
+not only does the act define air pollutant with
+comprehensive breadth, but we know these four substances
+are air pollutants from other evidence.
+For example, Congress itself expressly
+referred to carbon dioxide as an air pollutant in
+section 103(g). And since by definition all air
+pollutants are air pollution agents, we know that
+Congress understood carbon dioxide to be an agent of air
+pollution. And if air pollution --
+CHIEF JUSTICE ROBERTS: Moving from your
+authority argument to the exercise of authority, the
+clause 202(a)(1) requires EPA to prescribe standards
+which in their judgment cause or contribute to air
+pollution reasonably anticipated to endanger public
+health. And they say they haven't made that judgment
+yet, so they're not in violation of that statutory
+command.
+MR. MILKEY: That is correct, Your Honor;
+but they have said that they have put off making a
+judgment based on impermissible grounds. While EPA's
+explanation is difficult even to follow, one overarching
+point shines through and that is the agency does not
+agree with taking a regulatory approach regardless of
+how it might otherwise come out.
+CHIEF JUSTICE ROBERTS: Let's say the first
+day this law is passed, there are a lot of air
+pollutants that come out of motor vehicles. I mean, is
+EPA immediately in violation of this statute if they
+don't issue emissions regulations for every one those
+air pollutants on day one?
+MR. MILKEY: No, Your Honor. EPA has a lot
+of room to move based both on the endangerment standard
+itself and on background principles of administrative
+law.
+CHIEF JUSTICE ROBERTS: And presumably the
+principle that they want to deal with what they regard
+as the more serious threats sooner. They want to deal
+with lead first and then they want to deal with other
+stuff. I mean, what is the -- when did they -- I
+guess -- move into an abuse of discretion in not
+exercising a judgment with respect to a particular
+pollutant?
+MR. MILKEY: The answer to that, Your Honor,
+is that when they do not rely on any of those grounds,
+they do not rely on lack of information, they did not
+rely on background principles of administrative law.
+What though said here is -- and -- that they did not, in
+fact, contest the seriousness of the problem. But note,
+in two back to back sentences on page A-82 of the third
+petition they say: We must address the, issue but we
+disagree with the regulatory approach.
+The very section in which they explained why
+they weren't going to regulate is entitled "Different
+Policy Approach." Rejecting mandatory motor vehicle
+regulation as a bad idea is simply not a policy choice
+that Congress left to EPA.
+JUSTICE GINSBURG: But if you are right and
+then it went back and the EPA then said, well, an
+obvious reason also is constraint on our own resources,
+we have the authority to say what comes first, Congress
+-- we couldn't possibly do everything that Congress has
+authorized us to do; so it's our decision, even though
+we have the authority to do this, we think that we
+should spend our resources on other things.
+Suppose they said that? You said they
+didn't say it this time around, but how far will you get
+if all that's going to happen is it goes back and then
+EPA says our resources are constrained and we're not
+going to spend the money?
+MR. MILKEY: Your Honor, while background
+administrative law principles provide EPA at least some
+room to move, we think it's important that EPA say that.
+If they -- it's a very different opinion if they say, we
+are not going to regular here because we just don't want
+to spend the resources on this problem and we want to
+look elsewhere.
+If they want to say that, they can say that
+and then, if at all, there'd be a narrow arbitrary and
+capricious challenge on that. But the point is here
+they relied on the impermissible consideration that they
+simply disagreed with the policy behind the statute.
+CHIEF JUSTICE ROBERTS: That's not all they
+said. I'm looking at A-85 and they said establishing
+emissions now would require EPA to make scientific and
+technical judgments without the benefit of studies that
+are being developed to reduce the uncertainty in the
+area. That's different than saying they disagree with
+the regulatory approach.
+MR. MILKEY: It is and it isn't, Your Honor,
+because that statement will alleges be true. There will
+always be scientific uncertainty. Agencies will always
+have an understandable interest in seeing more
+information. They never --
+CHIEF JUSTICE ROBERTS: There's a difference
+between the scientific status of the harm from lead
+emissions from vehicles that -- when you have lead in
+the gasoline, to the status, the status of scientific
+knowledge with respect to the impact on global warming
+today? Those are two very different levels of
+uncertainty.
+MR. MILKEY: Your Honor, when EPA regulated
+lead back in the ethyl days, as the Court court itself
+took note, there were huge amounts of uncertainty at
+that time. And EPA has a lot of discretion in
+evaluating that, that uncertainty.
+And if the EPA determined that the level of
+uncertainty was such that it was not reasonable to
+anticipate endangerment, that is perfectly appropriate.
+It would also be appropriate if the agency determined
+that there was so much uncertainty that they couldn't
+even form a judgment on that. That would be applying
+the endangerment statute at the same time it put off.
+But the point is they did not say any of that. They
+instead relied on impermissible grounds.
+JUSTICE SCALIA: Mr. Milkey, I had -- my
+problem is precisely on the impermissible grounds. To
+be sure, carbon dioxide is a pollutant, and it can be an
+air pollutant. If we fill this room with carbon
+dioxide, it could be an air pollutant that endangers
+health. But I always thought an air pollutant was
+something different from a stratospheric pollutant, and
+your claim here is not that the pollution of what we
+normally call "air" is endangering health. That isn't,
+that isn't -- your assertion is that after the pollutant
+leaves the air and goes up into the stratosphere it is
+contributing to global warming.
+MR. MILKEY: Respectfully, Your Honor, it is
+not the stratosphere. It's the troposphere.
+JUSTICE SCALIA: Troposphere, whatever. I
+told you before I'm not a scientist.
+(Laughter.)
+JUSTICE SCALIA: That's why I don't want to
+have to deal with global warming, to tell you the truth.
+MR. MILKEY: Under the express words of the
+statute -- and this is 302(g) -- for something to be an
+air pollutant it has to be emitted into the ambient air
+or otherwise entered there.
+JUSTICE SCALIA: Yes, and I agree with that.
+It is when it comes out an air pollutant. But is it an
+air pollutant that endangers health? I think it has to
+endanger health by reason of polluting the air, and this
+does not endanger health by reason of polluting the air
+at all.
+MR. MILKEY: Your Honor, respectfully, I
+disagree, and there is nothing in the act that actually
+requires the harm to occur in the ambient air. In fact,
+some of the harm here does occur there.
+JUSTICE SCALIA: Well, it talks about air
+pollution all the time. That's what the, that's what
+the thing is about, air pollution. It's not about
+global warming and it's not about the troposphere.
+MR. MILKEY: Your Honor, we are not saying,
+first of all that global warming is air pollution, any
+more than we're saying that asthma is air pollution.
+They're both effects. I would point you to the example
+of acid rain, where the pollutant there, sulfur dioxide,
+the problem is it causes its harm after it leaves the
+air, after it gets washed out. Air pollutants do not
+need to cause harm in the ambient air.
+Your Honor, I would add that our
+interpretation satisfies common sense because, while EPA
+has plenary authority over substances that motor
+vehicles emit, those substances are regulated only if
+EPA determines that they cause endangerment. By
+defining the term "air pollutant" comprehensively,
+Congress has not prejudged what may cause endangerment,
+but it has allowed other pollutants to be regulated as
+their harms become appreciated. It is EPA's
+interpretation that fails the common sense test. They
+have suggested that the term "air pollutant agent"
+creates an independent test so important that it may
+prevent some harmful compounds from being regulated
+without providing any hint of what the term means or how
+it applies in this case. And they cannot explain any
+number of anomalies such as the fact that methane is
+already a regulated air pollutant, yet they claim they
+can't look at its climate effects.
+Your Honor, if there are no more questions
+I'd like to reserve my time.
+CHIEF JUSTICE ROBERTS: Thank you,
+Mr. Milkey.
+Mr. Garre.
+ORAL ARGUMENT OF GREGORY G. GARRE,
+ON BEHALF OF RESPONDENTS
+MR. GARRE: Thank you. Mr. Chief Justice,
+and may it please the Court.
+After carefully considering the issue the
+nation's expert agency in environmental matters
+concluded that Congress has not authorized it to embark
+on the regulation of greenhouse gas emissions to address
+global climate change. And that even if it has, now is
+not the time to exercise such authority, in light of the
+substantial scientific uncertainty surrounding global
+climate change and the ongoing studies designed to
+address those uncertainties. Plaintiffs have provide no
+reason to override that quintessential administrative
+judgment.
+JUSTICE GINSBURG: Mr. Garre, doesn't the
+EPA's decision on the first, "we don't have any
+authority," doesn't that infect its subsequent decision,
+"well, even if we did, we wouldn't exercise it." But
+they've already decided they don't have authority.
+MR. GARRE: Your Honor, I don't think that
+it does. In the sense, I think EPA made clear in its
+decisional document that it considered as an alternative
+matter, that if it, even assuming it did have the
+authority, that it wouldn't be appropriate to exercise
+it at this time.
+And importantly, too, I mean, just to be
+clear on this, EPA has never made an endangerment
+finding with respect to global climate change. That was
+true in 1998 and 1999 when the agency had a different
+position on authority to regulate. Even then the
+agency's position was clear. Even assuming we have the
+authority, now is not the time to exercise it. So I
+don't think --
+JUSTICE GINSBURG: -- I take it that on that
+question, is there authority, the EPA has come out one
+way, but at least it is debatable because as you just
+said, the predecessors of the current people said we do
+have the authority.
+MR. GARRE: Well, to that degree, Your
+Honor, this Court has made clear, for example, in the
+Brand X case that even where agencies change positions,
+where they've provided reasonable grounds for a new
+interpretation, that interpretation is entitled to
+Chevron deference. We think that that is true in this
+case.
+JUSTICE BREYER: On this particular issue,
+the opinion as I read it, of the EPA, consists of 32
+pages. Twenty of those pages, 22 in fact, deal with
+whether they have statutory authority. And of the 10
+that deal with the issue we're talking about now, five
+of them give as their reason that they think that the
+President has a different policy. Of the remaining
+five, two more consider international aspects of the
+problem and how you have to get other countries to
+cooperate; and then the conclusion of that part says in
+light of these considerations, we decide not to exercise
+our power.
+Now their claim with respect to that, is
+that at least three of the four considerations are not
+proper things for the agency to take into account:
+namely whether the President wants to do something
+different, whether we're running foreign policy
+properly, whether cooperation with other countries are
+relevant to this particular issue.
+So what they've asked us to do is send it
+back so they can get the right reasons. Now -- if they
+want not to do it. What's your response to that?
+MR. GARRE: Justice Breyer, I don't think
+that it depends on how many pages that the agency
+devoted to the --
+JUSTICE BREYER: The reason it depended on
+that is whether or not these other, improper
+considerations might have influenced the ultimate
+decision not to go ahead.
+MR. GARRE: I think it depends on the
+reasons that the agency gave. And one of the reasons
+that the agency gave was the substantial scientific
+uncertainty surrounding the issue of global climate
+change. Petitioners acknowledge that that was an
+appropriate consideration for the agency. So even if
+you think the other considerations were inappropriate,
+and we certainly do not, but even if you think they are,
+the agency gave an appropriate reason. And that reasons
+--
+JUSTICE BREYER: When I write an opinion --
+when I write an opinion, sometimes I write the words:
+"We decide this matter in light of the following three
+factors taken together." And I guess a lawyer who said,
+"one of those factors alone the Court has held justified
+the result all by itself" -- in saying the Court has
+held that, I guess that wouldn't be so. That would be a
+bad lawyer, wouldn't it?
+MR. GARRE: But Your Honor --
+JUSTICE BREYER: If they write that all of
+these considerations justify our result, again, one of
+them by themselves, it sounds, they think would not have
+been sufficient.
+MR. GARRE: I -- I don't think that that is
+a fair reading of the EPA decisional document, Your
+Honor. Certainly, the agency didn't go out of its way
+to say, "and reading these considerations together and
+not any of them individually." And with respect to the
+scientific uncertainty, Your Honor, you also have to
+take into account that the EPA had before it and pointed
+to the report of the National Research Council on global
+climate change.
+JUSTICE STEVENS: I find it interesting that
+the scientists whose worked on that report said there
+were a good many omissions that would have indicated
+that there wasn't nearly the uncertainty that the agency
+described.
+MR. GARRE: Your Honor, if you are referring
+to the amicus brief, Your Honor, there are -- assuming
+there are amicus briefs on the other side. The Ballunas
+amicus brief -- I think it is fair for the Court to look
+at, to look at the document that the agency had before
+it. That -- that document produced by the National
+Research -- Research Council, that's the research arm of
+the National Academy of Sciences. And it's one of the
+gold standards of research.
+JUSTICE STEVENS: But in their selective
+quotations, they left out parts that indicated there was
+far less uncertainty than the agency purported to find.
+MR. GARRE: Well, Your Honor, I think one
+thing that we ought to be able to agree on is there is
+that there is uncertainty surrounding the phenomenon of
+global climate change. I think the debate is on which
+areas are more uncertain than the others. But certainly
+I think the agency was entitled to conclude,
+particularly if you take into account the deference this
+Court should give to that kind of determination, that
+the scientific uncertainty surrounding the issue of
+global climate change, surrounding issues of the extent
+of natural variability in climate, surrounding the
+issues of impact of climate feedbacks like ocean
+circulation, and low cloud cover, are permissible
+considerations for the agency to take into -- -
+JUSTICE STEVENS: Is there uncertainty on
+the basic proposition that these greenhouse gases
+contribute to global warming.
+MR. GARRE: Your Honor, the report says that
+it is likely that there is a -- a connection, but that
+it cannot unequivocally be established. I think that --
+if I could use that to go back to the standing question,
+Your Honor, which is the fundamental question of whether
+they've showed not just a connection between greenhouse
+gas emissions in toto and the phenomenon of global
+climate change, but the particular class of greenhouse
+gas emissions at issue in this case. Six percent of
+global greenhouse gas emissions, at most. That assumes
+you put all U.S. vehicles off the road or that they are
+all zero emission cars. So you're talking about
+emissions --
+CHIEF JUSTICE ROBERTS: -- it is not a
+mathematical question, right? I mean, you would -- it's
+that you would -- what is the number? What's enough?
+10 percent? 15 percent? Presumably, there's more to it
+than the percentage of emissions attributable to be this
+particular --
+MR. GARRE: I think that's true, Your Honor.
+But what petitioners here to show, they bear the burden
+in order to establish standing under this case, is that
+regulation of the class of greenhouse gases at issue in
+this case will make a difference to them.
+JUSTICE BREYER: Suppose it is not
+greenhouse gas. Suppose it was Agent Orange. Suppose
+there a car is coming down the street and it sprays out
+Agent Orange. And I come into the Court and I say, you
+know, I think that Agent Orange is going to kill me with
+cancer. And the reply is, well, we have some scientists
+here who say your chance of dying of cancer from Agent
+Orange is only 1 in 30. Maybe 1 in 50. Maybe 1 in a
+thousand. Maybe 1 in 10,000. And therefore, you have
+no standing to require the EPA to regulate this
+pollutant, Agent Orange, which is in a green cloud all
+over the city.
+Now, would you say that the person who's
+made that claim has no standing?
+MR. GARRE: Your Honor, I think that that is
+a fundamentally different case, for the simple reason
+that global climate change is a global phenomenon. I
+mean one --
+JUSTICE BREYER: I was only addressing,
+using that to -- to address your problem that the
+chances are too small that, in fact, any one individual
+will be affected by the 7 percent or 6 percent of the
+material that comes out of the truck -- the CO2.
+MR. GARRE: The -- the individual in that
+case, Your Honor, like the plaintiffs here, would have
+to show specific facts demonstrating injury,
+redressibility and traceability. Now in this case --
+JUSTICE KENNEDY: Your problem, I think, you
+take the position, the proposition that the greater the
+harm the greater the risk, the smaller the probability
+has to be before it is reasonable to act, and necessary
+to act.
+MR. GARRE: Your Honor, this Court's
+standing cases make clear that you have to show that
+granting the relief requested is likely to redress the
+alleged harms. And again, looking at the --
+JUSTICE SOUTER: They are saying it is
+likely to do so, even though we cannot give you a point
+for point percentage correlation between reduction of
+gas and coastline loss. You're saying, it seems to me,
+that they have somehow got to pinpoint this
+mathematically --
+MR. GARRE: I don't -- we're not saying
+that.
+JUSTICE SOUTER: -- before, before there is
+redressibility.
+MR. GARRE: We're not saying that, Your
+Honor. We're saying that they have, they certainly have
+to do more than they have done here. And they're
+granted their standing --
+JUSTICE SOUTER: Tell me what it is that
+they need, be more specific about what they need to do.
+MR. GARRE: Well, I will be more specific.
+And if I could also just point to what they grounded
+their case on here. They grounded their case on here,
+in the declarations, on the notion if the United States
+regulates greenhouse gas emissions of vehicles, then
+other countries will follow suit with respect to the
+emissions of vehicles and other greenhouse gas
+emissions. That's clear from the McCracken declaration
+on page 239, paragraph 32 of the JA, as well as the
+Walsh declaration.
+JUSTICE SCALIA: I think it can be argued
+that the Assistant Attorney General hasn't argued that
+here.
+MR. GARRE: Well --
+JUSTICE SCALIA: He has said that 6 percent
+is enough.
+MR. GARRE: That, that's true, Your Honor,
+but I still think you have to look at the basis that
+they've relied upon on standing. And they haven't shown
+specific facts which should provide any comfort to this
+Court that regulation of less than 6 percent or fewer
+greenhouse emissions worldwide will have any effect on
+their alleged injuries.
+JUSTICE SOUTER: Why is there -- why is
+there reason to assume that it will have no effect?
+MR. GARRE: Well --
+JUSTICE SOUTER: That seems to be the
+assumption you're making. You are saying unless they
+can pinpoint the correlation between reduction of gas
+and effect, let's say in coastline loss, they have not
+shown either causation or a sufficient likelihood of
+redressibility.
+MR. GARRE: Your Honor --
+JUSTICE SOUTER: But why do they have to
+show a precise correlation as opposed simply to
+establishing what I think is not really contested, that
+there is a correlation between greenhouse gases and the
+kind of loss that they're talking about; and it is
+reasonable to suppose that some reduction in the gases
+will result in some reduction in future loss.
+Why is that insufficient?
+MR. GARRE: Justice Souter, one fundamental
+reason is that we don't know what the rest of the world
+is going to do, whether or not --
+JUSTICE SOUTER: Let's assume the rest --
+let's assume that the rest of the world does nothing. I
+don't think that's a very reasonable assumption, but
+let's make that assumption. So that the only thing
+we're talking is the 6 percent. If the 6 percent can be
+reduced -- I think the suggestion was over a reasonable
+period of time, by two and a half percent of the 6,
+there is, I suppose, reason to expect that there will
+be, maybe not two and a half percent less coastline
+lost, but some degree of less coastline lost because
+there is a correlation between the gas and the loss of
+the coastline. Why is that an unreasonable assumption
+to make in order to show causation and redressibility,
+bearing in mind that redressibility is a question of
+more or less, not a question of either/or.
+They don't have to show that it will stop
+global warming. Their point is that will reduce the
+degree of global warming and likely reduce the degree of
+loss, if it is only by two and a half percent. What's
+wrong with that?
+MR. GARRE: Justice Souter, their burden is
+to show that if the Court grants their requested relief
+it will redress their injuries. I'm not aware --
+JUSTICE SOUTER: Not redress their injury in
+the sense that it will prevent any global warming or
+stop global warming and stop coastal erosion; their
+argument is a different one. It will reduce the degree
+of global warming and reduce the degree of coastal loss.
+MR. GARRE: I think --
+JUSTICE SOUTER: That's their argument. Not
+all or nothing. But a part. That's what they're trying
+to show.
+MR. GARRE: And that's fine, Justice Souter,
+I grant you that. But they still have to show that
+there is reason that it is likely to believe, that the
+reduction in that tiny fraction of United States
+emissions, putting aside the 99 percent or the 95
+percent in the rest of the world and what they do, and
+the evidence that shows that greenhouse gas emissions in
+those countries are increasing, they have to show the
+regulation of that tiny fraction would have an affect on
+their alleged injuries, not to completely redress them,
+Your Honor. We don't say that --
+JUSTICE SOUTER: Don't they have to show
+that it is reasonable to suppose it will have an effect?
+MR. GARRE: They have to show that it is
+likely, Your Honor. And they haven't even tried to make
+that showing. The one thing that they've --
+JUSTICE SOUTER: Why is that showing -- and
+I agree with, by the way, with the Chief's suggestion a
+moment ago, life is not, or physics are not so simple as
+to assume that there's going to be a be a direct two and
+a half percent reduction of coastline for a two and a
+half percent reduction from the 6 percent.
+But isn't it intuitively reasonable to
+suppose that with some reduction of the greenhouse
+gases, there will be some reduction of the ensuing
+damage or the ensuing climate change which causes the
+damage? Isn't that fair?
+MR. GARRE: I don't think that it is fair,
+Your Honor. I don't want to pretend to be an expert on
+global climate change. But the one thing I can say is
+from the materials I looked at is that this an
+extraordinarily complex area of science. I'm not aware
+of any studies available that would suggest that the
+regulation of that minuscule fraction of greenhouse gas
+emissions would have any effect whatsoever on the
+global -- -
+JUSTICE SOUTER: But do you have any --
+JUSTICE BREYER: Suppose others cooperate?
+Suppose, for example, they regulate this and before you
+know it, they start to sequester carbon with the power
+plants, and before you know it, they decide ethanol
+might be a good idea, and before you know it, they
+decide any one of 15 things, each of which has an
+impact, and lo and behold, Cape Cod is saved. Now why
+is it unreasonable? Why is it unreasonable to go to an
+agency and say now you do your part, which is 6 percent,
+and now we're going to go to a different agency like
+NHTSA and we're going to ask them too, and we're going
+to go to your electricity regulation program, and coal.
+And there are like not a million things that have to be
+done, maybe there are only seven. But by the time we
+get those seven things done, we'll make a big
+difference. Now what is it in the law that says that
+somehow a person cannot go to an agency and say we want
+you to do your part? Would you be up here saying the
+same thing if we're trying to regulate child
+pornography, and it turns out that anyone with a
+computer can get pornography elsewhere? I don't think
+so.
+MR. GARRE: Your Honor, what I would point
+you to is your decision in Lujan versus Defenders of
+Wildlife, Justice Kennedy's opinion in ASARCO versus
+Kadish, where the Court made clear that you cannot
+establish standing based on predictions of the actions
+of independent actors not before it. That's true about
+other agencies that aren't here today. That's true
+about other countries whom this Court does not have
+jurisdiction over.
+JUSTICE BREYER: So they couldn't have gone
+in and asked for ozone regulations, because that
+requires other countries? Or what about dumping heavy
+metals in the sea, and as the sea gets polluted because
+of what other countries do, but EPA tried to regulate
+that. Acid rain they tried to regulate. You're
+saying there is no standing to ask for any of that.
+MR. GARRE: Well, first of all, Congress has
+specifically addressed two of the areas that you
+mentioned, Your Honor, and we're not saying that
+categorically --
+CHIEF JUSTICE ROBERTS: Just because there's
+no standing to challenge an agency's decision doesn't
+mean the agency can't regulate that particular area,
+right?
+MR. GARRE: That's exactly right, Your
+Honor. That's exactly right.
+JUSTICE BREYER: But you are saying if
+Congress passes a statute and they put the words CO2
+right in this statute under ambient air, and they say
+anybody can go and sue if the EPA doesn't do it, you're
+saying Congress lacks the constitutional authority to do
+that, because it's Article III we're talking about?
+MR. GARRE: Well, Your Honor, we're saying
+two things. First, every plaintiff has the obligation
+to establish that he has Article III standing under this
+Constitution. And secondly, there are members of this
+Court, for example, Justice Kennedy in his concurring
+opinion in Defenders of Wildlife, who did suggest that
+perhaps if Congress specifically addresses an issue,
+that could inform the standing analysis. For example --
+CHIEF JUSTICE ROBERTS: They can't
+compromise the requirements of Article III.
+MR. GARRE: It cannot, Your Honor. Congress
+could make findings with respect to causation or other
+issues that this Court would have to give deference to
+and seriously consider, but you're right. It would not
+override the requirements of Article III. And there may
+be some global phenomenon that create more difficult
+challenges to establish standing but --
+JUSTICE STEVENS: As I understand the
+government's position, you're not merely questioning
+standing but you also take the position you do not have
+the authority to do what the plaintiff asks you to do;
+is that correct?
+MR. GARRE: That's true, Your Honor, moving
+to the merits, that's true. And with respect to that,
+the agency engaged in the same type of analysis that
+this Court laid out in the Brown and Williamson case.
+JUSTICE STEVENS: May I ask you on that
+question, if we turn to the statute, to Section 201,
+there's reference to "shall regulate" if in the judgment
+of the administrator there is a for real danger and so
+forth. In your view, is there a duty to make a
+judgment?
+MR. GARRE: Your Honor, our view is that
+agencies have inherent discretion to determine when to
+make that judgment.
+JUSTICE STEVENS: Could they have a
+discretion never to make the judgment?
+MR. GARRE: I think that gets to the
+question of whether there is, what judicial review is
+available. We have assumed in this case that there's
+some measure of judicial review. So I think at some
+point you got to the point where the agency either has
+provided no reasons whatsoever, or there is no sound
+basis for the agency not to take that step. Then
+assuming that there is a role for the courts here, a
+court could come in and say that that was inappropriate.
+JUSTICE STEVENS: But as I read your brief,
+you didn't really confront the question, s I understand
+it, of whether or not there was a duty to make a
+judgment at all. And I'm interested in what your
+position on that is.
+MR. GARRE: Well, again, I think it goes to
+the question -- we think the statute does not put a
+deadline on when the agency has to have, and that
+therefore --
+JUSTICE STEVENS: To me, just reading the
+text of the statute is a little ambiguous. I'm not
+entirely clear, but it seems to me that just reading
+that statute, I got the impression that Congress thought
+that the administrator had a duty to make a judgment
+when there was enough evidence out there that people
+were concerned about it and so forth, that there would
+be a duty there, but you think not?
+MR. GARRE: That's not the agency's
+interpretation. In fact in its decisional document
+under the section no mandatory duty, the agency explains
+why that's not its interpretation and we think that
+that's a reasonable interpretation. Congress knows how
+to constrain the exercise of discretion. We point in
+footnotes 18 and 19 of our brief of many examples where
+Congress has laid out deadlines or other constraints on
+the exercise of discretion, and those aren't present in
+Section 203.
+JUSTICE STEVENS: But you would agree that
+if they did make a judgment, then you would have
+authority to regulate?
+MR. GARRE: That's right. And then I think
+it's a point the D.C. Circuit made in the Ethyl
+Corporation case at footnote 37, that precisely because
+the statute imposes a duty to act once that endangerment
+finding is made, the agency has discretion to determine
+when to make the endangerment finding.
+JUSTICE KENNEDY: In Norton versus Utah
+Wilderness Alliance, having to do with the regulation of
+off-road vehicles, we indicated that one measure was
+whether or not the agency has unreasonably delayed its
+action.
+MR. GARRE: That's a separate sort of
+action, Your Honor. There are cases where people have
+said that this is unreasonable delay. That's not the
+claim that the petitioners in this case brought.
+CHIEF JUSTICE ROBERTS: Let me understand
+your answer to Justice Stevens' question. If EPA made
+the judgment under the statute, you think they would
+have had the authority?
+MR. GARRE: Under the statute --
+CHIEF JUSTICE ROBERTS: I thought you had a
+Brown and Williamson argument that EPA was precluded.
+MR. GARRE: No, I was assuming -- in
+answering Justice Stevens' questions, that we were down
+in the exercise of discretion part. But you're right,
+Your Honor, the threshold position of the agency on this
+is that it lacks the authority to --
+JUSTICE SCALIA: Can I ask about that? I
+found persuasive Solicitor General Garre's point that in
+the acid rain context, it isn't air pollution that harms
+health, but rather it is the effect of the pollutant
+after it leaves the air and produces the acid rain. Is
+there anything wrong with that response? It seems to
+me --
+MR. GARRE: I think there is, Your Honor.
+The way that the agency looked at this is to look at the
+question of whether Congress intended it to regulate
+greenhouse gas emissions to address global climate
+change, and it looked to the factors that this Court
+laid out in Brown and Williamson. The statute as a
+whole is specific legislation addressing global climate
+change, and it concluded that the agency had not
+authorized it to embark on that regulatory --
+JUSTICE SCALIA: You concede that it's an
+air pollutant that affects health?
+MR. GARRE: No. The agency -- what the
+agency found, Your Honor, was that because global
+climate change is not air pollution within the meaning
+of the statute -- which is to say that Congress did not
+authorize it to regulate it as air pollution.
+JUSTICE SCALIA: Then why isn't it air
+pollution within the meaning of the statute, although
+whatever it is that causes acid rain is?
+MR. GARRE: I think, Your Honor, that the
+key to the agency was that Congress did not give it
+regulatory authority over this. And I think on the
+question of whether or not greenhouse gas emissions
+qualify --
+JUSTICE SCALIA: But you can't give me any
+text in this statute itself. It isn't the phrase "air
+pollution" or any other phrase?
+MR. GARRE: The agency pointed to the term
+"air pollution agent" in the statute, and concluded that
+because global climate change was not air pollution that
+Congress intended to address --
+JUSTICE SCALIA: And that gets us back to
+acid rain.
+MR. GARRE: And with respect to acid rain,
+it's a good example insofar as Congress has enacted a
+whole separate title of the Clean Air Act to address
+acid rain.
+The other thing I want to mention on the
+interpretive question is, in the Brown and Williamson
+case, this Court assumed at the outset of its analysis
+that nicotine would be within the general terms of the
+definition of drug in the Food, Drug and Cosmetic Act,
+and that cigarettes would fall within the general term
+of drug --
+JUSTICE SCALIA: So that's the position
+you're taking, that it is within the general term?
+MR. GARRE: I think it's largely the
+position that the agency took, Your Honor, insofar as it
+reasoned that, look, we've looked at everything. We
+conclude that Congress doesn't intend us to regulate
+global climate change as air pollution. And so
+therefore, we're not going to say that greenhouse gases
+are air pollution agents.
+JUSTICE GINSBURG: Which is why there's a
+significant difference between the agency saying that
+for 60 years, and I think this Court stressed that in
+its opinion, and Congress reacting to that, what the
+agency's position was. And here where it's a newly
+minted position, because the agency's position not too
+long ago was that they did have the authority.
+MR. GARRE: Well, Justice Ginsburg, it was
+30 years before the agency reached the conclusion in
+1998 that carbon dioxide was an air pollutant. And
+again, even when it reached that conclusion, it made
+clear that it didn't think that the agency would
+exercise its authority to regulate it.
+JUSTICE GINSBURG: That's a different
+question. I'm just focusing on, did it have authority
+to deal with this issue?
+MR. GARRE: And I think -- I mean, I grant
+you that there are differences between Brown and
+Williamson and this case, but the fundamental conclusion
+that the agency reached is the same. Which was, to
+borrow the phrase from the Whitman case, Congress did
+not intend to hide elephants in mouse holes. Here we
+are talking about an issue of the magnitude of
+regulating global climate change and greenhouse gas
+emissions, which are fundamentally an important part of
+the nation's economy. Nearly 85 percent of the economy
+is a direct or indirect source of greenhouse gas
+emissions.
+And when we look at when Congress did
+mention carbon dioxide in the statute, which is in the
+1990 amendments, Section 103(g), that was the first time
+that Congress mentioned CO2. And when it did that, it
+went out of its way to say that it was giving
+non-regulatory authority to the agency, and moreover,
+that nothing in this section shall provide any basis for
+any air pollution control requirements. That's a
+strange thing for Congress to say if it believed that
+the agency already had this far-reaching authority to
+regulate greenhouse gas emissions.
+There are other aspects of the statute that
+we think lead to the same conclusion in Brown &
+Williamson. There's a fundamental inconsistency, the
+agency concluded, between attempting to regulate
+greenhouse gas emissions under the national air ambient
+quality system, and that inconsistency is similar to the
+inconsistency that the Court pointed out in the Brown
+and Williamson case.
+JUSTICE BREYER: I'd like you to address
+that. You said there was a lot of legislation in
+Congress that would have been pretty inconsistent with
+serious regulation by the FDA. And in this case, I
+don't think Congress is opposing the notion. I don't
+know anybody there who's in favor of global warming.
+And it seems to me they haven't passed laws that is
+actually, that would be significantly interfered with by
+the EPA trying to do its best to deal with this problem.
+Or am I wrong?
+MR. GARRE: I think you're wrong in the
+following respect, Your Honor.
+JUSTICE BREYER: What articles would be --
+MR. GARRE: Congress has passed at least six
+separate statutes to specifically address the issue of
+global warming, and all of them share two common
+features. One, we want you to research this issue and
+learn more about it. And two, we want you to work on an
+international framework for addressing global climate
+change. The agency reasonably concluded that unilateral
+U.S. regulation of greenhouse gases --
+JUSTICE BREYER: Is there anything in the
+statute that prevents them from consulting with other
+nations or prevents the government from doing that when
+they determine how best to work out whatever standards
+or other forms of regulation they want?
+MR. GARRE: There's nothing in the Clean Air
+Act, if that's the stature you're referring to, but I --
+JUSTICE SCALIA: I presume the problem that
+they have in mind is that we have nothing to give in
+international negotiations. If we have done everything
+we can to reduce CO2, you know, what deal do we make
+with foreign nations? What incentive do they have to go
+along with us?
+MR. GARRE: That's right, Your Honor. We've
+got a unique collective action problem, and yet, the
+reaction experience of the agency in dealing with the
+issue of stratospheric ozone depletion rate had
+precisely that situation, where the U.S. initially took
+steps. The stratospheric ozone depletion worsened, and
+it was only after international agreement was reached in
+the Montreal Protocol that a global solution to the
+problem was reached.
+JUSTICE BREYER: Do you think they have a
+good reason, yes or no? Because I'm not an expert in
+foreign affairs. The EPA probably is more than I am.
+But do you think that if they do rest their decision on
+their analysis of foreign affairs, that that is a proper
+basis for an agency like the EPA to refuse to regulate?
+MR. GARRE: I think it's a proper basis
+within its inherent discretion, Your Honor, for at least
+two reasons. One, the agency is a part of the executive
+branch and it had unique experience with the issue of
+stratospheric ozone depletion. And two, Congress has
+made clear, for example in the Global Climate Protection
+Act of 1987, that the EPA has a role in at least
+reporting to Congress on international cooperation and
+efforts in that realm.
+JUSTICE SOUTER: But Congress has not
+directed, don't regulate domestically for purposes of
+global warming.
+MR. GARRE: That's true, Your Honor, but --
+JUSTICE SOUTER: The problem that I have
+with your reference to this very -- these various pieces
+of legislation that suggest that Congress has a
+different modus operandi in mind is that Congress
+certainly is aware that EPA has authority over
+pollutants, and it has never interfered with it.
+MR. GARRE: Well, Your Honor, again, I think
+in looking at all the sources the agency looked to, the
+conclusion is, that the agency responsibly and prudently
+reached, is that Congress has not authorized it to
+embark on this regulatory endeavor. And I think the
+closest statute that comes to --
+JUSTICE SOUTER: But isn't that a
+misstatement? Isn't the conclusion that they're trying
+to draw that Congress doesn't want them to exercise the
+authority they have for this purpose? And isn't that
+something quite different? And doesn't that raise the
+question whether that is a legitimate concern for them
+under the statute that does give them the authority?
+MR. GARRE: May I answer the question? No,
+Your Honor. I think the agency's conclusion was
+Congress had not authorized it to undertake the
+regulation of greenhouse gas emissions to address global
+climate change and that, even if it had, that authority
+should not be exercised.
+Thank you very much.
+CHIEF JUSTICE ROBERTS: Thank you,
+Mr. Garre.
+Mr. Milkey, you have 3 minutes remaining.
+REBUTTAL ARGUMENT OF JAMES R. MILKEY
+ON BEHALF OF THE PETITIONERS
+JUSTICE SCALIA: Mr. Milkey, do you want us
+to send this case back to the EPA to ask them whether if
+only the last two pages of their opinion were given as a
+reason that would suffice? Would that make you happy?
+MR. MILKEY: It would not make us happy,
+Your Honor.
+JUSTICE SCALIA: I didn't think so.
+(Laughter.)
+MR. MILKEY: Your Honor, if I can address
+the global aspect of the problem, the fact that the
+solution to the whole problem --
+JUSTICE BREYER: What is your answer to
+Justice Scalia? Because I thought you said before that
+you thought it was appropriate for us to send this case
+back so that they could redetermine in light of proper
+considerations whether they wanted to exercise their
+authority.
+MR. MILKEY: That is exactly --
+JUSTICE BREYER: Am I wrong about that?
+MR. MILKEY: Your Honor, that is exactly
+what we want. I understood Justice Scalia to be saying
+--
+JUSTICE SCALIA: That's what I was asking,
+yes. And you think it will go back to them and they
+will say, oh my goodness, the scientific uncertainty is
+not enough by itself? You really expect that to happen?
+MR. MILKEY: Respectfully, Your Honor, I
+think EPA will have a hard time saying that there is
+insufficient -- I mean, too much scientific uncertainty.
+The very sentence --
+JUSTICE SCALIA: They said it already.
+MR. MILKEY: No, Your Honor.
+JUSTICE SCALIA: The only question is
+whether that alone is enough.
+MR. MILKEY: Respectfully, Your Honor, they
+did not say that. They did not anywhere say why the
+existing uncertainty mattered. To the contrary, they
+emphasized the need to act in the face of current
+uncertainty, but never explained why that principle
+applies to a nonregulatory approach but not to a
+regulatory one.
+CHIEF JUSTICE ROBERTS: What they said was
+until more is understood about causes, extent and
+significance of climate change and the potential options
+for addressing it, we believe it's inappropriate to
+regulate these emissions.
+MR. MILKEY: Your Honor.
+CHIEF JUSTICE ROBERTS: That strikes me as
+saying they think there is too much uncertainty for them
+to act.
+MR. MILKEY: Your Honor, they did not say
+there is too much uncertainty for them to form a
+judgment, which is the key issue. They said they
+preferred more certainty, but because of the nature of
+the endangerment standard, which emphasizes the
+important of regulating in the face of uncertainty, they
+have to at least explain why the uncertainty matters.
+And that is -- what they did here is particularly
+troubling in the fact that they ignored all of the
+indications pointing toward endangerment. They looked
+at what we don't know without ever looking at what we do
+know.
+JUSTICE ALITO: If the EPA concludes that
+regulating an air pollutant would endanger public health
+and welfare, can it decline to regulate?
+MR. MILKEY: Not under section 202, Your
+Honor.
+JUSTICE ALITO: It has to regulate even if
+it concludes that regulation would make things worse?
+MR. MILKEY: Would make things worse?
+JUSTICE ALITO: Yes.
+MR. MILKEY: I'm sorry, I didn't understand
+that.
+No.
+MR. MILKEY: No, Your Honor. If they
+thought there would be more endangerment that way they
+would not have to regulate.
+JUSTICE ALITO: Then why can't they -- what
+is wrong with their view that for the United States to
+proceed unilaterally would make things worse and
+therefore they're going to decline to regular for that
+reason?
+MR. MILKEY: Your Honor, first of all, I
+don't believe they actually said that, and there is
+nothing in the statute that even hints that they can
+take foreign policy considerations into account. To the
+contrary, the statute is very specific in other sections
+about when they're supposed to look at foreign emissions
+--
+JUSTICE ALITO: Isn't the definition of
+public welfare extremely broad?
+MR. MILKEY: Your Honor, it is certainly
+extremely broad, and it does include climate.
+Thank you, Your Honor.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+The case is submitted.
+(Whereupon, at 11:02 a.m., the case in the
+above-entitled matter was submitted.)
+56:14 affect 37:6 17:22,23,25 50:21 articles 49:11
+29:9 agencies 11:25 22:22 23:8,8 answer 19:15 27:20 39:17
+56:2 21:13 26:21 23:11,12,13,14 44:6 52:5 53:3 asking 4:4 14:18
+45:17 25:10 26:9 44:19,21 45:9 18:11 aspects 27:8
+27:15,24 28:6 45:12,14,15,24 anybody 40:11 48:16
+29:5,15,21 47:1,11 48:12 appeal 7:20 Assistant 1:16
+8:10 10:6 40:4 41:13 al 1:3,7 17:15 application 7:14 35:16,17 37:17
+17:23 42:5,7,17 43:4 albeit 17:16 applies 24:21 assumed 42:3
+32:25 43:19,24 44:15 ALITO 10:18 54:6 46:13
+43:18 44:25 45:6,10 11:10,15 55:4 apply 7:25 assumes 12:3,5
+50:1 45:11,19 46:1 55:9,12,19 applying 4:1 31:5
+54:4,16 46:21 47:3,10 56:6 22:8 assuming 26:3
+44:2 48:14,19 49:18 13:18 16:1 24:15 42:8 44:12
+50:10,22,25 allege 16:13 approach 3:23 assumption
+agent 18:5 24:17 alleging 17:10 22:5,6 26:4 48:19
+32:14 agents 18:4 47:1 allows 10:19 area 3:12 5:10 attributable
+46:4,9 ago 37:16 47:8 alternative 26:2 21:9 38:4 40:4 5:16,19 31:13
+49:13 agree 7:5 14:15 ambient 16:11 areas 4:17 30:8 authority 3:17
+18:20 23:10 23:8,18 24:6 39:24 5:25 6:9 8:18
+45:5 agreement amendments 9:2 10:1,3,9 25:24 26:4,10
+54:11 50:14 48:7 18:8 25:5 26:12,15,18
+19:5,18 28:4 29:18,19,20 52:15 41:9 43:14
+25:18 aimed 4:12 amount 11:3 arises 3:12 44:8,16 45:20
+51:15 10:11 12:8 11:13 12:25 21:1 40:3 44:4
+53:8 21:7 18:2,5 22:14 challenged 7:24 claimed 6:6
+45:7 big 14:10 15:14 carefully 25:9 challenging 8:14 16:20
+52:7 38:24 cars 6:14 7:2,7,7 chance 32:1 class 31:3,18
+borrow 47:22 7:21 8:17,18 9:16 25:13,16 7:19 10:6 15:2
+branch 51:1 14:2,9,13 15:3 29:11 30:7,13 clear 26:1,7,11
+51:15 breadth 17:24 17:12 24:21 37:23 38:2 34:4 39:10
+38:10 39:16 33:24 41:14 54:10 24:24 25:13,16
+48:24 42:3 43:17 changes 9:17 26:8 28:8
+21:24 brief 14:9 17:15 49:2 52:18 8:11 9:14 10:1 32:11 37:23
+30:24 29:18,20 42:10 53:5 56:12,13 10:7 12:3,12 38:2 45:2,5,12
+52:18 43:8 cases 10:8 15:6 13:16,23 14:1 46:3,24 47:25
+briefs 29:19 15:25 16:10 14:8 18:7,22 49:17 51:3
+20:17 broader 7:23 44:2 25:2,7 31:9 56:9
+18:17 44:11 45:4 causation 35:2 Chief's 37:15 coastal 36:16,18
+39:11 46:12 47:19 36:3 40:25 child 39:3 coastline 10:16
+42:7 36:11 24:13 cigarettes 46:16 15:20 33:9
+50:22,23 burial 16:4 caused 11:3 Circuit 7:20 35:1,24,25
+3:7 call 22:20 causing 12:20 circumstances come 18:21,24
+52:16 cancer 31:25 certain 17:21,22 11:17 26:15 31:23
+13:4 14:3 Cape 38:16 30:8 33:17 citizen 13:24 23:11 32:17
+54:11 capricious 21:1 51:15 56:8 city 32:6 51:22
+car 8:1 31:22 certainty 54:20 claim 16:24 comfort 34:16
+9:19,19 10:6,11 11:11 current 5:1 definition 18:3
+30:22 31:1 contributors currently 7:2,7 degree 26:19
+27:8 41:2 27:18 51:5 37:23,24 14:13
+21:2 28:10 Corporation day 18:23 19:2 32:20
+4:8 27:11,14 correct 17:3 de 15:18 1:19
+29:6 30:17 correlation 33:8 deadlines 43:9 dependent 17:1
+46:23 consists 27:2 counsel 56:11 debatable 26:16 described 29:16
+46:2 constitute 3:15 27:18 34:2 decide 8:25 9:1 determination
+49:18 6:1 37:5 39:14,18 27:11 28:17 30:11
+40:17 course 4:16 decided 25:24 43:19 49:23
+47:10,12 40:12 4:4 9:8 13:17 8:7,12 20:9 22:3,6
+48:17 constrain 43:7 13:21 15:4,6,7 25:21,22 28:4 determines
+52:6 constrained 17:16 21:24,24 39:8 40:3 24:11
+constraint 20:6 28:19,20 29:20 decisional 26:2 development
+20:3,7,8 contest 19:20 39:10,14 40:18 declaration 34:4 difference 16:19
+25:11 contested 35:7 41:1,14 42:9 34:6 21:16 31:19
+40:9,12 context 44:19 45:3 46:13 declarations 38:25 47:3
+42:22 contexts 10:4 47:4 48:22 33:25 differences
+45:1,13 continuously courts 42:8 decline 55:6,22 47:19
+46:4,8 5:7 Court's 33:2 declined 3:21 different 10:13
+47:5,22 contrary 9:11 cover 30:16 deductions 8:21 19:25 20:20
+49:1 54:3 56:3 CO2 32:17 40:9 Defenders 39:8 21:9,21 22:18
+51:2,5 contribute 48:8 50:5 40:19 26:9 27:7,17
+18:10 30:20 create 13:9 41:4 deference 26:24 32:10 36:17
+52:7 contributing creates 24:18 30:10 41:1 38:19 47:15
+easily 9:23 endangerment 7:23 21:5 35:7 18:18
+11:13 economic 12:6 24:11,13 26:7 ethanol 38:13 expressly 18:1
+18:2,5 economy 48:2,2 43:18,20 54:21 ethyl 21:24 extent 5:8 11:2
+24:3 effect 16:12 55:1,17 43:16 30:13 54:9
+48:6 34:18,21 35:1 endangers 22:16 evaluating 22:2 extraordinarily
+48:3 44:20 endeavor 51:21 evidence 9:11 extremely 56:7
+23:17 either 35:2 42:5 37:23 exactly 40:6,7 F
+elephants 47:23 entitled 19:25 11:23 13:7,11 faces 10:22
+22:1 emissions 3:18 7:17 9:12 10:4 examples 43:8 32:15 43:3
+43:7 5:18 6:1,7 7:3 17:2,19 18:9 executive 50:25 53:1 54:25
+44:14 8:21 10:2 18:25 19:3 exercise 18:8 factors 28:18,19
+11:11 12:10,15 20:3,5,15,18 25:14,23 26:4 45:3
+37:2,4 38:7 39:20 40:11 exercised 52:10 37:24,25
+45:2,21 48:1,4 44:6,11 49:7 exercising 16:23 fall 46:16
+16:15 23:8 18:17 24:15 expect 35:23 30:3
+54:4 errors 3:16 10:10 favor 49:4
+43:1 enacted 46:8 2:6,9 expert 25:10 features 49:15
+encompassed establish 4:13 38:1 50:18 Federal 16:22
+43:16 18:11 23:13,14 41:5 explained 19:24 feet 13:10
+established 13:5 54:5 fewer 34:17
+fuse 16:16 George 16:7 55:22 37:18,19
+18:22 G Ginsburg 7:12 50:18 happy 52:20,21
+20:7 G 3:1 25:5 16:18 20:4 goodness 53:16 hard 4:18 53:19
+25:21 Garre 1:18 2:6 25:20 26:14 government harder 15:1
+40:15 25:4,5,7,20,25 47:2,9,15 9:15 16:23,23 harm 4:21,22,23
+55:24 26:19 27:23 give 27:6 30:11 49:22 5:6,6 6:4,6,21
+34:2 37:25 39:7,23 global 6:2 8:21 granting 33:4 harmed 4:21 6:6
+49:10 41:11,21 42:1 11:15 21:20 greater 12:5 harms 4:11 5:8
+49:25 50:8,23 32:11,11 36:7 25:12 30:19 23:12,13,14
+51:10,17 52:5 36:8,15,16,18 31:1,3,5,18,21 44:20 45:9
+34:1,3,25 36:1 50:15 51:3,9 48:20 49:19 28:21
+44:18 45:21 47:25 globe 12:14 GREGORY hide 47:23
+48:3,15,20 go 6:3 9:8 28:4 1:18 2:6 25:5 high 16:4
+gases 4:14 5:1 38:17,19,21 33:24 hint 24:20
+38:6 12:6 14:25 50:6 53:15 4:3 18:17 hit 4:18
+46:25 49:19 going 4:15 5:2 group 16:19 holes 47:23
+35:13 general 1:16,18 20:14,16,21 6:25 7:5,11,16
+9:6,21 imminent 4:21 influenced 28:3 J 45:8,15,23
+12:9 4:22,23 6:21 inform 40:21 JA 34:5 46:5,18 47:2,9
+13:4,19 6:22 10:22 information JAMES 1:16 2:3 47:15 48:24
+14:3,14 16:16,17 19:17 21:15 2:9 3:6 52:15 49:11,20 50:2
+15:16 impact 21:20 inherent 41:22 judgment 4:4 50:17 51:7,11
+17:3,11 30:15 38:16 50:24 18:10,12,17 51:23 52:12,17
+18:15 impermissible initially 50:12 19:13 22:8 52:23 53:3,4
+20:17 4:3 18:17 21:2 injured 8:13 25:19 41:17,20 53:10,12,14,22
+22:24 22:11,13 injuries 34:19 41:23,25 42:13 53:24 54:8,14
+24:7 implementation 36:13 37:7 42:23 43:13 55:4,9,12,19
+25:25 17:8 injury 4:10 8:4 44:7 54:19 56:6,11
+28:23 important 3:12 8:12 9:2,5 judgments 21:7 justified 28:19
+5:23 8:19 10:14,15 32:20 judicial 42:2,4 justify 28:25
+11:22 20:19 36:14 jurisdiction
+32:9,19 24:18 48:1 insofar 46:8,21 K
+39:15
+34:13 54:22 insufficient Justice 1:19 3:3 Kadish 39:10
+37:8,12 importantly 35:12 53:20 3:8 4:20 5:3,13 Kennedy 8:23
+39:7,25 26:6 intend 46:23 5:22 6:3,11,20 14:7,18,21
+imposes 43:18 47:23 7:4,6,12,22 15:9 32:22
+44:2 impression intended 45:1 8:11,23 9:14 40:18 43:21
+45:11 42:22 46:4 10:1,7,18 Kennedy's 39:9
+46:21 improper 28:2 interest 21:14 11:10,15 12:3 key 45:19 54:19
+50:8,24 inability 16:25 interested 42:13 12:12,23 13:16 kill 31:24
+52:6 inappropriate interesting 13:23 14:1,7,8 kind 16:8 30:11
+53:11 28:11 42:9 29:12 14:17,18,21 35:9
+54:1 54:11 interfered 16:5 15:9,22 16:18 kinds 4:11 17:22
+55:8 incentive 50:6 49:6 51:16 17:6,12 18:7 know 6:5 7:8
+56:8 incineration international 18:22 19:7 10:19 11:6
+16:2 27:8 49:17 20:4 21:4,16 12:23 15:9,25
+inconsistency interpretation 23:10,20 25:2 31:24 35:14
+32:13,22
+lack 19:17
+indications 55:1 30:12 31:4,18 37:9,14 38:9
+39:9,16 44:16
+45:4
+18:25 individually issues 30:13,15 42:10,19 43:12 Laidlaw 13:22
+infect 25:22 13:23
+land 4:19 13:7
+48:5 56:4 26:3 28:17 22:12,24 23:6 near 15:18
+44:25 45:3 mattered 54:3 52:14,15,17,21 48:2
+46:22 51:18 matters 25:10 52:25 53:9,11 necessarily
+51:18 55:2 mean 5:3 6:4 7:6 56:8 33:21,21 54:4
+17:1,7 13:12 19:11 26:6 millions 11:25 negotiations
+18:23 losing 10:16 31:10 32:12 mind 36:4 50:3 50:4
+20:18 15:17,20 40:4 47:18 51:14 never 21:15 26:7
+loss 12:13 13:7 53:20 minimis 15:19 41:25 51:16
+33:9 35:1,9,11 45:16 minuscule 38:6 new 6:14 7:7,18
+lot 5:13 15:15 43:23 51:24 NHTSA 38:20
+18:23 19:3 measures 7:8 model 8:1 nicotine 46:14
+44:21 low 30:16 mention 46:11 money 20:16 non-regulatory
+51:13 magnitude merely 41:7 18:24 20:1 note 19:20 21:25
+34:24 41:12 move 19:4,12 November 1:10
+28:17 marginal 12:8 Milkey 1:16 2:3 16:2 O 2:1 3:1
+Mass 1:17 2:9 3:5,6,8 obligation 40:15
+10:22 11:25 7:11,16 8:6,16 narrow 20:25 occur 5:9 9:10
+24:24 33:11 17:3,11,14 natural 30:14 oh 53:16
+34:14 matter 1:12 3:20 18:15 19:3,15 nature 11:22 omissions 29:14
+46:22 4:13 10:10 20:17 21:11,23 54:20 once 5:10 16:14
+36:21 38:18 19:22 24:3,12,17,23 preferred 54:20
+25:16 48:1 50:25 petitioners 1:4 45:9 47:11 premise 6:18
+28:15,16 19:13 27:1,19 44:4 52:16 17:21,22,25 President 27:7
+40:19 31:3,14 40:4 phenomenon 18:4,24 19:2 27:16
+52:19 particularized 30:6 31:2 24:5,14 51:16 presumably
+4:18 30:10 47:22 23:14 presume 50:2
+25:5 18:23 49:5,12 pinpoint 33:10 44:19 45:12,14 preventing 4:12
+32:2 pending 7:21 places 12:7 46:3,24 47:1 49:22
+people 8:13 plain 3:16 48:12 pre-Massachu...
+36:3 44:2 41:9 39:4,5 principle 3:17
+11:4,5,7,10,20 38:13 42:14 44:15 probability
+31:4,12,12 please 3:9 25:8 47:7,7 probably 50:19
+34:17 35:20,20 point 5:23 6:9 possesses 4:1 11:6 15:17
+37:2,3,18,19 18:19 21:1 potential 54:10 22:13 24:4
+48:2 33:7,8,23 36:7 8:3 27:12 49:7 50:2,9,16
+50:11,13 31:13 33:8 43:7,16 44:18 powered 8:3 problems 15:1
+perfectly 22:5 pointed 29:9 precise 35:6 proceed 55:21
+30:16 27:7,17 56:2 26:17 projected 12:1
+32:7 39:1 17:23 18:2 predictions proper 27:15
+15:8,17 25:18 REBUTTAL 39:3,20,21 16:19
+quite 52:2 2:8 52:15 40:4 41:17 requested 33:4
+32:23 record 7:1 10:21 46:23 47:14 require 21:6
+51:3 R 1:16 2:3,9 3:1 redetermine 51:8 54:12 requirements
+34:16 rain 24:3 39:21 36:13,14 37:7 24:10,14,19,23 requires 4:21
+44:19,21 45:17 redressibility regulates 34:1 18:9 23:18
+42:6 raise 52:2 33:15 35:3 47:25 54:22 research 29:10
+ratio 12:24 36:7,8,17,18 31:18 34:17 resources 20:6
+55:5 50:16 51:20 35:21 49:24 52:8 12:14 19:13
+reacting 47:5 reducing 12:9 55:10 21:20 26:8
+31:6 40:9 real 8:21 41:18 34:25 35:10,11 8:9 16:22 respectfully
+really 15:24 37:1,18,19,21 18:20 19:23 22:24 23:16
+53:17 reductions 51:21 54:7 Respondents
+14:8 32:10 34:21 18:2 22:11 34:15 15:2
+26:15 35:14,23 36:25 referring 29:17 relief 33:4 36:12 responsibility
+31:10 50:18 52:20 50:1 relies 9:12 16:22
+41:16 55:23 refusal 7:25 rely 19:16,17,18 responsibly
+reasonable 22:4 refuse 50:22 relying 9:23,24 51:19
+45:1,21 26:22 32:25 regard 19:8 remain 12:4 rest 4:2 35:14,16
+47:16 35:10,18,21 regardless 12:11 remaining 27:7 35:17 37:3
+53:24 37:10,20 43:6 18:20 52:14 50:20
+18:11 49:18 55:22 reply 31:25 result 28:20,25
+reasons 27:21 regulate 7:18 30:21 results 8:22
+50:25 19:25 26:10 reports 9:12 reviewable 3:16
+12:5 scale 8:20 separate 44:1 six 31:4 49:12 sprays 31:22
+27:21 Scalia 4:20 5:3 46:9 49:13 sizeable 11:6 spring 5:7
+40:5,6,7 5:13,22 6:3,11 sequester 38:12 slope 13:8 stand 17:17
+41:2 6:20 7:4,6 serious 19:9 small 8:20 10:12 standard 3:16
+44:14 12:23 14:17 49:2 11:17,22,24 7:18,24 19:4
+15:22 17:6,12 seriously 41:2 13:6 14:17 54:21
+34:11 44:17 set 4:5 Solicitor 1:18 49:23
+8:11 9:14 Sciences 29:24 9:3,5,23 10:21 sort 9:18,19 15:5,18,21,25
+12:3,12 scientific 21:6 11:2 31:16 44:1 16:10 17:5,7
+14:1 21:13,17,19 32:20 33:3 sound 42:6 17:10 30:24
+19:7 25:15 28:7 35:6 36:3,6,12 sounds 29:1 31:17 32:4,8
+25:2 29:8 30:12 36:22,24 37:5 source 7:18 15:5 33:3,19 34:15
+40:2,22 53:16,20 37:9,11 17:5 48:3 39:11,22 40:3
+52:12 scientist 13:3 showed 4:10 9:9 sources 5:25 40:16,21 41:5
+56:11 23:2 31:1 6:10 11:5 41:8
+scrap 16:1 shown 4:25 6:25 33:20 34:20,23 state 13:11
+39:19 11:9,19 15:19 36:11,14,20,23 17:8,9,15
+24:1 selective 30:1 similar 48:21 13:24 32:20 statute 4:11
+33:6,9 send 27:20 similarly 7:13 33:21,22 34:16 18:25 21:3
+52:18 53:5 11:8 45:5 56:3 22:9 23:7 40:9
+39:2,22 sense 3:24 8:7 simple 32:10 specifically 40:10 41:16
+40:8,12 9:23 14:5 37:16 39:24 40:20 42:16,20,22
+47:3 16:16 24:8,16 simply 4:6 9:4 49:13 43:18 44:7,9
+54:15 26:1 36:15 10:11 20:2 spend 20:11,16 45:4,13,16,24
+51:22 suddenly 5:6 technical 21:7 51:17,21 52:6 41:11,12 51:10
+56:1,3 sue 40:11 technology 9:16 52:23 53:15,19 truth 23:5
+18:13 27:4 sufficient 13:22 temperatures thought 4:20 51:24
+41:6 35:21 37:15 terms 8:18 11:8 thousands 13:13 Twenty 27:3
+42:10 suit 9:22 13:24 15:5 46:14 threat 10:22 two 3:15 12:25
+43:12 34:2 territory 10:17 threats 19:9 19:21 21:21
+sulfur 24:3 13:13 three 27:14 27:8 35:22,24
+15:14 20:12 Thank 5:22 25:2 44:15 49:14,16 50:25
+35:10,23 37:10 56:10,11 11:21 20:13 two-and-a-half
+Supreme 1:1,13 38:2 39:3 26:12 35:22 type 41:13
+22:18 sure 15:22 22:14 things 20:11 53:19
+51:2 surprised 13:3 27:15 38:15,22 tiny 37:1,6 U
+system 48:21 14:4,24 15:16 told 23:2 uncertain 30:8
+T 20:19 23:12 11:11 25:17
+take 5:11 6:15 26:24 27:6,23 traceability 11:1 21:8,13,22,25
+38:5 26:14 27:15 29:1,3,20 30:4 traceable 10:23 28:8 29:8,15
+taken 28:18 35:7,18,21 tried 37:12 54:23
+talked 9:15 39:5 42:1,4,15 troposphere 4:12 9:9 14:25
+17:24 31:7 35:9,20 45:18,20 46:20 truck 32:17 42:11 44:5
+40:13 47:24 47:4,13,18 true 13:8 21:12 55:13
+28:7 taxpayer 10:8,9 50:17,20,23 34:13 39:12,13 21:14
+54:9 whatsoever 38:7 40 7:1,9
+want 4:6 10:24 wide 4:10 5 10:20
+13:10 32:2
+23:4 27:22 43:22 32:3
+46:11 49:15,16 40:19 31:12 6 5:20,22 6:15
+11:12 52:17 53:12 41:14 44:11 10:02 1:14 3:2 32:16 34:11,17
+37:1 wanted 53:7 45:4 46:12 103(g) 18:3 48:7 35:20,20,22
+wants 27:16 47:20 48:18,23 11:02 56:13 37:19 38:18
+38:17,17 8:25 9:3 21:20 words 7:24 23:6 15 31:12 38:15
+22:23 23:5,23 28:16 40:9 18 43:8 7
+36:7,8,15,16 worked 29:13 1907 15:9
+49:4,14 works 13:2 1987 51:4 8
+26:9 9
+31:6 Washington 1:9 worldwide
+16:7 95 37:2
+50:12 34:18 2 99 37:2
+way 26:16 29:5 15:20
+26:4
+1:10 202(a)(1) 17:19
+49:8,9
+17:20 55:6 56:7 2020 13:14
+55:20
+21:18 went 20:5 48:9 203 43:11
+31:6 weren't 19:25 X 2100 5:7
+43:23 West 15:3 x 1:2,8 26:21 22 27:3
+39:8,9 we're 4:19 6:4 Y 25 2:7
+10:20 11:23 year 5:7 7:4 29 1:10
+15:6 3 2:4 52:14
+33:12,16,17
+30 32:2 47:10
+23:7
+38:20 39:3,25 York 13:11,12
+27:2 34:5

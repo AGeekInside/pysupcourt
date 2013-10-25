@@ -1,0 +1,1816 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+CHUNON L. BAILEY, AKA POLO, :
+Petitioner : No. 11-770
+v. :
+UNITED STATES :
+- - - - - - - - - - - - - - - - - x
+Washington, D.C.
+Thursday, November 1, 2012
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 11:04 a.m.
+APPEARANCES:
+KANNON K. SHANMUGAM, ESQ., Washington, D.C.; on
+behalf of Petitioner.
+JEFFREY B. WALL, ESQ., Assistant to the Solicitor
+General, Department of Justice, Washington, D.C.;
+on behalf of Respondent.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+KANNON K. SHANMUGAM, ESQ.
+On behalf of the Petitioner 3
+ORAL ARGUMENT OF
+JEFFREY B. WALL, ESQ.
+On behalf of the Respondent 28
+REBUTTAL ARGUMENT OF
+KANNON K. SHANMUGAM, ESQ.
+On behalf of the Petitioner 58
+P R O C E E D I N G S
+(11:04 a.m.)
+CHIEF JUSTICE ROBERTS: We'll hear argument
+next in Case 11-770, Chunon Bailey v. United States.
+Mr. Shanmugam.
+ORAL ARGUMENT OF KANNON K. SHANMUGAM
+ON BEHALF OF THE PETITIONER
+MR. SHANMUGAM: Thank you,
+Mr. Chief Justice, and may it please the Court:
+In Michigan v. Summers, this Court
+established a categorical exception to the default
+Fourth Amendment requirement of probable cause.
+Under Summers, officers executing a search
+warrant for contraband may detain individuals they
+encounter at the scene while they are in the course of
+executing the warrant.
+This case presents the question whether the
+Summers exception also permits officers to detain
+individuals who have left the scene before the warrant
+is executed. Because individuals who have left the
+scene do not pose an immediate threat to the safe and
+efficient completion of the search, the court of appeals
+erred by permitting their detention absent probable
+cause or even individualized suspicion. Its judgment
+should therefore be reversed.
+JUSTICE SOTOMAYOR: Counsel, the two tests,
+yours seem to be the immediate vicinity test, and the
+Second Circuit is as soon as practical test. Your
+adversaries point out that the Second Circuit test
+actually focuses on the police officer's conduct, which
+should be the focus of reasonableness or
+unreasonableness. Your test just creates an artificial
+line that is subject to as much play as the other. Why
+isn't the focus on police conduct the right focus?
+MR. SHANMUGAM: Well, let me explain,
+Justice Sotomayor, first, the sort of theoretical basis
+for why we're offering this line, and, second, say a
+word about the comparative merits of the two tests.
+First of all, with regard to the theoretical
+basis for the line, our fundamental submission to this
+Court is that Summers does not create a police
+entitlement; it is instead a rule of necessity and
+should be confined to situations in which a detention
+serves search-related purposes.
+And in our view, the justifications for a
+detention evaporate once an individual has left the
+immediate vicinity of the premises. And, again, that's
+because in those circumstances a detention serves no
+interest in ensuring the safe and efficient completion
+of the search because the individual poses no immediate
+threat to the safe and efficient completion of the
+search.
+JUSTICE KAGAN: And what is the immediate
+vicinity? How would you define that?
+MR. SHANMUGAM: Well, ordinarily, the
+immediate vicinity will be the physical bounds of the
+property; but, there may be circumstances in which an
+individual who is just outside the physical bounds of
+the property should nevertheless be detained, so to
+provide --
+JUSTICE SCALIA: May be? There certainly
+is. I mean, that was Summers, wasn't it?
+MR. SHANMUGAM: Well, in Summers itself, the
+individual was on the premises just outside the house
+that was going to be searched, and the officers were, in
+the government's words in that case, approaching the
+property.
+JUSTICE SCALIA: Yes. He wasn't on the
+premises, he was on the sidewalk, right?
+MR. SHANMUGAM: Well, he was actually on --
+he was on the property because he was on a sidewalk that
+connected the front steps to the public sidewalk in
+front of the house. The officers were approaching the
+house, about to effectuate entry.
+JUSTICE SCALIA: He was in the curtilage of
+the house.
+MR. SHANMUGAM: He was pretty clearly within
+the curtilage, Justice Scalia.
+CHIEF JUSTICE ROBERTS: You said the
+difference is there's no immediate threat to the
+officers here. But there is a threat, I suppose, I
+mean, if he finds out about the search and comes back,
+if he sees the officers outside his dwelling, if there's
+somebody in the dwelling who can notify him, send him a
+message that the police are searching and he can get his
+confederates and come back.
+It seems to me that you're requiring that
+there be a larger number of police present at the site
+conducting the search, being lookouts for anybody that
+might come back, being able to detain people who are
+leaving as they approach. There's no immediate threat,
+but there's certainly a threat.
+MR. SHANMUGAM: If anything, it's the
+government's approach that requires a greater number of
+officers at the site because, under the government's
+approach, you have the two officers who conduct the
+detention while a separate group of officers execute the
+search.
+And it's really for that reason,
+Justice Scalia --
+CHIEF JUSTICE ROBERTS: Well, it requires
+more unless they want the guy to get away, I guess,
+right?
+MR. SHANMUGAM: Well, let me say something
+about this prospect that the individual will return. We
+think that the appropriate analysis here is the analysis
+that this Court set out in Arizona v. Gant.
+And this Court, in Arizona v. Gant,
+suggested that where a categorical rule is involved, you
+have to look at the class of cases to which the rule
+would be extended to see if the justifications apply.
+Now, with regard to this class of
+individuals who have left the scene, we believe that it
+is simply unlikely either that such an individual who
+has left the scene will be aware of the presence of
+police, or that such an individual will return in an
+effort to disrupt the search.
+JUSTICE KAGAN: Well, what if he were aware,
+or what if there was reason to think he might be aware,
+would you then allow the police to do what the police
+did here?
+MR. SHANMUGAM: Well, we wouldn't. And
+that's simply because we believe that this should be a
+categorical analysis.
+And so, again, you're looking at this entire
+class of cases where individuals have left the scene to
+determine whether the justifications for the Summers
+rule apply.
+Now, let me provide a --
+JUSTICE KENNEDY: If -- if you think that
+leaving the scene -- in Justice Kagan's hypothetical,
+that he's leaving the scene with incriminating evidence,
+at that point you have -- you have a Terry stop? And
+he's right at the scene; he's just leaving the premises,
+at the end of the driveway or something?
+MR. SHANMUGAM: Well, the analysis under
+Terry is whether there is reasonable suspicion, a
+reasonable basis to believe that the individual is
+engaged in criminal activity --
+JUSTICE KENNEDY: What would you think
+generally in my hypothetical? There'd be hundreds of
+other facts, but --
+MR. SHANMUGAM: Well, ordinarily, when an
+individual is seen leaving the scene -- and suppose --
+let me provide --
+JUSTICE KENNEDY: Just -- just before the
+search, yes.
+MR. SHANMUGAM: Well, of course, the
+individual who is leaving the scene doesn't necessarily
+know that the search is about to take place.
+JUSTICE KENNEDY: Right.
+MR. SHANMUGAM: And so, to provide a
+hypothetical that will hopefully put some meat on the
+bones of this issue, suppose that an individual leaves a
+house, and he actually sees police officers sitting in a
+car, whether marked or unmarked, outside the house. And
+it is clear that he has seen the officers. He waves at
+the officers and then ambles down the street.
+I don't think that there would be any doubt
+but that that individual could not be detained unless he
+did something more; unless, for instance, he engaged in
+flight at that point, at which point he could perhaps be
+detained under Terry.
+And so we simply submit that the analysis
+should be no different in a situation in which the
+purpose -- the reason why the officers are sitting
+outside the house is because another group of officers
+is about to execute the search warrant.
+Of course, that individual --
+JUSTICE GINSBURG: But Terry -- Terry is an
+open question in this case. It wasn't decided below,
+but it was raised.
+So -- so you're arguing we shouldn't extend
+Summers, but that leaves this very case susceptible to
+the assertion that this was a legitimate Terry stop.
+MR. SHANMUGAM: That is correct,
+Justice Ginsburg.
+And just to be clear about how these two
+doctrines work together, our submission to this Court is
+that within the search zone, within the immediate
+vicinity of the premises, the rule of Summers applies,
+so that, if officers encounter an individual within that
+zone while they are in the process of executing the
+warrant, a detention is permissible absent probable
+cause or individualized suspicion.
+Outside that search zone, ordinary
+Fourth Amendment principles apply. And, of course,
+under the Fourth Amendment, detentions of persons have
+to be justified by some degree of individualized
+suspicion; probable cause for a full-fledged arrest,
+individualized suspicion for a more limited detention
+under Terry.
+JUSTICE ALITO: Well, what would you think
+of this situation? Officers have a no-knock warrant,
+and they're -- they're at the house. They see somebody
+come out the door and start to go down the steps,
+doesn't look like that person has noticed their
+presence.
+Now, they have the choice, if you prevail,
+of either rushing in and stopping the person within the
+curtilage, in which case they could detain the person,
+or they could allow the person to walk some distance
+outside of the site of the house and then stop the
+person, and that would allow them to execute the warrant
+without endanger -- without enhancing the danger to them
+from potentially armed people inside or allowing the
+destruction of evidence.
+What -- in that situation, what argues in
+favor of your rule, that if they want to detain this
+individual, they have to rush in and stop him before he
+leaves the premises?
+MR. SHANMUGAM: The justifications
+articulated by this Court in Summers, Justice Alito, and
+in particular what we really believe are the primary
+justifications, first, minimizing the risk of harm to
+officers executing the warrant; and, second,
+facilitating the orderly completion of the search.
+And let me say a word about --
+JUSTICE ALITO: Well, without
+interrupting -- in that situation, officer safety is
+undermined by your rule because it requires them to stop
+the person on the premises and, therefore, tip off those
+inside, potentially, about their presence.
+MR. SHANMUGAM: But they also have the
+choice not to engage in a detention at all.
+And I think the fundamental problem with the
+court of appeals' rule and with the government's
+submission to this Court is that it really entails the
+conclusion that once officers see the individual leaving
+the house, they have an entitlement to detain that
+individual, with the only open question being where and
+how they go about effectuating the detention.
+But we simply believe that the
+justifications for the detention don't attach to the
+individual. They are search-based justifications. And
+the mere fact that an individual is seen leaving a house
+that is about to be searched in our view is insufficient
+to give rise to reasonable suspicion.
+JUSTICE KAGAN: Mr. Shanmugam, when you talk
+about the justifications in your brief and just now, you
+talk about two; but, there were, in fact, three, and the
+third was flight. So how is it that that's dropped from
+your understanding of Summers?
+MR. SHANMUGAM: Well, we simply think,
+Justice Kagan, that that justification is insufficient
+standing on its own. And that is simply because the
+justification in preventing flight is different in kind
+from the other two justifications that we've been
+discussing.
+The other two justifications are truly
+special law enforcement interests, to use this Court's
+words in Summers. The interest in preventing flight, by
+contrast, is an ordinary law enforcement interest.
+And just as in my hypothetical, when the
+officers are sitting outside and they see an individual
+wander by, the mere fact that the individual saw the
+police and perhaps would therefore conclude that the
+police were on to him would not give rise to a basis for
+detention simply because that individual could
+subsequently flee.
+So, too, we think that preventing flight in
+and of itself is insufficient. That is the ordinary law
+enforcement interest that requires individualized
+suspicion.
+JUSTICE SOTOMAYOR: Counsel, can I come back
+to the facts that my colleagues have raised and break it
+down implicating the Terry question?
+Here, the officers had a report of something
+in the house, and they saw the defendant -- two people
+leaving.
+I know Terry hasn't been decided, but why do
+you think -- just the stop, not the detention, not the
+bringing them back to the house, why do you think that
+just stopping them was wrong?
+MR. SHANMUGAM: Under Terry?
+JUSTICE SOTOMAYOR: Under Terry.
+MR. SHANMUGAM: Sure. Well, and first of
+all, I should preface what I'm about to say by noting
+that the court of appeals itself didn't reach the Terry
+issue, and the government doesn't advance that issue in
+its merits brief.
+JUSTICE SOTOMAYOR: But the court below did.
+MR. SHANMUGAM: So that would be an issue
+that would be open on remand. And let me say why on
+remand --
+JUSTICE SCALIA: Excuse me. Just the
+stop would be -- but -- but they did more than just stop
+them. They --
+MR. SHANMUGAM: Well, that's right. The
+stop and the --
+JUSTICE SCALIA: -- they handcuffed them.
+JUSTICE SOTOMAYOR: Well, it goes back to if
+a police officer saw an individual leaving the house and
+was concerned about them tipping someone off, et cetera,
+what would be the problem with the officer stopping the
+person around the corner, holding them, making sure
+people got in and then letting them go.
+MR. SHANMUGAM: And just to be clear,
+because there are the two separate issues. There's the
+question of the stop and the question of the detention.
+And there would be a separate question about whether
+under Terry a detention of a particular length might or
+might not be permissible.
+But as to the stop, the argument that we
+would make on remand if we were to prevail before this
+Court would be that here what you have is insufficient
+to meet the reasonable suspicion standard. And what I
+assume that the government would argue is that the
+combination of the search warrant and the fact that the
+individual was seen leaving the premises that were about
+to be searched, and as to which there was probable cause
+to believe that contraband was present, and the fact
+that my client met the extremely generic description
+provided by the confidential informant, would be
+sufficient to give rise to reasonable suspicion.
+Now, clearly we don't think -- I was just
+going to say, clearly we don't think that either of
+those factors standing on its own would be sufficient.
+The question would be whether that combination of
+factors under the facts and circumstances of this case
+would be sufficient, and we would submit that that
+combination is insufficient as well.
+JUSTICE GINSBURG: If they did do -- if they
+did do a Terry stop, and in the process of that stop the
+police officer got a call that said, we found lots of
+contraband, guns in this house, at that point they could
+have turned the Terry stop into an arrest, couldn't
+they?
+MR. SHANMUGAM: They could very well, with
+one caveat, and that caveat is simply that the
+circumstances under which the contraband is found might
+be relevant to the analysis of whether or not there is
+probable cause, because the question would be whether or
+not there is probable cause to believe that the
+individual constructively possessed the contraband at
+issue.
+JUSTICE SCALIA: Mr. Shanmugam, please help
+me. I -- I don't understand why -- why the Terry stop
+is at issue, inasmuch as there was not a Terry stop. I
+mean, what occurred here went well beyond a Terry stop,
+did it not? So what do you do? You -- you slice the
+baloney that thin; you say well, the -- the first stop
+is a Terry stop. Oh, yes, he later went on to detain
+them for a long time and put handcuffs on them and take
+them back to the premises. What -- what relevance does
+the Terry stop have?
+MR. SHANMUGAM: Well, that would be the
+additional question, whether the detention in this case,
+which did involve taking my client and the other
+individual, putting them in handcuffs, putting them in
+the patrol car, and then taking them back to the scene,
+was permissible within the scope of a Terry stop. And I
+think that would also be an open question, and that
+would particularly be an open question in a number of
+these cases in which the detention, pursuant seemingly
+to Summers, occurs over a very lengthy period of time.
+Under Terry, of course --
+JUSTICE SCALIA: Well, I guess -- I guess, I
+just didn't realize that it's an open question whether
+you can do that much in -- in a mere Terry stop.
+MR. SHANMUGAM: Well, under Terry officers
+may detain an individual for the period of time it takes
+for them to confirm or dispel the suspicion, and I think
+that there would be an open question as to whether or
+not when officers are executing a search warrant, for
+the duration of the execution of the search warrant,
+that falls within the scope of that Terry test.
+JUSTICE ALITO: Could you explain what you
+mean by the immediate vicinity? Is it based on -- on
+property line? Is it some absolute distance from the --
+the entrance to the premises? Is it based on how far
+you could see from the -- the site of the search?
+MR. SHANMUGAM: I think ordinarily it will
+be within the physical bounds of the property. So --
+but -- but if, for instance, officers saw an individual
+coming out of his house and he walked out and he just
+happened to step -- step off the curb into the road
+before the officers got to them, we would say that that
+would satisfy the immediate vicinity standard.
+JUSTICE SCALIA: Well, physical bounds of
+the property is -- is too much. I mean, you know, what
+if it's a farm and it's a 50-acre farm?
+MR. SHANMUGAM: Well, and the point of --
+JUSTICE SCALIA: I think you are much better
+off, I think your submissions sometimes say immediate
+vicinity.
+MR. SHANMUGAM: Well, we -- we proposed to
+this Court the immediate vicinity standard in large part
+because it really is comparable to similar limits this
+Court has adopted for other Fourth Amendment --
+JUSTICE SCALIA: I like that much better
+than boundaries of the property.
+MR. SHANMUGAM: Well -- and to provide a
+couple of examples, under Maryland v. Buie, the case
+that permits officers to conduct a protective sweep
+incident to an arrest, the Court permits officers to
+search the area immediately adjoining the place where
+the arrest occurs and that has not proven to be a
+difficult standard to apply in practice.
+JUSTICE BREYER: What is the actual
+difference? I mean, you have two officers or three. If
+they go into the property and somebody's there, they can
+detain him, and Summers gives three reasons: One, as
+Justice Kagan pointed out, preventing flight in the
+event that incriminating evidence is found. We are
+considering now the case where, instead of going and
+detaining the people, the people inside the house walk
+out and there are two officers in a patrol car or an
+unmarked car outside waiting to go in. Okay. That
+seems to me identical, as you said.
+The last one is facilitating orderly
+completion of the search. That seems to me identical.
+You want the person there so that he can open a drawer,
+so he can unlock a closet, et cetera, okay. Identical.
+The third one, where there is the only place
+for difference, it seems to me, is minimizing the risk
+of harm to the officers. Now, the harm, risk of harm to
+the officers I guess if he goes into the house is that,
+well, if they leave, they might come back, goodness
+knows, and they've seen they are looking for the drugs,
+da, da, da. Or maybe they will rush out, or maybe there
+will be a -- well, any, goodness knows what.
+Now here I can see a slight difference, but
+maybe not. I don't know. Maybe they will come back.
+Maybe they noticed the people in the car outside. Maybe
+they didn't. Certainly the policemen don't know. And
+they might go in quicker, and then the others will be
+alerted. I mean, when you talk generally about a risk
+of harm to the police, it seems to me pretty close, if
+not identical.
+MR. SHANMUGAM: Well -- well, let me --
+JUSTICE BREYER: So what am I missing?
+MR. SHANMUGAM: Let me address each of those
+three.
+JUSTICE BREYER: You already said the first
+one's identical. I don't see how the third one could
+change, and what about the second?
+MR. SHANMUGAM: Well, I actually don't think
+that even the first one is identical. But look, we
+think that first and foremost, the interest in ensuring
+officer safety is really the paramount interest here,
+and we simply think that it is unlikely that an
+individual who is seen leaving the scene is either going
+to be aware of the presence of police or return to
+disrupt the search.
+JUSTICE BREYER: How do you know that? They
+are sitting outside in the car.
+MR. SHANMUGAM: The government has not
+identified a single example of an individual who is seen
+leaving the scene who has returned to disrupt the search
+in that fashion. Indeed, the government makes a much --
+JUSTICE SOTOMAYOR: I thought your better
+answer was the risk of somebody coming back to a house
+exists whether the person just left it or left it an
+hour after or before or 2 hours or 24.
+MR. SHANMUGAM: Well, and that was going to
+be --
+JUSTICE SOTOMAYOR: When the police walk in,
+they always have to guard against reentry.
+MR. SHANMUGAM: Well, and that was going to
+be my next point, Justice Sotomayor; and the government
+really tries to make a broader and more ambitious
+argument. The government tries to make the argument
+that an individual with a connection to the place to be
+searched could arrive at the scene while the search is
+ongoing, really regardless of whether that individual
+was aware of the presence of police, and then seek to
+disrupt the search.
+Now, we think even as to that broader
+category of cases the government hasn't made a
+sufficient showing that those sorts of confrontations
+are a common occurrence, particularly in light of the
+routine precautions --
+JUSTICE BREYER: It's not just that. It's
+that they might want to get in quicker to stop this
+person from leaving because he's the one who knows where
+the drugs are. At least that's what they think. Or
+they start to shout, and alert the others. Or -- I
+mean, I have never conducted such a search, you know, so
+I don't know the risks involved there, but I can see the
+possibilities. And probably you might have conducted
+them, but I don't know. So how am I supposed to answer
+this question?
+MR. SHANMUGAM: I haven't personally
+conducted any searches, Justice Breyer. But I can say
+that with regard to categorical rules it is really
+incumbent on the government to make a showing as to why
+an extension of a categorical rule is required. Because
+after all --
+CHIEF JUSTICE ROBERTS: We talked about --
+we talked about officer safety. What about the safety
+of others? Suppose the place being searched is adjacent
+to a playground and there are, you know, dozens of
+children playing in the playground. The police are
+worried there would be a shootout and they want to
+detain the person, so they say: Well, let's wait until
+he gets a block down the street and detain him there for
+the safety of the kids. That has -- they can't do that?
+MR. SHANMUGAM: Officers will naturally take
+precautions in situations like that. They will go in
+with --
+CHIEF JUSTICE ROBERTS: Yes, the precaution
+is let's wait until he's a block down the street because
+it will be a lot safer. Can they do that and be covered
+by Summers or not?
+MR. SHANMUGAM: They cannot be covered by
+Summers, but what they can do is either follow the
+individual for the period of time during which they are
+executing the warrant, or they can detain that
+individual if he returns to the scene.
+And again, all of the examples that the
+government cites -- and there aren't that many of
+them -- but the examples that the government cites are
+examples of individuals who arrive at the scene and when
+they realize that their place of residence is being
+searched, they become obstreperous; and to the extent
+that there is a concern about the threat posed to the
+safety of officers in those circumstances, we would
+submit that the obvious solution is to make clear that
+Summers permits the detention of individuals who arrive
+at the scene; and officers routinely do establish
+perimeters when they are executing search warrants. And
+so when they --
+JUSTICE GINSBURG: So if he came back -- I
+mean, the scenario here is he was supposed to be driving
+his friend home, and he would have come back while the
+search was ongoing, but the police could apprehend
+anyone while the search -- if that's what you're saying,
+while the search is ongoing --
+MR. SHANMUGAM: Well, if he were to return
+to the scene while the search is ongoing, we believe
+that he could be detained pursuant to Summers, and we
+cite a number of court of appeals cases that have so
+held.
+What the government is really arguing for
+here is an even more ambitious rule, an additional layer
+of Fourth Amendment prophylaxis, if you will, that
+permits officers to detain an individual who is seen
+leaving the scene based on the possibility that they are
+going to return. The government has not come even close
+to making an empirical case as to why that additional
+layer of prophylaxis is required.
+JUSTICE ALITO: Well, what if the person
+comes out the door and walks -- and has walked 50 feet
+down the block within sight of the entrance at the time
+when the police are entering to make the arrest? Would
+that person be in the immediate vicinity?
+MR. SHANMUGAM: Well, I think that the
+natural limit on the immediate vicinity rule is imposed
+by the underlying justification, namely, that officers
+should have the authority to encounter individuals -- to
+detain individuals they encounter while they are in the
+course of executing the warrant.
+And so if in your hypothetical,
+Justice Alito, the search team is marching up to the
+house, and they encounter the individual 50 feet away
+from the door or the property line while they are in the
+course of doing so, the justifications of Summers kick
+in at that point. That individual is aware of the fact
+that the police are about to search his house, and, as
+such, that individual poses a threat to the safe and
+efficient completion of the search.
+JUSTICE ALITO: Well, does that mean that if
+the person is within sight of the entrance to the
+premises at the time when the police enter, then that
+person can be searched --
+MR. SHANMUGAM: Well, we don't think --
+JUSTICE ALITO: -- and be detained.
+MR. SHANMUGAM: We don't think that that's
+necessarily a line of sight rule. So if you had an
+individual who was sitting out in front of a house six
+doors down, we don't think that that individual could be
+detained. Of course, in this case, my client was
+detained at least seven-tenths of a mile away --
+JUSTICE BREYER: But that's the problem.
+MR. SHANMUGAM: -- so the issue --
+JUSTICE BREYER: That's the problem. The
+police have to know what they're supposed to do when
+they go in to search a house, all right? And they know
+that sometimes they can keep the people there, and you
+are saying, but they can't stop them from leaving if
+they're not -- all of a sudden, I'm a policeman, and I
+don't know what to do exactly because I don't know how
+to fill in that blank. And therefore, I might rush
+in -- I don't know -- I see a recipe for a mess, and
+that's what -- and the mess could involve physical harm,
+and --
+MR. SHANMUGAM: You're missing the --
+JUSTICE SCALIA: You're not saying that they
+can't stop them from leaving. Have you said that; they
+can't stop them from leaving?
+JUSTICE BREYER: They can't stop them from
+leaving if, blank.
+MR. SHANMUGAM: They -- they could always
+proceed to execute the warrant when they see an
+individual leaving; and, if they are in the course of
+executing the warrant, a detention is permissible.
+But let me say just one word about the issue
+of the administrability of the rule because, after all,
+what we're talking about here is a bright-line rule.
+And the very purpose of a Fourth Amendment bright-line
+rule is to provide guidance to courts and officers
+alike.
+It is true that one can posit difficult
+hypotheticals under our immediate vicinity standard;
+but, it is also true that it is even easier to posit
+difficult hypotheticals under the as soon as reasonably
+practicable standard that the government advances, which
+really reintroduces the very case-by-case analysis that
+bright-line rules are designed to avoid.
+And, in addition, it is entirely unclear to
+us what Fourth Amendment purpose that limitation serves
+because it is not clear to us why it matters for Fourth
+Amendment purposes how quickly officers effectuate the
+detention.
+And just one last point that I'd like to
+make before reserving the balance of my time for
+rebuttal.
+The rule that the government seems to be
+advocating before this Court is really a much more
+ambitious rule than we've even been discussing this
+morning. The government seems to suggest that the
+government has the authority to detain any individual
+with a connection to the place to be searched. And I
+think that that is out of recognition that an individual
+who happens to be at their workplace could just as
+easily return to the place to be searched as an
+individual who is seen leaving.
+In our view, that is an astonishing
+extension of the rule that this Court announced in
+Summers.
+And I would like to reserve the balance of
+my time.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Mr. Wall.
+ORAL ARGUMENT OF JEFFREY B. WALL
+ON BEHALF OF THE RESPONDENT
+MR. WALL: Mr. Chief Justice, and may it
+please the Court:
+JUSTICE SOTOMAYOR: Mr. Wall, would you
+answer -- direct your first response to that last issue
+because, as I read your brief, you seem not to be
+accepting the Second Circuit's rule at all. You seem to
+be proposing what appears to me to be a much broader
+rule that says -- at one point in your brief you state
+that it is the occupant's observed connection to a home
+subject to a valid warrant, not his physical location at
+the time that he is detained, that makes him subject to
+detention.
+Now, I know police when they're executing
+warrants often have an advance team that has been
+surveilling a home, sometimes for days. And they've got
+one officer sitting there, and they see who they think
+is the occupant leave, and the team doesn't arrive till
+12 hours later.
+Is it your position that in that
+circumstance the officers are authorized to go to
+wherever the defend -- wherever the occupant is, the
+office, the -- wherever he might be, his mother's home,
+and effect an arrest there?
+MR. WALL: No, Justice Sotomayor. I
+appreciate the opportunity to start there because I
+think Petitioner's reply brief and much of his argument
+today is devoted to a position the government's not
+taking.
+So let me be very clear. In the
+government's view, Summers is about current and recent
+occupants, people whom police, when they are executing
+the warrant, find at the home or see leaving the home in
+the process of executing a warrant.
+And the question here is do the
+justifications apply equally as a departing occupant
+steps away from the home and onto a sidewalk, a yard, a
+couple blocks away.
+And I think my friend's answer to that has a
+wonderfully abstract quality to it that doesn't engage
+any of the realities on the ground.
+Justice Alito, your hypothetical is anything
+but. It comes very close to the facts of the Cochran
+case out of the Sixth Circuit. Police arrive at the
+scene. The occupant is known to carry a gun, and he has
+a guard dog. So, rather than walk up to the door, they
+wait for him to leave; but, by the time they can catch
+up to him, he's off of the bounds of the property, but
+he's still very close to the residence. They stop him.
+They take him back to the residence. He lets the
+officers in. He secures the dog, and they complete the
+search.
+I think that is a model law enforcement
+practice, and it is indistinguishable in any important
+respect from what went on in Summers.
+The justifications for detention apply
+equally to departing occupants when they are seen by
+officers leaving in the process of executing the
+warrant.
+But no, Justice Sotomayor, the government is
+not contending that other connections to the residence,
+other than that kind of observed connection by the
+officers, could justify a detention under Summers.
+CHIEF JUSTICE ROBERTS: Well, we don't have
+anything like that in this case. We have them getting
+into a car, driving almost a mile away and being stopped
+at that point.
+MR. WALL: Well, we do have, though, the
+officers seeing him departing the residence as they're
+executing the warrant. It's a no-knock warrant for a
+gun. And rather than stop him right outside the house
+because they don't know who else would be inside --
+CHIEF JUSTICE ROBERTS: As they're executing
+the warrant, I don't remember, was the -- did the
+individual know that they were executing the warrant in
+this case?
+MR. WALL: No.
+CHIEF JUSTICE ROBERTS: Oh, okay.
+MR. WALL: They had obtained the warrant.
+They had -- the team had --
+CHIEF JUSTICE ROBERTS: So the danger to
+them is not at all like the situation with the dog and
+the armed guy just off the property.
+MR. WALL: Mr. Chief Justice, I respectfully
+disagree. And the government would be happy to have
+this case decided by having the Court look at the
+Federal and state cases, look at the risks that are
+present in those cases, and deciding whether the
+interests of Summers are served in those cases.
+What we see in the cases is that -- take
+this very case, for instance. Petitioner is driving his
+friend home to meet a court-imposed probation curfew,
+and he is then returning to the house. I think the
+reasonable inference in the record is that he'll be back
+in a matter of minutes. So he --
+JUSTICE GINSBURG: And then Mr. Shanmugam
+says they could stop him. They could stop anybody. The
+search is ongoing. Somebody approaches the house; the
+police can stop that person.
+MR. WALL: But think how formalistic and odd
+that is, Justice Ginsburg, that the police see someone
+leaving, but, if they can't catch up to them on the
+bounds of the property, which has no reasonable
+relationship to the warrant here, which was for the
+premises, not for the -- for that property --
+JUSTICE GINSBURG: But --
+JUSTICE SCALIA: The threat is from anybody
+coming back to the house, not just the person who just
+left.
+MR. WALL: Oh, assuming --
+JUSTICE SCALIA: And surely the police, when
+they're conducting a search, post guards to prevent
+people from coming in.
+MR. WALL: They often do, Justice Scalia,
+but --
+JUSTICE SCALIA: I assume they always do.
+It seems to me there's no special threat from the person
+who -- who left the house. There's always a threat of
+somebody else coming into the house.
+MR. WALL: Justice Scalia, certainly in
+urban areas they do. I think it's more difficult where
+you have smaller police departments in rural areas.
+But the government's not disputing that
+posting sentries is a good idea. That doesn't begin to
+take care of the most serious cases, where people
+outside of the area of the search fire on or assault
+officers.
+So, for instance, in 2008 --
+JUSTICE SOTOMAYOR: You're missing the
+point, which is that's going to happen regardless,
+meaning that risk exists whether the person left the
+minute you got there or a minute before or an hour
+before or two hours before. That's the whole point,
+which is the risk is extant no matter what.
+MR. WALL: Justice Sotomayor, there is no
+question that executing a warrant is dangerous, and
+people can come onto the scene at any time.
+The question is, do we want to increase that
+risk to officers? Here, Petitioner is leaving, he'll be
+back in a matter of minutes, and they're searching for
+guns.
+JUSTICE SOTOMAYOR: But you didn't know --
+you don't know that in any search, meaning any time you
+do a search you have no idea when the -- whether the
+occupant -- sometimes you know whether the occupant is
+inside. You'll hear the TV or something else. But
+often you don't, and you don't know if someone will come
+back and when.
+MR. WALL: Justice Sotomayor, I completely
+agree, although I think that --
+JUSTICE SOTOMAYOR: So why is seeing someone
+leaving increasing that risk?
+MR. WALL: Because we know that some
+percentage of those people will come back. Some
+percentage will flee, which is one of the interests in
+Summers, which I think Petitioner does not take
+seriously. But some percentage of them will come back
+and some percentage of those returning occupants will
+harm officers. And unfortunately --
+JUSTICE SCALIA: If -- if you have a large
+enough force that you can afford to send two of them in
+a car chasing this fellow for a mile, why can't you just
+post those two outside the house, just in case somebody,
+whether it's this person who's just left or anybody
+else, comes back? I mean, it -- it seems to me that --
+that what your positing is -- is -- is unlikely, namely,
+having -- having sufficient personnel to follow these
+persons, but not having sufficient personnel to defend
+the premises against somebody entering.
+MR. WALL: Justice Scalia, first, that isn't
+even arguably going to serve two of the three Summers
+interests, preventing people from fleeing or garnering
+their assistance in the orderly completion of the
+search. But even if we --
+JUSTICE SOTOMAYOR: Can you tell me what
+constitutional right entitles you to stop someone from,
+using the word, "fleeing"? You certainly are entitled
+to stop someone with whom you have reasonable suspicion.
+But what constitutional right entitles you to stop a
+person who's just leaving in the normal act, without
+reasonable suspicion?
+MR. WALL: Justice Sotomayor, I think your
+question fills in the answer. What the Court said in
+Summers is when you see someone -- when you find someone
+at a home or you see them leaving at a time when a
+neutral magistrate has determined there's probable cause
+to believe a crime is being committed inside, you have,
+in the words of the Summers Court, "articulable and
+individualized suspicion" to believe that that person is
+linked to the criminal activity inside the home.
+JUSTICE KAGAN: Well, Mr. Wall, you have
+that, too, about the person in her workplace, and you
+said that your argument didn't apply to the person in
+her workplace. So you have to come up with something
+better than that. And I guess the question is your rule
+would seem to encompass, you know, a whole set of people
+who are leaving their houses for ordinary reasons: I'm
+going to work in the morning.
+And the question is whether the police can
+stop this person who's going to work in the morning,
+who's given no indication that he's seen the police
+officers at the scene, no indication that he's coming
+back immediately or, you know, in any amount of time
+that it will take you to complete the search.
+And that's not an outlier case. It seems to
+me that the hypothetical I just gave you might very well
+be the more common case than the hypothetical that you
+gave me. So, you know, why isn't this just too broad a
+categorical rule?
+MR. WALL: Well, Justice Kagan, let me break
+that up into both parts. First, you know, as far as
+detaining people who have other connections to the home,
+I think you're right that some of the arguments that the
+Court adopted in Summers and that the government is
+making here could translate. And I think when those
+cases come to the Court, the Court will have to decide
+whether to recognize doctrines analogous to Summers or
+Terry in those contexts. But that's not what Summers is
+about. The connection that Summers discusses and
+approves is seeing someone leaving a home subject to a
+valid warrant for contraband. That's the only
+connection at issue here.
+JUSTICE BREYER: But is it in the process?
+Does Summers apply and does this apply only when the
+police are in the process of executing a valid search
+warrant?
+MR. WALL: Yes, Justice Breyer. Even
+Petitioner, the way I read his briefs, concedes that if
+police had caught him outside the basement apartment or
+somewhere within the property bounds --
+JUSTICE BREYER: If -- if the police
+executing the valid search warrant walked through the
+gate and at that moment the individual emerging from the
+house had not yet passed through the gate, then under
+Summers the police would have the right to detain him.
+All right. So the question here is he's
+walked through the gate. All right. Now, I guess the
+police -- all right, I see. The police objection is: I
+don't know. These things are complicated and we might
+not want to push him back. I don't know what the
+neighborhood is like and maybe somebody will get killed.
+I mean, that's the kind of argument --
+MR. WALL: Justice Breyer, that is
+absolutely right. The government's central --
+JUSTICE BREYER: I know you'd say that was
+right.
+MR. WALL: I mean, I -- the government's
+central contention is there's nothing magical about the
+gate for Fourth Amendment purposes. When he steps
+through the gate, he's just as much of a flight risk, a
+danger to officers and just as able to assist in the
+orderly completion of a search.
+JUSTICE SCALIA: There is something magical
+about the gate or at least about the immediate facility
+of the house. What we're trying to apply here is an
+absolute rule to make it unnecessary for the officers to
+guess whether they can do this or that. And the rule
+you propose is, well, you know, a mile away. What's
+your test, a reasonable --
+MR. WALL: As soon as reasonably
+practicable.
+JUSTICE SCALIA: As soon as reasonably
+practicable. You consider that an absolute test? I
+thought that the test we invented here was meant to help
+officers, to say this is the rule and you can do it.
+And you want to do anything else, use Terry or use --
+use normal probable cause principles, but this is an
+absolute rule governing the -- the search of a home.
+MR. WALL: Justice Scalia, it is an absolute
+rule and it tells you who, it gives you a who, who is
+detainable. People we find --
+JUSTICE SCALIA: It doesn't give you a
+where. You need more than a who. You need a who and a
+where.
+MR. WALL: Well, the who is categorical.
+People you find on the premises or you see leaving the
+premises at a time when a magistrate has determined
+there's probable cause to believe a crime is being
+committed inside. The where, the location. Just like
+duration, just like use of force in the Muehler and
+Rotelli cases, those are subject to the general
+requirement of reasonableness under the Fourth
+Amendment.
+JUSTICE GINSBURG: Mr. Wall, the Summers
+case was an exception. The main rule is you have
+probable cause. So you are taking the exception, which
+was tied tightly to the house. You want him to stay on
+the premises so he can -- there won't be any risk that
+he's going to disrupt the search, but it was -- it was
+an exception to the main Fourth Amendment rule, and now
+you are asking to have that exception spread.
+And so today you say, oh, well, we're not --
+we're not asking if the person gets to her workplace,
+but that the police, but maybe why -- why not? I mean,
+you -- it's one thing to confine Summers to the house,
+the immediate premises, and another to say seven-tenths
+of a mile away, that's okay, too.
+MR. WALL: Justice Ginsburg, I think the
+reason Summers carved out the rule is it said, look,
+for -- for current and recent occupants as a class,
+we -- officers see, they find or see them at a residence
+where there's probable cause to believe a crime is
+committed, so across the board we've got reasonable
+suspicion, and that's why we draw a rule so that we're
+not going to rebalance every time.
+JUSTICE KAGAN: Right. But the
+across-the-board is a set of people who are at the house
+when you want to search the house. And of course,
+Summers makes perfect sense. You want to search the
+house, you can't have these people roaming around,
+right? So you have to detain the people.
+But what you're now saying is: Well,
+there's another class of people, they're going to work
+in the morning. And we've -- there's -- there is no
+indication that they've seen the police officers;
+they're going to work. But we get to detain them, too,
+just because we have a warrant to search the house. And
+the question is why?
+MR. WALL: Justice Kagan, as far as we know,
+George Summers was going to work. I mean, George
+Summers was detainable, as was Petitioner here, on his
+view if we had caught him within the physical bounds of
+the property. The question is not, you know, how to
+apply it in that circumstance. It's does something
+meaningfully -- meaningful change when he hits the
+sidewalk or the neighbor's yard?
+JUSTICE KAGAN: I mean, something meaningful
+very -- very much changes. Before, you're dealing with
+a problem of a person on the premises while you're
+trying to search the premises. And now you're talking
+about a person who is going to work, leaving the
+premises, letting you search the premises without any
+interference.
+MR. WALL: Justice Kagan, I don't think that
+explains why you couldn't let George Summers go on his
+way, and it doesn't explain why the Court in Summers
+didn't say, look, rather than roam the house, if it
+really is true that once we let you outside the front
+door or the front gate, you are no longer a danger and
+are likely only to be a hindrance, why not give you the
+option to leave. Turn them out, because on Petitioner's
+view, they're safe to go. And what the Court in Summers
+recognized is, no, important interests are served by
+detaining people in that circumstance.
+JUSTICE GINSBURG: You have to draw a line
+someplace. When he is descending the steps to his
+house, he is still associated with the house. And once
+he steps over that line, the Summers rationale it seems
+to me doesn't apply.
+But there's a curiosity about this case,
+maybe you can explain it to me. They stop him
+seven-tenths of a mile away. By that time, the search
+is ongoing. They have found guns and contraband. They
+take -- why do they take him back to the house? What
+was the reason for taking? There was nothing there that
+he could -- he couldn't obstruct the search. He was in
+handcuffs.
+MR. WALL: I think --
+JUSTICE GINSBURG: He couldn't point out
+anything in drawers because they'd found it all.
+MR. WALL: I mean, I think at that point
+they had probable cause; they could have arrested him
+and I think they could have taken him down to the
+station house. They returned him to the scene instead.
+And I don't think there's any evidence in the record
+about why they took him back to the scene rather than --
+than straight to the station house.
+But, Justice Ginsburg, I do want to fight
+the premise a little bit. All -- all that the
+government is asking for is for the Court to look
+through the Federal and state cases, because we see the
+exact same interests that were served in Summers.
+JUSTICE SOTOMAYOR: Counsel --
+JUSTICE KENNEDY: I think -- I think we have
+to take the case on the assumption -- I agree with you
+there probably was probable cause -- but I think you
+have to take the case on the assumption that there was
+no probable cause to arrest, because they didn't -- they
+did not rely on that authority.
+MR. WALL: Justice Kennedy, in
+that -- assuming that's true, then they took him back to
+the scene to complete the search, by which time they had
+found the drugs and the guns, and then they did arrest
+him. And he has not claimed that at that point there
+wasn't probable cause for an arrest. But these risks
+are real, and they do play themselves out in the cases,
+Justice Kagan --
+JUSTICE SOTOMAYOR: Counsel, the problem
+with absolute rules like we did in Summers is that
+they're an exception, and they're absolute.
+Go back to the question you were asked by
+one of my colleagues earlier, why wouldn't Terry give
+you all of the rights that you're seeking on the
+absolute rule, but subject your police conduct to the
+question of reasonableness, which is the normal standard
+of the Fourth Amendment?
+MR. WALL: Of course. A very brief Terry
+stop could allow a departing occupant to go on his way
+long before the search is completed, and now he's fully
+aware of the police presence. So now --
+JUSTICE SOTOMAYOR: I'm -- I'm litigating
+for you.
+MR. WALL: Sure. Okay. Imagine that --
+JUSTICE SOTOMAYOR: So I could very easily
+imagine that what the fight's going to be like below is,
+we stopped them because we saw them coming out of the
+house, and all we want to do is make sure that they
+don't return. So we're just going to hold them in
+place. We don't have to drag them in a car back to a
+place they just left. We're just going to stop them in
+place to get a phone call that everything's all clear.
+MR. WALL: Well, I take one of the
+differences between Terry and Summers to be that in
+Terry the seizure is tied to the officer's brief
+investigation, and in Summers it's tied to the execution
+of the warrant.
+Now, if what you're talking about is a Terry
+stop that could last for the duration of the warrant, I
+don't know that there is much of a difference, then,
+between Terry and Summers.
+JUSTICE SOTOMAYOR: Well, we don't know, but
+why don't we let that develop.
+MR. WALL: Well, because I think the danger
+is that courts will apply Terry the way that they have,
+and we don't want to dilute one doctrine with another.
+A brief Terry stop could allow occupants to
+go on their way, but now they're aware of the police
+presence. Now, they are much more of a risk to flee or
+harm officers.
+JUSTICE GINSBURG: Explain -- explain to
+me -- the police, they have the informant's tip, and
+they see them coming out of the house. So it seems to
+me it's a good case that that would be reasonable
+suspicion. Coming out of the house, he looks like what
+the informant says.
+Then they -- can they -- they pat him down
+and they find his keys, and the keys are to the house.
+MR. WALL: Justice Ginsburg, that's
+certainly true here. I was only saying to
+Justice Sotomayor, you can imagine a case where they
+execute the warrant, and it takes them a while to find
+something. And, in the meantime, they stop a departing
+occupant, he's not carrying a gun, he answers the
+questions and does not arouse the officer's suspicion,
+and now he is on his way. And he is on his way while
+the search is ongoing, and now he knows about it.
+JUSTICE SCALIA: So what? What's he going
+to -- he's going to phone them and say, hey, you know,
+you're going to be searched. The cops are crawling all
+around the house already.
+So the only realistic additional threat is
+that he is going to voluntarily go back to where the
+police are in the house? I mean, you know --
+MR. WALL: Well, that is --
+JUSTICE SCALIA: -- this is so implausible.
+What -- what harm --
+MR. WALL: Justice Scalia --
+JUSTICE SCALIA: -- what threat to the
+policemen can possibly exist?
+MR. WALL: I think the Texas officers in the
+Valdez case, which we cite in our briefs, would find it
+surprising, where they did let someone go from the
+scene, and she came back with an individual and started
+fighting with police.
+Look, I take Petitioner's point --
+JUSTICE SCALIA: Very unusual.
+MR. WALL: Justice Scalia --
+JUSTICE SCALIA: Very unusual.
+MR. WALL: -- it is true that only a
+foolhardy person would do it, but, unfortunately, that
+is a perfect description of many criminals who do not
+tend to be level-headed, rational actors.
+JUSTICE SCALIA: You don't adopt absolute
+rules to cover foolhardy people. I mean, we -- absolute
+rules are designed to cover the mine run of cases, the
+generality of cases, not the oddball case. That's not
+what you use an absolute rule for.
+MR. WALL: That's absolutely right, Justice
+Scalia. And in the mine run of cases, what we know is
+that these people are leaving a home where there's
+probable cause to believe a crime is being committed.
+Police are detaining them a short distance away, and
+they are doing it in cases where people are fleeing or
+they -- we can reasonably believe they would flee once
+they've seen officers, if they were not detained.
+They are violent. They are aggressive.
+Some number of them can come back, and we can make
+reasonable predictions about what they would do, and
+they provide very valuable assistance.
+They secured guard dogs, like in the Head
+and Cochran cases, where there were pit bulls and
+Dobermans. They allow police to -- they give them keys
+so they don't have effect forceable entry --
+CHIEF JUSTICE ROBERTS: That's an argument
+in Summers I just don't understand. The argument is you
+can detain the people because they might want to give
+the officers assistance. Well, if they want to give
+them assistance, they don't have to be detained.
+MR. WALL: Well --
+CHIEF JUSTICE ROBERTS: It seems odd, you
+know, we're going to tie -- we're not going to tie you
+up -- we're going to keep you here, you can't leave
+because we think you might tell us where the drugs are.
+MR. WALL: Mr. Chief Justice, I mean, I
+think it is one of three legitimate law enforcement
+interests where you have someone for whom there is
+articulable and individualized suspicion to believe that
+they are connected to criminal activity.
+And I think that this Court in Summers was
+absolutely right. You do find people securing guard
+dogs, moving families out of harm's way, providing keys
+so that officers don't have to break in and harm
+property or jeopardize third parties. You find them
+handing over contraband rather than endanger officers.
+CHIEF JUSTICE ROBERTS: If they want to do
+that, they can. The question is whether you can detain
+them in the hope that they will decide to help you --
+MR. WALL: Well, and --
+CHIEF JUSTICE ROBERTS: -- to give you the
+key to the cabinet.
+MR. WALL: -- and the argument in Summers is
+you can detain them because you've got reasonable
+suspicion. The question is, what are the interests
+served by the detention? And that is an interest served
+by detention.
+Now, we're not saying it's an independent
+basis to support it. These are people for whom, as a
+class, there's reasonable suspicion, which is why
+Summers carved out the rule that it did.
+Now, this -- the situation in this case and
+the Federal cases that we're seeing are not meaningfully
+distinguishable from Summers. You've got the same
+reasonable suspicion, same law enforcement interests,
+same minimal intrusion. There is no -- along no
+dimension is there a meaningful difference between this
+case and Summers.
+JUSTICE KENNEDY: Justice Kagan had the
+hypothetical of the person leaving to go to work, the
+9:00 to 5:00 person. Suppose the warrant's going to be
+executed at 5:00. Can they detain him at his office so
+that he doesn't go back --
+He always goes right home. He takes the
+Number 3 bus, and he will be there in 20 minutes. Can
+you detain him at the office under your rule?
+MR. WALL: Justice Kennedy, no, not under
+Summers.
+Now, whether they can --
+JUSTICE KENNEDY: No, under the rule you're
+proposing.
+MR. WALL: I don't think so. I mean, when
+that case --
+JUSTICE KENNEDY: I don't know -- I don't
+know why not, under the rule that's proposed.
+MR. WALL: -- when that case comes to the
+Court, the Court will have to decide whether to
+recognize a doctrine analogous to Summers and Terry.
+And I will honestly admit that some of the arguments
+that the government's making here and that the Court
+adopted in Summers will translate.
+But Summers is not about that. Summers is
+about current and recent occupants. And those, as a
+class, have reasonable suspicion.
+Now, I think these other cases get harder.
+They will turn much more on what the connection was in
+the facts of a specific case.
+JUSTICE SOTOMAYOR: Counsel, my -- I remain
+with my question, which is, we have a
+circumstance-driven power, Terry. Your power is really
+going much more broadly, because you're basically saying
+if that -- if probable cause exists to search a premise,
+it exists without being tied to an individual because
+anybody who leaves the house, whether or not they have
+been tied to a crime in that house in the past or not,
+is now subject to being detained.
+So we have evidence that only a husband is
+involved in a fraud, and his wife is leaving for work.
+Because she was observed leaving the house, she can now
+be stopped a mile away.
+MR. WALL: Justice Sotomayor, to be clear,
+that's not the government's rationale. That's the
+rationale of the Court in Summers.
+Maybe the wife is aiding and abetting. We
+don't have any idea. Maybe the wife, you know, is
+implicit in the -- the husband's crime in some way. The
+Court's point --
+JUSTICE SOTOMAYOR: So your -- your view is
+that Summers gave you -- entitled you to hold people
+merely for purposes of investigation --
+MR. WALL: I --
+JUSTICE SOTOMAYOR: -- without any
+reasonable suspicion? That's really what your rule is
+saying.
+MR. WALL: My view is with the Court's on
+Summers. It's appropriate to consider the nature of the
+articulable and individualized suspicion on which the
+police based the detention of the occupant of a home
+subject to a search warrant.
+And what the Court said is, whether you're
+inside or whether you're on the front steps or the
+sidewalk, like George Summers, that reasonable suspicion
+exists. The police have placed you in the home at a
+time when a neutral magistrate has determined there's
+probable cause.
+And to be clear, we're not trying to blow
+the doors off of this exception. This is a very narrow
+exception. What we see time and again in the Federal
+cases is the same fact pattern: Someone leaves the
+house; the police catch up to them within a mile, but
+usually just within a few blocks; and, they return them
+to the scene.
+The police are not treating this as a sort
+of entitlement. This is not Gant, where the results are
+outstripping the rationale.
+JUSTICE SCALIA: The -- the procedure has to
+be reasonable under the Fourth Amendment, right? Now --
+now, the requirements for a warrant are not the outer
+bounds of -- of what's reasonable, but nonetheless, what
+-- it seems to me that what's reasonable under the
+Fourth Amendment can be estimated from what the Fourth
+Amendment requires a warrant to contain, and what a
+warrant must contain is a description of the place to be
+searched, and the persons or things to be seized.
+And what you're arguing for is a special
+rule which says once you have a warrant that this place
+can be searched, you can seize anybody -- you can seize
+not only anybody there in order to protect the police,
+but anybody connected with the -- with the place. And
+that -- that is so contrary to what -- what seems to me
+the theory of -- of the Fourth Amendment that I am very
+reluctant to -- to extend our cases any further than
+they already exist.
+MR. WALL: Justice Scalia, we're not here
+asking for the Court to extend Summers. We are just
+asking for a faithful application of what the Court said
+in Summers. And I understand that, you know, it would
+seem troubling would -- were it not for the fact that
+the Court in Summers, I think, really walked through why
+as a class, when you're inside the home or you're
+leaving the home, we've got reasonable suspicion that
+you're connected, and there are a number of good reasons
+why police can detain you while they execute the
+warrant.
+You're right, the Fourth Amendment does
+require reasonableness, and what the officers did here
+was eminently reasonable. They are executing a no-knock
+warrant at a drug stash house for a gun; they see
+someone leave who fits the description of the drug
+dealer; and rather than stop him right on the threshold
+inside the curtilage and risk alarming his confederates,
+they let him drive a short distance away and they return
+him to the scene.
+There's no meaningful difference between
+that and if they had stopped him right outside the
+house. The only thing they would have been --
+JUSTICE GINSBURG: In this case, you
+couldn't think of a reason why they took him back to the
+scene.
+JUSTICE BREYER: Maybe he had a key to
+the -- to the place where they keep the drugs, the
+basement or something.
+JUSTICE SCALIA: He might have wanted to
+help in the search.
+JUSTICE BREYER: Is that fanciful? Is it
+fanciful that people who are searched open doors or --
+MR. WALL: It's far from being fanciful.
+The Sherrill case out of the Eighth Circuit, the Sears
+case out of the Eleventh Circuit, they came back and
+they unlocked doors so the police wouldn't have to make
+forcible entry. In Montieth out of the Fourth
+Circuit --
+CHIEF JUSTICE ROBERTS: Yes, but the
+question is whether you have to detain them to do
+something you're saying they'd want to do.
+MR. WALL: Mr. Chief Justice, we're not here
+saying that every time somebody could be helpful in a
+search you could go out and detain them. It is an
+exception to the normal probable cause requirement, but
+it's an exception analogous to Terry because you've got
+reasonable suspicion. And the question is there, okay,
+as a categorical rule, you know you've got reasonable
+suspicion for this entire group of people, current and
+recent occupants; what reasons do police have to detain
+them?
+And there are really good reasons. One,
+they tend to flee. And we see that in Cavazos out of
+the Fifth Circuit. Two, they provide assistance in the
+search; and three, they are often violent or aggressive
+individuals.
+I don't think it's irrelevant that the vast
+majority of search warrants for contraband are for guns
+and drugs, and you see a number of amici states in here
+saying: Look, this is a legitimate and important law
+enforcement practice for officers in a very dangerous
+and volatile situation in executing these warrants.
+And I think Petitioner takes those risks way
+too lightly, and will not -- steadfastly refuses to
+engage the realities on the ground that we see in the
+cases. Judges and the Federal and state courts are
+grappling with this every day, and what these opinions
+reveal is that these risks cannot be so easily
+dismissed. They are serious and they are real, and we
+see them play themselves out across this entire set of
+cases.
+And what we don't see noticeably is the
+kinds of things that the Court tends to be worried about
+in Fourth Amendment cases: Abuse and police
+entitlement. Again and again, you see police detaining
+departing occupants a very short distance from a
+residence, returning them, not prolonging the detention,
+not engaging in exploitative questioning, and actually
+serving the three interests that the Court identified in
+Summers.
+And to be clear, Petitioner's solution is
+more than just a solution in search of a problem; it
+carries its own problem. It is severely
+under-inclusive. It will not capture any number of
+cases where there are valuable law enforcement interests
+to be served. And it will produce very silly results in
+a number of cases where police can't catch up to a
+departing occupant for one reason or another until after
+he's crossed some magical gate, and they will have to
+sit on their hands until he returns so that they can do
+exactly what they would have done minutes or hours
+earlier if they'd been able to detain him.
+JUSTICE GINSBURG: They can follow him.
+MR. WALL: They can, but, Justice Ginsburg,
+tailing is a risky proposition, particularly in an urban
+area. And that doesn't even arguably begin to serve the
+interest in avoiding flight or facilitating efficient
+and orderly --
+JUSTICE SCALIA: All law enforcement would
+be a lot easier if we didn't have the doggone Fourth
+Amendment. I mean, the Fourth Amendment is an
+impediment to law enforcement. Of course it is.
+There -- there's no doubt about that.
+MR. WALL: Justice Scalia, if you start from
+the premise that the Fourth Amendment doesn't permit
+this, then I lose. But I think what the Court said in
+Summers is, what we -- this Court has already drawn a
+number of exceptions to the probable cause requirement
+in reasonable suspicion cases. This is another, and it
+serves very valuable interests in this case and others.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Mr. Shanmugam, you have 3 minutes left.
+REBUTTAL ARGUMENT OF KANNON K. SHANMUGAM
+ON BEHALF OF THE PETITIONER
+MR. SHANMUGAM: Thank you, Mr. Chief
+Justice. Just -- just a couple of points.
+First of all, having suggested in its brief
+that the police may detain any individual with a
+connection to the place to be searched under Summers,
+the government today falls back to the view that the
+police may detain any individual with an observed
+connection, suggesting that this Court can leave for
+another day the question of whether to detain people
+with a certain but non-observed connection.
+Leaving that aside, the government suggests
+on at least five occasions today that that observed
+connection is sufficient to give rise to reasonable
+suspicion. That was not the basis on which this Court
+adopted its categorical rule in Summers. If it had
+been, the discussion of the special law enforcement
+interests supporting the rule would have been entirely
+superfluous.
+And it's for that reason we would
+respectfully submit that the Court made clear in
+footnote 19 that Summers permits officers to detain
+individuals regardless of the quantum of proof
+justifying the detention of specific individuals.
+And this Court's subsequent cases applying
+Summers have made clear that Summers permits the
+detention of individuals with no apparent connection to
+the criminal activity being investigated.
+And that leads into my second point, which
+is that Terry will serve as a fallback in many of these
+cases to permit detentions of individuals who are seen
+leaving the premises, where there is a sufficient
+additional basis to give rise to reasonable suspicion.
+In fact, it may very well be the exception to the rule
+that you have a case in which there aren't sufficient
+additional articulable facts to give rise to reasonable
+suspicion.
+We would respectfully submit that this case
+falls within that exceptional category, but it really
+underscores why the expansion of Summers that the
+government is seeking is really unnecessary.
+I would just note, in response to a point
+that Justice Scalia made, that the fundamental flaw with
+the government's position is that it really can't be
+reconciled with any original understanding of the Fourth
+Amendment. There's no historical evidence suggesting
+that officers at the time of the founding or thereafter,
+when executing search warrants, detained the occupants
+of the premises.
+And the problem with the government's
+approach is that it really would convert any search
+warrant into a search and seizure warrant. It would
+really would suggest that there is a freestanding right
+to detain anyone with a connection or an observed
+connection to the place to be searched that operates
+alongside the warrant-conferred right to conduct the
+search.
+JUSTICE ALITO: What -- would you say the
+same thing about the exact situation in Summers?
+MR. SHANMUGAM: No, we wouldn't,
+Justice Alito.
+JUSTICE ALITO: You think the original
+understanding was that what happened in Summers was
+okay, but if you get out of the immediate vicinity,
+that's where they drew the line?
+MR. SHANMUGAM: We're not challenging the
+rule of Summers itself. We're simply suggesting that
+there's no historical basis for that rule, and for that
+reason we think that any expansion of Summers would
+really be of questionable validity. In Summers itself,
+the detention was truly incident to the execution of the
+warrant because, after all, the officers were
+approaching the house and literally just about to
+effectuate entry when the detention took place.
+JUSTICE SCALIA: Well, you can say there was
+a historical basis for the rule, in that officers have
+always been allowed to take necessary action to protect
+themselves. And that's the principal justification.
+MR. SHANMUGAM: Perhaps, but we have been
+unable to find any examples of detentions of occupants
+of the premises until at least 1880. And our point is
+simply that the detention ceases to be truly incident to
+the search where the individual has left the scene. The
+justifications for the detention evaporate at that
+point.
+Thank you.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+The case is submitted.
+(Whereupon, at 12:04 p.m., the case in the
+above-entitled matter was submitted.)
+37:15 31:19 B
+61:21 AKA 1:3 appeals 3:22 arrest 10:15 back 6:7,11,15
+39:4 alerted 20:3 1:14 43:14,19,21 19:19,24 21:3
+43:25 alike 27:3 appears 28:19 arrested 42:23 23:24 24:1
+47:9,10 Alito 10:18 application arrive 21:15 30:11 32:5,19
+11:13,19 17:18 53:20 23:14,20 29:4 34:1,9,15,18
+48:21 25:18 30:3 apply 7:11 8:3 articulable 38:1 42:15
+allowed 61:8 42:10 45:10 artificial 4:7 58:13
+48:19 24:11 27:21 apprehend 24:2 43:6 53:19,20 baloney 16:17
+ambles 9:8 approach 6:16 assault 33:12 based 17:19,21
+46:12 38:10 39:19 appropriate 7:6 55:22 basis 4:11,15
+40:1 44:7 53:1 52:5 Assistant 1:17 8:13 13:8
+amount 36:14 arguably 35:7 43:17 2:4,7,10 3:7
+50:20 8:11 9:14 16:7 arguing 9:23 attach 12:9 12:8 15:12
+27:9 24:10 53:9 authority 25:1 16:9 24:6
+answer 21:3 2:2,5,8 3:3,6 authorized 29:7 40:13 47:17,20
+anybody 6:14 48:6 49:7 58:6 7:19 20:19 beyond 16:15
+34:23 44:20 41:8 circumstance-... 18:14
+carries 57:1 10:10,15 15:11 cite 24:8 46:22 4:13
+case 3:4,17 5:16 47:17 51:6 50:23 53:24 34:10
+18:5 15:20 16:23 58:1 14:23 23:19 4:24 5:1 11:17
+32:14 18:19 19:6 Cavazos 55:21 27:13 29:16 19:12 25:12
+41:8 24:16 25:23 caveat 16:5,5 44:22 51:15 35:9 38:13
+30:5 31:1,12 ceases 61:13 52:15 56:24 complicated
+48:23 34:24 36:16,18 certain 58:17 clearly 6:2 15:16 concedes 37:14
+43:11,13 45:19 6:17 20:1 33:6 client 15:13 concerned 14:19
+22:10 46:1,22 47:12 35:13 45:25 16:24 25:23 conclude 13:7
+26:2,17 49:16,22 50:12 cetera 14:19 close 20:4 24:15 conclusion 12:4
+50:15 51:1 19:14 30:4,10 conduct 4:5,9
+54:19 54:16 55:2,3 challenging closet 19:14 6:21 18:20
+58:3 59:16,19 60:22 Cochran 30:4 44:5 60:12
+29:13 cases 7:10 8:1 41:11 colleagues 13:16 22:6,10
+45:12 17:5 21:20 changes 41:14 44:3 conducting 6:14
+24:8 31:23,24 chasing 34:23 combination 32:23
+33:11 37:2 7:1 22:15 23:2 come 6:11,15 6:11 54:10
+27:1,10 47:11,12,15,19 31:9,14,17,20 19:19,24 24:1 15:14
+28:19 56:17 57:3,5 children 22:19 47:23 confrontations
+57:5 30:5 55:2,3,6 21:3 32:19,24 connection
+36:23 48:20 50:16,16 decide 37:2 49:3 detaining 19:7 distance 11:2
+52:9 53:19,20 decided 9:21 47:18 56:18 54:11 56:19
+57:24,25 58:15 deciding 31:24 4:18,21,23 49:18
+courts 27:2 defend 29:8 35:4 11:25 12:7,9 48:3
+Court's 13:1 define 5:4 15:2 16:23 50:17
+court-imposed 30:18 31:5 28:24 30:17,24 dog 30:7,12
+15:12 crawling 46:10 1:18 detentions 10:13 doing 25:8 47:19
+37:7 create 4:16 departments 59:12 61:11 door 10:21
+48:25 creates 4:7 33:8 determine 8:2 24:19 25:7
+crime 35:23 descending 42:7 determined 30:7 41:25
+28:9 curb 18:2 6:15 11:1,9 54:13 drawer 19:13
+51:2 curfew 32:3 12:5 16:18 differences drawers 42:21
+61:18 curiosity 42:11 17:12 19:3 44:24 drawn 57:25
+58:9 40:11 50:22 24:13 25:2 12:22 drive 54:11
+10:12 curtilage 5:25 40:22 41:2 27:4,7 33:7 driving 23:25
+25:3,8,23 6:3 11:1 54:10 48:7 49:2,8 dilute 45:11 31:2 32:2
+40:19 50:1,5 54:2 dimension 49:21 dropped 12:17
+57:20 D 55:8,12,18 direct 28:16 drug 54:7,8
+4:16 da 19:21,21,21 58:16 59:3 discusses 37:5 22:2 43:19
+10:4 danger 11:5 60:10 discussing 12:24 48:14 54:20
+12:2,3 31:17 38:12 detainable 39:7 27:21 56:2
+15:6 41:25 45:9 41:7 discussion 58:23 duration 17:16
+dangerous detained 5:9 dismissed 56:12 39:16 45:4
+27:20 33:22 56:4 9:10,13 24:7 dispel 17:13 dwelling 6:8,9
+31:22 day 56:10 58:16 25:18,23,24 disputing 33:9 D.C 1:8,15,18
+36:25 days 29:2 28:23 47:21 disrupt 7:17
+41:22 dealer 54:9 48:9 51:10 20:20,25 21:18 E
+43:6 dealing 41:14 60:4 39:25 E 2:1 3:1,1
+entirely 27:11 26:20 46:2 15:20 30:4 19:4 38:11
+entitled 35:13 executed 3:20 faithful 53:20 focus 4:6,9,9
+entitlement 4:17 executing 3:13 falls 17:17 58:13 follow 23:7 35:3
+61:5 entitles 35:12,15 23:9,22 25:3 fanciful 54:24 47:10
+24:20 25:14 29:18,20 30:19 far 17:21 36:22 force 34:22
+5:1 25:12 55:5 61:5 33:22 37:11,18 farm 18:7,7 forceable 48:4
+equally 29:22 54:6 56:5 60:4 fashion 21:1 forcible 55:5
+15:17 2:6,9 53:17 52:17 56:9 found 15:25
+23:7 establish 23:21 exists 21:4 33:17 feet 24:19 25:6 16:6 19:5
+25:1,2,6 everything's explains 41:21 fills 35:19 39:18 40:1
+evidence 8:7 56:21 39:7,12 40:12 53:15 54:4
+51:11 60:2 extend 9:23 48:21,24 61:11 57:18,19,23
+48:16 exact 43:8 60:15 53:16,19 finds 6:7 60:1
+56:4 exactly 26:8 extended 7:11 fire 33:12 fraud 51:12
+57:9 extension 22:13 first 4:11,14 freestanding
+example 20:24 28:5 11:15 14:2 60:9
+56:8 23:11,13,14 extremely 15:13 20:15 28:16 friend's 29:25
+exception 3:11 F 58:10 25:21 41:24,25
+55:14 59:15 facility 38:15 flee 13:10 34:16 10:15
+Excuse 14:11 53:22 59:15 47:19 further 53:16
+56:13 9:18 11:4 facts 8:17 13:16 12:22 13:2,11 G
+48:12,12,13 handcuffs 16:19 11:3 12:5,11 impediment
+45:19 54:1 hands 57:8 19:18 21:3 46:16
+57:7 55:20 happen 33:16 25:6,10,21 implicating
+19:22 60:19 32:9,19 33:4,5 implicit 51:20
+14:5 15:8 harder 50:24 40:6,18,19,21 imposed 24:24
+52:11 23:12,13 24:10 20:4 26:11 44:18 45:18,20 61:2,13
+15:23 31:21 36:25 harm's 48:22 52:19 54:7,15 incriminating
+32:7,12 43:6 58:13,18 Head 48:1 61:4 8:7 19:5
+39:20 59:22 hear 3:3 34:7 houses 36:8 incumbent
+42:6,20 government's held 24:9 hundreds 8:16 22:12
+45:16,24 5:16 6:19,20 help 16:12 38:25 husband 51:11 independent
+57:11,12 12:2 29:14,17 49:3 54:23 husband's 51:20 49:12
+39:8 50:19 51:16 hey 46:9 8:16 9:3 13:4 36:13 41:1
+44:3 48:3 59:25 60:6 he'll 32:5 33:25 25:4 30:3 indistinguisha...
+49:5 grappling 56:10 hindrance 42:1 36:17,18 49:24 30:15
+59:14,17 greater 6:19 historical 60:2 hypotheticals individual 4:21
+19:2,9 55:17 holding 14:21 idea 33:10 34:5 9:19 10:7
+22:25 guard 21:9 30:7 home 24:1 28:21 51:19 11:10 12:4,6
+29:7 48:1,21 29:2,9,19,19 identical 19:10 12:10,11 13:5
+42:3 guards 32:23 29:23 32:3 19:12,14 20:5 13:6,9 14:18
+45:13 guess 7:2 17:8,8 35:21 36:1,23 20:11,14 15:10 16:10,25
+49:24 19:18 36:6 37:6 39:4 identified 20:24 17:12,25 20:18
+55:12 37:23 38:18 47:16 50:3 56:22 20:24 21:14,16
+gun 30:6 31:7 53:25 44:16 46:1 25:6,9,11,21
+20:18 guns 16:1 34:2 hope 49:3 4:2,22,25 5:3,6 27:23,25 28:3
+24:15 42:14 43:19 hopefully 9:3 6:5,16 10:5 31:11 37:19
+35:7 56:1 hour 21:5 33:18 17:19 18:4,10 46:24 51:7
+39:25 guy 7:2 31:19 hours 21:5 29:5 18:13 24:22,24 58:11,14 61:14
+41:2 33:19 57:9 27:5 38:15 individualized
+44:16 H house 5:14,23 40:7 60:20 3:24 10:10,14
+13:13 22:5 51:12 41:20 42:6,20 50:6,9,13 leaving 6:16 8:6
+48:18 irrelevant 55:25 43:4,9,10,16 key 49:6 54:19 8:7,9,19,24
+issue 9:4 14:5,5 43:23,24 44:12 keys 45:23,23 12:4,11 13:20
+7:13 26:1,23 28:16 45:24 46:1,8 kick 25:8 20:18,25 22:1
+23:14,20 37:8 46:16,18,19 kids 22:23 24:14 26:6,15
+55:24 issues 14:24 47:2,3,4,9,14 killed 38:2 26:16,18,21
+48:5,11,15 kind 12:22 28:3 29:19
+2:6 28:11 51:15,22 52:1 know 8:25 13:21 35:16,21 36:8
+48:24 54:16,19,22,24 20:1,21 22:4,5 41:17 47:16
+31:8 34:7 judgment 3:24 57:12,17,22 26:8,8,10 53:25 58:18
+36:1 Justice 1:18 3:3 58:4,9 59:24 28:25 31:8,11 59:13
+52:10 3:9 4:1,11 5:3 60:14,17,18 34:3,4,6,8,14 left 3:19,20 4:21
+54:10 5:11,18,25 6:3 61:6,18 36:7,14,19,22 7:13,15 8:1
+32:2 8:5,6,15,21 9:1 12:20,22 24:25 38:19 41:5,9 33:4,17 34:25
+9:20 10:2,18 61:9 45:5,7 46:9,14 44:21 58:5
+13:12 12:20 13:15 4:20 7:11 8:2 50:13,14 51:19 legitimate 9:25
+14:1,7,11,16 11:12,15 12:9 53:21 55:16 48:16 56:3
+16:12 17:8,18 25:8 29:22 knows 19:20,22 lengthy 17:6
+49:10 18:5,9,16,25 30:17 61:15 22:1 46:7 letting 14:22
+19:4 20:7,10 justified 10:14 41:18
+34:16 21:11,24 22:10 justifying 59:5 L 1:3 level-headed
+42:4 43:8 22:15 23:2,24 large 18:13 47:8
+49:9,19 24:18 25:5,13 K 34:21 light 21:22
+57:3 25:18,25 26:2 K 1:15 2:3,9 3:6 larger 6:13 lightly 56:7
+26:14,17 28:9 58:6 law 13:1,3,12 limit 24:24
+30:3,21,25 12:14,20 19:4 49:19 56:3 limited 10:16
+32:7,12,17,18 41:5,13,20 58:23 line 4:8,12,15
+35:6,11,18 2:3,9 3:6 58:6 30:8 42:2 literally 61:4
+51:24 37:13,17 38:4 54:20 58:15 little 43:5
+39:5,8,20 40:9 8:21 9:1 43:10 11:11 51:8 39:15
+31:22,23 meat 9:3 41:12 occupant's 41:24 42:8
+41:23 meet 15:7 32:3 neutral 35:22 28:21 47:20 53:10
+47:1 56:3 mere 12:11 13:6 52:13 occurred 16:15 one's 20:11
+merely 51:24 nevertheless 5:9 21:22 24:2,4,6 32:9
+51:14 52:19 19:25 14:18,20 15:25 29:12
+39:13 minimal 49:20 noting 14:3 29:3 oral 1:11 2:2,5
+minimizing November 1:9 officers 3:13,18 3:6 28:11
+37:1 34:1 50:4 57:9 17:4 24:8 10:7,19 11:16 38:13 57:16
+58:5 47:23 50:4 12:4 13:5,18 ordinarily 5:5
+34:1 Montieth 55:5 O 2:1 3:1 24:13,25 27:2 outer 53:2
+morning 27:22 objection 37:24 27:14 29:7 outlier 36:16
+17:19 moving 48:22 58:14,19 60:10 34:20 36:13 10:11 11:3
+19:1 20:3 Muehler 39:16 obstreperous 38:12,17 39:1 13:5 19:9,25
+23:25 23:16 40:12 41:1 20:22 31:7
+35:1 N obstruct 42:17 45:15 46:21 33:12 34:24
+40:5 N 2:1,1 3:1 obtained 31:15 47:21 48:8,23 37:15 41:24
+42:22 narrow 52:16 obvious 23:19 48:25 54:5 54:14
+47:10 natural 24:24 occasions 58:19 56:4 59:3 60:3 outstripping
+50:11 naturally 22:24 occupant 29:4,8 61:3,7 52:24
+nature 52:5 29:22 30:6 officer's 4:5
+25:20 46:4 52:7 57:6 oh 16:18 31:14 P 3:1
+49:21 necessity 4:17 30:18 34:19 okay 19:9,14 paramount
+need 39:9,9 40:11 45:12 31:14 40:8 20:16
+35:16,25 36:3 59:10,23 61:12 practicable 27:8 43:21 47:17
+21:22 41:15,17 47:6 pointed 19:4 practical 4:3 55:13 58:1
+49:24,25 points 58:9 practice 18:24 probably 22:6
+14:22 34:17 37:14 25:15 26:3 premise 43:5 procedure 52:25
+26:5 41:7 56:6 58:7 28:25 29:18 51:6 57:23 proceed 26:20
+32:24 Petitioner's 30:5 32:10,12 premises 4:22 process 10:8
+34:15 29:13 42:2 32:22 33:8 5:14,19 8:9 15:24 29:20
+36:7,23 47:1 56:24 36:10,12 37:11 10:6 11:11,22 30:19 37:9,11
+40:18 phone 44:22 37:15,17,21,24 15:10 16:20 produce 57:4
+46:9 37:24 40:5 17:21 25:15 prolonging
+47:10,16 physical 5:6,8 41:1 44:5,11 32:16 35:5 56:20
+48:7,21 17:24 18:5 45:13,17 46:14 39:12,13,24 proof 59:4
+51:23 26:11 28:22 46:25 47:18 40:7 41:15,16 property 5:7,9
+55:17 41:8 48:3 52:7,12 41:18,18 59:13 5:17,21 17:20
+pit 48:2 52:19,22 53:12 60:5 61:12 17:24 18:6,17
+19:15 21:14 56:17,18 57:5 10:23 11:23 31:19 32:14,16
+27:24 28:2 policeman 26:7 44:11 45:14 48:24
+53:7,10,13 46:20 15:12 31:24 24:12,17
+60:11 61:5 pose 3:21 pretty 6:2 20:4 proposed 18:12
+17:2 play 4:8 43:22 poses 4:25 25:11 15:5 proposing 28:19
+56:13 posit 27:4,6 prevent 32:23 50:10
+22:18,19 position 29:6,14 12:22 13:2,11 57:13
+23:20 please 3:9 16:12 possessed 16:10 primary 11:14 protect 53:12
+59:3,7 28:14 possibilities principal 61:9 61:8
+18:8 21:11 possibly 46:20 probable 3:12 provide 5:10 8:4
+19:13 25:9 27:16 post 32:23 34:24 3:23 10:9,15 8:20 9:2 18:18
+22:1,21 28:20 31:3 posting 33:10 15:11 16:8,9 27:2 47:25
+25:14 33:16,19 42:20 potentially 11:6 35:22 39:3,14 55:22
+32:10,19 42:22 43:20 11:23 39:22 40:13 provided 15:14
+realities 30:2 recognized 42:4 response 28:16 31:17 48:5,11
+38:10 realize 17:9 record 32:5 43:1 results 52:23 58:4 61:18
+23:15 reentry 21:9 57:4 Rotelli 39:17
+11:14 12:3 regard 4:14 7:12 20:19 24:5,15 routinely 23:21
+53:23 27:9 returning 32:4 25:20 26:24,25
+12:6 9:16 40:10 reluctant 53:16 reversed 3:25 39:21 40:1,10
+14:25,25 42:16 54:17 rely 43:15 right 4:9 5:19 40:15 44:5
+16:8
+59:1 remain 51:2 7:3 8:9 9:1 47:13 49:15
+17:3,4,9 60:25 remand 14:9,10 14:14 26:4 50:5,9,14 52:2
+22:8 reasonable 8:12 15:5 31:7 35:12,15 53:10 55:16
+33:22,24 8:13 12:13 remember 36:24 37:21,22 58:22,24 59:15
+36:6,10 15:7,15 32:5 31:10 37:23,24 38:5 60:23,24 61:7
+41:4,9 32:14 35:14,17 reply 29:13 38:7 40:17,22 rules 22:11
+49:2,9
+40:14 report 13:18 47:14 48:21 27:10 43:25
+55:8,15 45:19 47:24 require 54:5 50:3 53:1 54:4 47:10,11
+49:8,14,19 required 22:13 54:9,14 60:9 run 47:11,15
+53:1,3,4,25 requirement rights 44:4 rush 11:10
+58:2,20 59:14 55:13 58:1 15:15 58:20 rushing 10:25
+4:6 39:18 44:6 requires 6:19 19:17 20:3 S 2:1 3:1
+55:18,20 residence 23:15 43:21 56:6,11 22:23 23:18
+52:24 27:18 58:6 56:20 roam 41:23 14:18 17:25
+40:23 37:11,18 38:13 seeking 44:4 17:11,23 18:8 Solicitor 1:17
+49:12 39:4,25 40:19 59:22 18:12,18 20:6 solution 23:19
+52:3 55:9 40:20 41:3,16 seemingly 17:5 20:8,13,23 56:24,25
+56:3 41:18 42:13,17 seen 8:19 9:7 21:6,10 22:9 somebody 6:9
+53:10 46:7 51:6 52:8 19:20 20:18,24 24:5,23 25:17 32:9 33:5
+6:3,25 56:1,25 60:4,7 30:18 36:12 26:19 32:7 38:2 55:11
+16:12 60:8,13 61:14 41:1 47:21 58:5,6,8 60:16 somebody's
+18:5,9,16 searched 5:15 59:12 60:22 61:10 19:2
+32:18,22 12:12 15:11 sees 6:8 9:5 Sherrill 55:2 someplace 42:7
+33:2,6 21:15 22:17 seize 53:11,11 shootout 22:20 soon 4:3 27:7
+35:6 23:16 25:16 seized 53:8 short 47:18 38:21,23
+39:5 27:24 28:2 seizure 44:25 54:11 56:19 sort 4:11 52:22
+46:8,16 46:10 53:8,11 60:8 shout 22:3 sorts 21:21
+47:2 54:25 58:12 send 6:9 34:22 showing 21:21 Sotomayor 4:1
+60:11 sense 40:20 22:12 4:11 13:15
+53:18 searches 22:10 sentries 33:10 sidewalk 5:19 14:1,7,17 21:2
+57:17,22 searching 6:10 separate 6:22 5:21,22 29:23 21:8,11 28:15
+61:6 34:1 14:24 15:1 41:12 52:11 29:11 30:21
+8:1,6,7 search-related seriously 34:18 silly 57:4 35:18 43:9,24
+17:1 4:19 serve 35:7 57:14 similar 18:14 44:12,15 45:7
+21:15 Sears 55:2 59:11 simply 7:14,23 46:1 51:2,15
+second 4:3,4,12 served 31:25 9:14 12:8,19 51:22 52:1
+30:6 11:16 20:12 42:4 43:8 12:21 13:9 special 13:1 33:3
+36:13 28:18 59:10 49:10,10 57:4 16:5 20:17 53:9 58:23
+43:2,18 secured 48:1 serves 4:19,23 60:23 61:13 specific 51:1
+52:21 secures 30:12 27:12 58:3 single 20:24 59:5
+61:14 securing 48:21 serving 56:22 sit 57:8 spread 40:2
+5:2 6:7,14 17:22 19:23 seven-tenths sitting 9:5,16 27:5,8 44:6
+7:17 8:22 20:11 22:5 25:24 40:7 13:5 20:22 standing 12:21
+9:18 10:5 26:10,20 29:3 42:13 25:21 29:3 15:18
+11:17 29:19 32:1,12 severely 57:1 situation 9:15 start 10:21 22:3
+17:15,16 35:20,21 37:24 Shanmugam 10:19 11:8,20 29:12 57:22
+18:22 39:12 40:12,12 1:15 2:3,9 3:5 31:18 49:16 started 46:24
+20:20,25 43:7 45:18 3:6,8 4:10 5:5 56:5 60:15 stash 54:7
+22:4 52:17 54:7 5:13,20 6:2,18 situations 4:18 state 28:20
+24:2,3,4 55:21 56:2,8 7:4,22 8:11,18 22:25 31:23 43:7
+25:5,10 56:13,15,18 8:23 9:2 10:1 six 25:21 56:9
+26:4 seeing 31:5 11:12,24 12:14 Sixth 30:5 states 1:1,6,12
+32:9,23 34:12 37:6 12:19 13:25 slice 16:16 3:4 56:2
+34:4,5 49:17 14:2,8,14,23 slight 19:23 station 42:25
+36:15 seek 21:17 16:4,12,22 smaller 33:8 43:3
+38:10 suggest 27:22 surely 32:22 15:2,24 16:2 53:23 54:17
+52:10 60:9 surprising 46:23 16:13,14,15,18 55:25 56:6
+58:10 susceptible 9:24 17:10,11,17 third 12:17
+14:12,12 suggesting suspicion 3:24 37:4 39:2 44:3 19:15 20:11
+15:4 58:15 60:2,23 8:12 10:10,15 44:8,24,25 48:24
+16:2 suggests 58:18 10:16 12:13 45:3,6,10,12 thought 21:2
+Summers 3:10 13:14 15:7,15 50:17 51:4 38:25
+17:2 3:13,18 4:16 17:13 35:14,17 55:14 59:11 threat 3:21 5:1
+21:25 5:12,13 8:2 35:25 40:15 test 4:2,3,4,7 6:5,6,16,17
+9:24 10:6 45:20 46:5 17:17 38:20,24 23:17 25:11
+31:7 11:13 12:18 48:18 49:9,14 38:25 32:18 33:3,4
+13:2 17:6 19:3 49:19 50:23 tests 4:1,13 46:12,19
+23:5,7,20 24:7 52:2,6,11 Texas 46:21 three 12:16 19:1
+42:12 25:8 28:6 53:25 55:15,17 Thank 3:8 28:9 19:3 20:9 35:7
+45:4 29:17 30:16,24 58:2,21 59:14 58:4,8 61:17 48:16 55:23
+46:3 31:25 34:17 59:18 61:18 56:22
+35:7,20,24 sweep 18:20 theoretical 4:11 threshold 54:9
+51:14 37:10,21 39:20 T theory 53:15 tie 48:12,12
+40:6,10,20 T 2:1,1 they'd 42:21 tied 39:23 44:25
+14:20 42:3,9 43:8,25 take 8:25 16:19 thin 16:17 tightly 39:23
+49:15,18,22 34:17 36:15 things 37:25 17:12 23:8
+37:6 50:21 51:17,23 43:13 44:23 think 7:6,19 8:5 27:17 28:8,23
+44:5 52:5,11 53:19 47:1 61:8 8:15 9:9 10:18 30:8 33:23
+52:8 53:21,23 56:23 taken 42:24 12:1,19 13:11 34:4 35:21
+12:3 59:3,7,7,21 50:3 56:6 15:17 17:3,13 40:16 42:13
+61:1 20:3 20:13,15,17 55:11 60:3
+23:19 58:25 talking 26:25 24:23 25:17,19 tipping 14:19
+support 49:13 41:16 45:3 25:22 27:25 today 29:14 40:3
+58:24 31:16 30:14 32:4,11 translate 37:1
+49:25 tend 47:8 55:21 37:1 40:9 tries 21:12,13
+43:17 use 13:1 39:2,2,3 36:21 37:13 wasn't 5:12,18 zone 10:5,8,11
+47:5 39:16 47:13 38:4,8,21 39:5 9:21 43:21
+41:5,20 42:19 way 37:14 41:22 1 1:9
+52:15 v 1:5 3:4,10 7:7 44:8,14,23 46:6,6 48:22 11:04 1:13 3:2
+12:16,23 validity 61:1 50:6,11,15 we're 4:12 26:25
+13:19 valuable 47:25 51:15,25 52:4 38:16 40:3,4 2
+19:1,8 57:3 58:3 53:18 55:1,10 40:15 44:19,21 2 21:5
+34:22,24 vast 55:25 57:12,22 48:12,12,13 20 50:4
+55:22 vicinity 4:2,22 wander 13:6 49:12,17 52:15 2008 33:14
+10:6 want 7:2 11:9 53:18 55:10 2012 1:9
+28:4 29:17 44:18 45:11 wife 51:12,18,19 3 2:4 50:4 58:5
+51:22 52:4 5
+30:1
+violent 47:22 warrant 3:14,16 26:23 35:13 50 24:19 25:6
+48:6 volatile 56:5 10:19 11:4,16 35:24 58 2:10
+voluntarily 15:9 17:15,16 work 10:4 36:9 9
+60:1,19 9:00 49:25
+28:22 41:2,6,17
+wait 22:21 23:3 31:6,6,10,11 workplace 28:1
+47:6 waiting 19:9 33:22 37:7,12 worried 22:20
+21:8 30:7 45:2,4 46:2 wouldn't 7:22
+walks 24:19 warrants 23:22
+59:22 28:10,11,13,15 60:4 x 1:2,7
+31:15,20 32:11 warrant-confe... Y

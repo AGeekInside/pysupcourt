@@ -1,0 +1,3635 @@
+                         Official - Subject to Final Review
+
+
+ 1      IN THE SUPREME COURT OF THE UNITED STATES
+
+ 2   - - - - - - - - - - - - - - - - - x
+
+ 3   THE PERMANENT MISSION OF                        :
+
+ 4   INDIA TO THE UNITED                             :
+
+ 5   NATIONS, ET AL.,                                :
+
+ 6                Petitioners                        :
+
+ 7           v.                                      :        No. 06-134
+
+ 8   CITY OF NEW YORK, NEW                           :
+
+ 9   YORK.                                           :
+
+10   - - - - - - - - - - - - - - - - - x
+
+11                               Washington, D.C.
+
+12                               Tuesday, April 24, 2007
+
+13
+
+14                   The above-entitled matter came on for oral
+
+15   argument before the Supreme Court of the United States
+
+16   at 10:02 a.m.
+
+17   APPEARANCES:
+
+18   JOHN J.P. HOWLEY, ESQ., New York, N.Y.; on behalf of
+
+19     Petitioners.
+
+20   SRI SRINIVASAN, ESQ., Assistant to the Solicitor
+
+21     General, Department of Justice, Washington, D.C.; on
+
+22     behalf of the United States, as amicus curiae,
+
+23     supporting Petitioners.
+
+24   MICHAEL A. CARDOZO, ESQ., New York, N.Y.; on behalf of
+
+25     Respondent.
+
+
+                                         1
+
+                           Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1                           C O N T E N T S
+
+ 2   ORAL ARGUMENT OF                                        PAGE
+
+ 3   JOHN J.P. HOWLEY, ESQ.
+
+ 4      On behalf of the Petitioners                            3
+
+ 5   ORAL ARGUMENT OF
+
+ 6   SRI SRINIVASAN, ESQ.
+
+ 7      On behalf of the United States, as amicus
+
+ 8      curiae, supporting Petitioners                         18
+
+ 9   ORAL ARGUMENT OF
+
+10   MICHAEL A. CARDOZO, ESQ.
+
+11     On behalf of Respondent                                28
+
+12   REBUTTAL ARGUMENT OF
+
+13   JOHN J.P. HOWLEY, ESQ.
+
+14     On behalf of the Petitioners                           53
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+
+                                        2
+
+                         Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1                       P R O C E E D I N G S
+
+ 2                                                                  [10:02 a.m.]
+
+ 3                CHIEF JUSTICE ROBERTS:                 We'll hear argument
+
+ 4   first this morning in case 06-134, The Permanent Mission
+
+ 5   of India to the United Nations et al.                      vs. The City of
+
+ 6   New York.
+
+ 7                Mr. Howley.
+
+ 8               ORAL ARGUMENT OF JOHN J.P. HOWLEY,
+
+ 9                    ON BEHALF OF PETITIONERS
+
+10                MR. HOWLEY:        Mr. Chief Justice and may it
+
+11   please the Court.
+
+12                These are tax enforcement lawsuits.                     If
+
+13   jurisdiction existed, the only issue a court would
+
+14   decide is whether a tax is owed.                This type of case did
+
+15   not fall within any real property exception to sovereign
+
+16   immunity before Congress passed the Foreign Sovereign
+
+17   Immunities Act and Section 1605(a)(4) of that act did
+
+18   not create a new exception where none had otherwise
+
+19   existed.    Congress chose --
+
+20                JUSTICE SCALIA:             Of course you could say the
+
+21   same thing if the mission here sold its property to
+
+22   someone and someone was claiming the right to possess
+
+23   the property by reason of the sale.                      And you could come
+
+24   up and say this is simply, simply a case deciding the,
+
+25   the ultimate issue of whether the sale occurred or not.
+
+
+                                         3
+
+                          Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1                 MR. HOWLEY:        Uh --
+
+ 2                 JUSTICE SCALIA:             But it would clearly come
+
+ 3   within the property right exception, wouldn't it?                     You
+
+ 4   -- you don't go one step back to look at the transaction
+
+ 5   that created the, the right in real property assuming
+
+ 6   the right in real property exists.
+
+ 7                 MR. HOWLEY:        Actually, Justice Scalia, I
+
+ 8   believe that if you had a dispute over what happened
+
+ 9   with the sale of property that it would fall within the
+
+10   based upon commercial activities exception in
+
+11   1605(a)(2).
+
+12                 JUSTICE SCALIA:             Let's assume that, let's
+
+13   assume that exception didn't exist.
+
+14                 MR. HOWLEY:        Okay.
+
+15                 JUSTICE SCALIA:             And you had nothing but the
+
+16   real estate exception.         You would come in and say this
+
+17   ultimately relates to not who owns the real estate but
+
+18   whether there was a proper contract or not.                     And I --
+
+19   frankly we wouldn't accept that.
+
+20                 MR. HOWLEY:        No.       And I think that's a very
+
+21   different case from what we have here because in that
+
+22   case the issue for the Court to decide is which of the
+
+23   parties has the right, has the title in the real
+
+24   property.     That is not in issue here.                  The City of New
+
+25   York does not seek title in this property.                     Their action
+
+
+                                          4
+
+                           Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   is to declare the validity of a tax lien and the issue
+
+ 2   in an action to declare the validity of a tax lien is
+
+ 3   whether the tax is owed and whether it has been paid.
+
+ 4   That is the issue that's presented to the Court.
+
+ 5                 JUSTICE GINSBURG:             But what New York is
+
+ 6   seeking is an interest in land and a lien is an interest
+
+ 7   in the land.     It runs with the land, doesn't it?
+
+ 8                 MR. HOWLEY:        I -- I -- yes.           I acknowledge
+
+ 9   that there are some similarities between a lien and a
+
+10   right in property.      For example, that it runs with the
+
+11   land.     But there are dissimilarities that are far more
+
+12   numerous and far more significant.                   Unlike rights and
+
+13   property a lien does not give the lien holder any right
+
+14   to own, access, possess, cross over, collect rents from,
+
+15   exclude or any other right in the property.
+
+16                 JUSTICE SCALIA:             Can't he force a sale of
+
+17   the property to collect the lien?
+
+18                 MR. HOWLEY:        This action does not.
+
+19                 JUSTICE SCALIA:             I understand that this
+
+20   action does not because of the sovereign immunity.                   But
+
+21   -- but we are talking about what the nature of a lien
+
+22   is.     In an ordinary case cannot a lien holder force a
+
+23   sale of the property so that he can get out the money
+
+24   represented by his lien?
+
+25                 MR. HOWLEY:        Yes.       If the lien holder
+
+
+                                          5
+
+                           Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   commences an action to foreclose on the property, then a
+
+ 2   consequence of that could be the sale of the property.
+
+ 3               JUSTICE SCALIA:             Well, how can he commence
+
+ 4   an action to foreclose on the property unless he in any
+
+ 5   ordinary sense of the term has an interest in the
+
+ 6   property?
+
+ 7               MR. HOWLEY:        I do not dispute that a lien
+
+ 8   holder has an interest, a security interest in the
+
+ 9   property.   But Congress did not write in Section
+
+10   1605(a)(4) all interests that are in issue in property.
+
+11   Congress in fact had the European Convention in front of
+
+12   it which said rights, interests and obligations in
+
+13   property.   Congress chose language from the European
+
+14   Convention elsewhere but did not choose that language
+
+15   here.   Congress said only rights in property.
+
+16               JUSTICE SCALIA:             You're distinguishing
+
+17   between rights in property and interests in property?               I
+
+18   would think that every right in property is an interest
+
+19   in property and vice versa.
+
+20               MR. HOWLEY:        No.       I do not believe so,
+
+21   Justice Scalia.   There -- there -- there has to be a
+
+22   reason why Congress chose language verbatim from the
+
+23   European Convention in other sections of the statute
+
+24   such as the counterclaim exception, but in this
+
+25   exception said we are not taking interest and
+
+
+                                        6
+
+                         Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   obligations from the European Convention, we are only
+
+ 2   saying rights.     And this Court --
+
+ 3               JUSTICE GINSBURG:               The counterclaim sounds
+
+ 4   to me very much like it comes straight out of the
+
+ 5   Federal Rules, not out of any convention.                       It's the same
+
+ 6   transaction and occurrence, right?
+
+ 7               MR. HOWLEY:          Yes.       Yes.          The, the
+
+ 8   counterclaim exception --
+
+ 9               JUSTICE GINSBURG:               Well, that's exactly what
+
+10   it says in the Federal Rules about compulsory --
+
+11               MR. HOWLEY:          Yes, but Congress said, in the
+
+12   House report Congress refers to the European Convention
+
+13   as the source for the counterclaim exception in the
+
+14   Foreign Sovereign Immunities Act so Congress said we are
+
+15   taking this from the European Convention.                      This -- this
+
+16   language also --
+
+17               JUSTICE SCALIA:               Congress didn't really say
+
+18   it.   I mean the committee said it to be precise.
+
+19               MR. HOWLEY:          Yes, that's absolutely correct,
+
+20   Justice.
+
+21               JUSTICE SCALIA:               Good.
+
+22               JUSTICE BREYER:               What was your distinction
+
+23   between a mortgage and a tax lien?
+
+24               MR. HOWLEY:          I don't think there is a
+
+25   distinguished, a distinction between a mortgage and a
+
+
+                                          7
+
+                           Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   tax lien.
+
+ 2               JUSTICE BREYER:             Well, so think they can't
+
+ 3   enforce mortgage under this?             That is to say the bank
+
+ 4   can't; it's not an interest of property in mortgage?
+
+ 5               MR. HOWLEY:        No.       But Congress, Congress
+
+ 6   passed another exception here, 1605(a)(2) that said
+
+ 7   actions based upon commercial activity provide an
+
+ 8   exception to sovereign immunity and these exceptions
+
+ 9   have to be read together.          They have to be read --
+
+10               JUSTICE BREYER:             That's, that's where it's
+
+11   hard for me because a purchase money mortgage, you sell
+
+12   the real estate.   Ordinary secured interest in mortgage
+
+13   is secured interest by a lender is normally viewed as an
+
+14   interest in property, I think.              I mean is there, is
+
+15   there any law anywhere that says that isn't an interest
+
+16   in property?
+
+17               MR. HOWLEY:        Well, actually there is.           In
+
+18   the, in -- when the United States waived immunity from
+
+19   suit concerning real property it limited its waivers to
+
+20   liens and mortgages and not rights in property.              And so
+
+21   there has been distinctions made between mortgage liens
+
+22   and liens on the one hand and rights in property on the
+
+23   other.
+
+24               JUSTICE KENNEDY:            Well, on that point in
+
+25   some jurisdictions and perhaps you can tell me about New
+
+
+                                        8
+
+                         Alderson Reporting Company
+                       Official - Subject to Final Review
+
+
+ 1   York, I had thought and correct me if I'm wrong, that
+
+ 2   tax liens have a superior status to other liens in that
+
+ 3   they are an, an interest or an estate in the property as
+
+ 4   opposed to an attachment.
+
+ 5              Is it not true?             And I don't, and I'm not
+
+ 6   talking just about order of priority for creditors.                     I'm
+
+ 7   talking about the superiority insofar as being or not
+
+ 8   being an interest in property.
+
+ 9              MR. HOWLEY:        Well, yes.               It is superior to
+
+10   other types of liens.
+
+11              JUSTICE KENNEDY:            Yes.
+
+12              MR. HOWLEY:        It is an interest, a security
+
+13   interest in the property, but it is not a right in the
+
+14   estate of the property, and it doesn't give any type of
+
+15   the possession and ownership rights that every other
+
+16   right in property gives.
+
+17              JUSTICE KENNEDY:            Is there New York law to
+
+18   that effect?
+
+19              MR. HOWLEY:        Yes, there is.              And we have
+
+20   cited it in our brief.      The Respondent has attempted to
+
+21   distinguish it, because a Court of Claims jurisdictional
+
+22   act was passed that deemed a lien an interest in
+
+23   property for purposes of jurisdiction in the New York
+
+24   Court of Claims but the essential nature of a lien is
+
+25   not, under New York law, a right in the estate.
+
+
+                                       9
+
+                        Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1                 JUSTICE KENNEDY:           Because I had -- I had
+
+ 2   thought that it is an estate in land in at least some
+
+ 3   jurisdictions.    And Justice Breyer was asking about the
+
+ 4   same thing.    In other words, there are liens -- there
+
+ 5   are liens and liens.       There are different kinds of
+
+ 6   liens.
+
+ 7                 MR. HOWLEY:       There appears to be in
+
+ 8   different jurisdictions, different treatments of liens.
+
+ 9                 CHIEF JUSTICE ROBERTS:                Well, that brings up
+
+10   the basic question I have, is this a question of State
+
+11   law or Federal law?
+
+12                 MR. HOWLEY:       This is a question of Federal
+
+13   law.   This Court has held --
+
+14                 CHIEF JUSTICE ROBERTS:                So even if you have
+
+15   different rules in different States, there is going to
+
+16   be one rule under Federal law under 1605(a)(4)?
+
+17                 MR. HOWLEY:       Yes, that is correct, Mr. Chief
+
+18   Justice.   And this Court held in Saudi Arabia against
+
+19   Nelson and Argentina against Weltover that the exception
+
+20   language -- they are dealing with the commercial
+
+21   activities exception -- must have the meaning that
+
+22   Congress understood the restrictive theory of sovereign
+
+23   immunity to require at the time it passed the statute.
+
+24                 And so when defining what a right in
+
+25   immovable property in issue means, we have to give that
+
+
+                                        10
+                           Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   the meaning that the restrictive theory of sovereign
+
+ 2   immunity required at the time in 1976.                   And in 1976, no
+
+ 3   court here in the United States or anywhere in the world
+
+ 4   had held that sovereign immunity was abrogated merely by
+
+ 5   having a statutory lien on the property.
+
+ 6                JUSTICE SOUTER:            Had the State Department
+
+ 7   taken a position at that point, at the time the Act was
+
+ 8   passed?
+
+ 9                MR. HOWLEY:        There is -- not to my
+
+10   knowledge.    There is vague language in the testimony in
+
+11   the House report, general language about 1605(a)(4)
+
+12   relating to real property disputes, but there is not
+
+13   precise language about whether liens are or liens are
+
+14   not --
+
+15                JUSTICE GINSBURG:             There was nothing vague
+
+16   about the State Department's brief in the Englewood
+
+17   case.
+
+18                MR. HOWLEY:        No, there is not, Justice
+
+19   Ginsburg.    But they lost in Englewood.                 They lost and
+
+20   the Englewood Court relied on a D.C. Circuit decision.
+
+21   And I believe that the Solicitor General will say that
+
+22   they have reconsidered their position, they have
+
+23   reconsidered Article 29 of the European Convention,
+
+24   which they relied on heavily in the Englewood brief.
+
+25                JUSTICE GINSBURG:             But anyway, at a time
+
+
+                                        11
+                          Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   closer to the passage of the Act, the State Department
+
+ 2   was taking the position that a lien was an interest in
+
+ 3   land.
+
+ 4               MR. HOWLEY:        Yes, that is correct.           But they
+
+ 5   have since decided that that position was wrong.
+
+ 6               CHIEF JUSTICE ROBERTS:                 Well, they just may
+
+ 7   be more sympathetic to India and Mongolia than they were
+
+ 8   to Libya.
+
+ 9               JUSTICE SCALIA:            That's not beyond the realm
+
+10   of the conceivable, is it?
+
+11               MR. HOWLEY:        It's not beyond the realm of
+
+12   the conceivable.
+
+13               JUSTICE BREYER:            But I take it there has
+
+14   never been a case in the history of the world you'll
+
+15   tell me where a lender or bank or anybody who loaned
+
+16   money to build an embassy has ever brought a case
+
+17   against the owner of the embassy, the sovereign, and won
+
+18   under anything like this exception, because they can't
+
+19   sue them.
+
+20               MR. HOWLEY:        Not that we're aware of, and
+
+21   not that we've seen --
+
+22               JUSTICE BREYER:            Ever.       And there is none
+
+23   the other way, where they said you couldn't sue them.
+
+24               MR. HOWLEY:        Yes.
+
+25               JUSTICE BREYER:            Okay.       So why do people
+
+
+                                       12
+                         Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   lend money to build embassies?
+
+ 2                MR. HOWLEY:       Well, because once you lend
+
+ 3   money and you engage in commercial activity, if the
+
+ 4   claim is based upon the commercial activity, Congress
+
+ 5   had provided a separate section, 1605(a)(2) that
+
+ 6   protects the American citizen who has lent money to an
+
+ 7   embassy.
+
+ 8                JUSTICE BREYER:           And how did it work before
+
+ 9   1605 was passed, how did they used to build, in the 19th
+
+10   century, embassies, if you know.
+
+11                MR. HOWLEY:       I don't know about 19th century
+
+12   embassies.   I do know that since the Tate letter, which
+
+13   predates the Foreign Sovereign Immunities Act, there has
+
+14   been a commercial activity exception here in the United
+
+15   States.
+
+16                JUSTICE SCALIA:           Why isn't buying land that
+
+17   you're not using for your embassy itself, or for the
+
+18   residence of the ambassador, but buying and occupying
+
+19   that land which subjects yourself to real estate taxes
+
+20   on that land, why isn't that a commercial activity?
+
+21                MR. HOWLEY:       Well, this Court held in Saudi
+
+22   Arabia against Nelson that it's not just engaged in,
+
+23   related to commercial activity, but the cause of action,
+
+24   the claim has to be based upon commercial activity.
+
+25                JUSTICE SCALIA:           So the Indian embassy could
+
+
+                                       13
+                         Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   own real estate throughout New York City, which it
+
+ 2   wouldn't have to pay taxes on?               Or if it didn't, nothing
+
+ 3   could be done about it?
+
+ 4               MR. HOWLEY:         It depends on the use they put
+
+ 5   that property to.
+
+ 6               JUSTICE SCALIA:             Why?      No.    You're saying,
+
+ 7   you're saying it's not a commercial activity.                    I mean --
+
+ 8               MR. HOWLEY:         The mere ownership of the land
+
+ 9   is not --
+
+10               JUSTICE SCALIA:             It depends upon the use,
+
+11   and the use in this case is not -- is not the embassy
+
+12   itself or the residence of the ambassador.                  I mean, they
+
+13   could use a piece of property for anything.
+
+14               MR. HOWLEY:         As long as it's not commercial
+
+15   activity, it would not be taxed and --
+
+16               JUSTICE SCALIA:             But the buying and
+
+17   occupying of it is commercial activity.
+
+18               MR. HOWLEY:         Well, the buying of it, if the
+
+19   claim is based upon the buying of the property, under
+
+20   Saudi Arabia against Nelson, then the commercial
+
+21   activities exception would apply.                 But the mere
+
+22   ownership of the property is not commercial activity.
+
+23               JUSTICE KENNEDY:             Why isn't it commercial
+
+24   activity for New York to say, we provide garbage
+
+25   services, electric services, et cetera.
+
+
+                                        14
+                          Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1                 MR. HOWLEY:        Well, separate and apart from
+
+ 2   the jurisdictional issue, the Vienna Conventions do say
+
+ 3   that if there are fees for services provided, such as
+
+ 4   garbage collection, water, those types of services, then
+
+ 5   there is no immunity from the fees for those services.
+
+ 6   And those fees should be paid.                The separate issue of
+
+ 7   whether that's commercial activity, it may be.                It
+
+ 8   doesn't matter whether the city provides a service such
+
+ 9   as water, or a private entity provides a service such as
+
+10   water.    That may be commercial activity.
+
+11                 JUSTICE KENNEDY:            But they pay fees and New
+
+12   York taxes.     Suppose New York doesn't have fees.
+
+13   Suppose they say, we'll just do this out of our property
+
+14   tax.
+
+15                 MR. HOWLEY:        Well, no, that does not -- on
+
+16   the substantive issue of whether it's immune under the
+
+17   Foreign -- under the Vienna Conventions, a tax is
+
+18   immune.    They are immune from a tax, but they're not
+
+19   immune for a fee for service.               That is how the Vienna
+
+20   Conventions --
+
+21                 JUSTICE GINSBURG:             And in reality, you will
+
+22   never get there, because the Vienna Convention deals
+
+23   with the substantive liability -- you're talking about
+
+24   jurisdiction.     On your theory, you would never get to
+
+25   the fee for picking up the garbage, because you wouldn't
+
+
+                                         15
+                           Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   have any jurisdiction.
+
+ 2                 MR. HOWLEY:        No, Justice Ginsburg, not at
+
+ 3   all.     That's not my position.            Let me make my position
+
+ 4   clear.     If there is a fee for service provided, such as
+
+ 5   garbage collection, or provision of water, that would
+
+ 6   fall under the commercial activities exception.                       But if
+
+ 7   there is a tax, unless the activity at issue and the
+
+ 8   cause of action at issue is based upon the commercial
+
+ 9   activity, there is no jurisdiction.                       This does not mean
+
+10   --
+
+11                 JUSTICE GINSBURG:             The commercial activity,
+
+12   it's applied to that same building that you say can't
+
+13   be -- it can't be any suit for taxes.
+
+14                 MR. HOWLEY:        Yes.       There cannot be a suit
+
+15   for taxes.    There could be a suit for specific fees for
+
+16   services rendered.      But --
+
+17                 JUSTICE GINSBURG:             Even -- even if this, the
+
+18   building were only the mission and the representative,
+
+19   the minister to the U.N., even then --
+
+20                 MR. HOWLEY:        Yes.
+
+21                 JUSTICE GINSBURG:             -- the water of a
+
+22   municipal service, garbage collection, could be charged.
+
+23                 MR. BAKER:       Yes, Justice Ginsburg, just as
+
+24   if the Indian mission went out to a private water
+
+25   company and said, please supply me with water, the
+
+
+                                         16
+                           Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   private water company could sue, based on commercial
+
+ 2   activity, to collect for the water it had provided.                It
+
+ 3   doesn't matter if it's the city.
+
+ 4               JUSTICE GINSBURG:               Well, it's the city.   Not
+
+ 5   a private company, the city itself.
+
+ 6               MR. HOWLEY:          The nature of the activity
+
+ 7   doesn't change just because it's the city providing the
+
+ 8   water as opposed to a private entity providing the
+
+ 9   water.   We have to look at the nature of the activity.
+
+10               JUSTICE SCALIA:              Of course, this isn't a
+
+11   suit for the taxes.       I mean, we are not talking about a
+
+12   suit for the taxes.
+
+13               MR. HOWLEY:          We are here --
+
+14               JUSTICE SCALIA:              We are talking about a
+
+15   declaration as to the interest in the land.
+
+16               MR. HOWLEY:          No.      No, Justice Scalia.
+
+17   Absolutely not.   Joint Appendix page 78 is the city's
+
+18   amended complaint.      And even in their foreclosure claim,
+
+19   even in their foreclosure claim, what they ask is for a
+
+20   judgment of foreclosure directing that the Defendant pay
+
+21   the amount of taxes, interest and other charges due.
+
+22   They are not asking for an interest in the property.
+
+23               All this case is about is money.               It's not
+
+24   about rights in the property.               And there is a very big
+
+25   problem with allowing a claim for money to become a
+
+
+                                         17
+                           Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   right in property merely by having a local law passed
+
+ 2   that converts the claim into a lien.                     The City of New
+
+ 3   York tomorrow could pass a law that said, if you don't
+
+ 4   pay your parking tickets, that is automatically
+
+ 5   converted into a lien on the property.                     And then while
+
+ 6   we can't sue you for the parking tickets, we have
+
+ 7   created a right in your property.
+
+ 8                 JUSTICE GINSBURG:            You could easily say
+
+ 9   there has to be a relationship to the property itself.
+
+10                 MR. HOWLEY:       Well, that's not -- that's not
+
+11   what the City's position is.             The City's position is a
+
+12   lien is an interest in property and falls within the
+
+13   statute.   And Congress didn't write in the statute
+
+14   arising out of, related to.             It said, rights in the
+
+15   property are an issue.        So if under the City's theory,
+
+16   if they passed a lien law tomorrow converting all
+
+17   parking tickets into liens on property, then their
+
+18   position is they could sue us for parking tickets.                    And
+
+19   if there are no further questions, I will reserve the
+
+20   rest of my time.
+
+21                 CHIEF JUSTICE ROBERTS:                Thank you,
+
+22   Mr. Howley.
+
+23                 Mr. Srinivasan.
+
+24                 ORAL ARGUMENT OF SRI SRINIVASAN
+
+25                 ON BEHALF OF THE UNITED STATES,
+
+
+                                        18
+                          Alderson Reporting Company
+                       Official - Subject to Final Review
+
+
+ 1          AS AMICUS CURIAE, SUPPORTING PETITIONERS
+
+ 2              MR. SRINIVASAN:            Thank you, Mr. Chief
+
+ 3   Justice, and may it please the Court:
+
+ 4              An action to determine whether property
+
+ 5   taxes are owed is not a case in which rights of
+
+ 6   immovable property are an issue, and it's not
+
+ 7   transformed into such a case by attaching a lien, and
+
+ 8   recharacterizing the case as one to determine the
+
+ 9   validity of the lien.
+
+10              And I'd like to begin by picking up, Justice
+
+11   Ginsburg, on the question you just asked, because I
+
+12   think it's very important to emphasize that under
+
+13   Respondent's lien-based theory, that theory has the
+
+14   potential largely to eviscerate the other exceptions in
+
+15   the FSIA in the following sense:              Respondent's theory
+
+16   doesn't turn in any way on the nature or source of the
+
+17   debt that's secured by the lien.
+
+18              So under Respondent's view, the fact that
+
+19   this case involves a debt that arises out of property
+
+20   taxes is largely beside the point.                The load bearing
+
+21   weight of that theory rests entirely on the supposed
+
+22   effects of the lien on the property.                   And so for
+
+23   example, you could have a case in which a commercial
+
+24   activity is brought into play, where the plaintiff sues
+
+25   a foreign sovereign for commercial activity that occurs
+
+
+                                      19
+                        Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   --
+
+ 2               JUSTICE SCALIA:              That's always brought up to
+
+ 3   answer the problem, well, you know -- let me give you a
+
+ 4   case in which it obviously is not a commercial activity,
+
+ 5   but it seems to me that the -- that the lien interest
+
+ 6   has to be honored.      Let's suppose that there is an
+
+ 7   American who is very friendly to and sympathetic with
+
+ 8   the Indian government, and gives them real estate, not a
+
+ 9   commercial activity, he gives them real estate in which
+
+10   to house the employees in -- in their mission.
+
+11               However, he retains an interest in that real
+
+12   estate.   He retains a lien on the real estate, to have
+
+13   money paid to him at some point.                 He is not willing to
+
+14   give the full amount of the property, but most of it.
+
+15   And he retains a lien.         Now, under your theory, that
+
+16   lien would not be enforceable, is that right?
+
+17               MR. SRINIVASAN:              Well, the lien wouldn't
+
+18   constitute a right in the property, and that's
+
+19   consistent with what -- the way this Court has always
+
+20   described liens.   As we point out in pages 21 and 22 of
+
+21   our brief, the Court has said --
+
+22               JUSTICE SCALIA:              Enforceable or not.
+
+23               MR. SRINIVASAN:              The lien would not be
+
+24   enforceable against a foreign sovereign, because -- at
+
+25   least with respect to the immovable property.
+
+
+                                         20
+                           Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1                 JUSTICE SCALIA:            That seems very strange to
+
+ 2   me.
+
+ 3                 MR. SRINIVASAN:            We are only talking about
+
+ 4   the immovable property exception.                  And with respect to
+
+ 5   that exception, this Court has expounded that a lien on
+
+ 6   land constitutes no property or right in the land
+
+ 7   itself.     And it said that on more than one occasion.
+
+ 8                 CHIEF JUSTICE ROBERTS:                 I thought that the
+
+ 9   Department submitted a good brief on this issue, but in
+
+10   1985.   What do you do with all the arguments -- I'm
+
+11   looking at page 12 of your brief in the Englewood case,
+
+12   which you argued that these liens were interests in
+
+13   property.    Are those arguments no longer valid?
+
+14                 MR. SRINIVASAN:            Well, we, of course,
+
+15   reviewed our position in that case, and we have come to
+
+16   the conclusion that it was incorrect.                     And in the
+
+17   Englewood case, that argument was the third argument in
+
+18   the brief.    The first two arguments in the brief were
+
+19   more along the lines of the Court of Appeals decision.
+
+20                 JUSTICE KENNEDY:            Well, what about the
+
+21   argument that it was an interest in property.                     The brief
+
+22   was very clear that it is an interest in property, and
+
+23   that a tax lien is almost sui generis, in that it is an
+
+24   estate in the property.
+
+25                 MR. SRINIVASAN:            I don't --
+
+
+                                         21
+                           Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1               JUSTICE KENNEDY:            It survives bona fide --
+
+ 2   it survives bona fide purchaser without notice?
+
+ 3               CHIEF JUSTICE ROBERTS:                 The other reasons
+
+ 4   you gave, the holder of a lien can bring an action to
+
+ 5   enjoin waste, holders of liens are entitled to
+
+ 6   compensation if eminent domain is exercised.                 All of
+
+ 7   those reasons are still as valid as they were in 1985.
+
+ 8               MR. SRINIVASAN:            Well, let me try to take up
+
+ 9   some of those in order.        First with respect to the
+
+10   question of whether holders of a lien are entitled to
+
+11   compensation in eminent domain, we don't take issue with
+
+12   the proposition that a lien is property.                A lien is
+
+13   property, but the question under the statute is whether
+
+14   a lien confers a right in the underlying immovable
+
+15   property.   And so in an eminent domain proceeding it may
+
+16   just be that just compensation is owed to a lien holder
+
+17   because to the extent that the eminent domain proceeding
+
+18   takes that lien there's compensation owed for that
+
+19   property.   But that doesn't --
+
+20               JUSTICE SCALIA:            What property is it a right
+
+21   in if not the immovable property?
+
+22               MR. SRINIVASAN:            Well, it's --
+
+23               JUSTICE SCALIA:            And it follows that
+
+24   immovable property and when the immovable property
+
+25   disappears the lien disappears.              You know, if it's blown
+
+
+                                       22
+                         Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   away or flooded, it's now in the Atlantic; the lien is
+
+ 2   gone.
+
+ 3              MR. SRINIVASAN:               Well, I think --
+
+ 4              JUSTICE SCALIA                 :    But otherwise wherever
+
+ 5   the property goes the lien follows it.                      How can you say
+
+ 6   that that's not an interest in the property?
+
+ 7              MR. SRINIVASAN:               Well, I don't think it's a
+
+ 8   right in property, Justice Scalia.                   The lien is a
+
+ 9   species of property, of intangible personal property, in
+
+10   the same sense that a cause of action would be, because
+
+11   after all what a lien is is essentially at bottom a
+
+12   claim.
+
+13              CHIEF JUSTICE ROBERTS:                    Well, how can the,
+
+14   how can the lien holder then bring an action to enjoin
+
+15   waste of the immovable property?
+
+16              MR. SRINIVASAN:               Well, a lien holder can
+
+17   bring an action to enjoin waste, but it's important to
+
+18   understand what interest the lien holder is protecting
+
+19   in that situation.      An action for waste by a lien holder
+
+20   is to protect the security interest.                      It's different
+
+21   from an action for waste by someone who holds a right in
+
+22   the property.   And New York law appears to recognize
+
+23   this because New York I think has two species of waste
+
+24   actions, one brought by a security interest holder and
+
+25   one brought by the holder of property rights.                      There's a
+
+
+                                         23
+                           Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   case, Travelers Insurance, in which the Second Circuit
+
+ 2   reviewed New York law in this matter -- it's at 14 F.3d
+
+ 3   114 -- and describes how there's two species of waste
+
+ 4   actions depending on which sort of plaintiff you have in
+
+ 5   issue.   And that recognizes that the interest, if you
+
+ 6   will, that a lien holder has in the property, is
+
+ 7   different from a right in the property.
+
+ 8                 JUSTICE BREYER:            What about paragraph 3 just
+
+ 9   after paragraph 2 in the complaint?                       Paragraph 3 asks
+
+10   the court to bar and forever foreclose the defendants
+
+11   from all right, interest, claim, etcetera in the parcel.
+
+12   Well, what about that?         What they're asking, I just
+
+13   heard it.     So what's the answer to that?                   They seem to
+
+14   be saying, we have the right to the parcel, you the
+
+15   defendant have no right to the parcel.
+
+16                 MR. SRINIVASAN:            Well, I don't -- you'd have
+
+17   to ask Respondent's counsel exactly what they mean by
+
+18   that.
+
+19                 JUSTICE BREYER:            Well, I did in part, so he
+
+20   can answer.
+
+21                 MR. SRINIVASAN:            Because Respondents have
+
+22   repeatedly indicated in this case and in the court of
+
+23   appeals and in this Court that they can't foreclose on
+
+24   the property and so they've abandoned any claim for
+
+25   foreclosure.     And a foreclosure action wouldn't result
+
+
+                                         24
+                           Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   in the property being deeded to Respondent.              It would be
+
+ 2   put up for sale and a third party would purchase it.              So
+
+ 3   I'm not -- I can't tell you exactly what that paragraph
+
+ 4   means.
+
+ 5                JUSTICE GINSBURG:             In a very practical way,
+
+ 6   you're expressing that right means ownership means
+
+ 7   ownership.    But the title is certainly impaired by this
+
+ 8   lien.    India could not turn around and sell it to anyone
+
+ 9   without doing something to discharge the, lien right?
+
+10                MR. SRINIVASAN:            Well --
+
+11                JUSTICE GINSBURG:             So the title is certainly
+
+12   clouded by this lien.
+
+13                MR. SRINIVASAN:            Well, I think liens
+
+14   generally constitute clouds on title, but the fact that
+
+15   something's a cloud on title doesn't make it a right in
+
+16   the property.   And I could give you one other example.
+
+17                JUSTICE SCALIA:            It doesn't have to be a
+
+18   right in the property.        If you look at it from the
+
+19   owner's point of view, it is a cloud on the owner's
+
+20   title in the property.        It affects the owner's title.
+
+21   Even if you assert that it doesn't give any title to the
+
+22   lien holder, it impairs the title of the property owner.
+
+23   And that's all that's required, as I read the title, in
+
+24   which rights in immovable property are an issue, and
+
+25   here the question is whether the, the mission's right to
+
+
+                                        25
+                          Alderson Reporting Company
+                       Official - Subject to Final Review
+
+
+ 1   the property is, is impaired by this lien.
+
+ 2              MR. SRINIVASAN:            I think our arguments apply
+
+ 3   equally both to the lien holder and to the property
+
+ 4   owner, Justice Scalia, in the following sense, that with
+
+ 5   respect to both of them a lien -- the lien doesn't
+
+ 6   affect rights of possession, it doesn't affect the right
+
+ 7   to exclude others, which this Court has characterized as
+
+ 8   the most fundamental of property rights.               It doesn't
+
+ 9   affect the right to receive income from the property.
+
+10              JUSTICE SCALIA:            It affects the right to
+
+11   convey the property free and clear, which is an enormous
+
+12   right that goes along with the real estate.
+
+13              MR. SRINIVASAN:            Well, it has a practical
+
+14   consequence on conveyance because it, as Justice
+
+15   Ginsburg said, amounts to a cloud on title.              But there
+
+16   are other instruments that result in a cloud on title
+
+17   but that wouldn't be considered rights in property.                 One
+
+18   example would be a contract, a purchase option contract
+
+19   to purchase property.     The holder of a purchase option
+
+20   wouldn't be considered to have a right in the property
+
+21   unless and until the option was exercised.              At least
+
+22   that's the general rule, even though the purchase
+
+23   contract in a sense constitutes a cloud on the title in
+
+24   the same way that a lien might constitute a lien on the
+
+25   title.
+
+
+                                      26
+                        Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1               JUSTICE GINSBURG:             How long did the United
+
+ 2   States take the opposite position and when did it
+
+ 3   change?
+
+ 4               MR. SRINIVASAN:            I'm sorry?
+
+ 5               JUSTICE GINSBURG:             How long did the United
+
+ 6   States adhere to the position that's reflect in the
+
+ 7   Englewood brief and when did it change?
+
+ 8               MR. SRINIVASAN:            Well, I'm not aware that we
+
+ 9   took the position before the Englewood brief, so I think
+
+10   that would be 1985.     And I don't think we've had
+
+11   occasion to revisit that position until this case.
+
+12               And let me point out with respect to the
+
+13   Englewood brief, the first two points made in that brief
+
+14   were along the lines of the court of appeals reasoning
+
+15   in this case, which was to the effect that a statute
+
+16   that refers to a right in immovable property encompasses
+
+17   obligations arising out of immovable property.            And
+
+18   Respondent doesn't attempt to defend that position, but
+
+19   that's the predicate on which our Englewood brief
+
+20   rested.   And so we think there's good cause for us to
+
+21   revisit our position from that case.
+
+22               Now, with respect to the question of whether
+
+23   a lien establishes rights in property, which is now the
+
+24   focus of Respondent's argument, I would point out that
+
+25   in other areas of the law the Court has looked to
+
+
+                                       27
+                           Alderson Reporting Company
+                       Official - Subject to Final Review
+
+
+ 1   questions concerning whether there is a right to exclude
+
+ 2   others, whether there is a right to obtain income from
+
+ 3   the property, whether there is a right to assert
+
+ 4   possession of the property.           That's, for example, the
+
+ 5   types of considerations this Court takes into account in
+
+ 6   the tax area in assessing whether a Federal tax lien can
+
+ 7   attach to a property by virtue of the fact that there is
+
+ 8   a right to property at stake.            And we think the same
+
+ 9   sorts of consideration should inform the Court's
+
+10   assessment of the immovable property exception in this
+
+11   case.
+
+12              JUSTICE SCALIA:            What about an easement?
+
+13   That doesn't involve any of those things.                You can't
+
+14   exclude people and so forth.
+
+15              MR. SRINIVASAN:            Well, an easement I think
+
+16   would qualify as a right in property because at least
+
+17   your standard easement would provide a right of access
+
+18   to the property by a thoroughfare.                And so both sides
+
+19   would be affected in their use of the property in that
+
+20   sense.
+
+21              CHIEF JUSTICE ROBERTS:                 Thank you, Counsel.
+
+22              Mr. Cardozo.
+
+23             ORAL ARGUMENT OF MICHAEL A. CARDOZO
+
+24                      ON BEHALF OF THE RESPONDENT
+
+25              MR. CARDOZO:         Mr. Chief Justice and may it
+
+
+                                      28
+                        Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   please the Court:
+
+ 2                 There are three reasons this case puts in
+
+ 3   issue rights in immovable property:                       First, the plain
+
+ 4   language of the statute; second, the statute's purpose
+
+ 5   and legislative history; and third, international
+
+ 6   practice as it existed in 1976.
+
+ 7                 JUSTICE SCALIA:            Mr. Cardozo, before you go
+
+ 8   any further, I had been under the impression from your
+
+ 9   brief that you're not trying to enforce anything
+
+10   against, against India or against the mission.                      You just
+
+11   said you wanted a declaratory judgment that the lien is
+
+12   a valid lien.     But, but here it is in your complaint
+
+13   you're asking for foreclosure.                Which, which is it?
+
+14                 MR. CARDOZO:         Justice Scalia, we know that
+
+15   Section 1610 would preclude us from actually
+
+16   foreclosing.     We're not allowed to do that.                   There's no
+
+17   question about that.
+
+18                 JUSTICE SCALIA:            You just asked for it to
+
+19   scare them?     Was that it?
+
+20                 MR. CARDOZO:         No.      We do want, as the
+
+21   discussion preceding me highlighted, we do want to get
+
+22   in and take what we think is, as a practical matter, is
+
+23   our property.     But we can't.           We understand that.          So
+
+24   what we're, what we're saying in our complaint in
+
+25   paragraph 3, as Justice Breyer pointed out, is we would
+
+
+                                         29
+                           Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   like to bar them from holding title.                      But as we quickly
+
+ 2   conceded as soon as we filed the action, we can't
+
+ 3   foreclose because of the provisions of Section 1610.
+
+ 4   But it doesn't mean that the fact that we can't
+
+ 5   foreclose doesn't mean that we don't have a right in
+
+ 6   property.    Let me give you a very good illustration.                    If
+
+ 7   there is a possessory dispute, someone, an embassy,
+
+ 8   rented premises and agreed that if they didn't pay the
+
+ 9   rent they would lose their ability to continue to occupy
+
+10   the premises and they failed to pay rent, that's a title
+
+11   dispute.    The person who rented the property would bring
+
+12   a suit saying:    I have a right to get back into my
+
+13   property and there is clearly a right in property in
+
+14   Section 1605.     I can't believe that Congress said, that
+
+15   Congress intended to say, well, you can bring an action
+
+16   for nonpayment of rent and seek possession except for
+
+17   1610, that's okay.      There's jurisdiction in an action
+
+18   for rent, but if you want possession of property because
+
+19   you haven't paid your taxes, and of course you still
+
+20   can't foreclose, there's no jurisdiction.                     That doesn't
+
+21   make any sense.
+
+22                JUSTICE SCALIA:             Well, but they'll say as
+
+23   was their response to a lot of hypotheticals, the
+
+24   commercial act exception covers that.
+
+25                MR. CARDOZO:          Your Honor, it may or may not
+
+
+                                         30
+                           Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   cover the commercial act exception.                       And going back to a
+
+ 2   question that Justice Breyer asked, there are, there are
+
+ 3   cases, not in the United States, but -- and we're citing
+
+ 4   some of them in footnote 24 in the red brief -- that
+
+ 5   when someone, not the commercial property exception,
+
+ 6   someone lent money to, to build an embassy and they
+
+ 7   defaulted on the mortgage, the German court said
+
+ 8   jurisdiction.   It's not a question of enforcement, but
+
+ 9   jurisdiction.
+
+10               The reason for this is if you first look at
+
+11   the language of the statute, the language of the statute
+
+12   doesn't say only certain kinds of rights.                      It says all
+
+13   rights in property if they're in issue.
+
+14               We believe that we have a right in the
+
+15   Indian and Mongolia premises.               We --
+
+16               JUSTICE BREYER:              The problem that actually
+
+17   is bothering me with your side of the case which I find
+
+18   difficult is, suppose I accept this principle that you
+
+19   have.   All right, it seems to me anything at all can be
+
+20   reduced to a lien, any judgment, at least certainly slip
+
+21   and fall cases and you didn't keep the ice up in front
+
+22   and I want $4 million damages plus 300 million in
+
+23   punitives and where it is I have a lien against the
+
+24   embassy here.   And I can't think of a distinction once I
+
+25   go down your road.      I mean, he at least has an absolute
+
+
+                                         31
+                           Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   distinction which I can see, but once I go down your
+
+ 2   road where is the stopping place?                What's the principle?
+
+ 3               MR. ROBERTS:         Let me try, Justice Breyer.
+
+ 4   First of all, if there was a judgment on that
+
+ 5   hypothetical tort action that you just mentioned, if
+
+ 6   there were a judgment you wouldn't have gotten the
+
+ 7   judgment in the first place unless you had originally
+
+ 8   come within --
+
+ 9               JUSTICE BREYER:            I'm imagining a city or
+
+10   Belarus or someplace where what they do is they say slip
+
+11   and fall on ice -- you know, you get a lien against the
+
+12   property prior to -- okay.          I mean, it's easy to imagine
+
+13   that kind of thing.
+
+14               MR. ROBERTS:         Yes.
+
+15               JUSTICE BREYER:            And in a range of subject
+
+16   matters.   So I'm looking to what the stopping place is
+
+17   once I start down your road.
+
+18               MR. ROBERTS:         And the stopping place I think
+
+19   is a Federalism concept and a due process concept,
+
+20   because as this Court has held in a number of cases,
+
+21   there's a real due process question if liens are created
+
+22   with no concern about the effect on the defendant.               You
+
+23   have to take a look at the interest of the so-called
+
+24   plaintiff and you have to find whether there is a
+
+25   relationship between the lien and the underlying claim.
+
+
+                                       32
+                           Alderson Reporting Company
+                       Official - Subject to Final Review
+
+
+ 1   Now --
+
+ 2              JUSTICE SCALIA:            Why didn't you just say --
+
+ 3   you know, if you're worried about the malevolence of
+
+ 4   countries to make all sorts of stuff liens, I guess if
+
+ 5   they're malevolent enough they can make all sorts of
+
+ 6   stuff easements, which, which the other side says is
+
+ 7   undoubtedly a property interest.              So they could say
+
+ 8   that, you know, if you're held liable the court can give
+
+ 9   you an easement over the property of, of the defendant
+
+10   worth so much money.     And that would undoubtedly be
+
+11   enforceable.
+
+12              MR. CARDOZO:         Justice Scalia, they did say
+
+13   that and certainly if an easement is a right in
+
+14   property, either because of the hypothetical you just
+
+15   gave or a traditional easement, there is nothing
+
+16   different with a tax lien.         In fact, a tax lien is a
+
+17   much greater interest.
+
+18              JUSTICE BREYER:            I still have my question
+
+19   because I'm not world about malevolence, is that I don't
+
+20   carry around in my head all of the possible things that
+
+21   might be liens against property.              And so maybe my
+
+22   imagination is wrong, but I want to know are you are
+
+23   arguing that every lien against the property is in fact
+
+24   a right in property which allows a lawsuit, or are you
+
+25   arguing that there is some distinction between some and
+
+
+                                      33
+                        Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   the other.   And I noticed that the Restatements and
+
+ 2   others are trying to distinguish between whether the
+
+ 3   lien in question grows out of the property or it doesn't
+
+ 4   grow out of the property, which I find possibly hard to
+
+ 5   work with and so I want to know how you see it.
+
+ 6                MR. CARDOZO:        And what I see, Justice
+
+ 7   Breyer, is when you take a look at the cases in this
+
+ 8   Court such as Connecticut against Doehr and the other
+
+ 9   cases which put limits, the constitutional limits on
+
+10   liens, of course if a State passed a statute that runs
+
+11   afoul of the various due process concerns that this
+
+12   Court has articulated that is certainly one check that
+
+13   we have.
+
+14                JUSTICE GINSBURG:            Well, let's take the
+
+15   parking ticket that your colleague raised, that New York
+
+16   would make a parking ticket a lien, unpaid parking
+
+17   ticket a lien on all, all property.
+
+18                MR. CARDOZO:        Justice Ginsburg, I think that
+
+19   would be a hard question, but if it does not run afoul
+
+20   of the constitutional concerns that I just articulated
+
+21   and it was a lien applicable not just of course to
+
+22   foreign sovereigns, but to any unpaid parking ticket --
+
+23                JUSTICE GINSBURG:            Yes, yes.
+
+24                MR. CARDOZO:        -- I think that then that
+
+25   would come within the immovable property exception.
+
+
+                                       34
+                         Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1                 JUSTICE SOUTER:            So the only thing they
+
+ 2   would have to do I suppose -- you've mentioned the due
+
+ 3   process point -- would be to perhaps give a hearing
+
+ 4   before the lien was declared and that would be enough?
+
+ 5                 MR. CARDOZO:         I think, I think it certainly
+
+ 6   would, Justice Souter, if in fact there was a hearing.
+
+ 7                 JUSTICE SOUTER:            Well, provided that,
+
+ 8   provided notice of hearing was offered, the parking
+
+ 9   ticket lien would be in the same position as this lien,
+
+10   right -- the hearing.
+
+11                 MR. CARDOZO:         I think that's right.     I think
+
+12   that's right.     And so --
+
+13                 JUSTICE KENNEDY:            And under New York law
+
+14   does property, do property tax liens have some superior
+
+15   status?     Are they distinct under New York law from other
+
+16   liens?
+
+17                 MR. CARDOZO:         Well, they're -- as tax liens
+
+18   you may get into a priority fight in a bankruptcy
+
+19   context.
+
+20                 JUSTICE KENNEDY:            Without reference to
+
+21   priority.
+
+22                 MR. CARDOZO:         I don't believe that they
+
+23   would have any different lien, any different status,
+
+24   although my colleague corrects me and says that yes, tax
+
+25   liens -- tax liens do have in certain circumstances a
+
+
+                                         35
+                           Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   greater priority.    It's hard to think through exactly
+
+ 2   where that issue would be.
+
+ 3               JUSTICE KENNEDY:             I -- I had thought they
+
+ 4   had a greater priority and that they even survived
+
+ 5   purchase from bona fide sellers.
+
+ 6               MR. CARDOZO:          That certainly, that is
+
+ 7   certainly true and a property -- excuse me for
+
+ 8   interrupting -- a tax lien would run forever with no
+
+ 9   time limit, for example, whereas a mechanics lien has a
+
+10   statutory time on it.       If you got into a dispute about
+
+11   those two liens obviously the tax lien would have --
+
+12   would have priority.
+
+13               JUSTICE STEVENS:             May I ask -- may I ask
+
+14   this question?   Suppose another jurisdiction had a tax
+
+15   system which was just a little different from New York's
+
+16   and didn't provide for a lien until after a suit had
+
+17   been brought and there had been a failure to pay or had
+
+18   to get a judgment first.          On that case, that
+
+19   jurisdiction could not enforce this tax law?
+
+20               MR. CARDOZO:          That is correct, Justice
+
+21   Stevens.
+
+22               JUSTICE STEVENS:             And don't you think it's
+
+23   sort of a strange way to define a tax immunity, by --
+
+24   by, by describing the -- the interest in immovable
+
+25   property?
+
+
+                                        36
+                          Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1               MR. CARDOZO:          Well, we start off with the
+
+ 2   statutory language and the statutory language says right
+
+ 3   in property.    We are not talking about the abstract
+
+ 4   right to tax.
+
+ 5               JUSTICE STEVENS:             But, but the basic issue
+
+ 6   in final analysis is whether they have to pay their
+
+ 7   taxes, isn't it?
+
+ 8               MR. CARDOZO:          I'm sorry.
+
+ 9               JUSTICE STEVENS:             The ultimate issue is
+
+10   whether they have to pay their taxes.
+
+11               MR. CARDOZO:          The ultimate substance --
+
+12   underlying substantive issue is that but -- and of
+
+13   course, the State Department even today says these taxes
+
+14   should be paid.    But the jurisdictional issue is whether
+
+15   there is a right in property.              And so if you just -- if
+
+16   you don't create a lien, if a particular State did not
+
+17   create a lien, that would not give you the right, which
+
+18   is what the statute, statutory language says.
+
+19               JUSTICE SCALIA:             Do you know any States that
+
+20   don't?   Isn't it fairly standard?                For --
+
+21               MR. CARDOZO:          I believe -- I believe it is
+
+22   fairly standard, Justice Scalia.
+
+23               JUSTICE SCALIA:             Yeah.
+
+24               MR. CARDOZO:          I -- there may be one out of
+
+25   50 States that, that don't say this.                     I think --
+
+
+                                        37
+                          Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1               JUSTICE SOUTER:            May, may I just ask, for a
+
+ 2   kind of a footnote kind of question?                    I mean you
+
+ 3   referred again to the text.            And if we are going to go
+
+ 4   on a very strict reading of the text as I understand it,
+
+ 5   you don't have to claim a right in property, you have to
+
+ 6   have a claim in -- in which someone's rights in
+
+ 7   immovable property are in issue.               So whether the, the --
+
+ 8   and so long as you create a cloud on the title, however
+
+ 9   that cloud is classified, it puts in issue the title of
+
+10   the named title holder, so that the debates about the
+
+11   distinction between a lien and easement and so forth is
+
+12   essentially irrelevant as long as it's a cloud on the
+
+13   title.   If we are going to be that, if we are going to
+
+14   be literal, isn't that so?
+
+15               MR. CARDOZO:         I, I agree with that.               And
+
+16   here today the right that India and Mongolia claim in
+
+17   their property is in issue, because we say you do not
+
+18   have the full right to your property and if this lien
+
+19   runs long enough, it's going to wipe out the value of
+
+20   their property completely.          And all the statute, the
+
+21   statute doesn't say as the European Convention says the
+
+22   foreign sovereign's right in property.                   The statute says
+
+23   either -- in effect, either side's right in property.
+
+24               JUSTICE SOUTER:            Yeah.
+
+25               MR. CARDOZO:         And I think we can also get a
+
+
+                                       38
+                         Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   great deal of help by looking --
+
+ 2              JUSTICE SCALIA:              The -- the -- the European,
+
+ 3   the European treaty looks at it from the other side,
+
+ 4   you're saying.    It looks at it from the foreign
+
+ 5   sovereign side.
+
+ 6              MR. CARDOZO:           The European Convention
+
+ 7   phrased differently looks at it from both sides, Justice
+
+ 8   Scalia, which is why they needed the words obligation.
+
+ 9   If you look at Article 9 of the European Convention it
+
+10   first talks about the foreign sovereign's right or
+
+11   interest in property, and then it says "or the foreign
+
+12   sovereign's obligations arising out of that property."
+
+13   That's a different phrase than the FSIA which doesn't
+
+14   use the word foreign sovereign; it says "its" rights in
+
+15   property have to be an issue.              So you didn't need to
+
+16   encompass all the language of the European Convention.
+
+17              JUSTICE SCALIA:              Would the obligations
+
+18   arising out of the property in the European Convention
+
+19   include the obligation to pay taxes, property taxes?
+
+20              MR. CARDOZO:           It would include a controversy
+
+21   over that absolutely.       And let, let me talk about the
+
+22   international practice because we should take a look at
+
+23   international practice to -- to guide us.
+
+24              What was the practice in 1976?                Well, first
+
+25   of all we know that the restatement second and comment
+
+
+                                        39
+                          Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   in paragraph 68 says disputes over rights or interest in
+
+ 2   property.     And the restatement third, which was
+
+ 3   concededly a few years after the 1976 adoption of the
+
+ 4   statute, makes it perfectly clear.                   It says it
+
+ 5   explicitly.     But where did the restatement --
+
+ 6                 JUSTICE SCALIA:            This says what explicitly?
+
+ 7                 MR. CARDOZO:         Says that there is
+
+ 8   jurisdiction over tax claim.              Section 455 of -- of
+
+ 9   restatement third.
+
+10                 CHIEF JUSTICE ROBERTS:                 Over tax liens or
+
+11   claims?
+
+12                 MR. CARDOZO:         Over tax claims.          Excuse me,
+
+13   Chief -- Mr. Chief Justice.
+
+14                 CHIEF JUSTICE ROBERTS:                 And you don't go
+
+15   that far.
+
+16                 MR. CARDOZO:         That -- we don't have to go
+
+17   that far because we believe we, as a -- we have a right
+
+18   in property arising from the lien.                   Now let's look at
+
+19   the foreign cases before we get to the European
+
+20   Convention and we cite a number of them in footnote 24.
+
+21   There is for example the case I referred to in response
+
+22   to Justice Breyer, a suit over a mortgage.                   A suit over
+
+23   a mortgage.    It's not the commercial exception; a suit
+
+24   over a mortgage.
+
+25                 There is a case in England in 1975 which
+
+
+                                         40
+                           Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   analyzes broadly what's the meaning of this real
+
+ 2   property exception.      And that case in England which we
+
+ 3   cite says a security interest, a suit over security
+
+ 4   interest for a mortgage, there is jurisdiction within
+
+ 5   the immovable property exception.
+
+ 6                 There is a large number of cases.                   You look
+
+ 7   at the Harvard Review of 1932, the status of the law at
+
+ 8   that time, extensive review of all the relevant cases,
+
+ 9   says the same thing.       Then that brings us to the
+
+10   European Convention which was adopted shortly before the
+
+11   FSIA and which the State Department told Congress was
+
+12   consistent with the FSIA.
+
+13                 JUSTICE KENNEDY:           Is this the Vienna
+
+14   Convention?
+
+15                 MR. CARDOZO:        Pardon me?             No, the European
+
+16   Convention.
+
+17                 JUSTICE KENNEDY:           European Convention.
+
+18                 MR. CARDOZO:        Right.        And the European
+
+19   Convention in Article 9 as I say has a very broad
+
+20   immovable property exception.              I'm not looking just at
+
+21   the language.    I'm looking at what does this convention
+
+22   reflect as far as international practice was at the
+
+23   time?   And that practice at the time as reflected by the
+
+24   convention, as reflected by these cases, all say that
+
+25   there is a very broad immovable property exception that
+
+
+                                        41
+                           Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   should cover this kind of dispute.
+
+ 2                 Now let me make one, one or two final
+
+ 3   points.   If this --
+
+ 4                 CHIEF JUSTICE ROBERTS:                Well, the -- the
+
+ 5   convention used language quite different than that was
+
+ 6   used by Congress.    So I'm not quite sure how that
+
+ 7   international practice reflected in or arising out of
+
+ 8   the convention is terribly pertinent.
+
+ 9                 MR. CARDOZO:        I'm not, Mr. Chief Justice,
+
+10   I'm not talking just about the language.                  I'm talking
+
+11   about the European, the international practice as
+
+12   reflected by that convention because the 1976
+
+13   legislative history of the FSIA says we are trying to
+
+14   conform United States practice into the, the practice
+
+15   that is followed internationally.                 And I --
+
+16                 CHIEF JUSTICE ROBERTS:                And in some cases
+
+17   they used language directly from the convention and in
+
+18   this case they didn't so it seems to me a particularly
+
+19   ill-advised source for looking for what they were trying
+
+20   to do.
+
+21                 MR. CARDOZO:        Then I would say where did
+
+22   they get that source from?           And that's where I cite the,
+
+23   first the international cases themselves which reflect
+
+24   as of 1976 the same philosophy reflected by the European
+
+25   Convention.    There is no question that the wording is
+
+
+                                        42
+                            Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   different.    I'm not, I'm not disputing that.           What I'm
+
+ 2   saying is that wording conveys an intent from the
+
+ 3   international point of view to have the broad parameters
+
+ 4   of an international, of an immovable property exception
+
+ 5   and that was consistent with the international cases
+
+ 6   that have been decided at that time.
+
+ 7                 JUSTICE STEVENS:           Did their practice draw a
+
+ 8   distinction between occupied by the ambassador himself
+
+ 9   and property occupied by employees of the embassy?
+
+10                 MR. CARDOZO:        As a substantive matter,
+
+11   Justice Stevens, the answer to that question is of
+
+12   course yes.    Because the Vienna convention in Article 20
+
+13   -- 23 says that the premises of -- of the mission may
+
+14   not be, may not be taxed.           And then you look at Article
+
+15   1 to look at what is the meaning of premises of the
+
+16   mission and they talk about where the business of the
+
+17   mission is conducted, or where the ambassador resides.
+
+18   It doesn't talk about the rest of the employees.             And
+
+19   since 1952, the State Department even before the Vienna
+
+20   convention and subsequent has been advising missions in
+
+21   New York, it's on their web site today that they must
+
+22   pay taxes on staff housing.
+
+23                 JUSTICE SCALIA:           Can I ask you what, what do
+
+24   you get out of this case?           You've withdrawn your claim
+
+25   for judgment of foreclosure.             What are you going to get
+
+
+                                        43
+                          Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   out of it?    Declaratory judgment that they owe the
+
+ 2   taxes?   I'm not sure they have ever contested that they
+
+ 3   don't owe taxes.
+
+ 4                 MR. CARDOZO:        Oh yes I think if you look, if
+
+ 5   you look at the Petitioners' brief I think they do
+
+ 6   contest that they, that they have to pay the tax.                  But
+
+ 7   what we'll get out of this is the following.
+
+ 8                 First of all, start with the fact that the
+
+ 9   statute says you can bring an action in this
+
+10   jurisdiction even if you can't execute.                  We have the
+
+11   State Department telling us, the Solicitor General
+
+12   telling us in their briefs, footnote 17, that countries
+
+13   pay lawful taxes.     So if we can get, if we can proceed
+
+14   to judgment and get that, and get that declaration, we
+
+15   believe based upon what the Solicitor General has said
+
+16   they will pay their taxes.
+
+17                 JUSTICE SCALIA:           Yeah, but --
+
+18                 MR. CARDOZO:        In addition --
+
+19                 JUSTICE SCALIA:           You say he is wrong about a
+
+20   lot of other stuff.
+
+21                 (Laughter.)
+
+22                 JUSTICE SCALIA:           Why do you believe him
+
+23   about that?
+
+24                 MR. CARDOZO:        And the -- the reason I
+
+25   believe him about that is that Congress has passed a law
+
+
+                                        44
+                           Alderson Reporting Company
+                       Official - Subject to Final Review
+
+
+ 1   that says if you don't pay your taxes reflected by a
+
+ 2   judgment, whatever the amount of that tax is, you're
+
+ 3   going to lose 1110 percent of your foreign aid.                  And so
+
+ 4   I believe we are going to get a lot out of that.
+
+ 5              JUSTICE BREYER:            Can I -- can I can ask you
+
+ 6   to go back for a second to where I'm getting myself into
+
+ 7   a muddle here.
+
+ 8              I'm still now being very, very literal.                     I
+
+ 9   think you're very literal and you say it says, a case in
+
+10   which is involved rights to property.                  And you say, but
+
+11   this is a right to property in this case; if I win this
+
+12   case then I have a right to sell that house.                  Therefore,
+
+13   I have a right in property.
+
+14              Now, if that's the reasoning why doesn't
+
+15   that apply to every case where a State might say if you
+
+16   win this case you can sell his house?                  I mean, I can
+
+17   easily imagine a tort case, a contract case where a
+
+18   State would say, you win, you can sell their house to
+
+19   collect the judgment.
+
+20              MR. CARDOZO:         And --
+
+21              JUSTICE BREYER:            So I'm still back in a
+
+22   different route at where I'm having the problem, which
+
+23   is a problem of distinguishing in principle between
+
+24   either your absolute principle, "do it," his absolute
+
+25   principle, "don't do it," or something in the middle.
+
+
+                                      45
+                        Alderson Reporting Company
+                       Official - Subject to Final Review
+
+
+ 1              MR. CARDOZO:         And I think the something in
+
+ 2   the middle, Justice Breyer, is if you're talking about a
+
+ 3   prejudgment lien which I think is your hypothetical.
+
+ 4   It's --
+
+ 5              JUSTICE BREYER:            The hypothetical was doing
+
+ 6   away with the prejudgment lien.             I would say the exact
+
+ 7   same words apply with just as much force if there is no
+
+ 8   prejudgment lien because a suit without a lien the State
+
+ 9   were to say, you win this tort claim, you can go sell
+
+10   this property to collect the judgment, is a suit in
+
+11   which there is at issue your right to sell his property,
+
+12   just as there is here.
+
+13              MR. CARDOZO:         But Justice, Justice Breyer,
+
+14   in that hypothetical, you don't have a right in property
+
+15   until you win the case.
+
+16              JUSTICE BREYER:            Do you?
+
+17              MR. CARDOZO:         We have, we have a, there is
+
+18   an in issue today our right to property and I believe
+
+19   that that is a distinction and I believe also -- and of
+
+20   critical importance.
+
+21              JUSTICE SCALIA:            Well, wait a minute.      But
+
+22   the -- the embassy has rights in it when the case is
+
+23   brought, even before the final judgment.               So you know,
+
+24   let's give the devil his due.            It would be a case in
+
+25   which rights in immovable property are in issue.
+
+
+                                      46
+                        Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1               MR. CARDOZO:         And if --
+
+ 2               JUSTICE SCALIA:            You want to look at it from
+
+ 3   the embassy side too so --
+
+ 4               MR. CARDOZO:         Yes.       And if you want to look
+
+ 5   at it from the embassy side under my theory, their right
+
+ 6   -- under my lien their rights are an issue today.                 And
+
+ 7   under Justice Breyer's hypothetical if it meets the
+
+ 8   other due process concerns which I think under that
+
+ 9   hypothetical would raise a number of interesting ones --
+
+10               JUSTICE SCALIA:            Well, that's your big
+
+11   defense.   To do that they would have to do it for
+
+12   everybody' they would have to do it for Joe Sixpack as
+
+13   well as for the embassy, right?
+
+14               MR. CARDOZO:         That's right.          That's right.
+
+15               JUSTICE SOUTER:            Is it only the case that
+
+16   the, that the only instances in which, consistent with
+
+17   the Foreign Sovereign Immunities Act the State could say
+
+18   you get the house, would be instances of litigation
+
+19   arising out of commercial activity?
+
+20               MR. CARDOZO:         Yes.       That is -- that is --
+
+21   that is correct.   Because it's only in the commercial
+
+22   activities exception can you execute and then only in
+
+23   certain limited circumstances --
+
+24               JUSTICE SOUTER:            Yeah.
+
+25               MR. CARDOZO:         And you can execute unless the
+
+
+                                       47
+                         Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   premises are not being used for the purposes of the
+
+ 2   mission.
+
+ 3                JUSTICE KENNEDY:            Now -- now I take it you
+
+ 4   under New York law and the law of most jurisdictions,
+
+ 5   the tax lien becomes a lien against the property before
+
+ 6   any judicial proceedings.
+
+ 7                MR. CARDOZO:         That is correct.
+
+ 8                JUSTICE KENNEDY:            Just because they are
+
+ 9   unpaid.    And this is probably a question more for them
+
+10   than for you, but as you understand their position, if
+
+11   you put a lien on the property for unpaid taxes, are
+
+12   they entitled to demand its removal?
+
+13                MR. CARDOZO:         Of course they can.          And in
+
+14   fact the Republic of Argentina case --
+
+15                JUSTICE KENNEDY:            You mean of course they
+
+16   can under their view?
+
+17                MR. CARDOZO:         No.      They can bring an action
+
+18   to quiet title.   They can bring an action --
+
+19                JUSTICE KENNEDY:            No.      No.    No.
+
+20                MR. CARDOZO:         I'm sorry.
+
+21                JUSTICE KENNEY:            Excuse me.
+
+22                JUSTICE KENNEDY:            Can they demand that that
+
+23   lien be released --
+
+24                MR. CARDOZO:         They can demand it.
+
+25                JUSTICE KENNEDY:            No, no.
+
+
+                                        48
+                           Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1              -- because it violates the Foreign Sovereign
+
+ 2   Immunities Act?   Is it their position that you have no
+
+ 3   right at all even to notice a lien against the property?
+
+ 4              MR. CARDOZO:          Well, I haven't heard their
+
+ 5   articulation of that position, but they certainly could
+
+ 6   write --
+
+ 7              JUSTICE KENNEDY:             It would seem to me to
+
+ 8   follow from what they're saying.
+
+ 9              MR. CARDOZO:          I think it may.             I think they
+
+10   certainly have a right to ask us to reconsider and make
+
+11   the various arguments on the merits to us.                    There are
+
+12   cases preceding the Foreign Sovereign Immunities Act
+
+13   where a country felt the lien was invalid and brought a
+
+14   lawsuit.
+
+15              JUSTICE KENNEDY:             My hypothetical is can
+
+16   they demand that the lien be removed solely because of
+
+17   the Foreign Sovereign Immunities Act.
+
+18              MR. CARDOZO:          They could demand that, but I
+
+19   don't that the Foreign Sovereign Immunities Act answers
+
+20   the underlying substantive question.                    You'd have to look
+
+21   at the Vienna Convention as well as New York law to
+
+22   answer that question, because all the Foreign Sovereign
+
+23   Immunities Act is talking about is the jurisdictional
+
+24   issue, not the substantive issue.
+
+25              And let me just point out that if we, if we
+
+
+                                       49
+                         Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   can't bring this lawsuit to have, to try to foreclose or
+
+ 2   at least to have a declaration of our rights, this
+
+ 3   lawsuit can't be brought anywhere.                 No place in the
+
+ 4   world can New York City have a conclusion as to who owns
+
+ 5   this property.   That is absolutely inconsistent with the
+
+ 6   underlying immovable property exception and the local
+
+ 7   action rule, which says that land -- that a sovereign
+
+ 8   has a prim evil interest in its land, it has the right
+
+ 9   to adjudicate its property.
+
+10               JUSTICE KENNEDY:            With reference to the
+
+11   offset of foreign aid, could that offset be made under
+
+12   the controlling statutes just based on your lien, or do
+
+13   you have to have a judgment first?
+
+14               MR. CARDOZO:         No.      The statute talks about a
+
+15   judgment.   It can't just be that.
+
+16               So finally, even though we cannot execute on
+
+17   our property -- on the judgment, it has a major impact,
+
+18   this case has a major impact on what we can do.                If we
+
+19   can't do it there's no other place for our problems to
+
+20   be resolved.   I urge that the decision below be
+
+21   affirmed.   Thank you.
+
+22               JUSTICE SOUTER:            May I ask you a question in
+
+23   your remaining time.      With respect to the statute that
+
+24   authorizes the, the charge against foreign aid, would
+
+25   that statute have any application except either in a
+
+
+                                       50
+                         Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   commercial case or a case like yours?
+
+ 2                MR. CARDOZO:         Theoretically it would have an
+
+ 3   application in a counterclaim situation as well --
+
+ 4                JUSTICE SOUTER:            Okay.
+
+ 5                MR. CARDOZO:         -- Justice Souter.          I think
+
+ 6   those are the three things.             Of course, you don't need
+
+ 7   that statute for the commercial exception because you
+
+ 8   can execute.
+
+ 9                JUSTICE SOUTER:            That's right.       You can go
+
+10   directly.
+
+11                MR. CARDOZO:         Right.
+
+12                JUSTICE SOUTER:            So in practical terms, with
+
+13   the possible exception of a counterclaim, the foreign
+
+14   aid setoff would simply apply to a case like this, then?
+
+15                MR. CARDOZO:         That's right.          And Justice
+
+16   Souter, while certainly the Congress that passed those
+
+17   statutes was not the Congress that passed the FSIA,
+
+18   there is, certainly should be an effort to harmonize
+
+19   what the Congress has done.
+
+20                JUSTICE SOUTER:            I was going to say, if you
+
+21   deny all the statutes you've got to --
+
+22                MR. CARDOZO:         That is obviously the way to
+
+23   reconcile these statutes.
+
+24                JUSTICE SCALIA:            What do you do with traffic
+
+25   tickets?    They've built up.           You know, there's $100,000
+
+
+                                        51
+                          Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   owing in traffic tickets by some embassy.                   How do you
+
+ 2   get a judgment that that is owing?
+
+ 3                 MR. CARDOZO:         You can't get a judgment that
+
+ 4   that is owing.
+
+ 5                 JUSTICE SCALIA:            So you can't use even the
+
+ 6   foreign aid gimmick to --
+
+ 7                 MR. CARDOZO:         Not unless, unless the statute
+
+ 8   is changed, Justice Scalia, which we have from time to
+
+ 9   time tried to persuade Congress to do.
+
+10                 JUSTICE GINSBURG:             Foreign aid --
+
+11                 CHIEF JUSTICE ROBERTS:                 Unless New York law
+
+12   is changed and you pass something saying you get a lien
+
+13   on property if you have delinquent property, parking
+
+14   tickets.
+
+15                 MR. CARDOZO:         That is right, and that would
+
+16   get us right back into the --
+
+17                 JUSTICE GINSBURG:             I thought that the
+
+18   Federal, the 100 percent withholding, relates to taxes?
+
+19                 MR. CARDOZO:         Yes.
+
+20                 JUSTICE GINSBURG:             Taxes, not for parking
+
+21   tickets or anything else.
+
+22                 MR. CARDOZO:         Yes, Justice Ginsburg, it
+
+23   does.    It relates to unpaid property, unpaid property
+
+24   taxes.     It doesn't apply to unpaid parking tickets.
+
+25                 Thank you very much.
+
+
+                                         52
+                           Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1                 CHIEF JUSTICE ROBERTS:                 Thank you, Counsel.
+
+ 2                 Mr. Howley, you have two minutes remaining.
+
+ 3             REBUTTAL ARGUMENT OF JOHN J.P. HOWLEY
+
+ 4                   ON BEHALF OF THE PETITIONERS
+
+ 5                 MR. HOWLEY:        Thank you, Mr. Chief Justice.
+
+ 6                 Article 29 of the European Convention
+
+ 7   expressly excludes any intent to create an exception for
+
+ 8   tax claims.    That was the international practice at the
+
+ 9   time.   What we have here is a bootstrap and I refer to
+
+10   the Court to its decision in Ministry of Defense of
+
+11   Republic of Iran against Elahi, where this Court said
+
+12   that when you have an action to impose a lien, it is
+
+13   analyzed as an attachment under Section 1609-1610 of the
+
+14   Foreign Sovereign Immunities Act.                  And what the Foreign
+
+15   Sovereign Immunities Act says is you cannot use an
+
+16   attachment to get jurisdiction where jurisdiction
+
+17   otherwise does not exist.
+
+18                 JUSTICE KENNEDY:            Do you take the position
+
+19   that it's improper even to notice the property with the
+
+20   lien?
+
+21                 MR. HOWLEY:        Under New York law, yes, and we
+
+22   have Chief Judge Fulbright for a unanimous --
+
+23                 JUSTICE KENNEDY:            I mean, let's assume that
+
+24   you owe the taxes.
+
+25                 MR. HOWLEY:        Well, we say that there's no
+
+
+                                         53
+                           Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   right to impose the lien because the Vienna Convention
+
+ 2   and New York law prohibit the taxation of the property
+
+ 3   and you cannot impose the lien to collect something that
+
+ 4   you're not entitled to.        And this is a dispute that has
+
+ 5   historically been resolved through diplomacy, not in the
+
+ 6   courts, because the fact is whatever happens in this
+
+ 7   case to India and Mongolia is likely to happen to the
+
+ 8   United States around the world and that's a foreign
+
+ 9   policy question for the State Department to decide.
+
+10               JUSTICE SCALIA:            You mean we'll have to
+
+11   start paying our taxes around the world?
+
+12               MR. HOWLEY:        I'm afraid so, Justice Scalia.
+
+13               JUSTICE SCALIA:            Is that a real problem for
+
+14   us?   I don't think so.
+
+15               MR. HOWLEY:        I am afraid so.
+
+16               Thank you very much.
+
+17               CHIEF JUSTICE ROBERTS:                 Thank you, Counsel.
+
+18   The case is submitted.
+
+19               [Whereupon, at 11:01 a.m., the case in the
+
+20   above-entitled matter was submitted.]
+
+21
+
+22
+
+23
+
+24
+
+25
+
+
+                                       54
+                         Alderson Reporting Company
+                                 Official - Subject to Final Review
+                                                                                         Page 55
+
+
+        A             19:24,25 20:4      23:22                  28:3               37:21,21 40:17
+abandoned             20:9 47:19       Appendix 17:17         assessing 28:6       44:15,22,25
+  24:24             addition 44:18     applicable 34:21       assessment           45:4 46:18,19
+ability 30:9        adhere 27:6        application              28:10            beyond 12:9,11
+above-entitled      adjudicate 50:9      50:25 51:3           Assistant 1:20     big 17:24 47:10
+  1:14 54:20        adopted 41:10      applied 16:12          assume 4:12,13     blown 22:25
+abrogated 11:4      adoption 40:3      apply 14:21 26:2         53:23            bona 22:1,2 36:5
+absolute 31:25      advising 43:20       45:15 46:7           assuming 4:5       bootstrap 53:9
+  45:24,24          affect 26:6,6,9      51:14 52:24          Atlantic 23:1      bothering 31:17
+absolutely 7:19     affirmed 50:21     April 1:12             attach 28:7        bottom 23:11
+  17:17 39:21       afoul 34:11,19     Arabia 10:18           attaching 19:7     Breyer 7:22 8:2
+  50:5              afraid 54:12,15      13:22 14:20          attachment 9:4       8:10 10:3
+abstract 37:3       agree 38:15        area 28:6                53:13,16           12:13,22,25
+accept 4:19         agreed 30:8        areas 27:25            attempt 27:18        13:8 24:8,19
+  31:18             aid 45:3 50:11     Argentina 10:19        attempted 9:20       29:25 31:2,16
+access 5:14           50:24 51:14        48:14                authorizes           32:3,9,15
+  28:17               52:6,10          argued 21:12             50:24              33:18 34:7
+account 28:5        al 1:5 3:5         arguing 33:23          automatically        40:22 45:5,21
+acknowledge         allowed 29:16        33:25                  18:4               46:2,5,13,16
+  5:8               allowing 17:25     argument 1:15          aware 12:20        Breyer's 47:7
+act 3:17,17 7:14    allows 33:24         2:2,5,9,12 3:3         27:8             brief 9:20 11:16
+  9:22 11:7 12:1    ambassador           3:8 18:24            a.m 1:16 3:2         11:24 20:21
+  13:13 30:24         13:18 14:12        21:17,17,21            54:19              21:9,11,18,18
+  31:1 47:17          43:8,17            27:24 28:23                               21:21 27:7,9
+                    amended 17:18        53:3                         B            27:13,13,19
+  49:2,12,17,19
+  49:23 53:14,15    American 13:6      arguments              back 4:4 30:12       29:9 31:4 44:5
+action 4:25 5:2       20:7               21:10,13,18           31:1 45:6,21      briefs 44:12
+  5:18,20 6:1,4     amicus 1:22 2:7      26:2 49:11            52:16             bring 22:4 23:14
+  13:23 16:8          19:1             arises 19:19           BAKER 16:23          23:17 30:11,15
+  19:4 22:4         amount 17:21       arising 18:14          bank 8:3 12:15       44:9 48:17,18
+  23:10,14,17,19      20:14 45:2         27:17 39:12,18       bankruptcy           50:1
+  23:21 24:25       amounts 26:15        40:18 42:7            35:18             brings 10:9 41:9
+  30:2,15,17        analysis 37:6        47:19                bar 24:10 30:1     broad 41:19,25
+  32:5 44:9         analyzed 53:13     Article 11:23          based 4:10 8:7       43:3
+  48:17,18 50:7     analyzes 41:1        39:9 41:19            13:4,24 14:19     broadly 41:1
+  53:12             answer 20:3          43:12,14 53:6         16:8 17:1         brought 12:16
+actions 8:7           24:13,20 43:11   articulated             44:15 50:12         19:24 20:2
+  23:24 24:4          49:22              34:12,20             basic 10:10 37:5     23:24,25 36:17
+activities 4:10     answers 49:19      articulation           bearing 19:20        46:23 49:13
+  10:21 14:21       anybody 12:15        49:5                 behalf 1:18,22       50:3
+  16:6 47:22        anyway 11:25       asked 19:11             1:24 2:4,7,11     build 12:16 13:1
+activity 8:7 13:3   apart 15:1           29:18 31:2            2:14 3:9 18:25      13:9 31:6
+  13:4,14,20,23     appeals 21:19      asking 10:3             28:24 53:4        building 16:12
+  13:24 14:7,15       24:23 27:14        17:22 24:12          Belarus 32:10        16:18
+  14:17,22,24       APPEARAN...          29:13                believe 4:8 6:20   built 51:25
+  15:7,10 16:7,9      1:17             asks 24:9               11:21 30:14       business 43:16
+  16:11 17:2,6,9    appears 10:7       assert 25:21            31:14 35:22       buying 13:16,18
+
+
+                                  Alderson Reporting Company
+                              Official - Subject to Final Review
+                                                                                      Page 56
+
+
+ 14:16,18,19     cases 31:3,21      citizen 13:6             16:6,8,11 17:1     28:9
+                   32:20 34:7,9     city 1:8 3:5 4:24        19:23,25 20:4    considerations
+        C          40:19 41:6,8       14:1 15:8 17:3         20:9 30:24         28:5
+C 2:1 3:1          41:24 42:16,23     17:4,5,7 18:2          31:1,5 40:23     considered
+Cardozo 1:24       43:5 49:12         32:9 50:4              47:19,21 51:1      26:17,20
+  2:10 28:22,23 cause 13:23 16:8    city's 17:17             51:7             consistent 20:19
+  28:25 29:7,14    23:10 27:20        18:11,11,15          committee 7:18       41:12 43:5
+  29:20 30:25    century 13:10      claim 13:4,24          company 16:25        47:16
+  33:12 34:6,18    13:11              14:19 17:18,19         17:1,5           constitute 20:18
+  34:24 35:5,11 certain 31:12         17:25 18:2           compensation         25:14 26:24
+  35:17,22 36:6    35:25 47:23        23:12 24:11,24         22:6,11,16,18    constitutes 21:6
+  36:20 37:1,8   certainly 25:7       32:25 38:5,6         complaint 17:18      26:23
+  37:11,21,24      25:11 31:20        38:16 40:8             24:9 29:12,24    constitutional
+  38:15,25 39:6    33:13 34:12        43:24 46:9           completely           34:9,20
+  39:20 40:7,12    35:5 36:6,7      claiming 3:22            38:20            contest 44:6
+  40:16 41:15,18   49:5,10 51:16    claims 9:21,24         compulsory         contested 44:2
+  42:9,21 43:10    51:18              40:11,12 53:8          7:10             context 35:19
+  44:4,18,24     cetera 14:25       classified 38:9        conceded 30:2      continue 30:9
+  45:20 46:1,13 change 17:7         clear 16:4 21:22       concededly 40:3    contract 4:18
+  46:17 47:1,4     27:3,7             26:11 40:4           conceivable          26:18,18,23
+  47:14,20,25    changed 52:8,12    clearly 4:2 30:13        12:10,12           45:17
+  48:7,13,17,20 characterized       closer 12:1            concept 32:19      controlling
+  48:24 49:4,9     26:7             cloud 25:15,19           32:19              50:12
+  49:18 50:14    charge 50:24         26:15,16,23          concern 32:22      controversy
+  51:2,5,11,15   charged 16:22        38:8,9,12            concerning 8:19      39:20
+  51:22 52:3,7   charges 17:21      clouded 25:12            28:1             convention 6:11
+  52:15,19,22    check 34:12        clouds 25:14           concerns 34:11       6:14,23 7:1,5
+carry 33:20      Chief 3:3,10       colleague 34:15          34:20 47:8         7:12,15 11:23
+case 3:4,14,24     10:9,14,17         35:24                conclusion           15:22 38:21
+  4:21,22 5:22     12:6 18:21       collect 5:14,17          21:16 50:4         39:6,9,16,18
+  11:17 12:14,16   19:2 21:8 22:3     17:2 45:19           conducted 43:17      40:20 41:10,14
+  14:11 17:23      23:13 28:21,25     46:10 54:3           confers 22:14        41:16,17,19,21
+  19:5,7,8,19,23   40:10,13,13,14   collection 15:4        conform 42:14        41:24 42:5,8
+  20:4 21:11,15    42:4,9,16          16:5,22              Congress 3:16        42:12,17,25
+  21:17 24:1,22    52:11 53:1,5     come 3:23 4:2            3:19 6:9,11,13     43:12,20 49:21
+  27:11,15,21      53:22 54:17        4:16 21:15             6:15,22 7:11       53:6 54:1
+  28:11 29:2     choose 6:14          32:8 34:25             7:12,14,17 8:5   Conventions
+  31:17 36:18    chose 3:19 6:13    comes 7:4                8:5 10:22 13:4     15:2,17,20
+  40:21,25 41:2    6:22             commence 6:3             18:13 30:14,15   converted 18:5
+  42:18 43:24    Circuit 11:20      commences 6:1            41:11 42:6       converting
+  45:9,11,12,15    24:1             comment 39:25            44:25 51:16,17     18:16
+  45:16,17,17    circumstances      commercial               51:19 52:9       converts 18:2
+  46:15,22,24      35:25 47:23        4:10 8:7 10:20       Connecticut        convey 26:11
+  47:15 48:14    cite 40:20 41:3      13:3,4,14,20           34:8             conveyance
+  50:18 51:1,1     42:22              13:23,24 14:7        consequence 6:2      26:14
+  51:14 54:7,18 cited 9:20            14:14,17,20,22         26:14            conveys 43:2
+  54:19          citing 31:3          14:23 15:7,10        consideration      correct 7:19 9:1
+
+
+                               Alderson Reporting Company
+                                 Official - Subject to Final Review
+                                                                                           Page 57
+
+
+  10:17 12:4        D 3:1                11:16                 6:16 45:23           27:16
+  36:20 47:21       damages 31:22      depending 24:4         Doehr 34:8          enforce 8:3 29:9
+  48:7              deal 39:1          depends 14:4,10        doing 25:9 46:5       36:19
+corrects 35:24      dealing 10:20      described 20:20        domain 22:6,11      enforceable
+counsel 24:17       deals 15:22        describes 24:3          22:15,17             20:16,22,24
+  28:21 53:1        debates 38:10      describing             draw 43:7             33:11
+  54:17             debt 19:17,19        36:24                due 17:21 32:19     enforcement
+counterclaim        decide 3:14 4:22   determine 19:4          32:21 34:11          3:12 31:8
+  6:24 7:3,8,13      54:9                19:8                  35:2 46:24         engage 13:3
+  51:3,13           decided 12:5       devil 46:24             47:8               engaged 13:22
+countries 33:4       43:6              different 4:21         D.C 1:11,21         England 40:25
+  44:12             deciding 3:24        10:5,8,8,15,15        11:20                41:2
+country 49:13       decision 11:20       23:20 24:7                               Englewood
+course 3:20          21:19 50:20         33:16 35:23,23               E             11:16,19,20,24
+  17:10 21:14        53:10               36:15 39:13          E 2:1 3:1,1           21:11,17 27:7
+  30:19 34:10,21    declaration          42:5 43:1            easement 28:12        27:9,13,19
+  37:13 43:12        17:15 44:14         45:22                  28:15,17 33:9     enjoin 22:5
+  48:13,15 51:6      50:2              differently 39:7         33:13,15 38:11      23:14,17
+court 1:1,15        declaratory        difficult 31:18        easements 33:6      enormous 26:11
+  3:11,13 4:22       29:11 44:1        diplomacy 54:5         easily 18:8 45:17   entirely 19:21
+  5:4 7:2 9:21,24   declare 5:1,2      directing 17:20        easy 32:12          entitled 22:5,10
+  10:13,18 11:3     declared 35:4      directly 42:17         effect 9:18 27:15     48:12 54:4
+  11:20 13:21       deeded 25:1          51:10                  32:22 38:23       entity 15:9 17:8
+  19:3 20:19,21     deemed 9:22        disappears             effects 19:22       equally 26:3
+  21:5,19 24:10     defaulted 31:7       22:25,25             effort 51:18        ESQ 1:18,20,24
+  24:22,23 26:7     defend 27:18       discharge 25:9         either 33:14          2:3,6,10,13
+  27:14,25 28:5     defendant 17:20    discussion 29:21         38:23,23 45:24    essential 9:24
+  29:1 31:7          24:15 32:22       dispute 4:8 6:7          50:25             essentially 23:11
+  32:20 33:8         33:9                30:7,11 36:10        Elahi 53:11           38:12
+  34:8,12 53:10     defendants           42:1 54:4            electric 14:25      establishes
+  53:11              24:10             disputes 11:12         embassies 13:1        27:23
+courts 54:6         defense 47:11        40:1                   13:10,12          estate 4:16,17
+Court's 28:9         53:10             disputing 43:1         embassy 12:16         8:12 9:3,14,25
+cover 31:1 42:1     define 36:23       dissimilarities          12:17 13:7,17       10:2 13:19
+covers 30:24        defining 10:24       5:11                   13:25 14:11         14:1 20:8,9,12
+create 3:18         delinquent         distinct 35:15           30:7 31:6,24        20:12 21:24
+  37:16,17 38:8      52:13             distinction 7:22         43:9 46:22          26:12
+  53:7              demand 48:12         7:25 31:24             47:3,5,13 52:1    et 1:5 3:5 14:25
+created 4:5 18:7     48:22,24 49:16      32:1 33:25           eminent 22:6,11     etcetera 24:11
+  32:21              49:18               38:11 43:8             22:15,17          European 6:11
+creditors 9:6       deny 51:21           46:19                emphasize             6:13,23 7:1,12
+critical 46:20      Department         distinctions 8:21        19:12               7:15 11:23
+cross 5:14           1:21 11:6 12:1    distinguish 9:21       employees 20:10       38:21 39:2,3,6
+curiae 1:22 2:8      21:9 37:13          34:2                   43:9,18             39:9,16,18
+  19:1               41:11 43:19       distinguished          encompass             40:19 41:10,15
+                     44:11 54:9          7:25                   39:16               41:17,18 42:11
+       D            Department's       distinguishing         encompasses           42:24 53:6
+
+
+                                  Alderson Reporting Company
+                                 Official - Subject to Final Review
+                                                                                           Page 58
+
+
+everybody                    F         footnote 31:4            15:4,25 16:5              H
+  47:12             fact 6:11 19:18      38:2 40:20             16:22             hand 8:22
+evil 50:8             25:14 28:7         44:12                general 1:21        happen 54:7
+eviscerate 19:14      30:4 33:16,23    force 5:16,22            11:11,21 26:22    happened 4:8
+exact 46:6            35:6 44:8          46:7                   44:11,15          happens 54:6
+exactly 7:9           48:14 54:6       foreclose 6:1,4        generally 25:14     hard 8:11 34:4
+  24:17 25:3        failed 30:10         24:10,23 30:3        generis 21:23         34:19 36:1
+  36:1              failure 36:17        30:5,20 50:1         German 31:7         harmonize
+example 5:10        fairly 37:20,22    foreclosing            getting 45:6          51:18
+  19:23 25:16       fall 3:15 4:9        29:16                gimmick 52:6        Harvard 41:7
+  26:18 28:4          16:6 31:21       foreclosure            Ginsburg 5:5        head 33:20
+  36:9 40:21          32:11              17:18,19,20            7:3,9 11:15,19    hear 3:3
+exception 3:15      falls 18:12          24:25,25 29:13         11:25 15:21       heard 24:13
+  3:18 4:3,10,13    far 5:11,12          43:25                  16:2,11,17,21       49:4
+  4:16 6:24,25        40:15,17 41:22   foreign 3:16             16:23 17:4        hearing 35:3,6,8
+  7:8,13 8:6,8      Federal 7:5,10       7:14 13:13             18:8 19:11          35:10
+  10:19,21 12:18      10:11,12,16        15:17 19:25            25:5,11 26:15     heavily 11:24
+  13:14 14:21         28:6 52:18         20:24 34:22            27:1,5 34:14      held 10:13,18
+  16:6 21:4,5       Federalism           38:22 39:4,10          34:18,23 52:10      11:4 13:21
+  28:10 30:24         32:19              39:11,14 40:19         52:17,20,22         32:20 33:8
+  31:1,5 34:25      fee 15:19,25         45:3 47:17           give 5:13 9:14      help 39:1
+  40:23 41:2,5        16:4               49:1,12,17,19          10:25 20:3,14     highlighted
+  41:20,25 43:4     fees 15:3,5,6,11     49:22 50:11,24         25:16,21 30:6       29:21
+  47:22 50:6          15:12 16:15        51:13 52:6,10          33:8 35:3         historically 54:5
+  51:7,13 53:7      felt 49:13           53:14,14 54:8          37:17 46:24       history 12:14
+exceptions 8:8      fide 22:1,2 36:5   forever 24:10          gives 9:16 20:8,9     29:5 42:13
+  19:14             fight 35:18          36:8                 go 4:4 29:7         holder 5:13,22
+exclude 5:15        filed 30:2         forth 28:14              31:25 32:1          5:25 6:8 22:4
+  26:7 28:1,14      final 37:6 42:2      38:11                  38:3 40:14,16       22:16 23:14,16
+excludes 53:7         46:23            frankly 4:19             45:6 46:9 51:9      23:18,19,24,25
+excuse 36:7         finally 50:16      free 26:11             goes 23:5 26:12       24:6 25:22
+  40:12 48:21       find 31:17 32:24   friendly 20:7          going 10:15 31:1      26:3,19 38:10
+execute 44:10         34:4             front 6:11 31:21         38:3,13,13,19     holders 22:5,10
+  47:22,25 50:16    first 3:4 21:18    FSIA 19:15               43:25 45:3,4      holding 30:1
+  51:8                22:9 27:13         39:13 41:11,12         51:20             holds 23:21
+exercised 22:6        29:3 31:10         42:13 51:17          good 7:21 21:9      Honor 30:25
+  26:21               32:4,7 36:18     Fulbright 53:22          27:20 30:6        honored 20:6
+exist 4:13 53:17      39:10,24 42:23   full 20:14 38:18       gotten 32:6         house 7:12
+existed 3:13,19       44:8 50:13       fundamental            government            11:11 20:10
+  29:6              flooded 23:1         26:8                   20:8                45:12,16,18
+exists 4:6          focus 27:24        further 18:19          great 39:1            47:18
+explicitly 40:5,6   follow 49:8          29:8                 greater 33:17       housing 43:22
+expounded 21:5      followed 42:15     F.3d 24:2                36:1,4            Howley 1:18 2:3
+expressing 25:6     following 19:15                           grow 34:4             2:13 3:7,8,10
+expressly 53:7                               G                grows 34:3
+                      26:4 44:7                                                     4:1,7,14,20 5:8
+extensive 41:8      follows 22:23      G 3:1                  guess 33:4            5:18,25 6:7,20
+extent 22:17          23:5             garbage 14:24          guide 39:23           7:7,11,19,24
+
+
+                                  Alderson Reporting Company
+                                 Official - Subject to Final Review
+                                                                                         Page 59
+
+
+ 8:5,17 9:9,12        5:20 8:8,18        23:18,20,24            43:25 44:1,14      34:14,18,23
+ 9:19 10:7,12         10:23 11:2,4       24:5,11 32:23          45:2,19 46:10      35:1,6,7,13,20
+ 10:17 11:9,18        15:5 36:23         33:7,17 36:24          46:23 50:13,15     36:3,13,20,22
+ 12:4,11,20,24      impact 50:17,18      39:11 40:1             50:17 52:2,3       37:5,9,19,22
+ 13:2,11,21         impaired 25:7        41:3,4 50:8          judicial 48:6        37:23 38:1,24
+ 14:4,8,14,18         26:1             interesting 47:9       jurisdiction         39:2,7,17 40:6
+ 15:1,15 16:2       impairs 25:22      interests 6:10,12        3:13 9:23          40:10,13,14,22
+ 16:14,20 17:6      importance           6:17 21:12             15:24 16:1,9       41:13,17 42:4
+ 17:13,16 18:10       46:20            international            30:17,20 31:8      42:9,16 43:7
+ 18:22 53:2,3,5     important 19:12      29:5 39:22,23          31:9 36:14,19      43:11,23 44:17
+ 53:21,25 54:12       23:17              41:22 42:7,11          40:8 41:4          44:19,22 45:5
+ 54:15              impose 53:12         42:23 43:3,4,5         44:10 53:16,16     45:21 46:2,5
+hypothetical          54:1,3             53:8                 jurisdictional       46:13,13,16,21
+ 32:5 33:14         impression 29:8    internationally          9:21 15:2          47:2,7,10,15
+ 46:3,5,14 47:7     improper 53:19       42:15                  37:14 49:23        47:24 48:3,8
+ 47:9 49:15         include 39:19,20   interrupting           jurisdictions        48:15,19,21,22
+hypotheticals       income 26:9          36:8                   8:25 10:3,8        48:25 49:7,15
+ 30:23                28:2             invalid 49:13            48:4               50:10,22 51:4
+                    inconsistent       involve 28:13          Justice 1:21 3:3     51:5,9,12,15
+         I            50:5             involved 45:10           3:10,20 4:2,7      51:20,24 52:5
+ice 31:21 32:11     incorrect 21:16    involves 19:19           4:12,15 5:5,16     52:8,10,11,17
+illustration 30:6   India 1:4 3:5      Iran 53:11               5:19 6:3,16,21     52:20,22 53:1
+ill-advised 42:19     12:7 25:8        irrelevant 38:12         7:3,9,17,20,21     53:5,18,23
+imagination           29:10 38:16      issue 3:13,25            7:22 8:2,10,24     54:10,12,13,17
+   33:22              54:7               4:22,24 5:1,4          9:11,17 10:1,3   J.P 1:18 2:3,13
+imagine 32:12       Indian 13:25         6:10 10:25             10:9,14,18         3:8 53:3
+   45:17              16:24 20:8         15:2,6,16 16:7         11:6,15,18,25
+imagining 32:9        31:15              16:8 18:15             12:6,9,13,22             K
+immovable           indicated 24:22      19:6 21:9              12:25 13:8,16    keep 31:21
+   10:25 19:6       inform 28:9          22:11 24:5             13:25 14:6,10    KENNEDY
+   20:25 21:4       insofar 9:7          25:24 29:3             14:16,23 15:11     8:24 9:11,17
+   22:14,21,24,24   instances 47:16      31:13 36:2             15:21 16:2,11      10:1 14:23
+   23:15 25:24        47:18              37:5,9,12,14           16:17,21,23        15:11 21:20
+   27:16,17 28:10   instruments          38:7,9,17              17:4,10,14,16      22:1 35:13,20
+   29:3 34:25         26:16              39:15 46:11,18         18:8,21 19:3       36:3 41:13,17
+   36:24 38:7       Insurance 24:1       46:25 47:6             19:10 20:2,22      48:3,8,15,19
+   41:5,20,25       intangible 23:9      49:24,24               21:1,8,20 22:1     48:22,25 49:7
+   43:4 46:25       intended 30:15                              22:3,20,23         49:15 50:10
+   50:6             intent 43:2 53:7           J                23:4,8,13 24:8     53:18,23
+immune 15:16        interest 5:6,6     Joe 47:12                24:19 25:5,11    KENNEY 48:21
+   15:18,18,19        6:5,8,8,18,25    JOHN 1:18 2:3            25:17 26:4,10    kind 32:13 38:2
+Immunities 3:17       8:4,12,13,14       2:13 3:8 53:3          26:14 27:1,5       38:2 42:1
+   7:14 13:13         8:15 9:3,8,12    Joint 17:17              28:12,21,25      kinds 10:5 31:12
+   47:17 49:2,12      9:13,22 12:2     Judge 53:22              29:7,14,18,25    know 13:10,11
+   49:17,19,23        17:15,21,22      judgment 17:20           30:22 31:2,16      13:12 20:3
+   53:14,15           18:12 20:5,11      29:11 31:20            32:3,9,15 33:2     22:25 29:14
+immunity 3:16         21:21,22 23:6      32:4,6,7 36:18         33:12,18 34:6      32:11 33:3,8
+
+
+                                  Alderson Reporting Company
+                                 Official - Subject to Final Review
+                                                                                    Page 60
+
+
+ 33:22 34:5        liability 15:23     limited 8:19      32:12 38:2        municipal 16:22
+ 37:19 39:25       liable 33:8            47:23          45:16 48:15
+ 46:23 51:25       Libya 12:8          limits 34:9,9     53:23 54:10               N
+knowledge          lien 5:1,2,6,9,13   lines 21:19      meaning 10:21      N 2:1,1 3:1
+ 11:10               5:13,17,21,22        27:14          11:1 41:1         named 38:10
+                     5:24,25 6:7       literal 38:14     43:15             Nations 1:5 3:5
+         L           7:23 8:1 9:22        45:8,9        means 10:25        nature 5:21 9:24
+land 5:6,7,7,11      9:24 11:5 12:2    litigation 47:18  25:4,6,6           17:6,9 19:16
+  10:2 12:3          18:2,5,12,16      little 36:15     mechanics 36:9     need 39:15 51:6
+  13:16,19,20        19:7,9,17,22      load 19:20       meets 47:7         needed 39:8
+  14:8 17:15         20:5,12,15,16     loaned 12:15     mentioned 32:5     Nelson 10:19
+  21:6,6 50:7,8      20:17,23 21:5     local 18:1 50:6   35:2               13:22 14:20
+language 6:13        21:23 22:4,10     long 14:14 27:1  mere 14:8,21       never 12:14
+  6:14,22 7:16       22:12,12,14,16       27:5 38:8,12  merely 11:4         15:22,24
+  10:20 11:10,11     22:18,25 23:1        38:19          18:1              new 1:8,8,18,24
+  11:13 29:4         23:5,8,11,14      longer 21:13     merits 49:11        3:6,18 4:24 5:5
+  31:11,11 37:2      23:16,18,19       look 4:4 17:9    MICHAEL 1:24        8:25 9:17,23
+  37:2,18 39:16      24:6 25:8,9,12       25:18 31:10    2:10 28:23         9:25 14:1,24
+  41:21 42:5,10      25:22 26:1,3,5       32:23 34:7    middle 45:25        15:11,12 18:2
+  42:17              26:5,24,24           39:9,22 40:18  46:2               23:22,23 24:2
+large 41:6           27:23 28:6           41:6 43:14,15 million 31:22,22    34:15 35:13,15
+largely 19:14,20     29:11,12 31:20       44:4,5 47:2,4 minister 16:19      36:15 43:21
+Laughter 44:21       31:23 32:11,25       49:20         Ministry 53:10      48:4 49:21
+law 8:15 9:17,25     33:16,16,23       looked 27:25     minute 46:21        50:4 52:11
+  10:11,11,13,16     34:3,16,17,21     looking 21:11    minutes 53:2        53:21 54:2
+  18:1,3,16          35:4,9,9,23          32:16 39:1    mission 1:3 3:4    nonpayment
+  23:22 24:2         36:8,9,11,16         41:20,21 42:19 3:21 16:18,24      30:16
+  27:25 35:13,15     37:16,17 38:11    looks 39:3,4,7    20:10 29:10       normally 8:13
+  36:19 41:7         38:18 40:18       lose 30:9 45:3    43:13,16,17       notice 22:2 35:8
+  44:25 48:4,4       46:3,6,8,8 47:6   lost 11:19,19     48:2               49:3 53:19
+  49:21 52:11        48:5,5,11,23      lot 30:23 44:20  missions 43:20     noticed 34:1
+  53:21 54:2         49:3,13,16           45:4          mission's 25:25    number 32:20
+lawful 44:13         50:12 52:12                        money 5:23 8:11     40:20 41:6
+lawsuit 33:24        53:12,20 54:1           M           12:16 13:1,3,6     47:9
+  49:14 50:1,3       54:3              major 50:17,18    17:23,25 20:13    numerous 5:12
+lawsuits 3:12      liens 8:20,21,22    malevolence       31:6 33:10        N.Y 1:18,24
+legislative 29:5     9:2,2,10 10:4,5    33:3,19         Mongolia 12:7
+  42:13              10:5,6,8 11:13    malevolent 33:5   31:15 38:16               O
+lend 13:1,2          11:13 18:17       matter 1:14 15:8  54:7              O 2:1 3:1
+lender 8:13          20:20 21:12        17:3 24:2       morning 3:4        obligation 39:8
+  12:15              22:5 25:13         29:22 43:10     mortgage 7:23        39:19
+lent 13:6 31:6       32:21 33:4,21      54:20            7:25 8:3,4,11     obligations 6:12
+letter 13:12         34:10 35:14,16    matters 32:16     8:12,21 31:7        7:1 27:17
+let's 4:12,12        35:17,25,25       mean 7:18 8:14    40:22,23,24         39:12,17
+  20:6 34:14         36:11 40:10        14:7,12 16:9     41:4              obtain 28:2
+  40:18 46:24      lien-based 19:13     17:11 24:17     mortgages 8:20     obviously 20:4
+  53:23            limit 36:9           30:4,5 31:25    muddle 45:7          36:11 51:22
+                                                                           occasion 21:7
+
+                                  Alderson Reporting Company
+                                 Official - Subject to Final Review
+                                                                                        Page 61
+
+
+  27:11             paid 5:3 15:6        1:19,23 2:4,8         26:13 29:22       4:9,24,25 5:10
+occupied 43:8,9      20:13 30:19         2:14 3:9 19:1         51:12             5:13,15,17,23
+occupy 30:9          37:14               44:5 53:4            practice 29:6      6:1,2,4,6,9,10
+occupying 13:18     paragraph 24:8     philosophy              39:22,23,24       6:13,15,17,17
+  14:17              24:9,9 25:3         42:24                 41:22,23 42:7     6:18,19 8:4,14
+occurred 3:25        29:25 40:1        phrase 39:13            42:11,14,14       8:16,19,20,22
+occurrence 7:6      parameters 43:3    phrased 39:7            43:7 53:8         9:3,8,13,14,16
+occurs 19:25        parcel 24:11,14    picking 15:25          preceding 29:21    9:23 10:25
+offered 35:8         24:15               19:10                 49:12             11:5,12 14:5
+offset 50:11,11     Pardon 41:15       piece 14:13            precise 7:18       14:13,19,22
+Oh 44:4             parking 18:4,6     place 32:2,7,16         11:13             15:13 17:22,24
+okay 4:14 12:25      18:17,18 34:15      32:18 50:3,19        preclude 29:15     18:1,5,7,9,12
+  30:17 32:12        34:16,16,22       plain 29:3             predates 13:13     18:15,17 19:4
+  51:4               35:8 52:13,20     plaintiff 19:24        predicate 27:19    19:6,19,22
+once 13:2 31:24      52:24               24:4 32:24           prejudgment        20:14,18,25
+  32:1,17           part 24:19         play 19:24              46:3,6,8          21:4,6,13,21
+ones 47:9           particular 37:16   please 3:11            premises 30:8      21:22,24 22:12
+opposed 9:4         particularly         16:25 19:3            30:10 31:15       22:13,15,19,20
+  17:8               42:18               29:1                  43:13,15 48:1     22:21,24,24
+opposite 27:2       parties 4:23       plus 31:22             presented 5:4      23:5,6,8,9,9,15
+option 26:18,19     party 25:2         point 8:24 11:7        prim 50:8          23:22,25 24:6
+  26:21             pass 18:3 52:12      19:20 20:13,20       principle 31:18    24:7,24 25:1
+oral 1:14 2:2,5,9   passage 12:1         25:19 27:12,24        32:2 45:23,24     25:16,18,20,22
+  3:8 18:24         passed 3:16 8:6      35:3 43:3             45:25             25:24 26:1,3,8
+  28:23              9:22 10:23          49:25                prior 32:12        26:9,11,17,19
+order 9:6 22:9       11:8 13:9 18:1    pointed 29:25          priority 9:6       26:20 27:16,17
+ordinary 5:22        18:16 34:10       points 27:13            35:18,21 36:1     27:23 28:3,4,7
+  6:5 8:12           44:25 51:16,17      42:3                  36:4,12           28:8,10,16,18
+originally 32:7     pay 14:2 15:11     policy 54:9            private 15:9       28:19 29:3,23
+owe 44:1,3           17:20 18:4        position 11:7,22        16:24 17:1,5,8    30:6,11,13,13
+  53:24              30:8,10 36:17       12:2,5 16:3,3        probably 48:9      30:18 31:5,13
+owed 3:14 5:3        37:6,10 39:19       18:11,11,18          problem 17:25      32:12 33:7,9
+  19:5 22:16,18      43:22 44:6,13       21:15 27:2,6,9        20:3 31:16        33:14,21,23,24
+owing 52:1,2,4       44:16 45:1          27:11,18,21           45:22,23 54:13    34:3,4,17,25
+owner 12:17         paying 54:11         35:9 48:10           problems 50:19     35:14,14 36:7
+  25:22 26:4        people 12:25         49:2,5 53:18         proceed 44:13      36:25 37:3,15
+ownership 9:15       28:14             possess 3:22           proceeding         38:5,7,17,18
+  14:8,22 25:6,7    percent 45:3         5:14                  22:15,17          38:20,22,23
+owner's 25:19        52:18             possession 9:15        proceedings        39:11,12,15,18
+  25:19,20          perfectly 40:4       26:6 28:4             48:6              39:19 40:2,18
+owns 4:17 50:4      Permanent 1:3        30:16,18             process 32:19,21   41:2,5,20,25
+                     3:4               possessory 30:7         34:11 35:3        43:4,9 45:10
+       P            person 30:11       possible 33:20          47:8              45:11,13 46:10
+P 3:1               personal 23:9        51:13                prohibit 54:2      46:11,14,18,25
+page 2:2 17:17      persuade 52:9      possibly 34:4          proper 4:18        48:5,11 49:3
+  21:11             pertinent 42:8     potential 19:14        property 3:15      50:5,6,9,17
+pages 20:20         Petitioners 1:6    practical 25:5          3:21,23 4:3,5,6   52:13,13,23,23
+
+
+                                  Alderson Reporting Company
+                              Official - Subject to Final Review
+                                                                                        Page 62
+
+
+ 53:19 54:2     raise 47:9          related 13:23          Respondent's          51:9,11,15
+proposition     raised 34:15          18:14                  19:13,15,18         52:15,16 54:1
+ 22:12          range 32:15         relates 4:17             24:17 27:24       rights 5:12 6:12
+protect 23:20   read 8:9,9 25:23      52:18,23             response 30:23        6:15,17 7:2
+protecting 23:18reading 38:4        relating 11:12           40:21               8:20,22 9:15
+protects 13:6   real 3:15 4:5,6     relationship           rest 18:20 43:18      17:24 18:14
+provide 8:7       4:16,17,23          18:9 32:25           restatement           19:5 23:25
+ 14:24 28:17      8:12,19 11:12     released 48:23           39:25 40:2,5,9      25:24 26:6,8
+ 36:16            13:19 14:1        relevant 41:8          Restatements          26:17 27:23
+provided 13:5     20:8,9,11,12      relied 11:20,24          34:1                29:3 31:12,13
+ 15:3 16:4 17:2   26:12 32:21       remaining 50:23        rested 27:20          38:6 39:14
+ 35:7,8           41:1 54:13          53:2                 restrictive 10:22     40:1 45:10
+provides 15:8,9 reality 15:21       removal 48:12            11:1                46:22,25 47:6
+providing 17:7,8really 7:17         removed 49:16          rests 19:21           50:2
+provision 16:5  realm 12:9,11       rendered 16:16         result 24:25        road 31:25 32:2
+provisions 30:3 reason 3:23 6:22    rent 30:9,10,16          26:16               32:17
+punitives 31:23   31:10 44:24         30:18                retains 20:11,12    ROBERTS 3:3
+purchase 8:11   reasoning 27:14     rented 30:8,11           20:15               10:9,14 12:6
+ 25:2 26:18,19    45:14             rents 5:14             review 41:7,8         18:21 21:8
+ 26:19,22 36:5  reasons 22:3,7      repeatedly             reviewed 21:15        22:3 23:13
+purchaser 22:2    29:2                24:22                  24:2                28:21 32:3,14
+purpose 29:4    REBUTTAL            report 7:12            revisit 27:11,21      32:18 40:10,14
+purposes 9:23     2:12 53:3           11:11                right 3:22 4:3,5      42:4,16 52:11
+ 48:1           receive 26:9        representative           4:6,23 5:10,13      53:1 54:17
+put 14:4 25:2   recharacterizi...     16:18                  5:15 6:18 7:6     route 45:22
+ 34:9 48:11       19:8              represented              9:13,16,25        rule 10:16 26:22
+puts 29:2 38:9  recognize 23:22       5:24                   10:24 18:1,7        50:7
+                recognizes 24:5     Republic 48:14           20:16,18 21:6     rules 7:5,10
+       Q        reconcile 51:23       53:11                  22:14,20 23:8       10:15
+qualify 28:16   reconsider          require 10:23            23:21 24:7,11     run 34:19 36:8
+question 10:10    49:10             required 11:2            24:14,15 25:6     runs 5:7,10
+ 10:10,12 19:11 reconsidered          25:23                  25:9,15,18,25       34:10 38:19
+ 22:10,13 25:25   11:22,23          reserve 18:19            26:6,9,10,12
+ 27:22 29:17    red 31:4            residence 13:18          26:20 27:16               S
+ 31:2,8 32:21   reduced 31:20         14:12                  28:1,2,3,8,16     S 2:1 3:1
+ 33:18 34:3,19 refer 53:9           resides 43:17            28:17 30:5,12     sale 3:23,25 4:9
+ 36:14 38:2     reference 35:20     resolved 50:20           30:13 31:14,19      5:16,23 6:2
+ 42:25 43:11      50:10               54:5                   33:13,24 35:10      25:2
+ 48:9 49:20,22 referred 38:3        respect 20:25            35:11,12 37:2     Saudi 10:18
+ 50:22 54:9       40:21               21:4 22:9 26:5         37:4,15,17          13:21 14:20
+questions 18:19 refers 7:12           27:12,22 50:23         38:5,16,18,22     saying 7:2 14:6
+ 28:1             27:16             Respondent               38:23 39:10         14:7 24:14
+quickly 30:1    reflect 27:6          1:25 2:11 9:20         40:17 41:18         29:24 30:12
+quiet 48:18       41:22 42:23         25:1 27:18             45:11,12,13         39:4 43:2 49:8
+quite 42:5,6    reflected 41:23       28:24                  46:11,14,18         52:12
+                  41:24 42:7,12     Respondents              47:5,13,14,14     says 7:10 8:15
+       R          42:24 45:1          24:21                  49:3,10 50:8        31:12 33:6
+R 3:1
+
+                               Alderson Reporting Company
+                                  Official - Subject to Final Review
+                                                                                           Page 63
+
+
+  35:24 37:2,13     sellers 36:5        sovereign 3:15         status 9:2 35:15     40:23 41:3
+  37:18 38:21,22    sense 6:5 19:15       3:16 5:20 7:14         35:23 41:7         46:8,10
+  39:11,14 40:1       23:10 26:4,23       8:8 10:22 11:1       statute 6:23       superior 9:2,9
+  40:4,6,7 41:3,9     28:20 30:21         11:4 12:17             10:23 18:13,13     35:14
+  42:13 43:13       separate 13:5         13:13 19:25            22:13 27:15      superiority 9:7
+  44:9 45:1,9         15:1,6              20:24 39:5,14          29:4 31:11,11    supply 16:25
+  50:7 53:15        service 15:8,9        47:17 49:1,12          34:10 37:18      supporting 1:23
+Scalia 3:20 4:2,7     15:19 16:4,22       49:17,19,22            38:20,21,22        2:8 19:1
+  4:12,15 5:16      services 14:25        50:7 53:14,15          40:4 44:9        suppose 15:12
+  5:19 6:3,16,21      14:25 15:3,4,5    sovereigns               50:14,23,25        15:13 20:6
+  7:17,21 12:9        16:16               34:22                  51:7 52:7          31:18 35:2
+  13:16,25 14:6     setoff 51:14        sovereign's            statutes 50:12       36:14
+  14:10,16 17:10    shortly 41:10         38:22 39:10,12         51:17,21,23      supposed 19:21
+  17:14,16 20:2     side 31:17 33:6     so-called 32:23        statute's 29:4     Supreme 1:1,15
+  20:22 21:1          39:3,5 47:3,5     species 23:9,23        statutory 11:5     sure 42:6 44:2
+  22:20,23 23:4     sides 28:18 39:7      24:3                   36:10 37:2,2     survived 36:4
+  23:8 25:17        side's 38:23        specific 16:15           37:18            survives 22:1,2
+  26:4,10 28:12     significant 5:12    SRI 1:20 2:6           step 4:4           sympathetic
+  29:7,14,18        similarities 5:9      18:24                Stevens 36:13        12:7 20:7
+  30:22 33:2,12     simply 3:24,24      Srinivasan 1:20          36:21,22 37:5    system 36:15
+  37:19,22,23         51:14               2:6 18:23,24           37:9 43:7,11
+  39:2,8,17 40:6    site 43:21            19:2 20:17,23        stopping 32:2,16          T
+  43:23 44:17,19    situation 23:19       21:3,14,25             32:18            T 2:1,1
+  44:22 46:21         51:3                22:8,22 23:3,7       straight 7:4       take 12:13 22:8
+  47:2,10 51:24     Sixpack 47:12         23:16 24:16,21       strange 21:1         22:11 27:2
+  52:5,8 54:10      slip 31:20 32:10      25:10,13 26:2          36:23              29:22 32:23
+  54:12,13          sold 3:21             26:13 27:4,8         strict 38:4          34:7,14 39:22
+scare 29:19         solely 49:16          28:15                stuff 33:4,6         48:3 53:18
+second 24:1 29:4    Solicitor 1:20      staff 43:22              44:20            taken 11:7
+  39:25 45:6          11:21 44:11,15    stake 28:8             subject 32:15      takes 22:18 28:5
+section 3:17 6:9    someone's 38:6      standard 28:17         subjects 13:19     talk 39:21 43:16
+  13:5 29:15        someplace 32:10       37:20,22             submitted 21:9       43:18
+  30:3,14 40:8      something's         start 32:17 37:1         54:18,20         talking 5:21 9:6
+  53:13               25:15               44:8 54:11           subsequent           9:7 15:23
+sections 6:23       soon 30:2           State 10:10 11:6         43:20              17:11,14 21:3
+secured 8:12,13     sorry 27:4 37:8       11:16 12:1           substance 37:11      37:3 42:10,10
+  19:17               48:20               34:10 37:13,16       substantive          46:2 49:23
+security 6:8 9:12   sort 24:4 36:23       41:11 43:19            15:16,23 37:12   talks 39:10
+  23:20,24 41:3     sorts 28:9 33:4,5     44:11 45:15,18         43:10 49:20,24     50:14
+  41:3              sounds 7:3            46:8 47:17           sue 12:19,23       Tate 13:12
+see 32:1 34:5,6     source 7:13           54:9                   17:1 18:6,18     tax 3:12,14 5:1,2
+seek 4:25 30:16       19:16 42:19,22    States 1:1,15,22       sues 19:24           5:3 7:23 8:1
+seeking 5:6         Souter 11:6 35:1      2:7 8:18 10:15       sui 21:23            9:2 15:14,17
+seen 12:21            35:6,7 38:1,24      11:3 13:15           suit 8:19 16:13      15:18 16:7
+sell 8:11 25:8        47:15,24 50:22      18:25 27:2,6           16:14,15 17:11     21:23 28:6,6
+  45:12,16,18         51:4,5,9,12,16      31:3 37:19,25          17:12 30:12        33:16,16 35:14
+  46:9,11             51:20               42:14 54:8             36:16 40:22,22     35:17,24,25
+
+
+                                   Alderson Reporting Company
+                                 Official - Subject to Final Review
+                                                                                Page 64
+
+
+  36:8,11,14,19      26:2 27:9,10        52:1                  42:14 54:823:17,19,21,23
+  36:23 37:4         27:20 28:8,15     transaction 4:4        unpaid 34:16,22
+                                                                         24:3
+  40:8,10,12         29:22 31:24         7:6                   48:9,11 52:23
+                                                                        water 15:4,9,10
+  44:6 45:2 48:5     32:18 34:18,24    transformed             52:23,24  16:5,21,24,25
+  53:8               35:5,5,11,11        19:7                 urge 50:20 17:1,2,8,9
+taxation 54:2        36:1,22 37:25     Travelers 24:1         use 14:4,10,11
+                                                                        way 12:23 19:16
+taxed 14:15          38:25 44:4,5      treatments 10:8         14:13 28:19
+                                                                         20:19 25:5
+  43:14              45:9 46:1,3       treaty 39:3             39:14 52:526:24 36:23
+taxes 13:19 14:2     47:8 49:9,9       tried 52:9              53:15     51:22
+  15:12 16:13,15     51:5 54:14        true 9:5 36:7          U.N 16:19 web 43:21
+  17:11,12,21      third 21:17 25:2    try 22:8 32:3                    weight 19:21
+  19:5,20 30:19      29:5 40:2,9         50:1                  V        Weltover 10:19
+  37:7,10,13       thoroughfare        trying 29:9 34:2v 1:7            went 16:24
+  39:19,19 43:22     28:18               42:13,19      vague 11:10,15   we'll 3:3 15:13
+  44:2,3,13,16     thought 9:1 10:2    Tuesday 1:12    valid 21:13 22:7  44:7 54:10
+  45:1 48:11         21:8 36:3         turn 19:16 25:8   29:12          we're 12:20
+  52:18,20,24        52:17             two 21:18 23:23 validity 5:1,2    29:16,24,24
+  53:24 54:11      three 29:2 51:6       24:3 27:13      19:9            31:3
+tell 8:25 12:15    ticket 34:15,16       36:11 42:2    value 38:19      we've 12:21
+  25:3               34:17,22 35:9       53:2          various 34:11     27:10
+telling 44:11,12   tickets 18:4,6,17   type 3:14 9:14    49:11          willing 20:13
+term 6:5             18:18 51:25       types 9:10 15:4 verbatim 6:22    win 45:11,16,18
+terms 51:12          52:1,14,21,24       28:5          versa 6:19        46:9,15
+terribly 42:8      time 10:23 11:2                     vice 6:19        wipe 38:19
+testimony 11:10      11:7,25 18:20             U       Vienna 15:2,17 withdrawn
+text 38:3,4          36:9,10 41:8      Uh 4:1            15:19,22 41:13  43:24
+Thank 18:21          41:23,23 43:6     ultimate 3:25     43:12,19 49:21 withholding
+  19:2 28:21         50:23 52:8,9        37:9,11         54:1            52:18
+  50:21 52:25        53:9              ultimately 4:17 view 19:18       won 12:17
+  53:1,5 54:16     title 4:23,25       unanimous         25:19 43:3     word 39:14
+  54:17              25:7,11,14,15       53:22           48:16          wording 42:25
+Theoretically        25:20,20,21,22    underlying      viewed 8:13       43:2
+  51:2               25:23 26:15,16      22:14 32:25   violates 49:1    words 10:4 39:8
+theory 10:22         26:23,25 30:1       37:12 49:20   virtue 28:7       46:7
+  11:1 15:24         30:10 38:8,9        50:6          vs 3:5           work 13:8 34:5
+  18:15 19:13,13     38:10,13 48:18    understand 5:19                  world 11:3
+  19:15,21 20:15   today 37:13           23:18 29:23           W         12:14 33:19
+  47:5               38:16 43:21         38:4 48:10    wait 46:21        50:4 54:8,11
+thing 3:21 10:4      46:18 47:6        understood      waived 8:18      worried 33:3
+  32:13 35:1       told 41:11            10:22         waivers 8:19     worth 33:10
+  41:9             tomorrow 18:3       undoubtedly     want 29:20,21    wouldn't 4:3,19
+things 28:13         18:16               33:7,10         30:18 31:22     14:2 15:25
+  33:20 51:6       tort 32:5 45:17     United 1:1,4,15   33:22 34:5      20:17 24:25
+think 4:20 6:18      46:9                1:22 2:7 3:5    47:2,4          26:17,20 32:6
+  7:24 8:2,14      traditional           8:18 11:3     wanted 29:11     write 6:9 18:13
+  19:12 23:3,7       33:15               13:14 18:25   Washington        49:6
+  23:23 25:13      traffic 51:24         27:1,5 31:3     1:11,21        wrong 9:1 12:5
+                                                       waste 22:5 23:15
+
+                                  Alderson Reporting Company
+                                   Official - Subject to Final Review
+                                                                        Page 65
+
+
+ 33:22 44:19       17 44:12
+                   18 2:8
+        X          19th 13:9,11
+x 1:2,10           1932 41:7
+                   1952 43:19
+        Y          1975 40:25
+Yeah 37:23         1976 11:2,2 29:6
+  38:24 44:17        39:24 40:3
+  47:24              42:12,24
+years 40:3         1985 21:10 22:7
+York 1:8,9,18        27:10
+  1:24 3:6 4:25
+  5:5 9:1,17,23            2
+  9:25 14:1,24     2 24:9
+  15:12,12 18:3    20 43:12
+  23:22,23 24:2    2007 1:12
+  34:15 35:13,15   21 20:20
+  43:21 48:4       22 20:20
+  49:21 50:4       23 43:13
+  52:11 53:21      24 1:12 31:4
+  54:2               40:20
+York's 36:15       28 2:11
+                   29 11:23 53:6
+       $
+$100,000 51:25             3
+$4 31:22           3 2:4 24:8,9
+                     29:25
+       0           300 31:22
+06-134 1:7 3:4
+                          4
+       1           455 40:8
+1 43:15
+10:02 1:16 3:2             5
+100 52:18          50 37:25
+11:01 54:19        53 2:14
+1110 45:3
+114 24:3                     6
+12 21:11           68 40:1
+14 24:2
+1605 13:9 30:14           7
+1605(a)(2) 4:11    78 17:17
+  8:6 13:5
+1605(a)(4) 3:17            9
+  6:10 10:16       9 39:9 41:19
+  11:11
+1609-1610 53:13
+1610 29:15 30:3
+  30:17
+
+
+                                    Alderson Reporting Company
+

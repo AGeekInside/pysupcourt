@@ -1,0 +1,4059 @@
+                        Official - Subject to Final Review
+
+
+ 1      IN THE SUPREME COURT OF THE UNITED STATES
+
+ 2   - - - - - - - - - - - - - - - - - x
+
+ 3   BETTY E. VADEN,                                :
+
+ 4              Petitioner                          :
+
+ 5         v.                                       :        No. 07-773
+
+ 6   DISCOVER BANK, ET AL.                          :
+
+ 7   - - - - - - - - - - - - - - - - - x
+
+ 8                              Washington, D.C.
+
+ 9                              Monday, October 6, 2008
+
+10
+
+11                  The above-entitled matter came on for oral
+
+12   argument before the Supreme Court of the United States
+
+13   at 1:00 p.m.
+
+14   APPEARANCES:
+
+15   DANIEL R. ORTIZ, ESQ., Charlottesville, Va.; on behalf
+
+16     of the Petitioner.
+
+17   CARTER G. PHILLIPS, ESQ., Washington, D.C.; on behalf
+
+18     of the Respondents.
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+
+                                        1
+
+                         Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1                           C O N T E N T S
+
+
+ 2   ORAL ARGUMENT OF                                        PAGE
+
+ 3   DANIEL R. ORTIZ, ESQ.
+
+ 4      On behalf of the Petitioner                             3
+
+
+ 5   CARTER G. PHILLIPS, ESQ.
+
+
+ 6      On behalf of the Respondents                           26
+
+
+ 7   REBUTTAL ARGUMENT OF
+
+
+ 8   DANIEL R. ORTIZ, ESQ.
+
+
+ 9      On behalf of the Petitioner                            58
+
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+
+                                        2
+
+                         Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1                      P R O C E E D I N G S
+
+ 2                                                             (1:00 p.m.)
+
+ 3                 CHIEF JUSTICE ROBERTS:                We will hear
+
+ 4   argument next in Vaden v. Discover Bank.
+
+ 5                 Mr. Ortiz.
+
+ 6                  ORAL ARGUMENT OF DANIEL R. ORTIZ
+
+ 7                    ON BEHALF OF THE PETITIONER
+
+ 8                 MR. ORTIZ:      Thank you, Mr. Chief Justice,
+
+ 9   and may it please the Court:
+
+10                 This case poses two substantive issues:
+
+11   First, whether section 4 of the Federal Arbitration Act
+
+12   impliedly repeals section 1331's "well-pleaded
+
+13   complaint" requirement?         Only if it does can a district
+
+14   court look through a petition to compel arbitration that
+
+15   itself contains no Federal question to ground Federal
+
+16   subject matter jurisdiction on a Federal question
+
+17   lurking somewhere in the dispute sought to be
+
+18   arbitrated.
+
+19                 And, second, if section 4 does repeal this
+
+20   part of section 1331, can a completely pre-empted
+
+21   State-law counterclaim in a pending State-court lawsuit
+
+22   furnish look-through jurisdiction?
+
+23                 Your Honors, at bottom this is ae dispute
+
+24   between two radically different conceptions of Federal
+
+25   question jurisdiction.        One view, Respondents', is so
+
+
+                                         3
+
+                          Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   broad as to allow parties to compel arbitration in
+
+ 2   Federal court of nearly any dispute concerning credit
+
+ 3   card debt; and one, Petitioner's, narrowly confined
+
+ 4   subject matter jurisdiction to those disputes where the
+
+ 5   arbitration agreement itself arguably arises under
+
+ 6   Federal law.
+
+ 7              But, Your Honors, the ordinary, the original
+
+ 8   meaning of section 4, the structure of the overall
+
+ 9   Federal Arbitration Act, and the purposes of the Federal
+
+10   Arbitration Act all militate strongly in favor of the
+
+11   Petitioner's view of subject matter jurisdiction here.
+
+12   First, the language.       The words "save for such
+
+13   agreement," Your Honors, as the words "save for"
+
+14   themselves suggest, necessarily imply that the agreement
+
+15   exerts some negative effect on otherwise existing
+
+16   jurisdiction.
+
+17              CHIEF JUSTICE ROBERTS:                   That simply means
+
+18   that you can't bring an action in Federal court because
+
+19   the agreement says you can't.              The agreement says you've
+
+20   got to arbitrate.    So if you throw the agreement out
+
+21   save for such agreement, the question is whether or not
+
+22   you could then bring the action in Federal court.
+
+23              MR. ORTIZ:         Your Honor, the -- those words
+
+24   "save for such agreement" were originally intended to
+
+25   refer to the hoary doctrine of ouster, which barred the
+
+
+                                         4
+
+                          Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   Federal courts from subject matter jurisdiction in such
+
+ 2   suits.   The words "but for" suggest that the agreement
+
+ 3   itself somehow impairs jurisdiction.
+
+ 4                 JUSTICE GINSBURG:            Mr. Ortiz, why isn't
+
+ 5   section 2 of the Arbitration Act sufficient to take care
+
+ 6   of the ouster doctrine, whatever may have been left of
+
+ 7   it?
+
+ 8                 MR. ORTIZ:      Your Honor, section 2 says that
+
+ 9   an arbitration agreement shall be valid, irrevocable,
+
+10   and enforceable.    At the time when section 2 was
+
+11   enacted, the Federal courts were still split between law
+
+12   and equity.    Section 2 by itself could well have made
+
+13   such arbitration agreements enforceable, but only in
+
+14   law.   Section 4, "save for such agreement," makes clear
+
+15   that there is no --
+
+16                 JUSTICE GINSBURG:            I'm not sure that I
+
+17   follow that, because it seems to me -- where did this
+
+18   doctrine of ouster come from?              It came from the court.
+
+19   The courts said, no, we won't enforce arbitration
+
+20   agreements if it would oust us of jurisdiction.              Why
+
+21   would a court reading section 2 not say, well, that rule
+
+22   never made any sense in the first place, so we're not
+
+23   going to follow it?      It's not any rule that Congress has
+
+24   imposed on the courts.
+
+25                 MR. ORTIZ:      Your Honor, section 2 by itself
+
+
+                                         5
+
+                           Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   would not have made clear that in -- such agreements
+
+ 2   were enforceable in equity.              As Justice Story wrote in
+
+ 3   Tobey v. County of Bristol, bills in equity were thought
+
+ 4   in the Federal courts to be ill-founded in point of
+
+ 5   jurisdiction to support a motion to compel arbitration.
+
+ 6   And so although under section 2 such an agreement might
+
+ 7   be enforceable in law -- damages might be available,
+
+ 8   penalty clauses might be enforced in law, a party might
+
+ 9   also be able to recover the expenses incurred in an
+
+10   arbitration that was revoked before the arbitration came
+
+11   to its conclusion -- that would not be clear that --
+
+12              JUSTICE GINSBURG:               That may have been the
+
+13   historic model.    This was never a notion that Congress
+
+14   enforced on the courts.         They imposed it on themselves.
+
+15              So my question remains why shouldn't the
+
+16   Court then say this agreement has been declared
+
+17   enforceable, the ouster doctrine didn't have much to
+
+18   recommend it in the beginning, but certainly not any
+
+19   more; we can change it?
+
+20              MR. ORTIZ:         No, Your Honor.            It is true that
+
+21   Congress in the Federal Arbitration Act abrogated the
+
+22   ouster doctrine.   The only question is whether section 2
+
+23   would do so by itself or whether section 4 was necessary
+
+24   because of the division between law and equity at the
+
+25   time.
+
+
+                                         6
+
+                          Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1               JUSTICE SOUTER:               I'm just not getting the --
+
+ 2   I have never understood this argument and I still don't
+
+ 3   understand it now.      What is it in the text of section 2
+
+ 4   that would seem to leave it inadequate to touch equity
+
+ 5   as well as law?
+
+ 6               MR. ORTIZ:         Your Honor, section 2 says that
+
+ 7   arbitration agreements shall be valid, irrevocable and
+
+ 8   enforceable, but it does not say how they could be
+
+ 9   enforced.
+
+10               JUSTICE SOUTER:               Exactly.        And why,
+
+11   therefore, would anyone -- why would anyone be drawing
+
+12   distinctions as to how?          It would be enforceable in any
+
+13   way that an agreement might appropriately be enforced in
+
+14   the courts of the United States at the time -- or any
+
+15   courts, for that matter, at the time the act was passed.
+
+16               MR. ORTIZ:         Your Honor, if Congress wanted
+
+17   to be very clear that ouster in all of its forms was no
+
+18   longer any kind of issue in enforcing arbitration
+
+19   agreements, it took the extra step in section 4.
+
+20               JUSTICE SOUTER:               It -- it made a categorical
+
+21   statement in section 2.          Why did it need to be any
+
+22   clearer than that?
+
+23               MR. ORTIZ:         Well, because, Your Honor, it
+
+24   would be the case that arbitration agreements could be
+
+25   enforceable, but just not enforceable in the way that
+
+
+                                          7
+
+                           Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   might be most helpful.
+
+ 2                JUSTICE SOUTER:              Well, it could be, but why
+
+ 3   in the world would anyone draw that inference?
+
+ 4                MR. ORTIZ:        Your Honor, because there were
+
+ 5   separate bars at law and equity at the time -- at the
+
+ 6   time of ouster.     Under law, there was some room in some
+
+ 7   jurisdictions for there to be enforcement, not across
+
+ 8   the board.   In equity there was an even higher standard
+
+ 9   at the time against jurisdiction.
+
+10                JUSTICE SCALIA:              I have the same problem
+
+11   that Justice Souter does, especially since section 2
+
+12   refers to equity.     It says they will be irrevocable and
+
+13   enforceable, save upon such grounds as exist at law or
+
+14   in equity for the revocation of any contract.
+
+15                Obviously this -- this section was meant to
+
+16   apply to equitable actions.               You wouldn't dismiss them
+
+17   in law for a -- a ground that only existed in equity?
+
+18                MR. ORTIZ:        But that particular section,
+
+19   Justice Scalia, is meant to refer to ordinary State
+
+20   contract doctrines in law and equity, which would make
+
+21   the overall contract unenforceable.                       The "save for"
+
+22   language is specifically directed at ouster, which is a
+
+23   jurisdictional doctrine rather than one of substantive
+
+24   contract law.
+
+25                JUSTICE SCALIA:              I don't know.          When it says
+
+
+                                          8
+
+                           Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   they are enforceable and makes an exception only for
+
+ 2   grounds that enable revocation in law or in equity, I
+
+ 3   would -- I would think that the general command was
+
+ 4   meant to apply to both law and equity.
+
+ 5              MR. ORTIZ:        Your Honor, the Respondents'
+
+ 6   view also doesn't take into account the other provisions
+
+ 7   of the Federal Arbitration Act itself.                  Under their
+
+ 8   view, the "save for" language is literally read out of
+
+ 9   section 4 of the agreement, since the rest of section 4
+
+10   would accomplish exactly what they think the
+
+11   look-through doctrine that they are arguing for without
+
+12   those four critical words.
+
+13              Also, sections 203 and sections 205 show
+
+14   that when Congress wanted to expand subject matter
+
+15   jurisdiction, it knew how to do so clearly and
+
+16   unequivocally.   And in fact, when Congress adopted
+
+17   Section 205 in 1970 --
+
+18              JUSTICE STEVENS:             I hate to interrupt you
+
+19   here, but would you explain why the words "save for such
+
+20   agreement" cut back on the jurisdiction?                 I didn't quite
+
+21   understand your point.
+
+22              MR. ORTIZ:        Justice Stevens, the point is
+
+23   that "save for such agreement" instructs a court to jump
+
+24   over the historical ouster doctrine.
+
+25              JUSTICE STEVENS:             Doesn't it just instruct
+
+
+                                        9
+
+                         Alderson Reporting Company
+                       Official - Subject to Final Review
+
+
+ 1   the court to decide whether, if there were no such
+
+ 2   agreements, would there be Federal jurisdiction in the
+
+ 3   underlying dispute?
+
+ 4               MR. ORTIZ:       Yes.      Yes, Your Honor.
+
+ 5               JUSTICE STEVENS:           So in this case there
+
+ 6   would be.
+
+ 7               MR. ORTIZ:       No, Your Honor, because the
+
+ 8   underlying dispute between the parties in this case is
+
+ 9   a -- concerns the arbitration agreement, not the
+
+10   underlying bank debt.
+
+11               JUSTICE STEVENS:           No, it's not the
+
+12   underlying bank debt, but it is an underlying dispute
+
+13   over which this Federal -- if you had brought your class
+
+14   action as an original case, there would have been
+
+15   Federal jurisdiction.
+
+16               MR. ORTIZ:       Yes, Your Honor.
+
+17               JUSTICE STEVENS:           So then why doesn't the
+
+18   language read on this case?
+
+19               MR. ORTIZ:       Well, Your Honor, the language
+
+20   in -- the language -- the particular language of section
+
+21   4 is meant to say, save for such agreement but for the
+
+22   doctrine of ouster, setting aside the ouster doctrine
+
+23   whether there would be --
+
+24               JUSTICE STEVENS:           The text says nothing
+
+25   about the ouster doctrine.
+
+
+                                      10
+                           Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1                MR. ORTIZ:        No.       But read in its historical
+
+ 2   context, Your Honor --
+
+ 3                JUSTICE STEVENS:             Rather than literally.
+
+ 4                MR. ORTIZ:        Well, literally at the time it
+
+ 5   would have been understood to refer -- to refer to that,
+
+ 6   because ouster was the whole problem against which FAA
+
+ 7   itself was first enacted.            FAA --
+
+ 8                CHIEF JUSTICE ROBERTS:                  This is a tough --
+
+ 9   it's a tough sell.      When you say "save for such
+
+10   agreement," which I agree with Justice Stevens seems to
+
+11   me you've put the agreement aside and then you say right
+
+12   away then you look at the agreement to see if there is
+
+13   Federal jurisdiction and only the agreement, not through
+
+14   that.   So you're throwing it out and then you bring it
+
+15   right back in.   It seems --
+
+16                MR. ORTIZ:        Not quite, Your Honor.            What --
+
+17   the rest of that sentence in section 4 instructs the
+
+18   court to look at a suit concerning the subject matter in
+
+19   controversy, which would be a suit seeking specific
+
+20   performance of the arbitration.
+
+21                CHIEF JUSTICE ROBERTS:                  Of the arbitration
+
+22   agreement?
+
+23                MR. ORTIZ:        Yes, sir.           So you are -- what
+
+24   the court is instructed to do under the "save for such
+
+25   agreement" clause is to ignore the historical problem of
+
+
+                                         11
+                           Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   ouster and then to see whether in a suit brought to
+
+ 2   specifically enforce the arbitration agreement, there
+
+ 3   would be Federal subject matter jurisdiction.
+
+ 4                CHIEF JUSTICE ROBERTS:                 Right.   And I guess
+
+ 5   it's -- I mean, you say if it said save for the historic
+
+ 6   doctrine of ouster, then it would be easy to say, and
+
+ 7   then you look at the arbitration agreement.                  But it says
+
+ 8   "save for such agreement" and then you look at the
+
+ 9   agreement.
+
+10                MR. ORTIZ:       Well, you're not quite looking
+
+11   at the agreement.     And this makes clear, I believe, that
+
+12   ouster was the problem being referred to in those four
+
+13   words in section 4.      It says a suit arising out of a
+
+14   controversy.   It's instructing the Federal courts to
+
+15   determine Federal subject matter jurisdiction for a
+
+16   section 4 proceeding, which was completely novel at the
+
+17   time.
+
+18                JUSTICE GINSBURG:             You just -- you just used
+
+19   the words "arising out of the controversy."                  "The
+
+20   controversy" is used in several sections of the
+
+21   Arbitration Act, and "the controversy" in other contexts
+
+22   means the underlying dispute between the parties.                   "The
+
+23   controversy" is not over the enforcement of the
+
+24   arbitration agreement.
+
+25                MR. ORTIZ:       With all respect, Justice
+
+
+                                        12
+                           Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   Ginsburg, it's a little bit more complicated than that.
+
+ 2   The Federal Arbitration Act uses the word "controversy"
+
+ 3   four times, twice in section 2, once in section 4 and
+
+ 4   once in section 5.
+
+ 5              In section 2, the word "controversy" is
+
+ 6   embedded in a larger phrase:              "Controversy arising out
+
+ 7   of such contractor transaction."                 It is that context for
+
+ 8   the word "controversy" that makes clear that in section
+
+ 9   2, both instances in section 2, it is referring to the
+
+10   dispute which is sought to be arbitrated.
+
+11              In section 5, by contrast, the simple word
+
+12   which appears the middle of 4A of the Petitioner's
+
+13   brief, either -- section 5, which deals with the
+
+14   appointment of arbitrators or umpires, it says "either
+
+15   party to the controversy", it's clear in the section 5
+
+16   context that the word "controversy" by itself refers to
+
+17   the controversy over arbitration, not to the underlying
+
+18   dispute.
+
+19              JUSTICE ALITO:             In Moses H. Cone, didn't the
+
+20   court say that the controversy was the underlying
+
+21   dispute?
+
+22              MR. ORTIZ:          Your Honor, that -- this Court,
+
+23   in that footnote 32 of Moses H. Cone, mentioned language
+
+24   that refers to the underlying dispute.                    In the context
+
+25   of both the sentence, the footnote itself, and the
+
+
+                                         13
+                           Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   overall case, it is clear that the Court could not have
+
+ 2   meant that.
+
+ 3                 That phrase is followed immediately by a
+
+ 4   semicolon and then the word "hence."                     And after the word
+
+ 5   "hence" in that same sentence in the same footnote, this
+
+ 6   Court says, "Hence an independent basis for jurisdiction
+
+ 7   needs to exist," which in context makes it clear that
+
+ 8   it's not referring to look through.
+
+ 9                 Also that sentence cites a Fifth Circuit
+
+10   case, Commercial Metals Company, and the other -- points
+
+11   to the other cases in it.           They basically show that an
+
+12   independent -- stand for the proposition that an
+
+13   independent basis of jurisdiction exists, not that there
+
+14   is look through.    And, in fact, one of them dealing with
+
+15   Federal-question jurisdiction says that the Federal
+
+16   issue has to appear on the face of the complaint.
+
+17                 The rest of footnote 32, Your Honor, is all
+
+18   directed towards -- towards the jurisdictional inertness
+
+19   of the FAA overall.      And the case of Moses H. Cone,
+
+20   itself, if look through had been rigorously adopted
+
+21   there, it would have defeated subject-matter
+
+22   jurisdiction because there would not have been complete
+
+23   diversity among the parties.
+
+24                 CHIEF JUSTICE ROBERTS:                But you do think --
+
+25   you do think we should look through to determine
+
+
+                                        14
+                           Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   diversity and the amount in question?                   In other words,
+
+ 2   not in the Federal-question context, but if it's
+
+ 3   diversity, you say we do look through the arbitration
+
+ 4   agreement.
+
+ 5                MR. ORTIZ:      Your Honor, that seems a
+
+ 6   somewhat different sense of look through; but, to the
+
+ 7   extent that ordinary, background 1331 or 1332 principles
+
+ 8   authorize such look through, that is appropriate in
+
+ 9   arbitration cases as much as it is appropriate outside
+
+10   of arbitration cases.
+
+11                It is Petitioner's contention that section 4
+
+12   has no independent look-through force.                  To the extent
+
+13   that look through is appropriate, it is because it is
+
+14   appropriate under section 1332, itself.                        If under
+
+15   Respondents' view section 4 operates independently to
+
+16   authorize look through, then it would presumably
+
+17   override 1332's normal principle that you do not look
+
+18   through in determining complete diversity.                  And it would
+
+19   have the overall effect of paradoxically reducing the
+
+20   number of petitions to compel on the diversity side that
+
+21   could be brought in Federal court.
+
+22                JUSTICE SCALIA:           Say that again.        I didn't
+
+23   follow that.
+
+24                MR. ORTIZ:      The -- the point is a simple
+
+25   one, but it's sometimes hard to express.                  If you -- if
+
+
+                                       15
+                         Alderson Reporting Company
+                       Official - Subject to Final Review
+
+
+ 1   this Court says that section 4 operates independently to
+
+ 2   authorize look through in section 1331 and section 1332,
+
+ 3   the courts, district courts, will be in the position of
+
+ 4   looking through section 1332 petitions to determine
+
+ 5   whether the parties are completely diverse.
+
+ 6              It will not be basing the complete diversity
+
+ 7   determination on the parties before it in the
+
+ 8   arbitration -- in the petition to compel, itself, but it
+
+ 9   will be looking through to the underlying dispute.
+
+10              Now, in Moses H. Cone, if the Court had done
+
+11   that, it would have picked up the architect who was
+
+12   dropped from the actual -- between the actual underlying
+
+13   lawsuit and the petition to compel arbitration, and
+
+14   completeness of diversity would have been defeated
+
+15   there.
+
+16              JUSTICE STEVENS:            Is that point argued in
+
+17   Moses -- Moses Cone?     Was that point argued in that
+
+18   case?
+
+19              MR. ORTIZ:       I do -- I do not know, Your
+
+20   Honor.
+
+21              JUSTICE SCALIA:            Why -- why wouldn't 1332
+
+22   require complete diversity and require the court to
+
+23   assure itself of that anyway?
+
+24              MR. ORTIZ:       No, Your Honor.            The question --
+
+25   1332 does not authorize look through for purposes of
+
+
+                                      16
+                        Alderson Reporting Company
+                       Official - Subject to Final Review
+
+
+ 1   determining completeness of diversity, so if section 4
+
+ 2   independently authorizes --
+
+ 3              JUSTICE SCALIA:            I thought you said it did
+
+ 4   have a look through, an automatic look through, itself.
+
+ 5              MR. ORTIZ:       Not under the completeness of
+
+ 6   diversity, Your Honor.      To the extent it has anything
+
+ 7   equivalent to look through, it's on the amount-in-
+
+ 8   controversy side of Section 1332.
+
+ 9              JUSTICE SCALIA:            I see.           I see.   You are --
+
+10   you are -- you are limiting it to the amount.
+
+11              MR. ORTIZ:       Yes.       So, under Respondents'
+
+12   view, there would be -- section 4 would authorize a look
+
+13   through one part of section 1332 and not with respect to
+
+14   another part of section 1332 under --
+
+15              JUSTICE STEVENS:            I am not -- I mean just --
+
+16   I have to be sure I follow.           Why couldn't it require the
+
+17   same look through in a diversity case as it does in a
+
+18   Federal-question case?
+
+19              MR. ORTIZ:       Because, Your Honor, if this
+
+20   Court authorizes look through in Federal-question cases
+
+21   through the arbitration agreement, itself, to the
+
+22   underlying dispute, then if that look -- and that look
+
+23   through comes -- authorization comes from Section 4 --
+
+24              JUSTICE STEVENS:            Right.
+
+25              MR. ORTIZ:       -- then in 1332 cases, this
+
+
+                                      17
+                        Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   Court would be looking through not only for
+
+ 2   amount-in-controversy purposes --
+
+ 3                JUSTICE STEVENS:           Complete diversity.
+
+ 4                MR. ORTIZ:      -- but also for complete
+
+ 5   diversity.
+
+ 6                JUSTICE STEVENS:           What's wrong with that?
+
+ 7                MR. ORTIZ:      Well, that would have the
+
+ 8   effect, Your Honor, of not allowing the petitioner to
+
+ 9   define the contours of the lawsuit and would actually
+
+10   reduce the number of section 1332 petitions that could
+
+11   be brought in Federal court.
+
+12                JUSTICE STEVENS:           Maybe it would.   So what?
+
+13                MR. ORTIZ:      Well, Your Honor, if that is --
+
+14   that is an implication that is -- is lurking in
+
+15   Respondents' position, and it is also -- in a case like
+
+16   this it is a little bit worrying as to why ordinary
+
+17   section 1332 principles should not apply.
+
+18                JUSTICE BREYER:           There is a dispute between
+
+19   people.   You look at their underlying dispute, the
+
+20   underlying one, and you say:            Is there diversity?
+
+21   What's the problem?
+
+22                MR. ORTIZ:      Well, Your Honor, that's not
+
+23   actually the way you use Federal -- lower Federal court
+
+24   now.
+
+25                JUSTICE BREYER:           Why -- why wouldn't you do
+
+
+                                       18
+                           Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   just what I said, just what we started with?                       You take
+
+ 2   out the arbitration agreement, and then you look to see
+
+ 3   what this dispute is about.             And if it's about something
+
+ 4   that happens to involve all people from one side in one
+
+ 5   State and from another State on the other side, there is
+
+ 6   jurisdiction.    Why is that a problem?                  I don't
+
+ 7   understand.
+
+ 8                 MR. ORTIZ:      Your Honor, it -- it removes the
+
+ 9   Petitioner's ability or the plaintiff's ability or the
+
+10   -- similar to the plaintiff's ability in an ordinary
+
+11   lawsuit to define --
+
+12                 JUSTICE BREYER:           Why?
+
+13                 MR. ORTIZ:      -- the parties.
+
+14                 JUSTICE BREYER:           Why?
+
+15                 MR. ORTIZ:      Well, because, Your Honor,
+
+16   someone could not bring a section 4 petition in Federal
+
+17   court against maybe one party seeking to force that
+
+18   party into arbitration if there are other parties
+
+19   involved in the underlying dispute where there is no
+
+20   diversity.
+
+21                 JUSTICE KENNEDY:           All right.        So you define
+
+22   "look through" as -- under our hypothetical here as
+
+23   looking through to all people who might potentially be
+
+24   parties under this arbitration agreement.
+
+25                 MR. ORTIZ:      Well, that would be the
+
+
+                                        19
+                          Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   implication of taking the kind of look-through theory
+
+ 2   that Respondents are arguing for in this case and
+
+ 3   applying it evenhandedly.
+
+ 4                 JUSTICE KENNEDY:           I will think about that.
+
+ 5   I'm -- I'm -- I wasn't -- it wasn't clear to me that
+
+ 6   that was so.
+
+ 7                 MR. ORTIZ:      But, Your Honor, there are also
+
+ 8   several jurisdictional gaps in the act that are created
+
+ 9   under Respondents' view.          The critical --
+
+10                 CHIEF JUSTICE ROBERTS:                Can I hold up just a
+
+11   second to make sure I understand it.                     You are saying
+
+12   that, let's say, Person A has an arbitration agreement
+
+13   that implicates Persons B and C.                C is diverse, but B is
+
+14   not.   They could decide to compel arbitration with
+
+15   respect to B and leave C out of it.                      But if you follow
+
+16   the look-through doctrine, you would say, well, the
+
+17   dispute is between A and B and C; and so you would be
+
+18   depriving A of their right to frame their own complaint
+
+19   in a way that doesn't create Federal jurisdiction.
+
+20                 MR. ORTIZ:      Exactly, Your Honor, and that --
+
+21                 JUSTICE KENNEDY:           But that's not quite so,
+
+22   because the -- the action could proceed with just A and
+
+23   C, and then it -- it could come to a complete judgment
+
+24   as to them.    In the look through for the -- the claims
+
+25   that are involved, the action couldn't possibly proceed
+
+
+                                        20
+                          Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   without taking account of the pre-emption claim that the
+
+ 2   Federal -- the Federal claim.
+
+ 3               You couldn't -- you could decide the case
+
+ 4   completely in No. 1, the diversity case, but not in No.
+
+ 5   2.   So there -- so there is a difference.                 It's true,
+
+ 6   you don't decide it completely as to all parties.
+
+ 7               MR. ORTIZ:       When the -- no, Your Honor.
+
+ 8   But there -- there could under your situation be large
+
+ 9   parts of the underlying dispute that are not covered
+
+10   under -- and still left to be decided.                  It is, you know,
+
+11   not the case that necessarily everything would be
+
+12   subject to arbitration.
+
+13               CHIEF JUSTICE ROBERTS:                 Of course, I suppose
+
+14   how that works depends on what the rules are about how
+
+15   you frame the dispute once you do look through.
+
+16               I mean, if there is a pending State suit
+
+17   between A and B, even though C may -- you could have
+
+18   sued C as well, I mean the judge can say, well, I am
+
+19   only going to look through to what the -- the actual
+
+20   litigation is; and if I look at that, that's not a
+
+21   Federal case.   And -- and -- and so your position
+
+22   follows.
+
+23               MR. ORTIZ:       This Court could; and,
+
+24   interestingly, that wasn't the situation in Moses H.
+
+25   Cone, itself.   There, there was a preexisting lawsuit,
+
+
+                                       21
+                         Alderson Reporting Company
+                       Official - Subject to Final Review
+
+
+ 1   and this Court did not look through.                   The court found
+
+ 2   that there was no problem with the architect being
+
+ 3   absent from the petition to compel arbitration, itself.
+
+ 4              Well, Your Honors, there is also, as I
+
+ 5   mentioned, strange jurisdictional gaps that are created
+
+ 6   under Respondents' view of this case.                   Section 4 is the
+
+ 7   only section of the arbitration -- in the Federal
+
+ 8   Arbitration Act that has the critical "save for such"
+
+ 9   language, which under Respondents' view authorizes
+
+10   look-through jurisdiction, in particular, Sections 7, 9,
+
+11   10, and 11, which allow a court, a Federal court, to
+
+12   compel the attendance of witnesses at ab arbitration.
+
+13   That is Section 7; and then 9, 10, and 11, which
+
+14   respectively allow a Federal court to confirm, vacate,
+
+15   or modify an arbitration once it has happened.
+
+16              None of those sections contain language
+
+17   which under Respondents' view or the Fourth Circuit's
+
+18   view are necessary for there to be look through.
+
+19              In all those cases -- situations, Your
+
+20   Honor, the Federal courts would be in the position of
+
+21   being able to compel arbitration under section 4 but not
+
+22   being able to compel the attendance of witnesses at the
+
+23   arbitration or to subsequently confirm, vacate, or
+
+24   modify an award coming from an arbitration that they,
+
+25   themselves, compelled.
+
+
+                                      22
+                        Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1               Coming from an arbitration that they
+
+ 2   themselves compelled.       The closest Respondent comes to
+
+ 3   sort of explaining this or trying to jump or leap over
+
+ 4   this gap, are two amici, two law professors, who argue
+
+ 5   that this Court should find jurisdiction, subject matter
+
+ 6   jurisdiction under sections 7, 9, 10 and 11 as an
+
+ 7   emanation from sections 3 and 4, only one of which
+
+ 8   actually has the necessary "save for" language.
+
+ 9               Also, Your Honors, this look-through
+
+10   approach to Federal subject matter jurisdiction violates
+
+11   the core purposes of the Federal Arbitration Act.                  The
+
+12   Federal Arbitration Act was meant to get things to
+
+13   arbitration quickly and to have arbitrators, not judges,
+
+14   decide them.    These --      sometimes often complex
+
+15   jurisdictional inquiries undermine both those aims.
+
+16               Here this case has been pending in Federal
+
+17   court just at the jurisdictional stage for many years
+
+18   now.   In the Strong case which is now en banc before the
+
+19   Fifth Circuit -- I'm sorry, the Eleventh Circuit --
+
+20   Justice -- Judge -- excuse me, Judge Marcus wrote a
+
+21   32-page opinion.
+
+22               CHIEF JUSTICE ROBERTS:                  Yes, and what really
+
+23   leapt off the page at me in that opinion, he gets to the
+
+24   end, I think he basically presents your position and
+
+25   then he says:    Thus, on my reading the relevant portion
+
+
+                                        23
+                          Alderson Reporting Company
+                       Official - Subject to Final Review
+
+
+ 1   of section 4 could be rewritten this way.
+
+ 2               Well, I mean that to me is a confession of
+
+ 3   error if you have to rewrite the statute to get to your
+
+ 4   position.
+
+ 5               MR. ORTIZ:      Well, Your Honor, he didn't say
+
+ 6   it had to be rewritten.       He said if you wanted to make
+
+ 7   it even clearer what was originally intended under
+
+ 8   section 4 that is how you would do it.                 That's a far cry
+
+ 9   from saying that you need to do violence to the statute.
+
+10   Here --
+
+11               CHIEF JUSTICE ROBERTS:                Well, his rewriting
+
+12   doesn't look very much like section 4 to me.
+
+13               MR. ORTIZ:      Your Honor, if his rewriting,
+
+14   given the disappearance of the ouster doctrine -- he's
+
+15   trying to make it clear to present context what was
+
+16   originally understood at the time the Congress
+
+17   originally enacted the FAA.           There is no memory,
+
+18   historical memory or otherwise, of the ouster doctrine,
+
+19   no realization how it actually played out; and against
+
+20   that absence of knowledge, Judge Marcus is trying to
+
+21   educate his readers and the lower courts as to how
+
+22   things need to be done.
+
+23               But certainly the language as originally
+
+24   understood would have -- that save-for language would
+
+25   have been all about, which it is clear from the time was
+
+
+                                      24
+                        Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   thought by Congress to be the major obstacle to
+
+ 2   arbitration.
+
+ 3              JUSTICE ALITO:             What about the fact that
+
+ 4   that was not included in the New Jersey statute, nor was
+
+ 5   it included in -- was it included in the Uniform
+
+ 6   Arbitration Act?
+
+ 7              MR. ORTIZ:          No, Your Honor.                Now --
+
+ 8              JUSTICE ALITO:             What's the explanation for
+
+ 9   that?
+
+10              MR. ORTIZ:          The explanation, Your Honor, is
+
+11   that in New York law and equity have been merged.
+
+12              JUSTICE ALITO:             I know.             And you're saying
+
+13   New Jersey; it was, you know, a very complicated
+
+14   argument about the status of it.                 What about the Uniform
+
+15   Arbitration Act?
+
+16              MR. ORTIZ:          By the later times it appeared
+
+17   that it was closer, coming -- the law and equity across
+
+18   many jurisdictions was coming closer, but at the time in
+
+19   the Federal court system at least, if only because of
+
+20   Justice Story's hostility towards jurisdiction, finding
+
+21   jurisdiction in the Tobey case to build equity seeking
+
+22   specific performance kinds of things, that language is
+
+23   necessarily clear.
+
+24              Your Honors, if there are no further
+
+25   questions I would like to reserve my time for rebuttal.
+
+
+                                         25
+                           Alderson Reporting Company
+                       Official - Subject to Final Review
+
+
+ 1              CHIEF JUSTICE ROBERTS:                 Thank you, counsel.
+
+ 2              MR. ORTIZ:       Thank you.
+
+ 3              CHIEF JUSTICE ROBERTS:                 Mr. Phillips.
+
+ 4              ORAL ARGUMENT OF CARTER G. PHILLIPS
+
+ 5                  ON BEHALF OF THE RESPONDENTS
+
+ 6              MR. PHILLIPS:          Thank you, Mr. Chief Justice,
+
+ 7   and may it please the Court:
+
+ 8              It seems to me that if the argument that
+
+ 9   just ended doesn't prove anything, it suggests that
+
+10   perhaps the Court ought to follow the simple expedient
+
+11   of read the statute as it's written, apply it as written
+
+12   and come to what strikes me, at least, as a reasonably
+
+13   easy resolution of this particular case.
+
+14              The statute says that a party aggrieved by
+
+15   the alleged failure to arbitrate -- and we have that
+
+16   precisely in this case because the other side has filed
+
+17   a lawsuit against our indemnitee arising out of an
+
+18   underlying dispute -- may petition any United States
+
+19   district court which, save for such an agreement -- it's
+
+20   pretty clear that everybody agrees that in this context
+
+21   you just simply put the agreement aside -- and then you
+
+22   say would have jurisdiction under Title 28 in a civil
+
+23   action of the subject matter of the suit arising out of
+
+24   the controversy between the parties.
+
+25              It seems to me reasonably clear to interpret
+
+
+                                      26
+                        Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   that language as saying you look to the underlying
+
+ 2   dispute between the parties.
+
+ 3                 JUSTICE GINSBURG:             But that's the question
+
+ 4   that I have, Mr. Phillips.            What is the underlying
+
+ 5   dispute between the parties?
+
+ 6                 It seems to me that your look-through
+
+ 7   argument is look-through only halfway.                    That is, if you
+
+ 8   look -- if you consider the controversy, the suit that
+
+ 9   was brought in the State court, the controversy is here
+
+10   we have a customer who hasn't paid the amount charged.
+
+11   So we have a suit on a debt.              Why isn't that the
+
+12   controversy?     You have to make the counterclaim the
+
+13   controversy, which comes up only defensively.                   It wasn't
+
+14   brought as a lawsuit.
+
+15                 MR. PHILLIPS:          Justice Ginsburg, the
+
+16   language of section 4 actually talks about the subject
+
+17   matter of a suit arising out of, not the existence of a
+
+18   suit; and section 4 doesn't require that a lawsuit have
+
+19   been filed.     So it's not appropriate simply to say to
+
+20   yourself look at what litigation actually exists,
+
+21   because in as many cases as not there is not going to be
+
+22   any litigation ongoing.          So the court has to make the
+
+23   hypothetical:     would the court have had jurisdiction
+
+24   over the subject matter of this dispute?                   And the
+
+25   dispute in this case, which Professor Ortiz was very
+
+
+                                         27
+                           Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   explicit about -- he said specifically that if he had
+
+ 2   brought this as an affirmative lawsuit it would have
+
+ 3   arisen under Federal law.
+
+ 4                It seems to me that's as clear a concession
+
+ 5   that the nature of this dispute is a question of Federal
+
+ 6   law.   And therefore --
+
+ 7                CHIEF JUSTICE ROBERTS:                Who gets to frame --
+
+ 8   who gets to frame the complaint?               Normally if you're a
+
+ 9   party and you have a dispute that may implicate Federal
+
+10   law, you have control over the complaint.                You don't
+
+11   have to have a -- you don't have to well plead it in a
+
+12   way that implicates a Federal question.                 You can go out
+
+13   of your way to do it in a way that does not implicate a
+
+14   Federal question; and therefore it would not be, you
+
+15   could not bring it in Federal court.
+
+16                Just as in the diversity example, you can
+
+17   specifically avoid suing people who would create
+
+18   diversity.   But in your position the judge has to in his
+
+19   mind write a complaint and see whether there is
+
+20   jurisdiction or not; and how does the judge decide
+
+21   whether to sue diverse parties or not to sue diverse
+
+22   parties?
+
+23                MR. PHILLIPS:         I think what the judge has to
+
+24   do is to take -- is to give the plaintiff in the section
+
+25   4 complaint the benefit of his allegations.                And we have
+
+
+                                       28
+                         Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   made an allegation here that the subject matter of this
+
+ 2   dispute arises under Federal law, and we did that not
+
+ 3   just based on our own assessment of the situation in the
+
+ 4   abstract, but we did that on the basis that she had
+
+ 5   filed a very specific claim against us asserting that we
+
+ 6   had violated essentially section 20.
+
+ 7               JUSTICE GINSBURG:              But -- but she chose to
+
+ 8   assert it only defensively; and it's not a complaint --
+
+ 9   the counterclaim if it had been brought as an
+
+10   independent action, everybody agrees qualifies for
+
+11   Federal jurisdiction.       But the litigant who has this
+
+12   claim is asserting it only as a defense to a claim that
+
+13   you admit does not qualify for Federal jurisdiction.
+
+14               MR. PHILLIPS:           But Justice Ginsburg, I think
+
+15   the difference is that we are not seeking to remove her
+
+16   original lawsuit.    That's not -- if that were the case,
+
+17   then I think the argument you're making is a legitimate
+
+18   one.   All we are seeking to do is to assert our
+
+19   independent section 4 rights and that's not at all
+
+20   dependent on the --
+
+21               JUSTICE GINSBURG:              But in the practical
+
+22   effect, what happens?       Now you have asserted that you
+
+23   can enforce because of the counterclaim that asserts --
+
+24   that arises under Federal law.               But you say it's is not
+
+25   the same as removal because the underlying claim, your
+
+
+                                        29
+                           Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   suit on the debt owed, remains in Federal -- State
+
+ 2   court; but what happens to that claim once you have this
+
+ 3   arbitration?
+
+ 4              MR. PHILLIPS:             Well, there are a couple
+
+ 5   possibilities.   I mean, first of all, the arbitration
+
+ 6   agreement is quite explicit in saying that if, if you --
+
+ 7   if this starts off as litigation and then a subsequent
+
+ 8   claim is made by either of the parties, the parties have
+
+ 9   the right to enforce the arbitration as to that
+
+10   particular claim.     So that's specifically what we did in
+
+11   this particular case.
+
+12              So in theory, at least the collection action
+
+13   would remain in State court as a State cause of action,
+
+14   although it would certainly be available to the
+
+15   Petitioner in this case to say, well, no, if you're
+
+16   going to arbitrate that portion of the case then I'm
+
+17   content to arbitrate the rest of the case as well.                   So
+
+18   they could do it that way or we could arbitrate the
+
+19   Federal law.
+
+20              JUSTICE STEVENS:               Mr. Phillips --
+
+21              MR. PHILLIPS:             I'm sorry?
+
+22              JUSTICE STEVENS:               Clear up one thing for me.
+
+23   Is it correct, as Justice Ginsburg suggested, that the
+
+24   counterclaim was purely defensive?                   Didn't it ask for
+
+25   additional relief?      The counterclaim, wasn't it a class
+
+
+                                         30
+                           Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   action?
+
+ 2               MR. PHILLIPS:          Oh, right.            Yeah -- no --
+
+ 3   exactly.   That's absolutely true.
+
+ 4               JUSTICE STEVENS:            So it was not merely an
+
+ 5   defense to the action, the State court action.
+
+ 6               MR. PHILLIPS:          Right.
+
+ 7               JUSTICE GINSBURG:             I meant -- I didn't mean
+
+ 8   to say you couldn't get affirmative relief on a
+
+ 9   counterclaim.   Of course you could.                    But this --
+
+10               MR. PHILLIPS:          But I couldn't -- I couldn't
+
+11   remove it --
+
+12               JUSTICE GINSBURG:             Chose not to --
+
+13               MR. PHILLIPS:          I think that was the point
+
+14   she was trying to make.
+
+15               JUSTICE GINSBURG:             -- chose not to litigate
+
+16   the case, chose to -- well, I'm being sued, so I'm going
+
+17   to bring up this claim.        It wasn't as an original
+
+18   matter.
+
+19               MR. PHILLIPS:          Right.        I -- I understand
+
+20   that, Justice Ginsburg, but the -- the -- but the point
+
+21   I am trying to make here is that the language of section
+
+22   4 just talks about the subject matter of the controversy
+
+23   between the parties.      It doesn't specifically talk about
+
+24   an existing lawsuit, and frankly it doesn't envision the
+
+25   existence of a specific lawsuit.
+
+
+                                       31
+                         Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1              JUSTICE GINSBURG:               The controversy between
+
+ 2   the parties is the credit card company says, customer,
+
+ 3   you're in default $10,000; and the customer said, if
+
+ 4   that's so, then I have certain offsets because they
+
+ 5   charged me too much interest.              How do you --
+
+ 6              MR. PHILLIPS:            Well, in that --
+
+ 7              JUSTICE GINSBURG:               -- how do you -- it's all
+
+ 8   part of the same controversy, isn't it?
+
+ 9              MR. PHILLIPS:            But -- no -- well, I mean you
+
+10   could -- you can certainly view it as part of the same
+
+11   controversy, but the -- but the bottom line is, the
+
+12   question is:    Would a Federal court have jurisdiction
+
+13   over the dispute that arises under Federal law between
+
+14   the Petitioner and the Respondents?                      And the answer is
+
+15   clearly yes.
+
+16              JUSTICE SCALIA:              What is the dispute?           You
+
+17   say the dispute is not defined by what -- what has been
+
+18   brought in a complaint.
+
+19              MR. PHILLIPS:            It's defined by our complaint
+
+20   in section 4.
+
+21              JUSTICE SCALIA:              But you -- from your
+
+22   argument, I would gather that a court would be able to
+
+23   imagine a counterclaim.         Once it finds out, you know,
+
+24   what -- what -- what the principal complaint is about,
+
+25   the court could imagine that there would be a
+
+
+                                        32
+                          Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   counterclaim for interest or for something else.
+
+ 2               MR. PHILLIPS:           Well, I'm not sure -- I'm not
+
+ 3   even sure --
+
+ 4               JUSTICE SCALIA:             It's very strange to decide
+
+ 5   Federal jurisdiction on the basis of -- of imagined --
+
+ 6   imagined complaints.
+
+ 7               MR. PHILLIPS:           Well, I -- I mean the problem
+
+ 8   with that -- I mean the difficulty arises, Justice
+
+ 9   Scalia, because the language of the statute does say
+
+10   that the court has to determine whether it would have
+
+11   jurisdiction over the subject matter of the controversy.
+
+12   And then that --
+
+13               JUSTICE SCALIA:             So the problem with his --
+
+14   I mean with his interpretation, you don't have to
+
+15   imagine anything.
+
+16               MR. PHILLIPS:           Well, with his
+
+17   interpretation, you have to imagine everything.             In
+
+18   point of fact, you have to imagine that this had
+
+19   something to do with ouster when it doesn't use the word
+
+20   "ouster."
+
+21               JUSTICE SCALIA:             Well --
+
+22               MR. PHILLIPS:           It has to do with equity and
+
+23   law when it uses "equity" and "law" in other contexts.
+
+24   And --
+
+25               JUSTICE SCALIA:             You don't have to imagine
+
+
+                                        33
+                          Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   complaints.     You -- you don't have to invent litigation.
+
+ 2                 MR. PHILLIPS:          Well, no.            That's true, but
+
+ 3   what it -- but -- but the flip side of that is that this
+
+ 4   is a section, a fundamental provision, of the Federal
+
+ 5   Arbitration Act that apparently was designed to provide
+
+ 6   a basis of Federal jurisdiction for the Gila Indian
+
+ 7   Tribe claims.     It seems inconceivable to me that
+
+ 8   Congress had that narrow an interpretation of section 4
+
+ 9   in mind when it passed this particular law.
+
+10                 JUSTICE SCALIA:            It's close to inconceivable
+
+11   to me that Congress wanted us to -- to construct
+
+12   litigation that is not yet in existence.
+
+13                 MR. PHILLIPS:          But I think all of this
+
+14   really is talking -- I mean this is not significantly
+
+15   different --
+
+16                 JUSTICE STEVENS:            -- answer that the
+
+17   litigation does exist.
+
+18                 MR. PHILLIPS:          Right.
+
+19                 JUSTICE SCALIA:            No, but your position is it
+
+20   doesn't have to exist.         Had that litigation not been
+
+21   brought, had the motion to arbitrate been brought before
+
+22   a lawsuit was filed, that the court would still have to
+
+23   consider what is the dispute between the parties and
+
+24   what kind of complaints could that dispute have
+
+25   generated.
+
+
+                                         34
+                           Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1               MR. PHILLIPS:          And it may well be, Justice
+
+ 2   Scalia, that in that context the answer is that the
+
+ 3   court will say that the claim is unripe; that we don't
+
+ 4   know for sure whether or not this is going to congeal
+
+ 5   into a real dispute between the parties.                 And if that's
+
+ 6   the case, obviously, then the court does not have to go
+
+ 7   forward.   But you don't have to worry about that in the
+
+ 8   context of this particular litigation because that
+
+ 9   dispute has congealed.       The parties are at loggerheads
+
+10   over the particular issue in this case.                 And -- I'm
+
+11   sorry.
+
+12               JUSTICE GINSBURG:             There would be nothing
+
+13   inappropriate about a State court entertaining that
+
+14   excessive interest claim, but applying Federal law to
+
+15   it.   I mean the -- 1831(d) says that Federal law governs
+
+16   the interest --
+
+17               MR. PHILLIPS:          Right.
+
+18               JUSTICE GINSBURG:             Not state usury law.       So
+
+19   you could have this case going on in State court.
+
+20               MR. PHILLIPS:          Right.
+
+21               JUSTICE GINSBURG:             And the State court would
+
+22   be perfectly competent to apply the Federal law.
+
+23               MR. PHILLIPS:          Right.        Although, you know,
+
+24   that's to the -- obviously, that sets aside the
+
+25   arbitration agreement completely.
+
+
+                                       35
+                         Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1                JUSTICE SOUTER:           Well, why does it set
+
+ 2   aside?   This is the thing I guess I don't understand
+
+ 3   about the case, and that is what is really driving your
+
+ 4   side, given the difficulties that I share with the
+
+ 5   Justices on my right and left here.                     And the -- the
+
+ 6   tacit assumption seems to be that you in fact are going
+
+ 7   to get shortchanged on your arbitration right if you
+
+ 8   have to bring your arbitration claim in a State court.
+
+ 9   And I don't see that.
+
+10                MR. PHILLIPS:         Well, first of all, section 4
+
+11   doesn't apply in --
+
+12                JUSTICE SOUTER:           I know section 4 doesn't,
+
+13   but section 2 does.
+
+14                MR. PHILLIPS:         To be sure, section 2 does,
+
+15   but whether or not --
+
+16                JUSTICE SOUTER:           You can -- based on the
+
+17   Federal act, you can in State court claim your right to
+
+18   enforce the arbitration agreement.
+
+19                MR. PHILLIPS:         Right, but the flip side of
+
+20   that is --
+
+21                JUSTICE SOUTER:           Why don't you do it in the
+
+22   State court instead of going through these gymnastics?
+
+23                MR. PHILLIPS:         Because we have serious
+
+24   doubts as to whether or not in fact we will have our
+
+25   Federal rights protected as zealously as we would in a
+
+
+                                       36
+                           Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   Federal court.
+
+ 2                 JUSTICE KENNEDY:           Speaking of gymnastics,
+
+ 3   can I ask you if you had foreseen this problem, could
+
+ 4   you have brought a declaratory judgment action to
+
+ 5   establish that your Federal claim --
+
+ 6                 MR. PHILLIPS:         Yes.
+
+ 7                 JUSTICE KENNEDY:           -- controls this dispute
+
+ 8   and could you have then said that you wanted this
+
+ 9   arbitrated?
+
+10                 MR. PHILLIPS:         Yes, Justice Kennedy.        I
+
+11   believe we could have done both of those.
+
+12                 JUSTICE KENNEDY:           Why didn't you do that?
+
+13   Why are we here?
+
+14                 MR. PHILLIPS:         Well, because we brought the
+
+15   action under section 4, which I think --
+
+16                 JUSTICE KENNEDY:           I mean, could you still do
+
+17   that after this case?
+
+18                 MR. PHILLIPS:         Assuming there's no statute
+
+19   of limitations issue, and I don't know that there would
+
+20   be, but that would available.              But it still seems to me
+
+21   that the bottom-line question is:                 Are you entitled to
+
+22   bring an action under section 4?
+
+23                 JUSTICE BREYER:           So your theory -- I mean
+
+24   basically I think you concede that the other side has a
+
+25   point in sometimes it will be difficult to say what the
+
+
+                                        37
+                          Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   dispute is precisely and, therefore, difficult to know
+
+ 2   if precisely this dispute does or does not -- one that
+
+ 3   you can get into Federal court on.                   For example, it
+
+ 4   hasn't even arisen.       You know, there is no lawsuit.                 And
+
+ 5   I guess what would happen, what the judge should say is
+
+ 6   they should say to you you'd like to have this in
+
+ 7   Federal court, wouldn't you, this dispute?                   What's it
+
+ 8   about?
+
+ 9                 MR. PHILLIPS:         Right.
+
+10                 JUSTICE BREYER:           And once he says what's it
+
+11   about, both sides will say, well, basically it started
+
+12   off -- it's just about collecting some money from
+
+13   in-state parties.       So that's not Federal.
+
+14                 MR. PHILLIPS:         Right.
+
+15                 JUSTICE BREYER:           So that, you know,
+
+16   something could happen here.             It could happen that they
+
+17   could decide they want to sue in a big class action and
+
+18   get huge amounts of money under usury laws of the State
+
+19   which don't exist, so they have to proceed under an FDIC
+
+20   reg, and then it could be Federal.                   And the judge might
+
+21   say to you:    "What?     You're just imagining."              And that
+
+22   would be up to the judge.
+
+23                 MR. PHILLIPS:         Right, and the judge would
+
+24   have the discretion to decide --
+
+25                 JUSTICE BREYER:           It's a kind of a defense.
+
+
+                                        38
+                             Alderson Reporting Company
+                       Official - Subject to Final Review
+
+
+ 1               MR. PHILLIPS:         Right.
+
+ 2               JUSTICE BREYER:           But you'd say then it might
+
+ 3   be the case that it wouldn't be so hard to decide.
+
+ 4               MR. PHILLIPS:         Right.        There could be a
+
+ 5   letter that says, look, what you're doing here violates
+
+ 6   Federal law, and if you don't stop it, we are going to
+
+ 7   take action against you.        And then we have to sit there
+
+ 8   and wait.
+
+ 9               JUSTICE BREYER:           A real suit.      And --
+
+10               MR. PHILLIPS:         But they are here.       They are
+
+11   here.
+
+12               JUSTICE BREYER:           And in a real suit, there
+
+13   is a class action brought not just on behalf of the one
+
+14   you're trying to sue but on behalf of everybody, where
+
+15   they have to proceed under a Federal reg, and they are
+
+16   going to get a huge amount of money, and you say that's
+
+17   what we want arbitrated.
+
+18               MR. PHILLIPS:         And that's precisely what
+
+19   we've asked for here, Justice Breyer.
+
+20               JUSTICE BREYER:           So this one is not so hard
+
+21   to figure out.
+
+22               MR. PHILLIPS:         Right.
+
+23               JUSTICE BREYER:           There might be some that
+
+24   are.
+
+25               MR. PHILLIPS:         Right, and there's no
+
+
+                                      39
+                        Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   question about that, and it's --
+
+ 2              CHIEF JUSTICE ROBERTS:                    What's hard to
+
+ 3   figure out, you have, let's say, a franchisee, and you
+
+ 4   have a dispute with the franchisor.                       And the franchisee
+
+ 5   says it's an antitrust violation, and I'm going to sue
+
+ 6   you under the California antitrust law, and he does.
+
+ 7   And the Federal court says, we've looked through and
+
+ 8   says, well, you could have sued under the Federal
+
+ 9   antitrust law.   And you --           yes, I could have; I
+
+10   deliberately didn't.        And then they say, well, this is
+
+11   something that could have been brought in Federal court.
+
+12   And that really deprives a plaintiff of his right to
+
+13   frame his complaint as he sees fit.
+
+14              MR. PHILLIPS:             And I understand that,
+
+15   Mr. Chief Justice.      And in the right case, you know, I'm
+
+16   not sure how I would come out in that particular --
+
+17              JUSTICE BREYER:               Well, in his case, in the
+
+18   Chief Justice's case, wouldn't you say they don't get
+
+19   into court, probably don't because they are bringing
+
+20   this under a State law?
+
+21              MR. PHILLIPS:             You see, I would comply with
+
+22   the original complaint.
+
+23              CHIEF JUSTICE ROBERTS:                    No.     But you just
+
+24   say, is the dispute one that could have been brought in
+
+25   Federal court?
+
+
+                                         40
+                           Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1              MR. PHILLIPS:           Right.        Well, that's exactly
+
+ 2   what the Eleventh Circuit held.
+
+ 3              CHIEF JUSTICE ROBERTS:                  It's a violation of
+
+ 4   the Sherman Act.
+
+ 5              MR. PHILLIPS:           Right.
+
+ 6              CHIEF JUSTICE ROBERTS:                  Of course, it could
+
+ 7   be brought in Federal court.
+
+ 8              MR. PHILLIPS:           Well -- and in the right
+
+ 9   case, the Federal -- you know, if I had to go that far,
+
+10   I might well make that argument, Mr. Chief Justice, but
+
+11   in this case I don't have to go that far.                And I think
+
+12   all the Court needs to resolve is in a situation where
+
+13   the parties have a very concrete dispute between them,
+
+14   one that arises exclusively under Federal law, and a
+
+15   party seeks to have that claim arbitrated under section
+
+16   4 pursuant to --
+
+17              JUSTICE GINSBURG:              That claim doesn't --
+
+18              JUSTICE STEVENS:             Let me get one fact.
+
+19              MR. PHILLIPS:           I'm sorry.
+
+20              JUSTICE STEVENS:             Is the State court suit
+
+21   still pending?
+
+22              MR. PHILLIPS:           Yes, the State court suit is
+
+23   pending.
+
+24              JUSTICE STEVENS:             So there are two separate
+
+25   underlying actions.
+
+
+                                       41
+                           Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1              MR. PHILLIPS:           The State court has stayed
+
+ 2   its hand pending the outcome of the Federal litigation.
+
+ 3   So we'll see what happens.          But, obviously, as I say --
+
+ 4              JUSTICE GINSBURG:              But there could be
+
+ 5   nothing left for the State court to do after you have
+
+ 6   the arbitration.   I mean, not that you arbitrate about
+
+ 7   interest due on a nonexistent debt.                     I mean, you have to
+
+ 8   have the two things together.
+
+ 9              MR. PHILLIPS:           Well, I mean, in some ways,
+
+10   as I say, it seems to me that's Petitioner's right or
+
+11   potentially -- or ours.        I suppose either side could ask
+
+12   to have that arbitrated, but the truth is if you took --
+
+13              JUSTICE GINSBURG:              I just can't envision a
+
+14   case where what you haven't effected is taking a case, a
+
+15   debt, simple debt, no diversity a State court case.
+
+16              MR. PHILLIPS:           Right.
+
+17              JUSTICE GINSBURG:              And you remove the State
+
+18   court from the picture and gotten it over into Federal
+
+19   court to order the arbitration and any follow-up to the
+
+20   arbitration.   It just seems to me you have effected --
+
+21   accomplished what you could not have accomplished by the
+
+22   -- by removal, which you admit that you can't remove on
+
+23   the basis of a counterclaim.
+
+24              MR. PHILLIPS:           But see, Justice Ginsburg, I
+
+25   think that's not right.        I think that actually what
+
+
+                                       42
+                         Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   happens is you eliminate what I perceive to be the
+
+ 2   Federal question in this through the arbitral process.
+
+ 3               You still have the underlying collection
+
+ 4   action.   If the Court says, no, there is no violation of
+
+ 5   the usury laws, you have not overcharged, you have not
+
+ 6   made any mistakes, the question we still have is a claim
+
+ 7   on the debt and her obligation to pay it.
+
+ 8               Now, whether she wants to adjudicate that in
+
+ 9   State court or resolve it as part of the arbitral
+
+10   process, that's really up to her as far as how that
+
+11   goes.   But the arbitration agreement could not be
+
+12   plainer in saying that you can divide up the claims for
+
+13   purposes of seeking arbitration, and that seems to fit
+
+14   perfectly well with an effort to say that there is a
+
+15   specific claim here that arises exclusively under
+
+16   Federal law, and that, therefore, we can enforce our
+
+17   arbitration rights pursuant to that section 4 right.
+
+18               And that's, frankly, all we are trying to
+
+19   accomplish here, Justice Ginsburg.
+
+20               The second part of the statute which is
+
+21   the -- you know, the one that has obviously created the
+
+22   greatest amount of controversy here, is, you know,
+
+23   "would have jurisdiction over the subject matter."
+
+24   Again, it seems to me that this is the easiest case the
+
+25   Court is going to face in this area, because here is one
+
+
+                                       43
+                         Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   where there is no question --
+
+ 2               JUSTICE SCALIA:            That's what worries me.
+
+ 3   That's what worries me.
+
+ 4               (Laughter.)
+
+ 5               JUSTICE SCALIA:            If we accept your theory,
+
+ 6   this is the easiest case, what about the hard cases that
+
+ 7   are further down the line?
+
+ 8               MR. PHILLIPS:          Well, I think what's going to
+
+ 9   happen -- I candidly don't think they are going to come
+
+10   up that much, in part because these issues have been
+
+11   around a long time.     You know, it's not like there have
+
+12   been dozens of these kinds of issues arising over time.
+
+13   I don't think it's likely to be that big a problem.
+
+14               But again, it seems to me that district
+
+15   courts have the authority to resolve this, because if
+
+16   they don't believe that there really is a Federal claim
+
+17   that would justify exercise of section 4, they can say
+
+18   that.   If they do, then they will -- then they will send
+
+19   it.
+
+20               I mean, look -- the other thing about this
+
+21   is, you know, the other side makes a big fuss about
+
+22   federalism, but we are not asking to take the issues
+
+23   away from the Federal court -- from the State courts to
+
+24   the Federal courts.     What we are asking for is what
+
+25   everybody has agreed to here, which is to have these
+
+
+                                       44
+                           Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   disputes resolved by arbitration.
+
+ 2              JUSTICE GINSBURG:               But you could have asked
+
+ 3   for that in the State court as well, and --
+
+ 4              MR. PHILLIPS:            There is no question about
+
+ 5   that, Justice Ginsburg.         The problem is that there is
+
+ 6   some lack of confidence in the State courts that we will
+
+ 7   get the same treatment under section 4 that we would get
+
+ 8   in Federal court.    And Congress created that right.
+
+ 9              JUSTICE SOUTER:              Then bring that up here on
+
+10   appeal from the State court.
+
+11              MR. PHILLIPS:            Well, I wish it were that
+
+12   easy to get this Court to grant review of everything
+
+13   that I bring up here in the first place.
+
+14              JUSTICE STEVENS:              You don't have any
+
+15   trouble.
+
+16              (Laughter.)
+
+17              MR. PHILLIPS:            I appreciate that.
+
+18              JUSTICE STEVENS:              It's not really -- of
+
+19   getting constants from Federal judges; the arbitrators
+
+20   can decide this question.
+
+21              MR. PHILLIPS:            Right.
+
+22              JUSTICE STEVENS:              The arbitrator might
+
+23   decide there is no preemption.
+
+24              MR. PHILLIPS:            Right.        But the -- and that's
+
+25   fine and we have to live with that.                      And obviously,
+
+
+                                        45
+                          Alderson Reporting Company
+                       Official - Subject to Final Review
+
+
+ 1   since we can't change the standards of review on the
+
+ 2   back end under sections 9, 10 and 11, we are going to be
+
+ 3   pretty much stuck with that -- with that determination.
+
+ 4   But the truth is the bigger risk is that the trial
+
+ 5   judge, the State court will not send it to arbitration.
+
+ 6              JUSTICE STEVENS:             May I ask this, I haven't
+
+ 7   reread the Moses Cone case, but is your adversary
+
+ 8   correct in saying that there would have been no
+
+ 9   jurisdiction in that case it we followed your view?
+
+10              MR. PHILLIPS:          No.
+
+11              JUSTICE STEVENS:            Because the arbitrator was
+
+12   not of diverse citizenship from the other parties?
+
+13              MR. PHILLIPS:          I mean, It wasn't litigated.
+
+14   It's not clear on the face of the opinion.               So if there
+
+15   is something he knows that I don't know, maybe.                  But
+
+16   I -- I -- certainly nothing in there that reflects
+
+17   that -- that view of the world.
+
+18              JUSTICE STEVENS:            But -- if, in fact, were a
+
+19   nondiverse party in the Moses Cohen, there should have
+
+20   been no jurisdiction?
+
+21              MR. PHILLIPS:          Well, now, the nondiverse
+
+22   party issue, it depends on how you read section 4.                     You
+
+23   know, section 4 talks about the parties.               And the
+
+24   parties there I don't think means parties to the
+
+25   underlying controversy.       I think there parties refers
+
+
+                                      46
+                        Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   specifically to the dispute in front of the court.
+
+ 2                So I don't think the pass-through problem
+
+ 3   for 1332 applies in that particular context for complete
+
+ 4   diversity.
+
+ 5                I don't think Congress envisioned you would
+
+ 6   look beyond the immediate dispute under section 4 to see
+
+ 7   whether there are additional parties, except to the
+
+ 8   extent, obviously, that you would have necessary and
+
+ 9   indispensable party litigation that might bring them in.
+
+10                I think the assumption is you take the
+
+11   complaint as it's written, and then you look to see
+
+12   whether or not there is amount of controversy.             For that
+
+13   you have to go beyond because the dispute with respect
+
+14   to arbitration is not going to get you anywhere near
+
+15   that number.   And you have to look beyond for Federal
+
+16   questions to see whether or not there is a Federal issue
+
+17   there to be enforced.
+
+18                JUSTICE BREYER:           Is this right?   I'm asking
+
+19   if it may sound favorable to you, then I'll get a good
+
+20   response in rebuttal.
+
+21                MR. PHILLIPS:         I'm not going to give a good
+
+22   response?
+
+23                JUSTICE BREYER:           If you read it the other
+
+24   way -- if you read it the other way, the way the
+
+25   Petitioners want to read it, then is this so or not?
+
+
+                                       47
+                         Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   That then you look to see if there is Federal
+
+ 2   jurisdiction of the arbitration agreement; is that
+
+ 3   right?
+
+ 4                 MR. PHILLIPS:         Under their interpretation?
+
+ 5                 JUSTICE BREYER:           Yes, under their
+
+ 6   interpretation.
+
+ 7                 MR. PHILLIPS:         Yes.
+
+ 8                 JUSTICE BREYER:           So, what you could have is
+
+ 9   you could have two parties sign an arbitration agreement
+
+10   that lasts for a year that governs all disputes between
+
+11   them, and one is from Vermont; the other from
+
+12   California.
+
+13                 MR. PHILLIPS:         Right.
+
+14                 JUSTICE BREYER:           So there is jurisdiction.
+
+15   And all the disputes happen to involve just pure matters
+
+16   of -- that never could come into Federal court.                 I mean
+
+17   there are such matters you could argue about.
+
+18                 MR. PHILLIPS:         Sure.       Right.
+
+19                 JUSTICE BREYER:           But nevertheless, we have a
+
+20   Federal court issuing this injunction, under their
+
+21   theory.
+
+22                 MR. PHILLIPS:         Right.        Assuming the amount
+
+23   of --
+
+24                 JUSTICE BREYER:           Assuming they are right.
+
+25                 MR. PHILLIPS:         Assuming the amount of
+
+
+                                        48
+                          Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   controversy -- I mean, it could have an amount --
+
+ 2                JUSTICE BREYER:            Oh, I see.       The arbitration
+
+ 3   agreement has to meet the amount in controversy.
+
+ 4                MR. PHILLIPS:          Right.        It has to have an
+
+ 5   independent basis for Federal jurisdiction.
+
+ 6                JUSTICE BREYER:            All right.       So then
+
+ 7   probably no arbitration agreement in itself meets the
+
+ 8   amount.
+
+ 9                MR. PHILLIPS:          Well, that's exactly our
+
+10   point.    That's why you have to look through.
+
+11                JUSTICE BREYER:            So if you didn't look
+
+12   through, then this would apply to nothing?
+
+13                MR. PHILLIPS:          Pretty much that's our view
+
+14   of the case.
+
+15                JUSTICE BREYER:            If the arbitration --
+
+16                MR. PHILLIPS:          Yes.      I'm sure my opponent
+
+17   will say something different than that.
+
+18                JUSTICE BREYER:            The arbitration agreement
+
+19   has to -- they talk about the arbitration agreement,
+
+20   then you could have really important Federal questions
+
+21   in substantive issues --
+
+22                MR. PHILLIPS:          Yes.
+
+23                JUSTICE BREYER:            -- that couldn't come in
+
+24   because the arbitration agreement doesn't?                 Or you could
+
+25   have State questions that would suddenly come in because
+
+
+                                        49
+                          Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   the arbitration agreement does.               The arbitration -- but
+
+ 2   now you're saying, well, that second case is never going
+
+ 3   to arise.
+
+ 4               MR. PHILLIPS:           Probably not.
+
+ 5               JUSTICE BREYER:             Probably not, because no
+
+ 6   arbitration agreement has -- so then it becomes a
+
+ 7   nullity of the statute?
+
+ 8               MR. PHILLIPS:           Right.
+
+ 9               JUSTICE BREYER:             Except to overcome the
+
+10   ouster.   Okay.   We've got your side of it.
+
+11               (Laughter.)
+
+12               JUSTICE SCALIA:             Well, it makes a nullity of
+
+13   it, except that it gets into the Federal court the
+
+14   decision on the arbitration agreement, which was the
+
+15   object of this stuff, whatever -- whatever the
+
+16   underlying claim is, whether it's a Federal claim or
+
+17   not.
+
+18               As I understood the purpose of the
+
+19   Arbitration Act, it was to make sure that arbitration
+
+20   was -- was honored not just in Federal cases but in
+
+21   State cases as well.       And it's entirely compatible with
+
+22   that, that sometimes a Federal court will -- will direct
+
+23   arbitration in a case this involves an underlying
+
+24   controversy that's purely non-Federal.
+
+25               MR. PHILLIPS:           Oh absolutely.       I mean, you
+
+
+                                        50
+                          Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   know, in a situation -- it depends on how you interpret
+
+ 2   it.   If you interpret it the way that the Petitioner
+
+ 3   does in saying that you can't have any look through --
+
+ 4   now he softens that and says, well, no, you can have
+
+ 5   look through for diversity.
+
+ 6               But if you accept the idea that section 4
+
+ 7   only makes you look at the dispute at the arbitration
+
+ 8   level, then the reality is you're going to have no cases
+
+ 9   that are going to be covered, because you're never going
+
+10   to satisfy the amount in controversy.
+
+11               And then the issue is why do you get to look
+
+12   through for diversity purposes and never get to look
+
+13   through for Federal question purposes?                  And it -- it
+
+14   seems to me the much easier way to reconcile the
+
+15   language of the statute is to say, of course, you look
+
+16   through to see, particularly if you have an unquestioned
+
+17   Federal question dispute that's being litigated between
+
+18   the parties; we know that; there is not an issue before
+
+19   us.   In fact, he has conceded as much even here in court
+
+20   today.
+
+21               And so, it seems to me that's the solution
+
+22   to this case.   Now admittedly, there will be other cases
+
+23   where you may have right in these questions, and there
+
+24   will be other cases where the parties will have to fight
+
+25   at the Federal district court level as to precisely
+
+
+                                       51
+                         Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   what's at issue and what the plaintiff really means to
+
+ 2   be fighting over.     And it may be in some instances you
+
+ 3   won't get an order that directs arbitration.                   But that's
+
+ 4   not this case.
+
+ 5                JUSTICE GINSBURG:              Why isn't it proper to
+
+ 6   look to see -- the party who wants arbitration has a
+
+ 7   dispute; the dispute is we are owed money by the debtor.
+
+ 8   Why shouldn't the court say, well, we'll see what your
+
+ 9   case is about; if your case would qualify for Federal
+
+10   jurisdiction, fine.       But we are not going to look to see
+
+11   what the defendants cases is or might be.                   We'll just
+
+12   look at your case and that's how we will define the
+
+13   controversy.
+
+14                MR. PHILLIPS:           Well, there are two problems
+
+15   with that.     First of all, the statute talks about the
+
+16   subject matter of the controversy.                   It doesn't talk
+
+17   about the specific controversy.
+
+18                And second of all, the statute clearly
+
+19   envisions that there are going to be situations where
+
+20   there is no complaint, there is no underlying State
+
+21   court cause of action, and it still envisions in that
+
+22   situation that a district court is going to have to
+
+23   determine whether or not it would have jurisdiction.
+
+24                JUSTICE GINSBURG:              But then you'll have not
+
+25   only a hypothetical claim, because nothing has been
+
+
+                                         52
+                           Alderson Reporting Company
+                       Official - Subject to Final Review
+
+
+ 1   brought, but an hypothetical answer by way of
+
+ 2   counterclaim to that claim.
+
+ 3              MR. PHILLIPS:          But it seems to me that's
+
+ 4   precisely what the language "would have jurisdiction
+
+ 5   over the subject matter of the controversy" asks this
+
+ 6   Court to make a determination of.
+
+ 7              JUSTICE GINSBURG:             So you would come into
+
+ 8   the court and say there is no suit going on anywhere,
+
+ 9   but if we were to bring this suit in State court, the
+
+10   defendant could have brought this Federal counterclaim?
+
+11   That's a lot of hypothesis.
+
+12              MR. PHILLIPS:          But it seems to me, Justice
+
+13   Ginsburg, the better way to think about this is what if
+
+14   we were getting letters from the Petitioner saying you
+
+15   are engaged in usurious conduct, you're outrageous, you
+
+16   got to stop what you're doing, we are going to bring a
+
+17   class action against you, you had better change your
+
+18   behavior tomorrow, and they don't sue us, and they don't
+
+19   sue us, and they don't sue us?
+
+20              And then the question is are we entitled to
+
+21   go to court to get that resolved and are we entitled to
+
+22   have the resolution to that issue as a matter of
+
+23   arbitration?
+
+24              JUSTICE STEVENS:            Mr. Phillips, the answer
+
+25   to a better hypothetical is what if there had been no
+
+
+                                      53
+                        Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   original collection action but they had brought such an
+
+ 2   action.
+
+ 3              MR. PHILLIPS:             Right.        Well, that's --
+
+ 4   actually, you're right.
+
+ 5              JUSTICE STEVENS:               That's the case you're
+
+ 6   really saying.    You're saying that is like this case.
+
+ 7              MR. PHILLIPS:             That is this case.
+
+ 8              JUSTICE STEVENS:               And Justice Ginsburg is
+
+ 9   suggesting it's not, because it happens to arise out of
+
+10   a different -- quite different dispute.
+
+11              MR. PHILLIPS:             Right.        I thought your
+
+12   question absolutely nailed it because you said, would
+
+13   this -- you know, if you brought that suit could you and
+
+14   would you, and the answer is yes, you could, and
+
+15   therefore you know as -- without any question that it's
+
+16   a Federal suit.
+
+17              JUSTICE GINSBURG:                Excuse me --
+
+18              JUSTICE STEVENS:               As I understand your
+
+19   opponent, they would agree there was no jurisdiction
+
+20   even in that case.
+
+21              MR. PHILLIPS:             Right.        I think that's no
+
+22   doubt that that's their position.
+
+23              JUSTICE GINSBURG:                What do you do with the
+
+24   assertion that sections 9 through 11 are not in sync
+
+25   with your view, because they would not give you -- you
+
+
+                                         54
+                           Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   could go in and -- to compel arbitration but once the
+
+ 2   arbitration was award -- an award was made, you would
+
+ 3   not have access to the Federal courts to enforce the
+
+ 4   award?
+
+ 5                 MR. PHILLIPS:         Well, I mean the interesting
+
+ 6   thing about 9, 10 and 11 is if anything the language is
+
+ 7   broader than our language.           If we didn't have the "save
+
+ 8   for" and "would have jurisdiction under," this would
+
+ 9   clearly be an action that arises under Federal law,
+
+10   because the question, you know, section 4 says have you
+
+11   been aggrieved, do you have a right of action, and do
+
+12   you have a remedy for that action?
+
+13                 I mean, without this rigamarole that we've
+
+14   been talking about this whole time, we would have -- we
+
+15   would easily have a 1331 action.                So if anything you
+
+16   would argue that 9, 10 and 11 arise under Federal law
+
+17   regardless.    Now if you don't want to go that far, then
+
+18   it seems to me you just say you read sections 9, 10 and
+
+19   11 and pairing material with the limitation in Section 4
+
+20   and you wouldn't read it any broader than that.
+
+21                 But there is no basis for taking the
+
+22   unlimited languages in 9, 10 and 11 and somehow
+
+23   distorting that to more narrowly limit the rights that
+
+24   we have under Section 4.          So I --
+
+25                 JUSTICE ALITO:         But the Petitioner says you
+
+
+                                        55
+                          Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   never clearly clarify the particular Federal on which
+
+ 2   the jurisdiction rests on this case.                    What --   can you
+
+ 3   clarify that?
+
+ 4                MR. PHILLIPS:         Yes.      This case arises under
+
+ 5   section 4 through Section 27.
+
+ 6                JUSTICE ALITO:         Section 4 creates the
+
+ 7   Federal --
+
+ 8                MR. PHILLIPS:         Yes, it does create it,
+
+ 9   because section 4, without the "would have jurisdiction"
+
+10   language clearly would be arising under jurisdiction, in
+
+11   my judgment, and the only thing -- and then it places an
+
+12   additional requirement on you.
+
+13                You can't just use the contract that gets
+
+14   you into Federal court.        You have to then look to see
+
+15   whether you would have had an underlying cause of action
+
+16   or an underlying Federal claim or whether there would
+
+17   have been diversity jurisdiction on the underlying
+
+18   claim.
+
+19                JUSTICE SCALIA:           Why -- why can't you have
+
+20   sort of modified look, through like a modified limited
+
+21   hangout or whatever it was?            That is to say, you can
+
+22   look through for the purpose of determining whether the
+
+23   arbitration agreement raises a Federal question.                    But
+
+24   that doesn't mean you have to look through to determine
+
+25   whether the underlying controversy raises a Federal
+
+
+                                       56
+                         Alderson Reporting Company
+                       Official - Subject to Final Review
+
+
+ 1   question.
+
+ 2               MR. PHILLIPS:         Because I think -- I think
+
+ 3   the reference in the statute to controversy clearly
+
+ 4   envisions the underlying dispute between the parties,
+
+ 5   because it's not just the arbitration agreement and it's
+
+ 6   not even just the controversy; it's the subject matter
+
+ 7   of the controversy, and you compare that to section 2
+
+ 8   and it's clear that what the Congress has in mind there
+
+ 9   is the underlying dispute between the parties.
+
+10               JUSTICE KENNEDY:           Is the Petitioner's -- I'm
+
+11   sorry I didn't get a chance to ask the Petitioner -- is
+
+12   the Petitioner's argument for a limited look through
+
+13   compromised in any way by the Beneficial Bank case which
+
+14   allows removal if there is a Federal defense?
+
+15               MR. PHILLIPS:         Well, I mean, I don't know if
+
+16   it's compromised by it.       I think it -- the Beneficial
+
+17   case makes it absolutely clear that we have here a
+
+18   Federal claim and therefore --
+
+19               JUSTICE KENNEDY:           That's of course in the
+
+20   context of a defense, as opposed to a counterclaim.
+
+21               MR. PHILLIPS:         Right.        But again I don't
+
+22   think -- I don't think section 4 is asking the courts to
+
+23   make that determination.        I think what section 4 is
+
+24   asking the Court to look at is the subject matter of the
+
+25   controversy, and is it -- is it clear under the
+
+
+                                      57
+                        Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   circumstances that there is in fact a Federal claim
+
+ 2   underlying it?    And here there is no question on that.
+
+ 3   I ask you to affirm.
+
+ 4                CHIEF JUSTICE ROBERTS:                 Thank you,
+
+ 5   Mr. Phillips.    Mr. Ortiz, you have three minutes
+
+ 6   remaining.
+
+ 7                REBUTTAL ARGUMENT OF DANIEL R. ORTIZ
+
+ 8                    ON BEHALF OF THE PETITIONER
+
+ 9                MR. ORTIZ:       Thank you, Your Honor.             Just a
+
+10   few quick points.
+
+11                I think this Court should be exactly clear
+
+12   how much Federal question jurisdiction the look-through
+
+13   theory would create.       So long as a Federal issue can be
+
+14   imagined anywhere in the lawsuit, there would be Federal
+
+15   question jurisdiction under this theory, and this is
+
+16   almost by definition going to be the case in any dispute
+
+17   concerning credit card debt, either because of the
+
+18   theory of complete pre-emption from the FDIA, or because
+
+19   of the theory used in the Strong case before the
+
+20   Eleventh Circuit that RICO's prohibition on the
+
+21   collection of unlawful debt --
+
+22                JUSTICE KENNEDY:            What about a Federal
+
+23   defense?
+
+24                JUSTICE STEVENS:            That isn't quite true,
+
+25   because here there is a definition in the Federal claim
+
+
+                                        58
+                          Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   in your counterclaim.
+
+ 2                 MR. ORTIZ:       I'm sorry, Your Honor?
+
+ 3                 JUSTICE STEVENS:            There is a definition of
+
+ 4   the controversy in your counterclaim and in their
+
+ 5   response.
+
+ 6                 MR. ORTIZ:       No -- there -- in general, if
+
+ 7   you accepted their theory, as long as there is an issue
+
+ 8   that could be spun as a Federal issue which there will
+
+ 9   always be in a credit card debt collection case and
+
+10   just -- in most States, that on look-through theory
+
+11   would be --
+
+12                 JUSTICE STEVENS:            You're suggesting that
+
+13   every credit card debtor would have a class action?
+
+14                 MR. ORTIZ:       Your Honor, every -- it does not
+
+15   have to be a class action to establish what would serve
+
+16   --
+
+17                 JUSTICE BREYER:            That's your view, but I
+
+18   mean believe me, I think I can keep that problem under
+
+19   control.     That was your original point.                I see the
+
+20   point, it's going to spread too far; you'd have to have
+
+21   some rules that cabin it.
+
+22                 Assume I got that under control; maybe I
+
+23   don't.     This is a case of "well, his brother was worse."
+
+24   What do you want to say about the criticisms of the
+
+25   horrible things that happen if we adopt your position?
+
+
+                                         59
+                           Alderson Reporting Company
+                       Official - Subject to Final Review
+
+
+ 1               MR. ORTIZ:      Well, Your Honor, Respondent
+
+ 2   argues that this is an easy case, or at least over time
+
+ 3   the courts will decide these things to make the
+
+ 4   jurisdictional inquiry -- inquiries clear.              Petitioner
+
+ 5   does not believe that is true.
+
+ 6               For example, here the real party in interest
+
+ 7   dispute consumed much of the court's time.              The lower
+
+ 8   courts have gone both ways on this issue.              It's
+
+ 9   incredibly fact-dependent.         There is no easy answer for
+
+10   it.
+
+11               Also, Your Honor, Petitioner does not
+
+12   believe that the Declaratory Judgment Act would have
+
+13   been appropriate in this case.             Declaratory judgments
+
+14   are discretionary and in this context of where you have
+
+15   a pending State court lawsuit Petitioner believes that a
+
+16   Federal district court would be very cautious before
+
+17   permitting one.
+
+18               Also Your Honor, if in the context of
+
+19   declaratory judgment action presumably the district
+
+20   court would have to take the State court admission into
+
+21   account, and in particular here it was admitted that the
+
+22   account was with Discover Financial Services not with
+
+23   the bank.
+
+24               Also, Your Honors, this -- Respondents try
+
+25   to portray Petitioner's position as siphoning off all
+
+
+                                      60
+                        Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   Federal question jurisdiction.               That is not true.     Under
+
+ 2   Petitioner's view, a lot of Federal question
+
+ 3   jurisdiction -- some would remain.                  It would just be
+
+ 4   that the arbitration agreement itself would have to
+
+ 5   sound in Federal law.       ERISA arbitration agreements
+
+ 6   would still be covered.         Some labor agreements would
+
+ 7   still be covered.    There would be --
+
+ 8                CHIEF JUSTICE ROBERTS:                 I'm sorry, what do
+
+ 9   you mean would still be covered?
+
+10                MR. ORTIZ:       Would still be covered under
+
+11   Petitioner's theory of what section 4 means.                  So for
+
+12   example, Mr. Chief Justice --
+
+13                CHIEF JUSTICE ROBERTS:                 Which would still be
+
+14   in Federal court.
+
+15                MR. ORTIZ:       Would still be in Federal court.
+
+16   Thank you.
+
+17                CHIEF JUSTICE ROBERTS:                 Thank you, counsel.
+
+18   The case is submitted.
+
+19                (Whereupon, at 2:01 p.m., the case in the
+
+20   above-entitled matter was submitted.)
+
+21
+
+22
+
+23
+
+24
+
+25
+
+
+                                        61
+                          Alderson Reporting Company
+                                  Official - Subject to Final Review
+
+
+        A             47:7 56:12        ALITO 13:19            appropriate           45:19
+ab 22:12            adjudicate 43:8       25:3,8,12              15:8,9,13,14      architect 16:11
+ability 19:9,9,10   admission 60:20       55:25 56:6             27:19 60:13         22:2
+able 6:9 22:21      admit 29:13         allegation 29:1        appropriately       area 43:25
+  22:22 32:22         42:22             allegations              7:13              arguably 4:5
+above-entitled      admitted 60:21        28:25                arbitral 43:2,9     argue 23:4
+  1:11 61:20        admittedly          alleged 26:15          arbitrate 4:20        48:17 55:16
+abrogated 6:21        51:22             allow 4:1 22:11          26:15 30:16,17    argued 16:16,17
+absence 24:20       adopt 59:25           22:14                  30:18 34:21       argues 60:2
+absent 22:3         adopted 9:16        allowing 18:8            42:6              arguing 9:11
+absolutely 31:3       14:20             allows 57:14           arbitrated 3:18       20:2
+  50:25 54:12       adversary 46:7      amici 23:4               13:10 37:9        argument 1:12
+  57:17             ae 3:23             amount 15:1              39:17 41:15         2:2,7 3:4,6 7:2
+abstract 29:4       affirm 58:3           17:10 27:10            42:12               25:14 26:4,8
+accept 44:5 51:6    affirmative 28:2      39:16 43:22          arbitration 3:11      27:7 29:17
+accepted 59:7         31:8                47:12 48:22,25         3:14 4:1,5,9,10     32:22 41:10
+access 55:3         aggrieved 26:14       49:1,3,8 51:10         5:5,9,13,19 6:5     57:12 58:7
+accomplish 9:10       55:11             amounts 38:18            6:10,10,21 7:7    arisen 28:3 38:4
+  43:19             agree 11:10         amount-in 17:7           7:18,24 9:7       arises 4:5 29:2
+accomplished          54:19             amount-in-co...          10:9 11:20,21       29:24 32:13
+  42:21,21          agreed 44:25          18:2                   12:2,7,21,24        33:8 41:14
+account 9:6 21:1    agreement 4:5       answer 32:14             13:2,17 15:3,9      43:15 55:9
+  60:21,22            4:13,14,19,19       34:16 35:2             15:10 16:8,13       56:4
+act 3:11 4:9,10       4:20,21,24 5:2      53:1,24 54:14          17:21 19:2,18     arising 12:13,19
+  5:5 6:21 7:15       5:9,14 6:6,16       60:9                   19:24 20:12,14      13:6 26:17,23
+  9:7 12:21 13:2      7:13 9:9,20,23    antitrust 40:5,6         21:12 22:3,7,8      27:17 44:12
+  20:8 22:8           10:9,21 11:10       40:9                   22:12,15,21,23      56:10
+  23:11,12 25:6       11:11,12,13,22    anyway 16:23             22:24 23:1,11     aside 10:22
+  25:15 34:5          11:25 12:2,7,8    apparently 34:5          23:12,13 25:2       11:11 26:21
+  36:17 41:4          12:9,11,24        appeal 45:10             25:6,15 30:3,5      35:24 36:2
+  50:19 60:12         15:4 17:21        appear 14:16             30:9 34:5         asked 39:19
+action 4:18,22        19:2,24 20:12     APPEARAN...              35:25 36:7,8        45:2
+  10:14 20:22,25      26:19,21 30:6       1:14                   36:18 42:6,19     asking 44:22,24
+  26:23 29:10         35:25 36:18       appeared 25:16           42:20 43:11,13      47:18 57:22,24
+  30:12,13 31:1       43:11 48:2,9      appears 13:12            43:17 45:1        asks 53:5
+  31:5,5 37:4,15      49:3,7,18,19      applies 47:3             46:5 47:14        assert 29:8,18
+  37:22 38:17         49:24 50:1,6      apply 8:16 9:4           48:2,9 49:2,7     asserted 29:22
+  39:7,13 43:4        50:14 56:23         18:17 26:11            49:15,18,19,24    asserting 29:5
+  52:21 53:17         57:5 61:4           35:22 36:11            50:1,1,6,14,19      29:12
+  54:1,2 55:9,11    agreements 5:13       49:12                  50:19,23 51:7     assertion 54:24
+  55:12,15 56:15      5:20 6:1 7:7,19   applying 20:3            52:3,6 53:23      asserts 29:23
+  59:13,15 60:19      7:24 10:2 61:5      35:14                  55:1,2 56:23      assessment 29:3
+actions 8:16          61:6              appointment              57:5 61:4,5       Assume 59:22
+  41:25             agrees 26:20          13:14                arbitrator 45:22    Assuming 37:18
+actual 16:12,12       29:10             appreciate               46:11               48:22,24,25
+  21:19             aims 23:15            45:17                arbitrators         assumption 36:6
+additional 30:25    AL 1:6              approach 23:10           13:14 23:13         47:10
+
+
+                                                 62
+                                   Alderson Reporting Company
+                              Official - Subject to Final Review
+
+
+assure 16:23     believe 12:11        28:2 29:9        15:10 17:20,25     43:15 44:16
+attendance         37:11 44:16        32:18 34:21,21   22:19 27:21        50:16,16 52:25
+  22:12,22         59:18 60:5,12      37:4,14 39:13    44:6 50:20,21      53:2 56:16,18
+authority 44:15  believes 60:15       40:11,24 41:7    51:8,22,24         57:18 58:1,25
+authorization    Beneficial 57:13     53:1,10 54:1     52:11            claims 20:24
+  17:23            57:16              54:13          categorical 7:20     34:7 43:12
+authorize 15:8   benefit 28:25      build 25:21      cause 30:13        clarify 56:1,3
+  15:16 16:2,25  better 53:13,17                       52:21 56:15      class 10:13
+  17:12            53:25                    C        cautious 60:16       30:25 38:17
+authorizes 17:2  BETTY 1:3          C 2:1 3:1 20:13 certain 32:4          39:13 53:17
+  17:20 22:9     beyond 47:6,13       20:13,15,17,23 certainly 6:18       59:13,15
+automatic 17:4     47:15              21:17,18         24:23 30:14      clause 11:25
+available 6:7    big 38:17 44:13    cabin 59:21        32:10 46:16      clauses 6:8
+  30:14 37:20      44:21            California 40:6 chance 57:11        clear 5:14 6:1,11
+avoid 28:17      bigger 46:4          48:12          change 6:19          7:17 12:11
+award 22:24      bills 6:3          candidly 44:9      46:1 53:17         13:8,15 14:1,7
+  55:2,2,4       bit 13:1 18:16     card 4:3 32:2    charged 27:10        20:5 24:15,25
+                 board 8:8            58:17 59:9,13    32:5               25:23 26:20,25
+        B        bottom 3:23        care 5:5         Charlottesville      28:4 30:22
+B 20:13,13,15,17   32:11            CARTER 1:17        1:15               46:14 57:8,17
+ 21:17           bottom-line          2:5 26:4       Chief 3:3,8 4:17     57:25 58:11
+back 9:20 11:15    37:21            case 3:10 7:24     11:8,21 12:4       60:4
+ 46:2            Breyer 18:18,25      10:5,8,14,18     14:24 20:10      clearer 7:22
+background         19:12,14 37:23     14:1,10,19       21:13 23:22        24:7
+ 15:7              38:10,15,25        16:18 17:17,18   24:11 26:1,3,6   clearly 9:15
+banc 23:18         39:2,9,12,19       18:15 20:2       28:7 40:2,15       32:15 52:18
+bank 1:6 3:4       39:20,23 40:17     21:3,4,11,21     40:18,23 41:3      55:9 56:1,10
+ 10:10,12 57:13    47:18,23 48:5      22:6 23:16,18    41:6,10 58:4       57:3
+ 60:23             48:8,14,19,24      25:21 26:13,16   61:8,12,13,17    close 34:10
+barred 4:25        49:2,6,11,15       27:25 29:16    chose 29:7 31:12   closer 25:17,18
+bars 8:5           49:18,23 50:5      30:11,15,16,17   31:15,16         closest 23:2
+based 29:3         50:9 59:17         31:16 35:6,10 Circuit 14:9        Cohen 46:19
+ 36:16           brief 13:13          35:19 36:3       23:19,19 41:2    collecting 38:12
+basically 14:11  bring 4:18,22        37:17 39:3       58:20            collection 30:12
+ 23:24 37:24       11:14 19:16        40:15,17,18    Circuit's 22:17      43:3 54:1
+ 38:11             28:15 31:17        41:9,11 42:14 circumstances         58:21 59:9
+basing 16:6        36:8 37:22         42:14,15 43:24   58:1             come 5:18 20:23
+basis 14:6,13      45:9,13 47:9       44:6 46:7,9    cites 14:9           26:12 40:16
+ 29:4 33:5 34:6    53:9,16            49:14 50:2,23 citizenship           44:9 48:16
+ 42:23 49:5      bringing 40:19       51:22 52:4,9,9   46:12              49:23,25 53:7
+ 55:21           Bristol 6:3          52:12 54:5,6,7 civil 26:22        comes 17:23,23
+beginning 6:18   broad 4:1            54:20 56:2,4   claim 21:1,2         23:2 27:13
+behalf 1:15,17   broader 55:7,20      57:13,17 58:16   29:5,12,12,25    coming 22:24
+ 2:4,6,9 3:7     brother 59:23        58:19 59:9,23    30:2,8,10          23:1 25:17,18
+ 26:5 39:13,14 brought 10:13          60:2,13 61:18    31:17 35:3,14    command 9:3
+ 58:8              12:1 15:21         61:19            36:8,17 37:5     Commercial
+behavior 53:18     18:11 27:9,14    cases 14:11 15:9   41:15,17 43:6      14:10
+
+
+                                             63
+                               Alderson Reporting Company
+                                Official - Subject to Final Review
+
+
+company 14:10      conduct 53:15        17:8 26:24             35:21 36:8,17           D
+  32:2             Cone 13:19,23        27:8,9,12,13           36:22 37:1       D 3:1
+compare 57:7         14:19 16:10,17     31:22 32:1,8           38:3,7 40:7,11   damages 6:7
+compatible           21:25 46:7         32:11 33:11            40:19,25 41:7    DANIEL 1:15
+  50:21            confession 24:2      43:22 46:25            41:12,20,22       2:3,8 3:6 58:7
+compel 3:14 4:1    confidence 45:6      47:12 49:1,3           42:1,5,15,18     dealing 14:14
+  6:5 15:20 16:8   confined 4:3         50:24 51:10            42:19 43:4,9     deals 13:13
+  16:13 20:14      confirm 22:14        52:13,16,17            43:25 44:23      debt 4:3 10:10
+  22:3,12,21,22      22:23              53:5 56:25             45:3,8,10,12      10:12 27:11
+  55:1             congeal 35:4         57:3,6,7,25            46:5 47:1         30:1 42:7,15
+compelled 22:25    congealed 35:9       59:4                   48:16,20 50:13    42:15 43:7
+  23:2             Congress 5:23      core 23:11               50:22 51:19,25    58:17,21 59:9
+competent            6:13,21 7:16     correct 30:23            52:8,21,22       debtor 52:7
+  35:22              9:14,16 24:16      46:8                   53:6,8,9,21       59:13
+complaint 3:13       25:1 34:8,11     counsel 26:1             56:14 57:24      decide 10:1
+  14:16 20:18        45:8 47:5 57:8     61:17                  58:11 60:15,16    20:14 21:3,6
+  28:8,10,19,25    consider 27:8      counterclaim             60:20,20 61:14    23:14 28:20
+  29:8 32:18,19      34:23              3:21 27:12             61:15             33:4 38:17,24
+  32:24 40:13,22   constants 45:19      29:9,23 30:24        courts 5:1,11,19    39:3 45:20,23
+  47:11 52:20      construct 34:11      30:25 31:9             5:24 6:4,14       60:3
+complaints 33:6    consumed 60:7        32:23 33:1             7:14,15 12:14    decided 21:10
+  34:1,24          contain 22:16        42:23 53:2,10          16:3,3 22:20     decision 50:14
+complete 14:22     contains 3:15        57:20 59:1,4           24:21 44:15,23   declaratory
+  15:18 16:6,22    content 30:17      County 6:3               44:24 45:6        37:4 60:12,13
+  18:3,4 20:23     contention         couple 30:4              55:3 57:22        60:19
+  47:3 58:18         15:11            course 21:13             60:3,8           declared 6:16
+completely 3:20    context 11:2         31:9 41:6            court's 60:7       default 32:3
+  12:16 16:5         13:7,16,24         51:15 57:19          covered 21:9       defeated 14:21
+  21:4,6 35:25       14:7 15:2        court 1:1,12 3:9         51:9 61:6,7,9     16:14
+completeness         24:15 26:20        3:14 4:2,18,22         61:10            defendant 53:10
+  16:14 17:1,5       35:2,8 47:3        5:18,21 6:16         create 20:19       defendants
+complex 23:14        57:20 60:14,18     9:23 10:1              28:17 56:8        52:11
+complicated        contexts 12:21       11:18,24 13:20         58:13            defense 29:12
+  13:1 25:13         33:23              13:22 14:1,6         created 20:8        31:5 38:25
+comply 40:21       contours 18:9        15:21 16:1,10          22:5 43:21        57:14,20 58:23
+compromised        contract 8:14,20     16:22 17:20            45:8             defensive 30:24
+  57:13,16           8:21,24 56:13      18:1,11,23           creates 56:6       defensively
+concede 37:24      contractor 13:7      19:17 21:23          credit 4:2 32:2     27:13 29:8
+conceded 51:19     contrast 13:11       22:1,1,11,11           58:17 59:9,13    define 18:9
+conceptions        control 28:10        22:14 23:5,17        critical 9:12       19:11,21 52:12
+  3:24               59:19,22           25:19 26:7,10          20:9 22:8        defined 32:17,19
+concerning 4:2     controls 37:7        26:19 27:9,22        criticisms 59:24   definition 58:16
+  11:18 58:17      controversy          27:23 28:15          cry 24:8            58:25 59:3
+concerns 10:9        11:19 12:14,19     30:2,13 31:5         customer 27:10     deliberately
+concession 28:4      12:20,21,23        32:12,22,25            32:2,3            40:10
+conclusion 6:11      13:2,5,6,8,15      33:10 34:22          cut 9:20           dependent
+concrete 41:13       13:16,17,20        35:3,6,13,19                             29:20
+
+
+                                               64
+                                 Alderson Reporting Company
+                                  Official - Subject to Final Review
+
+
+depends 21:14         35:9 37:7 38:1    E 1:3 2:1 3:1,1        envisioned 47:5     exists 14:13
+  46:22 51:1          38:2,7 40:4,24    easier 51:14           envisions 52:19       27:20
+deprives 40:12        41:13 47:1,6      easiest 43:24            52:21 57:4        expand 9:14
+depriving 20:18       47:13 51:7,17       44:6                 equitable 8:16      expedient 26:10
+designed 34:5         52:7,7 54:10      easily 55:15           equity 5:12 6:2     expenses 6:9
+determination         57:4,9 58:16      easy 12:6 26:13          6:3,24 7:4 8:5    explain 9:19
+  16:7 46:3 53:6      60:7                45:12 60:2,9           8:8,12,14,17      explaining 23:3
+  57:23             disputes 4:4        educate 24:21            8:20 9:2,4        explanation
+determine 12:15       45:1 48:10,15     effect 4:15 15:19        25:11,17,21         25:8,10
+  14:25 16:4        distinctions 7:12     18:8 29:22             33:22,23          explicit 28:1
+  33:10 52:23       distorting 55:23    effected 42:14         equivalent 17:7       30:6
+  56:24             district 3:13         42:20                ERISA 61:5          express 15:25
+determining           16:3 26:19        effort 43:14           error 24:3          extent 15:7,12
+  15:18 17:1          44:14 51:25       either 13:13,14        especially 8:11       17:6 47:8
+  56:22               52:22 60:16,19      30:8 42:11           ESQ 1:15,17 2:3     extra 7:19
+difference 21:5     diverse 16:5          58:17                  2:5,8
+  29:15               20:13 28:21,21    Eleventh 23:19         essentially 29:6            F
+different 3:24        46:12               41:2 58:20           establish 37:5      FAA 11:6,7
+  15:6 34:15        diversity 14:23     eliminate 43:1           59:15               14:19 24:17
+  49:17 54:10,10      15:1,3,18,20      emanation 23:7         ET 1:6              face 14:16 43:25
+difficult 37:25       16:6,14,22        embedded 13:6          evenhandedly          46:14
+  38:1                17:1,6,17 18:3    en 23:18                 20:3              fact 9:16 14:14
+difficulties 36:4     18:5,20 19:20     enable 9:2             everybody             25:3 33:18
+difficulty 33:8       21:4 28:16,18     enacted 5:11             26:20 29:10         36:6,24 41:18
+direct 50:22          42:15 47:4          11:7 24:17             39:14 44:25         46:18 51:19
+directed 8:22         51:5,12 56:17     ended 26:9             exactly 7:10          58:1
+  14:18             divide 43:12        enforce 5:19             9:10 20:20        fact-dependent
+directs 52:3        division 6:24         12:2 29:23             31:3 41:1 49:9      60:9
+disappearance       doctrine 4:25         30:9 36:18             58:11             failure 26:15
+  24:14               5:6,18 6:17,22      43:16 55:3           example 28:16       far 24:8 41:9,11
+Discover 1:6 3:4      8:23 9:11,24      enforceable              38:3 60:6           43:10 55:17
+  60:22               10:22,22,25         5:10,13 6:2,7          61:12               59:20
+discretion 38:24      12:6 20:16          6:17 7:8,12,25       exception 9:1       favor 4:10
+discretionary         24:14,18            7:25 8:13 9:1        excessive 35:14     favorable 47:19
+  60:14             doctrines 8:20      enforced 6:8,14        exclusively         FDIA 58:18
+dismiss 8:16        doing 39:5 53:16      7:9,13 47:17           41:14 43:15       FDIC 38:19
+dispute 3:17,23     doubt 54:22         enforcement 8:7        excuse 23:20        Federal 3:11,15
+  4:2 10:3,8,12     doubts 36:24          12:23                  54:17               3:15,16,24 4:2
+  12:22 13:10,18    dozens 44:12        enforcing 7:18         exercise 44:17        4:6,9,9,18,22
+  13:21,24 16:9     draw 8:3            engaged 53:15          exerts 4:15           5:1,11 6:4,21
+  17:22 18:18,19    drawing 7:11        entertaining           exist 8:13 14:7       9:7 10:2,13,15
+  19:3,19 20:17     driving 36:3          35:13                  34:17,20 38:19
+     11:13 12:3,14
+  21:9,15 26:18
+    dropped 16:12       entirely 50:21         existed 8:17          12:15 13:2
+  27:2,5,24,25      due 42:7            entitled 37:21         existence 27:17
+      14:15 15:21
+  28:5,9 29:2
+      D.C 1:8,17            53:20,21               31:25 34:12         18:11,23,23
+  32:13,16,17                           envision 31:24         existing 4:15         19:16 20:19
+  34:23,24 35:5            E              42:13                  31:24               21:2,2,21 22:7
+
+
+                                                 65
+                                   Alderson Reporting Company
+                                 Official - Subject to Final Review
+
+
+   22:11,14,20      first 3:11 4:12    generated 34:25        gymnastics           4:13 22:4 23:9
+   23:10,11,12,16     5:22 11:7 30:5   getting 7:1              36:22 37:2         25:24 60:24
+   25:19 28:3,5,9     36:10 45:13        45:19 53:14                              horrible 59:25
+   28:12,14,15        52:15            Gila 34:6                      H           hostility 25:20
+   29:2,11,13,24    fit 40:13 43:13    Ginsburg 5:4,16        H 13:19,23          huge 38:18
+   30:1,19 32:12    flip 34:3 36:19      6:12 12:18             14:19 16:10        39:16
+   32:13 33:5       follow 5:17,23       13:1 27:3,15           21:24             hypothesis
+   34:4,6 35:14       15:23 17:16        29:7,14,21           halfway 27:7         53:11
+   35:15,22 36:17     20:15 26:10        30:23 31:7,12        hand 42:2           hypothetical
+   36:25 37:1,5     followed 14:3        31:15,20 32:1        hangout 56:21        19:22 27:23
+   38:3,7,13,20       46:9               32:7 35:12,18        happen 38:5,16       52:25 53:1,25
+   39:6,15 40:7,8   follows 21:22        35:21 41:17            38:16 44:9
+   40:11,25 41:7    follow-up 42:19      42:4,13,17,24          48:15 59:25                I
+   41:9,14 42:2     footnote 13:23       43:19 45:2,5         happened 22:15      idea 51:6
+   42:18 43:2,16      13:25 14:5,17      52:5,24 53:7         happens 19:4        ignore 11:25
+   44:16,23,24      force 15:12          53:13 54:8,17          29:22 30:2        ill-founded 6:4
+   45:8,19 47:15      19:17              54:23                  42:3 43:1 54:9    imagine 32:23
+   47:16 48:1,16    foreseen 37:3      give 28:24 47:21       hard 15:25 39:3        32:25 33:15,17
+   48:20 49:5,20    forms 7:17           54:25                  39:20 40:2           33:18,25
+   50:13,16,20,22   forward 35:7       given 24:14 36:4         44:6              imagined 33:5,6
+   51:13,17,25      found 22:1         go 28:12 35:6          hate 9:18              58:14
+   52:9 53:10       four 9:12 12:12      41:9,11 47:13        hear 3:3            imagining 38:21
+   54:16 55:3,9       13:3               53:21 55:1,17        held 41:2           immediate 47:6
+   55:16 56:1,7     Fourth 22:17       goes 43:11             helpful 8:1         immediately
+   56:14,16,23,25   frame 20:18        going 5:23 21:19       higher 8:8             14:3
+   57:14,18 58:1      21:15 28:7,8       27:21 30:16          historic 6:13       impairs 5:3
+   58:12,13,14,22     40:13              31:16 35:4,19          12:5              implicate 28:9
+   58:25 59:8       franchisee 40:3      36:6,22 39:6         historical 9:24        28:13
+   60:16 61:1,2,5     40:4               39:16 40:5             11:1,25 24:18     implicates 20:13
+   61:14,15         franchisor 40:4      43:25 44:8,9         hoary 4:25             28:12
+federalism          frankly 31:24        46:2 47:14,21        hold 20:10          implication
+   44:22              43:18              50:2 51:8,9,9        Honor 4:23 5:8         18:14 20:1
+Federal-quest...    front 47:1           52:10,19,22            5:25 6:20 7:6     impliedly 3:12
+   14:15 15:2       fundamental          53:8,16 58:16          7:16,23 8:4 9:5   imply 4:14
+   17:18,20           34:4               59:20                  10:4,7,16,19      important 49:20
+Fifth 14:9 23:19    furnish 3:22       good 47:19,21            11:2,16 13:22     imposed 5:24
+fight 51:24         further 25:24      gotten 42:18             14:17 15:5           6:14
+fighting 52:2         44:7             governs 35:15            16:20,24 17:6     inadequate 7:4
+figure 39:21        fuss 44:21           48:10                  17:19 18:8,13     inappropriate
+   40:3                                grant 45:12              18:22 19:8,15        35:13
+filed 26:16 27:19          G           greatest 43:22           20:7,20 21:7      included 25:4,5
+   29:5 34:22       G 1:17 2:5 3:1     ground 3:15              22:20 24:5,13        25:5
+Financial 60:22       26:4               8:17                   25:7,10 58:9      inconceivable
+find 23:5           gap 23:4           grounds 8:13             59:2,14 60:1         34:7,10
+finding 25:20       gaps 20:8 22:5       9:2                    60:11,18          incredibly 60:9
+finds 32:23         gather 32:22       guess 12:4 36:2        honored 50:20       incurred 6:9
+fine 45:25 52:10    general 9:3 59:6     38:5                 Honors 3:23 4:7     indemnitee
+
+
+                                                66
+                                   Alderson Reporting Company
+                                Official - Subject to Final Review
+
+
+  26:17              7:7 8:12         58:12,15 61:1            45:2,5,9,14,18   lack 45:6
+independent        issue 7:18 14:16   61:3                     45:22 46:6,11    language 4:12
+  14:6,12,13         35:10 37:19    jurisdictional             46:18 47:18,23     8:22 9:8 10:18
+  15:12 29:10,19     46:22 47:16      8:23 14:18               48:5,8,14,19       10:19,20,20
+  49:5               51:11,18 52:1    20:8 22:5                48:24 49:2,6       13:23 22:9,16
+independently        53:22 58:13      23:15,17 60:4            49:11,15,18,23     23:8 24:23,24
+  15:15 16:1         59:7,8 60:8    jurisdictions 8:7          50:5,9,12 52:5     25:22 27:1,16
+  17:2             issues 3:10        25:18                    52:24 53:7,12      31:21 33:9
+Indian 34:6          44:10,12,22    Justice 3:3,8              53:24 54:5,8,8     51:15 53:4
+indispensable        49:21            4:17 5:4,16 6:2          54:17,18,23        55:6,7 56:10
+  47:9             issuing 48:20      6:12 7:1,10,20           55:25 56:6,19    languages 55:22
+inertness 14:18                       8:2,10,11,19             57:10,19 58:4    large 21:8
+inference 8:3              J          8:25 9:18,22             58:22,24 59:3    larger 13:6
+injunction 48:20   Jersey 25:4,13     9:25 10:5,11             59:12,17 61:8    lasts 48:10
+inquiries 23:15    judge 21:18        10:17,24 11:3            61:12,13,17      Laughter 44:4
+  60:4               23:20,20 24:20   11:8,10,21             Justices 36:5        45:16 50:11
+inquiry 60:4         28:18,20,23      12:4,18,25             Justice's 40:18    law 4:6 5:11,14
+instances 13:9       38:5,20,22,23    13:19 14:24            justify 44:17        6:7,8,24 7:5
+  52:2               46:5             15:22 16:16,21                              8:5,6,13,17,20
+instruct 9:25      judges 23:13       17:3,9,15,24                   K            8:24 9:2,4 23:4
+instructed 11:24     45:19            18:3,6,12,18           keep 59:18           25:11,17 28:3
+instructing        judgment 20:23     18:25 19:12,14         Kennedy 19:21        28:6,10 29:2
+  12:14              37:4 56:11       19:21 20:4,10            20:4,21 37:2,7     29:24 30:19
+instructs 9:23       60:12,19         20:21 21:13              37:10,12,16        32:13 33:23,23
+  11:17            judgments          23:20,22 24:11           57:10,19 58:22     34:9 35:14,15
+intended 4:24        60:13            25:3,8,12,20           kind 7:18 20:1       35:18,22 39:6
+  24:7             jump 9:23 23:3     26:1,3,6 27:3            34:24 38:25        40:6,9,20
+interest 32:5      jurisdiction       27:15 28:7             kinds 25:22          41:14 43:16
+  33:1 35:14,16      3:16,22,25 4:4   29:7,14,21               44:12              55:9,16 61:5
+  42:7 60:6          4:11,16 5:1,3    30:20,22,23            knew 9:15          laws 38:18 43:5
+interesting 55:5     5:20 6:5 8:9     31:4,7,12,15           know 8:25 16:19    lawsuit 3:21
+interestingly        9:15,20 10:2     31:20 32:1,7             21:10 25:12,13     16:13 18:9
+  21:24              10:15 11:13      32:16,21 33:4            32:23 35:4,23      19:11 21:25
+interpret 26:25      12:3,15 14:6     33:8,13,21,25            36:12 37:19        26:17 27:14,18
+  51:1,2             14:13,15,22      34:10,16,19              38:1,4,15          28:2 29:16
+interpretation       19:6 20:19       35:1,12,18,21            40:15 41:9         31:24,25 34:22
+  33:14,17 34:8      22:10 23:5,6     36:1,12,16,21            43:21,22 44:11     38:4 58:14
+  48:4,6             23:10 25:20,21   37:2,7,10,12             44:21 46:15,23     60:15
+interrupt 9:18       26:22 27:23      37:16,23 38:10           51:1,18 54:13    leap 23:3
+invent 34:1          28:20 29:11,13   38:15,25 39:2            54:15 55:10      leapt 23:23
+involve 19:4         32:12 33:5,11    39:9,12,19,20            57:15            leave 7:4 20:15
+  48:15              34:6 43:23       39:23 40:2,15          knowledge          left 5:6 21:10
+involved 19:19       46:9,20 48:2     40:17,23 41:3            24:20              36:5 42:5
+  20:25              48:14 49:5       41:6,10,17,18          knows 46:15        legitimate 29:17
+involves 50:23       52:10,23 53:4    41:20,24 42:4                             letter 39:5
+in-state 38:13       54:19 55:8       42:13,17,24                   L           letters 53:14
+irrevocable 5:9      56:2,9,10,17     43:19 44:2,5           labor 61:6         let's 20:12 40:3
+
+
+                                               67
+                                  Alderson Reporting Company
+                                  Official - Subject to Final Review
+
+
+limit 55:23            16:4,9 18:1     52:1 61:11              need 7:21 24:9       54:19
+limitation 55:19       19:23          meant 8:15,19             24:22             opposed 57:20
+limitations          look-through      9:4 10:21 14:2          needs 14:7 41:12   oral 1:11 2:2 3:6
+   37:19               3:22 9:11       23:12 31:7              negative 4:15        26:4
+limited 56:20          15:12 20:1,16  meet 49:3                never 5:22 6:13    order 42:19 52:3
+   57:12               22:10 23:9     meets 49:7                7:2 48:16 50:2    ordinary 4:7
+limiting 17:10         27:6,7 58:12   memory 24:17              51:9,12 56:1        8:19 15:7
+line 32:11 44:7        59:10           24:18                   nevertheless         18:16 19:10
+literally 9:8 11:3   lot 53:11 61:2   mentioned                 48:19             original 4:7
+   11:4              lower 18:23       13:23 22:5              New 25:4,11,13       10:14 29:16
+litigant 29:11         24:21 60:7     merely 31:4              nondiverse           31:17 40:22
+litigate 31:15       lurking 3:17     merged 25:11              46:19,21            54:1 59:19
+litigated 46:13        18:14          Metals 14:10             nonexistent 42:7   originally 4:24
+   51:17                              middle 13:12             non-Federal          24:7,16,17,23
+litigation 21:20           M          militate 4:10             50:24             Ortiz 1:15 2:3,8
+   27:20,22 30:7     major 25:1       mind 28:19 34:9          normal 15:17         3:5,6,8 4:23
+   34:1,12,17,20     making 29:17      57:8                    Normally 28:8        5:4,8,25 6:20
+   35:8 42:2 47:9    Marcus 23:20     minutes 58:5             notion 6:13          7:6,16,23 8:4
+little 13:1 18:16     24:20           mistakes 43:6            novel 12:16          8:18 9:5,22
+live 45:25           material 55:19   model 6:13               nullity 50:7,12      10:4,7,16,19
+loggerheads          matter 1:11 3:16 modified 56:20           number 15:20         11:1,4,16,23
+   35:9               4:4,11 5:1 7:15  56:20                    18:10 47:15         12:10,25 13:22
+long 44:11 58:13      9:14 11:18      modify 22:15,24                               15:5,24 16:19
+   59:7               12:3,15 23:5    Monday 1:9                       O            16:24 17:5,11
+longer 7:18           23:10 26:23     money 38:12,18           O 2:1 3:1            17:19,25 18:4
+look 3:14 11:12       27:17,24 29:1    39:16 52:7              object 50:15         18:7,13,22
+   11:18 12:7,8       31:18,22 33:11 Moses 13:19,23            obligation 43:7      19:8,13,15,25
+   14:8,14,20,25      43:23 52:16      14:19 16:10,17          obstacle 25:1        20:7,20 21:7
+   15:3,6,8,13,16     53:5,22 57:6     16:17 21:24             obviously 8:15       21:23 24:5,13
+   15:17 16:2,25      57:24 61:20      46:7,19                   35:6,24 42:3       25:7,10,16
+   17:4,4,7,12,17    matters 48:15    motion 6:5                 43:21 45:25        26:2 27:25
+   17:20,22,22        48:17            34:21                     47:8               58:5,7,9 59:2,6
+   18:19 19:2,22     mean 12:5 17:15                           October 1:9          59:14 60:1
+   20:24 21:15,19     21:16,18 24:2           N                offsets 32:4         61:10,15
+   21:20 22:1,18      30:5 31:7 32:9 N 2:1,1 3:1               Oh 31:2 49:2       ought 26:10
+   24:12 27:1,8       33:7,8,14       nailed 54:12               50:25            oust 5:20
+   27:20 39:5         34:14 35:15     narrow 34:8              Okay 50:10         ouster 4:25 5:6
+   44:20 47:6,11      37:16,23 42:6 narrowly 4:3               once 13:3,4          5:18 6:17,22
+   47:15 48:1         42:7,9 44:20     55:23                     21:15 22:15        7:17 8:6,22
+   49:10,11 51:3      46:13 48:16     nature 28:5                30:2 32:23         9:24 10:22,22
+   51:5,7,11,12       49:1 50:25      near 47:14                 38:10 55:1         10:25 11:6
+   51:15 52:6,10      55:5,13 56:24 nearly 4:2                 ongoing 27:22        12:1,6,12
+   52:12 56:14,20     57:15 59:18     necessarily 4:14         operates 15:15       24:14,18 33:19
+   56:22,24 57:12     61:9             21:11 25:23               16:1               33:20 50:10
+   57:24             meaning 4:8      necessary 6:23           opinion 23:21      outcome 42:2
+looked 40:7          means 4:17        22:18 23:8                23:23 46:14      outrageous
+looking 12:10         12:22 46:24      47:8                    opponent 49:16       53:15
+
+
+                                                 68
+                                   Alderson Reporting Company
+                               Official - Subject to Final Review
+
+
+outside 15:9     passed 7:15 34:9      34:2,13,18           poses 3:10        proceeding
+overall 4:8 8:21 pass-through          35:1,17,20,23        position 16:3       12:16
+  14:1,19 15:19   47:2                 36:10,14,19,23        18:15 21:21      process 43:2,10
+overcharged      pay 43:7              37:6,10,14,18         22:20 23:24      Professor 27:25
+  43:5           penalty 6:8           38:9,14,23            24:4 28:18       professors 23:4
+overcome 50:9    pending 3:21          39:1,4,10,18          34:19 54:22      prohibition
+override 15:17    21:16 23:16          39:22,25 40:14        59:25 60:25        58:20
+owed 30:1 52:7    41:21,23 42:2        40:21 41:1,5,8       possibilities     proper 52:5
+                  60:15                41:19,22 42:1         30:5             proposition
+        P        people 18:19          42:9,16,24           possibly 20:25      14:12
+P 3:1             19:4,23 28:17        44:8 45:4,11         potentially       protected 36:25
+page 2:2 23:23   perceive 43:1         45:17,21,24           19:23 42:11      prove 26:9
+paid 27:10       perfectly 35:22       46:10,13,21          practical 29:21   provide 34:5
+pairing 55:19     43:14                47:21 48:4,7         precisely 26:16   provision 34:4
+paradoxically    performance           48:13,18,22,25        38:1,2 39:18     provisions 9:6
+  15:19           11:20 25:22          49:4,9,13,16          51:25 53:4       pure 48:15
+part 3:20 17:13 permitting             49:22 50:4,8         preemption        purely 30:24
+  17:14 32:8,10   60:17                50:25 52:14           45:23              50:24
+  43:9,20 44:10 Person 20:12           53:3,12,24           preexisting       purpose 50:18
+particular 8:18 Persons 20:13          54:3,7,11,21          21:25              56:22
+  10:20 22:10    petition 3:14         55:5 56:4,8          present 24:15     purposes 4:9
+  26:13 30:10,11  16:8,13 19:16        57:2,15,21           presents 23:24      16:25 18:2
+  34:9 35:8,10    22:3 26:18           58:5                 presumably          23:11 43:13
+  40:16 47:3     petitioner 1:4,16   phrase 13:6 14:3        15:16 60:19        51:12,13
+  56:1 60:21      2:4,9 3:7 18:8     picked 16:11           pretty 26:20      pursuant 41:16
+particularly      30:15 32:14        picture 42:18           46:3 49:13         43:17
+  51:16           51:2 53:14         place 5:22 45:13       pre-empted        put 11:11 26:21
+parties 4:1 10:8  55:25 57:11        places 56:11            3:20             p.m 1:13 3:2
+  12:22 14:23     58:8 60:4,11       plainer 43:12          pre-emption         61:19
+  16:5,7 19:13    60:15              plaintiff 28:24         21:1 58:18
+  19:18,24 21:6 Petitioners            40:12 52:1           principal 32:24           Q
+  26:24 27:2,5    47:25              plaintiff's 19:9       principle 15:17   qualifies 29:10
+  28:21,22 30:8 Petitioner's 4:3       19:10                principles 15:7   qualify 29:13
+  30:8 31:23      4:11 13:12         played 24:19            18:17             52:9
+  32:2 34:23      15:11 19:9         plead 28:11            probably 40:19    question 3:15,16
+  35:5,9 38:13    42:10 57:10,12     please 3:9 26:7         49:7 50:4,5       3:25 4:21 6:15
+  41:13 46:12,23  60:25 61:2,11      point 6:4 9:21         problem 8:10       6:22 15:1
+  46:24,24,25    petitions 15:20       9:22 15:24            11:6,25 12:12     16:24 27:3
+  47:7 48:9       16:4 18:10           16:16,17 31:13        18:21 19:6        28:5,12,14
+  51:18,24 57:4 Phillips 1:17 2:5      31:20 33:18           22:2 33:7,13      32:12 37:21
+  57:9            26:3,4,6 27:4        37:25 49:10           37:3 44:13        40:1 43:2,6
+parts 21:9        27:15 28:23          59:19,20              45:5 47:2         44:1 45:4,20
+party 6:8 13:15   29:14 30:4,20      points 14:10            59:18             51:13,17 53:20
+  19:17,18 26:14  30:21 31:2,6         58:10                problems 52:14     54:12,15 55:10
+  28:9 41:15      31:10,13,19        portion 23:25          proceed 20:22      56:23 57:1
+  46:19,22 47:9   32:6,9,19 33:2       30:16                 20:25 38:19       58:2,12,15
+  52:6 60:6       33:7,16,22         portray 60:25           39:15             61:1,2
+
+
+                                              69
+                                Alderson Reporting Company
+                               Official - Subject to Final Review
+
+
+questions 25:25  referred 12:12        22:17 26:5             23:22 24:11        50:2 52:18
+ 47:16 49:20,25  referring 13:9        32:14 60:24            26:1,3 28:7      section 3:11,12
+ 51:23             14:8              response 47:20           40:2,23 41:3,6     3:19,20 4:8 5:5
+quick 58:10      refers 8:12           47:22 59:5             58:4 61:8,13       5:8,10,12,14
+quickly 23:13      13:16,24 46:25    rest 9:9 11:17           61:17              5:21,25 6:6,22
+quite 9:20 11:16 reflects 46:16        14:17 30:17          room 8:6             6:23 7:3,6,19
+ 12:10 20:21     reg 38:20 39:15     rests 56:2             rule 5:21,23         7:21 8:11,15
+ 30:6 54:10      regardless 55:17    review 45:12           rules 21:14          8:18 9:9,9,17
+ 58:24           relevant 23:25        46:1                   59:21              10:20 11:17
+                 relief 30:25 31:8   revocation 8:14                             12:13,16 13:3
+        R        remain 30:13          9:2                           S           13:3,4,5,8,9,11
+R 1:15 2:3,8 3:1   61:3              revoked 6:10           S 2:1 3:1            13:13,15 15:11
+  3:6 58:7       remaining 58:6      rewrite 24:3           satisfy 51:10        15:14,15 16:1
+radically 3:24   remains 6:15        rewriting 24:11        save 4:12,13,21      16:2,2,4 17:1,8
+raises 56:23,25    30:1                24:13                  4:24 5:14 8:13     17:12,13,14,23
+read 9:8 10:18   remedy 55:12        rewritten 24:1,6         8:21 9:8,19,23     18:10,17 19:16
+  11:1 26:11     removal 29:25       RICO's 58:20             10:21 11:9,24      22:6,7,13,21
+  46:22 47:23,24   42:22 57:14       rigamarole               12:5,8 22:8        24:1,8,12
+  47:25 55:18,20 remove 29:15          55:13                  23:8 26:19         27:16,18 28:24
+readers 24:21      31:11 42:17,22    right 11:11,15           55:7               29:6,19 31:21
+reading 5:21     removes 19:8          12:4 17:24           save-for 24:24       32:20 34:4,8
+  23:25          repeal 3:19           19:21 20:18          saying 20:11         36:10,12,13,14
+real 35:5 39:9   repeals 3:12          30:9 31:2,6,19         24:9 25:12         37:15,22 41:15
+  39:12 60:6     require 16:22,22      34:18 35:17,20         27:1 30:6          43:17 44:17
+reality 51:8       17:16 27:18         35:23 36:5,7           43:12 46:8         45:7 46:22,23
+realization      requirement           36:17,19 38:9          50:2 51:3          47:6 51:6
+  24:19            3:13 56:12          38:14,23 39:1          53:14 54:6,6       55:10,19,24
+really 23:22     reread 46:7           39:4,22,25           says 4:19,19 5:8     56:5,5,6,9 57:7
+  34:14 36:3     reserve 25:25         40:12,15 41:1          7:6 8:12,25        57:22,23 61:11
+  40:12 43:10    resolution 26:13      41:5,8 42:10           10:24 12:7,13    sections 9:13,13
+  44:16 45:18      53:22               42:16,25 43:17         13:14 14:6,15      12:20 22:10,16
+  49:20 52:1     resolve 41:12         45:8,21,24             16:1 23:25         23:6,7 46:2
+  54:6             43:9 44:15          47:18 48:3,13          26:14 32:2         54:24 55:18
+reasonably       resolved 45:1         48:18,22,24            35:15 38:10      see 11:12 12:1
+  26:12,25         53:21               49:4,6 50:8            39:5 40:5,7,8      17:9,9 19:2
+rebuttal 2:7     respect 12:25         51:23 54:3,4           43:4 51:4          28:19 36:9
+  25:25 47:20      17:13 20:15         54:11,21 55:11         55:10,25           40:21 42:3,24
+  58:7             47:13               57:21                Scalia 8:10,19       47:6,11,16
+recommend        respectively        rights 29:19             8:25 15:22         48:1 49:2
+  6:18             22:14               36:25 43:17            16:21 17:3,9       51:16 52:6,8
+reconcile 51:14 Respondent             55:23                  32:16,21 33:4      52:10 56:14
+recover 6:9        23:2 60:1         rigorously 14:20         33:9,13,21,25      59:19
+reduce 18:10     Respondents         risk 46:4                34:10,19 35:2    seeking 11:19
+reducing 15:19     1:18 2:6 3:25     ROBERTS 3:3              44:2,5 50:12       19:17 25:21
+refer 4:25 8:19    9:5 15:15           4:17 11:8,21           56:19              29:15,18 43:13
+  11:5,5           17:11 18:15         12:4 14:24           second 3:19        seeks 41:15
+reference 57:3     20:2,9 22:6,9       20:10 21:13            20:11 43:20      sees 40:13
+
+
+                                              70
+                                Alderson Reporting Company
+                                 Official - Subject to Final Review
+
+
+sell 11:9            30:21 35:11       State-court 3:21       submitted 61:18     60:20
+semicolon 14:4       41:19 57:11       State-law 3:21           61:20           talk 31:23 49:19
+send 44:18 46:5      59:2 61:8         status 25:14           subsequent 30:7     52:16
+sense 5:22 15:6    sort 23:3 56:20     statute 24:3,9         subsequently      talking 34:14
+sentence 11:17     sought 3:17           25:4 26:11,14          22:23             55:14
+  13:25 14:5,9       13:10               33:9 37:18           substantive 3:10  talks 27:16
+separate 8:5       sound 47:19           43:20 50:7             8:23 49:21        31:22 46:23
+  41:24              61:5                51:15 52:15,18       suddenly 49:25      52:15
+serious 36:23      Souter 7:1,10,20      57:3                 sue 28:21,21      text 7:3 10:24
+serve 59:15          8:2,11 36:1,12    stayed 42:1              38:17 39:14     Thank 3:8 26:1
+Services 60:22       36:16,21 45:9     step 7:19                40:5 53:18,19     26:2,6 58:4,9
+set 36:1           Speaking 37:2       Stevens 9:18,22          53:19             61:16,17
+sets 35:24         specific 11:19        9:25 10:5,11         sued 21:18        theory 20:1
+setting 10:22        25:22 29:5          10:17,24 11:3          31:16 40:8        30:12 37:23
+share 36:4           31:25 43:15         11:10 16:16          sufficient 5:5      44:5 48:21
+Sherman 41:4         52:17               17:15,24 18:3        suggest 4:14 5:2    58:13,15,18,19
+shortchanged       specifically 8:22     18:6,12 30:20        suggested 30:23     59:7,10 61:11
+  36:7               12:2 28:1,17        30:22 31:4           suggesting 54:9   thing 30:22 36:2
+show 9:13 14:11      30:10 31:23         34:16 41:18,20         59:12             44:20 55:6
+side 15:20 17:8      47:1                41:24 45:14,18       suggests 26:9       56:11
+  19:4,5 26:16     split 5:11            45:22 46:6,11        suing 28:17       things 23:12
+  34:3 36:4,19     spread 59:20          46:18 53:24          suit 11:18,19       24:22 25:22
+  37:24 42:11      spun 59:8             54:5,8,18              12:1,13 21:16     42:8 59:25
+  44:21 50:10      stage 23:17           58:24 59:3,12          26:23 27:8,11     60:3
+sides 38:11        stand 14:12         stop 39:6 53:16          27:17,18 30:1   think 9:3,10
+sign 48:9          standard 8:8        Story 6:2                39:9,12 41:20     14:24,25 20:4
+significantly      standards 46:1      Story's 25:20            41:22 53:8,9      23:24 28:23
+  34:14            started 19:1        strange 22:5             54:13,16          29:14,17 31:13
+similar 19:10        38:11               33:4                 suits 5:2           34:13 37:15,24
+simple 13:11       starts 30:7         strikes 26:12          support 6:5         41:11 42:25,25
+  15:24 26:10      state 8:19 19:5,5   Strong 23:18           suppose 21:13       44:8,9,13
+  42:15              21:16 27:9          58:19                  42:11             46:24,25 47:2
+simply 4:17          30:1,13,13        strongly 4:10          Supreme 1:1,12      47:5,10 53:13
+  26:21 27:19        31:5 35:13,18     structure 4:8          sure 5:16 17:16     54:21 57:2,2
+siphoning 60:25      35:19,21 36:8     stuck 46:3               20:11 33:2,3      57:16,22,22,23
+sir 11:23            36:17,22 38:18    stuff 50:15              35:4 36:14        58:11 59:18
+sit 39:7             40:20 41:20,22    subject 3:16 4:4         40:16 48:18     thought 6:3 17:3
+situation 21:8       42:1,5,15,17        4:11 5:1 9:14          49:16 50:19       25:1 54:11
+  21:24 29:3         43:9 44:23          11:18 12:3,15        sync 54:24        three 58:5
+  41:12 51:1         45:3,6,10 46:5      21:12 23:5,10        system 25:19      throw 4:20
+  52:22              49:25 50:21         26:23 27:16,24                         throwing 11:14
+situations 22:19     52:20 53:9          29:1 31:22                   T         time 5:10 6:25
+  52:19              60:15,20            33:11 43:23          T 2:1,1             7:14,15 8:5,6,9
+softens 51:4       statement 7:21        52:16 53:5           tacit 36:6          11:4 12:17
+solution 51:21     States 1:1,12         57:6,24              take 5:5 9:6 19:1   24:16,25 25:18
+somewhat 15:6        7:14 26:18        subject-matter           28:24 39:7        25:25 44:11,12
+sorry 23:19          59:10               14:21                  44:22 47:10       55:14 60:2,7
+
+
+                                                71
+                                  Alderson Reporting Company
+                                Official - Subject to Final Review
+
+
+times 13:3 25:16    36:2 40:14        want 38:17               40:18 55:20       7:6,21 8:11
+Title 26:22         54:18              39:17 47:25           write 28:19         13:3,5,9,9 21:5
+Tobey 6:3 25:21    understood 7:2      55:17 59:24           written 26:11,11    36:13,14 57:7
+today 51:20         11:5 24:16,24     wanted 7:16              47:11           2:01 61:19
+tomorrow 53:18      50:18              9:14 24:6             wrong 18:6        20 29:6
+touch 7:4          unenforceable       34:11 37:8            wrote 6:2 23:20 2008 1:9
+tough 11:8,9        8:21              wants 43:8 52:6                          203 9:13
+transaction 13:7   unequivocally      Washington 1:8                 X         205 9:13,17
+treatment 45:7      9:16               1:17                  x 1:2,7           26 2:6
+trial 46:4         Uniform 25:5,14    wasn't 20:5,5                            27 56:5
+Tribe 34:7         United 1:1,12       21:24 27:13                   Y         28 26:22
+trouble 45:15       7:14 26:18         30:25 31:17           Yeah 31:2
+true 6:20 21:5     unlawful 58:21      46:13                 year 48:10                3
+  31:3 34:2        unlimited 55:22    way 7:13,25            years 23:17       3 2:4 23:7
+  58:24 60:5       unquestioned        18:23 20:19           York 25:11        32 13:23 14:17
+  61:1              51:16              24:1 28:12,13                           32-page 23:21
+                                                                     Z
+truth 42:12 46:4   unripe 35:3         28:13 30:18
+                                                             zealously 36:25           4
+try 60:24          use 18:23 33:19     47:24,24,24
+trying 23:3         56:13              51:2,14 53:1                            4 3:11,19 4:8
+                                                                     $           5:14 6:23 7:19
+  24:15,20 31:14   uses 13:2 33:23     53:13 57:13           $10,000 32:3
+  31:21 39:14      usurious 53:15     ways 42:9 60:8                             9:9,9 10:21
+  43:18            usury 35:18        well-pleaded                   0           11:17 12:13,16
+twice 13:3          38:18 43:5         3:12                                      13:3 15:11,15
+                                                             07-773 1:5
+two 3:10,24 23:4                      we'll 42:3 52:8                            16:1 17:1,12
+  23:4 41:24               V           52:11                         1           17:23 19:16
+  42:8 48:9        v 1:5 3:4 6:3      we're 5:22             1 21:4              22:6,21 23:7
+  52:14            Va 1:15            we've 39:19 40:7       1:00 1:13 3:2       24:1,8,12
+                   vacate 22:14,23     50:10 55:13           10 22:11,13 23:6    27:16,18 28:25
+       U           Vaden 1:3 3:4      wish 45:11               46:2 55:6,16      29:19 31:22
+umpires 13:14      valid 5:9 7:7      witnesses 22:12          55:18,22          32:20 34:8
+underlying 10:3    Vermont 48:11       22:22                 11 22:11,13 23:6
+ 36:10,12 37:15
+ 10:8,10,12,12
+    view 3:25 4:11     word 13:2,5,8            46:2 54:24        37:22 41:16
+ 12:22 13:17,20      9:6,8 15:15       13:11,16 14:4           55:6,16,19,22     43:17 44:17
+ 13:24 16:9,12       17:12 20:9        14:4 33:19            1331 3:20 15:7      45:7 46:22,23
+ 17:22 18:19,20      22:6,9,17,18     words 4:12,13            16:2 55:15        47:6 51:6
+ 19:19 21:9          32:10 46:9,17     4:23 5:2 9:12         1331's 3:12         55:10,19,24
+ 26:18 27:1,4        49:13 54:25       9:19 12:13,19         1332 15:7,14        56:5,6,9 57:22
+ 29:25 41:25         59:17 61:2        15:1                    16:2,4,21,25      57:23 61:11
+ 43:3 46:25        violated 29:6      works 21:14              17:8,13,14,25
+  4A  13:12
+ 50:16,23 52:20
+   violates 23:10     world 8:3 46:17          18:10,17 47:3
+ 56:15,16,17,25      39:5                                                              5
+                                      worries 44:2,3         1332's 15:17
+ 57:4,9 58:2       violation 40:5                                              5 13:4,11,13,15
+                                      worry 35:7             1831(d) 35:15
+undermine            41:3 43:4                                                 58 2:9
+                                      worrying 18:16         1970 9:17
+ 23:15             violence 24:9      worse 59:23                                      6
+understand 7:3                        wouldn't 8:16                  2
+                        W                                                      6 1:9
+ 9:21 19:7                             16:21 18:25           2 5:5,8,10,12,21
+ 20:11 31:19     wait 39:8             38:7 39:3               5:25 6:6,22 7:3         7
+
+
+                                               72
+                                 Alderson Reporting Company
+                   Official - Subject to Final Review
+
+
+7 22:10,13 23:6
+
+        9
+
+9 22:10,13 23:6
+  46:2 54:24
+  55:6,16,18,22
+
+
+
+
+                                  73
+                    Alderson Reporting Company
+

@@ -1,0 +1,1648 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+ARMARCION D. HENDERSON, :
+Petitioner : No. 11-9307
+v. :
+UNITED STATES :
+- - - - - - - - - - - - - - - - - x
+Washington, D.C.
+Wednesday, November 28, 2012
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 10:02 a.m.
+APPEARANCES:
+PATRICIA A. GILLEY, ESQ., Shreveport, Louisiana;
+appointed by this Court.
+JEFFREY B. WALL, ESQ., Assistant to the Solicitor
+General, Department of Justice, Washington, D.C.;
+on behalf of Respondent.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+PATRICIA A. GILLEY, ESQ.
+Appointed by this Court 3
+ORAL ARGUMENT OF
+JEFFREY B. WALL, ESQ.
+On behalf of the Respondent 27
+P R O C E E D I N G S
+(10:02 a.m.)
+CHIEF JUSTICE ROBERTS: We'll hear argument
+this morning in Case 11-9307, Henderson v. United
+States.
+Ms. Gilley.
+ORAL ARGUMENT OF PATRICIA A. GILLEY
+APPOINTED BY THIS COURT
+MS. GILLEY: Mr. Chief Justice, and may it
+please the Court:
+There are three primary points I would like
+to focus on this morning during my argument. First, the
+question presented by Mr. Henderson involves a very
+small subset of cases which are -- which come before the
+Court under Rule 55 -- 52(b) each year.
+These are the cases that were referred to as
+the special case in the Olano decision. They have
+errors which, at the time of trial, were unsettled or
+unclear; but, by the time they made it to the appellate
+court, they had become clear by a clarifying rule or a
+decision.
+Second --
+JUSTICE SCALIA: What -- what about the time
+they come up here? 52(b) applies to every court, does
+it not?
+MS. GILLEY: Yes, Your Honor.
+JUSTICE SCALIA: So suppose there's been --
+been no objection to a uncertain question of -- on an
+uncertain question of law until the case gets here.
+Can -- can counsel argue that this Court should
+nonetheless review the case because, if we agree with
+counsel, thereupon, the law would be clear? When we
+issued our decision, the law would be clear.
+MS. GILLEY: I believe that the Court would
+have the authority to do that because it says if it is
+on direct appeal or not yet final. So it would not yet
+be final unless the time had expired for the petitioner
+to get to the Supreme Court.
+JUSTICE SCALIA: I -- I wonder how we would
+go about deciding whether we would take such a case or
+not. We'd take all -- all those cases where counsel
+says, I didn't -- we didn't raise any of these
+objections, neither in the court of appeals nor in the
+district court; but, if you agree -- if you agree with
+me, Your Honors, that the law is thus and so, once you
+say that, that will make the decisions below clear
+error, and, therefore, you should be able to reverse it.
+Makes sense, right?
+MS. GILLEY: Well, I believe the Supreme
+Court has, under its own special rules, the -- the
+ability to take an argument in -- a petition that has
+not been raised before, but on its own could accept it
+if it is clear at the time --
+JUSTICE GINSBURG: But then what your --
+your first answer was that this is a very small set of
+cases that you're dealing with. If your answer to
+Justice Scalia is yes, this Court could take a case
+that's unsettled and, by settling it, make the error
+plain. That would open the door to a huge number of
+cases, wouldn't it?
+MS. GILLEY: I don't believe so, Your Honor.
+I believe that the provisions to get to the Supreme
+Court -- frankly, I don't know the answer as to if you
+had skipped the -- the appellate court, and -- and we're
+still in that window of time, that transition period
+after the appellate court had ruled, and only then the
+clarifying error came, I think you could still come to
+the Supreme Court.
+But the very narrow -- the very narrow --
+JUSTICE KENNEDY: Well, it would be narrow
+in the sense that substantial rights would have to be
+affected and the other conditions of Olano met.
+But I think, consequent on Justice Scalia's
+question is, that itself would be another issue in every
+case. Is this one of those cases: Number one, it was
+wrong; number two, it's new; number three, is it clear
+under all the Olano criteria. And that would have to be
+decided in every case.
+MS. GILLEY: Well, Your Honor, I think --
+JUSTICE KENNEDY: So at the end of the day,
+it could be a small subset of cases, but the number that
+would be presented, both to this Court and the court of
+appeals, would be quite substantial.
+MS. GILLEY: Well, I think there would be
+very few that would come directly to the Supreme Court.
+The vast majority of the cases obviously would come
+through the circuits.
+And what I was referring to as a very small
+subset would be those cases where there is actually an
+unsettled error -- an unsettled claimed error at the
+trial.
+There are very few cases that would come out
+of the Supreme Court during the period of time of appeal
+that would allow for the petitioner to -- to say, well,
+now it's clear.
+CHIEF JUSTICE ROBERTS: Well, this is a -- I
+mean, the time from the district court decision in this
+case to today is how long?
+MS. GILLEY: It's -- well, this case started
+in 2009. My client pled guilty in June of 2010.
+CHIEF JUSTICE ROBERTS: So it's 2 years --
+in any case in which -- in a typical case in which this
+happens, you've got 2 years of cases, right?
+MS. GILLEY: I think that my -- this case,
+Mr. Henderson's case, is unusually long. In fact, it
+was a year between the time he was sentenced in June of
+2010 until 2000 -- June of 2011, when Tapia was decided.
+So he was actually waiting between the
+period of the trial stage to -- into the Fifth Circuit
+for over a year before Tapia was even decided, and then
+several months after that before the Fifth Circuit ruled
+on the issue.
+So this is an unusually long period of time.
+I don't think that that's common. I think the vast
+majority of the cases do not come within that
+transitional period. As -- as the Fifth Circuit noticed
+after Mr. Henderson's case in Escalante-Reyes, they sua
+sponte had their own -- they called for an en banc in
+Escalante-Reyes and changed the position that they had
+in Mr. Henderson's case.
+JUSTICE ALITO: May I ask you what you think
+is the purpose of the Plain-Error Rule?
+Suppose that it was proposed to amend
+Rule 52(b) to take out the word "plain," so that the
+rule would read simply, "an error that affects
+substantial rights may be considered even though it was
+not brought to the Court's attention."
+So what does -- in your judgment, what does
+the word "plain" add? What -- what purposes does it
+serve?
+MS. GILLEY: Your Honor, it serves a very
+important purpose. And I must say that my understanding
+of that has evolved considerably since I started
+researching this issue.
+I think it's very important. And it
+certainly is helpful to -- to the practitioner because
+when you come to the appellate court, and you say, now,
+I have a -- a decision, it is now plain, or I have a
+rule -- a statute, that now makes this plain, it -- it
+is a very important prong in the Olano --
+JUSTICE ALITO: But what purpose does it
+serve? Why should the rule not be that if -- if some --
+if there was an error, and it was a really -- it was an
+error that really badly hurt the defendant, then it can
+be considered, even though it wasn't raised at whatever
+time it has to have been -- it wasn't raised, there
+wasn't an objection? What purpose does that serve?
+MS. GILLEY: The purpose of -- of 52(b)
+is -- is a safety belt for the very extreme measures of
+Rule 51, which says if you -- if you fail to raise
+contemporaneously --
+JUSTICE ALITO: Well, but I'm not asking
+why we have -- why we permit plain errors to be raised.
+I'm asking why do we require that the error be plain in
+order for it to be considered?
+Let me suggest two purposes it serves. It
+follows from the adversary system, and it serves
+judicial efficiency.
+Would you agree with that; those are the
+purposes of it?
+MS. GILLEY: I absolutely would. Yes. Yes,
+Your Honor.
+JUSTICE ALITO: All right. Does it serve
+those purposes better as applied at the time of trial or
+at the time of appeal?
+MS. GILLEY: The finding, the assessment of
+plain error; is that the question you're --
+JUSTICE ALITO: Yes.
+MS. GILLEY: I think that it very much helps
+to assess and evaluate the plainness of the error at the
+time of appeal. That -- that is where it can really be
+helpful. And that, in fact, is what the Court did in
+both Olano and --
+JUSTICE ALITO: Does it serve -- does it
+serve judicial efficiency better to say that we apply
+the Plain-Error Rule at the time of trial or at the time
+of appeal?
+MS. GILLEY: I think that it serves judicial
+efficiency very much better, as amicus very well stated
+in his brief, the example of the Ninth Circuit, where,
+if you don't have plain error, and then the appellate
+court must go back to the trial level, the trial stage,
+and determine was this, was this clear at the time of
+trial? Was it clearly against the defendant? Was it
+clearly --
+JUSTICE ALITO: Well, if you apply it at the
+time of trial, it may -- eliminate the need for an
+appellate court, under some circumstances, to get to the
+ultimate question of whether there was error; or, it
+could say, there might have been error, but it wasn't --
+it's not plain to us, I suppose. So you have that
+efficiency.
+But if you apply it at the time of trial,
+you avoid retrials. So which is -- which of those two
+is more consistent with the purpose of serving judicial
+efficiency?
+MS. GILLEY: Well, I'm not sure that that
+would be a correct assessment. I think that the
+judicial efficiency would be more at the time of appeal
+because, as many of the circuits have noticed, that's
+what they are going -- they agree. I think it's -- you
+know, 8 to -- 8 to 2 that they find --
+JUSTICE SCALIA: But when, as is the
+situation in this case, the law is uncertain at the time
+of trial, and there are some circuits that have gone one
+way, some circuits that have gone the other way, surely
+it greatly serves efficiency to bring that situation to
+the attention of the judge.
+He has a 50 percent chance of getting it
+right. And if he gets it right, then the case is done.
+Instead, your -- your client did not raise any
+objection, and the judge just went ahead.
+Now, if -- if the error was plain, you can
+say, well, he didn't need an objection, any -- any dumb
+judge would have -- would have known this. Okay? So
+you make that kind of an exception. But I don't see the
+reason for making that exception, where you could have
+brought this to the judge's attention, and he could have
+solved the problem; or, if he didn't solve it, maybe the
+prosecutor could have, by making some alteration in what
+he was demanding as a -- as a punishment or whatever.
+That -- that seems to me such a -- such a
+clear efficiency in the system. I don't know what the
+efficiency is when you do it at the court of appeals
+level. All you tell me is that, well, it saves you the
+trouble of going back and figuring out what -- what the
+situation was at the trial -- at the time of trial,
+right? But you've got to go back to the time of trial
+anyway to decide whether -- whether substantial rights
+have been affected, don't you?
+MS. GILLEY: Well, I think, Your Honor,
+multiple parts to that question.
+First of all, I think there -- I think that
+the cases -- the solicitors, the responders --
+Respondents have conflated the idea of why we have
+52(b). It's not primarily for the efficiency of the
+judicial system. It's to -- it's to correct a very
+serious wrong, an injustice that was incurred by the
+defendant. That's the primary purpose of 52(b).
+And then, if you look at it the way the
+Court would -- the solicitors would have -- have the
+Court decide at time of trial, there would be no remedy
+for --
+JUSTICE SCALIA: But -- but there's -- this
+brings you back to Justice Alito's question. There's
+always an injustice when the district court has gotten
+it wrong. The district court got it wrong, applied the
+wrong rule. Justice has not been served.
+But we don't say, we want to do justice. We
+say, we're only going to do justice if it was clear.
+Now, why -- why would you -- why would you
+have that limitation on it? The only -- the only reason
+that limitation makes sense to me is -- is because when
+it is clear, it doesn't have to be raised below. The
+judge ought to know better, anyway, and so you're not
+sacrificing any efficiency.
+But if the whole purpose of it is just to do
+justice, I don't understand the reason for the clear
+limitation. Why should it only be when it's clear?
+MS. GILLEY: Well, we have the rules going
+back to the Atkinson case. And the question was what
+happens when we have the very serious Rule 51, if you
+don't have contemporaneous objection, you're out of
+luck?
+Fortunately, we have the safety belt of
+52(b).
+And then this Court, looking at the --
+what -- what was codified from Atkinson, has the
+four-prong test. First, we have an error. It must be
+clear. The -- the reason for having it clear, first of
+all, it -- it creates efficiency in the -- in the
+appellate level court. The practitioner can now come
+and say, my client has a clear error. Tapia has now
+been decided, and it is clear. It was only unclear and
+unsettled at the time we were in court.
+JUSTICE KENNEDY: I suppose one answer to
+Justice Scalia's question is that, well, if you require
+an objection, and you have to have a laundry list of
+everything that might change, but the answer to that,
+in turn, is, if -- if you use that rationale, then we're
+just asking the attorney to conceal from the judge
+every -- everything that's important.
+MS. GILLEY: Well --
+JUSTICE KENNEDY: It would seem to me the
+laundry list, even though that's perhaps an initial
+objection to Justice Scalia's concern, is, frankly,
+preferable to a system where we just don't -- don't talk
+about what might be clear error.
+MS. GILLEY: Well, I think we must talk
+about clear error. And -- and I think that in my -- my
+briefing, in my -- in my beginning to the closing brief,
+and certainly in the amicus brief, which is an excellent
+source on this point. When the Court looked at both --
+52(b) in both Olano and Johnson, they looked to the
+text, that this Court looked to the text of 52(b). And
+the clear error that they looked at was they decided
+those cases on the basis that the error was clear at the
+time of trial.
+CHIEF JUSTICE ROBERTS: Where in Johnson did
+they -- I'm looking at the para -- two paragraphs the
+Court spent on this in Johnson. Where did they look at
+the text?
+I mean, obviously, they quoted the text, but
+the analysis seems to me to be based solely on judicial
+efficiency.
+MS. GILLEY: I think -- and -- and I would
+like to refer to Judge Owens' concurring and dissenting
+opinion in Escalante-Reyes in the Fifth Circuit. She
+addressed this quite well in three pages of her -- of
+her opinion, where the Justice did, in a unanimous
+opinion, state in -- let's see, I think footnote 5 --
+CHIEF JUSTICE ROBERTS: No. I'm looking at
+where they talked about this particular question, the
+second prong, as they -- they put it.
+MS. GILLEY: Well, I believe that what
+Justice Rehnquist looked to was the text of --
+CHIEF JUSTICE ROBERTS: He was the Chief
+Justice, by the way.
+MS. GILLEY: I'm sorry. Chief Justice
+Rehnquist.
+CHIEF JUSTICE ROBERTS: It matters to one of
+us.
+(Laughter.)
+MS. GILLEY: Yes, Your Honor.
+JUSTICE SCALIA: That's okay.
+(Laughter.)
+MS. GILLEY: And -- and I noticed in my
+record that I, in fact, had promoted Justice Clark in my
+brief, which the errata shows, and so I'm -- I'm not
+perfect.
+But the -- Justice Rehnquist looked -- and
+he talked specifically about looking at -- at 52(b) and
+saying, "We're not going to expand on it. We're not
+going to cut it out of new cloth. We're not going to
+make new exceptions. We looked for it as -- as -- as it
+is."
+And I think that was just a couple of lines
+after acknowledging the fact that the petitioner said,
+well, it would have been a laundry list, and that's
+inconvenient, and it's futile, and it's a waste of time.
+But that, I think, was more of an argument that went
+along with what the Chief Justice wrote, that we're
+looking at the text, and it just doesn't make any sense.
+We've got Olano that says, at the very
+minimum, the error must be clear at the time of appeal.
+JUSTICE BREYER: I want to go back to
+Justice Alito's question for a moment because I
+thought -- and Justice Scalia. I thought, in your
+brief, you -- you said that their point's a good point.
+Their point is that the system works in a way that
+requires the lawyer to object at the trial. Alright.
+And that is an efficiency because the trial judge has to
+-- has to correct -- he has to -- has an opportunity to
+correct mistakes. He can't be sandbagged.
+But, you said, that's theoretically always
+true, but, in your case, as a practical matter, it's
+really never true because no lawyer is ever going to
+think, oh, I would object, but I'm not going to object
+because maybe the law will become clarified by the
+Supreme Court, and I'll be able to get a plain error
+thing on appeal. The lawyer who thought that is like
+the unicorn, he doesn't really exist.
+(Laughter.)
+Okay. And you then said, on the other hand,
+there's an efficiency on the other side. The efficiency
+on the other side is if you don't take your rule, when
+you get to the court of appeals, you're going to have to
+decide in real cases whether the law was so clear that
+the plain error doctrine still does apply at the trial
+level before. Either it was clear that the judge was
+wrong, or it was clear the judge was right, and there is
+no point to objecting.
+So now we have to decide, was he clearly
+wrong, was he clearly right, or was it a middle case.
+And when you get to real legal cases that have tough
+issues, you discover that that's a hard question to ask
+-- answer case by case, court by court. Now, didn't you
+say all that?
+MS. GILLEY: Yes.
+JUSTICE BREYER: Okay. Well, then why
+didn't I hear you say it again.
+JUSTICE ALITO: Then let me ask you this
+question. Counsel, then let me ask you this related
+question. Something happens at trial. There isn't an
+objection. It goes up on appeal. And the -- the
+appellate court, there is an argument about whether it's
+a plain error or not.
+And the appellate court says, first of all,
+we think it was an error, but it's a -- it was a close
+question. We had trouble with this. So it wasn't
+plain, and, therefore, this defendant is out of luck.
+What's the justification for that?
+MS. GILLEY: I think that the four prongs of
+Olano are the justification. That's where I would have
+been --
+JUSTICE ALITO: No, I mean in real world
+terms. What -- what purpose is served by that?
+If the court has concluded that there was an
+error, and it affected substantial rights, but it wasn't
+plain, what -- what justification is there for saying,
+that's too bad? You know, you really got hurt, but it
+wasn't clear until -- you know, it wasn't plain until we
+decided this case, so go back to prison.
+What's the purpose for that?
+MS. GILLEY: Well, there -- there is no
+purpose for that. And -- and the --
+JUSTICE ALITO: Then why should it have to
+be plain at the time of appeal?
+MS. GILLEY: But the appellate court has the
+responsibility of applying the law as it is current.
+That's what the appellate court is directed to do.
+That's what Atkinson -- that's what -- even what
+Atkinson said. You apply the law at -- as it is
+current.
+And so what you're doing by interpreting
+time of trial as a point of determining the clarity
+of -- of the error, you are completely eliminating the
+ability for the appellate court to even rule on that
+question because there will never, ever be a plain error
+if you apply the time of trial as the point of
+determining whether it was clear or not.
+People like Armarcion Henderson would never
+have an opportunity to -- to have plain error because it
+would never be clear. We have to have --
+JUSTICE ALITO: You could promote efficiency
+at the appellate stage by having a rule like the rule
+that we have in qualified immunity cases, which gives a
+court the discretion to decide whether something was
+clear or go to the -- to the merits of the -- of the
+argument. You could -- that's -- you can serve
+efficiency by having that.
+But the Plain-Error Rule doesn't do that.
+In the situation I gave you, the court would say there
+was an error, it really affected your substantial
+rights, but we can't say it was plain to us until we
+decided this case, and, therefore, you get no relief.
+And -- and maybe there's a reason for that. I'm waiting
+for you to tell me what the reason for it is.
+MS. GILLEY: Well, the -- the reason would
+be similar to what Mr. Henderson faced in the
+three-judge panel. The -- the judge -- the panel said
+that the error was -- was clear, as far as they -- they
+know it happened. Tapia said it happened, and -- and
+there was no question about that; but, the fact that it
+was not clear at the time of trial defeated
+Mr. Henderson's ability to get relief.
+So even though the -- the Congress said, you
+shouldn't put these people in jail for the purpose of
+rehabilitation, it was clear -- everybody agreed it was
+wrong, but my client, instead of having the recommended
+33 to 41 months, received a 60-month sentence. That's
+unjust.
+JUSTICE GINSBURG: Was there a reason -- I
+think you represented your client at the trial.
+MS. GILLEY: Yes, Your Honor.
+JUSTICE GINSBURG: Is there a reason why you
+didn't bring this up when the judge imposed that
+sentence?
+I mean, there was -- one thing is Tapia;
+but, before that, there was a statute that says, judge,
+don't lengthen sentences for purposes of rehabilitation.
+And you didn't call that statute to the attention of
+the -- of the judge, did you?
+MS. GILLEY: I did not, Your Honor. And
+that was a -- I knew that there was -- certainly, I was
+concerned, and I was -- that the -- the sentence was so
+much beyond what the sentencing guidelines had -- had
+recommended.
+There was -- the situation was I knew that
+at that point the guidelines were advisory. I couldn't
+figure -- at that point --
+JUSTICE GINSBURG: Were you -- were you
+aware of the statute at the time?
+MS. GILLEY: I was not. In fact, I was not
+aware of that statute. And when I -- I did file a Rule
+35(a) motion eight days later. After I went and did my
+research, I realized there was only one case that I
+could find, In re Sealed out of the District of Columbia
+circuit, which had addressed that particular statute.
+And so I did file a Rule 35(a) motion
+timely, eight days after, and asked the trial court,
+based on 35(82)(a) to please correct that error in the
+sentencing.
+JUSTICE KENNEDY: And let me ask you, I
+don't wish to sidetrack the discussion on the
+metaphysics of the Plain-Error Rule, because it's
+important and it's the -- part of the case, but in this
+case, there wasn't going to be a new trial. There
+wasn't going to be a new jury. It's just the sentence.
+Has any argument been made that we should
+have a different rule for sentences than for errors that
+would require a new -- a complete new trial?
+MS. GILLEY: Your Honor, certainly
+Petitioner has not made that; but, there are so many law
+review articles out there right now on ways of changing
+plain-error review, it might --
+JUSTICE SOTOMAYOR: Some circuits have even
+said that. Some circuits have even said that.
+MS. GILLEY: Yes. That is --
+JUSTICE SOTOMAYOR: The Second Circuit says
+that if it's a sentencing error, that the amount of
+substantial rights and the integrity of fairness of the
+preceding question is a different balance.
+MS. GILLEY: That is correct.
+JUSTICE BREYER: So you can -- if you lose,
+you can't get through the door. If you win, you then
+have to go on to the next part of it, which says, did
+the error affect the fairness, integrity or public
+reputation of judicial proceedings.
+So if all that's at stake is a resentencing,
+not much harm is done, and you're more likely to satisfy
+the fourth.
+MS. GILLEY: And the third.
+JUSTICE BREYER: If what's at stake is a
+whole new trial and everything, it's probably a little
+bit harder to satisfy that prong.
+So it's possible to build what Justice
+Kennedy was referring to into the present rule, isn't
+it?
+MS. GILLEY: It could -- it could be
+possible, and it could be --
+JUSTICE SCALIA: Why -- why is that so? Why
+is that so? Why does -- does the effect upon the
+fairness of the proceedings change when it's sentencing
+or when it's the merits? I don't understand that.
+MS. GILLEY: Well, I think that whenever --
+and I --
+JUSTICE SCALIA: You're -- you're here
+complaining about sentencing. That's a substantial
+issue, isn't it?
+MS. GILLEY: It is very substantial. And
+there's a recent case out of the Eleventh Circuit that I
+was going to call to the Court's attention, Judge
+Gorsuch. And his -- his comment was, "This is such a
+serious, serious situation when we sentence a man or a
+woman to a time in prison when Congress says he should
+not be there. That is one of the ultimate injustices
+that we should look at."
+And -- and I think that's looking at it from
+the -- having a separate -- separate review system for
+sentencing certainly might be helpful. It could
+certainly be more speedy, although, frankly, in my case
+it would not have helped Mr. Henderson because it took
+Tapia a year after my client was sentenced before Tapia
+was decided.
+Of course, I think the argument could have
+been made and I certainly would have made it at the
+Fifth Circuit if Tapia had not been decided by the time
+we made it to the Fifth Circuit, I would have argued
+that it was clear error regardless. The statute was
+very clear in that it was -- it was certainly -- when
+the Court eventually did look at Tapia, they used the
+straightforward -- you used the straightforward language
+of it.
+But I think that, that the main, the main
+point -- another point that I did want to make is that
+by deciding that plainness should be determined at the
+time of appeal, this Court would be consistent with its
+holdings in Olano and in Johnson, because in Olano, the
+Court said it would be, in this case, it is adequate
+that the error is plain at the time of appeal.
+In Johnson, the Court said there was, in
+fact, no error at the time of trial, but it is clear at
+the time of appeal. And so in both of those cases, the
+text of 52(b), which is on page 1 in my brief, the text
+of the brief is what the Court relied on and the Court,
+the Court said that based on that test, it's adequate
+that the Court find the appeal -- find the error plain
+at the time of appeal.
+JUSTICE GINSBURG: How many months are left
+for the defendant's sentence?
+MS. GILLEY: He is scheduled to be released
+in May of 2013. He never did get the, the in-depth
+treatment program.
+JUSTICE GINSBURG: He didn't?
+MS. GILLEY: He did not, and it's unlikely
+he would have ever gotten it because of the fact that he
+had a gun charge. He pled guilty to a felon in
+possession of a firearm, which puts the -- the
+individual at a very low eligibility for getting into
+the program.
+The RDAP program is very highly coveted
+because if completed successfully, it reduces the time
+that you are going to be incarcerated.
+JUSTICE GINSBURG: But the judge was not
+aware of those impediments?
+MS. GILLEY: The judge was very well aware,
+and that was part of the problem that we had. I was
+arguing at the time of sentencing for mitigating
+circumstances that, that my client really hadn't done
+anything and he had possessed this gun for about 10
+minutes. The facts are not important to this Court, but
+he had done nothing seriously wrong with this.
+He did, in fact, commit the crime and he was
+ready to take the punishment. The sentencing guideline
+range was 33 to 41. I did not object, the government
+did not object, and so I assumed it would be in that
+range.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Mr. Wall.
+ORAL ARGUMENT OF JEFFREY B. WALL
+ON BEHALF OF THE RESPONDENT
+MR. WALL: Mr. Chief Justice, may it please
+the Court:
+The contemporaneous --
+JUSTICE SOTOMAYOR: Was Justice Breyer
+essentially correct that in most of the cases where an
+error is not plain at the time of trial that the third
+and fourth prong of Olano almost always take care of the
+issue? I mean, I've been looking for a case in this
+Court in which more substantial errors than the one that
+occurred here -- we are going to put aside the fact that
+I don't see how this Defendant on the third or fourth
+could ever win, given that he was begging for drug
+treatment during his sentencing, so how a resentence
+would affect the fairness or integrity of this
+proceeding is beyond my understanding.
+But isn't Justice Breyer right?
+MR. WALL: No. Not in the government's
+view. I think it's a question for another day how much
+work the fourth prong is doing in the lower courts, but
+I would say in all of these cases, the defendant is
+claiming that his sentence was lengthened. I think in
+all of them he will be able to meet the third prong and
+show that his substantial rights were affected. It
+becomes a fourth prong question then.
+And in the Escalante-Reyes case, one of the
+dissenting opinions attached an appendix in which the
+Fifth Circuit, in 181 cases, had found that fourth prong
+met and had found plain error satisfied. But I would
+think it --
+JUSTICE SOTOMAYOR: Well, I would say to you
+that that's more in keeping with the attitude that
+Justice Kennedy asked about, which is I think most
+circuit courts believe the fourth prong is more easily
+met in sentencing than in trial cases. Whether they are
+right about that, that's not an issue we are facing
+today.
+MR. WALL: The Second Circuit has adopted
+that rule. I don't know that other courts have but it's
+really -- the prongs of the plain-error review test are
+meant to serve different purposes. The third and fourth
+prongs are looking at harms to the defendant and to the
+judicial -- the integrity of the judicial proceedings.
+The second prong is really designed to do something
+different. It's designed to enforce the contemporaneous
+objection requirement by isolating errors --
+JUSTICE SOTOMAYOR: But why? The very
+essence of 52(b) is when you don't make an objection. I
+mean, it's treating two -- it's addressing two different
+situations; A says when you've made an objection, you
+just have to prove prejudice; and B says you have to
+prove that substantial rights are affected.
+MR. WALL: Oh, no question. The purpose of
+that prong is to isolate out one set of errors, obvious
+errors, from all of the other trial errors that happen
+every day that are not correctable under Rule 52,
+debatable errors that even reasonably experienced
+district court judges and prosecutors might have
+overlooked in the hustle and bustle of a trial.
+That second prong is designed to say, "We
+want," as the Court said in Frady, "obvious egregious
+errors that the trial court and the prosecutor were
+derelict in countenancing." Because there we are not as
+worried about incentivizing the defendant to make a
+contemporaneous objection, because every party in the
+courtroom should have known and applied the law.
+JUSTICE GINSBURG: Mr. Wall, why doesn't
+that describe this case? In here is a statute, never
+mind Tapia, the statute says to the judge, don't
+lengthen the defendant's sentences for purposes of some
+cure. And if the judge was not aware of that statute,
+he surely should have been, the prosecutor shouldn't --
+wasn't it incumbent on the prosecutor to tell the judge,
+Judge, sorry, you can't do that?
+MR. WALL: Justice Ginsburg, I think it cuts
+actually exactly the opposite way. There was a
+long-standing circuit split that the Court resolved in
+Tapia. Courts have reached different conclusions on
+this. And if the Defendant here had said, look,
+district court, you shouldn't lengthen my sentence based
+on rehabilitative purposes.
+Some courts have found that is impermissible
+and you should follow those courts, not the courts that
+have permitted it, I think a fair reading of the
+sentencing transcript is that the district court was
+genuinely on the fence here about what to do with this
+particular defendant and whether to lengthen his
+sentence.
+JUSTICE GINSBURG: But he was not aware of
+the statute. No one called it to his attention.
+MR. WALL: No. It is then exactly the kind
+of debatable, open, unsettled legal question that our
+adversarial system counts on parties to raise every day.
+And what we do in Rule 52 is we have a narrow safety
+valve for obvious errors that everyone in the courtroom
+should have caught. But I don't think that we can say
+that --
+JUSTICE BREYER: Well, what about the -- I
+mean, that's the question. The word "plain" of course
+refers by and large to an error that the lower court
+judge should have caught, so you should have objected.
+But why limit it exclusively to that; that is, you
+have -- you know, they quote the Schooner, Peggy and
+Chief Justice Marshall and back to the history of
+Hammurabi, as far as we know, that sometimes there is a
+case where just simple fairness, plus the fact that the
+law is now plain, means that the appellate court should
+treat this person the same as a thousand others who now
+will be treated according to the new law.
+And indeed, you're complicating it even
+further for the reason that I really meant my question
+to be aimed at you -- you know. I mean, in fact, the
+reason that I said that you're going to create
+distinctions, there will be a case, the fellow is going
+to go to jail for 50 extra years, the law is plain that
+he shouldn't, that didn't come about until the appeal.
+And here we have six identical people in the
+circuit where the law was clear one way and they get the
+new rule's advantage, and six identical people in
+another circuit where the law was clear the other way
+and they get the advantage. But in the one circuit
+where the law wasn't clear, he doesn't get the advantage
+of the new rule.
+Now, that seems pretty unfair, and I could
+at least make up some cases where it's just a horror.
+And if that's so, why don't we leave plain with enough
+wiggle room so that where it's fair, the judge on the
+Court of Appeals can say, it is now plain and the other
+things are satisfied so we apply it to the defendant.
+That's the whole long question that I've got every part
+of it in there.
+MR. WALL: And I'll see if I can get them
+all in. So all I can say to you, Justice Breyer, is the
+same thing the Court has said in Puckett, Dominguez,
+Benitez, Young, the Rule 52 has an interest in error
+correction, egregious error correction, no question.
+But it is balanced against a very important systemic
+interest in judicial efficiency. And far from being a
+horror, that's a necessary corollary of our system --
+JUSTICE KAGAN: But, Mr. Wall, your whole
+argument about judicial efficiency is an incentives
+argument, and it depends upon the notion that a lawyer
+is going to change their behavior, a lawyer is going to
+make an objection that he otherwise wouldn't have made
+if the rule that Ms. Gilley proposes is accepted. And
+this goes back to what Justice Breyer said earlier.
+I don't know of a lawyer who would say the
+following to himself: I'm not going to make this
+objection because I'm just going to assume that sometime
+between now and my direct appeal the law is going to
+change, and it's going to change in my favor, and when
+it changes, I'm going to be able to make this objection
+and get over not only prong two but prong three and four
+of the test, and life will be grand for my client.
+Now, who is going to say that?
+MR. WALL: Justice Kagan, it's not just
+about incentives. Even if I granted that the incentives
+of defendants would be entirely unchanged no matter what
+rule this Court adopted, and I don't grant that for all
+the reasons in our brief.
+But even if I thought that were right, every
+time a Court of Appeals or this Court issued an
+intervening decision of criminal law or criminal
+procedure, a set of defendants who had not raised a
+claim of that error at trial would come in to the Court
+of Appeals or this Court with a claim of plain error.
+And what we would see is a significant shift
+of judicial resources to plain-error cases, to do
+fact-intensive third and fourth prong review to consider
+a set of errors that were never meant to be put on the
+table under Rule 52(b). That's not what this safety
+valve was designed to do.
+JUSTICE SCALIA: I can -- I can also not
+imagine a lawyer who intentionally makes that decision.
+That -- that lawyer is a unicorn, I suppose.
+But I think there are a lot of lawyers who
+will not be as careful about finding all of the issues
+that they should bring to the court's attention, perhaps
+be unaware of a statute that they should have been aware
+of.
+If -- if we -- if we adopt the rule that's
+being urged by the Petitioner here, it does affect
+attorney behavior for the attorney to know that stuff
+that he -- he ought to know but doesn't know will --
+will not be able to be patched up on appeal.
+MR. WALL: The government agrees with that,
+Justice Scalia.
+JUSTICE KAGAN: Well, should the government
+agree with that really? Should some -- can you
+imagine -- isn't it just as much of a unicorn for an
+attorney to say, I'm not going to take great care
+because I think that the law is going to change between
+now and the appeal, and because I think I'm going to win
+on prongs two and three -- three and four.
+I mean, nobody can think that those
+circumstances would arise. They're flukes when they
+arise. And so it -- it doesn't affect either the
+attorney's intentional conduct or his level of
+preparation and care.
+MR. WALL: Justice Kagan, I'm not here
+saying that I think lawyers are sitting in -- in trial
+courts intentionally going through the kind of thought
+processes that you describe. But I think the effect
+that Justice Scalia is talking about is real.
+I think, at the margins, which is what we're
+talking about when we're talking about these incentives,
+I do think that in cases like this one -- I mean, this
+is the heartland, where the district court says, I'm
+going to give you an above-guideline sentence in order
+for you to take a drug treatment class.
+Now, defendants all around the country at
+the time of Petitioner's trial were raising Tapia
+claims. This was not some novel legal claim unknown.
+JUSTICE GINSBURG: Why -- why was it a Tapia
+claim? Why wasn't it simply, trial -- trial judge, the
+statute says imprisonment is not an appropriate means of
+promoting correction and rehabilitation? Why weren't
+those -- why wasn't it really incumbent on the
+prosecutor to tell the judge, just read those words?
+MR. WALL: So, Justice Ginsburg, I didn't
+mean by Tapia claim, depending on -- because this Court
+hadn't issued Tapia. I mean a claim like the one in
+Tapia, where defendants were saying, Section 3582, the
+statute to which you're pointing, does not permit you,
+district court judge, to do this.
+Lots of defendants were making those claims.
+They were percolating up through the circuits. Even
+defendants in the Fifth Circuit were making that claim.
+JUSTICE SOTOMAYOR: Mr. Wall, why is this
+whole test, as you're proposing it, dependent on the
+smartness or not smartness of a particular circuit and
+the speed with which a particular circuit reaches an
+issue or doesn't?
+I mean, this -- basically, what you're
+saying is we reward the circuits and the judges who
+don't reach issues, because if the law is unsettled,
+then if a substantial right is affected, that's so
+serious that it affects the fairness and integrity of a
+proceeding, that is not going to result in a reversal.
+It seems to me that if I'm a district court
+judge or a circuit court judge or anyone else or a
+circuit court, I would try to avoid as many issues as I
+could because there's going to be as little set of
+reversals as possible.
+MR. WALL: Justice Sotomayor --
+JUSTICE SOTOMAYOR: And going back to what
+Justice Ginsburg said, we take cases where the split is
+8 to 1, okay, or 8 to 0, because a particular circuit
+hasn't gotten to -- to an issue.
+Does this mean, as Justice Breyer said, that
+the eight circuits who got it right, the defendants have
+a Johnson plain-error rule, and the one circuit who just
+didn't get to it doesn't?
+MR. WALL: It's -- it's not about rewarding
+or faulting district courts. It's the way our system
+works. Where a court of appeals or this Court issues a
+decision that governs a district court, that's the law.
+And the Court said in Frady, we count on the trial court
+and the prosecutor to bring those kinds of egregious
+errors to the Court's attention.
+But where it's an open question --
+JUSTICE SOTOMAYOR: But why isn't the focus
+of the system on the nature of the error?
+MR. WALL: I think the focus of the system
+is on the contemporaneous objection requirement in Rule
+51, which is what Rule 52 is designed to enforce.
+JUSTICE SOTOMAYOR: But 52(b) is about not
+making the objection. That's -- that's sort of going
+around in a circle.
+MR. WALL: Well, only in the sense that what
+Rule 52(b) does is it says okay, you didn't object. We
+will let you get a narrow form of relief, but only in
+the cases where your objection should have been
+unnecessary because there was governing law which
+everyone in the courtroom should have been able to point
+to, or where it would have been futile --
+JUSTICE BREYER: Whoa, whoa.
+MR. WALL: -- because there's a governing
+precedent the other way.
+JUSTICE BREYER: Here, that's -- it's the
+second part.
+I mean, I think you'd have a stronger
+argument were it not for Johnson. But Johnson is
+saying, look, if you're in a circuit where the law turns
+out to be absolutely clearly wrong, then you don't have
+to make an objection. And then what we do is we
+consider whether the matter was clear at the time of
+appeal.
+Now, once I see that, it's like both
+bookends. You don't have to make the objection, and the
+only time you do is when the law is unclear; and, that
+being so, we're going to have everybody doing research
+about how clear the law is one way or the other, which
+is going to be tough.
+But, more importantly, it seems to me what's
+happening is that 52 is being also used in part to
+isolate those Peggy Schooner type cases where it is just
+basically unfair not to apply new law. And in the words
+of Justice Marshall, he says that should apply, and
+sometimes it's unfair not to apply it on the appeal.
+And -- and so I don't see how you explain Johnson on
+your theory.
+MR. WALL: I think Johnson -- as the Chief
+Justice pointed out earlier, the analysis in Johnson,
+is fairly brief. The Court did not discuss the text,
+history of the rule or this Court's previous cases.
+JUSTICE SCALIA: Well, more than that,
+Johnson stood on its head, did it not, not to decide the
+case the easy way, which was simply to say if it's clear
+on appeal, the rule applies.
+It could have said that. The case would
+have been very easy. It -- it instead avoided that by
+saying, oh, well, this is a very special case.
+Well, it wouldn't be a special case if -- if
+the argument presented by the Petitioner here were
+accepted. I don't -- far from -- far from appearing
+that Johnson supports Petitioner's case, I think Johnson
+tends to undermine it.
+MR. WALL: Well, in danger of running afoul
+of Justice Kagan, I'm going to agree again. That's
+exactly the government's argument. If Johnson had
+resolved the broader question, it could not have set
+aside the -- the question here.
+JUSTICE KAGAN: Well, the government had a
+different argument before.
+In Johnson, the government called this
+distinction an amorphous one. And it says, "Nothing in
+the text of Rule 52(b) contemplates or permits any such
+distinction. An error is either plain, or it is not.
+It is more faithful to the text of Rule 52(b) and simpler
+for the courts of appeals to obviate that distinction
+altogether," said the government.
+MR. WALL: And this Court disagreed, but
+studiously avoided placing its decision on the text --
+JUSTICE KAGAN: This Court did not disagree.
+This Court took a half step. And the question before us
+is still the question that was before you when you wrote
+this passage, you being the government, which is should
+we distinguish between the Johnson case and this one.
+And you very clearly stated, both as to a matter of text
+and to a matter of what's simpler for the courts of
+appeals, that there should be no such distinction.
+MR. WALL: Justice Kagan, there is no
+question that in the briefs and in argument, the
+government in Johnson asked this Court not to draw a
+futility exception to Rule 52 for cases in which an
+objection would have been pointless at trial in light of
+governing precedent, and the Court disagreed with us on
+that.
+And the question here is, is the Johnson
+tail going to wag the plain-error dog? Johnson rested
+on a policy consideration. They're just flatly
+inapplicable here. This is the heartland of cases in
+which a contemporaneous objection could have been quite
+helpful. This is not, as the Court said in Johnson, a
+case in which the defendant was being asked to make an
+objection that the District Court was powerless to
+grant.
+The District Court here, I think, was
+genuinely on the fence about what to do, and an
+objection could have been quite helpful. So to take --
+I mean, either the holding in Johnson, which was limited
+and could not have been if the Court had decided on a
+broader ground, or the rationale. Even taking just the
+rationale, that doesn't apply here.
+I think the only way you could read Johnson
+that would help Petitioner is to say it resolved the
+broader question of what the text of the rule requires
+regardless of context. And that's the one reading of
+Johnson that's just not persuasive on the face of the
+opinion.
+JUSTICE BREYER: Yes, but the -- the ­ well,
+this -- I mean, the trouble is you've run into, like,
+four different interpretations of what Johnson really
+means. And mine, which is, perhaps, no better or worse
+than the competing ones, is -- is you go back to the
+Schooner Peggy, and you see the Chief Justice, and he says,
+in a case the law has changed, the Court must decide,
+according to existing law, the appellate court; and, if it
+be necessary to set aside a judgment rightful when rendered,
+but which cannot be affirmed, but in violation of the law,
+that judgment must be set aside.
+So there, we seem to be -- and Johnson
+seemed to me to bear this out; but, sometimes, you do
+forgive the need to object because the overriding
+principle is the principle of deciding the law as it is
+at the time of appeal, and to do the contrary is just
+too unfair.
+Now, that -- reading Johnson that way, I'd
+say, well, that rule applies here too.
+MR. WALL: Justice Breyer --
+JUSTICE BREYER: Sometimes.
+MR. WALL: -- there is no question that that
+concern animated this Court's decision -- retroactivity
+decision in Griffith, and there is no question that that
+is one of the concerns underneath the rule. But if it
+were the only concern --
+JUSTICE BREYER: No, it's not.
+MR. WALL: The rule wouldn't say plain. As
+Justice Alito pointed out --
+JUSTICE SCALIA: Absolutely. I mean,
+that -- that argument applies to whether the error was
+plain or not. Apply the law as it is.
+JUSTICE BREYER: Yes. Yes. And that's why
+you make a balance. And the balance goes -- brings back
+the first question that I put. Because, in this kind of
+a case where the law is unsettled, we have what we'll
+call the uniform or the hippogriff problem, and that's
+the problem of it doesn't really make that much
+difference to the basic policy of objecting.
+And on the other side, you have the
+administrative potential mess of having to figure out
+how clear was the law in the court -- the district
+court. Is it a circuit where you'd say the law was
+absolutely -- is pretty clear that they were right? Or
+was it a circuit where it's pretty clear that the law
+was the opposite, in which case we waive the need? Or
+is it actually mixed up and you don't know, in that
+circuit, in which case you're arguing, don't waive the
+need. So I see the unicorn on one side versus an
+administrative problem on the other.
+MR. WALL: So I -- I want to suggest that
+the administerability problem is very small because it
+has not been difficult for the lower courts to apply
+this test.
+And I want to suggest that there is a really
+significant cost on the other side, which is you're
+putting on the table an entire set of errors that Rule
+52 was not designed to remedy, and you are diverting the
+resources of the judicial system toward those
+plain-error cases, and you will see a set of such claims
+every time a court of appeals or this Court issues a
+decision of criminal law or criminal procedure. In just
+this circuit alone, it has issued five opinions in the
+last year considering just Tapia plain-error claims.
+And that's just Tapia. And that's just one circuit.
+And I think the question is, what's the
+obvious prong designed to do? What's it there for? And
+it's got to be there to catch something. And what it is
+there to screen out are errors that were debatable, that
+even reasonable district court judges and prosecutors
+might have missed and catch errors that everyone in the
+courtroom should have recognized because they were
+egregious under the law as it stood at the time.
+CHIEF JUSTICE ROBERTS: Counsel, I -- it
+strikes me that we are having a very unusual discussion,
+in that we are competing policy considerations that have
+been raised. This is a -- a rule with particular
+language, and I don't think we'd be having this type of
+a discussion if we were dealing with a statute. I think
+there would be a different focus. Obviously, the policy
+concerns would be raised but in a different context.
+Do you have authority for the proposition
+that we have more flexibility in interpreting the
+Federal rules than we would in interpreting the statute?
+MR. WALL: I -- not in general --
+CHIEF JUSTICE ROBERTS: I mean, it
+highlight -- it -- just to take a moment -- it was
+highlighted for me in your brief when you said, well,
+Johnson, there was a special circumstance, so they read
+this rule, then, this way. This is not a special
+circumstance, so we are going to read the rule a
+different way. Is it because these are rules as opposed
+to statutes?
+MR. WALL: No. It's because we have
+Johnson. I mean, I -- Mr. Dreeben stood here in Johnson
+and said, We've got the most natural reading of the
+rule, and you shouldn't carve out a futility exception
+to it. And then, in our view, that is what the Court
+did without discussing the tax.
+JUSTICE GINSBURG: And what about what the
+rules -- what the rules advisory committee? I mean, is
+it -- when 52(b) was put in the statute, they ­ they
+cited a case you cite in your brief, the Wiborg ­ or
+Wiborg case. That wasn't, at the time, error. It was a
+sufficiency-of-the-evidence error, the kind of thing you
+would expect the counsel to bring to the attention of
+the Court.
+And nonetheless, the -- the advisory
+committee put it in as an example of how 52(b) should
+operate. And why? They said they put it in there
+because it was a matter vital to the defendant.
+So the objection wasn't made, so the
+contemporaneous objection rule was -- was not observed
+and nonetheless, the Court said, We are going to take --
+we are going to consider it on appeal because the matter
+is vital to the defendant.
+I can't imagine anything more vital than
+being deprived of 19 to 27 months of freedom.
+MR. WALL: Well, I -- but Wiborg falls
+squarely within what we all believe is the core of the
+rule. There wasn't sufficient evidence at trial. That
+would have been obvious to everyone in the courtroom
+that the prosecution hadn't satisfied some element of
+the offense. There is no change in intervening law like
+what we are dealing with here.
+And I take your point, Mr. Chief Justice.
+We think that we've got by far the most natural reading
+of the text. It's backed up by the history. It's
+backed up by this Court's understanding in cases like
+Frady, that is designed to cure errors so egregious that
+the trial court and prosecutor were derelict in
+countenancing them, as this Court said in Frady.
+And I -- I don't see Petitioner or the
+amicus really taking issue with the government on that
+text or history or cases like Frady. I think they are
+resting it on Johnson, and for the reasons I tried to
+explain to Justice Kagan, I don't think any persuasive
+reading of Johnson gets them home. It could not have
+set aside this question if it had thought that it was
+resolving what the text of the rule Mr. Chief Justice
+meant, or general --
+JUSTICE ALITO: What about Mr. Henderson
+sitting in prison, serving a sentence that we now know
+was imposed for a reason that is not permitted under
+Federal sentencing law? Is there anything that can be
+done for him? If -- if it was very clear at the time
+that the statute prohibited this, would it have been --
+was it ineffective assistance of counsel for his
+attorney not to have made an objection?
+MR. WALL: I think he could certainly raise
+that claim in habeas and attempt to -- to get relief,
+but I don't think there is any relief for him under Rule
+52. And I don't --
+JUSTICE KENNEDY: And is there any relief
+for him in the -- in the regulations of Bureau of
+Prisons or the government -- other than a pardon, I
+suppose, of defendants?
+MR. WALL: Well, he -- he been a -- not
+specifically aimed at this, Justice Kennedy. I will say
+he has been eligible for the RDAP in the time that he
+has been in prison, and he has never --
+JUSTICE KENNEDY: Eligible for?
+MR. WALL: For the -- the -- for the
+residential drug abuse treatment program that the
+district court wanted him to participate in. He never
+applied to --
+JUSTICE SOTOMAYOR: Counsel, I guess, I -- I
+continue to be confused about what makes error plain or
+clear. I don't know why the pronouncement of a circuit
+court accomplishes that. Meaning, so we said in Tapia
+that the statute is perfectly plain, perfectly clear.
+And so why shouldn't it have been clear to those
+circuits or to that district court judge at the time of
+trial?
+You're equating the plainness of error with
+what the outcome is to -- in circuit courts, and I'm
+having trouble with that.
+MR. WALL: I -- not invariably, Justice
+Sotomayor. I -- it's possible to imagine a case in
+which a district court judge was not foreclosed from
+reaching some legal conclusion that nevertheless no
+reasonable judge would reach. I just think it's
+impossible to say that that's what Tapia was. You had
+courts that had reached different conclusions, and you
+had a sentencing practice that had been in existence for
+decades. Now, this Court ultimately found and agreed,
+the government confessed to her, and the Court agreed
+that that was an impermissible sentencing practice.
+But it was still an open, debatable, legal
+question on which courts had reached different
+conclusions for many, many years. And I think to say to
+a district court judge in a circuit that has decided the
+question against the defendant, well, that's not clear
+law. I think a district court would look at you like,
+What are you talking about? I have an on-point Court of
+Appeals decision that tells me to do X or Y.
+JUSTICE KAGAN: Mr. Wall, can -- can I ask
+you about footnote 4 of your brief? This is the
+footnote in which you say that this case involves only a
+claim of sentencing error, and it doesn't involve a
+claim of actual innocence based on an intervening
+decision.
+Is that footnote meant to suggest that you
+think, or at least that you contemplate the possibility
+that where there is an intervening decision making clear
+the conduct that a person had been convicted of was in
+fact not criminal, that you would think a different rule
+should apply? That the Johnson rule should apply?
+MR. WALL: We are leaving open, if the Court
+says that there is an actual innocence exception in
+habeas to procedural default rules, that whatever it
+covers, acts that are no longer criminal, sentences
+beyond the statutory maximum, that whatever that
+exception covers, we leave open the possibility that you
+could also get relief for that under Rule 52. That --
+that those cases could -- those exceptions could trap
+each other.
+JUSTICE KAGAN: Because then that creates
+yet another complication in this interpretation of Rule
+52. And one might say, we just want a uniform rule,
+that it should all be at one time, and having said which
+time it should be at in Johnson, and having suggested
+that it should also be in the time of appeal for actual
+innocence claims, that it would be strange to carve out
+this single set of cases involving intervening changes
+of the law, and say those should be at the time of
+trial.
+MR. WALL: Justice Kagan, I think far
+stranger than letting the Johnson tail wag the
+plain-error dog would be letting the --
+JUSTICE SCALIA: I agree that that was a bad
+footnote. I think you're -- you know...
+(Laughter.)
+MR. WALL: Now, I'm going to go the other
+way.
+JUSTICE KAGAN: But -- an honest footnote,
+an honest footnote in that you're saying there is this
+other category of cases that's lurking out there, and
+that category seems as though we should have the Johnson
+rule.
+MR. WALL: But actual innocence isn't the
+tail, it's like the nub or the tip of the tail. And
+whatever the Court decides to do with actual innocence,
+it shouldn't dictate the interpretation of procedural
+rules more generally.
+JUSTICE KAGAN: But now we have two tails.
+But -- you know, the one tail is Johnson and one tail is
+actual innocence, but this is just a tail, too.
+MR. WALL: One tail, one nub. But the --
+the --
+(Laughter.)
+MR. WALL: Justice Kagan, this has not been
+difficult to apply the lower courts doing this have not
+found it difficult to determine because the vast
+majority of cases, frankly, in the real world, are like
+this one. Courts have reached different conclusions on
+a legal question, and this Court --
+JUSTICE BREYER: Then what harm does it do,
+in the interest of simplicity, in reading a word to mean
+what it says? The word is "plain error." It doesn't
+say whether they mean plain error at the time of trial,
+or plain at the time of appeal.
+Olano says it means plain at the time of
+appeal. If we say that's what it means, then that's
+what it means always. And what harm will that do, given
+the fact -- but, still, there's a plenty of a good
+reason, and appellate judges know their job, not to send
+things back, where it's some technical matter, where
+he's trying to sandbag the judge, where, in fact -- now
+we have all the Rule 4, the fourth prong consideration.
+MR. WALL: Justice Breyer --
+JUSTICE BREYER: The words mean what they
+say.
+MR. WALL: -- I agree. And the rule --
+JUSTICE BREYER: Well, if you agree, then --
+MR. WALL: No. The rule suggests -- by far,
+the most natural reading, is that the plain error could
+have been brought to the court's attention, the district
+court, the one that committed the egregious error, and
+neither Petitioner nor Amicus has advanced any other
+textual interpretation.
+I mean, if we're deciding about that --
+JUSTICE SOTOMAYOR: I don't understand how
+you get that from the rule. The rule says any plain
+error that affects substantial rights, even if it wasn't
+brought to the judge's attention.
+MR. WALL: That's right. Even -- so that
+that's the first clause. And the second clause is, even
+if not brought to the court's attention, which suggests
+that that plain error, that egregious, obvious error,
+could have been brought to the district court's
+attention; not that it was debatable at the time, and it
+became clearer later because an appellate judge opined.
+JUSTICE BREYER: That is Mr. Dreeben's
+excellent argument.
+And then Olano -- rather, Johnson says the
+contrary.
+MR. WALL: Again, Justice Breyer, Johnson
+did nothing, either as a matter of its holding or its
+rationale, to say what the rule requires more generally
+in cases like this one, where a contemporaneous
+objection could have been quite helpful to the district
+court.
+JUSTICE SCALIA: I joined Johnson, and maybe
+I have to repudiate it if it leads -- leads to that
+conclusion.
+MR. WALL: Justice Scalia, you did not join
+the relevant portion of Johnson.
+JUSTICE SCALIA: Oh, I didn't? Oh, thank
+God.
+(Laughter.)
+CHIEF JUSTICE ROBERTS: Counsel --
+JUSTICE SCALIA: It didn't sound like me. I
+believe in the slippery slope. And we're proving that
+today, aren't we?
+MR. WALL: It's fully open to you to agree
+with the government here.
+JUSTICE GINSBURG: Mr. Wall, your time is
+up, but we have a rule -- the Supreme Court has a
+rule -- and I would like to know how the government
+reads it. It's our Rule 24, that says we, this Court,
+may consider plain error not covered in the questions
+presented, but evident from the record.
+Is our rule -- in your view, must the error
+be plain at the trial court stage, or is it enough that
+the error was plain at the court of appeals stage for us
+to apply our rule?
+MR. WALL: I don't think there's anything
+about the text or history or the way that rule has been
+used that suggests it should be interpreted differently
+from Rule 52.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+The case is submitted.
+(Whereupon, at 11:03 a.m., the case in the
+above-entitled matter was submitted.)
+afoul 39:20 11:24 17:17 Armarcion 1:3 back 10:7 12:1,3
+33:3 9:9 11:1 34:15 37:7 40:7,18 articles 22:20 16:21 19:3
+38:1 39:21 51:3 44:8 49:18 aside 27:12 31:5 32:22
+55:7 agreed 20:24 APPEARAN... 47:11 43:6 52:15
+agrees 34:12 appearing 39:17 40:21 41:7 47:1
+43:2,16 aimed 31:13 5:14,16 8:12 14:6 badly 8:19
+10:11 18:7,21 31:8 42:5 assistance 47:20 banc 7:18
+47:14 appendix 28:3 assume 32:25 25:17 30:6
+16:22 12:22 29:17 Atkinson 13:11 basic 43:11
+51:13 alteration 11:20 39:11 42:16 attempt 47:23 basis 14:22
+altogether 40:8 43:3 attention 8:2 bear 42:10
+14:17 47:6 19:13,20 32:5 34:4 37:11 behalf 1:19 2:7
+amorphous 40:3 41:16 43:4,25 53:8,11,14 behavior 32:19
+analysis 15:4 54:24 attorney 14:6 believe 4:9,24
+animated 42:20 appointed 1:16 47:21 28:10 46:17
+14:1,4 18:2 appropriate authority 4:10 belt 8:24 13:15
+appeal 4:11 6:18 argued 24:24 36:18 10:4 13:5 42:1
+17:11 18:10 argument 1:12 aware 21:23,25 bit 23:16
+25:14,18,19 5:1 16:16 30:15 34:5 Breyer 16:21
+46:5 39:1,11 42:13 27:1 32:17,18 32:9,22 37:1
+50:20 38:9 39:16,22 B 38:3,6 41:23
+39:10,12,14,15 31:5 39:4 42:3 12:25 13:4,8,9 31:11
+52:5,18 39:18 40:15 44:21 45:8 13:20,20,23,24 complication
+53:16 41:7 42:4 43:8 46:23 47:12 14:13,15,21,22 50:16
+43:18,20 45:25 54:9 55:4 16:20 17:18,20 conceal 14:6
+16:4,24 55:5,6 circuit 7:9,11,16 19:24 20:4,17 42:20,23
+33:11 cases 3:14,16 10:5 15:8 22:4 20:20,24 24:25 concerned 21:16
+45:10,25 4:16 5:6,10,25 22:25 24:7,23 25:1,13 31:19 concerns 42:22
+6:6,11,14,17 24:24 28:4,10 31:21,23 38:13 45:3
+37:10 27:7,22 28:4 36:24 37:3 48:19 49:15 conclusions 30:4
+28:11 32:1 38:10 43:15,17 50:2 49:6,13 52:3
+36:23 37:24 48:16,23 49:14 clearly 10:9,10 conditions 5:22
+40:22 41:4 10:25 11:5,6 40:16 50:3
+52:25 50:13,22 51:10 36:11 37:2 13:23 20:25 conflated 12:10
+52:2 53:23 48:20 21:4 24:19 confused 48:15
+22:18 24:16,17 claim 33:16,17 5:17 6:10,11 8:8
+40:2 47:22 36:4 47:23 13:22 31:17 41:3 52:17
+change 14:4 claimed 6:15 comment 24:9 44:23
+46:21 36:2 44:7,11 committee considering
+5:7,25 6:3 42:4 clarified 17:9 common 7:14 consistent 10:20
+7:2,2,4 changes 33:3 clarifying 3:20 competing 42:2 25:8
+11:4 50:22 5:17 44:23 contemplate
+13:11 changing 22:20 clarity 19:16 complaining 50:1
+18:2,2 charge 26:3 Clark 16:3 24:4 contemplates
+20:11 Chief 3:3,9 6:21 class 35:11 complete 22:17 40:4
+7:1 14:24 clause 53:10,10 completed 26:8 contemporane...
+25:10 15:12,17,17,19 clear 3:20 4:7,8 completely 13:13 27:5
+28:2 15:21 16:17 4:21 5:3 6:1,20 19:17 28:21 29:16
+31:7,15 26:24 27:3 10:8 11:23 complicating 37:16 41:5
+53:23 25:2,8,10,12 33:14 44:9,9 41:7 46:8,13 40:24
+26:17 27:4,11 criteria 6:2 defendants 33:9 discretion 20:3
+30:3,6,11 31:1 current 19:10 36:2,4 37:2 discussing 45:21
+33:17 35:9,22 cuts 30:1 25:21 29:21 dissenting 15:7
+17:3,4 41:6,8,10,14 day 6:5 27:20 dependent 36:6 31:15
+23:4 27:7 42:4,5 43:14 29:7 30:19 depending distinguish
+35:18 46:4,11 47:3,4 46:22 deprived 46:15 6:22 12:21,22
+26:24 49:17 50:6 49:11 53:14 describe 29:19 36:1,16 37:6,8
+46:3 51:15 52:4 decades 49:8 35:4 41:8,10 43:14
+48:14 53:1,25 54:16 decide 12:4,17 designed 28:20 44:17 48:12,20
+55:4 54:18,22,23 17:18,23 20:3 28:21 29:11 49:2,14,16
+47:4 38:1 44:19 7:10 13:24 determine 10:8 doctrine 17:19
+37:6 40:7,17 deciding 4:15 dictate 51:16 Dominguez
+3:8,10,15 49:6,12 51:25 53:4 different 22:16 door 5:9 23:6
+4:5,9 52:3 decision 3:17,21 23:3 28:17,21 draw 40:21
+court's 8:2 24:8 4:8 6:22 8:13 28:25 30:4 Dreeben 45:17
+34:4 37:11 33:14,25 37:8 40:1 41:25 Dreeben's 53:16
+6:7,7,10 39:7 42:20 40:10 42:20,21 45:2,3,14 49:6 drug 27:14
+8:12 47:1 52:25 44:9 49:18,24 49:12 50:4 35:11 48:11
+10:7,13 53:11,13 50:2 52:3 dumb 11:14
+12:16,17 covered 54:19 decisions 4:21 differently 55:2 D.C 1:8,18
+13:17 covers 50:9,11 default 50:8 difficult 43:25
+14:18 coveted 26:7 defeated 20:20 51:25 52:1 E
+15:1 create 31:14 defendant 8:19 direct 4:11 33:1 E 2:1 3:1,1
+18:2 creates 13:21 10:9 12:14 directed 19:11 earlier 32:22
+50:15 18:16 27:13,22 directly 6:10 39:5
+crime 26:19 28:18 29:15 disagree 40:11 easily 28:10
+22:6 criminal 33:14 30:5,13 32:5 disagreed 40:9 easy 39:10,13
+52:24 53:1,7 extreme 8:24 firearm 26:4 45:7 47:13
+53:12,12 54:19 first 3:12 5:5 generally 51:17
+13:6,21 54:21,23 F 12:8 13:19,20 53:22
+17:2,15 errors 3:18 9:3 face 41:21 18:13 43:7 genuinely 30:12
+19:25 22:16 27:11 faced 20:15 53:10 41:11
+32:14,17 28:22 29:5,6,6 facing 28:12 five 44:10 getting 11:9
+37:10 33:21 37:11 16:3,13 20:19 flexibility 45:5 Gilley 1:15 2:3
+47:2 44:4,16,18 21:24 25:13 flukes 34:22 3:6,7,9 4:1,9
+47:2 26:2,19 27:12 focus 3:12 37:13 4:24 5:11 6:4,9
+40:5 28:2 facts 26:17 following 32:24 10:3,22 12:6
+53:21 ESQ 1:15,17 2:3 fact-intensive follows 9:7 13:10 14:8,14
+20:24 38:18 31:7 36:14 Fortunately 24:6 25:22
+evolved 8:8 far 20:17 31:6 30:8 49:8 52:1 21:3,6,22
+6:15,15 53:17 Federal 45:6 33:20 52:17 given 27:14
+8:18,19 exception 11:16 47:17 four-prong 52:12
+10:6 11:17 40:22 fellow 31:15 13:19 gives 20:2
+11:13 45:19 50:7,11 felon 26:3 Frady 29:12 go 4:15 10:7
+14:13 exceptions fence 30:12 37:9 47:2,4,7 12:3 16:21
+16:10 50:13 41:11 frankly 5:13 19:3 20:4 23:7
+17:10,19 exclusively 31:3 Fifth 7:9,11,16 14:11 24:17 31:16 42:2
+exist 17:12 15:8 24:23,24 52:2 51:6
+existence 49:7 28:4 36:4 freedom 46:15 God 54:7
+22:7 existing 42:5 figure 21:21 fully 54:13 goes 18:10 32:22
+24:25 expand 16:8 43:13 further 31:12 43:6
+expect 46:3 figuring 12:1 futile 16:15 38:2 going 11:1 12:1
+28:5 31:1 experienced file 21:25 22:5 futility 40:22 12:25 13:10
+33:16 29:8 final 4:11,12 45:19 16:8,9,9 17:7,8
+37:14 expired 4:12 find 11:2 22:3 17:17 22:13,14
+43:3 46:1 explain 39:2 25:18,18 G 24:8 26:9
+31:14,15 happened 20:18 hurt 8:19 19:1 51:15,20 25:9,12 37:3
+20:18 hustle 29:10 integrity 23:2,8 38:9,9 39:2,4,5
+happening 27:16 28:19 39:9,18,18,22
+38:22 I 36:14 40:2,15,21
+36:15 happens 7:3 idea 12:10 intentional 41:1,2,6,13,17
+37:19 13:12 18:9 identical 31:18 34:24 41:21,25 42:9
+39:21 hard 18:1 31:20 intentionally 42:15 45:11,17
+45:13 harder 23:16 imagine 33:25 33:25 35:3 45:17 47:8,10
+51:6 harm 23:11 52:5 34:16 46:14 interest 32:11 50:5,19 51:1
+harms 28:18 immunity 20:2 interpretation 53:20 54:1,5
+36:25 heartland 35:9 impermissible interpretations judge 11:8,12,15
+40:24 help 41:18 important 8:7 interpreted 55:2 17:2,20,21
+34:12,14 helpful 8:11 22:12 26:17 19:15 45:5,6 21:13 24:8
+40:2,8 9:22 24:16 32:13 intervening 26:10,12 29:20
+47:6 41:6,12 53:24 importantly 33:14 46:21 29:22,24,25
+49:9 helps 9:19 38:21 49:23 50:2,22 31:2 32:3
+Henderson 1:3 imposed 21:7 invariably 48:25 35:16,20 36:1
+39:22 20:15 24:18 impossible 49:5 involves 3:13 49:2,4,14
+holding 41:13 16:15 35:23 44:10 23:9 28:19,19
+6:4 8:6 9:12 initial 14:10 jail 20:23 31:16 3:9,23 4:2,14
+Honors 4:20 injustices 24:12 job 52:14 8:16 9:2,13,18
+keeping 28:8 lawyers 34:2 Lots 36:2 mess 43:13
+14:1,2,9 Kennedy 5:20 35:2 Louisiana 1:15 met 5:22 28:5,11
+15:10 6:5 14:1,9 22:9 leads 54:2,2 low 26:5 metaphysics
+23:18 28:9 leave 32:2 50:11 lower 27:21 31:1 22:11
+48:1,6,9 leaving 50:6 43:25 51:25 middle 17:24
+kind 11:16 left 25:20 luck 13:14 18:16 mind 29:20
+18:5 30:17 35:3 legal 17:25 lurking 51:10 mine 42:1
+19:7 43:7 46:2 30:18 35:14 minimum 16:20
+21:3,6 kinds 37:10 49:3,11 52:4 M minutes 26:17
+22:9,22 knew 21:15,19 lengthen 21:11 main 25:5,5 missed 44:18
+23:5,14 know 5:13 11:2 29:21 30:6,13 majority 6:11 mistakes 17:4
+24:3 11:23 13:5 lengthened 7:15 52:2 mitigating 26:14
+26:10 19:1,2 20:18 27:23 making 11:17 mixed 43:19
+27:3,6,6 28:15 31:4,6 letting 51:1,2 11:20 36:2,4 moment 16:22
+28:7,9 31:13 32:23 let's 15:11 37:19 50:2 45:9
+29:18 34:9,10,10 level 10:7 11:25 man 24:10 months 7:11
+43:19 47:15 13:22 17:20 margins 35:6 21:1 25:20
+32:9,16 48:16 51:4,19 34:24 Marshall 31:5 46:15
+33:7,24 52:14 54:17 life 33:5 38:25 morning 3:4,12
+35:1 known 11:15 light 40:23 matter 1:11 17:6 motion 22:1,5
+29:17 limit 31:3 33:9 38:13 multiple 12:7
+limitation 13:2,3 40:16,17 46:8
+L 13:9 46:12 52:15 N
+39:5language 25:3 limited 41:13 53:21 55:7 N 2:1,1 3:1
+44:25 lines 16:12 matters 15:21 narrow 5:19,19
+41:23large 31:1 list 14:3,10 maximum 50:10 5:20 30:20
+Laughter 15:23 16:14 mean 6:22 15:3 37:23
+44:21 16:1 17:13 little 23:15 18:21 21:9 natural 45:18
+46:23 51:5,23 54:8 36:19 27:10 28:25 46:24 52:24
+laundry 14:3,10 long 6:23 7:5,13 30:25 31:13 nature 37:14
+16:14 32:6 34:21 35:8,22 necessary 32:15
+50:15,25law 4:4,7,8,20 longer 50:9 35:23 36:10 42:6
+11:4 17:9,18 long-standing 37:1 38:8 need 10:12
+19:10,13 22:19 30:3 41:13,24 43:2 11:14 42:11
+29:17 31:8,10 look 12:15 15:1 45:8,17,23 43:18,21
+31:16,19,21,23 24:13 25:2 52:6,8,19 53:4 neither 4:18
+55:4 33:1,14 34:18 30:5 38:10 Meaning 48:17 53:2
+38:10,17,19,24 looked 14:18,19 35:17 42:1 19:22,24 25:23
+14:20,21 15:16 52:10,11,12 29:19 33:21
+34:14 46:21 47:17 14:25 15:12 47:13 49:25 49:3
+39:21,25 49:16 50:23 16:7,18 24:14 measures 8:24 new 6:1 16:9,10
+47:9 lawyer 17:1,7,11 27:10 28:18 meet 27:24 22:13,14,17,17
+50:15,25 32:18,19,23 lose 23:5 merits 20:4 23:15 31:10,20
+33:25 34:1 lot 34:2 23:25 31:24 38:24
+16:2 27:9 52:10 36:7,8,24 40:5 42:25 precedent 38:5
+37:12 49:11 patched 34:11 25:7 48:22 preparation
+54:13 PATRICIA 1:15 plain-error 7:22 34:25
+37:22 15:11 41:22 people 19:22 41:2 44:7,11 54:20
+opinions 28:3 20:23 31:18,20 51:2 pretty 31:25
+17:3 19:23 perfect 16:5 pled 6:25 26:3 primarily 12:11
+11:12,14 opposite 30:2 48:18 plus 31:7 12:14
+14:3,11 43:18 period 5:15 6:18 point 14:18 principle 42:12
+28:22,24 oral 1:11 2:2,5 7:9,13,16 16:24,25 17:22 42:12
+32:20 3:7 27:1 permit 9:3 35:25 19:16,20 21:20 prison 19:3
+33:3 order 9:5 35:10 permits 40:4 21:21 25:6,6 24:11 47:15
+ought 13:5 permitted 30:10 38:1 46:23 48:8
+40:23 34:10 47:16 pointed 39:5 Prisons 48:3
+46:9 outcome 48:23 person 31:9 50:3 43:1 probably 23:15
+47:21 overlooked persuasive pointing 35:25 problem 11:19
+29:10 41:21 47:9 pointless 40:23 26:13 43:9,10
+44:14 P 34:8 39:16 45:2 44:9
+53:12 P 3:1 41:18 47:5 portion 54:5 proceeding
+45:2 pages 15:9 Petitioner's possessed 26:16 proceedings
+54:6,6 14:25 8:4,13,14 9:3,4 possible 23:17 26:6,7 48:11
+17:14 part 22:12 23:7 11:13 17:10,19 49:1 47:19
+36:24 26:13 32:6 18:12,16,25 potential 43:13 promote 19:25
+38:7,22 19:2,8,19,23 powerless 41:8 promoted 16:3
+8:15 9:23 48:12 27:8 28:5 practice 49:7,10 35:18
+23:16 qualified 20:2 45:18 46:24 30:7 retrials 10:19
+question 3:13 47:10 52:6,24 Rehnquist 15:16 retroactivity
+4:3,4 5:24 9:17 reads 54:18 15:20 16:6 42:20
+33:4,4 10:14 12:7,20 ready 26:20 related 18:8 reversal 36:15
+44:14 13:11 14:2 real 17:18,25 released 25:22 reversals 36:20
+15:13 16:22 18:21 35:5 relevant 54:5 reverse 4:22
+34:20 19:19 20:19 realized 22:2 relief 20:11,21 22:21 24:15
+28:1 29:4 9:21 17:7,12 48:1 50:12 reward 36:11
+43:7 44:13 47:6 repudiate 54:2 28:12 33:12
+29:13,23 52:4 13:2,8,20 require 9:4 14:2 43:16 53:9
+35:20 questions 54:19 20:12,13,14 22:17 rightful 42:6
+47:3 quite 6:8 15:9 21:3,6 31:12 requirement rights 5:21 8:1
+44:17 quote 31:4 52:14 requires 17:1 20:10 23:2
+26:20 47:22 recognized resentencing 45:8 54:9 55:4
+8:21 9:3 13:4 recommended residential rule 3:15,20
+12:14 33:15 44:24 20:25 21:18 48:11 7:22,24,25
+18:22 45:3 record 16:3 resolved 30:3 8:14,17,25
+20:23 raising 35:13 54:20 39:23 41:18 10:1 12:23
+range 26:21,23 reduces 26:8 resolving 47:12 13:12 17:16
+21:11 41:15,16 53:22 referred 3:16 44:6 21:25 22:5,11
+29:21 RDAP 26:7 48:7 referring 6:13 Respondent 22:16 23:18
+reach 36:12 49:4 23:18 1:19 2:7 27:2 28:15 29:7
+33:21 49:6,12 52:3 regardless 24:25 12:10 32:11,21 33:10
+45:24 reaches 36:8 41:20 responders 12:9 33:22 34:7
+reaching 49:3 regulations 48:2 responsibility 37:3,16,17,22
+45:12 16:23 23:22 13:12 24:10,10 36:7 statutory 50:10
+46:10 24:3 33:24 36:14 solely 15:4 step 40:12
+47:12,24 34:13 35:5 seriously 26:18 Solicitor 1:17 stood 39:9 44:20
+39:8 43:2 51:3 serve 8:5,17,22 solicitors 12:9 45:17
+51:12 54:1,4,6,10 9:13,24,25 12:16 straightforward
+Scalia's 5:23 20:5 28:17 solve 11:19 25:3,3
+14:2,11 served 12:23 solved 11:19 strange 50:21
+scheduled 25:22 18:22 sorry 15:19 stranger 51:1
+55:1,3 Schooner 31:4 serves 8:6 9:6,7 29:25 strikes 44:22
+Sealed 22:3 47:15 22:22,25 27:6 stuff 34:9
+51:17 second 3:22 set 5:5 29:5 28:7,23 36:5 sua 7:17
+30:20 43:21 44:7 Shreveport 1:15 specifically 16:7 27:11,25 29:3
+47:5 side 17:15,16 48:6 36:13 53:7
+13:3 16:18 significant spent 15:1 sufficiency-of-...
+46:20 sentence 21:1,8 similar 20:15 sponte 7:18 sufficient 46:18
+35:2,24 35:10 47:15 simply 7:25 stake 23:10,14 suggested 50:19
+38:10 sentenced 7:6 35:16 39:10 started 6:24 8:8 suggests 52:23
+51:9 24:19 single 50:22 state 15:11 53:11 55:2
+16:19 22:16 29:21 47:15 40:16 suppose 4:2 7:23
+21:10 50:9 situation 11:4,7 States 1:1,6,12 10:16 14:1
+23:7 sentencing 12:2 20:8 3:5 34:1 48:4
+29:1,2 21:17 22:8 21:19 24:10 statute 8:14 Supreme 1:1,12
+35:9,17 23:1,24 24:4 situations 29:1 21:10,12,23,25 4:13,24 5:12
+38:25 24:16 26:14,20 six 31:18,20 22:4 24:25 5:18 6:10,18
+42:3 50:7 27:15 28:11 skipped 5:14 29:19,20,22 17:10 54:16
+53:6 30:11 47:17 slippery 54:11 30:16 34:5 sure 10:22
+54:18 49:7,10,22 slope 54:11 35:17,25 45:1 surely 11:6
+5:7 11:3 24:15 6:6,13 43:24 48:18 system 9:7 11:23
+15:25 serious 12:13 smartness 36:7 statutes 45:15 12:12 14:12
+24:15 46:25 47:7,12 20:16 22:17 23:15 42:14
+32:15 55:1 time 3:18,19,23 25:13 27:8 unicorn 17:12
+textual 53:3 4:12 5:3,15 28:11 29:6,10 34:1,16 43:21
+thank 26:24 6:18,22 7:6,13 29:13 33:16 uniform 43:9
+32:10 46:2 19:16,20 20:20 trouble 12:1 37:25
+things 32:5 21:23 24:11,23 18:15 41:24 unsettled 3:18
+7:24 17:16 6:4,9 7:4,14,14 27:8 33:13 try 36:18 36:12 43:8
+27:9 7:21 8:10 9:19 35:13 38:13,17 trying 52:16 unusual 44:22
+35:11 10:3,23 11:1 42:13 44:8,20 turn 14:5 unusually 7:5,13
+41:12 12:6,8,8 14:14 46:1 47:18 turns 38:10 urged 34:8
+46:11,23 14:15 15:6,11 48:7,20 50:18 two 6:1 9:6 use 14:5
+24:1,14,21 53:14 54:15 34:20 51:18 v 1:5 3:4
+28:6,9 30:1,10 tip 51:14 typical 7:2 33:23
+20:18 34:19,21 35:2 54:12 U 52:1
+24:19,19 35:4,6,8 37:15 tough 17:25 ultimate 10:14 versus 43:21
+25:2 38:8 39:4,18 38:20 24:12 view 27:20
+30:4 41:10,17 44:13 transcript 30:11 ultimately 49:8 45:20 54:21
+44:25 45:1 transition 5:15 unanimous violation 42:7
+44:11,12 46:24 47:7,9 transitional 15:10 vital 46:8,13,14
+49:5 47:22,24 49:4 7:16 unaware 34:5
+35:20 third 23:13 27:8 treating 28:25 unclear 3:19 20:12
+33:5 33:12 35:3 7:9 9:14 10:1,7 42:22 29:4,18 30:1
+44:1 47:11 10:7,9,12,18 understand 13:8 30:17 32:8,16
+three 3:11 6:1 12:17 14:23 understanding 35:1,21 36:5
+25:15,15 15:9 33:4 17:1,2,19 18:9 8:7 27:17 47:1 36:21 37:5,15
+40:4,6,10 34:20,20 19:16,20 20:20 unfair 31:25 37:21 38:4
+41:19 three-judge 21:4 22:6,13 38:24 39:1 39:4,20 40:9
+42:17,19 Wiborg 45:25 11-9307 1:4 3:4 6
+43:23 46:1,16 11:03 55:6 60-month 21:1
+46:16 wiggle 32:3 181 28:4
+48:5,10 win 23:6 27:14 19 46:15 8
+49:19 34:19 8 11:2,2 36:24
+51:6 window 5:15 2 36:24
+wish 22:10 2 7:1,3 11:2
+woman 24:11 2000 7:7
+54:4 wonder 4:14 2009 6:25
+word 7:24 8:4 2010 6:25 7:7
+25:6 words 35:20 2012 1:9
+43:23 38:24 52:19 2013 25:23
+50:17 work 27:21 24 54:18
+world 18:21
+10:15 worried 29:15 3 2:4
+19:2 worse 42:1 33 21:1 26:21
+22:13,14 wouldn't 5:10 35(a) 22:1,5
+31:23 32:20 39:15 35(82)(a) 22:7
+46:1 42:25 3582 35:24
+53:7 wrong 6:1 12:13 4
+49:20 52:17
+21:1 26:21
+15:18 26:18 38:11
+30:2 wrote 16:17 5
+37:6 40:13 5 15:11
+39:10 50 11:9 31:16
+42:15 X
+8:25 13:12
+51:7 x 1:2,7 49:18
+52 29:7 30:20
+44:11 44:5 47:25
+22:1 50:12,17 55:3
+49:13 52(b) 3:15,24
+13:16
+16:8,8,9 0 14:19,20 16:7
+35:6,7 25:15 28:24
+36:24
+53:4 33:22 37:18,22
+1 40:4,6 45:24
+46:24 10 26:16 55 3:15

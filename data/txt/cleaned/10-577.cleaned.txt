@@ -1,0 +1,1414 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+AKIO KAWASHIMA, ET UX., :
+Petitioners :
+v. : No. 10-577
+ERIC H. HOLDER, JR., ATTORNEY :
+GENERAL. :
+- - - - - - - - - - - - - - - - - x
+Washington, D.C.
+Monday, November 7, 2011
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 11:07 a.m.
+APPEARANCES:
+THOMAS J. WHALEN, ESQ., Washington, D.C.; for
+Petitioners.
+CURTIS E. GANNON, ESQ., Assistant to the Solicitor
+General, Department of Justice, Washington, D.C.; for
+Respondent.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+THOMAS J. WHALEN, ESQ.
+On behalf of the Petitioners 3
+ORAL ARGUMENT OF
+CURTIS E. GANNON, ESQ.
+On behalf of the Respondent 17
+REBUTTAL ARGUMENT OF
+THOMAS J. WHALEN, ESQ.
+On behalf of the Petitioners 42
+P R O C E E D I N G S
+(11:07 a.m.)
+CHIEF JUSTICE ROBERTS: We'll hear argument
+next in Case 10-577, Kawashima v. Holder.
+Mr. Whalen.
+ORAL ARGUMENT OF THOMAS J. WHALEN
+ON BEHALF OF THE PETITIONERS
+MR. WHALEN: Mr. Chief Justice, and may it
+please the Court:
+Mr. and Mrs. Kawashima came here to the
+United States as legal immigrants in 1985. And later
+on, they pled guilty to filing a false statement under a
+corporate tax return. The issue we bring to the Court
+is whether that conviction under 26 U.S.C. 7206 is an
+aggravated felony, specifically under (M)(i) of the
+aggravated felony statute.
+This Court many times has held that it is
+the elements of the crime of conviction that determine
+whether a crime is an aggravated felony. And the
+elements of 7206 do not change when they go over to the
+immigration statute. And the terms of that statute is
+basically as the Department of Justice has written in
+its Tax Manual. It is basically a tax perjury statute.
+If you don't tell the truth, and you know what you're
+saying is false, and you do it under oath, that's
+perjury.
+There are other statutes, perjury statute,
+which in essence says the same thing. And 18 U.S.C.
+1001 is also a perjury statute. And none of them
+require the Justice Department or a court to determine
+whether fraud and deceit was an element of that crime.
+JUSTICE SCALIA: How would you prove fraud
+and deceit beyond proving that the person lied,
+intentionally lied? What -- what is added to
+intentionally lying to convert that into fraud or
+deceit?
+MR. WHALEN: It's the intention to deceive
+or the intention to defraud. And simply --
+JUSTICE SCALIA: Isn't intentionally
+lying -- doesn't that mean that you intend to deceive?
+MR. WHALEN: It does not, Your Honor.
+JUSTICE SCALIA: It doesn't?
+MR. WHALEN: It does not mean, because you
+are saying a false -- making a false statement, that
+that is evidence of an intent to deceive.
+JUSTICE GINSBURG: Mr. Whalen, the common
+definition of deceit is acting -- intentionally giving a
+false impression, intentionally giving a false
+impression with the intent that someone will act on it.
+So, it seems that's exactly what filing a false return
+is. You give a false impression of what your income is
+with the intent that the IRS will accept it.
+MR. WHALEN: Justice Ginsburg, the
+difference I'm trying to ask the Court to consider, it
+is the intent which is an element of fraud and deceit.
+Under section 7201, the tax evasion statute, that
+includes both a requirement or a finding of fraud and
+deceit. Section 7206 does not.
+JUSTICE GINSBURG: But why isn't it obvious?
+What proof would you need? You submit a document
+because you want to convey a false impression for
+someone to act on. Why do you have to have anything
+more than that to establish deceit?
+MR. WHALEN: Because the requirements, Your
+Honor, of 7206 is a finding of -- of simply making a
+false statement. That's all that's required. The IRS,
+when they go after a taxpayer because they have not
+provided -- they have not disclosed all of their income,
+the IRS comes in, or rather the Department of Justice,
+and all they have to prove is that it's false. They
+don't have to prove --
+JUSTICE KENNEDY: And that it's willful.
+And that it's willful.
+MR. WHALEN: Pardon me, Your Honor.
+JUSTICE KENNEDY: That it's willful.
+Whoever willfully makes a false statement.
+MR. WHALEN: Yes, Your Honor, but as this
+Court held --
+JUSTICE KENNEDY: So, it's not correct.
+MR. WHALEN: No, Your Honor.
+JUSTICE KENNEDY: Well, correct me if I'm
+wrong. It would seem to me, just from reading the
+statute unless we have some gloss on, that if you think
+it's true but it's false, from the way you were
+indicating, would be a violation. That's not the way I
+read it. Now, have we said something other than that in
+later cases?
+MR. WHALEN: If I may, Your Honor. This
+Court has written in the Spies case, and specifically in
+the Bishop case, that in order to be convicted of any
+tax offense under the Internal Revenue Code, the IRS or
+the Department of Justice must show it was done
+willfully. Willfully is not intrinsic to any -- it's
+really intrinsic to all of the tax offenses.
+"Willfully" does not mean deceit or fraud. It simply
+means that the IRS cannot bring a criminal information
+or indictment against somebody who does something
+unintentionally. They must do it willfully.
+"Willfully," as this Court defined in Bishop, is simply
+evidence that -- to commit any of these IRS crimes you
+must -- it must be shown to have been done willfully.
+JUSTICE SCALIA: You must know that it's
+false when you say it. Isn't that what "willfully"
+means? You must know that the statement you're making
+is false.
+MR. WHALEN: "Willfully" means
+intentionally. The false, I submit --
+JUSTICE SCALIA: I don't want another
+adverb.
+MR. WHALEN: No. All right.
+JUSTICE SCALIA: I want you to describe what
+it means in the context of a statement. Doesn't it mean
+that you have to know that the statement you are making
+is false? Isn't that enough for willfulness?
+MR. WHALEN: That's what -- that -- yes.
+JUSTICE SCALIA: Okay. Now, you tell me
+what deceit involves beyond that.
+MR. WHALEN: Deceit involves an intention to
+induce somebody to act. And what I'm arguing to this
+Court is that simply making a false statement under a
+tax perjury statute such as we have in this case does
+not meaning and does not evidence an intention to
+deceive or a finding.
+JUSTICE SOTOMAYOR: I'm sorry. I'm a little
+bit lost here.
+Your definition of "deceit" is a false
+statement with an intent for the other party to rely.
+And you don't see that when you file your tax returns
+that the government is relying on your statement to
+calculate your tax and to ensure that you've paid it?
+You don't see any reliance by the government on the
+truthful statements there and its collection of taxes?
+MR. WHALEN: I -- I do see reliance as
+generally is what happens. What I'm saying is that 7206
+is a perjury statute and the government does not have to
+prove, and did not have to prove in this case, anything
+more than the -- the income was unreported or the tax --
+the tax return was -- was false. If --
+JUSTICE SOTOMAYOR: So, it also had to prove
+that the government relied? Is that what you're saying
+the --
+MR. WHALEN: I'm saying that the
+government was -- if the government wanted to prove
+fraud or deceit, they -- that would be an element of the
+crime of tax evasion --
+JUSTICE SOTOMAYOR: I'm not even sure why,
+because under tax evasion you can be charged with tax
+evasion merely for avoiding the payment of tax. You
+don't have to make a statement at all. You can take the
+money from the bank, withdraw it openly, and stick it in
+your mattress, refuse to pay, and if somehow they find
+your mattress, you can be charged with tax evasion.
+MR. WHALEN: And the --
+JUSTICE SOTOMAYOR: Where's the false and
+deceit in that?
+MR. WHALEN: The government would have to
+prove fraud or deceit, because an intent to evade is --
+the Court -- the -- the government has to prove --
+JUSTICE SOTOMAYOR: If there's a -- if there
+are cases that say otherwise, what does that do to your
+argument? Of which there are many that say that the
+avoidance of taxes, tax payment, doesn't require an act
+of fraud or deceit?
+MR. WHALEN: I would be surprised by
+those --
+JUSTICE BREYER: Well, suppose somebody
+goes -- he goes to a country where we have no
+extradition treaty, takes all his assets and writes a
+postcard to the IRS every -- once a month saying
+ha-ha-ha.
+(Laughter.)
+JUSTICE BREYER: I mean, why wouldn't that
+be an attempt to evade? That's why he went; he didn't
+like to pay his taxes.
+MR. WHALEN: Then the government would bring
+an action under the --
+JUSTICE BREYER: Well, 7201. Why can't
+you -- well, why doesn't that violate 7201? I mean, my
+simple question really is you are a drafter, imagine you
+are a drafter, and you are charged with drafting section
+(43). And you read -- you try to get the fraud and
+deceit crimes, okay? So now we read 76 -- 7206(1) and
+(2). And you see for both of those, you can't be
+convicted unless you materially and willfully make a
+false statement.
+So, you think, hey, I don't need a special
+section on that one. But then you go to 7201, and you
+say, oh, my God, I just thought, somebody might violate
+this by going off to some special country, taking all
+his assets and writing ha-ha-ha. Now, there's no fraud
+and deceit in that. He's totally open about it. But he
+sure has evaded it. So, therefore, I better write a
+special section.
+Now, that's the simple-minded argument, but
+what's wrong with it?
+MR. WHALEN: What's wrong with it, Your
+Honor, is that what we're talking about is the
+aggravated felony statute. And the issue -- and it may
+be a narrow one for this Court -- is whether the
+conviction under 7206, which does not require anything
+more than filing of a false statement without any intent
+to deceive or defraud -- whether that is an aggravated
+felony. And this Court has said time and again that it
+is the elements of the offense that determines
+aggravated felony.
+If I may illustrate the point, if -- if a
+conviction under 7206 was viewed by this Court as
+including fraud and deceit for the reasons many of the
+Justices have indicated, that, you know, that when
+somebody writes a false tax return, it's got to be
+deceit, what that does is that would collaterally estop
+a taxpayer from denying fraud and deceit in the civil
+collection action.
+So, this is what Commissioner Walters was
+concerned about, why he has filed his brief, that it in
+effect would undermine the ability of the government to
+get an easy conviction based simply on a false
+statement.
+Similarly, if you are convicted of tax
+evasion, the -- the tax evader cannot challenge fraud.
+He is collaterally estopped. And as we know, when the
+government goes to seek recovery -- that is, getting the
+taxes back in a civil proceeding -- there's no statute
+of limitations.
+The intention of Congress is also reflected
+in the Internal Revenue Code section 6501, where if a
+person is convicted under 7206 and the government seeks
+to collect the unpaid taxes in an assessment proceeding,
+Congress particularly said that where there's a
+conviction under 7206, the government has the burden of
+proving fraud, which seems to me to be evidence -- or
+rather, the government has the -- a duty to prove there
+was an attempt to evade the tax. But the conclusion is
+the same.
+If Congress had intended that proof of fraud
+and deceit would be in 7206, there would be no reason at
+all for Congress to put that in 70 -- 6501.
+Therefore --
+CHIEF JUSTICE ROBERTS: I'm sorry. That's
+26 U.S.C. 6501?
+MR. WHALEN: Yes. To be more precise,
+6501(c)(1).
+CHIEF JUSTICE ROBERTS: Okay.
+MR. WHALEN: That is the exceptions to the
+running of the statute of limitations.
+JUSTICE GINSBURG: Do we have that in the
+briefs?
+MR. WHALEN: I have it in my reply brief. I
+don't have the particular statute, but I refer to it in
+the reply brief.
+JUSTICE SCALIA: Do you have the text of it?
+MR. WHALEN: I --
+JUSTICE SCALIA: I don't like counsel
+getting up here and talking about statutes that they've
+never put before us. If you're going to rely on it, we
+-- we would like to have the text somewhere.
+MR. WHALEN: Yes. I apologize for that,
+Your Honor.
+I would like to move to the second part of
+my argument, if Your Honor please, that the -- this
+Court has been very clear on deciding statutes invoking
+canons of construction. And one of the important canons
+is that different words have different meanings.
+So, in (M)(i), we have loss to victim or
+victims in excess of $10,000, and in (M)(ii), we have a
+revenue loss to the government in excess of 10,000. And
+as this Court said in Nijhawan, referring to (M)(ii),
+this is the Internal Revenue provision, a correct
+assessment I suggest, and that (M)(i) deals with
+injuries or damage to third parties, not to the
+government.
+If you take the government's position that
+fraud and deceit crimes are in -- fraud and deceit
+revenue crimes are in (M)(i), then (M)(ii) would be
+worthless or pointless.
+JUSTICE SCALIA: Well, why? Because it
+wouldn't be pointless if in fact an attempt to evade or
+defeat tax does not require a lie, does not require a
+willful lie. It would be adding to the -- to the fraud
+and deceit offenses, 7201, which does not require a lie.
+It just requires, you know, going to Cuba and writing
+postcards saying, I know I owe money; I'm just not -- I
+just ain't gonna pay it. There's no fraud and deceit
+there. It's just what 7201 requires, an attempt to
+evade or defeat tax.
+MR. WHALEN: Well, anyone who leaves the
+country with an intent to avoid tax is committing tax
+evasion.
+JUSTICE SCALIA: That's right. That's my
+very point.
+MR. WHALEN: And that is --
+JUSTICE SCALIA: Without lying -- without
+lying -- without making a single lie.
+MR. WHALEN: What I'm saying is that fraud,
+such as you suggest, Your Honor, is going to be an
+aggravated felony. It's the only one that Congress
+says -- only revenue offense, only offense under the
+Internal Revenue Code which Congress designated as an
+aggravated felony.
+What I'm saying is that if tax evasion were
+also included in (M)(i), then Congress would have
+created a useless, pointless provision.
+JUSTICE SCALIA: Yes. And my point is that
+it would not have been included within (M)(i). There is
+no way that it could be included with (M)(i), because it
+does not involve fraud or deceit. It does not involve a
+lie, as 7206 does.
+MR. WHALEN: 7201 involves, I'm suggesting
+that --
+JUSTICE SCALIA: An attempt to evade or
+defeat -- "who willfully attempts in any manner to evade
+or defeat any tax." And one can do that without lying.
+One can do that by simply not report income, for
+example. Or in -- in Justice Breyer's more colorful
+example, by going to Cuba. Was it Cuba or somewhere
+else?
+(Laughter.)
+MR. WHALEN: Well, the point I am trying to
+make, Your Honor, is that if your example is an example
+of fraud and deceit, which I agree it is, then a crime
+of fraud and deceit would not be in (M)(i) because it
+would be -- it would already be captured in (M)(i) if
+the government's position was upheld.
+JUSTICE GINSBURG: But the point that was
+being made is not that it's fraud and deceit. Quite the
+opposite. I think Justice Breyer, Justice Sotomayor,
+Justice Scalia have tried to get you to focus on the
+evasion that involves no false statement at all, evading
+payment where you say nothing. What would be the crime
+if you simply don't pay your taxes, and you don't file a
+return, so you are not filing anything that's false?
+Where would that come in the Internal Revenue --
+MR. WHALEN: That would be a violation of
+one of the other Internal Revenue crimes.
+JUSTICE GINSBURG: Would it be evasion
+simply not to report your income?
+MR. WHALEN: If the government chose to
+prove that it was an attempt to evade the tax, it would.
+The Internal Revenue's statute and crimes all carry the
+duty to -- it's a legal duty we all have of fairly
+reporting our income, our deductions, what have you.
+It's the same legal duty whether it's in 7201 or 7206.
+The difference is, in tax evasion, there
+must be a proof of fraud or deceit. That's inherent.
+From the beginning of this country -- rather, beginning
+of the tax statutes, Congress has always separated
+revenue statutes from other crimes. In this case,
+(M)(i) deals with crimes involving third parties;
+(M)(ii) deals with revenue loss crimes to the
+government. Only (i) is an aggravated felony.
+I would like to reserve the remainder of my
+time for rebuttal.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Mr. Gannon.
+ORAL ARGUMENT OF CURTIS E. GANNON
+ON BEHALF OF THE RESPONDENT
+MR. GANNON: Mr. Chief Justice, and may it
+please the Court:
+Congress's specific reference to tax evasion
+in subparagraph (M)(ii) of the INA's definition of
+aggravated felony did not remove all other tax offenses
+from the scope of subparagraph (M)(i).
+JUSTICE KAGAN: Mr. Gannon, do you think
+that you can commit tax evasion without committing
+either fraud or deceit, and are there cases that show
+that?
+MR. GANNON: The cases that we cited in our
+brief on page 34 that discuss this are ones that are
+evasion of payment cases as opposed to evasion of
+assessment cases. And those -- those are instances in
+which somebody could accurately file a tax return and
+say I owe you this amount of money and then take steps
+to prevent the IRS from collecting on it, usually by
+removing their assets from the IRS's reach.
+As a factual matter, it so happens that most
+of those cases will often involve some concealment along
+the way. If somebody's taking more than $10,000 in gold
+coins out of the country to take them to a Swiss bank,
+they often don't mention that when they're leaving the
+country.
+JUSTICE SCALIA: What about just not filing
+a return?
+MR. GANNON: Just not filing a return is
+probably not going to be enough to establish tax
+evasion. That would be an offense under 7203, which
+doesn't necessarily involve fraud or deceit. The thing
+that distinguishes 7201 is the need for the government
+to establish that there is an attempt to evade either
+the assessment or payment of taxation.
+JUSTICE KAGAN: I mean, I suppose what
+confuses me is that when somebody is convicted of 7201,
+they can't -- they're estopped from contesting a civil
+fraud suit; isn't that right? And it also counts as a
+crime of moral turpitude, which involves fraud. And all
+of those things suggest, and I think kind of the cases
+as a whole suggest, that tax evasion involves fraud.
+MR. GANNON: Well, certainly in the context
+of the civil tax fraud penalty, the Tax Court has
+concluded that intent to evade is synonymous with an
+understatement due to fraud. And the reason why it has
+refused to reach that conclusion in the context of 7206
+offenses, like the ones at issue in this case, is
+because the 7206 offense does not require the government
+to have proved that there was any understatement to
+begin with. And so, there could not have been an
+understatement due to fraud.
+I'd also note that it's not at all clear
+that in the context of the evasion of payment cases that
+I was just discussing in the context of tax evasion,
+that the same civil tax fraud penalty would be
+applicable there, because the civil tax fraud penalty is
+triggered by an understatement of an amount required to
+be shown on the return. And, therefore, if it isn't --
+if it isn't actually something that's done in the
+context of filing a tax return that understates how much
+you owe the government, then -- then that may well not
+trigger the collateral estoppel effect in the follow-on
+civil case.
+CHIEF JUSTICE ROBERTS: Counsel, what did
+you --
+JUSTICE SOTOMAYOR: Excuse me. Are there
+any tax provisions that you think are not covered by the
+fraud and deceit section and the tax evasion section?
+MR. GANNON: You mean --
+JUSTICE SOTOMAYOR: Any tax crime.
+MR. GANNON: Any tax crime --
+JUSTICE SOTOMAYOR: Felonies, I should say.
+MR. GANNON: There are several tax offenses
+that don't necessarily involve fraud or deceit. So,
+parts of 7202, which is the willful failure to collect
+tax, would not necessarily involve fraud and deceit, but
+it also covers failing to truthfully account for
+collected tax. So, some of those offenses would involve
+fraud or deceit, and it may be divisible. 7203, which I
+just mentioned --
+JUSTICE SOTOMAYOR: Does that fall under tax
+evasion, or that's a separate statute?
+MR. GANNON: That's not tax evasion. The
+only thing that counts as tax evasion is 7201.
+JUSTICE SOTOMAYOR: I cut you off. Which
+are the other ones?
+MR. GANNON: I was saying that I already
+mentioned to Justice Scalia that section 7203 -- all of
+these offenses I'm talking about are in 26 U.S.C.; 7203,
+the willful failure to file a return or to pay tax or
+maintain records or supply information doesn't
+necessarily involve fraud or deceit. Parts of 7204,
+which is failing to furnish a statement to the employee
+reflecting the amount of taxes, but not -- but then,
+again, I think it could be divisible because it would
+also apply to furnishing a false statement to your
+employee. Even the misdemeanor offense under 7207 for
+presenting false documents might be covered for fraud or
+deceit, but in practice it's only used when there's --
+it's only used when the tax deficiencies are de minimis.
+And so, it would never trigger the $10,000 loss
+requirement that (M)(i) would also require us to
+establish in order to make it an aggravated felony.
+CHIEF JUSTICE ROBERTS: Counsel, what --
+what is your answer to your friend's 6501(c)(i)
+argument?
+MR. GANNON: Well, my answer is that I don't
+think it proves really any more than the collateral
+estoppel cases in the civil fraud context. The
+provision that we're talking about is not reprinted in
+any of the briefs, but 6501(c)(1) is an exception that
+-- that lifts the limitation on when the IRS can levy an
+assessment or seek collection; and it refers to the case
+of a false or fraudulent return with the intent to evade
+tax. And I think that in context, the reference to a
+false or fraudulent return with intent to evade tax is
+not something that clearly connotes that Congress is
+just speaking to 7206 offenses. It uses not only the
+word "fraudulent," but also "the intent to evade tax,"
+which I think --
+CHIEF JUSTICE ROBERTS: Well, no, but I
+think your friend's argument, which has some appeal, is
+7206 is fraud and false statements. And he said if
+you're right that that includes deceit, they wouldn't
+have had to add "with the intent to evade tax," which is
+what they do in 6501(c)(1).
+MR. GANNON: Well, I -- I think if you look
+to (c)(2), it also refers to a willful attempt in any
+manner to defeat or evade tax. So, the next provision
+also applies more broadly to 7201 and more closely
+tracks the definition in 7201. So, I think just like
+the statute of limitations provision that we note,
+Congress is probably using a belt and suspenders
+approach there, that -- we noted that Congress may well
+have had reason to be concerned that 7201 offenses would
+not necessarily be seen as having fraud or deceit as an
+element of the offense in light of this Court's decision
+in Scharton, which was an old case, but it had said that
+in the -- in the statute of limitations context, that
+the -- the extended statute of limitations that apply to
+offenses in which fraud was an element was not triggered
+by the statutory predecessor to tax evasion. And so, to
+the --
+JUSTICE KAGAN: But Scharton was a very old
+case which had been distinguished away by many courts.
+It really has no power in the -- in the -- I mean, tell
+me if I'm wrong, but --
+MR. GANNON: Well, to this day section 6531,
+which is the statute of limitations provision which we
+do reprint in our appendix, includes provisions that
+refer not only generally to offenses involving fraud but
+also specifically to a tax evasion offense. And so, I
+think that the fact that Congress had already felt like
+it needed to be expressed, to pull in not just fraud
+offenses but also tax evasion offenses in 6531, makes it
+unsurprising that they would have pursued a similar
+approach here. In addition, I would --
+JUSTICE KAGAN: I mean, the paradoxical
+thing about your argument is that, one, it makes us
+think that Congress was just being hypervigilant about
+this problem of making sure that tax evasion offenses
+were covered, even though tax evasion offenses almost
+always do involve fraud or deceit, but Congress was
+thinking about these hypothetical possibilities that
+maybe there was going to be some conviction out there
+that would not involve fraud or deceit, and so Congress
+is being super-careful about this; and yet, at the same
+time, that Congress is being utterly careless, utterly
+clueless about the basic rule of statutory construction
+which is that one does not write superfluous language.
+MR. GANNON: But, Justice Kagan, we don't
+think it's superfluous, in part because of the evasion
+of payment cases we're talking about, but I think also
+if you look at the context of the rest of paragraph
+(43), the aggravated felony definition, you'll see that
+there are several other provisions that have significant
+overlap in them. And so subparagraph (A) refers to
+murder and rape; those would also generally be covered
+in crimes of violence in subparagraph (F). The same
+thing is true in paragraph (E)(i); it pulls in various
+explosives offenses including arson, destruction of
+property or building by fire or explosives; that's the
+reference to an 8441 --
+JUSTICE KAGAN: So, our rule of statutory
+construction when it comes to this aggravated felony
+statute is that superfluity doesn't matter?
+MR. GANNON: No, Justice Kagan, I think that
+in context, there is a lot of overlap among the
+different provisions in -- in paragraph (43) already,
+and I -- I was also going to mention subparagraph (K)(i)
+and (ii), which like (M)(i) and (M)(ii), are ones that
+have little (i), which has a generic reference there to
+offenses associated with managing a prostitution
+business, and little (ii) then expressly refers to
+certain enumerated Federal statutes, all of which
+involve transporting individuals for purposes of
+prostitution in the case of seeking commercial
+advantage.
+And I think that virtually all of those
+offenses would have been included within (K)(i), but
+Congress wanted to be sure and, therefore, added
+(K)(ii). And as -- as Justice Breyer, I think, pointed
+out before, textually it -- it had reason to think that
+7206 would be picked up by fraud or deceit here in --
+JUSTICE GINSBURG: But 7206 is the lesser
+offense. I mean, you don't take -- you don't dispute
+that the heavier crime is the 7201 crime; that is,
+evasion. It gets a more severe penalty. And when
+Congress picks out one tax crime and one tax crime only,
+why wouldn't we assume that that's what Congress meant
+with respect to aggravated felonies? That there's one
+tax crime, the most serious tax crime, that fits that
+label. And the (M)(i) provision deals with the many,
+many statutes that involve loss -- fraud or deceit and
+loss to the victim?
+MR. GANNON: The reason why we don't think
+that's appropriate is in part because, as I've
+explained, there would -- there is some aspect of which
+(M)(ii) is not superfluous. But, more importantly, we
+don't think that the specific controls -- the general
+canon is triggered here, and we don't think that (M)(ii)
+talks about a category of tax crimes or tax offenses
+more generally, because it only refers to one offense.
+And so, the cases that Petitioners invoke
+here, in order to establish that there is a category
+that's being pulled out of (M)(i), are HCSC-Laundry and
+Leocal. Those are both cases in which the statute
+actually identified the category of offenses in
+question, whether it was the cooperative hospital
+service organizations in HCSC-Laundry or DUI offenses in
+Leocal.
+And so, here we don't have Congress actually
+saying tax offenses are covered by (M)(ii). What it
+says is tax evasion is covered by (M)(ii). And --
+JUSTICE BREYER: But what about -- what
+about -- suppose that didn't even exist here, 7201.
+Suppose we only had 7206, and the question before us
+was, does 7206 fit within the term "aggravated felony";
+i.e., does it involve fraud or deceit?
+So, we read 7206; it doesn't say anything
+about fraud or deceit. It says perjury and making a
+false statement. So, then we go look up what were the
+torts of fraud and deceit. And he's right. Fraud
+traditionally requires an intent to get another person
+to act, but you don't have to have that intent to
+violate 7206. And deceit -- it not only involves that;
+it also involves the person having acted.
+So, the traditional tort of deceit, you have
+to intend the acts, and he actually has to have acted to
+his detriment. Fraud, you have the first of those and
+second. You read the statute and say, well, say neither
+of those is present here. This is just perjury, which
+isn't good, but it's not fraud or deceit. And there we
+are, not in the statute. What's the answer to that?
+MR. GANNON: Well, I don't think that the
+common law definitions of fraud and deceit are the ones
+that this Court has always applied in the context --
+JUSTICE BREYER: No, no, not always. But
+here we were dealing with a very serious statute,
+aggravated felonies. That has terrible consequences for
+the persons who fall within it.
+MR. GANNON: And --
+JUSTICE BREYER: So -- and in most of these
+M's and A's and B's and C's, and so forth, they refer to
+statutes by number so most of it, though not all of it,
+is very specific. So, when we read these words "fraud"
+and "deceit" here, why don't we say fraud and deceit
+means fraud and deceit?
+MR. GANNON: Well, in the --
+JUSTICE BREYER: The traditional elements.
+MR. GANNON: In the criminal context, the
+Court has recognized that fraud offenses don't require
+the government to prove reliance or damages. And that
+makes sense. If you think about the tort action, the
+classic tort action, you would need to be an injured
+plaintiff; and, therefore, you would need to be able to
+say I relied on this to my detriment --
+JUSTICE BREYER: No, no, no.
+MR. GANNON: -- and I want to recover.
+JUSTICE BREYER: You have to prove that the
+-- the liar intended reliance to -- to his detriment.
+MR. GANNON: And --
+JUSTICE BREYER: Which he may or may not
+have done. I mean, when you commit -- a person who
+commits perjury may or may not have intended that a
+victim rely to his detriment. Which you don't have to
+prove here.
+MR. GANNON: We do not have to prove as a
+separate element that there's reliance or intended
+reliance here, but we do need to prove what we think
+satisfies the plain meaning of the term "deceit." We're
+not focusing on fraud here but deceit, and that's the
+act of intentionally giving a false impression, because
+the elements of this offense are making and signing a
+return under the penalties of perjury that it is false
+as to a material matter, that the defendant does not --
+JUSTICE BREYER: Deceit can mean that.
+You're absolutely right.
+MR. GANNON: -- does not believe to be true
+or correct, and it's all done willfully.
+JUSTICE BREYER: No, the tort didn't involve
+that. The tort involved the same element of fraud which
+you don't want to rely on.
+MR. GANNON: That -- that's right, and we
+think here Congress has used the -- the term --
+JUSTICE BREYER: Is there any -- is there
+any evidence of what -- I mean is there any argument
+other than that you just think that and you could argue
+the other way? I mean, can we get anywhere?
+MR. GANNON: Well, I think that Congress did
+use the terms disjunctively here. And I think that now
+the plain meaning of "deceit" is -- it sort of operates
+in the opposite direction of the one that you're talking
+about, Justice Breyer. And if you look at the way the
+Court in Yermian discussed the difference between an
+intent to defraud and intent to deceive, it talks about
+an intent to defraud includes actually obtaining
+something, whereas an intent to deceive just involves
+creating a false impression. And so, I think that
+actually the difference can run the other direction in a
+way that supports the definition that we're relying upon
+here.
+But going back to the point that I was
+trying to make about this not ruling out all tax
+offenses, Justice Ginsburg, I think that the reference
+to 7201 alone doesn't do that, nor do we think the fact
+that Congress then added a limited -- limiting language
+that said that when the revenue loss exceeds $10,000, it
+would satisfy (M)(ii).
+JUSTICE KAGAN: Could I make sure,
+Mr. Gannon, that I understand your argument about
+superfluity? Because when I asked whether (M) -- the
+second provision was superfluous, you pointed me to
+these evasion-of-payment cases. And you cite two of
+them. But then you say even those cases will almost
+invariably involve some affirmative acts of fraud. So,
+are there, in fact, any cases, evasion of payment or
+otherwise, which do not involve some affirmative acts of
+fraud?
+MR. GANNON: Well, I think that's as a
+factual matter, Justice Kagan. We were --
+JUSTICE KAGAN: As a factual matter, are
+there any?
+MR. GANNON: We were observing that as a
+factual matter, those evasion-of-payment cases probably
+would not happen without there being acts of
+concealment, but that doesn't --
+JUSTICE KAGAN: And that's what I'm asking.
+As a factual matter, can you point me to any cases that
+do not involve affirmative acts of fraud?
+MR. GANNON: I don't believe that I can, but
+I think that to the extent that the Court is looking to
+the elements of the offense in 7201, if they're talking
+about evasion of payment, that will not necessarily
+require deceptive acts of concealment. And so, that's
+the reason --
+JUSTICE KAGAN: I know, but we have a very
+active IRS, which prosecutes lots of tax cases, and
+you're saying that it just never prosecutes tax cases
+under this section that don't involve affirmative acts
+of fraud.
+MR. GANNON: Well --
+JUSTICE KAGAN: And that makes me wonder why
+Congress was so worried about this problem that it
+ignored normal rules of statutory interpretation.
+MR. GANNON: Well -- and I believe that the
+reason that they were worried could be because of the
+Scharton decision, in which this Court had already said
+that evasion does not necessarily require fraud, because
+the textual cues in 7201 are much further from fraud and
+deceit than those in 7206; that there's also -- there
+would be less certainty. Even assuming that Congress
+was well aware of the established practice at the
+Federal level of having 7201 tax evasion cases be
+compared with fraud, this is also a provision that
+applies to State and foreign offenses. The penultimate
+sentence of paragraph (43) says that the term applies to
+an offense whether it's in violation of Federal or State
+law.
+JUSTICE GINSBURG: But that was one of the
+problems that was brought up in the amicus brief which
+actually you considered, that reading the (M)(i) to
+include 7206 offenses would also -- would bring in
+offenses that are merely misdemeanors at the State and
+local level. It would really swell the category of tax
+crimes that lead to deportation. That -- did Congress
+really mean to turn misdemeanors into aggravated felons?
+And then there was a very practical point
+made, that the government is going to be hurt more than
+helped by what you are seeking, because we are told that
+very often the government will try to make a bargain.
+It has a 7201 case, but it's going to be a little hard
+to prove. So, they offer as a plea bargain 7206. And
+if you -- if your position prevails, we are told, there
+will be many, many people who will say: If it's a
+question of whether I get thrown out of the United
+States, I'm going to go to trial; I'm not going to plead
+to something that will mean immediately when I serve my
+time I will be thrown out of the United States.
+MR. GANNON: Well, that may well be the
+consequence of the definition that Congress has adopted
+here of aggravated felony. And I would note that in the
+plea agreement that Mr. Kawashima filed in this case,
+paragraph 4, which is reprinted on page 117a of the
+petition appendix says Mr. Kawashima recognizes that he
+may be deported as a result of his conviction. That's
+in his plea agreement to the 7206 offense here.
+And so, it is, to be sure, the case that the
+government may well find it more difficult to secure
+guilty pleas when an alien is -- is admitting to an
+offense that is an aggravated felony. But we think that
+that's a consequence of Congress having expanded the
+definition. In --
+JUSTICE BREYER: Let me go up to start with
+Justice Ginsburg's first question. I mean, if this
+falls within it, 7206, this fraud, what about perjury?
+Is every perjury statute within it? And what about
+lying to an FBI agent? And what about lying to a
+government official, which is -- which is -- you know,
+there are all kinds of statutes on that one.
+MR. GANNON: Well --
+JUSTICE BREYER: Are all those aggravated
+felonies?
+MR. GANNON: Congress has given us two
+different metrics for determining whether those --
+whether those offenses are aggravated felonies. If they
+involve fraud or deceit and there is loss to the victim
+exceeding $10,000 --
+JUSTICE BREYER: Yes, yes.
+MR. GANNON: -- then that it could fall
+within (M)(i). If it's perjury statute that doesn't
+involve loss or a false statement to an FBI agent that
+doesn't involve loss to --
+JUSTICE BREYER: The government's view is
+that, of course, you have to meet the other
+requirements. But as far as the words "fraud" or
+"deceit" is concerned, aggravated felony picks up every
+perjury statute, every lying statute, lying to an FBI
+agent, lying to this or lying to that. And has that
+been the consistent policy of the immigration service?
+Have they deported people where the other two conditions
+are fulfilled?
+MR. GANNON: In the beginning, when the
+amount of loss was $200,000. I think most perjury
+offenses don't involve a loss of more than $10,000 --
+JUSTICE BREYER: But all I need are a few.
+I mean, I just wonder, is it the policy of the INS and
+the government to deport people where these other things
+are met -- which they would be perhaps rarely; I don't
+know -- but to deport them where the crime, the
+underlying crime, is perjury, lying to an FBI agent or
+lying to other government officials?
+MR. GANNON: There -- yes, there are such
+cases. Sometimes they go under (S), which is the
+paragraph for perjury, which was actually not in
+existence when (M)(i) was added to the statute. It was
+added 2 years later. But, more generally, I would like
+to mention that there are other tax offenses --
+Justice Scalia.
+JUSTICE SCALIA: Well, I -- I'm confused by
+the $10,000 requirement. Does that have to be an
+element of the offense?
+MR. GANNON: It does not need to be an
+element of the offense. It's a consequence of the
+Court's decision in Nijhawan.
+JUSTICE SCALIA: Just a consequence of the
+-- of the fraud or deceit, right?
+MR. GANNON: It needs to be tied to the
+offense of conviction under this Court's decision in
+Nijhawan. And most instances where somebody lies to an
+FBI agent probably don't involve costing somebody more
+than $10,000. And so, I think that it doesn't often
+come up in (M)(i). But many other tax offenses are
+prosecuted under other provisions that potentially
+involve fraud or deceits and could -- can cost the
+government more than $10,000.
+And Petitioner's reading of saying that all
+tax offenses have to be pulled into (M)(ii) and then
+only tax evasion is covered would require the Court to
+bifurcate all of these other provisions. And I'm
+thinking of, for instance, 18 U.S.C. 371. This is the
+provision for defrauding the United States by
+obstructing or impeding the IRS in its efforts to
+collect taxation. This Court cited 371 as one of the
+fraud offenses that it thought was covered by (M)(i) in
+the Nijhawan decision.
+The same is true for mail fraud. The
+criminal division, the tax division can prosecute tax
+cases in which somebody mails a false tax return under
+18 U.S.C. 1341. False claims under 18 U.S.C. 287,
+conspiracy to false claims under 286, false statements
+to the government -- these are all provisions that are
+used to prosecute tax offenses. And Petitioner's
+reading of saying that all tax crimes are pulled out
+would require the Court to bifurcate these offenses and
+make whether it's an aggravated felony turn on whether
+the government has lost revenue as opposed to some other
+form of money. And we don't think that that's what
+Congress intended when it went to the trouble of just
+stating that tax evasion was expressly covered.
+And going back, Justice Kagan, to your
+concerns about superfluity, I do think it's important
+that in the context of this statute, there's lots of
+other overlap. Congress had reasons to be unsure in
+light of the Scharton decision, in light of the
+evasion-of-payment cases because, even though as a
+factual matter --
+JUSTICE KAGAN: But it would have been
+perfectly easy for Congress to write a provision which
+said just in case that you -- you know, just in case
+this decision called Scharton has any effect, we mean
+tax evasion, too, without writing it in this way that
+appears to exclude all other tax offenses.
+MR. GANNON: I don't see how -- if Congress
+wanted to exclude all other tax offenses, I think they
+should have put that exception in (M)(i). They should
+have said offenses involving fraud or deceit, but not
+tax offenses, in which the loss to the victim or victims
+exceeds $10,000. If Congress wanted to make an
+exception tax offenses --
+JUSTICE KAGAN: Well, that's just arguing
+against our application of the normal rule of avoiding
+superfluity where we can.
+MR. GANNON: Well, yes. I agree that the
+Court avoids superfluity where it can. Here we have
+contextual reasons to think that Congress was just
+trying to add more offenses to the definition rather
+than rule out an entire class. And I also think that
+there is no way to avoid the consequence of bifurcating
+all of those other provisions under Petitioner's
+reading.
+And so, if you were to say that the
+reference to 7201 pulls out all revenue loss offenses,
+that would mean that some mail fraud cases against the
+government in which the government loses more than
+$10,000 count and some don't. Same for wire fraud.
+Same for false statements. Same for false claims,
+conspiracy to false claims, and Klein conspiracies under
+section 371, which -- which are -- have a great deal of
+overlap with 7201.
+JUSTICE SCALIA: They still wouldn't -- no.
+Why? They still wouldn't be tax offenses.
+MR. GANNON: Well, I -- they would be --
+JUSTICE SCALIA: I mean, you use the mail to
+avoid -- still, what you're being prosecuted for is use
+of the mail to defraud.
+MR. GANNON: But the -- I mean, as I
+understand Petitioner's argument, it is the fact that
+(M)(ii) refers to revenue loss that is the thing that
+makes it pull in or define a category of cases involving
+tax offenses. And I think that if a mail fraud offense
+against the government involved taking -- getting more
+than $10,000 worth of refunds from the government as
+opposed to getting more than $10,000 in an ill-gotten
+government contract or government benefits from the
+government, that that could still be characterized as
+revenue loss.
+JUSTICE SCALIA: Well, he put it -- he put
+it wrong. He should have said -- just tax statutes are
+covered.
+MR. GANNON: Well, that --
+JUSTICE SCALIA: Then -- then you wouldn't
+have to bifurcate, right?
+MR. GANNON: Then I just don't see how the
+reference to a single provision of 7201 refers to all
+other tax provisions --
+JUSTICE SCALIA: Well, it's not just that.
+It's -- it's also that -- that (M)(i) says loss to the
+victim or victims. And (M)(ii) says the revenue loss to
+the government has to exceed 10,000. I mean, in one
+case, it's the loss to the victim or victims. Why --
+why did it use parallel language? Why -- or why did it
+say an offense that involves -- an offense in which the
+loss to the victim or victims exceeds $10,000 and (i)
+involves fraud or deceit or (ii) is described in section
+7201 of Title 26? I mean, if -- if you read it, it
+seems to contrast loss to the victim or victims with
+revenue loss to the government.
+And I find it hard to regard the government
+as a victim in any of these cases, to tell you the
+truth.
+MR. GANNON: Well, I -- none of the courts
+of appeals has had any difficulty concluding that the
+government is a victim when it loses more than $10,000
+in a fraud case or, indeed, in a tax evasion case. And
+so, here, there is a different phrase, but I think
+what's important is that 7201 doesn't define a class of
+revenue loss offenses. Instead, it defines a class of
+tax evasion offenses. It only refers to the one
+statute. And -- and then in that context, where there
+has to be a deficiency in order to -- for there to be a
+7201 conviction, there must be a tax deficiency. Then
+it's natural to talk about the relevant losses being
+revenue loss to the government.
+The phrase in (M)(i) is broader because it
+also applies to other types of frauds. And I think that
+the reference to 7201 alone doesn't indicate Congress is
+intending to read out all tax offenses.
+As Justice Ginsburg mentioned before,
+although 7201 has a 5-year maximum statutory penalty,
+which is longer than the 3-year maximum that applies
+under 7206 and some of the other tax offenses in that
+particular chapter of Title 26, as a practical matter
+the -- the sentencing guidelines use the same thing, the
+-- the same criteria that are both tied to loss. And
+more importantly, a lot of these other offenses, like
+371 and 1341 and 1343 in Title 18, actually have longer
+maximum punishments.
+So, if the government wants -- has a
+particularly big fraud that they want to -- to get after
+somebody who has a tax evasion case in which they've
+cost the government a great deal of money, it may choose
+to proceed under one of the other provisions where it
+can get an even greater punishment. And so, just
+referring to 7201 as the capstone I don't think allows
+it to be a stand-in for all other tax offenses.
+JUSTICE GINSBURG: There's a technical
+aspect of this case I don't understand. Maybe you can
+explain it. There was a question about what might be
+the revenue loss in -- in the case of the wife. Why
+should the revenue loss be different? She's -- she's
+convicted of aiding and abetting.
+MR. GANNON: She -- although it's -- the
+statute itself refers to aiding, assisting, procuring,
+or advising, it's not a traditional aiding and abetting
+statute. It doesn't require there to be an underlying
+primary violation. It's an independent offense.
+And so, as it happens in this case, we all
+know and it's not disputed that they're for the same
+underlying false tax return, the same tax return that
+ended in 1991 for one of the corporations that
+Petitioners co-owned, but -- but we just didn't have
+that evidence in the record.
+And so, I think even though it's an aiding
+and abetting, it's -- it's not a classic aiding and
+abetting violation that depends on the husband's
+conviction. She could have been convicted under 7206,
+too, even if the husband didn't know anything about the
+false numbers that she was providing him from the
+restaurant that they were operating.
+So, if there are no further questions, we'd
+urge the Court to affirm the court of appeals.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Mr. Whalen, you have 8 minutes remaining.
+REBUTTAL ARGUMENT OF THOMAS J. WHALEN
+ON BEHALF OF THE PETITIONERS
+MR. WHALEN: My colleague mentioned the
+Yermian case, which is in our brief, but I failed to
+present it to the Court today. And it's a very
+important case decided by this Court, which said that
+filing a false statement is not -- is not indicative,
+not evidence, of an intent to deceive.
+Similarly, the Harry Bridges case, as also
+decided by this Court, said that -- and the Court held
+that making a false statement about Mr. Bridges'
+involvement with the Communist Party does not evidence
+fraud.
+And these cases, I believe, of this Court
+control the issue that deceit or fraud is not an
+essential element of this crime of conviction.
+Following up what Justice Kagan has said or has asked,
+that the rules -- canons of construction that the
+Petitioner has invoked, the rules of superfluity --
+against superfluity; the idea that the court must give
+cognizance to different words mean different things;
+that is, revenue loss from the government is different
+from loss to a victim or victims; and the specific
+versus the general.
+The answer of the Government is simply
+speculation and conjecture of, among other things,
+courts make the wrong decisions; Congress didn't
+understand that tax evasion does involve fraud; and,
+therefore, it will be superfluous.
+The position of the Government in this case
+is simply that tax evasion may not be in 72 -- or may
+not be in (M)(ii), the reason that -- rather, that fraud
+and deceit may not be in tax evasion, but that a lesser
+revenue offense is in (M)(i).
+I would like to remind the Court, as many of
+the Justices have indicated, that we're not looking at
+an idea of someone who suffers a penalty because -- as a
+result of the tax offense. We're talking about
+banishment. And we're talking about deportation. And
+the statute in which we're -- of which we're involved
+should be read in favor -- where the Congress has not
+been clear, the statute should be read in favor of the
+immigrant.
+JUSTICE GINSBURG: Although it's not a
+criminal statute?
+MR. WHALEN: Pardon me, Your Honor.
+JUSTICE GINSBURG: It's not a criminal
+statute.
+MR. WHALEN: This Court in the Fong case
+said that the rule of lenity applies to an immigration
+case. And the holdings of this Court have been
+consistent that the rule of lenity applies to both
+criminal cases as well as immigration cases. And I
+invite the Court to look at the cases we have cited that
+the rule of lenity has applied, in fact, to immigration
+cases.
+JUSTICE GINSBURG: There -- there's one
+technical feature, too, that I also didn't understand.
+The particular tax here in question, the failure to
+report was 76-some thousand dollars, but the number that
+was given for the total failure to report is over
+1 million, and the -- the loss to the IRS at -- is
+245,000. Well, the 245,000 loss must refer to more than
+the failure to report 76,000.
+MR. WHALEN: The threshold amount is not an
+issue in the case.
+JUSTICE GINSBURG: I'd just like to know how
+we got -- how the 245,000 revenue loss was calculated,
+given that the crime that was charged, the failure was
+to report only 76,000?
+MR. WHALEN: I don't know. It was in
+negotiations between the government and the Kawashimas.
+In any compromise, the government chose only to charge
+them with a crime under 7206, which -- and to settle on
+that basis. As Justice Alito has mentioned in the
+Padilla case quite emphatically, that attorneys
+representing immigrants deal with the government in
+order to avoid deportation. And that -- in this case
+whether the Kawashimas in fact had filed false returns
+in an attempt to deceive, that was by the boards,
+because the government and the taxpayer agreed that
+their offense would be solely 7206, which as you read
+the elements -- and you can read the Justice Department
+handbook which tells you what the elements are, and it
+does not include fraud and deceit.
+If there are no further questions, I --
+finally, I would like to mention one case which hasn't
+been brought up, which evolved from the questions by the
+Justices, and that is a Third Circuit case which we
+cited, Nugent, mentioned in response to Justice Breyer's
+question, that the Nugent case said that you must
+fulfill both elements, that is perjury, (S) under the
+statute, and if it's included in fraud and deceit, you
+must fulfill the elements of both crimes at issue.
+And, of course, in this case, the Kawashimas
+did not -- were imprisoned for 4 months and did not meet
+the statutory requirement for an aggravated felony of 1
+year.
+But in any event, I want -- I would like the
+Court to keep in mind that what we are dealing here with
+is perjury, and we're not dealing with fraud or deceit,
+as agreed to by the government and the taxpayer. And
+that, I suggest to the Court, should be dispositive in
+the decision in this case.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+The case is submitted.
+(Whereupon, at 12:08 p.m., the case in the
+above-entitled matter was submitted.)
+23:14 29:12 basic 23:24 C
+47:7 33:12 asked 30:12 beginning 16:20 called 37:16
+alien 33:15 assessment 12:3 31:6,21 43:13 captured 15:22
+9:12 allows 41:20 18:14 21:18 benefits 39:10 carry 16:14
+28:23 amicus 32:11 assets 9:18 better 10:17 case 3:4 6:14,15
+28:4,5 answer 21:10,12 associated 24:23 bifurcating 38:9 25:2 32:22
+31:1,5 appeal 22:2 attempt 9:23 bit 7:25 40:15 41:16,23
+appeals 40:13 12:8 14:2,9 boards 46:4 41:25 42:8
+35:11,12 1:15 46:4 26:15 27:13,18 45:25 46:2,11
+31:5 44:24 45:1 avoids 38:5 32:11 43:3 32:4 35:9
+apply 21:1 22:20 aware 32:3 briefs 12:22 36:19 37:11
+35:6 23:12 a.m 1:14 3:2 bring 3:13 6:21 40:10 43:13
+appropriate 9:25 32:13 45:2,2,3,5
+B broader 40:25 category 26:2,5
+10:23 argue 29:13 back 11:23 30:3 broadly 22:10 26:8 32:15
+14:21 arguing 7:19 37:6 brought 32:11 39:5
+16:25 38:1 banishment 46:12 certain 24:25
+21:8 argument 1:13 44:13 building 24:12 certainly 18:22
+25:16 2:2,5,8 3:3,6 bank 8:25 18:3 burden 12:5 certainty 32:2
+27:15 9:11 10:19 bargain 32:21 business 24:24 challenge 11:20
+colorful 15:14 Congress's 17:9 corporate 3:13 4:6 8:20 15:20
+10:5 45:18 24:15 connotes 21:22 correct 6:4,6 25:12,12,14,14
+17:3 25:2 33:6,17 35:19 cost 36:5 41:17 35:6 43:15
+19:19 Commissioner 35:21 38:9 costing 36:1 45:18,23
+22:1 11:14 consequences counsel 13:3 crimes 6:25 10:7
+47:4 commit 6:25 27:15 17:3 19:19 13:23,24 16:9
+committing 32:12 count 38:16 32:16 36:24
+45:3 Communist 38:18 counts 18:18 44:19,21 45:2
+43:11 conspiracy 20:14 criteria 41:10
+19:10 compromise construction 46:19 15:15
+21:14
+13:12 23:24 court 1:1,13 3:9 cues 31:25
+18:1 31:2,10 contesting 18:17 6:3,14,24 7:20 2:6 17:5
+22:15 34:17 18:22 19:1,8,9 11:7 13:11,17 C's 27:19
+concluded 18:24 22:19 24:4,18 27:12 28:2 D
+40:13 37:8 40:20 36:9,14,25 damage 13:20
+confuses 18:16 controls 25:25 46:24 47:2 46:1
+12:4,10,12 convey 5:11 40:12 44:1 46:24,25
+22:13,14 23:8 12:2 18:16 covered 19:22 deceit 4:6,8,11
+5:5,8,13
+conviction 3:14 24:8 26:13,14 6:20 7:17,18
+32:2,16 33:6 23:20 33:11 covers 20:7 11:11,12 12:11
+15:6,20 27:11 dispositive 47:2 24:25 evolved 46:12
+16:19 defraud 4:13 dispute 25:11 ERIC 1:6 exactly 4:25
+18:11 11:2 29:21,22 disputed 42:9 ESQ 1:16,18 2:3 example 15:14
+20:4,6,9 39:1 distinguished 2:6,9 15:15,19,19
+21:4 defrauding 22:25 essence 4:3 exceed 39:25
+23:18 36:12 distinguishes essential 43:15 exceeding 34:8
+25:9,19 denying 11:12 18:12 establish 5:13 exceeds 30:8
+Department divisible 20:9,25 18:9,13 21:8 37:24 40:4
+1:19 3:22 4:5 division 36:18 26:5 exception 21:16
+28:21 5:19 6:17 46:7 36:18 established 32:3 37:21,25
+29:2,17 depends 42:16 document 5:10 estop 11:11 exceptions
+34:7,17 deport 35:3,5 documents 21:3 estopped 11:21 12:19
+37:22 deportation dollars 45:9 18:17 excess 13:15,16
+43:14 32:16 44:13 drafter 10:4,5 estoppel 19:17 exclude 37:18
+46:9,17 46:2 drafting 10:5 21:14 37:20
+deported 33:11 due 18:25 19:6 ET 1:3 Excuse 19:21
+7:23 11:2 described 40:5 16:15,17 15:10,11 16:13 expanded 33:17
+43:7 designated D.C 1:9,16,19 18:13,24 21:19 explain 41:24
+14:23 21:21,24 22:5 explained 25:23
+35:20,24 determines 11:4 effect 11:16 evasion 5:6 8:20 37:5
+37:10,16 determining 19:17 37:16 8:22,23 9:2 extended 22:20
+34:5 efforts 36:13 11:20 14:13,25 extent 31:7
+difference 5:4 element 4:6 5:5 18:10,21 19:8 F
+22:9 different 13:13 28:19 29:7 20:13,14 22:22 fact 14:2 23:8
+43:21 27:25 28:24 31:9,24 32:4 30:21,22,25
+difficulty 40:13 46:18 40:15,19 41:16 failed 43:3
+17:10 discuss 17:18 21:2 event 46:23 fairly 16:15
+24:5 discussed 29:20 ended 42:11 evidence 4:20 fall 20:11 27:16
+33:6,18 discussing 19:9 ensure 8:5 6:25 7:22 12:6 34:10
+disjunctively entire 38:8 29:12 42:13 falls 33:21
+7:23 22:2 45:18 H
+5:1,11,16 fire 24:12 fulfill 46:16,18 giving 4:22,23 H 1:6
+6:1,9 7:3 first 27:5 33:20 fulfilled 34:22 28:23 handbook 46:8
+8:1 fit 26:18 furnish 20:23 gloss 6:8 happen 31:1
+9:4 10:10 fits 25:17 furnishing 21:1 go 3:20 5:17 happens 8:9
+focus 16:2 further 31:25 10:12 26:22 17:25 42:8
+21:1,3 focusing 28:22 42:21 46:10 33:2,19 35:9 hard 32:22 40:9
+22:3 Following 43:16 God 10:13 Harry 43:8
+28:23,25 follow-on 19:17 G goes 9:17,17 ha-ha-ha 9:20
+34:12 Fong 44:23 G 3:1 11:22 10:15
+foreign 32:6 Gannon 1:18 going 10:14 13:5 HCSC-Laundry
+form 37:3 2:6 17:4,5,7,13 14:6,20 15:15 26:6,10
+43:6 forth 27:19 17:17 18:8,22 18:9 23:20 hear 3:3
+46:3 fraud 4:6,7,10 19:24 20:1,3 24:20 30:3 heavier 25:12
+35:6 12:6,10 13:23 27:10,17,24 gonna 14:8 hey 10:11
+13:23 14:4,8 28:1,9,12,18 good 27:8 Holder 1:6 3:4
+17:15 18:11,18 31:6,17,21 8:18 9:6,8,25 5:24 6:2,5,13
+27:15 19:6,10,11,23 34:23 35:8,18 12:5,7 13:16 14:20 15:19
+20:4,6,9,22 35:23 37:19 13:21 16:12,25 44:20
+10:23 23:9,18,21 42:3 33:14,24 35:3 husband 42:18
+14:21 25:9,19 26:19 general 1:7,19 35:7 36:6,22 husband's 42:16
+16:25 26:21,23,23 25:25 43:23 37:2 38:15,15 hypervigilant
+21:8 27:5,8,11,21 generally 8:9 39:7,8,10,10 23:15
+26:18 27:22,23 28:2 23:6 24:8 26:3 39:11,25 40:8 hypothetical
+34:17 28:22 29:7 35:12 40:9,14,24 23:19
+46:21 30:16,19 31:5 generic 24:22 41:14,17 43:21
+20:20 34:7,16 35:22 Ginsburg 4:21 46:5 47:1 identified 26:8
+37:22 38:14,16 15:24 16:10 13:22 15:23 ii 13:15,17,24
+16:6 18:6 41:15 43:12,14 32:10 41:4,22 great 38:19 24:21,21,24
+19:15 44:2,6 46:9,17 44:18,21 45:6 41:17 25:7,24 26:1
+46:25 45:16 greater 41:19 26:13,14 30:9
+21:19,21,24 give 5:1 43:19 33:15 illustrate 11:6
+injuries 13:20 involvement 29:2,6,11,19 15:17
+instance 36:11 involves 7:17,18 31:3,12,18 lead 32:16
+46:1 35:25 18:19,21 27:1 34:2,9,14 35:1 leaving 18:4
+34:20 intended 12:10 40:3,5 37:6,13 38:1 16:17
+45:2,4 28:11,15,19 involving 16:23 38:21,24 39:13 lenity 44:24 45:1
+40:17 intent 4:20,24 IRS 5:2,16,19 43:16 44:18,21 lesser 25:10 44:7
+5:2,5 8:2 9:7 6:16,21,25 45:6,16,24 level 32:4,15
+41:11 18:24 21:19,21 21:17 31:13 Justices 11:9 liar 28:11
+5:1,11 26:24,25 29:21 IRS's 17:24 15:7
+29:24 29:21,22,23 issue 3:13 10:23 K lied 4:8,9
+intention 4:12 45:15 46:18 Kagan 17:13 lifts 21:17
+intentionally 4:9 J 24:17 30:10,21 limitation 21:17
+25:5 7:7 28:23 42:25 31:18 37:6,13 11:24 12:20
+Internal 6:16 JR 1:6 38:1 43:16 22:12,19,20
+23:5 14:23 16:7,9 3:8,22 4:5,7,14 3:4,10 33:8,10 limited 30:7
+16:14 4:17,21 5:3,9 Kawashimas limiting 30:7
+31:20 6:6,17 7:2,8,11 keep 46:24 24:24 32:22
+15:13 invariably 30:16 8:21 9:4,9,16 5:22,25 6:4,6 longer 41:6,12
+invite 45:3 9:22 10:2 kind 18:20 look 22:7 24:4
+invoked 43:18 13:1,3 14:1,14 Klein 38:18 45:3
+18:1,11 20:4,6 16:1,2,10 17:3 14:6,7 31:12 loses 38:15
+20:21 36:5 44:2 25:7,10 26:15 language 23:25 38:13 39:4,12
+40:1 29:1 30:21,22 17:22 37:3 obvious 5:9 29:18
+30:25 31:4 41:17 offense 6:16 oral 1:12 2:2,5
+42:1 37:12 41:8 month 9:19 11:4 14:22,22 3:6 17:5
+45:11 47:7 months 46:20 18:10 19:3 order 6:15 21:8
+mattress 9:1,2 moral 18:19 21:2 22:17 26:5 40:21
+15:12 19:24 23:1,13 N 2:1,1 3:1 40:3,3 42:7 owe 14:7 17:22
+34:18 25:11 28:14 narrow 10:24 44:8,12 46:6 19:16
+29:2,12,14 natural 40:23 offenses 6:19
+32:17 33:3,20 necessarily 14:5 17:11 P
+37:16 18:11 20:4,6 19:2 20:3,8,19 P 3:1
+43:20 need 5:10 10:11 23:17 24:11,23 33:9
+meaning 7:22 18:12 28:5,6 25:5 26:2,8,10 paid 8:5
+17:10 28:21 29:17 28:20 35:1,18 26:13 28:2 paradoxical
+21:7 meanings 13:13 needed 23:9 30:5 32:6,13 23:13
+25:18 means 6:21 7:4 needs 35:23 32:14 34:6,25 paragraph 24:4
+26:1,6 7:6,12 27:23 negotiations 35:13 36:3,8 24:10,19 32:7
+30:9 meant 25:15 45:21 36:15,23,25 33:9 35:10
+32:12 meet 34:15 neither 27:6 37:18,20,22,23 parallel 40:2
+35:11 46:20 never 13:5 21:6 37:25 38:7,13 Pardon 5:24
+mention 18:4 31:14 38:22 39:6 44:20
+39:4,23 24:20 35:13 Nijhawan 13:17 40:18,19 41:3 part 13:9 24:2
+40:25 46:11 35:20,25 36:16 41:7,11,21 25:22
+mentioned normal 31:20 offer 32:23 particular 12:24
+39:1,6 43:2 45:24 note 19:7 22:12 officials 35:7 particularly
+7:4,13,20 met 35:4 Nugent 46:14,15 old 22:18,24 parts 20:5,22
+23:16 metrics 34:5 number 27:20 once 9:19 party 8:2 43:11
+28:24 million 45:11 45:9 ones 17:18 19:2 pay 9:1,24 14:8
+mind 46:24 numbers 42:19 20:16 24:21 16:5 20:20
+misdemeanor O 2:1 3:1 openly 8:25 17:19 18:14
+24:16 money 8:25 14:7 obtaining 29:22 opposite 16:1 19:10,11 25:13
+44:11 14:2 15:2 5:21 8:11,11 R 3:1 regard 40:9
+35:2 12:7 16:13 rarely 35:4 reliance 8:6,8
+35:3 15:23 32:24 28:20 32:23 read 6:11 10:6,7 relied 8:15 28:7
+7:21 8:10 23:19 provided 5:18 44:15,16 46:6 relying 8:4 30:1
+27:7 postcard 9:19 providing 42:19 46:7 remainder 17:1
+33:21 postcards 14:7 proving 4:8 12:6 reading 6:7 remaining 42:24
+34:11,18 potentially 36:4 provision 13:18 32:12 36:7,24 remind 44:9
+35:6,10 power 23:1 15:2 21:15 38:11 remove 17:11
+practical 32:18 22:9,12 23:4 really 6:19 10:4 removing 17:24
+27:2 practice 21:4 32:5 36:12 32:15,17 report 15:13
+32:3 37:14 39:20 reason 12:11 16:11 45:9,10
+2:4,10 3:7 43:4 41:18 37:9 38:6 reprint 23:5
+42:12 presenting 21:3 pull 23:9 39:5 rebuttal 2:8 reprinted 21:15
+prevails 32:24 pulled 26:6 36:8 17:2 42:25 33:9
+38:10 primary 42:7 pulls 24:10 recognizes 10:25 14:3,3,5
+probably 18:9 38:13 33:10 19:3 21:7 28:2
+31:19 41:13 recovery 11:22 19:12
+proceed 41:18 pursued 23:11 27:19 45:12 21:7 35:16
+procuring 42:4 p.m 47:6 30:5 38:13 5:14 34:16
+prosecute 36:18 26:9,17 33:1 refers 21:18 respect 25:16
+38:25 questions 42:21 40:19 42:4 response 46:14
+31:4 prosecutes 46:10,12 reflected 11:25 rest 24:4
+31:13,14 quite 15:25 reflecting 20:24 restaurant
+24:23 25:2 refuse 9:1 result 33:11
+11:10 26:14,21 32:7 signing 28:24 8:2,4,24 10:10 47:2
+17:21 33:10 39:23,24 similar 23:11 11:1,18 16:3 suggesting 15:8
+19:13 Scalia 4:7,14,17 Similarly 11:19 20:23 21:1 suit 18:18
+20:20 7:2,8,11,16 43:8 26:22 34:12 superfluity
+28:25 13:1,3 14:1,14 simple 10:4 43:6,10 24:16 30:12
+42:10,10 14:17 15:3,10 simple-minded statements 8:7 37:7 38:3,5
+13:16,18 35:21 38:21,24 6:20,24 7:20 States 1:1,13 23:25 24:2
+14:22,23 39:13,17,22 11:17 15:13 3:11 33:2,4 25:24 30:13
+Scharton 22:18 16:5,11 43:24 36:12 44:3
+37:2 22:24 31:23 44:5 stating 37:5 super-careful
+39:4,12 37:10,16 single 14:18 statute 3:16,21 23:22
+40:8,18 scope 17:12 39:20 3:21,23 4:2,4 supply 20:21
+41:25 second 13:9 27:6 solely 46:6 5:6 6:8 7:21 supports 30:1
+43:21 30:13 Solicitor 1:18 8:10 10:23 suppose 9:16
+45:17 section 5:6,8 somebody 6:22 11:23 12:20,24 18:15 26:16,17
+22:4 20:18 23:3 17:21 18:16 23:4 24:16 23:16 25:6
+29:3,9 31:15 38:19 35:25 36:1,19 26:7 27:6,9,14 30:10 33:13
+39:18 40:5 41:16 33:22 34:11,18 surprised 9:14
+17:3 see 8:3,6,8 10:8 18:2 37:8 40:20 22:13
+21:9 24:5 37:19 sorry 7:24 12:14 42:4,6 44:14 swell 32:15
+42:23 39:19 sort 29:17 44:16,19,22 Swiss 18:3
+seek 11:22 21:18 Sotomayor 7:24 46:17 synonymous
+44:24
+16:1 19:21,25 13:11 16:21,22
+seeks 12:2 20:2,11,15 24:25 25:19 T
+43:22 46:21 talk 40:23
+27:14 speculation submit 5:10 7:7 21:15 24:3
+9:19 settle 45:23 start 33:19 17:10,12 24:7
+26:13 show 6:17 17:15 statement 3:12 suffers 44:11 7:21 8:3,5,12
+36:7,24 shown 7:1 19:13 4:19 5:16 6:1 suggest 13:19 8:13,20,22,22
+9:2,12 terrible 27:15 told 32:20,24 understates W
+text 13:1,6 tort 27:3 28:4,5 19:15 Walters 11:14
+14:3,10 textual 31:25 29:6,7 unintentionally want 5:11 7:8,11
+textually 25:8 torts 26:23 6:23 28:9 29:8
+16:13,18 Thank 17:3 total 45:10 United 1:1,13 41:15 46:23
+17:9,11 42:23 47:4 totally 10:16 3:11 33:1,4 wanted 8:18
+18:9 thing 4:3 18:11 tracks 22:11 36:12 25:6 37:20,24
+20:14 23:14 traditional 27:3 unpaid 12:3 wants 41:14
+24:10 39:4 27:25 42:5 unreported 8:12 Washington 1:9
+41:9 traditionally unsure 37:9 1:16,19
+things 18:20 26:24 unsurprising way 6:9,10 15:5
+35:3 43:20,25 transporting 23:11 18:2 29:14,19
+think 6:8 10:11 25:1 upheld 15:23 30:1 37:17
+23:7 16:1 17:13 treaty 9:18 urge 42:22 38:9
+18:20 19:22 trial 33:2 use 29:16 38:24 went 9:23 37:4
+20:25 21:13,20 tried 16:2 38:25 40:2 We'll 3:3
+21:25 22:2,7 trigger 19:17 41:9 we're 10:22
+31:13,14 22:11 23:8,15 21:6 useless 15:2 21:15 24:3
+35:13 24:2,3,17 25:4 triggered 19:12 uses 21:23 28:21 30:1
+25:7,8,21,25 22:21 26:1 usually 17:23 44:10,12,13,14
+26:1 27:10 trouble 37:4 utterly 23:23,23 44:14 46:25
+28:4,20 29:10 true 6:9 24:10 UX 1:3 Whalen 1:16 2:3
+38:22 29:13,15,16,24 29:4 36:17 U.S.C 3:14 4:3 2:9 3:5,6,8
+30:5,6,20 31:7 truth 3:24 40:11 12:15 20:19 4:12,16,18,21
+33:16 34:24 truthful 8:7 36:11,20,20 5:3,14,24 6:2,5
+36:2 37:3,7,20 truthfully 20:7 6:13 7:6,10,15
+44:2 38:6,8 39:6 try 10:6 32:21 V
+8:8,17 9:3
+45:8 40:16 41:1,20 trying 5:4 15:18 v 1:5 3:4 9:6,14,25
+thinking 23:19 turn 32:17 37:1 versus 43:23 12:23 13:2,7
+11:23 third 13:20 two 30:14 34:4 25:20 28:16 15:8,18 16:8
+16:5 16:23 46:13 34:21 34:7 37:23 16:12 42:24,25
+THOMAS 1:16 types 41:1 39:24 40:1,4,7 43:2 44:20,23
+46:5 thought 10:13 U victims 13:15 wife 41:25
+36:15 underlying 35:6 37:23 39:24 willful 5:22,23
+threshold 45:14 undermine view 34:14 20:20 22:8
+40:10 tied 35:23 41:10 understand violate 10:3,13 6:18,20,23,24
+29:10 times 3:17 45:7 16:8 32:8 42:7 willfulness 7:14
+Title 40:6 41:8 understatement 42:16 wire 38:16
+today 43:4 19:12 virtually 25:4 wonder 31:18
+1001 4:4 7
+34:16 12:08 47:6 72 44:5
+1341 36:20 7201 5:6 10:2,3
+1343 41:12 15:8 16:17
+22:4 1985 3:11 30:6 31:8,25
+38:21,22 1991 42:11 32:4,22 38:13
+38:20 39:20
+37:14 2 10:8 22:8 41:2,5,20
+2011 1:10 7203 18:10 20:9
+37:17 45:12,17 7204 20:22
+20:19 40:6 5:15 8:9 10:25
+23:2 286 36:21 15:7 16:17
+44:1 287 36:20 19:1,3 21:23
+22:3 25:9,10
+2:4 26:17,18,20
+41:6
+4 7207 21:2
+33:9 46:20 76 10:7
+21:6 30:8 32:7
+35:16
+37:24 5 8 42:24
+39:8,9 5-year 41:5 8441 24:13
+12:1,12,15
+6501(c)(i) 21:10
+45:11 46:21 6501(c)(1) 12:17
+13:16 21:16 22:6
+6531 23:3,10
+1:5 3:4

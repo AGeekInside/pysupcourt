@@ -1,0 +1,1707 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+ROCKWELL INTERNATIONAL CORP., :
+ET AL., :
+Petitioners :
+v. : No. 05-1272
+UNITED STATES, ET AL. :
+- - - - - - - - - - - - - - - - - x
+Washington, D.C.
+Tuesday, December 5, 2006
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 11:09 a.m.
+APPEARANCES:
+MAUREEN E. MAHONEY, ESQ., Washington, D.C.; on
+behalf of Petitioners.
+MARIA T. VULLO, ESQ., New York, N.Y.; on behalf of
+Respondent Stone
+MALCOLM L. STEWART, ESQ., Assistant to the Solicitor
+General, Department of Justice, Washington, D.C.;
+on behalf of Respondent United States
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+MAUREEN E. MAHONEY, ESQ.
+On behalf of the Petitioners 3
+ORAL ARGUMENT OF
+MARIA T. VULLO, ESQ.
+On behalf of Respondent Stone 24
+ORAL ARGUMENT OF
+MALCOLM L. STEWART, ESQ.
+On behalf of Respondent United States 37
+REBUTTAL ARGUMENT OF
+MAUREEN E. MAHONEY, ESQ.
+On behalf of the Petitioners 52
+P R O C E E D I N G S
+(11:09 a.m.)
+CHIEF JUSTICE ROBERTS: We will hear
+argument next in 05-1272, Rockwell International
+Corporation versus United States.
+Ms. Mahoney.
+ORAL ARGUMENT OF MAUREEN E. MAHONEY
+ON BEHALF OF PETITIONERS
+MS. MAHONEY: Mr. Chief Justice, and may it
+please the Court:
+The Tenth Circuit in this case correctly
+held that Stone could not share in the award given by
+the jury unless he was an original source of pondcrete
+allegations. But it then went on to find that he was an
+original source based upon a misinterpretation of the
+core requirements of the statutory definition.
+JUSTICE SCALIA: Ms. Mahoney, let me ask you
+a question. Am I wrong about this? It seems to me that
+if he was not an original source, not only shouldn't he
+get any money, but neither should the government. Isn't
+that the way the statute reads?
+MS. MAHONEY: Your Honor, that is one
+possible interpretation of the statute.
+JUSTICE SCALIA: How is there any other
+possible one? It says there's no jurisdiction in this
+situation.
+MS. MAHONEY: I think the way that the
+courts have handled it below is that it says that
+there's no jurisdiction unless it is a claim brought by
+a relator who is an original source or if it's brought
+by the United States. And if the relator drops out, I
+think courts deem it to at that point be viewed as a
+claim brought by the United States. It's sort of a
+retroactive amendment of the pleadings.
+JUSTICE SCALIA: It's not brought by the
+United States as long as he's still there.
+MS. MAHONEY: That's correct.
+JUSTICE SCALIA: That's your argument.
+MS. MAHONEY: Well, it can't be, Your Honor,
+because under the statutory terms, under section 3720(a)
+the Attorney General has the authority to bring a claim
+on behalf of the United States. There is no authority
+for the United States to bring a claim on behalf of the
+relator. Instead there is a second type of claim under
+section 3730, and that's a section (b), which authorizes
+a relator to bring a claim on behalf of himself and the
+United States.
+Similarly, Your Honor, if you look at the
+provisions in section (d), which authorize an award to a
+relator, it requires that the action be one brought
+under section (b), that is in other words it be an
+action brought by the relator which the United States
+then proceeds on for (d)(1).
+JUSTICE SCALIA: I guess it really depends
+on whether you think the language "if the Government
+proceeds with an action" is equivalent to the
+Government's bringing the action.
+MS. MAHONEY: Well, I don't think it can be,
+Your Honor, because if you look at the language
+throughout these sections, it differentiates between two
+kinds of actions, actions brought by the United States
+or the Attorney General and actions brought by the
+relator. And it is only an action brought by the
+relator under section (b) that authorizes an award under
+section (d). And it consistently talks about that.
+What they're really arguing, Your Honor, is
+that --
+JUSTICE SCALIA: Well, wait. It says under
+3, what is it, (c)(3) I guess, if the elects not to
+proceed with the action, the person who initiated the
+action shall have the right to conduct the action. Now,
+that suggests that if the Government intervenes the
+Government is proceeding with the action, right?
+MS. MAHONEY: That's correct.
+JUSTICE SCALIA: But you say that's
+different from the Government bringing the action.
+MS. MAHONEY: Absolutely. If you look at,
+if you look at the language in section (d), for
+instance, it says if the government proceeds with an
+action brought by a person under section, subsection
+(b). In other words, it has to be an action under
+subsection (b) in order to authorize an award at all.
+The Government has -- has authority under subsection (a)
+to bring an action, but it has no authority to bring it
+on behalf of the relator.
+The statute consistently uses these same
+terms, and this Court in Graham County, which was a
+decision dealing with the statute of limitations,
+actually described this section in the same way, saying
+that there are two kinds of actions, those that are
+brought by the Attorney General under subsection (a) and
+those that are brought by a relator under subsection
+(b), which the United States can then proceed with.
+What the relator is really arguing here is
+that if you look at the -- at subsection (e)(4), they're
+adding a phrase that's not there. They're saying that
+there's no jurisdiction over an action under this
+section if it is brought by the Attorney General or
+brought by a relator who is an original source or the
+United States intervenes and proceeds with the action.
+And that's not in here.
+JUSTICE SCALIA: You're being very
+picky-picky with this text, considering that you're
+willing to swallow whole the notion that so long as
+the -- so long as the original party, so long as the
+non-government plaintiff drops out, all of a sudden it
+become as action brought by the United States. That's a
+very, very expansive notion of what "brought by the
+United States" means.
+What I'm saying is or, to put it another
+way, if you take your picky-picky notion of being
+brought by the United States, to be logical about it you
+must reach the conclusion that if you defeat the private
+plaintiff under -- under he's not original source, the
+whole thing is thrown out, not just his recovery but the
+Government's recovery.
+MS. MAHONEY: Your Honor, of course that
+would be great for Rockwell, and so --
+JUSTICE SCALIA: I know, but it would be so
+extreme that we're not likely to buy it.
+MS. MAHONEY: Well, we don't argue for that
+because I think that the Court has said that the
+Government's intervention does not cure defects with
+respect to the relator, and therefore, if the relator
+didn't have -- that -- doesn't have standing -- you
+know, part of this goes to the issue of the Stevens
+assignment. If they don't have an assignment, then they
+don't even have standing to be in the action, they have
+no right to recover.
+And so if you're correct that it can't be
+cured, in effect, through a procedure like, say, 28
+U.S.C. section 1553, which allows amendments to
+defective jurisdictional allegations where I think that,
+while the courts don't technically require it, they
+could say that really this, while it was pled as a
+section (b) action, when the relator drops out we could
+treat it as a section (a) action, because --
+JUSTICE GINSBURG: Otherwise, the Attorney
+General could just bring it all over again, a fresh
+complaint, and that would be wasted motion?
+MS. MAHONEY: That's correct, Your Honor. I
+think it is a pragmatic rule. But again, if the rule is
+that they lose as well, then so be it. The fact is this
+statute uses the term that is used in section (a), which
+is "brought by the United States." And it makes perfect
+sense because otherwise think of what the consequences
+are if the relator can simply copy an indictment, file a
+complaint, and say -- and the Government intervenes
+because it's a major action, and then they say, aha,
+you're stuck with me because you've intervened and now
+there's jurisdiction and there's no problem, I don't
+have to be an original source.
+JUSTICE SCALIA: They don't have to give
+them any money, though. The court doesn't have to.
+MS. MAHONEY: Your Honor, I think that you
+could say that they don't have to give them money.
+JUSTICE SCALIA: But you'd then have to pay
+his attorneys' fees. That's what really this is about,
+isn't it?
+MS. MAHONEY: Well, it is about that, but we
+don't have to pay his attorneys' fees, Your Honor, if he
+doesn't get a share, because the way that section (d) is
+written is it says that a relator who is paid a share of
+the proceeds shall also be entitled to attorneys' fees.
+So this is not just an issue between the United States
+and Stone. The statute controls the award of fees based
+upon whether he's entitled to a share. So even if this
+weren't an issue of jurisdiction, if he's not entitled
+to a share under a section (d)(1), then he's also not
+entitled to attorneys' fees. And therefore, we would
+win. He would still need to -- whether it's a
+jurisdictional rule or a substantive rule, if he's not
+an original source he's out.
+But the share is not the only issue that
+makes the Government's -- or that makes Stone's argument
+implausible here. That is that once the relator is in
+the action, the United States can't get them out of the
+action. Even if they don't have to pay them money,
+under subsection (c) they have a whole range of rights
+to participate in the action. They can't dismiss the
+relator. So it makes no sense to read this statute to
+say that someone who copies an indictment, files a
+complaint, the Government intervenes, they're in there
+forever. It instead makes much more sense to read the
+terms the way they're used elsewhere in the statute, to
+mean that there is only jurisdiction if it is a section
+(a) claim brought by the United States on behalf of
+itself or if it is a section b) claim by a relator that
+is an original source. That's what makes sense of the
+statute as a whole.
+If I could turn to the issue of whether or
+not the Tenth Circuit correctly held that Stone had
+direct and independent knowledge of the information on
+which his allegations were based. It bears emphasis
+that every act that he had to prove in order to recover
+on the pondcrete allegations -- whether they're measured
+at the beginning of the case or the end of the case
+doesn't matter -- every single act occurred after he
+left the plaintiff, after he had left his job. And we
+can see that from the outset of the case. If you look
+at his Responses to Interrogatories at JA-189 to 190, he
+identifies the factual basis for the pondcrete
+allegations that he is asserting. And that factual
+basis is described he is asserting and that factual
+basis is described as Rockwell's knowing storage of
+pondcrete on outdoor pads at the plant in violation of
+RCRA with false certification from 1987 to 1989.
+Now, he left his job in March of 1986. How
+could he possibly have direct and independent knowledge
+of those predicate acts?
+JUSTICE KENNEDY: Well, suppose a company
+has a plan to defraud the Government and it use a
+certain chemical mix to save money and that's what the
+real fraud is. And it puts it in place and it puts it
+in place in 1988. And the -- and it has just two
+containers full of this. And the relator knows about
+it. The relator then quits. Then for 10 years the
+company does the same thing, following the same
+patterns, same method, same improper formula.
+And he then rings -- he then brings this to
+the attention of the Government in the proper way and
+files a suit. He cannot recover for the later action
+which was the same pattern, practice?
+MS. MAHONEY: Perhaps, Your Honor, in
+certain circumstances. I think the key question is
+what's the standard, and he has to have substantial
+knowledge about core fraudulent acts. And it may be
+reasonable in your hypothetical or some others to infer
+that he knew plenty about this fraudulent conduct and
+had plenty of reason to conclude that it was continuing
+on.
+But here, Your Honor, nothing of the kind
+happened. He didn't know about any fraudulent conduct
+pertaining to pondcrete before he left. And In fact,
+his allegations start in 1987. He does not say that
+there were pondcrete violations before then and indeed
+there were not.
+The reason there weren't is because when he
+was at the plant Rockwell was producing hard pondcrete,
+hard pondcrete, and it wasn't storing it on site, it was
+shipping it to Nevada. So he couldn't -- and it wasn't
+even clear that it was subject to RCRA because DOE
+didn't enter into a RCRA compliance agreement until
+after he left.
+He also concedes in his deposition that he
+was not, except with one exception -- he was not aware
+of any time when Rockwell affirmatively represented that
+it was in compliance with environmental safety and
+health provisions when it was not. That's JA-106. So
+he didn't -- unlike your hypothetical, he didn't know
+anything about there being a pondcrete fraud prior to
+the time of his departure and doesn't even allege one.
+Instead, what the Tenth Circuit rested upon was the fact
+that he had reviewed a design for making pondcrete 5
+years -- in fact, not for making pondcrete; it was
+actually a design for removing sludge from the ponds --
+5 years before any of the events at issue here, and he
+said he predicted there would be a design problem.
+CHIEF JUSTICE ROBERTS: It wouldn't have to
+have anything to do with pondcrete at all. The statute
+just says the information on which his allegations are
+based. They don't say the allegations that eventually
+give rise to a recovery.
+MS. MAHONEY: Your Honor, every court that
+has considered that question has said that it has to be
+analyzed on what they call a claim by claim basis. Let
+me explain the reason. First of all, let me explain
+what they mean by claim by claim. They really mean a
+factual theory of falsity, and that it has to be done on
+a claim by claim basis, and here's why --
+JUSTICE SCALIA: Factual theory of falsity,
+that doesn't mean anything to me.
+MS. MAHONEY: A theory of falsity. In other
+words, a claim, what is called a claim in these cases in
+the claim by claim analysis is a theory of falsity. In
+other words, it's why were -- why was the fraudulent
+claim false? Because there may be a certification, for
+instance, of compliance with let's say all laws and
+there could be five different, completely different fact
+patterns as to why that was false, and the damages might
+be completely differ as well.
+So all of the courts have said that's really
+the way that FCA cases are litigated, that's really what
+we call a claim.
+And then, moving back, if you didn't do it
+on a claim by claim basis, you would allow a relator to
+copy an indictment that he knows nothing about, come to
+court, file it, add one theory that he does know about,
+an overcharge for five dollars on a hammer, say that,
+I'm now entitled to proceed on the whole thing and if
+the Government doesn't intervene I get a minimum of 25
+percent of the --
+CHIEF JUSTICE ROBERTS: That's one way to
+look at it. Another way would be you would allow a
+relator in a situation who alleges a particular fraud
+that causes the government to examine the books and
+uncovers a different fraud to recover on that basis.
+It's an unusual situation to have a jurisdictional
+prerequisite determined only after the case is over.
+MS. MAHONEY: But, Your Honor, it doesn't
+have to be determined after the case is over. These
+inquiries should -- it should have been determined here
+as well at the very outset of the case. And it was. It
+was just determined wrong.
+We do not have to show that it was wrong at
+the end of the trial in order to prevail in this case.
+It was wrong at the beginning. The interrogatories --
+CHIEF JUSTICE ROBERTS: If you only show
+that it's wrong at the end, you still say that they
+should be thrown out.
+MS. MAHONEY: Yes, we do, Your Honor but it
+is not by any means necessary to the outcome in this
+case. And the reason why I think that you do have to at
+least allow for the possibility of looking at the end of
+the case, whether there is jurisdiction or not, is
+because of the nature of this particular jurisdictional
+bar. This is a jurisdictional bar that turns on the
+nature of the allegations at issue in the case.
+Much like -- I think the Foreign Sovereign
+Immunities Act is a perfect example because it too talks
+about jurisdiction being predicated on, for instance,
+commercial -- claims that are based upon commercial
+activity. Suppose that the plaintiff at the outset of
+the case when the 12(b)(1) motion is filed posits one
+theory of the case that involves a predicate commercial
+act. But when it gets to trial he's abandoned that
+theory and now he doesn't have any commercial act.
+Surely the Court would say you have to satisfy
+jurisdiction over the theory that has actually gone to
+trial.
+This statute is very much the same. And it
+should not be read in a way that allows relators to
+simply disguise the true basis of their claims, hide the
+relevance of the public information, and then just shift
+gears when you get to trial.
+But here again, if we just look at the very
+beginning of the case, he does identify in those
+interrogatory responses, for instance, what the factual
+basis for the pondcrete allegations are. All that
+factual basis is all identified as -- as core acts that
+occurred after he left the plant. So we can look back
+in this case and say that the trial court erred at the
+outset by not dismissing this portion of his claim as
+well as, in fact, should have dismissed the whole thing,
+Your Honor.
+CHIEF JUSTICE ROBERTS: Well, his allegation
+was that this, the design is not going to work.
+MS. MAHONEY: But Your Honor --
+CHIEF JUSTICE ROBERTS: That's not an
+allegation that's -- I mean, it is either true or it's
+not true. The fact that you find out after he's left,
+after he's been terminated, that it doesn't work, I
+don't see how that should affect the validity of his
+allegations.
+MS. MAHONEY: Because, Your Honor, this,
+this is a statute about fraud. It's not a statute
+that's violated because Rockwell may have had a
+suboptimal pipe. That's not, that's not even the RCRA
+violation. That's not -- and it is certainly not a
+False Claims Act violation. They weren't selling
+pondcrete to the United States. He didn't know about a
+plan to defraud the United States.
+CHIEF JUSTICE ROBERTS: They were certifying
+their compliance with the applicable laws --
+MS. MAHONEY: At that, at the time --
+CHIEF JUSTICE ROBERTS: -- based upon their
+pondcrete design.
+MS. MAHONEY: At the time that he was there
+that was not actually -- he didn't even allege that he
+knew they were doing that with respect to pondcrete. He
+didn't allege that there were any problems with respect
+to the pondcrete production or, or certifications during
+his tenure. From -- they began producing pondcrete in
+1985, Your Honor. And there were no problems that were
+alleged with respect to that pondcrete.
+His claim by his own admission starts in
+1987, after he was gone. And again, the mere fact that
+there may have been a defective pipe wouldn't establish
+the RCRA violation, because what they had to show by
+their owning pleading here was that they were storing it
+on site, that it was actually leaking, and, of course,
+the mere fact there may have been a problem with the
+pipe doesn't mean it is actually going to leak, because
+they can fix it in a variety of ways. They can add more
+cement, they can put it in metal containers, they can do
+a myriad of things.
+He didn't even say he knew know that there
+was a plan to not remedy and problems in the design that
+he had identified if and when there became a problem
+with it.
+JUSTICE SCALIA: Am, am I correct that they
+were, in fact, using that same pipe or that same pipe
+system during a period when perfectly fine cement blocks
+were being produced?
+MS. MAHONEY: We think that's correct, Your
+Honor.
+JUSTICE SCALIA: Is that true, is that
+conceded?
+MS. MAHONEY: Well, I think that it's
+conceded that -- well, their own counsels told the jury
+that they were making it wrong, they weren't adding
+enough cement, that that was the reason that it was
+failing; and the Government told the jury that they were
+making it fine until they reduced the ratio of cement.
+So yes, I think it is correct that it has been conceded
+at trial that the system was working fine as long as
+they were adding enough cement.
+But instead what happens after he left --
+CHIEF JUSTICE ROBERTS: The whole purpose,
+the whole purpose of this legislation is to ferret out
+fraud on the Government. I mean, if he makes an
+allegation that this design is not going to work, the
+pondcrete is not going to work, and the Government,
+prompted by his lawsuit, investigates it and finds out
+that because of human error they're not making it the
+right way, even if the design does work, he get no
+credit for that?
+MS. MAHONEY: Well, Your Honor, the statute
+isn't written in that way. But let me also call your
+attention to some facts. And that is that a year before
+he brought this claim --
+CHIEF JUSTICE ROBERTS: Well, what about the
+hypothetical? Are you suggesting that in a situation
+like that -- -we'll talk about whether the facts comport
+with it later -- but in a situation like that, he's not
+entitled to share in the recovery that the Government
+eventually receives?
+MS. MAHONEY: If -- the mere fact that he is
+a trigger for the Government discovery of a different
+problem, no, that is not a basis for recovery. The
+statute says that if there has been a public disclosure,
+if -- let's assume there was a public disclosure. If
+there's no public disclosure it is no problem. He can
+bring whatever claim he wants. He doesn't have to have
+direct knowledge of it. Bit if there has been a public
+disclosures at that point he has to have direct
+knowledge of the information on which the allegations
+are based. And that has to be a substantial standard.
+Direct knowledge is one of the key things that the Tenth
+Circuit just did not --
+CHIEF JUSTICE ROBERTS: You would, you would
+change that to say direct knowledge of the information
+not on which the allegations are based, but on which
+recovery is eventually -- eventually ordered?
+MS. MAHONEY: On which the allegations of
+the claim is based. In other words, it, it's not -- it
+has to be -- and the Government says this as well --
+they say under that Section D(1), the relator isn't
+entitled to share in the proceeds of anything that the
+jury gives. The relator is only entitled to share in
+the proceeds of a claim for which they were an original
+source or for which they brought the -- brought the
+action under, under Section B.
+Sometimes the Government intervenes and adds
+its own claims not on behalf of the relator, because it
+doesn't have authority on behalf of the relator, and it
+takes the position, I think correctly, that the relator
+isn't entitled to a share in those circumstances.
+And Your Honor, this -- the courts have
+identified all the ways in which this statute doesn't
+make any sense if it is looked at on --
+CHIEF JUSTICE ROBERTS: Identified them all?
+MS. MAHONEY: -- on a global basis. Excuse
+me?
+CHIEF JUSTICE ROBERTS: They've identified
+them all already?
+(Laughter.)
+MS. MAHONEY: No, I don't think they have
+identified them all. But I --
+JUSTICE SCALIA: You may find another one.
+MS. MAHONEY: I, I would also -- again, it
+would allow the relator to get, you know, a share of,
+when the Government doesn't intervene, a minimum of 25
+percent of a billion dollar recovery after a public
+disclosure that he knew nothing about, if he just knew
+one little piece after separate theory of fraud.
+JUSTICE GINSBURG: But the theory is not
+necessarily bad. The, the relator has to cooperate with
+the Government, ideally he should. And if the
+Government said we prefer a variance of your theory, and
+the relator said fine, "I don't want to put competing
+theories before the jury, so I'll surrender my first
+theory and go with the Government's," why should the
+relator be penalized for that good litigation practice?
+It doesn't necessarily mean that the original complaint
+is no good or even that it might not have been proved,
+if the Government had preferred another route.
+MS. MAHONEY: Well it there, if there's a
+minor variation, you know, something like that, I
+certainly don't think that disqualifies the relator
+from, from being an original source. And again, here he
+wasn't an original source even under his own theory at
+the outset of the case.
+What happened at trial is the one little
+thing that he knew or claimed to know, his prediction
+that a pipe would have a problem five years before, was
+dropped completely from the case. So he went from being
+a relator who knew something very small about the case
+or about the theories to nothing at all. It was never
+good enough, but certainly once, once that theory was --
+once that piece of information dropped out, it just
+demonstrated, it just highlights that he's not an
+original source.
+And Your Honor, here it wasn't just that
+they didn't want to use that bit of evidence. It was
+actually inconsistent with the theory that they, that
+they pressed with the jury. They said the equipment was
+fine. Rockwell was making pondcrete just fine from 1985
+forward until it stopped adding the cement.
+And that's what they -- that's the theory
+they went with. But again, measure it at the outset of
+the case, and he still wasn't an original source.
+If I could save the remainder of my time?
+JUSTICE STEVENS: May I ask just one quick
+question?
+MS. MAHONEY: Yes, Your Honor.
+JUSTICE STEVENS: What was the public
+disclosure of the claim that ultimately prevailed?
+MS. MAHONEY: The public -- there -- the
+public disclosure was in 19 -- it can be from several
+pieces. But in 1988, there were widely covered stories
+of the fact that pondcrete was being stored at Rocky
+Flats on outdoor pads, that it was leaking and that the
+reason it was occurring was because the employees had
+reduced the ratio of cement.
+And then you couple that with the disclosure
+--
+JUSTICE STEVENS: And the public disclosure
+was made in the newspapers rather than in an official
+Government proceeding?
+MS. MAHONEY: That's correct. It was in the
+newspapers. But it was definitely covered, Your Honor.
+And that was more than a year before he brought his
+action. And then in addition, there were disclosures of
+allegations of performance bonuses being paid based upon
+falsified evaluations. That's JA 143.
+Thank you.
+CHIEF JUSTICE ROBERTS: Thank you,
+Ms. Mahoney.
+Ms. Vullo.
+ORAL ARGUMENT OF MARIA T. VULLO,
+ON BEHALF OF RESPONDENT STONE
+MS. VULLO: Mr. Chief Justice, and may it
+please the Court.
+The Court should affirm the decision of the
+Court of Appeals because as the Government recognizes,
+Mr. Stone is an original source. And it is important to
+the look at the statute and its purpose. The original
+source provision is intended to determine who may bring
+a claim on behalf of the United States Government. And
+the recovery provision, 3730(d)(1), determines how much
+if anything a relator may share in the Government's
+recovery. In this case, whether where the Government
+fully supports the relator, I would submit that the
+interests of the statute and the interests of the United
+States are fully satisfied.
+And that is because Mr. Stone is the
+paradigm not parasitic relator. He had knowledge
+firsthand from his six years at Rockwell of a pattern,
+Justice Kennedy, a pattern of criminal conduct and a
+pattern of Rockwell concealing that information.
+JUSTICE SCALIA: Unfortunately, it was not
+the criminal conduct that was ultimately -- it was not
+the manner of criminal conduct that was ultimately the
+basis on which the Government proceeded? He knew about
+this bad pipe, right? Or he said that this was a bad
+pipe system? He didn't say anything as I understand it
+about their not adding enough cement which is the theory
+that went to the jury.
+MS. VULLO: Justice Scalia, I would beg to
+differ on that. Mr. Stone in his affidavit at 179 in
+the joint appendix and also in his disclosure statement,
+which is at 29 -- I'm sorry, 174 and 175 of the joint
+appendix, and the disclosure statement at 290, what he
+described was a defective design of the system for
+taking the sludge out of the pond. And what he
+specifically said -- and this is very important -- what
+he specifically said was when you took the sludge out of
+the ponds in that manner, it was going to have too much
+liquid, and it was going to lead to deterioration of the
+environment. He said that in the very beginning of the
+case. And at trial, what the testimony was -- and I
+would direct the Court to Mr. Freibach's testimony at
+joint appendix 522, as well as at the trial transcript
+at 987, the issue there was the variability of the
+sludge which may have caused greater inspections and may
+have required additional cement.
+And what is very important is even
+Mr. Freibach who is the first foreman, on whom
+petitioners rely, he testified that during his tenure,
+the variation of the sludge required between 200 and 350
+pounds of cement. That's at the trial transcript at 987
+and the joint appendix at 522.
+JUSTICE SCALIA: Yeah. Let me -- let me
+look at what -- let me look at 175. This is, this what
+he says. "After careful study, I concluded that the
+suggested process" -- this means of piping the sludge
+out -- "would result in an unstable mixture that would
+later deteriorate and cause unwanted release of toxic
+wastes to the environment. I also noted based on my
+analysis of chemical processes at Rocky Flats that that
+the sludge and liquid present in the -- present in the
+evaporation ponds contained some of the most toxic and
+radioactive substances at Rocky Flats."
+I mean, that's all very good, but it has
+nothing to do with what this company was convicted of,
+which is not -- cutting down on the amount of cement it
+was adding.
+MS. VULLO: That's --
+JUSTICE SCALIA: During a certain period
+after this it was creating perfectly good blocks by
+adding more cement. Then they got a new manager who
+said let's use less cement. And that's when they
+started producing the defective blocks. It has nothing
+to do with his allegations.
+MS. VULLO: Justice Scalia, two important
+points. First is that neither the criminal conviction
+nor the jury's verdict determined the cause of
+insolidity. The issue in the criminal case and the
+issue in the False Claims Act case as to pondcrete was
+that the pondcrete was insolid and they were lying to
+the -- the Government about that.
+JUSTICE SCALIA: And why did the government
+claim it was insolid? What was the claim made for -- as
+to the reason for the insolidity?
+MS. VULLO: Your Honor, one of the pieces of
+evidence -- and I would -- out of 55 witnesses and 500
+documents, was that there were certain people who were
+using too little cement. There was also evidence --
+JUSTICE SOUTER: No, but was the reason they
+were using too little cement, the reason that there was
+a variation in the amount of liquid being taken out with
+the sludge as you've described to us that he had
+claimed, or was the reason simply that there was a kind
+of standard ratio of cement to sludge and that standard
+ratio was not followed in the later cases?
+In other words, is it because there was such
+a tremendous variation in the liquid in the sludge or
+simply because there was a standard formula having no
+particular relationship to the liquid in the sludge, and
+they simply didn't follow the standard formula? I
+thought the government's theory was the latter, and if
+it was the latter, it has nothing to do with the claim
+that he was making that there was too much variation in
+the amount of liquid in the sludge.
+MS. VULLO: That's not correct,
+Justice Souter. The reason for the variation and the
+need for additional cement was because the sludge had
+variations and there was too much liquid in it, which
+was precisely what Mr. Stone said. And every one of the
+witnesses testified to huge variation of the liquid
+content in the sludge which required more cement, and
+even the amount of cement that was required was very
+variable.
+JUSTICE SOUTER: But if they had followed
+the formula that they followed at the beginning, isn't
+it true that there's no evidence that even these
+variations in the liquid in the sludge would have
+resulted in instable or insolid pondcrete?
+MS. VULLO: No. That's not correct,
+Justice Souter. In fact, there was no particular ratio
+that had to be followed of cement to sludge. There was
+testimony that different individuals who worked on the
+pondcrete used different amounts of cement. And as I
+said --
+JUSTICE SOUTER: This was truly even before
+the troubles started, even before the insolid pondcrete?
+MR. STEWART: Yes, Your Honor. Yes,
+Justice Souter. Mr. Freibach, who was the earlier
+foreman, testified that under his watch, he needed
+between 250 and 300 pounds of cement, and that there was
+a constant inconsistency in the sludge content coming
+out of the ponds.
+JUSTICE SCALIA: Was -- here's an easy
+question. Was this evidence that we read, his testimony
+from 175 of the joint appendix, was that introduced at
+the trial?
+MS. VULLO: Mr. Stone did not testify at
+trial.
+JUSTICE SCALIA: Was this evidence
+introduced from some other source? Was the jury told
+there was this piping that was taking out too much
+liquid with the sludge? Was the jury told that?
+MS. VULLO: The jury -- Mr. Freibach
+described the process. We did not get into the
+engineering detail, Your Honor, of it.
+JUSTICE SCALIA: So his central allegation
+was not even placed before the jury?
+MS. VULLO: Your Honor, I would submit to
+you, Justice Scalia, that that wasn't required. What we
+needed to prove --
+CHIEF JUSTICE ROBERTS: But it is worse than
+that, though.
+This information was not even provided to
+the government, which the statute requires. He not only
+has to have direct and independent knowledge, he has to
+voluntarily provide that to the government. And I
+understand that the Tenth Circuit, to have relied solely
+on the document at joint appendix page 605, that's the
+only thing he provided to the government. And all it
+says is that this design will not work. There are a lot
+of things that don't work, but that doesn't mean there's
+fraud on the government. You don't know if they're
+going to fix it, they're going to change it, use a
+different design, not make a claim based on that design.
+Why is that enough to satisfy the statute?
+MS. VULLO: Mr. Chief Justice, the
+voluntarily provides prong requires the relator to be
+honest and truthful and submit all the information he
+has. And Mr. Stone did that and the government has
+never said otherwise. In fact, he met with the FBI
+agent --
+CHIEF JUSTICE ROBERTS: But he has to -- if
+the information that he provides isn't direct and
+independent information of the allegations, it would
+seem that the statute is not satisfied.
+MS. VULLO: That is correct, Your Honor, but
+Mr. Stone did have direct and independent knowledge of
+his allegations. And I'd like to go back to the
+discussion with petitioner's counsel as to the
+jurisdictional petition in this statute. There is no
+question that --
+CHIEF JUSTICE ROBERTS: I don't want to get
+off my question here but did you -- do you agree that
+this page JA 605 was the only information that he
+provided to the government?
+MS. VULLO: No, Your Honor.
+CHIEF JUSTICE ROBERTS: Well, maybe I'd
+better phrase it differently. Do you agree that that is
+the only information on which the Tenth Circuit relied?
+MS. VULLO: That, the Tenth Circuit did rely
+on that document and did not consider any other
+information as a result of its ruling with respect to
+that document. The Tenth Circuit also had before it the
+awards fee documents which Mr. Stone provided to the
+government, and those are at joint appendix 247 to 249.
+It also had Mr. Stone's affidavit when he testified in
+his affidavit as to his meetings with the government,
+and also had additional affidavits --
+CHIEF JUSTICE ROBERTS: Well, but this -- he
+has to provide this information before filing an action.
+MS. VULLO: That's correct, Your Honor. And
+his affidavit describes his meetings with the FBI and
+EPA beginning in 1986, and that's at joint appendix 180
+through 181.
+JUSTICE STEVENS: I have a question.
+MS. VULLO: Yes, Justice Stevens.
+JUSTICE STEVENS: As I understand the
+statute, you his the first prong. It has to be an
+action based on public disclosure of information, which
+you agree it was; is that right?
+MS. VULLO: Justice Stevens, we in the
+courts below agreed for purposes of the original source
+provision that there was a public disclosure. I think
+what's important following up on the question --
+JUSTICE STEVENS: You agree that it's within
+4(a), that it was an action based on a public disclosure
+of information disclosed in newspapers; is that right?
+MS. VULLO: In newspapers and also the
+criminal investigation, but I think what's important is
+that the standard that Rockwell seeks to have this Court
+adopt would actually require such a great level of
+specificity that is not in the public disclosure at all.
+And I think, Justice Stevens, you asked that precise
+question. The public disclosure was very general. And
+the Tenth Circuit --
+JUSTICE STEVENS: I am asking you, really
+what I'm seeking to find out is what is the scope of the
+public disclosure that everyone agrees was made? Was it
+all newspapers?
+MS. VULLO: It was newspapers, and the FBI
+agents' search warrant affidavit was also publicly
+disclosed prior to Mr. Stone's filing of the action.
+JUSTICE STEVENS: If it was publicly
+disclosed in the newspapers, does that fit into one of
+the categories of public disclosure mentioned in 4(a)?
+MS. VULLO: Yes. It says news reports in
+that provision of the statute.
+JUSTICE STEVENS: And everybody agrees on
+what those news reports contained?
+MS. VULLO: Well, I'm not sure what Rockwell
+agrees, but I could tell Your Honor what I believe those
+news reports said, and they said that there were
+environmental violations. There were some news reports
+in June of 1988 about a spill on the pondcrete pads.
+Not a single one of the news reports about the spill on
+the pondcrete pads described at all any false claim or
+false statement, and neither did the agents' search
+warrant affidavit.
+JUSTICE STEVENS: So you're saying that the
+original source of the information was published?
+MS. VULLO: I don't believe that that's the
+appropriate test. It's not before this Court, but I
+believe that the direct and independent knowledge
+requirement is information on which the allegations are
+based, and the allegations refer to Mr. Stone's
+allegations at the commencement of the action. After
+all, it's a jurisdictional provision, and it should be
+determined at the outset of the action.
+CHIEF JUSTICE ROBERTS: I would have thought
+the allegations referred to the public disclosure. It
+talks about public disclosure of allegations, and then
+says he has to have direct and independent knowledge of
+the allegations. So I would assume that's the important
+linkage.
+MS. VULLO: Mr. Chief Justice, there is a
+split in the circuits on that issue. The issue was not
+decided by the Court of Appeals and as I understand even
+Rockwell's position, that is not Rockwell's position,
+that Rockwell's position is like our position, that it's
+information in the allegations of the complaint.
+But I would submit that that would make no
+difference in this case because Mr. Stone's knowledge is
+direct and independent of the information in his
+complaint as well as the information in the public
+disclosure. And what is important is that Rockwell is
+asking this Court to adopt the quick trigger that the
+Court of Appeals adopted because that was the Tenth
+Circuit's law on public disclosure. Yet in this case,
+say that Mr. Stone's direct and independent knowledge
+has to be very, very specific. It has to be of the
+particular false statements, and that would eviscerate
+the entire original source rule.
+And if I could just get to the point of the
+jurisdictional issue and why Rockwell's position as to
+the trial evidence is wrong, it's wrong for two reasons.
+The first is that the statute speaks in terms of
+allegations. It does not speak in terms of evidence.
+In fact, in the provision E.2, which is a provision
+regarding bringing claims against members of the
+judiciary and members of Congress, Congress said
+information or evidence, but in this provision E.4,
+Congress only said information. So looking at the trial
+evidence would be wrong by virtue of the plain language
+of the statute.
+It also would be wrong as, Mr. Chief
+Justice, you pointed out. Since 1824, I believe this
+Court has held that jurisdiction is determined at the
+time of commencement as of the state of things at that
+time. And as, Justice Ginsburg, you pointed out, it
+would be an inappropriate rule to say that if the
+government decides to refine the allegation, after all,
+it is still a concrete allegation.
+JUSTICE SCALIA: We've also said that
+jurisdiction must be maintained throughout the case.
+Something like standing. We say standing is examined
+throughout the trial. There's an easier standard at the
+beginning, and then for the complaint; and then for a
+motion to dismiss, a somewhat higher standard; and
+finally, if the facts of -- involving standing are
+tried, there's the highest standard at the end of the
+trial.
+I mean, it seems to me jurisdiction has to
+be assured throughout.
+MS. VULLO: Justice Scalia, I think this is
+a jurisdictional provision that Congress created. We're
+not talking about the Federal question jurisdictional
+statute. But in this provision, just like in the Clean
+Water Act in the Walton case, the statute uses the word
+allegations. As in that case, the statute used the word
+alleged. And the Court held very clearly that you look
+at it as of commencement.
+Now it might be a different case if we had a
+federal question case and the relator or the plaintiff
+withdrew the Federal claim. Then there would be a loss
+of jurisdiction. Here of course, the amended complaint
+satisfied jurisdiction when the government adopted the
+relator's claim.
+Thank you.
+CHIEF JUSTICE ROBERTS: Thank you,
+Ms. Vullo.
+Mr. Stewart?
+ORAL ARGUMENT OF MALCOLM L. STEWART
+ON BEHALF OF RESPONDENT UNITED STATES
+MR. STEWART: Thank you, Mr. Chief Justice,
+and may it please the Court:
+One of the features of this case that may
+appear anomalous is the fact that the government is
+aligned with Stone. That is, it's Rockwell's position
+that the entire recovery in this case should go to the
+United States. It is Stone's position that the recovery
+should be shared with the relator, and the government
+agrees with Stone.
+It might be natural for the Court to wonder,
+why would it be in the government's interest to advocate
+that a share of the money damages in this case should be
+given to a private party. And the reason is that the
+government believes that there are three systemic
+government interests that are implicated by this case
+and that would be endangered if Rockwell's position
+prevailed.
+First, in our view, Stone is precisely the
+type of relator that Congress intended to encourage.
+Stone was somebody who had substantial firsthand
+knowledge of Rockwell's environmental practices and of
+its billing practices, and moreover, Stone was somebody
+who didn't conceal his information from the government.
+JUSTICE SCALIA: Well, that's all very nice,
+but Congress didn't leave it up to you to decide who
+ought to get rewarded or not. It laid down some textual
+conditions in the statute. And unless they are complied
+with, the fact that you think this is the kind of person
+you think ought to get the money is really totally
+irrelevant.
+MR. STEWART: We agree. And as to Stone's
+original complaint, the statute frames the inquiry as
+whether Stone has direct and independent knowledge of
+the information on which the allegations were based.
+And we agree with Rockwell and with Stone that that
+refers to the allegations in his complaint.
+Now the allegations were fairly generalized.
+They didn't refer specifically to pondcrete, and they
+covered a wide range of time, from 1980 through to the
+present, which was 1989 as of the filing of the
+complaint. Stone subsequently submitted a lengthy
+affidavit in which he explained what led him to the
+conclusion that Rockwell was engaged in a systematic
+practice of violating the environmental laws and
+misrepresenting the nature of its compliance to the
+government. That information --
+JUSTICE ALITO: What if the defect that he
+identified turns out to be entirely different? What if
+there is no dispute, it's completely different from the
+defects that led to the false claims on which there were
+recovery?
+MR. STEWART: I mean, there certainly could
+be a situation in which the government intervenes in a
+suit but files what can be regarded as a substantially
+different claim. For instance, if the government had
+intervened in this suit and had claimed that Rockwell's
+requests for payment were fraudulent because Rockwell
+had misrepresented its compliance with the
+anti-discrimination laws, that would be an example of a
+fundamentally different fraudulent scheme and --
+JUSTICE SCALIA: Let's take this case. Did
+the government use any of the evidence that Stone
+produced? Did it introduce that affidavit which said
+the pipe wasn't working right? Was that part of the
+evidence?
+MR. STEWART: It didn't introduce the
+engineering report. And I do want to focus on --
+JUSTICE SCALIA: Well, what else had he
+provided beyond -- did you use anything that came from
+him?
+MR. STEWART: He had provided substantial
+information about a pattern of concealment of
+environmental violations generally. That at least to
+some extent was responsible for an FBI investigation
+which uncovered further --
+JUSTICE SCALIA: But did you use at trial
+anything that he provided you?
+MR. STEWART: We proved essentially the
+state of affairs that he predicted would occur.
+JUSTICE SCALIA: Did you use anything he
+provided you in order to prove it?
+MR. STEWART: I'm not aware of anything
+that --
+JUSTICE SCALIA: No, neither am I.
+MR. STEWART: But nevertheless, the relator
+had direct and independent knowledge of the information
+on which his allegations were based.
+And I'd like to focus on this question of
+the cause of the insolidity of the pondcrete because I
+think to regard that as the theory of the government's
+liability really reflects a misunderstanding of the
+False Claims Act. For purposes of the False Claims Act
+counts in this case, it was sufficient for the
+government to prove that the pondcrete in fact failed,
+leaked hazardous substances into the environment, that
+Rockwell was aware that the pondcrete was failing, and
+that Rockwell nevertheless continued to represent that
+it was in compliance with the environmental laws.
+For purposes of proving those allegations,
+it was not necessary for the Government to offer any
+hypothesis as to why the pondcrete failed. It would
+have been sufficient to prove that the pondcrete failed
+and that Rockwell knew about it. In fact, I wouldn't
+encourage the Court to read the whole trial transcript,
+but I think if the Court reads the plaintiff's statement
+of claims, which is about 30 pages of the joint appendix
+beginning at JA-463, that summarizes the events that
+Rockwell -- I mean, I'm sorry, that Stone and the United
+States intended to prove at trial, and by far the
+predominant focus is on the fact of pondcrete failures
+and Rockwell's awareness that they had -- that pondcrete
+had failed.
+There were a couple of paragraphs in
+those 30 pages that alluded to the supposition that the
+cause of the failure was inadequate cement content.
+There were also isolated references to that theory at
+trial. But to characterize that as the theory of
+liability I think would be a misconception. The
+Government didn't have to persuade the jury one way or
+the other as to why the pondcrete failed.
+JUSTICE SCALIA: How is it possible to say
+that he had direct knowledge of events that occurred
+after he had left Rockwell? I mean, all of this failure
+occurred after he was gone.
+MR. STEWART: But again --
+JUSTICE SCALIA: Not only not because of
+this pipe thing that he predicted would cause a failure,
+not only it was not because of that. But he was gone.
+MR. STEWART: Again, the statute doesn't
+require direct and independent knowledge of the fraud.
+It requires direct and independent knowledge of the
+information on which the allegations were based.
+JUSTICE SCALIA: That's right. And how
+would he know except from published report that these
+blocks were failing?
+MR. STEWART: His basis for making that
+prediction was that he believed that the process would
+malfunction. He was also aware --
+JUSTICE SCALIA: But prediction is not
+knowledge. Prediction is not direct knowledge.
+MR. STEWART: I think independent of whether
+there had every been a public disclosure, it would have
+been open to Rockwell to argue in response to the
+original complaint that Stone couldn't consistent with
+Rule 11 make allegations as to what had happened at the
+plant after he left because he no longer had an
+evidentiary basis for doing so. Rockwell could have
+made that argument, again regardless of whether a public
+disclosure had occurred, and the question whether it is
+a permissible inference for a plaintiff to say, I saw
+them committing systematic environmental violations
+while I was there and I inferred that the same thing
+would go on after I left -- the question that's a
+permissible inference for a plaintiff in a Federal civil
+action to make is a question to be decided under the
+Federal Rules of Civil Procedure. The public disclosure
+provision serves a different purpose entirely. It's
+designed for those cases in which the relator has
+sufficient information to file a complaint that complies
+with the federal rules of similar procedure, but that
+information overlaps substantially with information in
+the public domain.
+JUSTICE SCALIA: And his sufficient
+information you assert is his prediction that these
+blocks would fail for a reason that turned out not to be
+the reason for their failure. That is what you say is
+his direct knowledge.
+MR. STEWART: That knowledge, but I think
+it's also important to recognize that the original
+complaint was not focused on pondcrete specifically.
+The original complaint alleged more generally that
+Rockwell was engaged in widespread environmental safety
+and health violations and was consistently
+misrepresenting to the Government that it was in
+compliance and -- even though it knew that it was not
+doing so.
+JUSTICE SCALIA: So you think relators can
+get part of the Government's recovery even where their
+initial allegations before the Government intervenes
+have nothing whatever to do with the reason the
+Government is ultimately giving money? You think they
+are still entitled to a piece of the pie?
+MR. STEWART: I guess I would -- I would
+disagree with the premise that his reasons had nothing
+whatever to do with why the Government is getting money.
+Again to return to the hypothetical I suggested earlier,
+if the Government then filed --
+JUSTICE SCALIA: So you don't believe that,
+then. You think that indeed the reason the Government
+was given the money has to be connected with, with his
+allegations? Right?
+MR. STEWART: It has to be connected with
+his allegations. And certainly, if you look at the
+theory of liability that prevailed at trial, namely that
+pondcrete blocks were leaking hazardous substances into
+the environment and Rockwell was nevertheless asking for
+Government funds based on misrepresentations that it was
+in compliance, if you look at that theory of liability
+and then examine Stone's original complaint, clearly
+that theory is logically encompassed within the more
+generalized --
+CHIEF JUSTICE ROBERTS: What do you mean by
+connected? Is it -- I got -- I'm getting the sense that
+you think it's enough that he says, look, Rockwell is
+just lying to the Government in this area, and you say
+well -- what if what if you added a count in your
+complaint when you intervene on tax fraud? You found
+out also that they didn't pay taxes. Would he be able
+to recover for that, because, you know, if they're going
+to lie about pondcrete they're going to lie about taxes.
+Is that sufficiently connected?
+MR. STEWART: No, and I think I would put
+that with the hypothetical that I offered about the
+Government adding a claim that Rockwell had
+misrepresented its compliance with the
+antidiscrimination laws. And I think there won't be a
+clear dividing line, but I think this is a line that
+courts have to draw for other purposes as well.
+CHIEF JUSTICE ROBERTS: And it doesn't
+matter to you if he just, if he's completely wrong?
+Let's say he says -- you have special interrogatories to
+the jury and his allegation has always been the
+pondcrete's going to fail because you're putting in the
+wrong kind of cement. And it turns out it has nothing
+to do with that at all. The jury says, no, that's not
+the reason it failed, it failed for another reason. Is
+that a sufficient connection?
+MR. STEWART: I think we would -- I think
+there could still be a sufficient connection even if his
+reason for thinking the pondcrete failed, they all
+turned out to be correct. And again, we would emphasize
+that that's particularly so here because the reason for
+the pondcrete failure was not an element of the claim.
+I mean, imagine if this case had been tried to the jury
+and there had been an established rule in place that if
+the pondcrete was shown to have failed because of a
+defect in the machinery, Stone would get a share, but if
+it was shown to have failed because the human operator
+added too little cement Stone wouldn't get a share. If
+that had been the rule there would have been a clear
+potential for disharmony between the Government and the
+relator. It would have raised exactly the specter that
+Justice Ginsburg alluded to, where the Government
+prefers to emphasize one view of the facts rather than
+another and the defendant is getting in the way by
+suggesting that the relator will be deprived of a share.
+JUSTICE SCALIA: Try this hypothetical. The
+relator says: I know that they've been cheating the
+Government because I, I observed the president of the
+company going into a meeting with the chief engineer and
+another person, and at that meeting I suspect they were
+devising this scheme to defraud the Government.
+It turns out there was indeed a scheme to
+defraud the Government, but that meeting never occurred.
+It wasn't the president of the company who went into the
+meeting. It was Charlie Chaplin. And the facts are
+totally, totally wrong. Does he get money?
+MR. STEWART: Well, I think --
+JUSTICE SCALIA: Does he get money just
+because he came out with the same charge that the
+Government ultimately proves? Simply because he said
+the company is guilty of cheating the Government, even
+though the facts on which he bases it are entirely
+wrong?
+MR. STEWART: I mean, I need to know more
+about the hypothetical, but my initial reaction is that
+that's a complaint that's easily dismissed based on Rule
+11, leaving aside the question of any public disclosure.
+And I can imagine extreme hypotheticals --
+JUSTICE SCALIA: Well, assume one that just
+gets over the line.
+MR. STEWART: I think if the complaint just
+gets over the line, that is if the evidence in the
+relator's possession is just barely good enough to
+sustain the allegation of fraud or at least to allow the
+suit to go forward, there's no reason to read the public
+disclosure --
+JUSTICE SCALIA: It turns out to be entirely
+wrong. Turns out to be entirely wrong, so that the only
+reason he believed this company was defrauding the
+Government was absolutely wrong.
+MR. STEWART: I think we would still want to
+compare the nature of the fraud that the Government
+alleged with the nature of the fraud that the relator
+alleged. And obviously this is a question in which the
+Court is going to have to balance competing interests.
+It's possible to come up with hypotheticals in which it
+seems as though the relator has no equitable entitlement
+to a share. The two things we want to emphasize are,
+first, in terms of the way that the lawsuit progresses
+even when the Government doesn't intervene, relators
+once they file suit, if they are allowed to proceed on
+their own, they presumably can take advantage of all of
+the rules of civil procedure. And those include the
+discovery provisions of the Federal Rules.
+And it would obviously be self-defeating to
+tell the relator: You can invoke discovery and you can
+learn relevant information from the defendant, but if
+you didn't know it already you can't use it at trial,
+because if you use something that you didn't have direct
+and independent knowledge of before the complaint was
+filed and it turns out to be persuasive to the jury you
+can be kicked for not being an original source.
+I don't think Congress can be said to have
+had that intention.
+Second, in cases where the Government and
+the relator intervenes -- where the Government
+intervenes in the a relator's suit and the two prosecute
+the suit together, we would want the Court to avoid a
+rule that would create artificial disincentives to
+cooperation between the two plaintiffs. And the idea
+that relatively minor variations in factual assertions
+that are ultimately not necessary to the establishment
+of False Claims Act liability, if those carried the day
+then relators in future circumstances would have a
+strong disincentive to accede to the Government's
+request that one view of the evidence be emphasized
+rather than another.
+If the Court has nothing, no further
+questions --
+JUSTICE GINSBURG: Explain why it would be a
+minor variation if what he has identified as a defect in
+the pipe system and what turns out to be the situation
+that was covered up is the inadequate cement that caused
+the loss?
+MR. STEWART: It's a minor variation in the
+sense that it's not relevant to the defendant's ultimate
+liability. That is, if we had proved that the pondcrete
+leaked hazardous substances into the environment and
+that Rockwell knew that it was having that effect and
+that it nevertheless represented to the Government it
+was in compliance, that would be enough to establish the
+knowing submission of a false claim even if we had no
+idea what was the reason for the pondcrete failure.
+And even if Rockwell had taken the most
+Herculean measures to produce good pondcrete and had not
+departed from standards of care in any respect, if
+nevertheless they knew that the pondcrete was in fact
+failing despite their best efforts and they represented
+that it was succeeding, they would be liable under the
+False Claims Act.
+JUSTICE STEVENS: May I ask this question:
+Supposing he is the only source of the information
+that's publicly disclosed on which precipitated the
+filing of the complaint, and after the complaint is
+filed discovery reveals other violations of law on which
+the Government prevails, but they do not prevail on the
+theory of the original complaint. Would he be -- come
+within the statute or without? The statute focuses on
+the information that gave rise to the suit, not on
+what's found by way of discovery.
+MR. STEWART: I mean, my instinct would be
+that probably he could still recover. I think the
+question then would boil down to whether the discovery
+responses are themselves public disclosures such that
+they would trigger a new original source.
+JUSTICE STEVENS: Assuming we only look at
+the public information at the time the complaint is
+filed.
+MR. STEWART: I mean, probably that question
+would raise no public disclosure issue to begin with,
+because if there had been no -- at least if there had
+been no public disclosure of the fraudulent conduct that
+was revealed through discovery, there would be no need
+for him to satisfy the original source test with respect
+to those new allegations.
+CHIEF JUSTICE ROBERTS: Thank you,
+Mr. Stewart.
+Ms. Mahoney, you have 4 minutes remaining.
+REBUTTAL ARGUMENT OF MAUREEN E. MAHONEY
+ON BEHALF OF THE PETITIONER
+MS. MAHONEY: I would like to first just
+address, the Government's suggested that he could be an
+original source because he had knowledge of false
+representations and concealments derived throughout his
+employment. I just want to emphasize that the Tenth
+Circuit did not rely on that theory, said that he did
+not have to have knowledge of any fraudulent acts. It
+was just enough that he knew something that might be
+relevant to the proof of an environmental violation.
+And the reason that the Tenth Circuit said that was
+because Stone had conceded in his deposition at pages
+JA-106 and 112 that he did not know about any false
+representations and he did not know whether DOE was
+aware of any of the environmental problems.
+JUSTICE SCALIA: What is your response to
+the Government's assertion, which seems to me quite
+true, that in order to -- in order to prevail it did not
+have to show why these blocks were not solidified?
+MS. MAHONEY: I think what --
+JUSTICE SCALIA: It just had to show that
+they weren't. So it doesn't matter whether they were
+using his theory or too little cement. It doesn't
+matter.
+MS. MAHONEY: Your Honor, the point is that
+Mr. Stone wasn't there when the manufacturing problems
+occurred, so he didn't actually have direct knowledge
+that pondcrete was leaking. That's the real point.
+What they're really saying is that his theory about why
+it might leak some day didn't turn out to be important
+to the gravamen of the claim. This is a fraud claim.
+He didn't know anything about fraud and he couldn't have
+known they were leaking at the time, 5 years later
+because he wasn't there.
+And the statute requires direct knowledge.
+The Government's suggestion that somehow Rule 11 will be
+the basis on which we can sort out who's an original
+source and who's not strikes me as rather odd. First of
+all, nothing hardly ever gets dismissed on Rule 11
+grounds. And this is a jurisdictional statute that
+requires direct knowledge. A relator could read an
+indictment and satisfy Rule 10 just by copying the
+allegations. Does that count?
+I think that direct knowledge means there
+can't be undue conjecture. The only thing that he said
+he knew, even though it wasn't the gravamen of the
+claim, was clearly based upon conjecture, a belief that
+in his opinion this pipe would not work.
+And then when we get to the trial, there
+were 55 witnesses. Stone had not identified a single
+one of them as a person with relevant knowledge at the
+outset of the case when he answered his interrogatory
+responses. In addition, every person -- no person he
+identified testified at the case. He identified four
+documents that he said were key. None of them were
+introduced. He knew nothing about what went to trial.
+In addition, I'd like to focus on the
+"voluntarily provide". That is a separate ground for
+reversal in this case, and would emphasize that the
+Tenth Circuit said the engineering order that refers to
+removal of sludge and says in my opinion this won't
+work, that's all it says -- the Tenth Circuit says
+that's fine. The district court made a factual finding
+that Stone had not communicated his concerns to the
+Government about pondcrete, saltcrete, or spray
+irrigation, the three theories issues at issue at trial
+here.
+JUSTICE GINSBURG: There were other
+documents. He said there were other documents and the
+district court said sorry, you came up with that too
+late, I'm not going to look at the other documents.
+MS. MAHONEY: Your Honor, what they're
+referring to is the affidavit, I think. He filed an
+affidavit at the outset of the case when Rockwell filed
+the motion to dismiss and then tried to do a new one 10
+years later that was rejected.
+Thank you very much.
+CHIEF JUSTICE ROBERTS: Thank you
+Ms. Mahoney.
+The case is submitted.
+(Whereupon, at 12:11 p.m., the case in the
+above-entitled matter was submitted.)
+56:1 32:12,13,18 allow 14:11,19 asked 33:14 barely 48:23
+39:16 40:12 48:24 35:17 45:20 10:19 13:12
+16:1,2 affirm 24:20 alluded 42:13 assertion 53:11 24:10 26:25
+27:20 affirmatively 47:17 assertions 50:11 31:5 32:25
+41:16,16 12:22 amended 37:16 assignment 8:2 33:7 34:21
+51:15 agent 31:12 amendment 4:9 8:2 39:8 41:11
+34:13 8:7 assume 20:7 48:16 54:16
+6:1,5,6 agree 31:24 32:4 amount 27:7 35:4 48:19 bases 48:12
+7:7 33:1,6 39:5,9 28:7,20 29:3 Assuming 52:6 basis 11:2,4,5
+agreed 33:3 amounts 29:14 assured 37:4 13:16,20 14:11
+11:22 agreement analysis 13:25 attention 11:21 14:22 16:8,14
+24:9 12:18 27:1 19:20 16:15 20:5
+33:7 agrees 33:19 analyzed 13:16 Attorney 4:16 21:13 25:15
+34:22,24 34:4,7 38:8 anomalous 38:3 5:12 6:16,23 43:10,21 54:6
+aha 8:24 answered 54:21 8:13 bears 10:19
+6:15 aligned 38:4 46:15 9:14,20 began 17:23
+53:2 16:25 19:12 Appeals 24:21 authorize 4:24 26:6 29:6
+allegations 3:14 APPEARAN... 5:14 behalf 1:17,18
+23:9 11:3 12:10 appendix 25:22 award 3:12 4:24 2:13 3:8 4:17
+27:8,12 13:11,12 15:18 25:24 26:9,18 5:14 6:7 9:16 4:18,21 6:10
+16:14 17:4 30:1,24 32:11 awards 32:10 10:12 21:5,6
+55:1 24:10 27:15 applicable 17:14 41:6,20 43:12 52:20
+32:14 34:21,22 35:1 34:18 awareness 42:10 believe 34:7,17
+41:11,23 43:17 B believed 43:11
+45:15,17 52:15 6:19 6:7,18 8:11 believes 38:13
+allege 13:2 2:2,5,8,11 3:4 back 14:10 better 32:4
+43:9 categories 34:1 35:6 36:11 coming 29:22 conceded 18:23
+45:19 cause 26:24 37:20,25 46:1 commencement 18:25 19:5
+27:18 41:13 46:18 47:24 34:22 36:14 53:6
+8:14 20:9 cement 18:10,18 32:5,6,9 33:16 committing conclusion 7:13
+19:2,4,7 23:9 53:1,5 55:4,6 43:25 39:17
+26:12,17 27:7 Circuit's 35:19 55:8 conditions 39:1
+5:2,11 29:2,3,12,14 50:14 47:24 48:4,11 25:13,14 52:12
+6:5,16 29:21 42:14 civil 44:3,5 49:4 Congress 36:6,6
+7:7 46:23 47:13 49:18 compare 49:7 36:8 37:6
+8:20 50:23 53:17 claim 4:4,8,16 competing 22:6 38:18,24 50:3
+19:21 central 30:12 4:18,19,21 49:10 conjecture
+24:8 certain 11:13,25 10:12,13 13:16 complaint 8:15 54:14,16
+certification 18:1 19:21 43:18 44:8,19 consequences
+certifications 23:18 24:25 46:6 48:16,21 consider 32:7
+14:24 characterize 54:16 compliance 5:15 6:11
+42:16 claimed 22:20 12:18,23 14:3 44:22
+charge 48:9 28:9 40:5 17:14 39:19 constant 29:22
+22:18 Charlie 48:5 claims 15:22 40:7 41:22 contained 27:3
+23:12 cheating 47:22 16:8 17:10 44:24 45:22 34:5
+26:7 48:11 21:5 27:20 46:14 51:6 containers
+35:13 chemical 11:13 36:5 39:24 complied 39:1 11:16 18:10
+36:20 27:1 41:16,16 42:5 complies 44:8 content 29:2,22
+chief 3:3,9 13:9 50:13 51:15 comport 19:24 42:14
+14:18 15:8 Clean 37:8 conceal 38:22 continued 41:21
+41:17 16:21,24 17:13 clear 12:17 concealing continuing 12:5
+54:21,23 17:16 19:9,22 46:16 47:14 25:11 controls 9:16
+criminal 25:10 53:6 disagree 45:8 dollars 14:14
+cutting 27:7 28:8 30:10 23:18,20 24:1 drops 4:6 7:6
+8:5,16 6:3 9:12,19 16:22 17:17 34:1 35:1,2,16
+19:5 damages 14:5 18:13 19:12,16 35:19 43:16,23 E
+28:21 38:11 25:25 31:1,5,5 44:5 48:17 e 1:16 2:1,3,12
+31:17 day 50:13 53:24 designed 44:7 49:1 52:10,12 3:1,1,7 6:20
+47:5 dealing 6:13 despite 51:13 disclosures 52:19
+21:7 decide 38:24 deteriorate 52:4 45:10
+defeat 7:13 27:18 34:24 47:15 elects 5:19
+47:11 50:21 determines 25:1 50:15 emphasis 10:19
+6:12 7:22 18:3 25:25 differ 14:6 25:21 50:9 47:18 49:13
+13:14 27:14 difference 35:13 dismiss 10:5 52:25 55:3
+16:3,17 defects 7:23 different 6:1 36:24 55:19 emphasized
+39:24 14:4,4,22 20:4 dismissed 16:19 50:16
+33:11 defendant 47:19 29:13,14 31:5 48:16 54:8 employees 23:24
+35:8,17 49:22 37:13 39:22,23 dismissing employment
+36:13 defendant's 40:4,9 44:6 16:18 52:25
+38:1,9 51:1 differentiates dispute 39:23 encompassed
+49:10 definitely 24:7 5:10 disqualifies 45:24
+55:7 definition 3:16 differently 32:4 22:15 encourage 38:18
+defraud 11:12 direct 10:18 district 55:7,14 42:3
+21:9 33:3 defrauding 49:4 20:14,17 26:8 document 30:24 38:15
+demonstrated 30:21 31:14,18 32:7,9 engaged 39:17
+39:13 departed 51:11 35:20 39:7 32:10 54:24 engineer 47:24
+Department 41:10 42:21 55:13,13,15 engineering
+40:16 evidence 23:5 47:10,12 55:7 29:19 30:9
+28:2,4 29:7,25 failing 19:3 first 13:17 22:7 Freibach's 26:8
+50:16 failure 42:14,22 38:17 49:14 fully 25:4,6
+48:12 43:21 47:7 51:8 firsthand 25:9 40:9
+eviscerate 35:22 failures 42:9 38:19 funds 45:21
+14:15 examine 14:21 false 11:7 14:2,5 five 14:4,14 50:18
+45:23 17:10 27:20 22:21 future 50:14
+45:6 examined 36:21 34:12,13 35:22 fix 18:9 31:4
+40:8 50:13 51:7,15 27:4 G 3:1
+41:19 Excuse 21:13 falsified 24:11 41:12 42:9 general 1:21
+51:3 expansive 7:8 falsity 13:19,21 55:1 4:16 5:12 6:16
+34:9 50:20 far 42:8 focuses 51:23 33:15
+39:18 explained 39:16 FBI 31:11 32:18 follow 28:16 generalized
+41:22 extent 40:23 33:21 40:23 followed 28:11 39:11 45:25
+44:21 extreme 7:20 FCA 14:8 29:5,6,12 generally 40:22
+48:18 features 38:2 following 11:18 44:20
+18:2,7,17 20:3 file 8:22 14:13 forward 23:9 given 3:12 38:12
+38:3 39:2 50:1 51:20 51:25 giving 45:5
+facts 19:20,24 40:3 fraud 11:14 13:1 38:5 44:2
+factual 11:2,3,4 51:19 31:3 43:4 46:6 going 16:22 18:8
+16:15 50:11 find 3:14 17:1 53:25 54:1 26:5 31:4,4
+fail 44:14 46:22 finding 55:7 12:4,8 14:1 47:24 49:10
+42:1,11,19 fine 18:18 19:4,6 53:2 good 22:9,11,25
+handled 4:3 ideally 22:4 information 21:23 46:6
+5:5,22,23 22:19 43:19 18:14 21:10,12 16:9 20:12,17 intervened 8:25
+8:23 happens 19:8 21:15,19 39:22 23:1 25:11 40:5
+11:12,21 hard 12:14,15 50:21 54:19,23 30:19 31:9,14 intervenes 5:22
+19:3 hazardous 41:19 54:23 31:15,25 32:5 6:25 8:23 10:8
+20:1 45:19 51:3 identifies 11:2 32:8,16,25 21:4 40:2 45:3
+21:4 health 12:24 identify 16:12 33:8 34:16,20 50:6,7
+22:4,5 44:22 imagine 47:8 35:11,14,15 intervention
+24:5,21 hear 3:3 48:18 36:7,8 38:22 7:23
+25:3,15 held 3:12 10:17 Immunities 39:8,20 40:21 introduce 40:12
+30:20 36:13 37:11 15:20 41:10 43:6 40:15
+31:3 Herculean implausible 44:8,10,10,13 introduced 30:1
+32:1,11 51:10 10:1 49:22 51:17,24 30:6 54:25
+36:17 hide 16:8 implicated 52:7 investigates
+38:3,7 higher 36:24 38:14 initial 45:3 19:14
+highest 37:1 important 24:22 48:15 investigation
+40:2,4 highlights 23:2 26:2,13 27:16 initiated 5:20 33:10 40:23
+41:18,24 honest 31:9 33:5,10 35:4 inquiries 15:2 invoke 49:21
+44:23 Honor 3:22 4:14 35:16 44:18 inquiry 39:6 involves 15:25
+4:23 5:9,16 53:24 insolid 27:21,24 involving 36:25
+46:4,13 7:17 8:16 9:5 improper 11:19 29:9,17 irrelevant 39:4
+9:11 11:24 inadequate insolidity 27:19 irrigation 55:10
+12:7 13:14 42:14 50:23 27:25 41:13 isolated 42:15
+50:5 14:25 15:11 inappropriate inspections issue 8:1 9:15,18
+51:5,21 16:20,23 17:5 36:16 26:11 9:24 10:16
+17:24 18:21 include 49:18 instable 29:9 13:7 15:18
+7:16,23 23:4,16 24:7 29:22 14:3 15:21 35:7,7,25
+22:8 25:2 28:1 29:18 inconsistent 16:13 40:4 52:10 55:10
+38:10 30:11,14 31:17 23:6 instinct 52:1 issues 55:10
+45:2 32:2,17 34:7 independent intended 24:24
+52:22 53:19 55:16 10:18 11:9 38:18 42:8 J
+54:5 huge 29:1 30:21 31:15,18 intention 50:4 JA 24:11 31:25
+hypothesis 41:10 43:4,5 38:14 49:10 JA-189 11:1
+hypotheticals 29:13 11:1 15:7 42:5
+10:11 45:1,12 46:1 14:12 28:7,13,15,20 maintained
+16:4 46:18 47:17,21 28:24 29:1,8 36:20
+37:3 48:8,19 49:2 L 30:8 major 8:24
+50:20 51:16 L 1:20 2:9 37:23 litigated 14:8 making 13:4,5
+9:22 14:23 53:15 55:12,22 language 5:5,9 little 22:1,19 28:19 43:10
+31:21 6:3 36:9 28:4,6 47:13 MALCOLM
+35:25 K late 55:15 53:17 1:20 2:9 37:23
+54:9 Kennedy 11:11 Laughter 21:17 logical 7:12 malfunction
+20:25 key 11:25 20:14 laws 14:3 17:14 long 4:11 7:4,5,5 manager 27:12
+23:7 54:24 39:18 40:8 19:6 manner 25:14
+30:6,8,9 kicked 50:2 41:22 46:15 longer 43:20 26:4
+42:18 kind 12:7 28:9 lawsuit 19:14 look 4:23 5:9 6:2 manufacturing
+47:8 39:2 46:23 49:14 6:3,20 10:25 53:20
+kinds 5:11 6:15 lead 26:5 14:19 16:11,16 March 11:8
+4:10 22:20,23 25:15 51:3 46:3 52:6 matter 1:12
+5:4,18,25 42:2 44:24 leaking 18:6 55:15 10:23 46:19
+8:13 9:3 51:4,12 53:3 23:23 45:19 looked 21:11 53:16,18 56:1
+11:11 13:9 54:15,25 53:22 54:2 looking 15:14 MAUREEN
+14:18 know 7:19 8:1 learn 49:22 36:8 1:16 2:3,12 3:7
+16:21,24 12:8,25 14:13 leave 38:24 lose 8:18 52:19
+18:16 17:11 18:12 leaving 48:17 loss 37:15 50:24 mean 10:11
+19:9,22 21:22 22:14,20 led 39:16,24 lot 31:1 13:18,18,22
+21:12,15 31:3 43:8 46:8 left 10:24,24 lying 27:21 46:4 16:25 18:8
+22:2 47:22 48:14 11:8 12:9,19 19:11 22:10
+24:3 49:23 53:7,8 16:16 17:1 M 27:5 31:2 37:3
+25:10 54:1 19:8 42:22 machinery 40:1 42:7,22
+26:19 knowing 11:5 43:20 44:2 47:11 46:1 47:8
+51:7 legislation 19:10 Mahoney 1:16 48:14 52:1,9
+29:5 knowledge lengthy 39:15 2:3,12 3:6,7,9 means 7:9 15:12
+10:18 11:9 let's 14:3 20:7 3:17,22 4:2,12 26:22 54:13
+12:2 20:10,12 27:13 40:10 4:14 5:8,24 6:2 measure 23:11
+20:14,17 25:8 46:20 7:17,21 8:16 measured 10:21
+30:21 31:18 level 33:12 9:5,10 11:24 measures 51:10
+33:2,6 34:19 35:3,13 liability 41:15 13:14,23 14:25 meeting 47:24
+35:20 38:20 42:17 45:18,22 15:11 16:23 47:25 48:3,5
+39:7 41:10 50:13 51:2 17:5,15,18 meetings 32:13
+36:12,15 42:21 43:4,5 liable 51:14 18:20,24 19:18 32:18
+37:5,20 43:14,14 44:16 lie 46:9,9 20:3,20 21:13 members 36:5,6
+38:23 44:17 49:25 limitations 6:13 21:18,21 22:13 mentioned 34:1
+40:10,17 52:23 53:2,21 line 46:16,16 23:16,19 24:6 mere 18:2,7
+41:4,8 54:4,10,13,20 48:20,22 24:14 52:18,19 20:3
+43:7 known 54:2 linkage 35:5 52:21 53:14,19 met 31:11
+44:12 knows 11:16 liquid 26:5 27:2 55:16,23 metal 18:10
+31:11 48:3 original 3:13,15 particularly pipe 17:8 18:3,8
+41:9,21 45:20 7:5,14 9:2,23 party 7:5 38:12 25:16,17 40:13
+52:5,15 55:19 23:3,12 24:22 40:21 piping 26:22
+34:11 34:16 35:23 14:5 place 11:14,15
+24:4,7 33:8,9 44:18,20 45:23 46:7 placed 30:13
+46:14 nice 38:23 52:5,14,23 penalized 22:9 plaintiff 7:6,14
+44:23 7:6 ought 38:25 percent 14:17 37:14 43:24
+notion 7:4,8,11 outcome 15:12 perfect 8:20 plaintiffs 50:10
+10:3 11:13 O 2:1 3:1 15:3,23 16:18 performance plant 11:6 12:14
+39:3 observed 47:23 22:18 23:11 24:10 16:16 43:20
+48:6 obviously 49:9 34:24 54:21 period 18:18 pleading 18:5
+49:20 55:18 27:10 pleadings 4:9
+36:24 occurred 10:23 14:14 43:24 44:3 24:19 38:1
+16:16 42:21,23 overlaps 44:10 person 5:20 6:5 pled 8:10
+49:7,8 once 10:1 22:25 31:25 52:20 pondcrete 3:13
+49:16 53:6 1:17 2:4,13 3:8 12:9,11,14,15
+50:12 operator 47:12 paradigm 25:8 petitioner's 16:14 17:11,17
+52:13 55:5 42:12 phrase 6:21 32:4 19:13 23:8,22
+3:7 24:16 part 8:1 40:13 7:11 29:14,17 34:10
+34:13 order 6:7 10:20 participate 10:5 piece 22:1 23:1 41:13,18,20,25
+15:6 41:5 particular 14:20 45:6 42:1,9,10,19
+45:19 prerequisite prompted 19:14 puts 11:14,14 28:22 38:12
+47:4,7,10 14:24 prong 31:8 putting 46:22 44:14,15 45:4
+present 27:2,2 32:24 p.m 55:25 45:13 46:25,25
+55:9 39:14 proof 53:4 47:4,6 48:25
+48:4 prosecute 50:7 question 3:18 reasonable 12:3
+29:23 presumably 30:16 41:5,18 23:15 29:25 45:8
+51:21 53:12 41:2 51:2 37:14 41:12 receives 20:2
+38:4,6 prevailed 23:18 proves 48:10 43:23 44:2,4 recognize 44:18
+38:16 45:18 provide 30:22 48:17 49:9 recognizes
+49:11 probably 52:2,9 41:5 quite 53:11 52:2
+problems 17:21 25:1 33:4 34:3 R 3:1 21:24 25:1,3
+39:18 53:9,20 37:6,8 44:6 raise 52:10 45:2
+44:5,9 49:18 12:24 49:19 range 10:4 23:25
+49:16 21:24 23:17,19 28:10,11 29:11 references 42:15
+24:5 33:13,15,19 18:4 refers 39:10
+6:4,25 9:14 35:19 43:16,22 reaction 48:15 refine 36:17
+process 26:22 48:25 52:4,7 29:25 42:3 regard 41:14
+43:1 processes 27:1 publicly 33:22 reads 3:21 42:4 regarding 36:5
+produced 18:19 published 34:16 really 5:4,16 rejected 55:20
+40:12 43:8 6:19 8:10 9:8 relationship
+17:23 27:14 24:23 44:6 33:17 39:3 relatively 50:11
+28:5,6,9
+8:11,22 30:15 32:3,15 34:25 26:21 31:1 9:13,17,19,24
+10:1,6,13 requirement 37:20 46:1,18 34:2 35:3 46:3 20:1,24,25
+14:11 34:20 52:16 55:22 46:20,24 47:22 21:8,22 25:2
+20:23,25 requirements Rockwell 1:3 55:5,6,6 38:11 47:11,13
+3:16 3:4 7:18 12:14 Scalia 3:17,24 47:20 49:13
+requires 4:25 12:22 17:7 4:10,13 5:4,18 shared 38:7
+31:8 30:20 31:8 23:8 25:9,11 5:25 7:2,19 9:3 shift 16:9
+38:7,18 43:5 54:4,10 33:11 34:6 9:7 13:21 shipping 12:16
+44:7 respect 7:24 35:16 39:9,17 18:16,22 21:20 show 15:5,8
+17:20,21,25 40:6 41:20,21 25:12,20 26:19 18:4 53:13,15
+32:8 51:11 42:2,7,22 27:10,16,23 shown 47:10,12
+54:10 52:14 43:17,21 44:21 29:24 30:5,12 similar 44:9
+49:15 1:19,22 2:7,10 51:4,9 55:18 37:5 38:23 simply 8:22 16:8
+24:17 37:24 Rockwell's 11:5 40:10,17,25 28:9,14,16
+50:7 53:10 38:4,15,20 42:25 43:7,13 single 10:23
+53:4 responsible route 22:12 scheme 40:9 14:20,23 19:23
+40:23 rule 8:17,17 48:1,2 19:25 40:2
+result 26:23 36:16 43:19 search 33:22 six 25:9
+resulted 29:9 50:9 54:5,8,11 second 4:19 50:5 26:3,11,16,22
+return 45:10 49:18,19 4:20,24 5:1,14 28:13,15,20,23
+right 5:21,23 8:4 44:21 sections 5:10 solidified 53:13
+33:1,8 40:13 satisfied 25:6 seeking 33:18 38:21
+53:8 rings 11:20 52:14 54:11 49:20 55:14
+51:5,13 ROBERTS 3:3 saw 43:24 sense 8:21 10:6 source 3:13,15
+43:4 19:22 20:16 says 3:25 4:3 55:2 22:16,17 23:3
+29:2,3 30:17 31:13,23 13:11 20:6,22 share 3:12 9:12 30:6 33:3
+35:23 statute 3:21,23 34:21 35:13,20 suggestion 54:5 35:18 52:25
+51:17 6:11,13 8:19 38:6 39:5 suggests 5:22 53:5 55:4,6
+9:16 10:6,10 45:23 suit 11:22 40:3,5 tenure 17:23
+10:15 13:10 stopped 23:9 48:25 49:16 26:15
+19:18 20:6 stored 23:22 summarizes terminated 17:2
+39:12 43:3 51:23,23 study 26:21 supposition 54:23
+54:4,9 subject 12:17 42:13 testify 30:3
+28:10,10 33:24 34:4,15 suboptimal 17:8 swallow 7:4 52:16 55:21,22
+33:11 51:16 52:6 subsection 6:5,7 system 18:18 theories 22:7,24
+37:1 Stewart 1:20 2:9 6:8,16,17,20 19:6 25:17,25 55:10
+36:21,21 40:1,15,20 39:15 39:17 43:25 15:25 16:2,4
+41:2,6,9 42:24 substances 27:4 systemic 38:13 22:1,2,5,8,17
+46:11 47:2 substantial 12:1 T 1:18 2:1,1,6 41:14 42:15,16
+34:13 Stone 1:19 2:7 40:3 44:10 taken 28:7 51:9 thing 7:15 11:18
+3:12 9:16 substantive 9:22 takes 21:7 14:15 16:19
+25:7,21 28:25 51:14 talking 37:7 43:1 44:1
+2:10 3:5 32:10 38:4,8 sufficient 41:17 35:2 things 18:11
+38:17,19,21 42:1 44:8,12 tax 46:6 20:14 31:2
+5:2,11 39:7,9,15 47:1,3 taxes 46:7,9 36:14 49:13
+7:7,9 40:11 42:7 sufficiently technically 8:9 think 4:2,7 5:5,8
+8:20 9:15 43:18 47:11,13 46:10 tell 34:7 49:21 7:22 8:8,17,21
+17:11 53:6,20 54:19 suggested 26:22 Tenth 3:11 9:5 11:25
+24:25 55:8 45:10 52:22 10:17 13:3 15:13,19 18:20
+37:24 Stone's 9:25 suggesting 20:14 30:23 18:24 19:5
+42:8 32:12 33:23 19:23 47:20 32:5,6,9 33:16 21:7,18 22:15
+29:7 53:12 40:11,18,25 37:5,21 witnesses 28:2
+39:2,3 truly 29:16 41:4 49:23,24 29:1 54:19
+42:4,17 truthful 31:9 uses 6:11 8:19 W wonder 38:9
+44:17 Try 47:21 37:9 wait 5:18 word 37:9,10
+46:3 Tuesday 1:10 U.S.C 8:7 Walton 37:9 words 5:1 6:6
+turn 10:16 53:24 want 22:6 23:5 13:24 14:1
+48:7,21 turned 44:14 V 31:23 40:16 20:21 28:12
+50:3 52:2 47:5 v 1:6 49:6,13 50:8 work 16:22 17:2
+54:13 turns 15:17 validity 17:3 52:25 19:12,13,16
+39:22 46:23 variability wants 20:9 31:1,2 54:17
+two 5:10 6:15 variance 22:5 Washington 1:9 working 19:6
+36:1 49:13 26:16 28:7,13 wasn't 12:15,16 worse 30:17
+type 4:19 38:18 50:21,25 30:15 40:13 18:3 42:2
+23:13 U 29:8 50:11 54:3,15 written 9:13
+39:13 ultimate 51:1 variety 18:9 wasted 8:15 19:19
+54:2 ultimately 23:18 verdict 27:18 wastes 26:25 wrong 3:18 15:4
+48:10 50:12 view 38:17 Water 37:9 36:1,1,9,11
+40:24 viewed 4:7 6:14 7:11 9:12 48:13 49:3,3,5
+42:3 25:17 30:23 violation 11:6 16:7 19:16,19 x 1:2,8
+Unfortunately violations 12:11 ways 18:9 21:10 Yeah 26:19
+19:6 United 1:1,7,13 43:25 44:22 23:11 25:19 years 11:17 13:5
+26:7,9 1:22 2:10 3:5 51:20 48:4 54:25 13:7 22:21
+30:2,4 4:6,8,11,17,18 virtue 36:9 weren't 9:18 25:9 54:2
+37:2 4:22 5:2,11 voluntarily 12:13 17:10 55:20
+42:3,8 6:18,25 7:7,9 30:22 31:8 19:1 53:16 York 1:18
+45:18 7:12 8:20 9:15 55:2 we'll 19:24
+17:11 Vullo 1:18 2:6 we're 7:20 37:6 0
+54:18,25
+24:25 24:15,16,18 We've 36:19 05-1272 1:6 3:4
+38:6 42:7 28:1,21 29:10 widely 23:21
+5:3 9:19
+11:17 54:11
+52:5 unusual 14:23 31:17 32:2,6 44:21
+43:19 48:17
+18:22 27:13 31:4 34:17 35:6 withdrew 37:15
+1:14 3:2
+53:7 5
+15:24 5 1:10 13:4,7
+55:25 54:2
+24:11 500 28:2
+8:7 52 2:13
+25:23 522 26:9,18
+25:23 26:20 55 28:2 54:19
+25:21 6
+32:19 605 30:24 31:25
+32:20
+36:12 9
+23:20 987 26:10,17
+11:1
+39:13
+17:24 23:8
+11:8 32:19
+11:7 12:10
+11:15
+34:10
+11:7 39:14
+26:16
+1:10
+2:7
+32:11
+32:11
+14:16 21:23
+29:21
+8:6
+25:23
+25:24
+2:4 5:19,19
+42:5,13
+29:21
+26:16
+2:10
+4:15
+4:20
+25:1
+6:20 52:18
+33:7 34:1

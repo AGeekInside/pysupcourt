@@ -1,0 +1,1661 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+THE PERMANENT MISSION OF :
+INDIA TO THE UNITED :
+NATIONS, ET AL., :
+Petitioners :
+v. : No. 06-134
+CITY OF NEW YORK, NEW :
+YORK. :
+- - - - - - - - - - - - - - - - - x
+Washington, D.C.
+Tuesday, April 24, 2007
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 10:02 a.m.
+APPEARANCES:
+JOHN J.P. HOWLEY, ESQ., New York, N.Y.; on behalf of
+Petitioners.
+SRI SRINIVASAN, ESQ., Assistant to the Solicitor
+General, Department of Justice, Washington, D.C.; on
+behalf of the United States, as amicus curiae,
+supporting Petitioners.
+MICHAEL A. CARDOZO, ESQ., New York, N.Y.; on behalf of
+Respondent.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+JOHN J.P. HOWLEY, ESQ.
+On behalf of the Petitioners 3
+ORAL ARGUMENT OF
+SRI SRINIVASAN, ESQ.
+On behalf of the United States, as amicus
+curiae, supporting Petitioners 18
+ORAL ARGUMENT OF
+MICHAEL A. CARDOZO, ESQ.
+On behalf of Respondent 28
+REBUTTAL ARGUMENT OF
+JOHN J.P. HOWLEY, ESQ.
+On behalf of the Petitioners 53
+P R O C E E D I N G S
+[10:02 a.m.]
+CHIEF JUSTICE ROBERTS: We'll hear argument
+first this morning in case 06-134, The Permanent Mission
+of India to the United Nations et al. vs. The City of
+New York.
+Mr. Howley.
+ORAL ARGUMENT OF JOHN J.P. HOWLEY,
+ON BEHALF OF PETITIONERS
+MR. HOWLEY: Mr. Chief Justice and may it
+please the Court.
+These are tax enforcement lawsuits. If
+jurisdiction existed, the only issue a court would
+decide is whether a tax is owed. This type of case did
+not fall within any real property exception to sovereign
+immunity before Congress passed the Foreign Sovereign
+Immunities Act and Section 1605(a)(4) of that act did
+not create a new exception where none had otherwise
+existed. Congress chose --
+JUSTICE SCALIA: Of course you could say the
+same thing if the mission here sold its property to
+someone and someone was claiming the right to possess
+the property by reason of the sale. And you could come
+up and say this is simply, simply a case deciding the,
+the ultimate issue of whether the sale occurred or not.
+MR. HOWLEY: Uh --
+JUSTICE SCALIA: But it would clearly come
+within the property right exception, wouldn't it? You
+-- you don't go one step back to look at the transaction
+that created the, the right in real property assuming
+the right in real property exists.
+MR. HOWLEY: Actually, Justice Scalia, I
+believe that if you had a dispute over what happened
+with the sale of property that it would fall within the
+based upon commercial activities exception in
+1605(a)(2).
+JUSTICE SCALIA: Let's assume that, let's
+assume that exception didn't exist.
+MR. HOWLEY: Okay.
+JUSTICE SCALIA: And you had nothing but the
+real estate exception. You would come in and say this
+ultimately relates to not who owns the real estate but
+whether there was a proper contract or not. And I --
+frankly we wouldn't accept that.
+MR. HOWLEY: No. And I think that's a very
+different case from what we have here because in that
+case the issue for the Court to decide is which of the
+parties has the right, has the title in the real
+property. That is not in issue here. The City of New
+York does not seek title in this property. Their action
+is to declare the validity of a tax lien and the issue
+in an action to declare the validity of a tax lien is
+whether the tax is owed and whether it has been paid.
+That is the issue that's presented to the Court.
+JUSTICE GINSBURG: But what New York is
+seeking is an interest in land and a lien is an interest
+in the land. It runs with the land, doesn't it?
+MR. HOWLEY: I -- I -- yes. I acknowledge
+that there are some similarities between a lien and a
+right in property. For example, that it runs with the
+land. But there are dissimilarities that are far more
+numerous and far more significant. Unlike rights and
+property a lien does not give the lien holder any right
+to own, access, possess, cross over, collect rents from,
+exclude or any other right in the property.
+JUSTICE SCALIA: Can't he force a sale of
+the property to collect the lien?
+MR. HOWLEY: This action does not.
+JUSTICE SCALIA: I understand that this
+action does not because of the sovereign immunity. But
+-- but we are talking about what the nature of a lien
+is. In an ordinary case cannot a lien holder force a
+sale of the property so that he can get out the money
+represented by his lien?
+MR. HOWLEY: Yes. If the lien holder
+commences an action to foreclose on the property, then a
+consequence of that could be the sale of the property.
+JUSTICE SCALIA: Well, how can he commence
+an action to foreclose on the property unless he in any
+ordinary sense of the term has an interest in the
+property?
+MR. HOWLEY: I do not dispute that a lien
+holder has an interest, a security interest in the
+property. But Congress did not write in Section
+1605(a)(4) all interests that are in issue in property.
+Congress in fact had the European Convention in front of
+it which said rights, interests and obligations in
+property. Congress chose language from the European
+Convention elsewhere but did not choose that language
+here. Congress said only rights in property.
+JUSTICE SCALIA: You're distinguishing
+between rights in property and interests in property? I
+would think that every right in property is an interest
+in property and vice versa.
+MR. HOWLEY: No. I do not believe so,
+Justice Scalia. There -- there -- there has to be a
+reason why Congress chose language verbatim from the
+European Convention in other sections of the statute
+such as the counterclaim exception, but in this
+exception said we are not taking interest and
+obligations from the European Convention, we are only
+saying rights. And this Court --
+JUSTICE GINSBURG: The counterclaim sounds
+to me very much like it comes straight out of the
+Federal Rules, not out of any convention. It's the same
+transaction and occurrence, right?
+MR. HOWLEY: Yes. Yes. The, the
+counterclaim exception --
+JUSTICE GINSBURG: Well, that's exactly what
+it says in the Federal Rules about compulsory --
+MR. HOWLEY: Yes, but Congress said, in the
+House report Congress refers to the European Convention
+as the source for the counterclaim exception in the
+Foreign Sovereign Immunities Act so Congress said we are
+taking this from the European Convention. This -- this
+language also --
+JUSTICE SCALIA: Congress didn't really say
+it. I mean the committee said it to be precise.
+MR. HOWLEY: Yes, that's absolutely correct,
+Justice.
+JUSTICE SCALIA: Good.
+JUSTICE BREYER: What was your distinction
+between a mortgage and a tax lien?
+MR. HOWLEY: I don't think there is a
+distinguished, a distinction between a mortgage and a
+tax lien.
+JUSTICE BREYER: Well, so think they can't
+enforce mortgage under this? That is to say the bank
+can't; it's not an interest of property in mortgage?
+MR. HOWLEY: No. But Congress, Congress
+passed another exception here, 1605(a)(2) that said
+actions based upon commercial activity provide an
+exception to sovereign immunity and these exceptions
+have to be read together. They have to be read --
+JUSTICE BREYER: That's, that's where it's
+hard for me because a purchase money mortgage, you sell
+the real estate. Ordinary secured interest in mortgage
+is secured interest by a lender is normally viewed as an
+interest in property, I think. I mean is there, is
+there any law anywhere that says that isn't an interest
+in property?
+MR. HOWLEY: Well, actually there is. In
+the, in -- when the United States waived immunity from
+suit concerning real property it limited its waivers to
+liens and mortgages and not rights in property. And so
+there has been distinctions made between mortgage liens
+and liens on the one hand and rights in property on the
+other.
+JUSTICE KENNEDY: Well, on that point in
+some jurisdictions and perhaps you can tell me about New
+York, I had thought and correct me if I'm wrong, that
+tax liens have a superior status to other liens in that
+they are an, an interest or an estate in the property as
+opposed to an attachment.
+Is it not true? And I don't, and I'm not
+talking just about order of priority for creditors. I'm
+talking about the superiority insofar as being or not
+being an interest in property.
+MR. HOWLEY: Well, yes. It is superior to
+other types of liens.
+JUSTICE KENNEDY: Yes.
+MR. HOWLEY: It is an interest, a security
+interest in the property, but it is not a right in the
+estate of the property, and it doesn't give any type of
+the possession and ownership rights that every other
+right in property gives.
+JUSTICE KENNEDY: Is there New York law to
+that effect?
+MR. HOWLEY: Yes, there is. And we have
+cited it in our brief. The Respondent has attempted to
+distinguish it, because a Court of Claims jurisdictional
+act was passed that deemed a lien an interest in
+property for purposes of jurisdiction in the New York
+Court of Claims but the essential nature of a lien is
+not, under New York law, a right in the estate.
+JUSTICE KENNEDY: Because I had -- I had
+thought that it is an estate in land in at least some
+jurisdictions. And Justice Breyer was asking about the
+same thing. In other words, there are liens -- there
+are liens and liens. There are different kinds of
+liens.
+MR. HOWLEY: There appears to be in
+different jurisdictions, different treatments of liens.
+CHIEF JUSTICE ROBERTS: Well, that brings up
+the basic question I have, is this a question of State
+law or Federal law?
+MR. HOWLEY: This is a question of Federal
+law. This Court has held --
+CHIEF JUSTICE ROBERTS: So even if you have
+different rules in different States, there is going to
+be one rule under Federal law under 1605(a)(4)?
+MR. HOWLEY: Yes, that is correct, Mr. Chief
+Justice. And this Court held in Saudi Arabia against
+Nelson and Argentina against Weltover that the exception
+language -- they are dealing with the commercial
+activities exception -- must have the meaning that
+Congress understood the restrictive theory of sovereign
+immunity to require at the time it passed the statute.
+And so when defining what a right in
+immovable property in issue means, we have to give that
+the meaning that the restrictive theory of sovereign
+immunity required at the time in 1976. And in 1976, no
+court here in the United States or anywhere in the world
+had held that sovereign immunity was abrogated merely by
+having a statutory lien on the property.
+JUSTICE SOUTER: Had the State Department
+taken a position at that point, at the time the Act was
+passed?
+MR. HOWLEY: There is -- not to my
+knowledge. There is vague language in the testimony in
+the House report, general language about 1605(a)(4)
+relating to real property disputes, but there is not
+precise language about whether liens are or liens are
+not --
+JUSTICE GINSBURG: There was nothing vague
+about the State Department's brief in the Englewood
+case.
+MR. HOWLEY: No, there is not, Justice
+Ginsburg. But they lost in Englewood. They lost and
+the Englewood Court relied on a D.C. Circuit decision.
+And I believe that the Solicitor General will say that
+they have reconsidered their position, they have
+reconsidered Article 29 of the European Convention,
+which they relied on heavily in the Englewood brief.
+JUSTICE GINSBURG: But anyway, at a time
+closer to the passage of the Act, the State Department
+was taking the position that a lien was an interest in
+land.
+MR. HOWLEY: Yes, that is correct. But they
+have since decided that that position was wrong.
+CHIEF JUSTICE ROBERTS: Well, they just may
+be more sympathetic to India and Mongolia than they were
+to Libya.
+JUSTICE SCALIA: That's not beyond the realm
+of the conceivable, is it?
+MR. HOWLEY: It's not beyond the realm of
+the conceivable.
+JUSTICE BREYER: But I take it there has
+never been a case in the history of the world you'll
+tell me where a lender or bank or anybody who loaned
+money to build an embassy has ever brought a case
+against the owner of the embassy, the sovereign, and won
+under anything like this exception, because they can't
+sue them.
+MR. HOWLEY: Not that we're aware of, and
+not that we've seen --
+JUSTICE BREYER: Ever. And there is none
+the other way, where they said you couldn't sue them.
+MR. HOWLEY: Yes.
+JUSTICE BREYER: Okay. So why do people
+lend money to build embassies?
+MR. HOWLEY: Well, because once you lend
+money and you engage in commercial activity, if the
+claim is based upon the commercial activity, Congress
+had provided a separate section, 1605(a)(2) that
+protects the American citizen who has lent money to an
+embassy.
+JUSTICE BREYER: And how did it work before
+1605 was passed, how did they used to build, in the 19th
+century, embassies, if you know.
+MR. HOWLEY: I don't know about 19th century
+embassies. I do know that since the Tate letter, which
+predates the Foreign Sovereign Immunities Act, there has
+been a commercial activity exception here in the United
+States.
+JUSTICE SCALIA: Why isn't buying land that
+you're not using for your embassy itself, or for the
+residence of the ambassador, but buying and occupying
+that land which subjects yourself to real estate taxes
+on that land, why isn't that a commercial activity?
+MR. HOWLEY: Well, this Court held in Saudi
+Arabia against Nelson that it's not just engaged in,
+related to commercial activity, but the cause of action,
+the claim has to be based upon commercial activity.
+JUSTICE SCALIA: So the Indian embassy could
+own real estate throughout New York City, which it
+wouldn't have to pay taxes on? Or if it didn't, nothing
+could be done about it?
+MR. HOWLEY: It depends on the use they put
+that property to.
+JUSTICE SCALIA: Why? No. You're saying,
+you're saying it's not a commercial activity. I mean --
+MR. HOWLEY: The mere ownership of the land
+is not --
+JUSTICE SCALIA: It depends upon the use,
+and the use in this case is not -- is not the embassy
+itself or the residence of the ambassador. I mean, they
+could use a piece of property for anything.
+MR. HOWLEY: As long as it's not commercial
+activity, it would not be taxed and --
+JUSTICE SCALIA: But the buying and
+occupying of it is commercial activity.
+MR. HOWLEY: Well, the buying of it, if the
+claim is based upon the buying of the property, under
+Saudi Arabia against Nelson, then the commercial
+activities exception would apply. But the mere
+ownership of the property is not commercial activity.
+JUSTICE KENNEDY: Why isn't it commercial
+activity for New York to say, we provide garbage
+services, electric services, et cetera.
+MR. HOWLEY: Well, separate and apart from
+the jurisdictional issue, the Vienna Conventions do say
+that if there are fees for services provided, such as
+garbage collection, water, those types of services, then
+there is no immunity from the fees for those services.
+And those fees should be paid. The separate issue of
+whether that's commercial activity, it may be. It
+doesn't matter whether the city provides a service such
+as water, or a private entity provides a service such as
+water. That may be commercial activity.
+JUSTICE KENNEDY: But they pay fees and New
+York taxes. Suppose New York doesn't have fees.
+Suppose they say, we'll just do this out of our property
+tax.
+MR. HOWLEY: Well, no, that does not -- on
+the substantive issue of whether it's immune under the
+Foreign -- under the Vienna Conventions, a tax is
+immune. They are immune from a tax, but they're not
+immune for a fee for service. That is how the Vienna
+Conventions --
+JUSTICE GINSBURG: And in reality, you will
+never get there, because the Vienna Convention deals
+with the substantive liability -- you're talking about
+jurisdiction. On your theory, you would never get to
+the fee for picking up the garbage, because you wouldn't
+have any jurisdiction.
+MR. HOWLEY: No, Justice Ginsburg, not at
+all. That's not my position. Let me make my position
+clear. If there is a fee for service provided, such as
+garbage collection, or provision of water, that would
+fall under the commercial activities exception. But if
+there is a tax, unless the activity at issue and the
+cause of action at issue is based upon the commercial
+activity, there is no jurisdiction. This does not mean
+--
+JUSTICE GINSBURG: The commercial activity,
+it's applied to that same building that you say can't
+be -- it can't be any suit for taxes.
+MR. HOWLEY: Yes. There cannot be a suit
+for taxes. There could be a suit for specific fees for
+services rendered. But --
+JUSTICE GINSBURG: Even -- even if this, the
+building were only the mission and the representative,
+the minister to the U.N., even then --
+MR. HOWLEY: Yes.
+JUSTICE GINSBURG: -- the water of a
+municipal service, garbage collection, could be charged.
+MR. BAKER: Yes, Justice Ginsburg, just as
+if the Indian mission went out to a private water
+company and said, please supply me with water, the
+private water company could sue, based on commercial
+activity, to collect for the water it had provided. It
+doesn't matter if it's the city.
+JUSTICE GINSBURG: Well, it's the city. Not
+a private company, the city itself.
+MR. HOWLEY: The nature of the activity
+doesn't change just because it's the city providing the
+water as opposed to a private entity providing the
+water. We have to look at the nature of the activity.
+JUSTICE SCALIA: Of course, this isn't a
+suit for the taxes. I mean, we are not talking about a
+suit for the taxes.
+MR. HOWLEY: We are here --
+JUSTICE SCALIA: We are talking about a
+declaration as to the interest in the land.
+MR. HOWLEY: No. No, Justice Scalia.
+Absolutely not. Joint Appendix page 78 is the city's
+amended complaint. And even in their foreclosure claim,
+even in their foreclosure claim, what they ask is for a
+judgment of foreclosure directing that the Defendant pay
+the amount of taxes, interest and other charges due.
+They are not asking for an interest in the property.
+All this case is about is money. It's not
+about rights in the property. And there is a very big
+problem with allowing a claim for money to become a
+right in property merely by having a local law passed
+that converts the claim into a lien. The City of New
+York tomorrow could pass a law that said, if you don't
+pay your parking tickets, that is automatically
+converted into a lien on the property. And then while
+we can't sue you for the parking tickets, we have
+created a right in your property.
+JUSTICE GINSBURG: You could easily say
+there has to be a relationship to the property itself.
+MR. HOWLEY: Well, that's not -- that's not
+what the City's position is. The City's position is a
+lien is an interest in property and falls within the
+statute. And Congress didn't write in the statute
+arising out of, related to. It said, rights in the
+property are an issue. So if under the City's theory,
+if they passed a lien law tomorrow converting all
+parking tickets into liens on property, then their
+position is they could sue us for parking tickets. And
+if there are no further questions, I will reserve the
+rest of my time.
+CHIEF JUSTICE ROBERTS: Thank you,
+Mr. Howley.
+Mr. Srinivasan.
+ORAL ARGUMENT OF SRI SRINIVASAN
+ON BEHALF OF THE UNITED STATES,
+AS AMICUS CURIAE, SUPPORTING PETITIONERS
+MR. SRINIVASAN: Thank you, Mr. Chief
+Justice, and may it please the Court:
+An action to determine whether property
+taxes are owed is not a case in which rights of
+immovable property are an issue, and it's not
+transformed into such a case by attaching a lien, and
+recharacterizing the case as one to determine the
+validity of the lien.
+And I'd like to begin by picking up, Justice
+Ginsburg, on the question you just asked, because I
+think it's very important to emphasize that under
+Respondent's lien-based theory, that theory has the
+potential largely to eviscerate the other exceptions in
+the FSIA in the following sense: Respondent's theory
+doesn't turn in any way on the nature or source of the
+debt that's secured by the lien.
+So under Respondent's view, the fact that
+this case involves a debt that arises out of property
+taxes is largely beside the point. The load bearing
+weight of that theory rests entirely on the supposed
+effects of the lien on the property. And so for
+example, you could have a case in which a commercial
+activity is brought into play, where the plaintiff sues
+a foreign sovereign for commercial activity that occurs
+--
+JUSTICE SCALIA: That's always brought up to
+answer the problem, well, you know -- let me give you a
+case in which it obviously is not a commercial activity,
+but it seems to me that the -- that the lien interest
+has to be honored. Let's suppose that there is an
+American who is very friendly to and sympathetic with
+the Indian government, and gives them real estate, not a
+commercial activity, he gives them real estate in which
+to house the employees in -- in their mission.
+However, he retains an interest in that real
+estate. He retains a lien on the real estate, to have
+money paid to him at some point. He is not willing to
+give the full amount of the property, but most of it.
+And he retains a lien. Now, under your theory, that
+lien would not be enforceable, is that right?
+MR. SRINIVASAN: Well, the lien wouldn't
+constitute a right in the property, and that's
+consistent with what -- the way this Court has always
+described liens. As we point out in pages 21 and 22 of
+our brief, the Court has said --
+JUSTICE SCALIA: Enforceable or not.
+MR. SRINIVASAN: The lien would not be
+enforceable against a foreign sovereign, because -- at
+least with respect to the immovable property.
+JUSTICE SCALIA: That seems very strange to
+me.
+MR. SRINIVASAN: We are only talking about
+the immovable property exception. And with respect to
+that exception, this Court has expounded that a lien on
+land constitutes no property or right in the land
+itself. And it said that on more than one occasion.
+CHIEF JUSTICE ROBERTS: I thought that the
+Department submitted a good brief on this issue, but in
+1985. What do you do with all the arguments -- I'm
+looking at page 12 of your brief in the Englewood case,
+which you argued that these liens were interests in
+property. Are those arguments no longer valid?
+MR. SRINIVASAN: Well, we, of course,
+reviewed our position in that case, and we have come to
+the conclusion that it was incorrect. And in the
+Englewood case, that argument was the third argument in
+the brief. The first two arguments in the brief were
+more along the lines of the Court of Appeals decision.
+JUSTICE KENNEDY: Well, what about the
+argument that it was an interest in property. The brief
+was very clear that it is an interest in property, and
+that a tax lien is almost sui generis, in that it is an
+estate in the property.
+MR. SRINIVASAN: I don't --
+JUSTICE KENNEDY: It survives bona fide --
+it survives bona fide purchaser without notice?
+CHIEF JUSTICE ROBERTS: The other reasons
+you gave, the holder of a lien can bring an action to
+enjoin waste, holders of liens are entitled to
+compensation if eminent domain is exercised. All of
+those reasons are still as valid as they were in 1985.
+MR. SRINIVASAN: Well, let me try to take up
+some of those in order. First with respect to the
+question of whether holders of a lien are entitled to
+compensation in eminent domain, we don't take issue with
+the proposition that a lien is property. A lien is
+property, but the question under the statute is whether
+a lien confers a right in the underlying immovable
+property. And so in an eminent domain proceeding it may
+just be that just compensation is owed to a lien holder
+because to the extent that the eminent domain proceeding
+takes that lien there's compensation owed for that
+property. But that doesn't --
+JUSTICE SCALIA: What property is it a right
+in if not the immovable property?
+MR. SRINIVASAN: Well, it's --
+JUSTICE SCALIA: And it follows that
+immovable property and when the immovable property
+disappears the lien disappears. You know, if it's blown
+away or flooded, it's now in the Atlantic; the lien is
+gone.
+MR. SRINIVASAN: Well, I think --
+JUSTICE SCALIA : But otherwise wherever
+the property goes the lien follows it. How can you say
+that that's not an interest in the property?
+MR. SRINIVASAN: Well, I don't think it's a
+right in property, Justice Scalia. The lien is a
+species of property, of intangible personal property, in
+the same sense that a cause of action would be, because
+after all what a lien is is essentially at bottom a
+claim.
+CHIEF JUSTICE ROBERTS: Well, how can the,
+how can the lien holder then bring an action to enjoin
+waste of the immovable property?
+MR. SRINIVASAN: Well, a lien holder can
+bring an action to enjoin waste, but it's important to
+understand what interest the lien holder is protecting
+in that situation. An action for waste by a lien holder
+is to protect the security interest. It's different
+from an action for waste by someone who holds a right in
+the property. And New York law appears to recognize
+this because New York I think has two species of waste
+actions, one brought by a security interest holder and
+one brought by the holder of property rights. There's a
+case, Travelers Insurance, in which the Second Circuit
+reviewed New York law in this matter -- it's at 14 F.3d
+114 -- and describes how there's two species of waste
+actions depending on which sort of plaintiff you have in
+issue. And that recognizes that the interest, if you
+will, that a lien holder has in the property, is
+different from a right in the property.
+JUSTICE BREYER: What about paragraph 3 just
+after paragraph 2 in the complaint? Paragraph 3 asks
+the court to bar and forever foreclose the defendants
+from all right, interest, claim, etcetera in the parcel.
+Well, what about that? What they're asking, I just
+heard it. So what's the answer to that? They seem to
+be saying, we have the right to the parcel, you the
+defendant have no right to the parcel.
+MR. SRINIVASAN: Well, I don't -- you'd have
+to ask Respondent's counsel exactly what they mean by
+that.
+JUSTICE BREYER: Well, I did in part, so he
+can answer.
+MR. SRINIVASAN: Because Respondents have
+repeatedly indicated in this case and in the court of
+appeals and in this Court that they can't foreclose on
+the property and so they've abandoned any claim for
+foreclosure. And a foreclosure action wouldn't result
+in the property being deeded to Respondent. It would be
+put up for sale and a third party would purchase it. So
+I'm not -- I can't tell you exactly what that paragraph
+means.
+JUSTICE GINSBURG: In a very practical way,
+you're expressing that right means ownership means
+ownership. But the title is certainly impaired by this
+lien. India could not turn around and sell it to anyone
+without doing something to discharge the, lien right?
+MR. SRINIVASAN: Well --
+JUSTICE GINSBURG: So the title is certainly
+clouded by this lien.
+MR. SRINIVASAN: Well, I think liens
+generally constitute clouds on title, but the fact that
+something's a cloud on title doesn't make it a right in
+the property. And I could give you one other example.
+JUSTICE SCALIA: It doesn't have to be a
+right in the property. If you look at it from the
+owner's point of view, it is a cloud on the owner's
+title in the property. It affects the owner's title.
+Even if you assert that it doesn't give any title to the
+lien holder, it impairs the title of the property owner.
+And that's all that's required, as I read the title, in
+which rights in immovable property are an issue, and
+here the question is whether the, the mission's right to
+the property is, is impaired by this lien.
+MR. SRINIVASAN: I think our arguments apply
+equally both to the lien holder and to the property
+owner, Justice Scalia, in the following sense, that with
+respect to both of them a lien -- the lien doesn't
+affect rights of possession, it doesn't affect the right
+to exclude others, which this Court has characterized as
+the most fundamental of property rights. It doesn't
+affect the right to receive income from the property.
+JUSTICE SCALIA: It affects the right to
+convey the property free and clear, which is an enormous
+right that goes along with the real estate.
+MR. SRINIVASAN: Well, it has a practical
+consequence on conveyance because it, as Justice
+Ginsburg said, amounts to a cloud on title. But there
+are other instruments that result in a cloud on title
+but that wouldn't be considered rights in property. One
+example would be a contract, a purchase option contract
+to purchase property. The holder of a purchase option
+wouldn't be considered to have a right in the property
+unless and until the option was exercised. At least
+that's the general rule, even though the purchase
+contract in a sense constitutes a cloud on the title in
+the same way that a lien might constitute a lien on the
+title.
+JUSTICE GINSBURG: How long did the United
+States take the opposite position and when did it
+change?
+MR. SRINIVASAN: I'm sorry?
+JUSTICE GINSBURG: How long did the United
+States adhere to the position that's reflect in the
+Englewood brief and when did it change?
+MR. SRINIVASAN: Well, I'm not aware that we
+took the position before the Englewood brief, so I think
+that would be 1985. And I don't think we've had
+occasion to revisit that position until this case.
+And let me point out with respect to the
+Englewood brief, the first two points made in that brief
+were along the lines of the court of appeals reasoning
+in this case, which was to the effect that a statute
+that refers to a right in immovable property encompasses
+obligations arising out of immovable property. And
+Respondent doesn't attempt to defend that position, but
+that's the predicate on which our Englewood brief
+rested. And so we think there's good cause for us to
+revisit our position from that case.
+Now, with respect to the question of whether
+a lien establishes rights in property, which is now the
+focus of Respondent's argument, I would point out that
+in other areas of the law the Court has looked to
+questions concerning whether there is a right to exclude
+others, whether there is a right to obtain income from
+the property, whether there is a right to assert
+possession of the property. That's, for example, the
+types of considerations this Court takes into account in
+the tax area in assessing whether a Federal tax lien can
+attach to a property by virtue of the fact that there is
+a right to property at stake. And we think the same
+sorts of consideration should inform the Court's
+assessment of the immovable property exception in this
+case.
+JUSTICE SCALIA: What about an easement?
+That doesn't involve any of those things. You can't
+exclude people and so forth.
+MR. SRINIVASAN: Well, an easement I think
+would qualify as a right in property because at least
+your standard easement would provide a right of access
+to the property by a thoroughfare. And so both sides
+would be affected in their use of the property in that
+sense.
+CHIEF JUSTICE ROBERTS: Thank you, Counsel.
+Mr. Cardozo.
+ORAL ARGUMENT OF MICHAEL A. CARDOZO
+ON BEHALF OF THE RESPONDENT
+MR. CARDOZO: Mr. Chief Justice and may it
+please the Court:
+There are three reasons this case puts in
+issue rights in immovable property: First, the plain
+language of the statute; second, the statute's purpose
+and legislative history; and third, international
+practice as it existed in 1976.
+JUSTICE SCALIA: Mr. Cardozo, before you go
+any further, I had been under the impression from your
+brief that you're not trying to enforce anything
+against, against India or against the mission. You just
+said you wanted a declaratory judgment that the lien is
+a valid lien. But, but here it is in your complaint
+you're asking for foreclosure. Which, which is it?
+MR. CARDOZO: Justice Scalia, we know that
+Section 1610 would preclude us from actually
+foreclosing. We're not allowed to do that. There's no
+question about that.
+JUSTICE SCALIA: You just asked for it to
+scare them? Was that it?
+MR. CARDOZO: No. We do want, as the
+discussion preceding me highlighted, we do want to get
+in and take what we think is, as a practical matter, is
+our property. But we can't. We understand that. So
+what we're, what we're saying in our complaint in
+paragraph 3, as Justice Breyer pointed out, is we would
+like to bar them from holding title. But as we quickly
+conceded as soon as we filed the action, we can't
+foreclose because of the provisions of Section 1610.
+But it doesn't mean that the fact that we can't
+foreclose doesn't mean that we don't have a right in
+property. Let me give you a very good illustration. If
+there is a possessory dispute, someone, an embassy,
+rented premises and agreed that if they didn't pay the
+rent they would lose their ability to continue to occupy
+the premises and they failed to pay rent, that's a title
+dispute. The person who rented the property would bring
+a suit saying: I have a right to get back into my
+property and there is clearly a right in property in
+Section 1605. I can't believe that Congress said, that
+Congress intended to say, well, you can bring an action
+for nonpayment of rent and seek possession except for
+1610, that's okay. There's jurisdiction in an action
+for rent, but if you want possession of property because
+you haven't paid your taxes, and of course you still
+can't foreclose, there's no jurisdiction. That doesn't
+make any sense.
+JUSTICE SCALIA: Well, but they'll say as
+was their response to a lot of hypotheticals, the
+commercial act exception covers that.
+MR. CARDOZO: Your Honor, it may or may not
+cover the commercial act exception. And going back to a
+question that Justice Breyer asked, there are, there are
+cases, not in the United States, but -- and we're citing
+some of them in footnote 24 in the red brief -- that
+when someone, not the commercial property exception,
+someone lent money to, to build an embassy and they
+defaulted on the mortgage, the German court said
+jurisdiction. It's not a question of enforcement, but
+jurisdiction.
+The reason for this is if you first look at
+the language of the statute, the language of the statute
+doesn't say only certain kinds of rights. It says all
+rights in property if they're in issue.
+We believe that we have a right in the
+Indian and Mongolia premises. We --
+JUSTICE BREYER: The problem that actually
+is bothering me with your side of the case which I find
+difficult is, suppose I accept this principle that you
+have. All right, it seems to me anything at all can be
+reduced to a lien, any judgment, at least certainly slip
+and fall cases and you didn't keep the ice up in front
+and I want $4 million damages plus 300 million in
+punitives and where it is I have a lien against the
+embassy here. And I can't think of a distinction once I
+go down your road. I mean, he at least has an absolute
+distinction which I can see, but once I go down your
+road where is the stopping place? What's the principle?
+MR. ROBERTS: Let me try, Justice Breyer.
+First of all, if there was a judgment on that
+hypothetical tort action that you just mentioned, if
+there were a judgment you wouldn't have gotten the
+judgment in the first place unless you had originally
+come within --
+JUSTICE BREYER: I'm imagining a city or
+Belarus or someplace where what they do is they say slip
+and fall on ice -- you know, you get a lien against the
+property prior to -- okay. I mean, it's easy to imagine
+that kind of thing.
+MR. ROBERTS: Yes.
+JUSTICE BREYER: And in a range of subject
+matters. So I'm looking to what the stopping place is
+once I start down your road.
+MR. ROBERTS: And the stopping place I think
+is a Federalism concept and a due process concept,
+because as this Court has held in a number of cases,
+there's a real due process question if liens are created
+with no concern about the effect on the defendant. You
+have to take a look at the interest of the so-called
+plaintiff and you have to find whether there is a
+relationship between the lien and the underlying claim.
+Now --
+JUSTICE SCALIA: Why didn't you just say --
+you know, if you're worried about the malevolence of
+countries to make all sorts of stuff liens, I guess if
+they're malevolent enough they can make all sorts of
+stuff easements, which, which the other side says is
+undoubtedly a property interest. So they could say
+that, you know, if you're held liable the court can give
+you an easement over the property of, of the defendant
+worth so much money. And that would undoubtedly be
+enforceable.
+MR. CARDOZO: Justice Scalia, they did say
+that and certainly if an easement is a right in
+property, either because of the hypothetical you just
+gave or a traditional easement, there is nothing
+different with a tax lien. In fact, a tax lien is a
+much greater interest.
+JUSTICE BREYER: I still have my question
+because I'm not world about malevolence, is that I don't
+carry around in my head all of the possible things that
+might be liens against property. And so maybe my
+imagination is wrong, but I want to know are you are
+arguing that every lien against the property is in fact
+a right in property which allows a lawsuit, or are you
+arguing that there is some distinction between some and
+the other. And I noticed that the Restatements and
+others are trying to distinguish between whether the
+lien in question grows out of the property or it doesn't
+grow out of the property, which I find possibly hard to
+work with and so I want to know how you see it.
+MR. CARDOZO: And what I see, Justice
+Breyer, is when you take a look at the cases in this
+Court such as Connecticut against Doehr and the other
+cases which put limits, the constitutional limits on
+liens, of course if a State passed a statute that runs
+afoul of the various due process concerns that this
+Court has articulated that is certainly one check that
+we have.
+JUSTICE GINSBURG: Well, let's take the
+parking ticket that your colleague raised, that New York
+would make a parking ticket a lien, unpaid parking
+ticket a lien on all, all property.
+MR. CARDOZO: Justice Ginsburg, I think that
+would be a hard question, but if it does not run afoul
+of the constitutional concerns that I just articulated
+and it was a lien applicable not just of course to
+foreign sovereigns, but to any unpaid parking ticket --
+JUSTICE GINSBURG: Yes, yes.
+MR. CARDOZO: -- I think that then that
+would come within the immovable property exception.
+JUSTICE SOUTER: So the only thing they
+would have to do I suppose -- you've mentioned the due
+process point -- would be to perhaps give a hearing
+before the lien was declared and that would be enough?
+MR. CARDOZO: I think, I think it certainly
+would, Justice Souter, if in fact there was a hearing.
+JUSTICE SOUTER: Well, provided that,
+provided notice of hearing was offered, the parking
+ticket lien would be in the same position as this lien,
+right -- the hearing.
+MR. CARDOZO: I think that's right. I think
+that's right. And so --
+JUSTICE KENNEDY: And under New York law
+does property, do property tax liens have some superior
+status? Are they distinct under New York law from other
+liens?
+MR. CARDOZO: Well, they're -- as tax liens
+you may get into a priority fight in a bankruptcy
+context.
+JUSTICE KENNEDY: Without reference to
+priority.
+MR. CARDOZO: I don't believe that they
+would have any different lien, any different status,
+although my colleague corrects me and says that yes, tax
+liens -- tax liens do have in certain circumstances a
+greater priority. It's hard to think through exactly
+where that issue would be.
+JUSTICE KENNEDY: I -- I had thought they
+had a greater priority and that they even survived
+purchase from bona fide sellers.
+MR. CARDOZO: That certainly, that is
+certainly true and a property -- excuse me for
+interrupting -- a tax lien would run forever with no
+time limit, for example, whereas a mechanics lien has a
+statutory time on it. If you got into a dispute about
+those two liens obviously the tax lien would have --
+would have priority.
+JUSTICE STEVENS: May I ask -- may I ask
+this question? Suppose another jurisdiction had a tax
+system which was just a little different from New York's
+and didn't provide for a lien until after a suit had
+been brought and there had been a failure to pay or had
+to get a judgment first. On that case, that
+jurisdiction could not enforce this tax law?
+MR. CARDOZO: That is correct, Justice
+Stevens.
+JUSTICE STEVENS: And don't you think it's
+sort of a strange way to define a tax immunity, by --
+by, by describing the -- the interest in immovable
+property?
+MR. CARDOZO: Well, we start off with the
+statutory language and the statutory language says right
+in property. We are not talking about the abstract
+right to tax.
+JUSTICE STEVENS: But, but the basic issue
+in final analysis is whether they have to pay their
+taxes, isn't it?
+MR. CARDOZO: I'm sorry.
+JUSTICE STEVENS: The ultimate issue is
+whether they have to pay their taxes.
+MR. CARDOZO: The ultimate substance --
+underlying substantive issue is that but -- and of
+course, the State Department even today says these taxes
+should be paid. But the jurisdictional issue is whether
+there is a right in property. And so if you just -- if
+you don't create a lien, if a particular State did not
+create a lien, that would not give you the right, which
+is what the statute, statutory language says.
+JUSTICE SCALIA: Do you know any States that
+don't? Isn't it fairly standard? For --
+MR. CARDOZO: I believe -- I believe it is
+fairly standard, Justice Scalia.
+JUSTICE SCALIA: Yeah.
+MR. CARDOZO: I -- there may be one out of
+50 States that, that don't say this. I think --
+JUSTICE SOUTER: May, may I just ask, for a
+kind of a footnote kind of question? I mean you
+referred again to the text. And if we are going to go
+on a very strict reading of the text as I understand it,
+you don't have to claim a right in property, you have to
+have a claim in -- in which someone's rights in
+immovable property are in issue. So whether the, the --
+and so long as you create a cloud on the title, however
+that cloud is classified, it puts in issue the title of
+the named title holder, so that the debates about the
+distinction between a lien and easement and so forth is
+essentially irrelevant as long as it's a cloud on the
+title. If we are going to be that, if we are going to
+be literal, isn't that so?
+MR. CARDOZO: I, I agree with that. And
+here today the right that India and Mongolia claim in
+their property is in issue, because we say you do not
+have the full right to your property and if this lien
+runs long enough, it's going to wipe out the value of
+their property completely. And all the statute, the
+statute doesn't say as the European Convention says the
+foreign sovereign's right in property. The statute says
+either -- in effect, either side's right in property.
+JUSTICE SOUTER: Yeah.
+MR. CARDOZO: And I think we can also get a
+great deal of help by looking --
+JUSTICE SCALIA: The -- the -- the European,
+the European treaty looks at it from the other side,
+you're saying. It looks at it from the foreign
+sovereign side.
+MR. CARDOZO: The European Convention
+phrased differently looks at it from both sides, Justice
+Scalia, which is why they needed the words obligation.
+If you look at Article 9 of the European Convention it
+first talks about the foreign sovereign's right or
+interest in property, and then it says "or the foreign
+sovereign's obligations arising out of that property."
+That's a different phrase than the FSIA which doesn't
+use the word foreign sovereign; it says "its" rights in
+property have to be an issue. So you didn't need to
+encompass all the language of the European Convention.
+JUSTICE SCALIA: Would the obligations
+arising out of the property in the European Convention
+include the obligation to pay taxes, property taxes?
+MR. CARDOZO: It would include a controversy
+over that absolutely. And let, let me talk about the
+international practice because we should take a look at
+international practice to -- to guide us.
+What was the practice in 1976? Well, first
+of all we know that the restatement second and comment
+in paragraph 68 says disputes over rights or interest in
+property. And the restatement third, which was
+concededly a few years after the 1976 adoption of the
+statute, makes it perfectly clear. It says it
+explicitly. But where did the restatement --
+JUSTICE SCALIA: This says what explicitly?
+MR. CARDOZO: Says that there is
+jurisdiction over tax claim. Section 455 of -- of
+restatement third.
+CHIEF JUSTICE ROBERTS: Over tax liens or
+claims?
+MR. CARDOZO: Over tax claims. Excuse me,
+Chief -- Mr. Chief Justice.
+CHIEF JUSTICE ROBERTS: And you don't go
+that far.
+MR. CARDOZO: That -- we don't have to go
+that far because we believe we, as a -- we have a right
+in property arising from the lien. Now let's look at
+the foreign cases before we get to the European
+Convention and we cite a number of them in footnote 24.
+There is for example the case I referred to in response
+to Justice Breyer, a suit over a mortgage. A suit over
+a mortgage. It's not the commercial exception; a suit
+over a mortgage.
+There is a case in England in 1975 which
+analyzes broadly what's the meaning of this real
+property exception. And that case in England which we
+cite says a security interest, a suit over security
+interest for a mortgage, there is jurisdiction within
+the immovable property exception.
+There is a large number of cases. You look
+at the Harvard Review of 1932, the status of the law at
+that time, extensive review of all the relevant cases,
+says the same thing. Then that brings us to the
+European Convention which was adopted shortly before the
+FSIA and which the State Department told Congress was
+consistent with the FSIA.
+JUSTICE KENNEDY: Is this the Vienna
+Convention?
+MR. CARDOZO: Pardon me? No, the European
+Convention.
+JUSTICE KENNEDY: European Convention.
+MR. CARDOZO: Right. And the European
+Convention in Article 9 as I say has a very broad
+immovable property exception. I'm not looking just at
+the language. I'm looking at what does this convention
+reflect as far as international practice was at the
+time? And that practice at the time as reflected by the
+convention, as reflected by these cases, all say that
+there is a very broad immovable property exception that
+should cover this kind of dispute.
+Now let me make one, one or two final
+points. If this --
+CHIEF JUSTICE ROBERTS: Well, the -- the
+convention used language quite different than that was
+used by Congress. So I'm not quite sure how that
+international practice reflected in or arising out of
+the convention is terribly pertinent.
+MR. CARDOZO: I'm not, Mr. Chief Justice,
+I'm not talking just about the language. I'm talking
+about the European, the international practice as
+reflected by that convention because the 1976
+legislative history of the FSIA says we are trying to
+conform United States practice into the, the practice
+that is followed internationally. And I --
+CHIEF JUSTICE ROBERTS: And in some cases
+they used language directly from the convention and in
+this case they didn't so it seems to me a particularly
+ill-advised source for looking for what they were trying
+to do.
+MR. CARDOZO: Then I would say where did
+they get that source from? And that's where I cite the,
+first the international cases themselves which reflect
+as of 1976 the same philosophy reflected by the European
+Convention. There is no question that the wording is
+different. I'm not, I'm not disputing that. What I'm
+saying is that wording conveys an intent from the
+international point of view to have the broad parameters
+of an international, of an immovable property exception
+and that was consistent with the international cases
+that have been decided at that time.
+JUSTICE STEVENS: Did their practice draw a
+distinction between occupied by the ambassador himself
+and property occupied by employees of the embassy?
+MR. CARDOZO: As a substantive matter,
+Justice Stevens, the answer to that question is of
+course yes. Because the Vienna convention in Article 20
+-- 23 says that the premises of -- of the mission may
+not be, may not be taxed. And then you look at Article
+1 to look at what is the meaning of premises of the
+mission and they talk about where the business of the
+mission is conducted, or where the ambassador resides.
+It doesn't talk about the rest of the employees. And
+since 1952, the State Department even before the Vienna
+convention and subsequent has been advising missions in
+New York, it's on their web site today that they must
+pay taxes on staff housing.
+JUSTICE SCALIA: Can I ask you what, what do
+you get out of this case? You've withdrawn your claim
+for judgment of foreclosure. What are you going to get
+out of it? Declaratory judgment that they owe the
+taxes? I'm not sure they have ever contested that they
+don't owe taxes.
+MR. CARDOZO: Oh yes I think if you look, if
+you look at the Petitioners' brief I think they do
+contest that they, that they have to pay the tax. But
+what we'll get out of this is the following.
+First of all, start with the fact that the
+statute says you can bring an action in this
+jurisdiction even if you can't execute. We have the
+State Department telling us, the Solicitor General
+telling us in their briefs, footnote 17, that countries
+pay lawful taxes. So if we can get, if we can proceed
+to judgment and get that, and get that declaration, we
+believe based upon what the Solicitor General has said
+they will pay their taxes.
+JUSTICE SCALIA: Yeah, but --
+MR. CARDOZO: In addition --
+JUSTICE SCALIA: You say he is wrong about a
+lot of other stuff.
+(Laughter.)
+JUSTICE SCALIA: Why do you believe him
+about that?
+MR. CARDOZO: And the -- the reason I
+believe him about that is that Congress has passed a law
+that says if you don't pay your taxes reflected by a
+judgment, whatever the amount of that tax is, you're
+going to lose 1110 percent of your foreign aid. And so
+I believe we are going to get a lot out of that.
+JUSTICE BREYER: Can I -- can I can ask you
+to go back for a second to where I'm getting myself into
+a muddle here.
+I'm still now being very, very literal. I
+think you're very literal and you say it says, a case in
+which is involved rights to property. And you say, but
+this is a right to property in this case; if I win this
+case then I have a right to sell that house. Therefore,
+I have a right in property.
+Now, if that's the reasoning why doesn't
+that apply to every case where a State might say if you
+win this case you can sell his house? I mean, I can
+easily imagine a tort case, a contract case where a
+State would say, you win, you can sell their house to
+collect the judgment.
+MR. CARDOZO: And --
+JUSTICE BREYER: So I'm still back in a
+different route at where I'm having the problem, which
+is a problem of distinguishing in principle between
+either your absolute principle, "do it," his absolute
+principle, "don't do it," or something in the middle.
+MR. CARDOZO: And I think the something in
+the middle, Justice Breyer, is if you're talking about a
+prejudgment lien which I think is your hypothetical.
+It's --
+JUSTICE BREYER: The hypothetical was doing
+away with the prejudgment lien. I would say the exact
+same words apply with just as much force if there is no
+prejudgment lien because a suit without a lien the State
+were to say, you win this tort claim, you can go sell
+this property to collect the judgment, is a suit in
+which there is at issue your right to sell his property,
+just as there is here.
+MR. CARDOZO: But Justice, Justice Breyer,
+in that hypothetical, you don't have a right in property
+until you win the case.
+JUSTICE BREYER: Do you?
+MR. CARDOZO: We have, we have a, there is
+an in issue today our right to property and I believe
+that that is a distinction and I believe also -- and of
+critical importance.
+JUSTICE SCALIA: Well, wait a minute. But
+the -- the embassy has rights in it when the case is
+brought, even before the final judgment. So you know,
+let's give the devil his due. It would be a case in
+which rights in immovable property are in issue.
+MR. CARDOZO: And if --
+JUSTICE SCALIA: You want to look at it from
+the embassy side too so --
+MR. CARDOZO: Yes. And if you want to look
+at it from the embassy side under my theory, their right
+-- under my lien their rights are an issue today. And
+under Justice Breyer's hypothetical if it meets the
+other due process concerns which I think under that
+hypothetical would raise a number of interesting ones --
+JUSTICE SCALIA: Well, that's your big
+defense. To do that they would have to do it for
+everybody' they would have to do it for Joe Sixpack as
+well as for the embassy, right?
+MR. CARDOZO: That's right. That's right.
+JUSTICE SOUTER: Is it only the case that
+the, that the only instances in which, consistent with
+the Foreign Sovereign Immunities Act the State could say
+you get the house, would be instances of litigation
+arising out of commercial activity?
+MR. CARDOZO: Yes. That is -- that is --
+that is correct. Because it's only in the commercial
+activities exception can you execute and then only in
+certain limited circumstances --
+JUSTICE SOUTER: Yeah.
+MR. CARDOZO: And you can execute unless the
+premises are not being used for the purposes of the
+mission.
+JUSTICE KENNEDY: Now -- now I take it you
+under New York law and the law of most jurisdictions,
+the tax lien becomes a lien against the property before
+any judicial proceedings.
+MR. CARDOZO: That is correct.
+JUSTICE KENNEDY: Just because they are
+unpaid. And this is probably a question more for them
+than for you, but as you understand their position, if
+you put a lien on the property for unpaid taxes, are
+they entitled to demand its removal?
+MR. CARDOZO: Of course they can. And in
+fact the Republic of Argentina case --
+JUSTICE KENNEDY: You mean of course they
+can under their view?
+MR. CARDOZO: No. They can bring an action
+to quiet title. They can bring an action --
+JUSTICE KENNEDY: No. No. No.
+MR. CARDOZO: I'm sorry.
+JUSTICE KENNEY: Excuse me.
+JUSTICE KENNEDY: Can they demand that that
+lien be released --
+MR. CARDOZO: They can demand it.
+JUSTICE KENNEDY: No, no.
+-- because it violates the Foreign Sovereign
+Immunities Act? Is it their position that you have no
+right at all even to notice a lien against the property?
+MR. CARDOZO: Well, I haven't heard their
+articulation of that position, but they certainly could
+write --
+JUSTICE KENNEDY: It would seem to me to
+follow from what they're saying.
+MR. CARDOZO: I think it may. I think they
+certainly have a right to ask us to reconsider and make
+the various arguments on the merits to us. There are
+cases preceding the Foreign Sovereign Immunities Act
+where a country felt the lien was invalid and brought a
+lawsuit.
+JUSTICE KENNEDY: My hypothetical is can
+they demand that the lien be removed solely because of
+the Foreign Sovereign Immunities Act.
+MR. CARDOZO: They could demand that, but I
+don't that the Foreign Sovereign Immunities Act answers
+the underlying substantive question. You'd have to look
+at the Vienna Convention as well as New York law to
+answer that question, because all the Foreign Sovereign
+Immunities Act is talking about is the jurisdictional
+issue, not the substantive issue.
+And let me just point out that if we, if we
+can't bring this lawsuit to have, to try to foreclose or
+at least to have a declaration of our rights, this
+lawsuit can't be brought anywhere. No place in the
+world can New York City have a conclusion as to who owns
+this property. That is absolutely inconsistent with the
+underlying immovable property exception and the local
+action rule, which says that land -- that a sovereign
+has a prim evil interest in its land, it has the right
+to adjudicate its property.
+JUSTICE KENNEDY: With reference to the
+offset of foreign aid, could that offset be made under
+the controlling statutes just based on your lien, or do
+you have to have a judgment first?
+MR. CARDOZO: No. The statute talks about a
+judgment. It can't just be that.
+So finally, even though we cannot execute on
+our property -- on the judgment, it has a major impact,
+this case has a major impact on what we can do. If we
+can't do it there's no other place for our problems to
+be resolved. I urge that the decision below be
+affirmed. Thank you.
+JUSTICE SOUTER: May I ask you a question in
+your remaining time. With respect to the statute that
+authorizes the, the charge against foreign aid, would
+that statute have any application except either in a
+commercial case or a case like yours?
+MR. CARDOZO: Theoretically it would have an
+application in a counterclaim situation as well --
+JUSTICE SOUTER: Okay.
+MR. CARDOZO: -- Justice Souter. I think
+those are the three things. Of course, you don't need
+that statute for the commercial exception because you
+can execute.
+JUSTICE SOUTER: That's right. You can go
+directly.
+MR. CARDOZO: Right.
+JUSTICE SOUTER: So in practical terms, with
+the possible exception of a counterclaim, the foreign
+aid setoff would simply apply to a case like this, then?
+MR. CARDOZO: That's right. And Justice
+Souter, while certainly the Congress that passed those
+statutes was not the Congress that passed the FSIA,
+there is, certainly should be an effort to harmonize
+what the Congress has done.
+JUSTICE SOUTER: I was going to say, if you
+deny all the statutes you've got to --
+MR. CARDOZO: That is obviously the way to
+reconcile these statutes.
+JUSTICE SCALIA: What do you do with traffic
+tickets? They've built up. You know, there's $100,000
+owing in traffic tickets by some embassy. How do you
+get a judgment that that is owing?
+MR. CARDOZO: You can't get a judgment that
+that is owing.
+JUSTICE SCALIA: So you can't use even the
+foreign aid gimmick to --
+MR. CARDOZO: Not unless, unless the statute
+is changed, Justice Scalia, which we have from time to
+time tried to persuade Congress to do.
+JUSTICE GINSBURG: Foreign aid --
+CHIEF JUSTICE ROBERTS: Unless New York law
+is changed and you pass something saying you get a lien
+on property if you have delinquent property, parking
+tickets.
+MR. CARDOZO: That is right, and that would
+get us right back into the --
+JUSTICE GINSBURG: I thought that the
+Federal, the 100 percent withholding, relates to taxes?
+MR. CARDOZO: Yes.
+JUSTICE GINSBURG: Taxes, not for parking
+tickets or anything else.
+MR. CARDOZO: Yes, Justice Ginsburg, it
+does. It relates to unpaid property, unpaid property
+taxes. It doesn't apply to unpaid parking tickets.
+Thank you very much.
+CHIEF JUSTICE ROBERTS: Thank you, Counsel.
+Mr. Howley, you have two minutes remaining.
+REBUTTAL ARGUMENT OF JOHN J.P. HOWLEY
+ON BEHALF OF THE PETITIONERS
+MR. HOWLEY: Thank you, Mr. Chief Justice.
+Article 29 of the European Convention
+expressly excludes any intent to create an exception for
+tax claims. That was the international practice at the
+time. What we have here is a bootstrap and I refer to
+the Court to its decision in Ministry of Defense of
+Republic of Iran against Elahi, where this Court said
+that when you have an action to impose a lien, it is
+analyzed as an attachment under Section 1609-1610 of the
+Foreign Sovereign Immunities Act. And what the Foreign
+Sovereign Immunities Act says is you cannot use an
+attachment to get jurisdiction where jurisdiction
+otherwise does not exist.
+JUSTICE KENNEDY: Do you take the position
+that it's improper even to notice the property with the
+lien?
+MR. HOWLEY: Under New York law, yes, and we
+have Chief Judge Fulbright for a unanimous --
+JUSTICE KENNEDY: I mean, let's assume that
+you owe the taxes.
+MR. HOWLEY: Well, we say that there's no
+right to impose the lien because the Vienna Convention
+and New York law prohibit the taxation of the property
+and you cannot impose the lien to collect something that
+you're not entitled to. And this is a dispute that has
+historically been resolved through diplomacy, not in the
+courts, because the fact is whatever happens in this
+case to India and Mongolia is likely to happen to the
+United States around the world and that's a foreign
+policy question for the State Department to decide.
+JUSTICE SCALIA: You mean we'll have to
+start paying our taxes around the world?
+MR. HOWLEY: I'm afraid so, Justice Scalia.
+JUSTICE SCALIA: Is that a real problem for
+us? I don't think so.
+MR. HOWLEY: I am afraid so.
+Thank you very much.
+CHIEF JUSTICE ROBERTS: Thank you, Counsel.
+The case is submitted.
+[Whereupon, at 11:01 a.m., the case in the
+above-entitled matter was submitted.]
+addition 44:18 applicable 34:21 assessment 45:4 46:18,19
+54:20 adopted 41:10 applied 16:12 assume 4:12,13 blown 22:25
+affect 26:6,6,9 51:14 52:24 Atlantic 23:1 bothering 31:17
+39:21 afoul 34:11,19 Arabia 10:18 attaching 19:7 Breyer 7:22 8:2
+afraid 54:12,15 13:22 14:20 attachment 9:4 8:10 10:3
+aid 45:3 50:11 Argentina 10:19 attempted 9:20 29:25 31:2,16
+52:6,10 argued 21:12 50:24 33:18 34:7
+allowing 17:25 argument 1:15 aware 12:20 Breyer's 47:7
+11:7 12:1 ambassador 3:8 18:24 a.m 1:16 3:2 11:24 20:21
+30:24 13:18 14:12 21:17,17,21 54:19 21:9,11,18,18
+47:17 43:8,17 27:24 28:23 21:21 27:7,9
+53:14,15 American 13:6 arguments back 4:4 30:12 29:9 31:4 44:5
+6:1,4 amicus 1:22 2:7 26:2 49:11 52:16 bring 22:4 23:14
+16:8 19:1 arises 19:19 BAKER 16:23 23:17 30:11,15
+22:4 amount 17:21 arising 18:14 bank 8:3 12:15 44:9 48:17,18
+20:14 45:2 27:17 39:12,18 bankruptcy 50:1
+24:25 amounts 26:15 40:18 42:7 35:18 brings 10:9 41:9
+analysis 37:6 47:19 bar 24:10 30:1 broad 41:19,25
+44:9 analyzed 53:13 Article 11:23 based 4:10 8:7 43:3
+50:7 analyzes 41:1 39:9 41:19 13:4,24 14:19 broadly 41:1
+answer 20:3 43:12,14 53:6 16:8 17:1 brought 12:16
+24:4 49:22 34:12,20 basic 10:10 37:5 23:24,25 36:17
+14:21 anybody 12:15 49:5 behalf 1:18,22 50:3
+47:22 anyway 11:25 asked 19:11 1:24 2:4,7,11 build 12:16 13:1
+appeals 21:19 asking 10:3 28:24 53:4 building 16:12
+14:7,15 24:23 27:14 17:22 24:12 Belarus 32:10 16:18
+APPEARAN... 29:13 believe 4:8 6:20 built 51:25
+16:7,9 1:17 asks 24:9 11:21 30:14 business 43:16
+17:2,6,9 appears 10:7 assert 25:21 31:14 35:22 buying 13:16,18
+cases 31:3,21 citizen 13:6 16:6,8,11 17:1 28:9
+34:7,9 city 1:8 3:5 4:24 19:23,25 20:4 considerations
+28:22,23 cause 13:23 16:8 city's 17:17 51:7 consistent 20:19
+29:7,14 23:10 27:20 18:11,11,15 committee 7:18 41:12 43:5
+30:25 century 13:10 claim 13:4,24 company 16:25 47:16
+34:6,18 13:11 14:19 17:18,19 17:1,5 constitute 20:18
+35:5,11 certain 31:12 17:25 18:2 compensation 25:14 26:24
+36:6 35:25 47:23 23:12 24:11,24 22:6,11,16,18 constitutes 21:6
+37:1,8 certainly 25:7 32:25 38:5,6 complaint 17:18 26:23
+25:11 31:20 38:16 40:8 24:9 29:12,24 constitutional
+39:6 33:13 34:12 43:24 46:9 completely 34:9,20
+40:7,12 35:5 36:6,7 claiming 3:22 38:20 contest 44:6
+41:15,18 49:5,10 51:16 claims 9:21,24 compulsory contested 44:2
+43:10 51:18 40:11,12 53:8 7:10 context 35:19
+cetera 14:25 classified 38:9 conceded 30:2 continue 30:9
+46:1,13 change 17:7 clear 16:4 21:22 concededly 40:3 contract 4:18
+47:1,4 27:3,7 26:11 40:4 conceivable 26:18,18,23
+changed 52:8,12 clearly 4:2 30:13 12:10,12 45:17
+characterized closer 12:1 concept 32:19 controlling
+49:4,9 26:7 cloud 25:15,19 32:19 50:12
+50:14 charge 50:24 26:15,16,23 concern 32:22 controversy
+charged 16:22 38:8,9,12 concerning 8:19 39:20
+52:3,7 charges 17:21 clouded 25:12 28:1 convention 6:11
+check 34:12 clouds 25:14 concerns 34:11 6:14,23 7:1,5
+5:22 12:6 18:21 collect 5:14,17 21:16 50:4 39:6,9,16,18
+12:14,16 19:2 21:8 22:3 17:2 45:19 conducted 43:17 40:20 41:10,14
+17:23 23:13 28:21,25 46:10 54:3 confers 22:14 41:16,17,19,21
+40:10,13,13,14 collection 15:4 conform 42:14 41:24 42:5,8
+21:11,15 42:4,9,16 16:5,22 Congress 3:16 42:12,17,25
+24:1,22 52:11 53:1,5 come 3:23 4:2 3:19 6:9,11,13 43:12,20 49:21
+53:22 54:17 4:16 21:15 6:15,22 7:11 53:6 54:1
+29:2 choose 6:14 32:8 34:25 7:12,14,17 8:5 Conventions
+36:18 chose 3:19 6:13 comes 7:4 8:5 10:22 13:4 15:2,17,20
+41:2 6:22 commence 6:3 18:13 30:14,15 converted 18:5
+43:24 Circuit 11:20 commences 6:1 41:11 42:6 converting
+24:1 comment 39:25 44:25 51:16,17 18:16
+circumstances commercial 51:19 52:9 converts 18:2
+35:25 47:23 4:10 8:7 10:20 Connecticut convey 26:11
+48:14 cite 40:20 41:3 13:3,4,14,20 34:8 conveyance
+51:1,1 42:22 13:23,24 14:7 consequence 6:2 26:14
+54:7,18 cited 9:20 14:14,17,20,22 26:14 conveys 43:2
+citing 31:3 14:23 15:7,10 consideration correct 7:19 9:1
+12:4 D 3:1 11:16 6:16 45:23 27:16
+47:21 damages 31:22 depending 24:4 Doehr 34:8 enforce 8:3 29:9
+deal 39:1 depends 14:4,10 doing 25:9 46:5 36:19
+53:1 debates 38:10 describing draw 43:7 33:11
+debt 19:17,19 36:24 due 17:21 32:19 enforcement
+7:3,8,13 54:9 19:8 35:2 46:24 engage 13:3
+decided 12:5 devil 46:24 47:8 engaged 13:22
+deciding 3:24 10:5,8,8,15,15 11:20 41:2
+21:14 53:10 36:15 39:13 E 2:1 3:1,1 21:11,17 27:7
+34:10,21 declaration 42:5 43:1 easement 28:12 27:9,13,19
+43:12 17:15 44:14 45:22 28:15,17 33:9 enjoin 22:5
+51:6 50:2 differently 39:7 33:13,15 38:11 23:14,17
+4:22 29:11 44:1 diplomacy 54:5 easily 18:8 45:17 entirely 19:21
+7:2 9:21,24 declare 5:1,2 directing 17:20 easy 32:12 entitled 22:5,10
+11:3 declared 35:4 directly 42:17 effect 9:18 27:15 48:12 54:4
+13:21 deeded 25:1 51:10 32:22 38:23 entity 15:9 17:8
+20:19,21 deemed 9:22 disappears effects 19:22 equally 26:3
+24:10 defaulted 31:7 22:25,25 effort 51:18 ESQ 1:18,20,24
+26:7 defend 27:18 discharge 25:9 either 33:14 2:3,6,10,13
+28:5 defendant 17:20 discussion 29:21 38:23,23 45:24 essential 9:24
+31:7 24:15 32:22 dispute 4:8 6:7 50:25 essentially 23:11
+33:8 33:9 30:7,11 36:10 Elahi 53:11 38:12
+53:10 defendants 42:1 54:4 electric 14:25 establishes
+24:10 disputes 11:12 embassies 13:1 27:23
+38:8 52:13 distinction 7:22 43:9 46:22 26:12
+demand 48:12 7:25 31:24 47:3,5,13 52:1 et 1:5 3:5 14:25
+49:18 38:11 43:8 22:15,17 European 6:11
+41:11 43:19 distinguished encompass 40:19 41:10,15
+54:9 7:25 39:16 41:17,18 42:11
+fact 6:11 19:18 38:2 40:20 16:22 hand 8:22
+25:3 failed 30:10 24:10,23 30:3 generis 21:23 34:19 36:1
+failure 36:17 30:5,20 50:1 German 31:7 harmonize
+25:16 fall 3:15 4:9 29:16 gimmick 52:6 Harvard 41:7
+28:4 16:6 31:21 foreclosure Ginsburg 5:5 head 33:20
+40:21 32:11 17:18,19,20 7:3,9 11:15,19 hear 3:3
+4:3,10,13 far 5:11,12 43:25 16:2,11,17,21 49:4
+6:24,25 40:15,17 41:22 foreign 3:16 16:23 17:4 hearing 35:3,6,8
+8:6,8 Federal 7:5,10 7:14 13:13 18:8 19:11 35:10
+12:18 10:11,12,16 15:17 19:25 25:5,11 26:15 heavily 11:24
+14:21 28:6 52:18 20:24 34:22 27:1,5 34:14 held 10:13,18
+21:4,5 Federalism 38:22 39:4,10 34:18,23 52:10 11:4 13:21
+30:24 32:19 39:11,14 40:19 52:17,20,22 32:20 33:8
+34:25 fee 15:19,25 45:3 47:17 give 5:13 9:14 help 39:1
+41:2,5 16:4 49:1,12,17,19 10:25 20:3,14 highlighted
+43:4 fees 15:3,5,6,11 49:22 50:11,24 25:16,21 30:6 29:21
+50:6 15:12 16:15 51:13 52:6,10 33:8 35:3 historically 54:5
+53:7 felt 49:13 53:14,14 54:8 37:17 46:24 history 12:14
+fight 35:18 36:8 go 4:4 29:7 holder 5:13,22
+28:1,14 final 37:6 42:2 38:11 38:3 40:14,16 22:16 23:14,16
+48:21 find 31:17 32:24 friendly 20:7 going 10:15 31:1 26:3,19 38:10
+50:16 first 3:4 21:18 FSIA 19:15 43:25 45:3,4 holding 30:1
+22:9 27:13 39:13 41:11,12 51:20 holds 23:21
+32:4,7 36:18 Fulbright 53:22 27:20 30:6 honored 20:6
+flooded 23:1 26:8 20:8 45:12,16,18
+44:7 4:1,7,14,20 5:8
+9:9,12 5:20 8:8,18 23:18,20,24 43:25 44:1,14 34:14,18,23
+10:7,12 10:23 11:2,4 24:5,11 32:23 45:2,19 46:10 35:1,6,7,13,20
+11:9,18 15:5 36:23 33:7,17 36:24 46:23 50:13,15 36:3,13,20,22
+impact 50:17,18 39:11 40:1 50:17 52:2,3 37:5,9,19,22
+impaired 25:7 41:3,4 50:8 judicial 48:6 37:23 38:1,24
+26:1 interesting 47:9 jurisdiction 39:2,7,17 40:6
+16:2 impairs 25:22 interests 6:10,12 3:13 9:23 40:10,13,14,22
+17:6 importance 6:17 21:12 15:24 16:1,9 41:13,17 42:4
+18:10 46:20 international 30:17,20 31:8 42:9,16 43:7
+53:2,3,5 important 19:12 29:5 39:22,23 31:9 36:14,19 43:11,23 44:17
+54:12 23:17 41:22 42:7,11 40:8 41:4 44:19,22 45:5
+impose 53:12 42:23 43:3,4,5 44:10 53:16,16 45:21 46:2,5
+33:14 impression 29:8 internationally 9:21 15:2 47:2,7,10,15
+47:7 improper 53:19 42:15 37:14 49:23 47:24 48:3,8
+49:15 include 39:19,20 interrupting jurisdictions 48:15,19,21,22
+28:2 invalid 49:13 48:4 50:10,22 51:4
+54:7 4:22,24 5:1,4 9:11,17 10:1,3 J.P 1:18 2:3,13
+16:24 20:8 15:2,6,16 16:7 11:6,15,18,25
+19:6 inform 28:9 22:11 24:5 13:25 14:6,10 KENNEDY
+21:4 insofar 9:7 25:24 29:3 14:16,23 15:11 8:24 9:11,17
+instances 47:16 31:13 36:2 15:21 16:2,11 10:1 14:23
+25:24 47:18 37:5,9,12,14 16:17,21,23 15:11 21:20
+28:10 instruments 38:7,9,17 17:4,10,14,16 22:1 35:13,20
+34:25 26:16 39:15 46:11,18 18:8,21 19:3 36:3 41:13,17
+38:7 Insurance 24:1 46:25 47:6 19:10 20:2,22 48:3,8,15,19
+intangible 23:9 49:24,24 21:1,8,20 22:1 48:22,25 49:7
+46:25 intended 30:15 22:3,20,23 49:15 50:10
+intent 43:2 53:7 J 23:4,8,13 24:8 53:18,23
+6:5,8,8,18,25 JOHN 1:18 2:3 25:17 26:4,10 kind 32:13 38:2
+13:13 8:15 9:3,8,12 Joint 17:17 28:12,21,25 kinds 10:5 31:12
+49:2,12 9:13,22 12:2 Judge 53:22 29:7,14,18,25 know 13:10,11
+17:15,21,22 judgment 17:20 30:22 31:2,16 13:12 20:3
+18:12 20:5,11 29:11 31:20 32:3,9,15 33:2 22:25 29:14
+34:5 liability 15:23 limited 8:19 32:12 38:2 municipal 16:22
+39:25 liable 33:8 47:23 45:16 48:15
+51:25 Libya 12:8 limits 34:9,9 53:23 54:10 N
+5:13,17,21,22 27:14 11:1 41:1 named 38:10
+6:7 literal 38:14 43:15 Nations 1:5 3:5
+12:3 18:2,5,12,16 little 36:15 mechanics 36:9 need 39:15 51:6
+19:7,9,17,22 load 19:20 meets 47:7 needed 39:8
+17:15 20:5,12,15,16 loaned 12:15 mentioned 32:5 Nelson 10:19
+50:7,8 20:17,23 21:5 local 18:1 50:6 35:2 13:22 14:20
+7:16 22:12,12,14,16 27:5 38:8,12 merely 11:4 15:22,24
+11:10,11 22:18,25 23:1 38:19 18:1 new 1:8,8,18,24
+29:4 23:5,8,11,14 longer 21:13 merits 49:11 3:6,18 4:24 5:5
+37:2 23:16,18,19 look 4:4 17:9 MICHAEL 1:24 8:25 9:17,23
+39:16 24:6 25:8,9,12 25:18 31:10 2:10 28:23 9:25 14:1,24
+42:5,10 25:22 26:1,3,5 32:23 34:7 middle 45:25 15:11,12 18:2
+26:5,24,24 39:9,22 40:18 46:2 23:22,23 24:2
+34:3,16,17,21 looking 21:11 minutes 53:2 53:21 54:2
+35:4,9,9,23 32:16 39:1 mission 1:3 3:4 nonpayment
+24:2 36:8,9,11,16 41:20,21 42:19 3:21 16:18,24 30:16
+35:13,15 37:16,17 38:11 looks 39:3,4,7 20:10 29:10 normally 8:13
+41:7 38:18 40:18 lose 30:9 45:3 43:13,16,17 notice 22:2 35:8
+48:4,4 46:3,6,8,8 47:6 lost 11:19,19 48:2 49:3 53:19
+52:11 48:5,5,11,23 lot 30:23 44:20 missions 43:20 noticed 34:1
+54:2 49:3,13,16 45:4 mission's 25:25 number 32:20
+50:1,3 54:3 major 50:17,18 17:23,25 20:13 numerous 5:12
+10:5,6,8 11:13 malevolent 33:5 31:15 38:16 O
+22:5 25:13 29:22 43:10 mortgage 7:23 39:19
+34:14 36:11 40:10 14:7,12 16:9 41:4 obtain 28:2
+46:24 lien-based 19:13 17:11 24:17 mortgages 8:20 obviously 20:4
+limit 36:9 30:4,5 31:25 muddle 45:7 36:11 51:22
+paid 5:3 15:6 1:19,23 2:4,8 26:13 29:22 4:9,24,25 5:10
+24:9,9 25:3 42:24 41:22,23 42:7 6:18,19 8:4,14
+32:12 34:16,16,22 plain 29:3 predates 13:13 18:15,17 19:4
+35:8 52:13,20 plaintiff 19:24 predicate 27:19 19:6,19,22
+part 24:19 play 19:24 46:3,6,8 21:4,6,13,21
+42:18 29:1 43:13,15 48:1 22:21,24,24
+pass 18:3 52:12 19:20 20:13,20 principle 31:18 24:7,24 25:1
+18:24 passed 3:16 8:6 35:3 43:3 45:25 25:24 26:1,3,8
+9:22 10:23 49:25 prior 32:12 26:9,11,17,19
+8:12 44:25 51:16,17 42:3 36:4,12 28:8,10,16,18
+30:8,10 36:17 12:2,5 16:3,3 probably 48:9 30:18 31:5,13
+22:16,18 43:22 44:6,13 21:15 27:2,6,9 20:3 31:16 33:14,21,23,24
+26:4 people 12:25 49:2,5 53:18 proceed 44:13 36:25 37:3,15
+25:6,7 percent 45:3 5:14 22:15,17 38:20,22,23
+perfectly 40:4 26:6 28:4 48:6 39:19 40:2,18
+possessory 30:7 34:11 35:3 43:4,9 45:10
+pertinent 42:8 potential 19:14 property 3:15 50:5,6,9,17
+54:2 raise 47:9 related 13:23 Respondent's 51:9,11,15
+range 32:15 relates 4:17 24:17 27:24 rights 5:12 6:12
+28:17 8:12,19 11:12 released 48:23 39:25 40:2,5,9 25:24 26:6,8
+13:19 14:1 relevant 41:8 Restatements 26:17 27:23
+16:4 17:2 26:12 32:21 remaining 50:23 rested 27:20 38:6 39:14
+41:1 54:13 53:2 restrictive 10:22 40:1 45:10
+26:18,19 45:14 rents 5:14 review 41:7,8 18:21 21:8
+36:5 reasons 22:3,7 repeatedly reviewed 21:15 22:3 23:13
+receive 26:9 representative 4:6,23 5:10,13 53:1 54:17
+48:11 19:8 represented 9:13,16,25 rule 10:16 26:22
+19:11 reconsidered 25:23 25:9,15,18,25 34:10 38:19
+25:25 11:22,23 reserve 18:19 26:6,9,10,12
+29:17 red 31:4 residence 13:18 26:20 27:16 S
+32:21 reduced 31:20 14:12 28:1,2,3,8,16 S 2:1 3:1
+34:3,19 refer 53:9 resides 43:17 28:17 30:5,12 sale 3:23,25 4:9
+38:2 reference 35:20 resolved 50:20 30:13 31:14,19 5:16,23 6:2
+43:11 50:10 54:5 33:13,24 35:10 25:2
+49:20,22 referred 38:3 respect 20:25 35:11,12 37:2 Saudi 10:18
+54:9 40:21 21:4 22:9 26:5 37:4,15,17 13:21 14:20
+27:16 Respondent 38:23 39:10 14:7 24:14
+42:7,12 Respondents 47:5,13,14,14 says 7:10 8:15
+37:2,13 sellers 36:5 sovereign 3:15 status 9:2 35:15 40:23 41:3
+38:21,22 sense 6:5 19:15 3:16 5:20 7:14 35:23 41:7 46:8,10
+40:1 23:10 26:4,23 8:8 10:22 11:1 statute 6:23 superior 9:2,9
+41:3,9 28:20 30:21 11:4 12:17 10:23 18:13,13 35:14
+43:13 separate 13:5 13:13 19:25 22:13 27:15 superiority 9:7
+45:1,9 15:1,6 20:24 39:5,14 29:4 31:11,11 supply 16:25
+53:15 service 15:8,9 47:17 49:1,12 34:10 37:18 supporting 1:23
+5:16 services 14:25 50:7 53:14,15 40:4 44:9 suppose 15:12
+6:3,16,21 14:25 15:3,4,5 sovereigns 50:14,23,25 15:13 20:6
+12:9 16:16 34:22 51:7 52:7 31:18 35:2
+14:6 setoff 51:14 sovereign's statutes 50:12 36:14
+17:10 shortly 41:10 38:22 39:10,12 51:17,21,23 supposed 19:21
+20:2 side 31:17 33:6 so-called 32:23 statute's 29:4 Supreme 1:1,15
+21:1 39:3,5 47:3,5 species 23:9,23 statutory 11:5 sure 42:6 44:2
+23:4 sides 28:18 39:7 24:3 36:10 37:2,2 survived 36:4
+25:17 side's 38:23 specific 16:15 37:18 survives 22:1,2
+28:12 significant 5:12 SRI 1:20 2:6 step 4:4 sympathetic
+similarities 5:9 18:24 Stevens 36:13 12:7 20:7
+33:2,12 simply 3:24,24 Srinivasan 1:20 36:21,22 37:5 system 36:15
+51:14 2:6 18:23,24 37:9 43:7,11
+40:6 site 43:21 19:2 20:17,23 stopping 32:2,16 T
+44:17,19 situation 23:19 21:3,14,25 32:18 T 2:1,1
+46:21 51:3 22:8,22 23:3,7 straight 7:4 take 12:13 22:8
+51:24 Sixpack 47:12 23:16 24:16,21 strange 21:1 22:11 27:2
+54:10 slip 31:20 32:10 25:10,13 26:2 36:23 29:22 32:23
+sold 3:21 26:13 27:4,8 strict 38:4 34:7,14 39:22
+45:6 11:21 44:11,15 stake 28:8 subject 32:15 takes 22:18 28:5
+29:15 someplace 32:10 37:20,22 submitted 21:9 43:18
+40:8 something's start 32:17 37:1 54:18,20 talking 5:21 9:6
+25:15 44:8 54:11 subsequent 9:7 15:23
+48:20 34:10 37:13,16 substantive 46:2 49:23
+41:3 sorts 28:9 33:4,5 44:11 45:15,18 43:10 49:20,24 50:14
+sounds 7:3 46:8 47:17 sue 12:19,23 Tate 13:12
+51:4,5,9,12,16 31:3 37:19,25 17:12 30:12 33:16,16 35:14
+51:20 42:14 54:8 36:16 40:22,22 35:17,24,25
+26:2 27:9,10 52:1 42:14 54:823:17,19,21,23
+37:4 27:20 28:8,15 transaction 4:4 unpaid 34:16,22
+29:22 31:24 7:6 48:9,11 52:23
+45:2 48:5 32:18 34:18,24 transformed 52:23,24 16:5,21,24,25
+35:5,5,11,11 19:7 urge 50:20 17:1,2,8,9
+25:5
+45:9 46:1,3 treaty 39:3 39:14 52:526:24 36:23
+16:13,15 51:5 54:14 true 9:5 36:7 U.N 16:19 web 43:21
+third 21:17 25:2 try 22:8 32:3 weight 19:21
+30:19 29:5 40:2,9 50:1 V Weltover 10:19
+thoroughfare trying 29:9 34:2v 1:7 went 16:24
+43:22 28:18 42:13,19 vague 11:10,15 we'll 3:3 15:13
+thought 9:1 10:2 Tuesday 1:12 valid 21:13 22:7 44:7 54:10
+48:11 21:8 36:3 turn 19:16 25:8 29:12 we're 12:20
+52:17 two 21:18 23:23 validity 5:1,2 29:16,24,24
+54:11 three 29:2 51:6 24:3 27:13 19:9 31:3
+34:17,22 35:9 53:2 various 34:11 27:10
+28:21 50:23 52:8,9 37:9,11 54:1 52:18
+52:25 53:9 ultimately 4:17 view 19:18 won 12:17
+54:16 title 4:23,25 unanimous 25:19 43:3 word 39:14
+25:7,11,14,15 53:22 48:16 wording 42:25
+25:23 26:15,16 22:14 32:25 violates 49:1 words 10:4 39:8
+15:24 30:10 38:8,9 50:6 vs 3:5 work 13:8 34:5
+19:13,13 38:10,13 48:18 understand 5:19 world 11:3
+20:15 today 37:13 23:18 29:23 W 12:14 33:19
+38:16 43:21 38:4 48:10 wait 46:21 50:4 54:8,11
+35:1 told 41:11 10:22 waivers 8:19 worth 33:10
+tomorrow 18:3 undoubtedly want 29:20,21 wouldn't 4:3,19
+51:6 tort 32:5 45:17 United 1:1,4,15 33:22 34:5 20:17 24:25
+8:2,14 traditional 8:18 11:3 wanted 29:11 write 6:9 18:13
+23:3,7 33:15 13:14 18:25 Washington 49:6
+25:13 traffic 51:24 27:1,5 31:3 1:11,21 wrong 9:1 12:5
+44:19 17 44:12
+2:8
+43:19
+44:17 39:24 40:3
+42:12,24
+3:6 4:25
+9:1,17,23 2
+14:1,24 2 24:9
+18:3 20 43:12
+24:2 2007 1:12
+35:13,15 21 20:20
+48:4 22 20:20
+50:4 23 43:13
+53:21 24 1:12 31:4
+40:20
+11:23 53:6
+300 31:22
+1:7 3:4
+455 40:8
+43:15
+1:16 3:2 5
+52:18 50 37:25
+54:19 53 2:14
+45:3
+24:3 6
+21:11 68 40:1
+24:2
+13:9 30:14 7
+4:11 78 17:17
+13:5
+3:17 9
+10:16 9 39:9 41:19
+53:13
+29:15 30:3

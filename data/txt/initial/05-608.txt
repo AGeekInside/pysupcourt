@@ -1,0 +1,3998 @@
+                        Official - Subject to Final Review
+
+
+ 1          IN THE SUPREME COURT OF THE UNITED STATES
+
+ 2    - - - - - - - - - - - - - - - - - x
+
+ 3   MEDIMMUNE, INC.,                                 :
+
+ 4            Petitioner,                             :
+
+ 5             v.                                     :      No.   05-608
+
+ 6   GENENTECH, INC., ET AL.                          :
+
+ 7    - - - - - - - - - - - - - - - - - x
+
+ 8                                           Washington, D.C.
+
+ 9                                           Wednesday, October 4, 2006
+
+10
+
+11            The above-entitled matter came on for oral
+
+12   argument before the Supreme Court of the United States
+
+13   at 10:03 a.m.
+
+14   APPEARANCES:
+
+15   JOHN G. KESTER, ESQ., Washington, D.C.; on behalf of the
+
+16       Petitioner.
+
+17   DEANNE E. MAYNARD, ESQ., Assistant to the Solicitor
+
+18       General, Department of Justice, Washington, D.C.; on
+
+19       behalf of the United States, as amicus curiae,
+
+20       supporting the Petitioner.
+
+21   MAUREEN E. MAHONEY, ESQ., Washington, D.C.; on behalf of
+
+22       the Respondents.
+
+23
+
+24
+
+25
+
+
+                                        1
+
+                         Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1                           C O N T E N T S
+
+ 2   ORAL ARGUMENT OF                                        PAGE
+
+ 3   JOHN G. KESTER, ESQ.
+
+ 4        On behalf of the Petitioner                          3
+
+ 5   ORAL ARGUMENT OF
+
+ 6   DEANNE E. MAYNARD, ESQ.
+
+ 7       On behalf of the United States,
+
+ 8        As amicus curiae, supporting the Petitioner         17
+
+ 9   ORAL ARGUMENT OF
+
+10   MAUREEN E. MAHONEY, ESQ.
+
+11       On behalf of the Respondents                         27
+
+12   REBUTTAL ARGUMENT OF
+
+13   JOHN G. KESTER, ESQ.
+
+14       On behalf of the Petitioner                          57
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+
+                                        2
+
+                         Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1                       P R O C E E D I N G S
+
+ 2                                                               [10:03 a.m.]
+
+ 3            CHIEF JUSTICE ROBERTS:                 We'll hear argument
+
+ 4   first this morning in MedImmune, Incorporated, versus
+
+ 5   Genentech.
+
+ 6            Mr. Kester.
+
+ 7                ORAL ARGUMENT OF JOHN G. KESTER
+
+ 8                   ON BEHALF OF PETITIONER
+
+ 9            MR. KESTER:        Mr. Chief Justice, and may it
+
+10   please the Court:
+
+11            As of this morning, it is exactly 70 years ago
+
+12   to the day, minus 4 months, that this Court heard argument
+
+13   challenging the new Federal Declaratory Judgment Act of
+
+14   1934, in an action to construe an insurance contract.
+
+15            And exactly 25 years -- 25 days later, in a
+
+16   unanimous opinion written by Chief Justice Hughes, joined
+
+17   by Justices Stone, Brandeis, and others, the Act was held
+
+18   fully consistent with Article III of the Constitution.
+
+19            This morning, you are here because an action was
+
+20   brought for a declaratory judgment that a biomedical
+
+21   manufacturer need not play -- pay large sums, under a
+
+22   license as patent royalties, under a patent it contends is
+
+23   invalid, unenforceable, and not infringed, but is paying
+
+24   royalties under protest in the meantime.                 That complaint
+
+25   was ordered dismissed by the Federal Circuit as outside
+
+
+                                         3
+
+                          Alderson Reporting Company
+                       Official - Subject to Final Review
+
+
+ 1   the Article III judicial power of the United States.
+
+ 2            In detail, the Petitioner, MedImmune, is a
+
+ 3   biotech company, formed in 1988.              During the 1990s --
+
+ 4            CHIEF JUSTICE ROBERTS:               Mr. Kester, would it --
+
+ 5            MR. KESTER:      Yes?
+
+ 6            CHIEF JUSTICE ROBERTS:               -- would it -- would
+
+ 7   your position be different if the contract contained a
+
+ 8   specific -- the license -- a specific provision specifying
+
+ 9   that the licensee may not sue?
+
+10            MR. KESTER:      No, it would not, Your Honor,
+
+11   because --
+
+12            CHIEF JUSTICE ROBERTS:               You -- do you think such
+
+13   a provision would be enforceable?
+
+14            MR. KESTER:      I doubt it would be enforceable.
+
+15   It would be a matter -- under the Lear case, Lear against
+
+16   Adkins, it would be an -- it would be an affirmative
+
+17   defense if such -- if such a claim were raised.              This case
+
+18   is here at the level of subject-matter jurisdiction.
+
+19            JUSTICE SCALIA:          Excuse me, I don't -- I don't
+
+20   understand what you just said.             You mean, it would be
+
+21   enforceable; that if such a suit were brought, the
+
+22   licensor could raise that contractual provision as a basis
+
+23   for dismissing the suit.        Is that --
+
+24            MR. KESTER:      Under 12- -- under 12(b)(6) --
+
+25            JUSTICE SCALIA:          Okay.
+
+
+                                       4
+
+                        Alderson Reporting Company
+                           Official - Subject to Final Review
+
+
+ 1             MR. KESTER:         -- perhaps.
+
+ 2             JUSTICE SCALIA:             So, then it is enforceable.
+
+ 3             JUSTICE SOUTER:             No, but --
+
+ 4             MR. KESTER:         No.
+
+ 5             JUSTICE SOUTER:             -- your point is, it's not
+
+ 6   jurisdictional.
+
+ 7             MR. KESTER:         It's not jurisdictional, exactly,
+
+ 8   Justice Souter.      This is a jurisdictional ruling.                   And
+
+ 9   that's all that this Court granted certiorari on.
+
+10             JUSTICE KENNEDY:             Well, but as a matter of
+
+11   policy, we, at some point, either in this case or some
+
+12   later case, may have to address the question of whether or
+
+13   not such a provision is enforceable.                       If it is, we may be
+
+14   -- not be talking about much.                It's just going to be
+
+15   boilerplate in every license agreement, and that's the end
+
+16   of it.   And it --
+
+17             MR. KESTER:         And so --
+
+18             JUSTICE KENNEDY:             -- but it -- on the other
+
+19   hand, it may be that there are reasons not to enforce
+
+20   this, so that we don't have courts flooded with lawsuits,
+
+21   et cetera, et cetera.
+
+22             MR. KESTER:         And those reasons, I would suggest,
+
+23   Justice Kennedy, were taken care of in Lear, for the most
+
+24   part, in 1969.    Provisions in license contracts that
+
+25   prevent challenges to the contracts are not enforceable
+
+
+                                           5
+
+                            Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   under the patent laws of the United States.                      But then, I
+
+ 2   -- as I was saying, that is a matter of patent law.
+
+ 3   That's not a matter of jurisdictional law.                      We're here --
+
+ 4            CHIEF JUSTICE ROBERTS:                  Well, let's look at what
+
+ 5   might be a matter of jurisdictional law.                      I take it, from
+
+ 6   your position, there's nothing preventing Genentech from
+
+ 7   suing, either, is there?           In other words, to establish the
+
+ 8   validity of their patent.
+
+ 9            MR. KESTER:         It has -- it has happened, on
+
+10   various occasions, that patentees have brought suit to
+
+11   establish the validity of --
+
+12            CHIEF JUSTICE ROBERTS:                  Against licensees?
+
+13            MR. KESTER:         Against licensees and others.                   And
+
+14   the --
+
+15            JUSTICE GINSBURG:                Against licensees who are not
+
+16   claiming that the patent is invalid?                      And where is the
+
+17   controversy?
+
+18            MR. KESTER:         The controversy could arise in any
+
+19   number of ways.
+
+20            JUSTICE GINSBURG:                I mean, I can see, if the --
+
+21   if licensee says the patent is invalid, that the patentee
+
+22   says paying its royalties -- how does it --
+
+23            MR. KESTER:         The patentee could be paying his
+
+24   royalties.     The patentee could also be putting ads in the
+
+25   paper saying, "This is not a valid patent."                      It could --
+
+
+                                          6
+
+                           Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   it could have acquired a lot of publicity.                And, in the
+
+ 2   end, there could be reasons, and there have been such
+
+ 3   cases -- which we cited, 47 of, our brief -- where such
+
+ 4   suits have been brought.          But --
+
+ 5               JUSTICE GINSBURG:            If it -- if the -- if the --
+
+ 6   if the licensee came into court and said, "I'm not
+
+ 7   contesting this patent," that would be the end of it,
+
+ 8   wouldn't it?
+
+ 9               MR. KESTER:     If the licensee said, "I am not
+
+10   contesting that patent," that could be.
+
+11               CHIEF JUSTICE ROBERTS:              Oh, but the patentee
+
+12   would just say, "Look, we have a license.                I think the
+
+13   patent's valid, and you owe me a dollar a unit."                The
+
+14   licensee said, "Well, I don't think they're -- it's valid,
+
+15   so I owe you nothing."        And they settle on a license for
+
+16   50 cents.    Why can't the patentee say, "You know, if I get
+
+17   a judicial decision establishing that the patent is valid,
+
+18   I can charge a higher license, either when this agreement
+
+19   expires or for other licenses"?
+
+20               MR. KESTER:     That -- I agree with that, Mr.
+
+21   Chief Justice.    But the practicality is that a patentee
+
+22   starts out with, essentially, a judgment that the patent
+
+23   is valid.    There is a presumption of validity.              And to
+
+24   challenge that patent -- that presumption of validity, is
+
+25   a very difficult undertaking.              Most of them don't bother.
+
+
+                                         7
+
+                          Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   Why would they?   If they are receiving -- if they're
+
+ 2   receiving --
+
+ 3              CHIEF JUSTICE ROBERTS:              I'm trying to see how
+
+ 4   far you want -- are willing to push your argument that
+
+ 5   just because there's been an agreement, or perhaps even a
+
+ 6   settlement, that that somehow or another doesn't moot the
+
+ 7   controversy, the underlying legal dispute.               And it -- I
+
+ 8   gather your answer to me is that Genentech, or a patentee,
+
+ 9   can sue, even though they have an existing -- they're
+
+10   getting royalties from the licensee, they can still sue
+
+11   the licensee.
+
+12              MR. KESTER:     A settlement does not deprive a
+
+13   Federal Court of subject-matter jurisdiction.              That's the
+
+14   narrow point that is before this -- before this Court.
+
+15              JUSTICE GINSBURG:            Why aren't you -- you said,
+
+16   "The only question before the court is jurisdictional."
+
+17   If that's so, why isn't your position that the Federal
+
+18   Circuit put the wrong label on this, that license is
+
+19   listed in 8(c) as an affirmative defense; so, whatever the
+
+20   outcome should be, the wrong label should -- is -- was
+
+21   used.   It shouldn't be a subject-matter jurisdiction,
+
+22   shouldn't be 12(b)(1); it should be an 8(c) affirmative
+
+23   defense.   And then the -- you're out of the jurisdiction
+
+24   box, but you're left with the same underlying question.
+
+25              MR. KESTER:     But not the same underlying
+
+
+                                        8
+
+                         Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   question, Justice Ginsburg, with respect, because then you
+
+ 2   are in a situation like the business forms case in the
+
+ 3   Seventh Circuit, which came out shortly after the Lear.
+
+ 4   There was a settle -- settlement, and the -- and it was
+
+ 5   argued that the settlement was not effective because of
+
+ 6   the Lear decision, and parties can't settle themselves out
+
+ 7   of the Lear decision.      But that is all under 12(b)(6), and
+
+ 8   not 12(b)(1).   This case involves a 12(b)(1) motion, not a
+
+ 9   12(b)(6) --
+
+10            JUSTICE GINSBURG:              But what --
+
+11            MR. KESTER:       -- motion.
+
+12            JUSTICE GINSBURG:              -- good would it do?   Suppose
+
+13   we said, "Federal Circuit, you put the wrong label on it.
+
+14   It should be 12(b)(6), not 12(b)(1), or perhaps even 8(c),
+
+15   affirmative defense"?      Then you go back to the Federal
+
+16   Circuit, and they'll come up with the same decision, that,
+
+17   as long as you are licensed and are paying your royalties,
+
+18   you have -- and they just put a different label on it --
+
+19   you have --
+
+20            MR. KESTER:       They --
+
+21            JUSTICE GINSBURG:              -- you have no -- you have
+
+22   not stated a claim.
+
+23            MR. KESTER:       That would be effectively
+
+24   overruling Lear, which is what, I think, is what many of
+
+25   the parties in this case actually seek to do.
+
+
+                                        9
+
+                           Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1             Lear does not allow inhibitions of challenges to
+
+ 2   patent licenses.   A licensee can challenge the validity,
+
+ 3   the enforceability of the patent.                That's because there's
+
+ 4   a public interest in this, as well.                     Parties cannot simply
+
+ 5   contract with each other and prevent a challenge to a --
+
+ 6   to a patent --
+
+ 7             JUSTICE GINSBURG:             But then --
+
+ 8             MR. KESTER:      -- license.
+
+ 9             JUSTICE GINSBURG:             -- the Federal Circuit
+
+10   distinguished Lear, and said what -- in Lear, the licensee
+
+11   had stopped paying royalties.             Isn't that so?
+
+12             MR. KESTER:      That -- those were the facts of
+
+13   Lear.   But -- it happened that way in Lear, but that
+
+14   wasn't the reasoning of Lear.             Lear would not totally
+
+15   cover that situation, but we would submit to this Court,
+
+16   it shouldn't make any difference.                The reasoning of Lear
+
+17   is the same.   The licensee cannot, by contract, be
+
+18   estopped, licensee estoppel, from challenging a patent.
+
+19             CHIEF JUSTICE ROBERTS:               So, there's no way, I --
+
+20   under your view, that a patent holder can protect itself
+
+21   from suit through any license arrangement or any agreement
+
+22   of any kind.
+
+23             MR. KESTER:      I suspect there are many ways, Mr.
+
+24   Chief Justice, but not by throwing them out on a
+
+25   jurisdictional basis at the very first moment of the
+
+
+                                       10
+
+                         Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   lawsuit.
+
+ 2              JUSTICE GINSBURG:              How about --
+
+ 3              MR. KESTER:       There may be ways this could be
+
+ 4   arranged at the second level, through --
+
+ 5              JUSTICE GINSBURG:              Well, what are those ways --
+
+ 6   I mean, the ones that have been mentioned as possibilities
+
+ 7   in the Government brief -- one, you rejected, and the
+
+ 8   other that was mentioned was: if you sue -- if the
+
+ 9   licensee sues, then the royalty fees will be upped.                   Would
+
+10   that be effective?
+
+11              MR. KESTER:       That is a question that would arise
+
+12   under Lear against Adkins.            And the question before this
+
+13   Court in that situation, if it got to this Court, would
+
+14   be, Is that kind of a provision compatible with the policy
+
+15   that was so firmly expressed by Justice Harlan in Lear,
+
+16   and has been reiterated in so many subsequent cases of
+
+17   this Court?
+
+18              JUSTICE GINSBURG:              So, you have rejected both of
+
+19   the Government's suggestions on what the patent holder
+
+20   might do to protect itself.               Do you have anything concrete
+
+21   that you would concede the patent holder could do?
+
+22              MR. KESTER:       I don't think that I have rejected
+
+23   both the Government's suggestions.                   I've said that they
+
+24   raise problems on -- as to the scope of Lear.
+
+25              JUSTICE SOUTER:           With respect to -- whether we
+
+
+                                         11
+
+                           Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   are talking about a jurisdictional defense or whether we
+
+ 2   are talking about an affirmative defense, assuming
+
+ 3   jurisdiction, is there any -- is there any reason for us
+
+ 4   to accept your position, other than the reason that you
+
+ 5   have mentioned a number of times, and that is the adoption
+
+ 6   and encouragement of a public policy that allows patent
+
+ 7   challenges freely?      Is that the nub of our reasoning, if
+
+ 8   we were to support your position, either jurisdictionally,
+
+ 9   in this case, or in recognizing -- or the -- in dealing
+
+10   with the affirmative defense in another case?
+
+11            MR. KESTER:         Not quite, Justice Souter.         I would
+
+12   say the nub of your position is the Altvater case, the
+
+13   Aetna case, the Maryland --
+
+14            JUSTICE SOUTER:             Well, Altvater is difficult for
+
+15   you, isn't it?    Because there was an injunction in
+
+16   Altvater, wasn't there?
+
+17            MR. KESTER:         That -- but that -- but was --
+
+18            JUSTICE SOUTER:             Which raises an entirely
+
+19   different policy issue?
+
+20            MR. KESTER:         Well, I would say what it -- what
+
+21   it raises is simply an extra fact, but it wasn't a
+
+22   necessary fact.    Because this Court, in Altvater,
+
+23   specifically pointed out that even if there weren't an
+
+24   injunction there, there would be -- there would be the
+
+25   danger forced on the licensee, of an infringement suit;
+
+
+                                         12
+
+                           Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   and an infringement suit means, possibly, an injunction of
+
+ 2   the patent, treble damages, any number of sanctions.                      An
+
+ 3   injunction suit can put a company out of business,
+
+ 4   especially like a company like my client here.                   And --
+
+ 5             JUSTICE SOUTER:            But that is -- that is a good
+
+ 6   reason.   And, I take it, it's your logic that that is a
+
+ 7   good reason to recognize a fairly broad right on the part
+
+ 8   of the licensee to challenge.
+
+ 9             MR. KESTER:        Right.
+
+10             JUSTICE SOUTER:            In other words, the nub of your
+
+11   position, as I understand it, is the public policy that
+
+12   favors relative --
+
+13             MR. KESTER:        It --
+
+14             JUSTICE SOUTER:            -- freedom to challenge --
+
+15             MR. KESTER:        It's more -- it's more than public
+
+16   policy, it's Article III.            Article III says that you can
+
+17   bring a lawsuit in this situation.                   And that was settled --
+
+18             JUSTICE SOUTER:            No --
+
+19             MR. KESTER:        -- in Aetna.
+
+20             JUSTICE SOUTER:            No, I realize that.         But, I
+
+21   mean, what we've got in this case, and in any of these
+
+22   cases, is a question of line-drawing under Article III.
+
+23   And your argument is, you want to draw the line where you
+
+24   want it drawn primarily because there are practical
+
+25   reasons to favor a public policy of free challenge.
+
+
+                                         13
+                           Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1             MR. KESTER:        What we are presenting in this case
+
+ 2   is a dispute about money.            It's not abstract.            It's not
+
+ 3   hypothetical.     It's not conjectural.                   It is concrete,
+
+ 4   immediate.     All the facts are in.               It's definitely
+
+ 5   adversarial.    It's legal.
+
+ 6             JUSTICE SCALIA:            You -- well, you can have such
+
+ 7   a dispute on a theoretical question between, I don't know,
+
+ 8   the ACLU and the National Rifle Association, but that
+
+ 9   doesn't create a case or controversy.                      What is the injury,
+
+10   the imminent injury to your -- to your client that is the
+
+11   basis for the case or controversy?
+
+12             MR. KESTER:        The --
+
+13             JUSTICE SCALIA:            Is it anything other than, "I
+
+14   have to pay the royalties that I agreed to pay."?
+
+15             MR. KESTER:        It is the -- it is that, "I am
+
+16   having to pay the royalties -- that I say I did not agree
+
+17   to pay, because this is an invalid patent."                     Money is
+
+18   being paid by my client every quarter, large amounts of
+
+19   money.   That is a major injury.
+
+20             JCHIEF JUSTICE ROBERTS:                  Well, if you don't --
+
+21             MR. KESTER:        And if --
+
+22             CHIEF JUSTICE ROBERTS:                 -- think --
+
+23             MR. KESTER:        And if --
+
+24             CHIEF JUSTICE ROBERTS:                 -- if you don't think --
+
+25             JUSTICE SCALIA:            Is it -- is it unlawful to
+
+
+                                         14
+
+                           Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   agree to pay somebody money who does not have a patent?
+
+ 2              MR. KESTER:       It is --
+
+ 3              JUSTICE SCALIA:           I mean, you're speaking as
+
+ 4   though somehow that -- such a contract is contrary to
+
+ 5   public policy, and void.
+
+ 6              MR. KESTER:       No, we're saying that that isn't
+
+ 7   what we agreed to.      We're saying this is a contract
+
+ 8   dispute.   And the whole purpose of the --
+
+ 9              CHIEF JUSTICE ROBERTS:                Well, then why are you
+
+10   paying it, if you -- if you don't think you owe it?
+
+11              MR. KESTER:       Because the --
+
+12              CHIEF JUSTICE ROBERTS:                Because of the threat of
+
+13   treble damages --
+
+14              MR. KESTER:       The threat --
+
+15              CHIEF JUSTICE ROBERTS:                -- and injunction.
+
+16              MR. KESTER:       -- of this --
+
+17              CHIEF JUSTICE ROBERTS:                If we're trying to
+
+18   figure out where the public policy is here, why don't we
+
+19   give some weight to those congressional enactments that
+
+20   obviously fortify the strength of the patent?                      In other
+
+21   words, Congress passed these provisions providing for
+
+22   treble damages for attorneys' fees.                       And --
+
+23              MR. KESTER:       But --
+
+24              CHIEF JUSTICE ROBERTS:                -- and to respond that
+
+25   there's got to be a public policy to counterbalance that,
+
+
+                                         15
+
+                           Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   Congress can always do that, if it wants; but it didn't --
+
+ 2   it thinks that you need these provisions to protect the
+
+ 3   patent holders.
+
+ 4               MR. KESTER:      But, Mr. Chief Justice,
+
+ 5   Congress can also amend the Declaratory Judgment Act, if
+
+ 6   it wants.    And Congress was proud of the Declaratory
+
+ 7   Judgment Act when it was passed in 1934.                  And the
+
+ 8   legislative history of it -- and nothing in the text is
+
+ 9   contrary, says the purpose of this is so that contracts
+
+10   can be resolved without breach, and judicial
+
+11   determinations can be had.            It's like a noninvasive, a
+
+12   less invasive kind of surgery.
+
+13               JUSTICE STEVENS:          Mr. Kester, may I ask you this
+
+14   question?    Is it your view that Gen-Probe represented a
+
+15   change in the law?
+
+16               MR. KESTER:      Absolutely.
+
+17               JUSTICE STEVENS:          Were there -- before Gen-Probe
+
+18   was decided, were there any cases, like this case, that
+
+19   were decided?
+
+20               MR. KESTER:      There were many, Your Honor, and
+
+21   they were decided --
+
+22               JUSTICE STEVENS:          Where the -- where the
+
+23   licensee brought suit challenging validity while the
+
+24   license was still in full --
+
+25               MR. KESTER:      We --
+
+
+                                         16
+
+                           Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1            JUSTICE STEVENS:            -- force?
+
+ 2            MR. KESTER:        We had suits in the Third Circuit,
+
+ 3   the Seventh Circuit, the Second Circuit, and even in the
+
+ 4   Federal Circuit, in its early days, where it quoted those
+
+ 5   cases which said, "It is not necessary for the licensee to
+
+ 6   stop paying payments in order for Article III to be
+
+ 7   satisfied."
+
+ 8            This case came as a shock in 2004.                     And, in
+
+ 9   fact, the judges below, in this series of cases, all said,
+
+10   "We thought it was settled law the other way."                    All this
+
+11   case represents, from our point of view, is, "Let's go
+
+12   back to the way it has always been."
+
+13            I'd like to reserve the balance of my time.
+
+14            CHIEF JUSTICE ROBERTS:                 Thank you, Mr. Kester.
+
+15            Ms. Maynard.
+
+16             ORAL ARGUMENT OF DEANNE E. MAYNARD
+
+17                    ON BEHALF OF PETITIONER
+
+18            MS. MAYNARD:         Mr. Chief Justice, and may it
+
+19   please the Court:
+
+20            There is a concrete dispute between the parties
+
+21   about their legal rights and obligations.                    If that dispute
+
+22   is resolved, money will change hands.                    That is an Article
+
+23   III case or controversy.
+
+24            CHIEF JUSTICE ROBERTS:                 How do you ever end
+
+25   these things?   Let's say they have this dispute, they
+
+
+                                        17
+
+                          Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   bring the litigation, and they settle it.                 They're saying,
+
+ 2   "Okay, we're going to settle it.                 Instead of paying a
+
+ 3   license fee of 50 cents, it's going to be 40 cents, and
+
+ 4   we'll go on."     Then they can sue again, I take it.
+
+ 5              MS. MAYNARD::         In that situation.            Recognizing
+
+ 6   that's not the situation we have here --
+
+ 7              CHIEF JUSTICE ROBERTS:                Can they settle that, by
+
+ 8   the way?     Is it all right to settle it, or is -- that
+
+ 9   interfere with the policy that patents have to be open to
+
+10   challenge?
+
+11              MS. MAYNARD:        May I -- if I can answer the first
+
+12   question first.
+
+13              CHIEF JUSTICE ROBERTS:                Either one.
+
+14              MS. MAYNARD:        If there were to be a settlement,
+
+15   in the second case, the -- it would not be an Article III
+
+16   case or controversy problem with the second case.                   And
+
+17   that suit should not be dismissed under 12(b)(1).
+
+18              CHIEF JUSTICE ROBERTS:                Okay.
+
+19              MS. MAYNARD:        The -- in that case, the patent
+
+20   holder might have a valid 12(b)(6) defense, and the suit,
+
+21   laying aside enforceability issues that you raised, may be
+
+22   easily resolved, on that ground.                 But, in terms of the
+
+23   question before the Court today, that wouldn't be an
+
+24   Article III matter.
+
+25              I think, as a policy matter -- so, moving off
+
+
+                                         18
+
+                           Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   the question before the Court right now -- as a policy
+
+ 2   matter, the -- it's not clear from this Court's cases
+
+ 3   exactly what types of agreements would be enforceable.                   I
+
+ 4   think there's a spectrum of cases one can imagine, ranging
+
+ 5   from Pope -- the type of promise that was extracted in
+
+ 6   Pope, which this Court held was unenforceable --
+
+ 7               CHIEF JUSTICE ROBERTS:              Well, I think you
+
+ 8   overread Pope.    All Pope said was that they're not going
+
+ 9   to grant specific performance.               In fact, they've said,
+
+10   "Whatever you may think of the policy here, we don't --
+
+11   specific performance calls on the equitable discretion,
+
+12   and we're not going to do it."               But, I don't read Pope as
+
+13   holding that the clauses are otherwise unenforceable.                   In
+
+14   --
+
+15               MS. MAYNARD:      Well --
+
+16               CHIEF JUSTICE ROBERTS:              -- other words you're
+
+17   maybe entitled to damages.           And that may be measured by
+
+18   the license fee that you agreed to pay.
+
+19               MS. MAYNARD:      Well, there certainly would be a
+
+20   question, though, the way that Lear read Pope, and under
+
+21   Lear, about whether a bare agreement not to challenge
+
+22   licenses, especially ones like in Pope, where they agreed
+
+23   not to challenge the license, even beyond the term, would
+
+24   be enforceable.    And the Government thinks there's a
+
+25   spectrum.    One -- at one end of the spectrum would be
+
+
+                                        19
+
+                          Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   licenses like those in Pope, and at the other end of the
+
+ 2   spectrum would be a consent decree entered after
+
+ 3   settlement of a bona fide patent infringement suit where
+
+ 4   the -- which included an agreement not to settle.                   Now,
+
+ 5   that's clearly not what we have here.
+
+ 6             JUSTICE BREYER:          Now, is -- if -- I guess there
+
+ 7   are three possible positions on the question of whether a
+
+ 8   licensee can attack a contract, a patent where he has a
+
+ 9   license and wants to keep the contract.                   One, he can never
+
+10   do it.   Two, he can always do it.               Three, it depends on
+
+11   what the contract says.        Now, do any of those questions
+
+12   have anything to do with the question before us, which is
+
+13   whether it is a case or controversy?
+
+14             MS. MAYNARD:       No, Your Honor.
+
+15             JUSTICE BREYER:          All right.           If we were to reach
+
+16   the question, which is very interesting, "What is the
+
+17   Government's position as to which of those three positions
+
+18   is the right position?" -- were we to reach it -- I agree
+
+19   with you, I don't see it in front of us; but maybe it is
+
+20   -- if it were, what would be your view?
+
+21             MS. MAYNARD:       The Government's view is that
+
+22   there's a spectrum along the spectrum, and it would have
+
+23   -- you would have to consider each case on its terms.                   And
+
+24   it's not clear, from this Court's cases, where the
+
+25   policies in that --
+
+
+                                       20
+
+                           Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1            JUSTICE BREYER:           All right.           So, basically,
+
+ 2   though, you're not certain.             The Government's view would
+
+ 3   be, it is a matter as to whether you can sue claiming the
+
+ 4   patent is invalid, whether the licensee can do it, that
+
+ 5   probably -- but you're not certain, and you haven't made
+
+ 6   up your mind definitely, because it is not in this case --
+
+ 7   but you think it's going to be something they could
+
+ 8   regulate themselves by contract.
+
+ 9            MS. MAYNARD:        It's certainly not foreclosed by
+
+10   this Court's precedent, and it's an open question where
+
+11   the policies -- how they would weigh out.                  There's no
+
+12   language in this license, however, suggesting any type of
+
+13   settlement.   And, moreover, I think it's important to
+
+14   recognize that the parties here actually have a concrete
+
+15   dispute about what the licensing agreement means.                  Count
+
+16   one in the complaint is asking for a declaration --
+
+17            CHIEF JUSTICE ROBERTS:                Well, you don't think
+
+18   that matters, though, do you?             I mean, even if they all
+
+19   agree there's no dispute about what the license agreement
+
+20   means, your position is still the same, right?                  There is
+
+21   an Article III controversy because they challenge the
+
+22   validity of the patent?
+
+23            MS. MAYNARD:        If the parties have a concrete
+
+24   dispute about the validity of the patent, and it would
+
+25   affect their rights and obligations in the way that it
+
+
+                                       21
+
+                         Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   would here -- in other words, that money will no longer be
+
+ 2   due to the Respondents if the patent's invalid --
+
+ 3              CHIEF JUSTICE ROBERTS:                Is --
+
+ 4              MS. MAYNARD:        -- and the --
+
+ 5              CHIEF JUSTICE ROBERTS:                -- that always the case?
+
+ 6   I mean, could -- can you enforce a license agreement based
+
+ 7   on an invalid patent?        You thought it was valid -- parties
+
+ 8   had a dispute about it -- whether it is valid.                 You
+
+ 9   entered into agreement, say, "Well, let's split the
+
+10   difference.   We'll -- you know, 50 cents rather than a
+
+11   dollar or nothing."       It's determined that the patent is
+
+12   invalid.   Can the patentee then still say, "Well, you
+
+13   still owe me the money.          We've, kind of, cut -- split the
+
+14   difference.   That was part of the agreement"?
+
+15              MS. MAYNARD:        It might depend on whether there
+
+16   was consideration beyond the patent itself.                In the -- in
+
+17   this -- in this case, though, the Petitioner claims that
+
+18   if the -- if the patent is invalid, they no longer owe
+
+19   licensing fees, and, under Lear, they would be entitled to
+
+20   the licensing fees, that they've paid since they began
+
+21   challenging, back.      So, it's clear that under either the
+
+22   contract or a question of --
+
+23              JUSTICE SCALIA:           Contractually?       They say that
+
+24   that's their contractual right?
+
+25              MS. MAYNARD:        They claim that, under the
+
+
+                                         22
+
+                           Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   licensing agreement, they only owe royalties on valid
+
+ 2   claims.     That's count one of the complaint, in the (j) --
+
+ 3               JUSTICE SCALIA:          Where does that appear in the
+
+ 4   licensing agreement?        Or --
+
+ 5               MS. MAYNARD:       Where does it appear in the
+
+ 6   licensing agreement?
+
+ 7               JUSTICE SCALIA:          Yes, I took them as just
+
+ 8   asserting a general proposition of law -- that, where
+
+ 9   they've agreed to pay royalties because of a patent, if
+
+10   the patent is invalid, they don't have to pay royalties --
+
+11   not because there's some special provision in this
+
+12   contract.
+
+13               MS. MAYNARD:       The parties actually have a
+
+14   concrete dispute about the meaning of the licensing
+
+15   agreement in that regard, Justice Scalia.                     On page 399 of
+
+16   the joint appendix is the provision about which they have
+
+17   a dispute.    And the language in there provides that they
+
+18   will pay on substances which would, if not licensed under
+
+19   this agreement, infringe one or more claims of either or
+
+20   both of the Shamir patents, or coexpression patents, which
+
+21   have neither expired nor been held invalid by a court or
+
+22   other body of competent jurisdiction.                     There was similar
+
+23   language in --
+
+24               JUSTICE SCALIA:          So, there's really not much at
+
+25   issue in this case.       And that's clearly a case of
+
+
+                                         23
+
+                           Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   controversy, isn't it?        There is a dispute over the
+
+ 2   meaning of that provision of the agreement.
+
+ 3               MS. MAYNARD:      Yes, Your Honor.
+
+ 4               JUSTICE SCALIA:         Gee, there's less here than
+
+ 5   meets the eye.
+
+ 6               MS. MAYNARD:      That's what the Government
+
+ 7   believes, Your Honor.
+
+ 8               It's also -- the licensee also does not need to
+
+ 9   breach the licensing agreement in order to create a case
+
+10   or controversy.    The licensee is currently paying
+
+11   royalties that it does not believe it owes and that it
+
+12   believes it would be entitled to have back if it should
+
+13   prevail on its interpretation of the -- of the patent and
+
+14   the licensing agreement.          It doesn't have to make that
+
+15   injury more severe by breaching.                That's clear from this
+
+16   Court's decision in Altvater.              In Altvater, royalties were
+
+17   being demanded and royalties were being paid, but,
+
+18   nevertheless, this Court held --
+
+19               CHIEF JUSTICE ROBERTS:              Well, but that -- it's
+
+20   been pointed out that was pursuant to an injunction.
+
+21               MS. MAYNARD:      Yes, it was pursuant to
+
+22   injunction, but that was not important to the Court's
+
+23   reasoning.    What the Court said is, "You need not suffer
+
+24   patent damages in order to bring the suit."                Not a
+
+25   contempt.    "You need not breach the injunction and put
+
+
+                                        24
+
+                          Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   yourself at risk of treble damages for infringement."                  It
+
+ 2   was the patent damages that put the licensee at risk, and
+
+ 3   that's the same risk that the Petitioner faces here and
+
+ 4   should not have to bear in order to bring suit.
+
+ 5            The case or controversy is whether or not the --
+
+ 6   they owe the royalties.         The whole point of the
+
+ 7   Declaratory Judgment Act was to allow contracting parties
+
+ 8   not to have to sever their ongoing contractual relations
+
+ 9   in order to get disputes resolved between --
+
+10            CHIEF JUSTICE ROBERTS:                 Do you think --
+
+11            MS. MAYNARD:         -- themselves.
+
+12            CHIEF JUSTICE ROBERTS:                 Do you think there would
+
+13   be a case or controversy if Genentech were suing to
+
+14   establish the validity of its patent?
+
+15            MS. MAYNARD:         In the situation that we have
+
+16   here, Your Honor?
+
+17            CHIEF JUSTICE ROBERTS:                 Yes.
+
+18            MS. MAYNARD:         Yes, I do.            Where the Petitioner
+
+19   claims that the patent is invalid, that they could -- that
+
+20   the Petitioner's claims unsettles their right, damages
+
+21   their property value, potentially, and that they could
+
+22   bring a declaratory judgment action of validity.
+
+23            JUSTICE SCALIA:            And what would their -- what
+
+24   would their concrete injury be?               What is the threatened
+
+25   imminent injury that they would assert in that -- in that
+
+
+                                        25
+
+                          Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   action?
+
+ 2             MS. MAYNARD:       Well, right now --
+
+ 3             JUSTICE SCALIA:          You have a licensee who's
+
+ 4   paying the license fees.         What is their concrete injury?
+
+ 5             MS. MAYNARD:       It -- from the moment -- the
+
+ 6   Petitioner has an argument that from the moment it ceased
+
+ 7   -- it starts claiming that the patent is invalid and pays
+
+ 8   under protest, that it is entitled to those royalties
+
+ 9   back.
+
+10             JUSTICE SCALIA:          But --
+
+11             MS. MAYNARD:       The --
+
+12             JUSTICE SCALIA:          -- so long as they're still
+
+13   paying the royalties, isn't that sort of an abstract
+
+14   disagreement?   I mean, it's sort of like the ACLU saying
+
+15   that the patent's invalid.          You know, it's a nice
+
+16   theoretical question that we can argue about, but as long
+
+17   as they're paying the royalties, where's the concrete
+
+18   injury?
+
+19             MS. MAYNARD:       Well, I think, technically,
+
+20   Justice Scalia, they probably have a claim for patent
+
+21   infringement, to which the defense, as Justice Ginsburg --
+
+22             JUSTICE SCALIA:          I --
+
+23             MS. MAYNARD:       -- points out --
+
+24             JUSTICE SCALIA:          I find it --
+
+25             MS. MAYNARD:       -- would be an easy defense.
+
+
+                                       26
+
+                         Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1             JUSTICE SCALIA:          I --
+
+ 2             MS. MAYNARD:       So, there's not an Article III
+
+ 3   lack of case or controversy, which is --
+
+ 4             JUSTICE SCALIA:          I find it --
+
+ 5             MS. MAYNARD:       -- what's the question before --
+
+ 6             JUSTICE SCALIA:          -- very difficult --
+
+ 7             MS. MAYNARD:       -- the Court.
+
+ 8             JUSTICE SCALIA:          -- to see how there would be a
+
+ 9   proper declaratory judgment action brought by the patentee
+
+10   here.   It's just not the kind of a situation where you can
+
+11   have a mirror-image suit.          I don't see what the --
+
+12             MS. MAYNARD:       Well, you need --
+
+13             JUSTICE SCALIA:          -- patentee --
+
+14             MS. MAYNARD:       You -- may I answer that question?
+
+15   You need not have a mirror-image suit, in that sense,
+
+16   Justice Scalia.   And Altvater makes that clear.              In
+
+17   Altvater, the patentee's claim was --
+
+18             JUSTICE SCALIA:          That's fine.
+
+19             MS. MAYNARD:       -- much narrower than the
+
+20   counterclaim; and, nevertheless, the Court allowed that
+
+21   counterclaim to proceed.
+
+22             CHIEF JUSTICE ROBERTS:               Thank you, Counsel.
+
+23             Ms. Mahoney.
+
+24              ORAL ARGUMENT OF MAUREEN E. MAHONEY
+
+25                     ON BEHALF OF RESPONDENT
+
+
+                                       27
+
+                         Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1             MS. MAHONEY:        Mr. Chief Justice, and may it
+
+ 2   please the Court:
+
+ 3             I'd like to start with the fact that there are
+
+ 4   four counts in the complaint for declaratory relief.              The
+
+ 5   first one is styled as a -- contractual relations claims.
+
+ 6   The other three are styled as patent law claims.              And it's
+
+ 7   important to emphasize, at the outset, that this Court, in
+
+ 8   Skelly Oil, in Calderone, and in, really, all of the
+
+ 9   cases, has said it's very important to look behind the
+
+10   labels that a Declaratory Judgment Act plaintiff puts on
+
+11   their claims.   We need to actually see what is the cause
+
+12   of action they're trying to adjudicate so we can do an
+
+13   accurate assessment of justiciability -- standing,
+
+14   ripeness, Federal-question jurisdiction.
+
+15             I want to start by explaining why there is no
+
+16   contract claim at issue here.              You heard today, they're
+
+17   trying to salvage this, say that there's a contract
+
+18   dispute, a dispute about the terms of the contract.              They
+
+19   didn't argue that below, and with good reason.              And I'd
+
+20   just point you to the briefs in the Federal Circuit.
+
+21   Roman numeral I, which is all about the improper dismissal
+
+22   of the Declaratory Judgment Act claims, refers to the fact
+
+23   these are, quote, "patent-law claims," end quote, at page
+
+24   27.   Nowhere do they say that there is a dispute about the
+
+25   proper interpretation of the contract terms.              And let me
+
+
+                                        28
+
+                          Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   explain why.
+
+ 2            The contract terms, which were just read to you,
+
+ 3   is Section 110 of -- 1.10 at JA-399 of the license -- says
+
+ 4   that there is an obligation to pay royalties for Synagis
+
+ 5   on any claim -- not any valid claim, any claim -- that has
+
+ 6   not been held invalid by a court or other competent
+
+ 7   jurisdiction from which no appeal has, or may, be taken.
+
+ 8   Now, they never said, below, "That clause means that we
+
+ 9   can come to court and have the court decide whether this
+
+10   patent is valid, and, depending on whether we win or not,
+
+11   then we can stop paying."          And the reason they didn't make
+
+12   that argument is, it was rejected by this Court a hundred
+
+13   years ago, in United States versus Harvey Steel.             Very
+
+14   similar clause.   The United States says, "This means that
+
+15   we don't have to pay if the patent is invalid."             And, in
+
+16   an opinion by Justice Holmes, this Court rejected it out
+
+17   of hand by -- and said, "This was a conventional proviso.
+
+18   We don't even need to look to evidence of the party's
+
+19   intent, because this is the standard proviso.             It does not
+
+20   mean" -- and they said it was a "twisted interpretation"
+
+21   that the Government was offering -- it doesn't mean that
+
+22   the licensee, quote, "thought the patent bad and would
+
+23   like to have the Court say so now," end quote.             Yet that
+
+24   is exactly --
+
+25            JUSTICE GINSBURG:              Was that a case about Article
+
+
+                                       29
+
+                         Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   III case or controversy?
+
+ 2               MS. MAHONEY:      It is, in the following sense,
+
+ 3   Your Honor.    They can't just show up here today and say,
+
+ 4   "Well, there really is a dispute about the contract."              But
+
+ 5   they never argued, below, and is foreclosed --
+
+ 6               JUSTICE BREYER:         Shouldn't we send that back?    I
+
+ 7   mean, I thought we were here to decide one question, that
+
+ 8   the Federal Circuit has said that, "Unless there is a
+
+ 9   reasonable apprehension of a lawsuit, you can't bring a
+
+10   declaratory judgment action, because of the Constitution
+
+11   of the United States."        Now, I have to admit, I've looked
+
+12   up, or I've had my law clerk look up, probably now
+
+13   hundreds of cases, and we can't find, in any case, such a
+
+14   requirement.    Indeed, the very purpose -- as I -- we've
+
+15   just heard the SG say, of this act, the Declaratory
+
+16   Judgment Act, seems to be to allow people who -- a
+
+17   contract -- who are in a real concrete disagreement, to
+
+18   get a declaratory judgment without getting rid of the
+
+19   contract.    But I might be wrong about that.
+
+20               But you've now argued a different point.
+
+21               MS. MAHONEY:      Well --
+
+22               JUSTICE BREYER:         So, isn't the right thing for
+
+23   us to do, to decide the issue in front of us and then send
+
+24   it back?    If you're right that they have to pay, whether
+
+25   they win or lose; if they're right that they promise not
+
+
+                                        30
+
+                          Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   to sue; if you're right on 14 other grounds, you might
+
+ 2   win.     But should we decide those grounds today?                    Why?
+
+ 3               MS. MAHONEY:       Well, first of all, with respect
+
+ 4   to this issue, whether there would be jurisdiction over a
+
+ 5   real live contract dispute, they never argued it, Your
+
+ 6   Honor.     It's not part of this case.                    The Federal Circuit
+
+ 7   didn't address it, because they didn't argue it, because
+
+ 8   it's foreclosed by --
+
+ 9               JUSTICE GINSBURG:             But the question --
+
+10               MS. MAHONEY:       -- a precedent a hundred --
+
+11               JUSTICE GINSBURG:             The question that is
+
+12   presented to us -- whatever they suggested at this oral
+
+13   argument that wasn't in III, the question it presented to
+
+14   us is, Was the Federal Circuit right when they said, "You
+
+15   have no access to a declaratory judgment unless there is a
+
+16   reasonable apprehension that you will be sued"?
+
+17               MS. MAHONEY:       Your Honor, that is the right --
+
+18   that is the right starting point for a test, depending on
+
+19   the cause of action they're seeking to adjudicate.                      In
+
+20   here, what the Federal Circuit properly understood is that
+
+21   they are seeking to adjudicate affirmative defenses to an
+
+22   infringement action under the patent laws.
+
+23               And, just like in Steffel, if you're trying to
+
+24   adjudicate, on an anticipatory basis, an enforcement
+
+25   action, you have to show that you would reasonably fear
+
+
+                                         31
+
+                           Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   that enforcement action.         And, in fact, Steffel uses that
+
+ 2   language, and Poe versus Ullman dismisses a case for
+
+ 3   failure to establish a genuine fear of prosecution.                   But
+
+ 4   then, you have to go one step beyond, and that is to say,
+
+ 5   Are they -- is the cause of action not ripening because
+
+ 6   the declaratory judgment plaintiff is forfeiting their
+
+ 7   legal rights in order to avoid some very severe harm that
+
+ 8   would be cognizable coercion?             That's the test that's used
+
+ 9   in Steffel for -- in essence, being able to test a --
+
+10   defenses to a cause of action that --
+
+11              JUSTICE SCALIA:         And why --
+
+12              MS. MAHONEY:      -- an enforcement action.
+
+13              JUSTICE SCALIA:         -- doesn't that work here?
+
+14              MS. MAHONEY:      It doesn't work here, for several
+
+15   reasons.   Most fundamentally, this is a settlement.                  I
+
+16   mean, Mr. Steffel did not enter into a settlement or a
+
+17   compromise with the prosecutor.              He wasn't complying
+
+18   because he was under an agreement to do so.                Here, it has
+
+19   been settled for -- forever, that if a -- an agreement --
+
+20   if you're making payments pursuant to an agreement, in the
+
+21   nature of a compromise, you can't come and say that it's
+
+22   been coerced or it's a form of duress.
+
+23              JUSTICE SCALIA:         What is the --
+
+24              JUSTICE SOUTER:         Why should we accept the
+
+25   characterization that it's a compromise?                As I -- and
+
+
+                                       32
+
+                         Alderson Reporting Company
+                       Official - Subject to Final Review
+
+
+ 1   maybe I'm just factually wrong here?                   I thought, at the
+
+ 2   time they entered into the license agreement, they had
+
+ 3   some disagreements about the scope of the then-patent, the
+
+ 4   scope of the anticipated patent, and so on, and they
+
+ 5   couldn't very well be resolved.             But they were -- they
+
+ 6   were not settling, in the -- in the classic sense of the
+
+ 7   word, a -- let us say, a focus claim, one against the
+
+ 8   other.
+
+ 9            MS. MAHONEY:       I think the answer, Your Honor,
+
+10   is, they weren't settling, for all time, in the sense that
+
+11   they could never get out of the deal.                  Certainly, they
+
+12   could repudiate and then go ahead and sue.                  But yet, at
+
+13   page 3 of their petition, they expressly say, the reason
+
+14   they entered into this agreement was in order to avoid the
+
+15   costs and risks of litigation.             It is the reason --
+
+16            JUSTICE SOUTER:          But had they gotten to the
+
+17   point, prior to the execution of the contract, in which
+
+18   one party was saying, "You may not do this," and the other
+
+19   party was saying, "Oh, yes I can," so that there -- there
+
+20   was a focus controversy that would have been the subject
+
+21   matter of a conventional lawsuit, then and there, had
+
+22   there not been this license agreement?
+
+23            MS. MAHONEY:       Not exactly, but what they did was
+
+24   they headed it off at the pass.             They understood that --
+
+25            JUSTICE SOUTER:          But the question is, How far
+
+
+                                      33
+
+                        Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   ahead of the pass can they get and still call it a
+
+ 2   settlement?" in the sense that you're using that term.
+
+ 3               MS. MAHONEY:       It's a compromise.           It's a
+
+ 4   compromise of the very claims they're trying to adjudicate
+
+ 5   here.     What they want to adjudicate are affirmative
+
+ 6   defenses to a patent infringement action.                  That is not a
+
+ 7   ripe claim, and there is not sufficient immediacy, because
+
+ 8   they are preventing that claim from ripening by continuing
+
+ 9   to make voluntary payments --
+
+10               JUSTICE SOUTER:          But --
+
+11               MS. MAHONEY:       -- under their --
+
+12               JUSTICE SOUTER:          But you --
+
+13               MS. MAHONEY:       -- agreement.
+
+14               JUSTICE SOUTER:          Right.        But you were saying
+
+15   that the status of that agreement, for purposes of the
+
+16   jurisdictional question here, is exactly the same as the
+
+17   status of an agreement that they might have entered into
+
+18   after one party had brought suit against the other.                  And
+
+19   --
+
+20               MS. MAHONEY:       Well --
+
+21               JUSTICE SOUTER:          And they -- they had settled.
+
+22   And then, later on, somebody wanted to repudiate the
+
+23   settlement.
+
+24               MS. MAHONEY:       I don't know if it's exactly the
+
+25   status.    For instance, in a settlement after litigation
+
+
+                                         34
+
+                           Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   has been filed, I think that Lear would say that you can't
+
+ 2   even repudiate that.      But certainly -- so, there might be
+
+ 3   some differences -- but from --
+
+ 4             JUSTICE SOUTER:          In any event --
+
+ 5             MS. MAHONEY:       -- the standpoint of coercion --
+
+ 6             JUSTICE SOUTER:          -- it's equivalent to a
+
+ 7   settlement after a formal demand has been made.
+
+ 8             MS. MAHONEY:       It is equivalent to that, in the
+
+ 9   following sense.   They understood that if they -- if they
+
+10   didn't get a license, that they would be exposed to
+
+11   Genentech's claims under the -- under the infringement
+
+12   laws.   And in order to avoid that exposure, even though
+
+13   they had all the information they needed to assess the
+
+14   validity of this patent at the time --
+
+15             JUSTICE KENNEDY:          Suppose they didn't have all
+
+16   the information.   Suppose you enter into a license
+
+17   agreement -- you're convinced, as the one that's going to
+
+18   pay the license fee, that it's a good patent -- after the
+
+19   agreement's signed, the technological advances, other
+
+20   disclosures, indicate that the patent is deficient.          Could
+
+21   you sue then?
+
+22             MS. MAHONEY:       No, I don't think so, unless --
+
+23             JUSTICE KENNEDY:          Well, but then -- so then, the
+
+24   argument that you've made is just not --
+
+25             MS. MAHONEY:       No, I --
+
+
+                                       35
+
+                         Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1               JUSTICE KENNEDY:         -- relevant for us, the fact
+
+ 2   that they knew everything --
+
+ 3               MS. MAHONEY:      They did.
+
+ 4               JUSTICE KENNEDY:         And it also means that this
+
+ 5   isn't really a settlement, in any respect.
+
+ 6               MS. MAHONEY:      It's a compromise of claims that
+
+ 7   could be brought.
+
+ 8               JUSTICE STEVENS:         Ms. Mahoney, can I ask this
+
+ 9   question?    Supposing at the time they negotiate the
+
+10   license agreement there's some uncertainty about whether
+
+11   the patent is valid or not.              So, at the end of the license
+
+12   agreement -- they agree on the royalties, the term, and
+
+13   the -- everything it covers, but they put in a provision
+
+14   and say, "We're not entirely sure the patent is valid, so
+
+15   we reserve the right to bring an action challenging the
+
+16   validity of the patent.         We will pay royalties in the
+
+17   meantime, and the -- you will accept these royalties as
+
+18   sufficient for the use of the patent, that, if we win, you
+
+19   don't have to pay royals, if we lose, you do."              Would that
+
+20   be a valid provision?
+
+21               MS. MAHONEY:      I don't think so, but that would
+
+22   certainly be a closer case if there --
+
+23               JUSTICE STEVENS:         But would it --
+
+24               MS. MAHONEY:      But I --
+
+25               JUSTICE STEVENS:         -- not be precisely the same
+
+
+                                        36
+
+                          Alderson Reporting Company
+                       Official - Subject to Final Review
+
+
+ 1   issue as a jurisdictional matter as to whether there's a
+
+ 2   case or controversy?
+
+ 3            MS. MAHONEY:       No, I don't think so, because the
+
+ 4   real issue, in terms of Steffel, is whether you can say
+
+ 5   that the party is being coerced.              And, at least in your
+
+ 6   hypothetical, you could say that they have --
+
+ 7            JUSTICE STEVENS:          He's not being coerced, but
+
+ 8   he's bargaining a little better royalty rate than he'll --
+
+ 9   otherwise would have to pay.
+
+10            MS. MAHONEY:       Well, in terms of whether they're
+
+11   -- if the parties expressly agreed that that was part of
+
+12   their deal, then you at least wouldn't say that there was
+
+13   an issue of coercion.     But here, that isn't what happened.
+
+14   Instead, they used --
+
+15            JUSTICE STEVENS:          No, I'm really asking --
+
+16            MS. MAHONEY:       -- a standard proviso --
+
+17            JUSTICE STEVENS:          -- whether the parties could
+
+18   agree to create a case or controversy.
+
+19            MS. MAHONEY:       I think probably not, Your Honor.
+
+20   I think --
+
+21            JUSTICE BREYER:          Let's suppose --
+
+22            MS. MAHONEY:       -- that that's one of the --
+
+23            JUSTICE BREYER:          Well --
+
+24            MS. MAHONEY:       -- one of the problems --
+
+25            JUSTICE BREYER:          Will you assume Justice
+
+
+                                      37
+
+                        Alderson Reporting Company
+                           Official - Subject to Final Review
+
+
+ 1   Stevens' hypothetical?          Assume it, take it as given.        They
+
+ 2   did put that in.      I know you think they didn't, but I want
+
+ 3   to assume it.
+
+ 4               MS. MAHONEY:        Uh-huh.
+
+ 5               JUSTICE BREYER:           Now, I'd like to also assume --
+
+ 6               JUSTICE SCALIA:           Could I have a review of the
+
+ 7   bidding?    What --
+
+ 8               [Laughter.]
+
+ 9               JUSTICE SCALIA:           Go back -- what is the
+
+10   hypothetical --
+
+11               JUSTICE BREYER:           The hypothetical is --
+
+12               JUSTICE SCALIA:           Continue on.
+
+13               JUSTICE BREYER:           -- that they write into the
+
+14   contract -- the party who's the licensee says, "And we
+
+15   stipulate that the licensee thinks that the patent is
+
+16   invalid."    Nonetheless, the licensee wants a license, for
+
+17   business reasons.      Therefore, the licensee and the
+
+18   licensor agrees that, after they sign the contract and
+
+19   he's paying a thousand dollars a month in royalties, he
+
+20   can go into court and challenge the patent."               So, we
+
+21   assume that's written into the contract.
+
+22               MS. MAHONEY:        Uh-huh.
+
+23               JUSTICE BREYER:           And now, let us also assume a
+
+24   state of the law.      The state of the law is that there is
+
+25   no public policy or any other policy that forbids such a
+
+
+                                          38
+
+                            Alderson Reporting Company
+                       Official - Subject to Final Review
+
+
+ 1   condition in a contract.        All right?
+
+ 2            Now, on those two assumptions, the next thing
+
+ 3   that happens is that the licensee asks for a declaratory
+
+ 4   judgment that the patent is invalid.
+
+ 5            On those assumptions, is there a case or
+
+ 6   controversy under the Federal Constitution?             If not, why
+
+ 7   not?
+
+ 8            MS. MAHONEY:       I don't think so, because I think
+
+ 9   what they're really asking for is advice about a business
+
+10   deal under those circumstances.
+
+11            JUSTICE BREYER:          But he says, by the way, "If I
+
+12   win, I will, in fact, save $42 billion a year in licenses"
+
+13   --
+
+14            MS. MAHONEY:       Yes.
+
+15            JUSTICE BREYER:          -- "I would other have to pay."
+
+16   And the other side will -- or -- I was a thousand dollars,
+
+17   I meant 42 billion, okay?
+
+18            [Laughter.]
+
+19            MS. MAHONEY:       But -- you know, but now -- but
+
+20   now, can they come even before they sign the deal?            In
+
+21   other words, what's --
+
+22            JUSTICE BREYER:          No.      Now, that's --
+
+23            MS. MAHONEY:       -- the line?
+
+24            JUSTICE BREYER:          I'm not asking --
+
+25            MS. MAHONEY:       In other words --
+
+
+                                      39
+
+                        Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1               JUSTICE BREYER:         -- your hypothetical.
+
+ 2               MS. MAHONEY:      -- I -- no.                Oh, no, I'm just
+
+ 3   saying --
+
+ 4               JUSTICE BREYER:         I'm asking --
+
+ 5               MS. MAHONEY:      -- I think that --
+
+ 6               JUSTICE BREYER:         -- my hypothetical.
+
+ 7               [Laughter.]
+
+ 8               MS. MAHONEY:      I think the problem -- I think the
+
+ 9   problem is, it -- is, it leads notion that parties can
+
+10   simply, sort of, set up a -- even if there's not true
+
+11   adversity, and come to court for answers to legal
+
+12   questions.    And that has --
+
+13               CHIEF JUSTICE ROBERTS:              Well, isn't there --
+
+14               MS. MAHONEY:      -- is something --
+
+15               CHIEF JUSTICE ROBERTS:              -- true adversity?          I
+
+16   thought the assumption underlying the -- everybody's
+
+17   hypothetical is that, if the patent is determined to be
+
+18   invalid, that the license -- then the license agreement is
+
+19   also invalid.    Is that -- is that right?
+
+20               MS. MAHONEY:      I don't think so.               I don't think
+
+21   the license agreement itself is invalid.                     It simply --
+
+22               CHIEF JUSTICE ROBERTS:              Can you -- can you --
+
+23               MS. MAHONEY:      -- means --
+
+24               CHIEF JUSTICE ROBERTS:              -- can you collect --
+
+25   can a patentee collect license fees based on an -- patent
+
+
+                                        40
+
+                          Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   that has been determined to be invalid?
+
+ 2              MS. MAHONEY:       Not on that patent.            Right.   The
+
+ 3   license --
+
+ 4              CHIEF JUSTICE ROBERTS:               It would --
+
+ 5              MS. MAHONEY:       -- made.
+
+ 6              CHIEF JUSTICE ROBERTS:               It would be pursuant to
+
+ 7   the agreement.
+
+ 8              MS. MAHONEY:       If the patent has been -- under
+
+ 9   Lear and other cases, if a patent has been held to be
+
+10   invalid by a final decision of a court, then I think it is
+
+11   improper for a licensee to seek to obtain --
+
+12              CHIEF JUSTICE ROBERTS:               Collective --
+
+13              MS. MAHONEY:       -- royalties --
+
+14              CHIEF JUSTICE ROBERTS:               Even if --
+
+15              MS. MAHONEY:       -- for that.
+
+16              CHIEF JUSTICE ROBERTS:               -- the royalty agreement
+
+17   says, you know, "We have a dispute about the validity of
+
+18   this patent.    We don't know.           We disagree.     And so, we've
+
+19   entered into a compromise royalty rate that reflects the
+
+20   uncertainty."    But once it's determined to be invalid, the
+
+21   license fees are not collectible.
+
+22              MS. MAHONEY:       I think that that is correct, Your
+
+23   Honor, under the -- under the current state of the law.
+
+24              JUSTICE SOUTER:          One further -- on further
+
+25   wrinkle.   What if the contract goes the further step and
+
+
+                                        41
+
+                          Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   says, "Even if the patent were determined, in any action,
+
+ 2   to be invalid, there will still be a royalty payable,
+
+ 3   because that's what -- that's -- that is consideration for
+
+ 4   the fact that we are not going to start any controversy
+
+ 5   now."   Let's assume they assume, precisely, the
+
+ 6   invalidity.   Would you say the contract is unenforceable
+
+ 7   then, and the -- and the --
+
+ 8             MS. MAHONEY:       Well --
+
+ 9             JUSTICE SOUTER:          -- and, for jurisdictional
+
+10   purposes, there would be no case or controversy then?
+
+11             MS. MAHONEY:       That if, under the -- I'm sorry,
+
+12   to --
+
+13             JUSTICE SOUTER:          The --
+
+14             MS. MAHONEY:       The --
+
+15             JUSTICE SOUTER:          Take the Chief Justice's
+
+16   hypothetical, add the following.               There is a provision in
+
+17   there to the effect that if, during the term of this
+
+18   contract, the license is determined to be invalid,
+
+19   royalties will still be payable under this contract --
+
+20             MS. MAHONEY:       Uh-huh.
+
+21             JUSTICE SOUTER:          -- because that is one of the
+
+22   contingencies, which is a consideration for our bargain.
+
+23   Would you say, in those circumstances, that your answer
+
+24   would be the same, that there's no -- there's no case or
+
+25   --
+
+
+                                       42
+
+                         Alderson Reporting Company
+                       Official - Subject to Final Review
+
+
+ 1            MS. MAHONEY:       Well, I don't know what the
+
+ 2   dispute would be about, Your Honor, because it sounds like
+
+ 3   the contract terms would be clear.                And if the contract
+
+ 4   terms are clear, they would simply go in accordance,
+
+ 5   unless they have an argument that the contract is --
+
+ 6            JUSTICE SOUTER:          No, but I'm talking about
+
+ 7   jurisdictional purposes.
+
+ 8            MS. MAHONEY:       -- unenforceable.            If the -- if
+
+ 9   the point is that it is actually invalid, illegal, that --
+
+10   that may be a different case, although I think there would
+
+11   still be an estoppel argument, that they should not be
+
+12   permitted to bring that action without giving up the
+
+13   benefits of the bargain, which is the immunity from suit.
+
+14   I mean, that is one of the fundamental problems with this
+
+15   case.
+
+16            JUSTICE SOUTER:          But do you see --
+
+17            CHIEF JUSTICE ROBERTS:               I thought your argument
+
+18   -- I'm sorry.
+
+19            JUSTICE SOUTER:          Well, if -- do you see a
+
+20   difference between -- I guess you're saying there's no
+
+21   difference between my added wrinkle on the hypo and the
+
+22   Chief Justice's hypo, for jurisdictional purposes.
+
+23            MS. MAHONEY:       I don't think that there's a
+
+24   difference, from a jurisdictional perspective --
+
+25            JUSTICE SOUTER:          Okay.
+
+
+                                      43
+
+                        Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1             MS. MAHONEY:         -- but I think, here, that the
+
+ 2   major problem, from a jurisdictional perspective, is that
+
+ 3   there is not anything in the language of the contract that
+
+ 4   gives them a right to come to court to dispute validity.
+
+ 5   Instead, we're --
+
+ 6             CHIEF JUSTICE ROBERTS:                 What about the fact that
+
+ 7   it's under protest?
+
+ 8             MS. MAHONEY:         That makes no difference, Your
+
+ 9   Honor.   The fact is that they are making the payments
+
+10   pursuant to an agreement.            They're not under compulsion of
+
+11   an injunction.     They're doing it because they voluntarily
+
+12   entered into it.     Altvater is completely different.
+
+13   There, there was no license agreement in force.                The
+
+14   courts found that it -- that the reissue patents were
+
+15   never part of the agreement, to begin with.                In other
+
+16   words, Altvater never agreed to pay royalties.                Altvater
+
+17   had been sued, so there wasn't a counterclaim for
+
+18   invalidity.
+
+19             JUSTICE GINSBURG:               Could the --
+
+20             MS. MAHONEY:         And --
+
+21             JUSTICE GINSBURG:               -- patent holder take the
+
+22   position that, "I -- Sooner or later, I'm going to have to
+
+23   fight out validity with someone, and might as well do it
+
+24   sooner rather than later, so I am not going to raise the
+
+25   license as a defense"?         Would that be a "case or
+
+
+                                         44
+
+                           Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   controversy"?
+
+ 2              MS. MAHONEY:        I don't think that the patent
+
+ 3   holder is allowed to come to court and seek a declaration
+
+ 4   of validity.     I don't think any court has ever allowed
+
+ 5   that.
+
+ 6              JUSTICE GINSBURG:              Is it -- it's -- no, the
+
+ 7   patent -- the licensee is coming into court and wants a
+
+ 8   declaration of invalidity so it can manufacture without
+
+ 9   the fear of an infringement suit.
+
+10              MS. MAHONEY:        And they're under a license?
+
+11              JUSTICE GINSBURG:              Yes.
+
+12              MS. MAHONEY:        Yes.
+
+13              JUSTICE GINSBURG:              And the patent holder chooses
+
+14   not to plead the license -- chooses not to plead the
+
+15   license.   Wouldn't the patent holder have that option?
+
+16              MS. MAHONEY:        Yes, the patent -- well, no.          I
+
+17   mean, not necessarily.         Their view is that, because of the
+
+18   terms of the agreement, that the patent holder has no
+
+19   choice but to -- because they're receiving the royalties,
+
+20   to simply --
+
+21              JUSTICE GINSBURG:              I don't mean their view.   I
+
+22   mean, they start a lawsuit.               They say, "We're -- we want"
+
+23   --
+
+24              MS. MAHONEY:        But that is -- that's what
+
+25   happened here.
+
+
+                                         45
+
+                           Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1               JUSTICE GINSBURG:             -- "we want a declaration of
+
+ 2   infringement."     And the patent holder doesn't take the
+
+ 3   position that you're taking; instead says, "I'm prepared
+
+ 4   to fight this out now.         I know that I have the license,
+
+ 5   which could be an affirmative defense, but I'm not going
+
+ 6   to raise it.     I'm going to go head to head on the validity
+
+ 7   of this patent."     Would that be a case or controversy?
+
+ 8               MS. MAHONEY:       I don't think so, Your Honor,
+
+ 9   because I don't think the parties are allowed to just
+
+10   decide, "Well, we'd like to do this now," when they're --
+
+11               JUSTICE GINSBURG:             So, even --
+
+12               MS. MAHONEY:       -- they've treated --
+
+13               JUSTICE GINSBURG:             -- even if the patent holder
+
+14   chooses not to raise the license, the court would have to,
+
+15   on its own motion, say, "Sorry, you didn't -- you're not
+
+16   the master of your defense.               We decide that you have to
+
+17   effectively plead the license."
+
+18               MS. MAHONEY:       I think the plaintiff has to show
+
+19   that they are here pursuant to -- that they have a legal
+
+20   right that permits them to adjudicate the issue of
+
+21   validity.     What the -- what the patent owner does, or not,
+
+22   I don't think turns this into a case or controversy; that,
+
+23   instead, we have to start with the fundamental question,
+
+24   "What is the cause of action that they are attempting to
+
+25   adjudicate?     Is it a contract action or is it a -- an
+
+
+                                         46
+
+                           Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   action under the patent laws?               Is it an infringement
+
+ 2   action?"   Here, I don't think there's any question but
+
+ 3   that it is -- they're trying to adjudicate an action for
+
+ 4   an infringement that can't arise, because they're immune
+
+ 5   from suit, because they continue to make their payments.
+
+ 6   And, under those circumstances, it is not sufficiently
+
+ 7   immediate to establish jurisdiction in --
+
+ 8              JUSTICE BREYER:           It is --
+
+ 9              MS. MAHONEY:        -- this Court.
+
+10              JUSTICE BREYER:           -- it is, under other fields of
+
+11   the law, isn't it?      I mean, I imagine that the very -- we
+
+12   see, all the time, declaratory judgments where a State
+
+13   passes a law and the individual says, "Well, I think this
+
+14   is unconstitutional, but my preferences are not to go to
+
+15   jail; my preferences are not to be penalized.                      So, my
+
+16   first choice is unconstitutional and my second is to obey
+
+17   it."   There's no possibility in the world that he will
+
+18   violate that law.     And yet, we've often held that, with
+
+19   regulations, you have to have the other requirements.                       You
+
+20   have to have the requirements that it's concrete, it's not
+
+21   just ideological, there's real harm.                      But, if those other
+
+22   requirements that are fulfilled, I've never seen any where
+
+23   it said that there also has to be a reasonable
+
+24   apprehension of a lawsuit in the absence of the
+
+25   declaratory judgment.        I've just never found that phrase,
+
+
+                                         47
+
+                           Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   and I can't imagine why it would be part of the law.
+
+ 2            MS. MAHONEY:        Your Honor, Poe versus Ullman,
+
+ 3   this Court actually dismissed a declaratory judgment --
+
+ 4            JUSTICE SOUTER:           Oh, there are many dismissed,
+
+ 5   for the reasons that they aren't concrete, definite --
+
+ 6   there are a lot of reasons why to dismiss it.                   I'm just
+
+ 7   wondering if there is an additional reason that there has
+
+ 8   to be a reasonable apprehension of a lawsuit in the
+
+ 9   absence of the declaratory judgment action.                   It's that
+
+10   phrase that I've never found anywhere --
+
+11            MS. MAHONEY:        We --
+
+12            JUSTICE SOUTER:           -- and can't think of any
+
+13   reason why that would be an additional constitutional
+
+14   requirement.   And I'm putting that directly to you,
+
+15   because I want to hear you give me the counterexamples.
+
+16            MS. MAHONEY:        Well -- but in Poe versus Ullman,
+
+17   it was a declaratory judgment action.                   They were seeking
+
+18   to have a statute declared unconstitutional.                   And this
+
+19   Court did dismiss, because they didn't have a reasonable
+
+20   fear that they would actually be prosecuted.                   Dismissed
+
+21   for lack of jurisdiction.
+
+22            JUSTICE BREYER:           And you say there has never
+
+23   been a declaratory judgment action, except in the instance
+
+24   where, in the absence of the action, the person would have
+
+25   violated the law, if it's a Government law.                  In other
+
+
+                                       48
+
+                         Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   words, if they're -- so, it's really not --
+
+ 2               MS. MAHONEY:      Even --
+
+ 3               JUSTICE BREYER:         Yes.
+
+ 4               MS. MAHONEY:      Well, you could -- you could --
+
+ 5   I'm not -- it is possible that that framework could be
+
+ 6   extended.    I -- it has not been done to date, and it would
+
+ 7   be --
+
+ 8               JUSTICE BREYER:         As I think as we --
+
+ 9               MS. MAHONEY:      But --
+
+10               JUSTICE BREYER:         -- both know --
+
+11               MS. MAHONEY:      But --
+
+12               JUSTICE BREYER:         -- in the Government area, it
+
+13   happens --
+
+14               MS. MAHONEY:      It --
+
+15               JUSTICE BREYER:         -- a lot.
+
+16               MS. MAHONEY:      It does.
+
+17               JUSTICE BREYER:         Yes.
+
+18               MS. MAHONEY:      But there is always a reasonable
+
+19   apprehension, and there was always a finding of coercion.
+
+20   Poe versus Ullman says you can't do it unless there is --
+
+21               JUSTICE GINSBURG:            Do I remember that --
+
+22               JUSTICE KENNEDY:         Well, Poe versus Ullman was a
+
+23   case in which, even if there was a violation of the law,
+
+24   there was going to be no prosecution.
+
+25               MS. MAHONEY:      That's why they didn't --
+
+
+                                        49
+
+                          Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1               JUSTICE KENNEDY:          He -- but, in this -- in this
+
+ 2   case, if there's a failure to -- of -- conform to the
+
+ 3   terms of the license agreement, there's going to be a
+
+ 4   lawsuit.     So, I think Poe versus Ullman is just not
+
+ 5   relevant.
+
+ 6               MS. MAHONEY:       That -- it goes to the next point,
+
+ 7   which is that there still has to be a coercive choice.
+
+ 8   You have to choose -- there, they're choosing to give up
+
+ 9   constitutional rights in order to avoid jail and
+
+10   imprisonment, arrest and prosecution.                     Here --
+
+11               JUSTICE KENNEDY:          No, but --
+
+12               MS. MAHONEY:       -- what's at issue --
+
+13               JUSTICE KENNEDY:          -- but, in Poe versus Ullman,
+
+14   the ultimate action was basically like violating the
+
+15   contract here, and that's why it's not an applicable
+
+16   precedent.
+
+17               MS. MAHONEY:       I don't -- I don't think it's like
+
+18   violating the contract here, though, Your Honor, because,
+
+19   What are the consequences here?                What is the choice?
+
+20   First of all, they actually owe the royalties under the
+
+21   agreement, so they're trying to escape their bargain, not
+
+22   enforce it.    That's number one.              So, they're not
+
+23   forfeiting any rights under the contract, they're simply
+
+24   trying to get out of the contract.
+
+25               Number two, the consequences here, the choice
+
+
+                                         50
+
+                           Alderson Reporting Company
+                       Official - Subject to Final Review
+
+
+ 1   they're talking about, isn't in the nature of coercion.
+
+ 2   Again, they're not being arrested or prosecuted.                    All
+
+ 3   they're going to do if they walk out of this agreement, if
+
+ 4   they stop paying royalties -- yes, they may well be sued
+
+ 5   for infringement -- but, if they do, all they face is the
+
+ 6   loss of their discount.
+
+ 7            JUSTICE ALITO:         But your argument seems --
+
+ 8            MS. MAHONEY:       That's --
+
+ 9            JUSTICE ALITO:         -- to be based on their having
+
+10   implicitly given up their right to sue.                    Isn't that right?
+
+11   That was your main argument.           This is a settlement.            This
+
+12   is in the nature of the settlement.                    As part of the
+
+13   bargain, the patent holder promises not to sue for
+
+14   infringement.
+
+15            MS. MAHONEY:       It's not based on them giving up
+
+16   their right to sue, in the sense that all they have to do
+
+17   is stop paying royalties, and they can sue.                    They have to
+
+18   --
+
+19            JUSTICE ALITO:         But in answer to the
+
+20   hypotheticals, you seem to say it wouldn't matter if they
+
+21   explicitly did not give up their right to sue.                    So, what
+
+22   is left of this argument that what's involved here is
+
+23   essentially a settlement?
+
+24            MS. MAHONEY:       Well, it is in the nature of a
+
+25   compromise, Your Honor, and there's nothing in this
+
+
+                                      51
+
+                        Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   agreement that gives them a right to sue.                    They have to
+
+ 2   find some legal right.       What they're really saying -- what
+
+ 3   their argument has always been is that Lear actually
+
+ 4   creates an implied right of action for a licensee to sue
+
+ 5   at any time of their choosing.              That's been their argument
+
+ 6   from the beginning.
+
+ 7             CHIEF JUSTICE ROBERTS:               Well, their concrete
+
+ 8   right is, as I thought you conceded earlier, that if the
+
+ 9   patent is declared invalid, they will not owe license
+
+10   fees.
+
+11             MS. MAHONEY:       That's true.               But that's getting
+
+12   the cart before the horse.          What this Court said in --
+
+13             CHIEF JUSTICE ROBERTS:               Well, that's what --
+
+14             MS. MAHONEY:       -- U.S. v. Harvey Steel is --
+
+15             CHIEF JUSTICE ROBERTS:               -- a declaratory
+
+16   judgment action does, though, isn't it?
+
+17             MS. MAHONEY:       Well, I don't think so, Your
+
+18   Honor.   I think every single contract case in the lower
+
+19   courts where they have allowed a suit to be brought on a
+
+20   contract prior to breach, there was a genuine dispute
+
+21   about the interpretation of the terms.                   Here, what they're
+
+22   trying to do is adjudicate a cause of action outside of
+
+23   the contract.   They're trying to adjudicate an
+
+24   infringement action and then say, "Aha, see what I have?
+
+25   I have a judgment that the patent's invalid.                    And so, now
+
+
+                                       52
+
+                           Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   I'd like to say that I don't have to pay royalties under
+
+ 2   my contract."
+
+ 3             JUSTICE SCALIA:          Ms. Mahoney, the patent bar is
+
+ 4   sort of specialized -- more than "sort of" -- it's a
+
+ 5   specialized bar, and I've never -- I've never been a part
+
+ 6   of it.   Do you agree with the statement of the
+
+ 7   Petitioner's counsel that Gen-Probe came as a -- as a
+
+ 8   shock to the --
+
+ 9             MS. MAHONEY:       As a -- I do not agree that it
+
+10   came as a shock.   And, in fact, I think that Warner
+
+11   Jenkinson, which is a Second Circuit case that allowed
+
+12   this kind of action back in the '70s, was one of the only
+
+13   cases ever that allowed it.             And other reasons were found
+
+14   to dismiss similar kinds of claims.                     In Gen-Probe, it was
+
+15   a surprise that a licensee could do this.                    It -- the law
+
+16   -- by the time that this license was executed in the
+
+17   Federal Circuit, there was a case, called Shell Oil, where
+
+18   the Court specifically held that a licensee cannot take
+
+19   advantage of the protections of Lear until it has
+
+20   repudiated the license, stopped paying, and said that it
+
+21   wants to challenge validity.             So that was the background
+
+22   rule that was in force at the time of this license.                    And
+
+23   then, when you couple that with the fact that --
+
+24             JUSTICE GINSBURG:             But that wasn't -- the
+
+25   District Court, in this very case, seemed to say, "I think
+
+
+                                       53
+
+                         Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   this suit should go forward, but there's Gen-Probe, and I
+
+ 2   must follow Gen-Probe."        The District Court, at least as I
+
+ 3   read it, seemed to think that Gen-Probe moved in a
+
+ 4   different direction from where the Federal Circuit was
+
+ 5   before.
+
+ 6             MS. MAHONEY:       In all of the prior Federal
+
+ 7   Circuit cases, the licensee had stopped paying royalties.
+
+ 8   And what the Court explained in Gen-Probe is that that is
+
+ 9   the sine qua non, that a licensee can't establish
+
+10   jurisdiction, and it can't establish a right to challenge
+
+11   validity, if it's still paying royalties.
+
+12             CHIEF JUSTICE ROBERTS:               Ms. Mahoney, you argue,
+
+13   in the alternative, that we should dismiss it on the basis
+
+14   of equitable considerations under the Declaratory Judgment
+
+15   Act.   We can't reach that argument unless we rule against
+
+16   you on the Article III question.               Is that right?
+
+17             MS. MAHONEY:       I don't think so, Your Honor.           I
+
+18   think you can, because I think that you can do it as an
+
+19   alternative threshold prudential jurisdictional dismissal
+
+20   in the nature --
+
+21             CHIEF JUSTICE ROBERTS:               We would have to be
+
+22   assuming that we had jurisdiction, wouldn't we?
+
+23             MS. MAHONEY:       I think that --
+
+24             CHIEF JUSTICE ROBERTS:               Under Article III?
+
+25             MS. MAHONEY:       I think that a prudential
+
+
+                                       54
+
+                         Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   dismissal under Article III would also be fine, and that
+
+ 2   Steel Co. would allow for that kind of dismissal, because
+
+ 3   Wilton said that you can dismiss for lack of jurisdiction,
+
+ 4   at the front end, on prudential grounds if you know that
+
+ 5   there would not be relief allowed at the back end.
+
+ 6              And I think that there's no need for a remand to
+
+ 7   do this.     We are really talking about an equitable rule
+
+ 8   that has governed equitable actions for 300 years.                       It is
+
+ 9   a --
+
+10              JUSTICE GINSBURG:              But what -- but jurisdiction
+
+11   is a question of power, Does the Court have the power to
+
+12   do this?     A discretion question is different.                    It's, "We
+
+13   have the power to entertain this case, but, as a matter of
+
+14   equity, we're not going to do so."                        The power question, I
+
+15   think, is a -- one that's -- it's either yes or no, either
+
+16   the court has the power, or doesn't.
+
+17              MS. MAHONEY:        But I don't think that the Court
+
+18   has to answer that question in order to dismiss on a
+
+19   prudential ground, a prudential jurisdictional ground, and
+
+20   nor is there a need for a remand in Samuels versus
+
+21   Mackell, and in Cardinal, for instance.                       Those are cases
+
+22   where the Court adopted prudential rules and went ahead
+
+23   and applied them without remand.                 I -- and no remand's
+
+24   necessary.     The Federal Circuit has already looked at
+
+25   this.   They --
+
+
+                                         55
+
+                           Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1            JUSTICE STEVENS:             Ms. Mahoney, can I ask you one
+
+ 2   question before your light goes off?                       I know it's not --
+
+ 3   goes to the "case or controversy" issue, but, in your
+
+ 4   view, was the bringing of this action a material breach of
+
+ 5   an implied condition of the contract that would justify a
+
+ 6   termination of a license?
+
+ 7            MS. MAHONEY:          It would depend on whether there
+
+ 8   is an implied covenant, Your Honor.                       It wasn't --
+
+ 9            JUSTICE STEVENS:             I'm asking you whether --
+
+10            MS. MAHONEY:          -- argued below.
+
+11            JUSTICE STEVENS:             -- you think there was.
+
+12            MS. MAHONEY:          I think it -- it may well be, but
+
+13   I don't think the answer in this case turns on it, because
+
+14   I think they have to have their own right to bring the
+
+15   action, whether it's a breach or not, and that they don't.
+
+16   Because they don't have an implied right of action under
+
+17   Lear, they don't have a right to bring this action.                      And
+
+18   that is an essential component of their ability to
+
+19   challenge the issue of validity.                 So, I think that's the
+
+20   first and fundamental --
+
+21            JUSTICE KENNEDY:             Well, if that's so, and it's a
+
+22   super-violation of an implied covenant, and I guess you
+
+23   could get damages.
+
+24            MS. MAHONEY:          I think that their theory, Your
+
+25   Honor, is that a licensee can do this at any time, and
+
+
+                                         56
+
+                           Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   that --
+
+ 2             JUSTICE KENNEDY:           But I think that your theory
+
+ 3   is that it's a super-violation of an implied covenant.
+
+ 4             MS. MAHONEY:        Your Honor, I don't think --
+
+ 5   whether it's an implied covenant or not --
+
+ 6             JUSTICE KENNEDY:           "Not only did we agree to it,
+
+ 7   but we you can't even do it if you agree to it."
+
+ 8             MS. MAHONEY:        I think that an additional factor
+
+ 9   that bears on this analysis is also the fact that Congress
+
+10   has never created an implied right of -- has never created
+
+11   a right of action --
+
+12             Thank you, Your Honor.
+
+13             CHIEF JUSTICE ROBERTS:                Thank you, Ms. Mahoney.
+
+14                    Mr. Kester, you have 3 minutes remaining.
+
+15             REBUTTAL ARGUMENT OF JOHN G. KESTER
+
+16                     ON BEHALF OF PETITIONER
+
+17             MR. KESTER:       Thank you, Mr. Chief Justice.           Just
+
+18   several quick items.
+
+19             I think -- I think, Mr. Chief Justice, you were,
+
+20   a while ago, putting the horse in front of the cart, which
+
+21   was right where it belongs.              The contract claim is clear
+
+22   in the record.    It's at page 136 of the joint appendix.              I
+
+23   don't think more needs to be said about it.
+
+24             Harvey Steel, on which Respondents rely, was, of
+
+25   course, overruled --
+
+
+                                        57
+
+                          Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1            JUSTICE SCALIA:            Wait, wait.          Before you leave
+
+ 2   that, do you agree that it was not raised below?
+
+ 3            MR. KESTER:        No, we don't.
+
+ 4            JUSTICE SCALIA:            Where -- can you tell us where
+
+ 5   it was raised below?
+
+ 6            MR. KESTER:        Well, it -- it's raised in the --
+
+ 7   in the first remanded complaint.                It's been a -- it's been
+
+ 8   here throughout.    If it -- if it even matters.                 I mean, we
+
+ 9   wouldn't concede that that -- that that would even matter.
+
+10            CHIEF JUSTICE ROBERTS:                 But was it raised before
+
+11   the Federal Circuit?
+
+12            MR. KESTER:        Yes.         The whole record was -- you
+
+13   mean was it argued --
+
+14            CHIEF JUSTICE ROBERTS:                 Yes.
+
+15            MR. KESTER:        I believe it was.             I'd have to go
+
+16   back and -- you mean in terms of the oral argument.                  It
+
+17   was certainly in the briefs.             It was certainly not waived.
+
+18            There was never, of course, any -- anything in
+
+19   the license, or anyplace else, where Petitioner gave up
+
+20   the right to sue.     Petitioner doesn't need permission in
+
+21   the license to sue.
+
+22            And as for the shock in the lower courts when
+
+23   this case was decided, I would call to your attention what
+
+24   the Federal Circuit, in 1983, itself, said, and it quoted
+
+25   the Warner-Jenkinson case, which was the Second Circuit
+
+
+                                        58
+
+                           Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   case that my friend dismissed somewhat.                   The C.R. Bard
+
+ 2   case -- this is Federal Circuit, early -- starts out, the
+
+ 3   opening line -- it says, and I quote -- this is 716 F.2d
+
+ 4   875 -- "We hold that a patent license need not be
+
+ 5   terminated before a patent licensee may bring a Federal
+
+ 6   declaratory judgment action," close quote.                  And the last
+
+ 7   words of the same opinion, at 882 of 716 F.2d, are, "We
+
+ 8   hold that a patent licensee may bring a Federal
+
+ 9   declaratory judgment action to declare the Federal -- to
+
+10   declare the patent subject to the license invalid without
+
+11   prior termination of the -- of the license."                  That was
+
+12   1983.   Gen-Probe was 2004.           Something happened in the
+
+13   interval.
+
+14               Finally, the discussion of settlements here
+
+15   strikes me as, indeed, strange, because if this -- if a
+
+16   license were to be redesignated as a settlement, we would
+
+17   have the situation here where -- a license was signed in
+
+18   1977; the only patent at issue in this case was not even
+
+19   issued until 2001.
+
+20               CHIEF JUSTICE ROBERTS:               Thank you, Mr. Kester.
+
+21               MR. KESTER:      Thank you, Mr. --
+
+22               CHIEF JUSTICE ROBERTS:               The case is submitted.
+
+23               [Whereupon, at 11:05 a.m., the case in the
+
+24   above-entitled matter was submitted.]
+
+25
+
+
+                                         59
+
+                           Alderson Reporting Company
+                                Official - Subject to Final Review
+                                                                                         Page 60
+
+
+        A            52:22,23         agreements 19:3          30:9 31:16       assuming 12:2
+ability 56:18      Adkins 4:16        agreement's              47:24 48:8         54:22
+able 32:9            11:12              35:19                  49:19            assumption
+above-entitled     admit 30:11        agrees 38:18           area 49:12           40:16
+  1:11 59:24       adopted 55:22      Aha 52:24              argue 26:16        assumptions
+absence 47:24      adoption 12:5      ahead 33:12              28:19 31:7         39:2,5
+  48:9,24          ads 6:24             34:1 55:22             54:12            attack 20:8
+Absolutely         advances 35:19     AL 1:6                 argued 9:5 30:5    attempting
+  16:16            advantage 53:19    ALITO 51:7,9             30:20 31:5         46:24
+abstract 14:2      adversarial 14:5     51:19                  56:10 58:13      attention 58:23
+  26:13            adversity 40:11    allow 10:1 25:7        argument 1:12      attorneys 15:22
+accept 12:4          40:15              30:16 55:2             2:2,5,9,12 3:3   avoid 32:7 33:14
+  32:24 36:17      advice 39:9        allowed 27:20            3:7,12 8:4         35:12 50:9
+access 31:15       Aetna 12:13          45:3,4 46:9            13:23 17:16      a.m 1:13 3:2
+accurate 28:13       13:19              52:19 53:11,13         26:6 27:24         59:23
+ACLU 14:8          affect 21:25         55:5                   29:12 31:13
+                   affirmative 4:16   allows 12:6              35:24 43:5,11            B
+  26:14
+acquired 7:1         8:19,22 9:15     alternative              43:17 51:7,11    back 9:15 17:12
+act 3:13,17 16:5     12:2,10 31:21      54:13,19               51:22 52:3,5      22:21 24:12
+  16:7 25:7          34:5 46:5        Altvater 12:12           54:15 57:15       26:9 30:6,24
+  28:10,22 30:15   ago 3:11 29:13       12:14,16,22            58:16             38:9 53:12
+  30:16 54:15        57:20              24:16,16 27:16       arranged 11:4       55:5 58:16
+action 3:14,19     agree 7:20 14:16     27:17 44:12,16       arrangement        background
+  25:22 26:1         15:1 20:18         44:16                  10:21             53:21
+  27:9 28:12         21:19 36:12      amend 16:5             arrest 50:10       bad 29:22
+  30:10 31:19,22     37:18 53:6,9     amicus 1:19 2:8        arrested 51:2      balance 17:13
+  31:25 32:1,5       57:6,7 58:2      amounts 14:18          Article 3:18 4:1   bar 53:3,5
+  32:10,12 34:6    agreed 14:14       analysis 57:9            13:16,16,22      Bard 59:1
+  36:15 42:1         15:7 19:18,22    answer 8:8               17:6,22 18:15    bare 19:21
+  43:12 46:24,25     23:9 37:11         18:11 27:14            18:24 21:21      bargain 42:22
+  47:1,2,3 48:9      44:16              33:9 42:23             27:2 29:25        43:13 50:21
+  48:17,23,24      agreement 5:15       51:19 55:18            54:16,24 55:1     51:13
+  50:14 52:4,16      7:18 8:5 10:21     56:13                aside 18:21        bargaining 37:8
+  52:22,24 53:12     19:21 20:4       answers 40:11          asking 21:16       based 22:6
+  56:4,15,16,17      21:15,19 22:6    anticipated 33:4         37:15 39:9,24     40:25 51:9,15
+  57:11 59:6,9       22:9,14 23:1,4   anticipatory             40:4 56:9        basically 21:1
+actions 55:8         23:6,15,19         31:24                asks 39:3           50:14
+add 42:16            24:2,9,14        anyplace 58:19         assert 25:25       basis 4:22 10:25
+added 43:21          32:18,19,20      appeal 29:7            asserting 23:8      14:11 31:24
+additional 48:7      33:2,14,22       appear 23:3,5          assess 35:13        54:13
+  48:13 57:8         34:13,15,17      APPEARAN...            assessment         bear 25:4
+address 5:12         35:17 36:10,12     1:14                   28:13            bears 57:9
+  31:7               40:18,21 41:7    appendix 23:16         Assistant 1:17     began 22:20
+adjudicate           41:16 44:10,13     57:22                Association 14:8   beginning 52:6
+  28:12 31:19,21     44:15 45:18      applicable 50:15       assume 37:25       behalf 1:15,19
+  31:24 34:4,5       50:3,21 51:3     applied 55:23            38:1,3,5,21,23    1:21 2:4,7,11
+  46:20,25 47:3      52:1             apprehension             42:5,5            2:14 3:8 17:17
+
+
+                                 Alderson Reporting Company
+                                  Official - Subject to Final Review
+                                                                                            Page 61
+
+
+  27:25 57:16       52:19               ceased 26:6            choice 45:19        closer 36:22
+believe 24:11      business 9:2         cents 7:16 18:3          47:16 50:7,19     coerced 32:22
+  58:15             13:3 38:17            18:3 22:10             50:25               37:5,7
+believes 24:7,12    39:9                certain 21:2,5         choose 50:8         coercion 32:8
+belongs 57:21                           certainly 19:19        chooses 45:13         35:5 37:13
+benefits 43:13             C              21:9 33:11             45:14 46:14         49:19 51:1
+better 37:8        C 2:1 3:1              35:2 36:22           choosing 50:8       coercive 50:7
+beyond 19:23       Calderone 28:8         58:17,17               52:5              coexpression
+  22:16 32:4       call 34:1 58:23      certiorari 5:9         Circuit 3:25          23:20
+bidding 38:7       called 53:17         cetera 5:21,21           8:18 9:3,13,16    cognizable 32:8
+billion 39:12,17   calls 19:11          challenge 7:24           10:9 17:2,3,3,4   collect 40:24,25
+biomedical 3:20    Cardinal 55:21         10:2,5 13:8,14         28:20 30:8        collectible 41:21
+biotech 4:3        care 5:23              13:25 18:10            31:6,14,20        Collective 41:12
+body 23:22         cart 52:12 57:20       19:21,23 21:21         53:11,17 54:4     come 9:16 29:9
+boilerplate 5:15   case 4:15,17           38:20 53:21            54:7 55:24          32:21 39:20
+bona 20:3            5:11,12 9:2,8        54:10 56:19            58:11,24,25         40:11 44:4
+bother 7:25          9:25 12:9,10       challenges 5:25          59:2                45:3
+box 8:24             12:12,13 13:21       10:1 12:7            circumstances       coming 45:7
+Brandeis 3:17        14:1,9,11          challenging 3:13         39:10 42:23       company 4:3
+breach 16:10         16:18 17:8,11        10:18 16:23            47:6                13:3,4
+  24:9,25 52:20      17:23 18:15,16       22:21 36:15          cited 7:3           compatible
+  56:4,15            18:16,19 20:13     change 16:15           claim 4:17 9:22       11:14
+breaching 24:15      20:23 21:6           17:22                  22:25 26:20       competent
+BREYER 20:6          22:5,17 23:25      characterizati...        27:17 28:16         23:22 29:6
+  20:15 21:1         23:25 24:9           32:25                  29:5,5,5 33:7     complaint 3:24
+  30:6,22 37:21      25:5,13 27:3       charge 7:18              34:7,8 57:21        21:16 23:2
+  37:23,25 38:5      29:25 30:1,13      Chief 3:3,9,16         claiming 6:16         28:4 58:7
+  38:11,13,23        31:6 32:2            4:4,6,12 6:4,12        21:3 26:7         completely
+  39:11,15,22,24     36:22 37:2,18        7:11,21 8:3          claims 22:17          44:12
+  40:1,4,6 47:8      39:5 42:10,24        10:19,24 14:22         23:2,19 25:19     complying
+  47:10 48:22        43:10,15 44:25       14:24 15:9,12          25:20 28:5,6        32:17
+  49:3,8,10,12       46:7,22 49:23        15:15,17,24            28:11,22,23       component
+  49:15,17           50:2 52:18           16:4 17:14,18          34:4 35:11          56:18
+brief 7:3 11:7       53:11,17,25          17:24 18:7,13          36:6 53:14        compromise
+briefs 28:20         55:13 56:3,13        18:18 19:7,16        classic 33:6          32:17,21,25
+  58:17              58:23,25 59:1        21:17 22:3,5         clause 29:8,14        34:3,4 36:6
+bring 13:17 18:1     59:2,18,22,23        24:19 25:10,12       clauses 19:13         41:19 51:25
+  24:24 25:4,22    cases 7:3 11:16        25:17 27:22          clear 19:2 20:24    compulsion
+  30:9 36:15         13:22 16:18          28:1 40:13,15          22:21 24:15         44:10
+  43:12 56:14,17     17:5,9 19:2,4        40:22,24 41:4          27:16 43:3,4      concede 11:21
+  59:5,8             20:24 28:9           41:6,12,14,16          57:21               58:9
+bringing 56:4        30:13 41:9           42:15 43:17,22       clearly 20:5        conceded 52:8
+broad 13:7           53:13 54:7           44:6 52:7,13           23:25             concrete 11:20
+brought 3:20         55:21                52:15 54:12,21       clerk 30:12           14:3 17:20
+  4:21 6:10 7:4    cause 28:11            54:24 57:13,17       client 13:4 14:10     21:14,23 23:14
+  16:23 27:9         31:19 32:5,10        57:19 58:10,14         14:18               25:24 26:4,17
+  34:18 36:7         46:24 52:22          59:20,22             close 59:6            30:17 47:20
+
+
+                                   Alderson Reporting Company
+                                 Official - Subject to Final Review
+                                                                                   Page 62
+
+
+  48:5 52:7          50:15,18,23,24      17:19 18:23     2:6 17:16         deprive 8:12
+condition 39:1       52:18,20,23         19:1,6 23:21   decide 29:9 30:7   detail 4:2
+  56:5               53:2 56:5           24:18,23 27:7   30:23 31:2        determinations
+conform 50:2         57:21               27:20 28:2,7    46:10,16            16:11
+Congress 15:21     contracting 25:7      29:6,9,9,12,16 decided 16:18      determined
+  16:1,5,6 57:9    contracts 5:24        29:23 38:20     16:19,21 58:23      22:11 40:17
+congressional        5:25 16:9           40:11 41:10    decision 7:17        41:1,20 42:1
+  15:19            contractual 4:22      44:4 45:3,4,7   9:6,7,16 24:16      42:18
+conjectural 14:3     22:24 25:8          46:14 47:9      41:10             difference 10:16
+consent 20:2         28:5                48:3,19 52:12  declaration          22:10,14 43:20
+consequences       Contractually         53:18,25 54:2   21:16 45:3,8        43:21,24 44:8
+  50:19,25           22:23               54:8 55:11,16   46:1              differences 35:3
+consider 20:23     contrary 15:4         55:17,22       declaratory        different 4:7
+consideration        16:9              courts 5:20       3:13,20 16:5,6      9:18 12:19
+  22:16 42:3,22    controversy           44:14 52:19     25:7,22 27:9        30:20 43:10
+considerations       6:17,18 8:7         58:22           28:4,10,22          44:12 54:4
+  54:14              14:9,11 17:23     Court's 19:2      30:10,15,18         55:12
+consistent 3:18      18:16 20:13         20:24 21:10     31:15 32:6        difficult 7:25
+Constitution         21:21 24:1,10       24:16,22        39:3 47:12,25       12:14 27:6
+  3:18 30:10         25:5,13 27:3      covenant 56:8     48:3,9,17,23      direction 54:4
+  39:6               30:1 33:20          56:22 57:3,5    52:15 54:14       directly 48:14
+constitutional       37:2,18 39:6      cover 10:15       59:6,9            disagree 41:18
+  48:13 50:9         42:4,10 45:1      covers 36:13     declare 59:9,10    disagreement
+construe 3:14        46:7,22 56:3      create 14:9 24:9 declared 48:18       26:14 30:17
+contained 4:7      conventional          37:18           52:9              disagreements
+contempt 24:25       29:17 33:21       created 57:10,10 decree 20:2          33:3
+contends 3:22      convinced 35:17     creates 52:4     defense 4:17       disclosures
+contesting 7:7     correct 41:22       curiae 1:19 2:8   8:19,23 9:15        35:20
+  7:10             costs 33:15         current 41:23     12:1,2,10         discount 51:6
+contingencies      counsel 27:22       currently 24:10   18:20 26:21,25    discretion 19:11
+  42:22              53:7              cut 22:13         44:25 46:5,16       55:12
+continue 38:12     count 21:15 23:2    C.R 59:1         defenses 31:21     discussion 59:14
+  47:5             counterbalance                        32:10 34:6        dismiss 48:6,19
+continuing 34:8      15:25                    D         deficient 35:20      53:14 54:13
+contract 3:14      counterclaim        D 3:1            definite 48:5        55:3,18
+  4:7 10:5,17        27:20,21 44:17    damages 13:2     definitely 14:4    dismissal 28:21
+  15:4,7 20:8,9    counterexamp...      15:13,22 19:17   21:6                54:19 55:1,2
+  20:11 21:8         48:15              24:24 25:1,2    demand 35:7        dismissed 3:25
+  22:22 23:12      counts 28:4          25:20 56:23     demanded             18:17 48:3,4
+  28:16,17,18,25   couple 53:23        danger 12:25      24:17               48:20 59:1
+  29:2 30:4,17     course 57:25        date 49:6        Department         dismisses 32:2
+  30:19 31:5         58:18             day 3:12          1:18              dismissing 4:23
+  33:17 38:14,18   court 1:1,12        days 3:15 17:4   depend 22:15       dispute 8:7 14:2
+  38:21 39:1         3:10,12 5:9 7:6   deal 33:11 37:12  56:7                14:7 15:8
+  41:25 42:6,18      8:13,14,16         39:10,20        depending            17:20,21,25
+  42:19 43:3,3,5     10:15 11:13,13    dealing 12:9      29:10 31:18         21:15,19,24
+  44:3 46:25         11:17 12:22       DEANNE 1:17      depends 20:10        22:8 23:14,17
+
+
+                                  Alderson Reporting Company
+                              Official - Subject to Final Review
+                                                                                  Page 63
+
+
+  24:1 28:18,18  enforceability     exactly 3:11,15      31:6,14,20      forms 9:2
+  28:24 30:4       10:3 18:21         5:7 19:3 29:24     39:6 53:17      fortify 15:20
+  31:5 41:17     enforceable          33:23 34:16,24     54:4,6 55:24    forward 54:1
+  43:2 44:4        4:13,14,21 5:2   Excuse 4:19          58:11,24 59:2   found 44:14
+  52:20            5:13,25 19:3     executed 53:16       59:5,8,9          47:25 48:10
+disputes 25:9      19:24            execution 33:17   Federal-quest...     53:13
+distinguished    enforcement        existing 8:9         28:14           four 28:4
+  10:10            31:24 32:1,12    expired 23:21     fee 18:3 19:18     framework 49:5
+District 53:25   enter 32:16        expires 7:19         35:18           free 13:25
+  54:2             35:16            explain 29:1      fees 11:9 15:22    freedom 13:14
+doing 44:11      entered 20:2       explained 54:8       22:19,20 26:4   freely 12:7
+dollar 7:13        22:9 33:2,14     explaining           40:25 41:21     friend 59:1
+  22:11            34:17 41:19        28:15              52:10           front 20:19
+dollars 38:19      44:12            explicitly 51:21  fide 20:3            30:23 55:4
+  39:16          entertain 55:13    exposed 35:10     fields 47:10         57:20
+doubt 4:14       entirely 12:18     exposure 35:12    fight 44:23 46:4   fulfilled 47:22
+draw 13:23         36:14            expressed 11:15   figure 15:18       full 16:24
+drawn 13:24      entitled 19:17     expressly 33:13   filed 35:1         fully 3:18
+due 22:2           22:19 24:12        37:11           final 41:10        fundamental
+duress 32:22       26:8             extended 49:6     Finally 59:14        43:14 46:23
+D.C 1:8,15,18    equitable 19:11    extra 12:21       find 26:24 27:4      56:20
+  1:21             54:14 55:7,8     extracted 19:5       30:13 52:2      fundamentally
+                 equity 55:14       eye 24:5          finding 49:19        32:15
+        E        equivalent 35:6                      fine 27:18 55:1    further 41:24,24
+E 1:17,21 2:1,6    35:8                     F         firmly 11:15         41:25
+  2:10 3:1,1     escape 50:21       face 51:5         first 3:4 10:25    F.2d 59:3,7
+  17:16 27:24    especially 13:4    faces 25:3           18:11,12 28:5
+earlier 52:8       19:22            fact 12:21,22        31:3 47:16              G
+early 17:4 59:2  ESQ 1:15,17,21       17:9 19:9 28:3     50:20 56:20     G 1:15 2:3,13
+easily 18:22       2:3,6,10,13        28:22 32:1         58:7              3:1,7 57:15
+easy 26:25       essence 32:9         36:1 39:12      flooded 5:20       gather 8:8
+effect 42:17     essential 56:18      42:4 44:6,9     focus 33:7,20      Gee 24:4
+effective 9:5    essentially 7:22     53:10,23 57:9 follow 54:2          Genentech 1:6
+  11:10            51:23            factor 57:8       following 30:2       3:5 6:6 8:8
+effectively 9:23 establish 6:7,11   facts 10:12 14:4     35:9 42:16        25:13
+  46:17            25:14 32:3       factually 33:1    forbids 38:25      Genentech's
+either 5:11 6:7    47:7 54:9,10     failure 32:3 50:2 force 17:1 44:13     35:11
+  7:18 12:8      establishing       fairly 13:7          53:22           general 1:18
+  18:13 22:21      7:17             far 8:4 33:25     forced 12:25         23:8
+  23:19 55:15,15 estopped 10:18     favor 13:25       foreclosed 21:9    genuine 32:3
+emphasize 28:7 estoppel 10:18       favors 13:12         30:5 31:8         52:20
+enactments         43:11            fear 31:25 32:3   forever 32:19      Gen-Probe
+  15:19          et 1:6 5:21,21       45:9 48:20      forfeiting 32:6      16:14,17 53:7
+encouragement event 35:4            Federal 3:13,25      50:23             53:14 54:1,2,3
+  12:6           everybody's          8:13,17 9:13    form 32:22           54:8 59:12
+enforce 5:19       40:16              9:15 10:9 17:4 formal 35:7         getting 8:10
+  22:6 50:22     evidence 29:18       28:20 30:8      formed 4:3           30:18 52:11
+
+
+                                Alderson Reporting Company
+                                Official - Subject to Final Review
+                                                                                           Page 64
+
+
+Ginsburg 6:15      grounds 31:1,2      56:8,25 57:4          Incorporated         59:10
+  6:20 7:5 8:15      55:4              57:12                   3:4              invalidity 42:6
+  9:1,10,12,21     guess 20:6 43:20 horse 52:12              indicate 35:20       44:18 45:8
+  10:7,9 11:2,5      56:22             57:20                 individual 47:13   invasive 16:12
+  11:18 26:21                       Hughes 3:16              information        involved 51:22
+  29:25 31:9,11            H        hundred 29:12              35:13,16         involves 9:8
+  44:19,21 45:6    hand 5:19 29:17     31:10                 infringe 23:19     issue 12:19
+  45:11,13,21      hands 17:22      hundreds 30:13           infringed 3:23       23:25 28:16
+  46:1,11,13       happened 6:9     hypo 43:21,22            infringement         30:23 31:4
+  49:21 53:24        10:13 37:13    hypothetical               12:25 13:1         37:1,4,13
+  55:10              45:25 59:12       14:3 37:6 38:1          20:3 25:1          46:20 50:12
+give 15:19 48:15   happens 39:3        38:10,11 40:1           26:21 31:22        56:3,19 59:18
+  50:8 51:21         49:13             40:6,17 42:16           34:6 35:11       issued 59:19
+given 38:1 51:10   Harlan 11:15     hypotheticals              45:9 46:2 47:1   issues 18:21
+gives 44:4 52:1    harm 32:7 47:21     51:20                   47:4 51:5,14     items 57:18
+giving 43:12       Harvey 29:13                                52:24
+  51:15              52:14 57:24             I               inhibitions 10:1          J
+go 9:15 17:11      head 46:6,6      ideological              injunction 12:15   j 23:2
+  18:4 32:4        headed 33:24        47:21                   12:24 13:1,3     jail 47:15 50:9
+  33:12 38:9,20    hear 3:3 48:15   III 3:18 4:1               15:15 24:20,22   JA-399 29:3
+  43:4 46:6        heard 3:12          13:16,16,22             24:25 44:11      JCHIEF 14:20
+  47:14 54:1         28:16 30:15       17:6,23 18:15         injury 14:9,10     Jenkinson 53:11
+  58:15            held 3:17 19:6      18:24 21:21             14:19 24:15      JOHN 1:15 2:3
+goes 41:25 50:6      23:21 24:18       27:2 30:1               25:24,25 26:4      2:13 3:7 57:15
+  56:2,3             29:6 41:9         31:13 54:16,24          26:18            joined 3:16
+going 5:14 18:2      47:18 53:18       55:1                  instance 34:25     joint 23:16
+  18:3 19:8,12     he'll 37:8       illegal 43:9               48:23 55:21        57:22
+  21:7 35:17       higher 7:18      imagine 19:4             insurance 3:14     judges 17:9
+  42:4 44:22,24    history 16:8        47:11 48:1            intent 29:19       judgment 3:13
+  46:5,6 49:24     hold 59:4,8      immediacy 34:7           interest 10:4        3:20 7:22 16:5
+  50:3 51:3        holder 10:20     immediate 14:4           interesting          16:7 25:7,22
+  55:14              11:19,21 18:20    47:7                    20:16              27:9 28:10,22
+good 9:12 13:5,7     44:21 45:3,13 imminent 14:10            interfere 18:9       30:10,16,18
+  28:19 35:18        45:15,18 46:2     25:25                 interpretation       31:15 32:6
+gotten 33:16         46:13 51:13    immune 47:4                24:13 28:25        39:4 47:25
+governed 55:8      holders 16:3     immunity 43:13             29:20 52:21        48:3,9,17,23
+Government         holding 19:13    implicitly 51:10         interval 59:13       52:16,25 54:14
+  11:7 19:24       Holmes 29:16     implied 52:4             invalid 3:23         59:6,9
+  24:6 29:21       Honor 4:10          56:5,8,16,22            6:16,21 14:17    judgments
+  48:25 49:12        16:20 20:14       57:3,5,10               21:4 22:2,7,12     47:12
+Government's         24:3,7 25:16   important 21:13            22:18 23:10,21   judicial 4:1 7:17
+  11:19,23 20:17     30:3 31:6,17      24:22 28:7,9            25:19 26:7,15      16:10
+  20:21 21:2         33:9 37:19     imprisonment               29:6,15 38:16    jurisdiction
+grant 19:9           41:23 43:2        50:10                   39:4 40:18,19      4:18 8:13,21
+granted 5:9          44:9 46:8 48:2 improper 28:21             40:21 41:1,10      8:23 12:3
+ground 18:22         50:18 51:25       41:11                   41:20 42:2,18      23:22 28:14
+  55:19,19           52:18 54:17    included 20:4              43:9 52:9,25       29:7 31:4 47:7
+
+
+                                 Alderson Reporting Company
+                                 Official - Subject to Final Review
+                                                                                     Page 65
+
+
+  48:21 54:10,22      36:1,4,8,23,25     5:1,4,7,17,22    47:18 48:1,25        52:9 53:16,20
+  55:3,10             37:7,15,17,21      6:9,13,18,23     48:25 49:23          53:22 56:6
+jurisdictional        37:23,25,25        7:9,20 8:12,25   53:15                58:19,21 59:4
+  5:6,7,8 6:3,5       38:5,6,9,11,12     9:11,20,23     laws 6:1 31:22         59:10,11,16,17
+  8:16 10:25          38:13,23 39:11     10:8,12,23       35:12 47:1        licensed 9:17
+  12:1 34:16          39:15,22,24        11:3,11,22     lawsuit 11:1           23:18
+  37:1 42:9 43:7      40:1,4,6,13,15     12:11,17,20      13:17 30:9        licensee 4:9 6:21
+  43:22,24 44:2       40:22,24 41:4      13:9,13,15,19    33:21 45:22          7:6,9,14 8:10
+  54:19 55:19         41:6,12,14,16      14:1,12,15,21    47:24 48:8           8:11 10:2,10
+jurisdictionally      41:24 42:9,13      14:23 15:2,6     50:4                 10:17,18 11:9
+  12:8                42:15,21 43:6      15:11,14,16,23 lawsuits 5:20          12:25 13:8
+Justice 1:18 3:3      43:16,17,19,25     16:4,13,16,20  laying 18:21           16:23 17:5
+  3:9,16 4:4,6,12     44:6,19,21         16:25 17:2,14  leads 40:9             20:8 21:4 24:8
+  4:19,25 5:2,3,5     45:6,11,13,21      57:14,15,17    Lear 4:15,15           24:10 25:2
+  5:8,10,18,23        46:1,11,13         58:3,6,12,15     5:23 9:3,6,7,24      26:3 29:22
+  6:4,12,15,20        47:8,10 48:4       59:20,21         10:1,10,10,13        38:14,15,16,17
+  7:5,11,21 8:3       48:12,22 49:3    kind 10:22         10:13,14,14,16       39:3 41:11
+  8:15 9:1,10,12      49:8,10,12,15      11:14 16:12      11:12,15,24          45:7 52:4
+  9:21 10:7,9,19      49:17,21,22        22:13 27:10      19:20,21 22:19       53:15,18 54:7
+  10:24 11:2,5        50:1,11,13         53:12 55:2       35:1 41:9 52:3       54:9 56:25
+  11:15,18,25         51:7,9,19 52:7   kinds 53:14        53:19 56:17          59:5,8
+  12:11,14,18         52:13,15 53:3    knew 36:2        leave 58:1          licensees 6:12,13
+  13:5,10,14,18       53:24 54:12,21   know 7:16 14:7   left 8:24 51:22        6:15
+  13:20 14:6,13       54:24 55:10        22:10 26:15    legal 8:7 14:5      licenses 7:19
+  14:20,22,24,25      56:1,9,11,21       34:24 38:2       17:21 32:7           10:2 19:22
+  15:3,9,12,15        57:2,6,13,17       39:19 41:17,18   40:11 46:19          20:1 39:12
+  15:17,24 16:4       57:19 58:1,4       43:1 46:4        52:2              licensing 21:15
+  16:13,17,22         58:10,14 59:20     49:10 55:4     legislative 16:8       22:19,20 23:1
+  17:1,14,18,24       59:22              56:2           let's 6:4 17:11        23:4,6,14 24:9
+  18:7,13,18        Justices 3:17                         17:25 22:9           24:14
+  19:7,16 20:6      Justice's 42:15            L          37:21 42:5        licensor 4:22
+  20:15 21:1,17       43:22            label 8:18,20    level 4:18 11:4        38:18
+  22:3,5,23 23:3    justiciability       9:13,18        license 3:22 4:8    light 56:2
+  23:7,15,24          28:13            labels 28:10       5:15,24 7:12      line 13:23 39:23
+  24:4,19 25:10     justify 56:5       lack 27:3 48:21    7:15,18 8:18         59:3
+  25:12,17,23                            55:3             10:8,21 16:24     line-drawing
+  26:3,10,12,20            K           language 21:12     18:3 19:18,23        13:22
+  26:21,22,24       keep 20:9            23:17,23 32:2    20:9 21:12,19     listed 8:19
+  27:1,4,6,8,13     Kennedy 5:10         44:3             22:6 26:4 29:3    litigation 18:1
+  27:16,18,22        5:18,23 35:15     large 3:21 14:18   33:2,22 35:10        33:15 34:25
+  28:1 29:16,25      35:23 36:1,4      Laughter 38:8      35:16,18 36:10    little 37:8
+  30:6,22 31:9       49:22 50:1,11       39:18 40:7       36:11 38:16       live 31:5
+  31:11 32:11,13     50:13 56:21       law 6:2,3,5        40:18,18,21,25    logic 13:6
+  32:23,24 33:16     57:2,6              16:15 17:10      41:3,21 42:18     long 9:17 26:12
+  33:25 34:10,12    Kester 1:15 2:3      23:8 28:6        44:13,25 45:10       26:16
+  34:14,21 35:4      2:13 3:6,7,9        30:12 38:24,24   45:14,15 46:4     longer 22:1,18
+  35:6,15,23         4:4,5,10,14,24      41:23 47:11,13   46:14,17 50:3     look 6:4 7:12
+
+
+                                  Alderson Reporting Company
+                             Official - Subject to Final Review
+                                                                                      Page 66
+
+
+  28:9 29:18    major 14:19        means 13:1               58:20 59:4       opening 59:3
+  30:12          44:2               21:15,20 29:8         needed 35:13       opinion 3:16
+looked 30:11    making 32:20        29:14 36:4            needs 57:23          29:16 59:7
+  55:24          44:9               40:23                 negotiate 36:9     option 45:15
+lose 30:25 36:19manufacture        meant 39:17            neither 23:21      oral 1:11 2:2,5,9
+loss 51:6        45:8              measured 19:17         never 20:9 29:8      3:7 17:16
+lot 7:1 48:6    manufacturer       MedImmune                30:5 31:5          27:24 31:12
+  49:15          3:21               1:3 3:4 4:2             33:11 44:15,16     58:16
+lower 52:18     Maryland 12:13     meets 24:5               47:22,25 48:10   order 17:6 24:9
+  58:22         master 46:16       mentioned 11:6           48:22 53:5,5       24:24 25:4,9
+                material 56:4       11:8 12:5               57:10,10 58:18     32:7 33:14
+      M         matter 1:11 4:15   mind 21:6              nevertheless         35:12 50:9
+Mackell 55:21    5:10 6:2,3,5      minus 3:12               24:18 27:20        55:18
+Mahoney 1:21     18:24,25 19:2     minutes 57:14          new 3:13           ordered 3:25
+ 2:10 27:23,24   21:3 33:21        mirror-image           nice 26:15         outcome 8:20
+ 28:1 30:2,21    37:1 51:20         27:11,15              non 54:9           outset 28:7
+ 31:3,10,17      55:13 58:9        moment 10:25           noninvasive        outside 3:25
+ 32:12,14 33:9   59:24              26:5,6                  16:11              52:22
+ 33:23 34:3,11 matters 21:18       money 14:2,17          notion 40:9        overread 19:8
+ 34:13,20,24     58:8               14:19 15:1            nub 12:7,12        overruled 57:25
+ 35:5,8,22,25   MAUREEN             17:22 22:1,13           13:10            overruling 9:24
+ 36:3,6,8,21,24  1:21 2:10         month 38:19            number 6:19        owe 7:13,15
+ 37:3,10,16,19   27:24             months 3:12              12:5 13:2          15:10 22:13,18
+ 37:22,24 38:4 Maynard 1:17        moot 8:6                 50:22,25           23:1 25:6
+ 38:22 39:8,14   2:6 17:15,16      morning 3:4,11         numeral 28:21        50:20 52:9
+ 39:19,23,25     17:18 18:5,11      3:19                                     owes 24:11
+ 40:2,5,8,14,20  18:14,19 19:15    motion 9:8,11           O                 owner 46:21
+ 40:23 41:2,5,8  19:19 20:14,21     46:15          O 2:1 3:1
+ 41:13,15,22     21:9,23 22:4      moved 54:3      obey 47:16                        P
+ 42:8,11,14,20   22:15,25 23:5     moving 18:25    obligation 29:4           P 3:1
+ 43:1,8,23 44:1  23:13 24:3,6                      obligations               page 2:2 23:15
+ 44:8,20 45:2    24:21 25:11,15            N         17:21 21:25               28:23 33:13
+ 45:10,12,16,24  25:18 26:2,5      N 2:1,1 3:1     obtain 41:11                57:22
+ 46:8,12,18      26:11,19,23,25    narrow 8:14     obviously 15:20           paid 14:18 22:20
+ 47:9 48:2,11    27:2,5,7,12,14    narrower 27:19 occasions 6:10               24:17
+ 48:16 49:2,4,9  27:19             National 14:8   October 1:9               paper 6:25
+ 49:11,14,16,18 mean 4:20 6:20     nature 32:21    offering 29:21            part 5:24 13:7
+ 49:25 50:6,12   11:6 13:21         51:1,12,24     Oh 7:11 33:19               22:14 31:6
+ 50:17 51:8,15   15:3 21:18         54:20            40:2 48:4                 37:11 44:15
+ 51:24 52:11,14  22:6 26:14        necessarily     Oil 28:8 53:17              48:1 51:12
+ 52:17 53:3,9    29:20,21 30:7      45:17          okay 4:25 18:2              53:5
+ 54:6,12,17,23   32:16 43:14       necessary 12:22   18:18 39:17             parties 9:6,25
+ 54:25 55:17     45:17,21,22        17:5 55:24       43:25                     10:4 17:20
+ 56:1,7,10,12    47:11 58:8,13     need 3:21 16:2  once 41:20                  21:14,23 22:7
+ 56:24 57:4,8    58:16              24:8,23,25     ones 11:6 19:22             23:13 25:7
+ 57:13          meaning 23:14       27:12,15 28:11 ongoing 25:8                37:11,17 40:9
+main 51:11       24:2               29:18 55:6,20 open 18:9 21:10              46:9
+
+
+                              Alderson Reporting Company
+                                Official - Subject to Final Review
+                                                                                        Page 67
+
+
+party 33:18,19     patent-law         play 3:21              precedent 21:10     53:19
+ 34:18 37:5          28:23            plead 45:14,14          31:10 50:16       protest 3:24
+ 38:14             pay 3:21 14:14       46:17                precisely 36:25     26:8 44:7
+party's 29:18        14:14,16,17      please 3:10             42:5              proud 16:6
+pass 33:24 34:1      15:1 19:18         17:19 28:2           preferences        provides 23:17
+passed 15:21         23:9,10,18       Poe 32:2 48:2,16        47:14,15          providing 15:21
+ 16:7                29:4,15 30:24      49:20,22 50:4        prepared 46:3      provision 4:8,13
+passes 47:13         35:18 36:16,19     50:13                presented 31:12     4:22 5:13
+patent 3:22,22       37:9 39:15       point 5:5,11            31:13              11:14 23:11,16
+ 6:1,2,8,16,21       44:16 53:1         8:14 17:11           presenting 14:1     24:2 36:13,20
+ 6:25 7:7,10,17    payable 42:2,19      25:6 28:20           presumption         42:16
+ 7:22,24 10:2,3    paying 3:23 6:22     30:20 31:18           7:23,24           provisions 5:24
+ 10:6,18,20          6:23 9:17          33:17 43:9           prevail 24:13       15:21 16:2
+ 11:19,21 12:6       10:11 15:10        50:6                 prevent 5:25       proviso 29:17,19
+ 13:2 14:17          17:6 18:2        pointed 12:23           10:5               37:16
+ 15:1,20 16:3        24:10 26:4,13      24:20                preventing 6:6     prudential
+ 18:19 20:3,8        26:17 29:11      points 26:23            34:8               54:19,25 55:4
+ 21:4,22,24          38:19 51:4,17    policies 20:25         primarily 13:24     55:19,19,22
+ 22:7,11,16,18       53:20 54:7,11      21:11                prior 33:17        public 10:4 12:6
+ 23:9,10 24:13     payments 17:6      policy 5:11             52:20 54:6         13:11,15,25
+ 24:24 25:2,14       32:20 34:9         11:14 12:6,19         59:11              15:5,18,25
+ 25:19 26:7,20       44:9 47:5          13:11,16,25          probably 21:5       38:25
+ 28:6 29:10,15     pays 26:7            15:5,18,25            26:20 30:12       publicity 7:1
+ 29:22 31:22       penalized 47:15      18:9,25 19:1          37:19             purpose 15:8
+ 33:4 34:6         people 30:16         19:10 38:25,25       problem 18:16       16:9 30:14
+ 35:14,18,20       performance        Pope 19:5,6,8,8         40:8,9 44:2       purposes 34:15
+ 36:11,14,16,18      19:9,11            19:12,20,22          problems 11:24      42:10 43:7,22
+ 38:15,20 39:4     permission           20:1                  37:24 43:14       pursuant 24:20
+ 40:17,25 41:2       58:20            position 4:7 6:6       proceed 27:21       24:21 32:20
+ 41:8,9,18 42:1    permits 46:20        8:17 12:4,8,12       promise 19:5        41:6 44:10
+ 44:21 45:2,7      permitted 43:12      13:11 20:17,18        30:25              46:19
+ 45:13,15,16,18    person 48:24         21:20 44:22          promises 51:13     push 8:4
+ 46:2,7,13,21      perspective          46:3                 proper 27:9        put 8:18 9:13,18
+ 47:1 51:13          43:24 44:2       positions 20:7          28:25              13:3 24:25
+ 52:9 53:3 59:4    petition 33:13       20:17                properly 31:20      25:2 36:13
+ 59:5,8,10,18      Petitioner 1:4     possibilities          property 25:21      38:2
+patentee 6:21,23     1:16,20 2:4,8      11:6                 proposition 23:8   puts 28:10
+ 6:24 7:11,16        2:14 3:8 4:2     possibility 47:17      prosecuted         putting 6:24
+ 7:21 8:8 22:12      17:17 22:17      possible 20:7           48:20 51:2         48:14 57:20
+ 27:9,13 40:25       25:3,18 26:6       49:5                 prosecution
+patentees 6:10       57:16 58:19,20   possibly 13:1           32:3 49:24               Q
+patentee's 27:17   Petitioner's       potentially             50:10             qua 54:9
+patents 18:9         25:20 53:7         25:21                prosecutor         quarter 14:18
+ 23:20,20 44:14    phrase 47:25       power 4:1 55:11         32:17             question 5:12
+patent's 7:13        48:10              55:11,13,14,16       protect 10:20       8:16,24 9:1
+ 22:2 26:15        plaintiff 28:10    practical 13:24         11:20 16:2         11:11,12 13:22
+ 52:25               32:6 46:18       practicality 7:21      protections         14:7 16:14
+
+
+                                 Alderson Reporting Company
+                              Official - Subject to Final Review
+                                                                                       Page 68
+
+
+ 18:12,23 19:1     31:16 47:23      represented            ripe 34:7                   S
+ 19:20 20:7,12     48:8,19 49:18      16:14                ripeness 28:14      S 2:1 3:1
+ 20:16 21:10     reasonably         represents             ripening 32:5       salvage 28:17
+ 22:22 26:16       31:25              17:11                  34:8              Samuels 55:20
+ 27:5,14 30:7    reasoning 10:14    repudiate 33:12        risk 25:1,2,3       sanctions 13:2
+ 31:9,11,13        10:16 12:7         34:22 35:2           risks 33:15         satisfied 17:7
+ 33:25 34:16       24:23            repudiated             ROBERTS 3:3         save 39:12
+ 36:9 46:23      reasons 5:19,22      53:20                  4:4,6,12 6:4,12   saying 6:2,25
+ 47:2 54:16        7:2 13:25        requirement              7:11 8:3 10:19      15:6,7 18:1
+ 55:11,12,14,18    32:15 38:17        30:14 48:14            14:20,22,24         26:14 33:18,19
+ 56:2              48:5,6 53:13     requirements             15:9,12,15,17       34:14 40:3
+questions 20:11  REBUTTAL             47:19,20,22            15:24 17:14,24      43:20 52:2
+ 40:12             2:12 57:15       reserve 17:13            18:7,13,18        says 6:21,22
+quick 57:18      receiving 8:1,2      36:15                  19:7,16 21:17       13:16 16:9
+quite 12:11        45:19            resolved 16:10           22:3,5 24:19        20:11 29:3,14
+quote 28:23,23   recognize 13:7       17:22 18:22            25:10,12,17         38:14 39:11
+ 29:22,23 59:3     21:14              25:9 33:5              27:22 40:13,15      41:17 42:1
+ 59:6            recognizing        respect 9:1              40:22,24 41:4       46:3 47:13
+quoted 17:4        12:9 18:5          11:25 31:3             41:6,12,14,16       49:20 59:3
+ 58:24           record 57:22         36:5                   43:17 44:6        Scalia 4:19,25
+                   58:12            respond 15:24            52:7,13,15          5:2 14:6,13,25
+        R        redesignated       RESPONDENT               54:12,21,24         15:3 22:23
+R 3:1              59:16              27:25                  57:13 58:10,14      23:3,7,15,24
+raise 4:22 11:24 refers 28:22       Respondents              59:20,22            24:4 25:23
+  44:24 46:6,14 reflects 41:19        1:22 2:11 22:2       Roman 28:21           26:3,10,12,20
+raised 4:17      regard 23:15         57:24                royals 36:19          26:22,24 27:1
+  18:21 58:2,5,6 regulate 21:8      review 38:6            royalties 3:22,24     27:4,6,8,13,16
+  58:10          regulations        rid 30:18                6:22,24 8:10        27:18 32:11,13
+raises 12:18,21    47:19            Rifle 14:8               9:17 10:11          32:23 38:6,9
+ranging 19:4     reissue 44:14      right 13:7,9 18:8        14:14,16 23:1       38:12 53:3
+rate 37:8 41:19  reiterated 11:16     19:1 20:15,18          23:9,10 24:11       58:1,4
+reach 20:15,18   rejected 11:7,18     21:1,20 22:24          24:16,17 25:6     scope 11:24 33:3
+  54:15            11:22 29:12,16     25:20 26:2             26:8,13,17          33:4
+read 19:12,20    relations 25:8       30:22,24,25            29:4 36:12,16     second 11:4 17:3
+  29:2 54:3        28:5               31:1,14,17,18          36:17 38:19         18:15,16 47:16
+real 30:17 31:5  relative 13:12       34:14 36:15            41:13 42:19         53:11 58:25
+  37:4 47:21     relevant 36:1        39:1 40:19             44:16 45:19       Section 29:3
+realize 13:20      50:5               41:2 44:4              50:20 51:4,17     see 6:20 8:3
+really 23:24     relief 28:4 55:5     46:20 51:10,10         53:1 54:7,11        20:19 27:8,11
+  28:8 30:4 36:5 rely 57:24           51:16,21 52:1        royalty 11:9          28:11 43:16,19
+  37:15 39:9     remaining 57:14      52:2,4,8 54:10         37:8 41:16,19       47:12 52:24
+  49:1 52:2 55:7 remand 55:6,20       54:16 56:14,16         42:2              seek 9:25 41:11
+reason 12:3,4      55:23              56:17 57:10,11       rule 53:22 54:15      45:3
+  13:6,7 28:19   remanded 58:7        57:21 58:20            55:7              seeking 31:19,21
+  29:11 33:13,15 remand's 55:23     rights 17:21           rules 55:22           48:17
+  48:7,13        remember             21:25 32:7           ruling 5:8          seen 47:22
+reasonable 30:9    49:21              50:9,23                                  send 30:6,23
+
+
+                               Alderson Reporting Company
+                                 Official - Subject to Final Review
+                                                                                           Page 69
+
+
+sense 27:15 30:2      13:17 18:5,6     state 38:24,24           52:1,4 58:20        46:2 53:18
+  33:6,10 34:2        25:15 27:10        41:23 47:12            58:21             taken 5:23 29:7
+  35:9 51:16          59:17            stated 9:22            sued 31:16          talking 5:14
+series 17:9         Skelly 28:8        statement 53:6           44:17 51:4          12:1,2 43:6
+set 40:10           Solicitor 1:17     States 1:1,12,19       sues 11:9             51:1 55:7
+settle 7:15 9:4,6   somebody 15:1        2:7 4:1 6:1          suffer 24:23        technically
+  18:1,2,7,8 20:4     34:22              29:13,14 30:11       sufficient 34:7       26:19
+settled 13:17       somewhat 59:1      status 34:15,17          36:18             technological
+  17:10 32:19       sooner 44:22,24      34:25                sufficiently 47:6     35:19
+  34:21             sorry 42:11        statute 48:18          suggest 5:22        tell 58:4
+settlement 8:6        43:18 46:15      Steel 29:13            suggested 31:12     term 19:23 34:2
+  8:12 9:4,5        sort 26:13,14        52:14 55:2           suggesting            36:12 42:17
+  18:14 20:3          40:10 53:4,4       57:24                  21:12             terminated 59:5
+  21:13 32:15,16    sounds 43:2        Steffel 31:23          suggestions         termination
+  34:2,23,25        Souter 5:3,5,8       32:1,9,16 37:4         11:19,23            56:6 59:11
+  35:7 36:5           11:25 12:11,14   step 32:4 41:25        suing 6:7 25:13     terms 18:22
+  51:11,12,23         12:18 13:5,10    Stevens 16:13          suit 4:21,23 6:10     20:23 28:18,25
+  59:16               13:14,18,20        16:17,22 17:1          10:21 12:25         29:2 37:4,10
+settlements           32:24 33:16,25     36:8,23,25             13:1,3 16:23        43:3,4 45:18
+  59:14               34:10,12,14,21     37:7,15,17             18:17,20 20:3       50:3 52:21
+settling 33:6,10      35:4,6 41:24       38:1 56:1,9,11         24:24 25:4          58:16
+Seventh 9:3 17:3      42:9,13,15,21    stipulate 38:15          27:11,15 34:18    test 31:18 32:8,9
+sever 25:8            43:6,16,19,25    Stone 3:17               43:13 45:9        text 16:8
+severe 24:15          48:4,12          stop 17:6 29:11          47:5 52:19        Thank 17:14
+  32:7              speaking 15:3        51:4,17                54:1                27:22 57:12,13
+SG 30:15            special 23:11      stopped 10:11          suits 7:4 17:2        57:17 59:20,21
+Shamir 23:20        specialized 53:4     53:20 54:7           sums 3:21           then-patent
+Shell 53:17           53:5             strange 59:15          super-violation       33:3
+shock 17:8 53:8     specific 4:8,8     strength 15:20           56:22 57:3        theoretical 14:7
+  53:10 58:22         19:9,11          strikes 59:15          support 12:8          26:16
+shortly 9:3         specifically       styled 28:5,6          supporting 1:20     theory 56:24
+show 30:3 31:25       12:23 53:18      subject 33:20            2:8                 57:2
+  46:18             specifying 4:8       59:10                suppose 9:12        thing 30:22 39:2
+side 39:16          spectrum 19:4      subject-matter           35:15,16 37:21    things 17:25
+sign 38:18 39:20      19:25,25 20:2      4:18 8:13,21         Supposing 36:9      think 4:12 7:12
+signed 35:19          20:22,22         submit 10:15           Supreme 1:1,12        7:14 9:24
+  59:17             split 22:9,13      submitted 59:22        sure 36:14            11:22 14:22,24
+similar 23:22       standard 29:19       59:24                surgery 16:12         15:10 18:25
+  29:14 53:14         37:16            subsequent             surprise 53:15        19:4,7,10 21:7
+simply 10:4         standing 28:13       11:16                suspect 10:23         21:13,17 25:10
+  12:21 40:10,21    standpoint 35:5    substances             Synagis 29:4          25:12 26:19
+  43:4 45:20        start 28:3,15        23:18                                      33:9 35:1,22
+  50:23               42:4 45:22       sue 4:9 8:9,10                 T             36:21 37:3,19
+sine 54:9             46:23              11:8 18:4 21:3       T 2:1,1               37:20 38:2
+single 52:18        starting 31:18       31:1 33:12           take 6:5 13:6         39:8,8 40:5,8,8
+situation 9:2       starts 7:22 26:7     35:21 51:10,13         18:4 38:1           40:20,20 41:10
+  10:15 11:13         59:2               51:16,17,21            42:15 44:21         41:22 43:10,23
+
+
+                                  Alderson Reporting Company
+                               Official - Subject to Final Review
+                                                                                         Page 70
+
+
+  44:1 45:2,4        50:21,24 52:22   7:14,17,23             58:25             wrinkle 41:25
+  46:8,9,18,22       52:23            18:20 22:7,8          Washington 1:8      43:21
+  47:2,13 48:12    turns 46:22        23:1 29:5,10           1:15,18,21        write 38:13
+  49:8 50:4,17       56:13            36:11,14,20           wasn't 10:14       written 3:16
+  52:17,18 53:10   twisted 29:20    validity 6:8,11          12:16,21 31:13     38:21
+  53:25 54:3,17    two 20:10 39:2     7:23,24 10:2           32:17 44:17       wrong 8:18,20
+  54:18,18,23,25     50:25            16:23 21:22,24         53:24 56:8         9:13 30:19
+  55:6,15,17       type 19:5 21:12    25:14,22 35:14        way 10:13,19        33:1
+  56:11,12,13,14   types 19:3         36:16 41:17            17:10,12 18:8
+  56:19,24 57:2                       44:4,23 45:4           19:20 21:25                 X
+  57:4,8,19,19             U          46:6,21 53:21          39:11             x 1:2,7
+  57:23            Uh-huh 38:4,22     54:11 56:19           ways 6:19 10:23
+thinks 16:2          42:20          value 25:21              11:3,5                   Y
+  19:24 38:15      Ullman 32:2      various 6:10            Wednesday 1:9      year 39:12
+Third 17:2           48:2,16 49:20 versus 3:4 29:13         weigh 21:11        years 3:11,15
+thought 17:10        49:22 50:4,13    32:2 48:2,16          weight 15:19         29:13 55:8
+  22:7 29:22       ultimate 50:14     49:20,22 50:4         went 55:22
+                   unanimous 3:16                                                     $
+  30:7 33:1                           50:13 55:20           weren't 12:23
+                   uncertainty                                                 $42 39:12
+  40:16 43:17                       view 10:20               33:10
+  52:8               36:10 41:20      16:14 17:11           we'll 3:3 18:4            0
+thousand 38:19     unconstitutio...   20:20,21 21:2          22:10             05-608 1:5
+  39:16              47:14,16 48:18   45:17,21 56:4         we're 6:3 15:6,7
+threat 15:12,14    underlying 8:7   violate 47:18            15:17 18:2                1
+threatened           8:24,25 40:16 violated 48:25            19:12 36:14       1.10 29:3
+  25:24            understand 4:20 violating 50:14           44:5 45:22        10:03 1:13 3:2
+three 20:7,10,17     13:11            50:18                  55:14             11:05 59:23
+  28:6             understood       violation 49:23         we've 13:21        110 29:3
+threshold 54:19      31:20 33:24    void 15:5                22:13 30:14       12 4:24
+throwing 10:24       35:9           voluntarily              41:18 47:18       12(b)(1) 8:22 9:8
+time 17:13 33:2    undertaking        44:11                 willing 8:4          9:8,14 18:17
+  33:10 35:14        7:25           voluntary 34:9          Wilton 55:3        12(b)(6) 4:24 9:7
+  36:9 47:12       unenforceable                            win 29:10 30:25      9:9,14 18:20
+  52:5 53:16,22      3:23 19:6,13           W                31:2 36:18        136 57:22
+  56:25              42:6 43:8      wait 58:1,1              39:12             14 31:1
+times 12:5         unit 7:13        waived 58:17            wondering 48:7     17 2:8
+today 18:23        United 1:1,12,19 walk 51:3               word 33:7          1934 3:14 16:7
+  28:16 30:3         2:7 4:1 6:1    want 8:4 13:23          words 6:7 13:10    1969 5:24
+  31:2               29:13,14 30:11   13:24 28:15            15:21 19:16       1977 59:18
+totally 10:14      unlawful 14:25     34:5 38:2              22:1 39:21,25     1983 58:24
+treated 46:12      unsettles 25:20    45:22 46:1             44:16 49:1          59:12
+treble 13:2        upped 11:9         48:15                  59:7              1988 4:3
+  15:13,22 25:1    use 36:18        wanted 34:22            work 32:13,14      1990s 4:3
+true 40:10,15      uses 32:1        wants 16:1,6            world 47:17
+  52:11            U.S 52:14          20:9 38:16            wouldn't 7:8              2
+trying 8:3 15:17                      45:7 53:21             18:23 37:12       2001 59:19
+  28:12,17 31:23           V        Warner 53:10             45:15 51:20       2004 17:8 59:12
+  34:4 47:3        v 1:5 52:14      Warner-Jenki...          54:22 58:9        2006 1:9
+                   valid 6:25 7:13
+
+                                 Alderson Reporting Company
+                    Official - Subject to Final Review
+                                                         Page 71
+
+
+25 3:15,15
+27 2:11 28:24
+        3
+
+3 2:4 33:13
+  57:14
+300 55:8
+399 23:15
+        4
+
+4 1:9 3:12
+40 18:3
+42 39:17
+47 7:3
+        5
+
+50 7:16 18:3
+  22:10
+57 2:14
+        7
+
+70 3:11
+70s 53:12
+716 59:3,7
+        8
+
+8(c) 8:19,22 9:14
+875 59:4
+882 59:7
+
+
+
+
+                     Alderson Reporting Company
+

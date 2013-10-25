@@ -1,0 +1,1908 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+LOS ANGELES COUNTY FLOOD :
+CONTROL DISTRICT, :
+Petitioner : No. 11-460
+v. :
+NATURAL RESOURCES DEFENSE :
+COUNCIL, INC., ET AL. :
+- - - - - - - - - - - - - - - - - x
+Washington, D.C.
+Tuesday, December 4, 2012
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 11:11 a.m.
+APPEARANCES:
+TIMOTHY T. COATES, ESQ., Los Angeles, California; on
+behalf of Petitioner.
+PRATIK A. SHAH, ESQ., Assistant to the Solicitor
+General, Department of Justice, Washington, D.C.;
+for United States, as amicus curiae.
+AARON COLANGELO, ESQ., Washington, D.C.; on behalf of
+Respondents.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+TIMOTHY T. COATES, ESQ.
+On behalf of the Petitioner 3
+ORAL ARGUMENT OF
+PRATIK A. SHAH, ESQ.
+For United States, as amicus curiae 24
+ORAL ARGUMENT OF
+AARON COLANGELO, ESQ.
+On behalf of the Respondents 35
+REBUTTAL ARGUMENT OF
+TIMOTHY T. COATES, ESQ.
+On behalf of the Petitioner 59
+P R O C E E D I N G S
+(11:11 a.m.)
+CHIEF JUSTICE ROBERTS: We'll hear argument
+next in Case 11-460, Los Angeles Flood Control District
+v. The Natural Resources Defense Council.
+Mr. Coates.
+ORAL ARGUMENT OF TIMOTHY T. COATES
+ON BEHALF OF THE PETITIONER
+MR. COATES: Mr. Chief Justice, and may it
+please the Court:
+In this case, the Ninth Circuit held that a
+discharge from a point source under the Clean Water Act
+occurred in the Los Angeles and San Gabriel Rivers,
+based upon the fact that water moved from channelized
+portions of the Los Angeles and San Gabriel Rivers into
+what it termed, quote, "naturally occurring portions of
+those rivers."
+The court emphasized, in fact, that the
+discharge occurred because it moved through the concrete
+portions. And in the words of the court itself, found
+at the cert appendix at 44, it was, "again discharged to
+the rivers," and the "again" meaning that it was
+prior -- at prior time, it was in the rivers.
+This is completely contrary to the Court's
+decision in Miccosukee Tribe, where the Court held that
+there cannot be a discharge for purposes of the NPDES
+permit program and the Clean Water Act, based upon the
+mere transfer of water within a single body of water.
+All the parties to this case agree that is
+the correct rule. Virtually all the amici agree that is
+the correct rule. And it's our view that that is
+dispositive of this case. It is the only live issue
+before this Court from the Ninth Circuit, and it
+dictates --
+JUSTICE SOTOMAYOR: So why don't we just
+remand and let it sort it out under the right
+understanding of the legal rule? Which is basically
+what the government is saying, with an added twist
+because it thinks there is another legal question that I
+think the Ninth Circuit has answered, but we could go
+back and forth on it.
+MR. COATES: Correct. At minimum, a
+reversal is -- is warranted, without a doubt, but I
+think given the record in this case is abundantly clear
+about what the claims were before the Ninth Circuit and
+what's going on with these monitoring stations.
+I mean, these monitoring stations are
+clearly within the rivers themselves. There is just no
+dispute about that. Even the Ninth Circuit's opinion,
+like I said, the language of the opinion
+suggests that --
+JUSTICE SOTOMAYOR: Everybody agrees.
+MR. COATES: Correct. And the reason why I
+don't think there is an open remand is because there is
+nothing further in the record, really, to argue about.
+At minimum, of course, we would prefer
+reversal, and it would take an open remand. But I
+think, given the record in this case, the only live
+claim before the Ninth Circuit was this discharge theory
+when they found it in the middle of rivers; and, that
+being resolved against the Respondents, there is no
+other live issue.
+CHIEF JUSTICE ROBERTS: Well, it seems to me
+that they present a very direct syllogism. You have a
+permit that sets these monitoring stations where they
+are. The monitoring stations show exceedances, you have
+violated your permit. What -- what's wrong with that?
+MR. COATES: Well, because the nature of the
+monitoring here -- for example, when you look at the
+permitting question, it doesn't say the monitoring of
+any permittee. If you look at the permit where it talks
+about the mass emissions monitoring stations, it talks
+about measuring discharges and compliance from the MS4,
+not any individual permittee's MS4.
+CHIEF JUSTICE ROBERTS: Right. But I
+understand the argument to be that that's the problem
+that your permit imposes on you; in other words, that
+this is where the monitoring station is supposed to be.
+What is it monitoring, if not discharges from the MS4,
+for which you're responsible?
+The government suggests that there could be
+different rules about whether you have to show the
+allocation or if that's your responsibility.
+MR. COATES: But it's the -- Well, I think,
+again, the -- the rules say that you look at the permit's
+terms to interpret it.
+And the Ninth Circuit did look at the
+permit's terms. I mean, it -- it dealt with this
+argument, and it noted that there are several factors in
+the permit that suggest that it didn't relieve the
+Respondents of the obligation of having to show an
+actual discharge of water --
+CHIEF JUSTICE ROBERTS: Well, you don't --
+you don't question that there was an actual discharge.
+The storm sewer system in Los Angeles hasn't been shut
+down, right?
+MR. COATES: Correct. But, again --
+CHIEF JUSTICE ROBERTS: So there are
+discharges, right?
+MR. COATES: But not discharges of
+pollutants, and that's what's reported.
+CHIEF JUSTICE ROBERTS: You don't dispute
+that there was at least some small amount of pollutant,
+even below the -- the permit level, from your point
+sources, do you?
+MR. COATES: Well, we don't know that. But
+the -- but the point I want to make --
+CHIEF JUSTICE ROBERTS: Well, I'm asking you
+whether -- I mean, isn't it -- doesn't common sense
+suggest -- you have asked in your permit for a limit on
+how much of a --
+MR. COATES: Sure.
+CHIEF JUSTICE ROBERTS: -- particular
+pollutant you can discharge.
+MR. COATES: But, again --
+CHIEF JUSTICE ROBERTS: You wouldn't do
+that, unless you expected to discharge some.
+MR. COATES: You might -- You might do it
+sometimes, you might do it others, you might do it in
+concentrations that would cause or contribute to the
+exceedances; but you still have to have a discharge that
+causes or contributes to the exceedances.
+CHIEF JUSTICE ROBERTS: Well, why did you
+put the monitoring sources where they are, if that
+wasn't what was going to measure your compliance with
+the permit?
+MR. COATES: Because you're required, in
+a -- in a system-wide permit like this, to suggest -- to
+propose monitoring which is subject to the approval of
+the regulatory agency. And it's a question of
+monitoring of what? Not monitoring of any individual
+permittee's discharge. In fact, it's not designed for
+that. We even presented evidence in the district court
+to that effect.
+CHIEF JUSTICE ROBERTS: Well, the government
+says that that question -- you're saying, I understand,
+there are other discharges -- well, you're by far the
+dominant discharger, but I understand there are others,
+and they may contribute as well to what the monitoring
+station says.
+But the government's position is that, well,
+that's how you wrote the permit without any allocation;
+and that whatever allocation issues you have may be
+between you and the other dischargers, but that doesn't
+affect the showing of liability.
+MR. COATES: Well, except for the fact that
+the permit terms themselves say that each permittee is
+only responsible for its own discharge. If you read the
+permit in the general fashion that the Respondents wish,
+then -- then you're not responsible only for your own
+discharge.
+It's essentially you're in immediately and
+responsible for all of them, until you prove otherwise.
+And that's just not how the permit reads.
+CHIEF JUSTICE ROBERTS: Where is that? I
+know we've got the permit. Where does it read that way?
+MR. COATES: Let's see. At the Joint
+Appendix, page 93, G, 4.
+JUSTICE KENNEDY: What page again?
+MR. COATES: Volume I of the Joint Appendix,
+page 93, and it's the fourth paragraph. And it's at the
+very bottom of the fourth paragraph. "Each permittee is
+responsible only for discharge for which it is the
+operator."
+JUSTICE KENNEDY: Suppose that the district
+has 85 percent of the water by volume that's put into
+this river, and then you have this high pollution index.
+Does that make it an easier case for the challengers?
+Or is that just irrelevant?
+MR. COATES: It's just irrelevant, unless
+you show that, in that bulk of water, there is a higher
+concentration of pollutants.
+You could have a major discharger that
+undertakes more vigorous pollution controls than other
+smaller discharges. It doesn't necessarily show that
+you're adding more pollutants, necessarily, or how those
+pollutants contribute to exceedances measured at the
+mass emissions monitoring stations.
+JUSTICE KENNEDY: I have one different
+question. This is hypothetical. It's not in the case.
+It's just for me to understand that.
+Suppose you have the river, and part of it
+is a concrete bank, and then there's a more natural
+bedding and then another concrete bank.
+And when the -- in the dry season, they fix
+the concrete bank, but they use bad concrete. And a lot
+of pollutants are coming out of the concrete, but it is
+in the river. Is that a discharge under this statute?
+MR. COATES: I don't believe so. Although,
+I could --
+JUSTICE KENNEDY: Would there be any --
+MR. COATES: -- imagine circumstances where
+you create an outfall unintentionally by -- by
+funneling. I mean, I think you're talking about just
+natural erosion of turbidity or whatever into the river.
+I don't believe that would necessarily be a point
+source.
+It might be a non-point source pollution,
+but I don't believe that would necessarily be a point
+source if it's just inadvertently -- you know,
+deteriorating in the river.
+JUSTICE KENNEDY: And that's -- that's a
+separate provision of the statute, nonpoint source
+pollutions.
+MR. COATES: Well, it doesn't sound like --
+you know, the -- the way it's defined under 1362 is a --
+you know, like, enclosed conveyance that -- that
+discharges --
+JUSTICE KENNEDY: Well, that's not in this
+case.
+MR. COATES: Yes, that's not in this case.
+But I --
+JUSTICE KENNEDY: It was just a background,
+background question for you.
+MR. COATES: Yes, but I think that that --
+that probably wouldn't be a discharge from a point
+source.
+JUSTICE SCALIA: Mr. Coates, I am -- I am
+still perplexed.
+MR. COATES: Yes.
+JUSTICE SCALIA: You say -- and it seems to
+be correct, that each -- each alleged polluter is only
+responsible for his own pollution. But you also say
+that these monitors are so situated that it is
+impossible to tell from the monitor who is responsible
+for the pollution; is that right?
+MR. COATES: I think that -- I think that is
+right, but you look for the --
+JUSTICE SCALIA: So whose fault is that?
+MR. COATES: Well, the reason why -- the
+reason why that that's there is to measure, essentially,
+the health of these rivers so that you can fine-tune the
+MS4 permit -- the systemwide permit, and so that you can
+gauge general water quality standards, and if necessary,
+you can fine-tune it to try and measure individual
+permittees.
+And we note that there is a renewed permit.
+It still has the monitoring stations in it, so under the
+Ninth Circuit's decision, we would still be discharging
+at those monitoring stations. But it does provide for
+outfall monitoring at representative outfalls for
+individual permittees to do precisely that kind of
+correlation that we are talking about.
+JUSTICE SCALIA: What -- what it is -- what
+is it that provides for that?
+MR. COATES: There is a renewed permit. The
+permits are renewed every 5 years. This is -- we are on
+the third permit now; this is the fourth; it's gone 10
+years. The renewed permit continues the mass emission
+station. So, as I mentioned, we are still discharging
+in middle of the river, as far as the Ninth Circuit is
+concerned.
+But it does have provisions for additional
+monitoring near outfalls, along the banks of the rivers,
+for various permittees, so that, in the future, you
+could look at that testing and go, boy, your outfall is
+producing X, Y, and Z.
+JUSTICE SOTOMAYOR: So this was a regulatory
+void?
+MR. COATES: This was a --
+JUSTICE SOTOMAYOR: A regulatory void that
+these -- that there was no requirement previously that
+you monitor the outfalls?
+MR. COATES: Monitoring, correct, that there
+be specific outfall monitoring. It's a regulatory --
+JUSTICE SOTOMAYOR: So how do you -- how do
+you envision this permit was -- by the way, just one
+side question and then on to this one.
+I thought the Ninth Circuit basically
+endorsed your view that, under the permit, you're not --
+you're only responsible for your own pollution.
+MR. COATES: That is correct.
+JUSTICE SOTOMAYOR: So it has resolved this
+issue?
+MR. COATES: It has resolved this issue.
+JUSTICE SOTOMAYOR: All right. So that's
+why I ask why remand and why you're saying why remand.
+MR. COATES: Yes.
+JUSTICE SOTOMAYOR: But putting that aside,
+how do you think the system was supposed to work before?
+MR. COATES: Well --
+JUSTICE SOTOMAYOR: Did you have any
+obligation, once you saw the excess pollutants, to start
+the reiteration process, to try to figure out who was
+the cause of this?
+MR. COATES: Well, if they attribute a -- a
+violation to a particular permittee -- for example, the
+district court noted and the Ninth Circuit re-emphasized
+it that you could at least, if you wanted to try and hook
+it to a single permittee, you could at least try and
+sample at an outfall for that permittee and then provide
+evidence that that contributed to exceedances.
+They didn't do that here, in the lower
+court.
+JUSTICE SOTOMAYOR: You mean the Respondents
+could have done that here?
+MR. COATES: The Respondents could have done
+that here. They did not argue that they did that in the
+Ninth Circuit. They abandoned that -- that contention.
+CHIEF JUSTICE ROBERTS: So what -- what
+percentage of discharges come from you, as opposed to
+the other members of the MS4 --
+MR. COATES: We have -- we have the most
+infrastructure. I don't know the specific percentage,
+but bear in mind that there are 1,400 other entities
+upstairs --
+CHIEF JUSTICE ROBERTS: Give me an estimate.
+MR. COATES: You know, I can't in terms of
+total water volume. But we are -- we are the largest
+player in that portion of the system. I'm not going to
+downplay that.
+What I'm saying is that there is no
+necessary correlation between that and, ipso facto,
+you're the one causing the exceedances at the monitoring
+stations; that, again, there has to be something
+traceable to our discharge that contributes to those
+exceedances.
+CHIEF JUSTICE ROBERTS: What -- what goes
+into these discharges, besides the rainwater runoff?
+MR. COATES: Here, it's just stormwater.
+CHIEF JUSTICE ROBERTS: Okay.
+MR. COATES: I mean, a municipal separate
+storm sewer system --
+CHIEF JUSTICE ROBERTS: So your -- your
+hypothesis is, in some of these minority dischargers,
+that, for some reason, their rainwater would have a
+different amount of pollutants than your rainwater?
+MR. COATES: Well, they could -- they could
+very well have storm discharge different -- Yes, there
+are other discharges upstream from -- there are
+industrial sites that discharge water into the L.A.
+River, so -- no, absolutely. Absolutely. And again --
+you know, a large jurisdiction, we may be more proactive
+in terms of doing pollution control as well.
+There is just no automatic correlation to
+that. And I think, as the district court said -- you
+know, it's not so much to ask to at least sample at one
+outfall to try and show that kind of correlation, so you
+can show exceedances at the margin.
+JUSTICE SOTOMAYOR: I'm sorry, you mean --
+CHIEF JUSTICE ROBERTS: Justice Kennedy.
+Ninth Circuit's error here a factual one, because it was
+based on the location of the stations? Or was it a legal
+one because it misinterpreted our Miccosukee case?
+MR. COATES: It -- it's a legal one. I
+don't believe it's a factual mistake, for a couple of
+reasons. One, the language that -- that I cited, that's
+in the cert appendix at 44, where it talks about the
+water, again, discharged to the river, suggests that
+that water was in the river, and now, it's moving
+through our concrete channels and it's, again,
+discharged into the river. Its distinction that it
+draws is that there is something different because the
+MS4 is an intrastate manmade construction, as opposed to
+a naturally occurring river, which talks about the
+distinction being made in that regard.
+And finally, the record is just abundantly
+clear on where these monitoring stations are. The
+opinion itself at cert appendix, page 18, footnote 4,
+cites our website as the location of the monitoring --
+for the location of the monitoring stations. And that
+website clearly says they are within the Los Angeles and
+San Gabriel Rivers. And, in fact, appellant's brief --
+the Respondents' brief in the lower court, specifically
+said the same thing.
+And the --
+JUSTICE SOTOMAYOR: You just said there were
+polluters upstream. Are those industrial polluters
+upstream --
+MR. COATES: There are -- there are --
+JUSTICE SOTOMAYOR: -- or industrial
+facilities, are they within your MS4?
+MR. COATES: They are not. They have
+separate NPDES permits.
+JUSTICE SOTOMAYOR: But what you're saying
+is that there are outfalls from different people into
+the same river.
+MR. COATES: Correct. Correct.
+JUSTICE SOTOMAYOR: All right. So we don't
+know whether the outfall is from your MS4 or from some
+other source?
+MR. COATES: Correct, because they are all
+upstream of -- of the monitoring station.
+JUSTICE BREYER: Okay. So you say they have
+two remedies, that the NRDC, if they think you are
+polluting, could have done -- could do two things. One,
+they could go and get some expert to try to get a sample
+or to make an estimate, based on what he knows about the
+industrial sites that it's actually your storm drains
+that are polluting. That's one thing they could do; you
+say they didn't do it.
+Okay. The second thing they could do is
+they go to the permitting authority, and they could say,
+will you please ask the L.A. County to monitor the
+actual storm drains when they come in, a sample thereof.
+And you're saying they could have done that, but they
+don't have to now because, now, that is a requirement.
+And we are doing it.
+MR. COATES: That's correct.
+JUSTICE BREYER: Okay.
+MR. COATES: That's correct. That's
+correct.
+CHIEF JUSTICE ROBERTS: Where -- where is
+that requirement?
+MR. COATES: Excuse me?
+CHIEF JUSTICE ROBERTS: Where is that
+requirement that you're now doing?
+MR. COATES: We -- in our reply brief, we
+cite the fact that a -- a -- the permit has just been
+renewed. We are waiting for the final version to go
+online and to see it. I think what we cite to the Court
+is the last one that was before the regional board. It
+lines -- it lines out.
+CHIEF JUSTICE ROBERTS: So you are not doing
+it now?
+MR. COATES: We are not doing it now. I
+mean, there's -- the new permit is technically
+effective. It could be stayed if someone challenges it.
+I think it's open until it's challenged until December
+11th. But under the renewed permit, there is outfall
+monitoring -- specific outfall monitoring. Now, the
+mass emission station is still there, and under the
+Ninth Circuit's opinion, we are still discharging there
+and responsible for the exceedances.
+So -- but that's the type of monitoring that
+plaintiffs want, and that's in the new permit. If they
+want it in the last permit, they could have disputed it;
+they could have contested the last permit. But they
+didn't do so. This is a fine-tuning program. I mean,
+municipal stormwater is a complex issue. Congress
+didn't treat it the same way it did industrial
+stormwater.
+JUSTICE KENNEDY: Is it your position that
+the rivers -- the two rivers in question are outside the
+MS4? I thought there was a suggestion in the
+government's brief that you could have both the river
+and the MS4 that could cover the same area.
+MR. COATES: We have -- in the lower courts,
+the district personnel refer to the channelized portion
+as part of our MS4 because it's all flood control to us.
+However, we have never said it's all the same for
+purposes of a discharge. We've been very careful about
+that, that, for a discharge from a point source, an
+outfall, not the monitoring stations -- in fact, in the
+district court, plaintiff somewhat argued that theory,
+the monitoring stations, when you're MS4, they're
+exceedances; ergo, exceedances in your MS4.
+And we pointed out, under Miccosukee, there
+is no discharge of water. There's no discharge because
+it's merely transferring water as water moves past the
+monitoring stations. And then --
+JUSTICE GINSBURG: What was the purpose of
+having the monitoring station if nothing can be done?
+And are -- the monitoring shows, yes, there is a lot of
+pollutants in there, and we know that at least some of
+them have to be ascribed to the district. But you say,
+unless you -- you show the outflow, that it comes from
+there, no liability.
+Why shouldn't it be that, given there is
+going to be a contribution that the district is making,
+that the district should have the burden of showing, no,
+there are all these other ones out there, so our
+percentage is X, not the whole thing?
+MR. COATES: Well, again, the -- the Water
+Act makes you responsible for a discharge in violation
+of permit terms, so you have to have a discharge by the
+permittee.
+The permit terms itself are not written in
+that fashion. Again, it says we are only responsible
+for our own discharge. Could you write a permit that
+way? Perhaps. But this permit was not written that
+way.
+And, in fact, the Ninth Circuit agreed with
+us on that. The permit language is not tricky on that.
+You could have permittee monitoring. You could. And
+that's what the renewed permit does. But that is not
+this permit.
+The regional board -- as I said, it's part
+of a process. There have been three permits over the
+last -- since 1990. And we have a fourth permit, and it
+has some new provisions to fine tune it for precisely
+this reason.
+I note that -- the biggest dispute we seem
+to have on this monitoring issue -- and -- and it's one
+that I think the discussion we are having bears out, is
+that it is not a straightforward issue; that when you
+look at the statute itself, the Statute 1342(p)(3)
+distinguishes between industrial stormwater dischargers
+and municipal stormwater discharges.
+Now, I think it is worth looking at that
+provision because, if you look at (a), and that talks
+about industrial dischargers, it says they have to meet
+every requirement of this provision. And if you go to
+1342(a), it includes everything, including the
+monitoring requirements of 33 U.S.C. 1318.
+But if you look at 1342(p)(3), subdivision
+(B), which talks about municipal stormwater, you do not
+see that language. You do not see that "must comply"
+with every other provision of this section. It doesn't
+say that.
+It only has, essentially, three
+requirements, which is these permits can be granted on a
+system-wide or jurisdiction-wide basis, you have to only
+allow stormwater, and that the -- must provide to try
+and manage pollutants to the maximum extent practicable.
+And that's the sum total of it.
+So I don't think you can assume that these
+are identical monitoring requirements. It's, at the
+very least, a complex question. I think it's one that
+would have behooved the Court to be able to obtain more
+amicus assistance on. And part of it is the way that
+this was raised to this Court, that this was a proper
+issue for a cross-petition.
+And the only justification I've seen for
+this is I saw a letter come to the Court advising it of
+two cases, I think, LeTulle v. Scofield -- I don't know
+if it's LeTulle or LeTulle -- and Ryerson v. United
+States. And neither of one of those suggest that this
+is an appropriate issue for the Court.
+JUSTICE SCALIA: Is -- is your description
+of the statute meant to conclude, or does it -- does it
+conclude, that these outsource monitoring stations which
+exist under the new permit are not really required?
+MR. COATES: Well, not necessarily
+statutorily required, but they are part of the -- the
+permit, yes. They're in there. They're in there.
+We're not --
+JUSTICE SCALIA: Oh, I understood that.
+Yes.
+MR. COATES: We've agreed -- we've agreed --
+JUSTICE SCALIA: Can you put in the permit
+stuff that the statute does not require?
+MR. COATES: Well, you can -- I think you
+can agree to terms in a permit, yes.
+JUSTICE SCALIA: Okay.
+MR. COATES: Yeah.
+And with that, I would reserve the balance
+of my time for rebuttal.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Mr. Shah.
+ORAL ARGUMENT OF PRATIK A. SHAH,
+FOR UNITED STATES, AS AMICUS CURIAE
+MR. SHAH: Mr. Chief Justice, and may it
+please the Court:
+The answer to the question presented in this
+case is both straightforward and undisputed. Under this
+Court's decision in Miccosukee, no addition, and thus,
+no discharge of pollutant occurs, when water flows from
+a channelized portion of a river to a downstream portion
+of that same river.
+Because the monitoring stations at issue are
+actually located within the rivers themselves, the court
+of appeals erred in concluding that a discharge of
+pollutants occurred when, quote, "the still-polluted
+stormwater flowed out of the concrete channels where the
+monitoring stations are located, through an outfall and
+into the navigable waterways."
+And because the court of appeals rested its
+liability determination on that erroneous premise, the
+judgment should be vacated and the case remanded to the
+court of appeals.
+JUSTICE GINSBURG: Mr. Shah, what about the
+problem that one of the amici brought up concerning
+dredged material? Said that if we just say Miccosukee
+applies, then when there's a dredging operation and the
+material is redeposited back into the same water, then
+that would also -- there would be no responsibility
+based on that.
+MR. SHAH: Right. Your Honor, I think -- I
+think the one amicus that does raise that issue raises
+it limited to -- the biggest counterexample they raise
+is the one that you raise about Section 404 permits for
+dredged and fill material. Those permits are just very
+different in kind.
+Section 404 applies to dredged and fill
+material, which almost, by definition, is going to be
+coming from the source itself. And so we think that the
+Miccosukee line of decision just doesn't apply to that
+permitting regime, which -- which is a very different
+sort of permitting regime than we have at issue here.
+And in any event, I think it's far beyond
+the question presented in this case, the Miccosukee
+rule.
+JUSTICE SOTOMAYOR: Counsel, tell me why
+remand? I thought -- and correct me at whatever step
+I'm wrong, okay -- that the district court rejected
+Respondents' argument that the mere monitoring excesses
+created liability. What it said is you have to follow
+the terms of the permit and make the permittee
+responsible only for their excess discharges, and you
+haven't shown us any evidence that does that.
+The Ninth Circuit agreed that the permittee
+is only liable for its own discharges. It held the
+permittee liable because it believed that the discharges
+were within their source -- within their outflow. So
+what are we remanding for? The legal question of
+whether the -- the -- the monitoring stations
+automatically create liability has been answered in the
+negative by both courts.
+MR. SHAH: Justice Sotomayor, I agree with
+your reading of -- of both opinions below.
+I think what we're asking for is the Court
+to do what it normally does when it vacates an erroneous
+part of a judgment and sends it back, that is, leave it
+open to the court of appeals, to address any issues
+consistent with this Court's opinion.
+We think it's conceivable that the Ninth
+Circuit might approach the permit construction issue
+differently, once it's corrected of the
+misimpressions --
+JUSTICE SOTOMAYOR: How would it --
+MR. SHAH: -- that it had before it.
+JUSTICE SOTOMAYOR: -- what could it do
+differently?
+MR. SHAH: I think, in particular, the Ninth
+Circuit construed this permit on the understanding that
+there was a discharge of polluted water after it flowed
+past the monitoring station and said that the district
+could be liable, based simply on the exceedance measured
+by the mass emission station alone.
+JUSTICE SOTOMAYOR: How does that change the
+answer to the legal question that the permittee -- both
+courts have said the permittee is only liable for their
+own discharges. And unless this proves that they
+discharged -- they, themselves, discharged, which it
+can't because it's in the river and not within the
+source --
+MR. SHAH: Well, it --
+JUSTICE SOTOMAYOR: -- how can that, alone,
+establish liability?
+MR. SHAH: Well, again, I think the Ninth
+Circuit predicated its permit interpretation on the
+understanding that there would be at least some way to
+hold a permittee -- in this case, the district -- liable
+based on the mass emission exceedance alone, and that's
+because it misapprehended that there would be a
+discharge of flow of the polluted water.
+It could be, and it may not be. We don't
+know until it gets back to the Ninth Circuit. It may be
+that the Ninth Circuit would reject the view that you
+could have a permit that sets up a permitting regime
+that does not allow a plaintiff to sue any particular
+permittee, unless it has evidence beyond that provided
+by the monitoring regime.
+JUSTICE SCALIA: So -- so -- so what follows
+from that; that the district is liable because it's a
+lousy permit?
+MR. SHAH: Well, Your Honor, if --
+JUSTICE SCALIA: I do not see how this
+court -- how the -- how the court of appeals is going to
+be able to do anything different, other than say there's
+no liability here, unless, of course, it adopts another
+fanciful interpretation of the statute, which is
+something I worry about.
+MR. SHAH: Well, Your Honor, we think that
+this permit -- again, the terms of this permit are both
+complex and ambiguous. We do not think that permits
+should be written this way. We think permits that
+provide for water quality -- for MS4s to adhere to water
+quality standards based on ambient monitoring should be
+coupled with either individual --
+JUSTICE SCALIA: I -- I agree with that, but
+how can this permit possibly be interpreted in such a
+way as to hold a district liable?
+MR. SHAH: Well, I think the most
+persuasive -- and, again, we don't take a firm position
+on this, but I think the most persuasive argument on the
+other side would be that, when permit writers issue a
+permit, they -- they assume that the permitting regime
+provided in the permit would provide a basis to seek
+enforcement of that permit. If that were true --
+JUSTICE SCALIA: They would assume that;
+but, if it doesn't, it doesn't.
+MR. SHAH: Well --
+JUSTICE SCALIA: So what do you do if it
+doesn't?
+MR. SHAH: Well, one could imagine a regime
+where the permittees, that is, the municipalities who
+apply for a joint permit, would agree to a shared
+presumption of liability. For example, there are --
+JUSTICE SCALIA: They have -- they have not
+agreed.
+MR. SHAH: Well, again, we don't --
+JUSTICE SCALIA: So you're going to impose a
+shared thing? I see no way for the court of appeals to
+do this in -- in a fashion that will not bring the case
+right back here, and you'll be asking us to send it back
+to the same panel.
+MR. SHAH: Well, Your Honor, I don't think
+it's a cert-worthy issue, how to interpret the terms of
+this specific -- this is a fairly --
+JUSTICE BREYER: But, anyway, you say that
+the court held the same thing in two other cases
+involving two other rivers, and they didn't cross-appeal
+from that, and so that issue isn't really in front of
+us.
+MR. SHAH: Well, Your Honor --
+JUSTICE BREYER: And if they did hold what
+you said, then they'd have to reopen the other two
+cases.
+MR. SHAH: Right. You Honor, I think in
+terms of the cross-petition issue, that is a closed
+question. I don't think the Court needs to get near it
+because I think there are several other good reasons why
+this Court should not decide the permit construction
+issue itself.
+JUSTICE BREYER: Okay. But if we decide
+that they needed file a cross-petition and they didn't,
+then what's the basis for our remanding, rather than
+reversing?
+MR. SHAH: Well, Your Honor --
+JUSTICE BREYER: It's that issue that what
+we have to decide.
+MR. SHAH: Your Honor, it's established that
+this Court -- even if a cross-petition were required,
+it's established that this Court has the authority to
+remand for disposition of any further issues once a case
+comes before this Court. So the cross-petition --
+JUSTICE SOTOMAYOR: Why should we, in light
+of the clarity of the permit? That's the question
+Justice Scalia is asking.
+MR. SHAH: Sure. I think the Court should
+just follow its ordinary practice. We're not asking for
+anything different than its ordinary practice of
+vacating the judgment and remanding for further
+proceedings, consistent with its opinion.
+JUSTICE GINSBURG: And if there -- if
+there is --
+JUSTICE SCALIA: But that is not our
+ordinary practice, when -- when nothing can happen on
+remand, except -- except to give judgment for the
+Petitioners here.
+MR. SHAH: Well, I think it would be unusual
+for the Court to reverse and then instruct that judgment
+be entered in favor of Petitioner. Of course, the Court
+is free to do that, and it may decide to do that. We
+just think that there is a possibility that the Ninth
+Circuit would -- would take a different approach.
+JUSTICE BREYER: Sometimes, the Court says
+the bottom line in that italicized thing, which I've
+never fully understood when and when we don't do it, but
+it just says, "Reversed."
+MR. SHAH: Right.
+JUSTICE BREYER: And then, sometimes, it
+says, "It is so ordered." And exactly when you write
+the word "Reversed" -- but I usually just ask the Clerk,
+all right.
+(Laughter.)
+JUSTICE BREYER: But the question -- the
+question is when do we do the one or the other, and I
+think, here, what they're saying is, just write the word
+"Reversed," we'll deal with the rest of it. All right.
+So that's --
+MR. SHAH: Right. And, again, the Court is
+well within its -- its discretion to do that. We
+think --
+CHIEF JUSTICE ROBERTS: Doesn't that always
+say that in the judgment of the Court?
+MR. SHAH: Doesn't it always say what, Your
+Honor?
+CHIEF JUSTICE ROBERTS: Does it say, "It is
+so ordered," in the judgment that we release?
+MR. SHAH: Yes, yes. And I think the
+typical -- I think the typical phrasing would be vacate
+and -- and remand for further proceedings.
+JUSTICE GINSBURG: Mr. Shah, am I right
+about that this other theory, if it were open to the
+Ninth Circuit, would apply equally to the other rivers
+that Justice Breyer mentioned, and those were out of the
+case because, when it got to the Ninth Circuit, we were
+talking about only the Los Angeles and the San Gabriel?
+MR. SHAH: That's right, Your Honor.
+JUSTICE GINSBURG: That -- that other theory
+would apply to all four.
+MR. SHAH: I -- I think that is correct, and
+the Ninth Circuit may decide that, therefore, it's not
+going to revisit its permit interpretation. I think it
+might be within the Ninth Circuit's discretion, since it
+still has the case on remand, if it were to revisit its
+permit construction.
+CHIEF JUSTICE ROBERTS: The reason it would
+not look at Malibu and -- what's the other one that
+we're already --
+MR. SHAH: The other watershed.
+CHIEF JUSTICE ROBERTS: Yes -- would be
+because it wouldn't comply with the cross-petition rule.
+MR. SHAH: No.
+CHIEF JUSTICE ROBERTS: We're are not going
+to send it back to them to --
+MR. SHAH: No -- I'm sorry. I thought it
+would be that the rationale that they used for those two
+rivers, it would be in tension with it, and if they
+agree that the rationale which led them to deny -- to
+deny liability on those two rivers, that may lead them
+to adhere to its current permit interpretation.
+CHIEF JUSTICE ROBERTS: Do -- do you have a
+position on the cross-petition issue?
+MR. SHAH: No, Your Honor, we do not.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+MR. SHAH: Thank you.
+CHIEF JUSTICE ROBERTS: Mr. Colangelo.
+ORAL ARGUMENT OF AARON COLANGELO
+ON BEHALF OF THE RESPONDENTS
+MR. COLANGELO: Mr. Chief Justice, and may
+it please the Court:
+We do not defend the judgment on the Ninth
+Circuit's stated rationale, but on alternative grounds
+that are properly before this Court. The compliance
+monitoring included in the permit determines
+Petitioner's liability for permit violations as a matter
+of law, as the Clean Water Act, EPA regulations, and the
+permit's own terms all require.
+CHIEF JUSTICE ROBERTS: Well, where is the
+permit's own terms? Your friend cited JA 93, which says
+each permittee is responsible only for a discharge for
+which it is the operator. So where does the permit
+clearly show the opposite?
+MR. COLANGELO: Your Honor, let me point you
+to three provisions in the permit that, taken together,
+compel this result. The first is page 195 of the Joint
+Appendix, the paragraph numbered D(1). And this refers
+to the individual permittees, and it says, "Each
+permittee must comply with all of the terms,
+requirements, and conditions of this order. Any
+violation of this order constitutes a violation of the
+Clean Water Act, its regulations, and the California
+Water Code, and is grounds for enforcement action."
+And that's the first of the three
+provisions, and it is undisputed here that there are
+permit violations. The monitoring included in the
+permit that Petitioner and its co-permittees chose has
+demonstrated, since 2003, undisputed permit violations.
+The second provision is page 98 --
+JUSTICE SCALIA: Wait. But -- but before
+you go further, it says each permittee must comply. It
+doesn't say that each permittee shall be responsible or
+shall be liable. And it's the other provision that says
+that each permittee is responsible only for a discharge
+for which it is the operator.
+MR. COLANGELO: Correct.
+JUSTICE SCALIA: So you got more --
+MR. COLANGELO: Yes, You Honor.
+JUSTICE SCALIA: -- more besides 195.
+MR. COLANGELO: Well, and what 195 adds is
+it says any violation is grounds for enforcement action.
+Now, JA 98 talks about exactly this
+circumstance, when violations are detected at the
+monitoring stations. And about halfway down JA 98, it
+says, if exceedances of water quality objectives or
+water quality standards persist -- and that's only
+measured in one place; that's at the compliance
+monitoring in the rivers -- notwithstanding
+implementation of control measures and other
+requirements of this permit, quote, "the permittee,"
+individually, "the permittee shall assure compliance
+with discharge prohibitions and receiving water
+limitations by complying with the following procedure."
+It then sets out four steps that each
+permittee must comply with to bring the MS4 within the
+permit limits. Now, that is --
+JUSTICE SCALIA: Of course, the very first
+step is A, "Upon a determination by either the permittee
+or the regional board that discharges are causing or
+contributing to an exceedance of an applicable water
+quality standard, the permittee shall promptly notify,"
+et cetera. They cannot make such a determination
+because of the nature of the monitoring -- monitoring
+here.
+MR. COLANGELO: That's -- that's incorrect,
+Your Honor. The permit compels this result because
+there is only one place in the permit that that
+monitoring is required, and that is the in-stream mass
+emission stations that the permittees chose. And the
+permit says, explicitly, the monitoring results at those
+locations are used to assess compliance and determine
+whether the MS4 is contributing to violations.
+JUSTICE BREYER: But as I read it, and he
+explained it, I thought that, look, what they're
+thinking is this: Stormwater is really a big problem,
+and it's really complicated how you work it out, and we
+want the agencies to work it out. So the purpose of
+this monitoring thing is we first determine that there
+is an exceedance.
+Now, once we determine that there is an
+exceedance, which is the point of this pertinent
+particular requirement, then we're going to go on to
+decide who. And what we're going to do is leave you
+with two possible choices. One is you can try to figure
+out who, which means you've got to get an expert and
+monitor it; or let us now have a new permit which
+will -- will -- you know, which will -- which will put
+some responsibility on the individuals, because we'll
+monitor higher up the river.
+Now, that's a rational way for an agency to
+proceed and it leaves you with pretty good remedies.
+And so why -- why are we running all around, trying to
+work this thing out? Why don't you just sort of try to
+deal with it as they described it and say, okay, we're
+going to either prove you did it before or at least we
+can prove it now?
+MR. COLANGELO: There are two answers to
+that, Your Honor. The first is this is all sorted out
+during the permitting process. This permit was adopted
+by the State agency and upheld by State courts upon the
+Petitioner's challenge after 5 years of litigation. The
+permit was based on an 80,000 page administrative record
+and the testimony of 29 witnesses. And the point of
+this process is that permit terms are fixed once the
+permit is finalized and approved by the courts.
+Now, the reason we didn't challenge the
+permit at the time is that we were defending the permit
+alongside the State agency as an intervenor against
+Petitioner's challenge. Petitioner in State court for
+years made exactly the opposite argument that it makes
+here. It said that it was entitled to a safe harbor
+provision in the permit, to excuse it from liability,
+because it would be held responsible based on this
+in-stream monitoring.
+Now, there may be, as a -- as a technical or
+scientific matter, better monitoring programs, to
+determine who's putting in what and where exactly it is
+coming from, but that cannot be reopened upon an
+enforcement proceeding.
+JUSTICE GINSBURG: But how do -- the
+district is a big contributor, but there are other
+contributors. So, on your theory, how do we determine
+what is the share that the district would be liable for?
+MR. COLANGELO: Your Honor, the permit
+includes a blueprint that sorts that out, and it
+parallels the traditional notion of several liability.
+Where there are multiple contributors to a single harm,
+each is responsible for its share --
+JUSTICE KENNEDY: But you still have to show
+that there is a contributor. And I've been through
+these sections, and it seems to me that a reasonable
+interpretation of this section is that there is a
+violation if a particular permittee violates.
+And what I'm taking away from your argument
+is that, once there is a violation, all the permittees
+are liable, and that just can't be.
+MR. COLANGELO: It can be, Your Honor, and
+that's the -- that's the solution that the permit works
+out and that the permittees negotiated for in advance.
+JUSTICE SCALIA: What's the third section,
+Mr. Colangelo? I'm waiting breathlessly for your third
+section. You said there were three.
+(Laughter.)
+MR. COLANGELO: The third, Your Honor --
+JUSTICE SCALIA: I've got 195. I've got 98.
+Where is the third one?
+MR. COLANGELO: The third, Your Honor, is JA
+109.
+JUSTICE SCALIA: 109.
+MR. COLANGELO: And this parallels a
+provision in EPA's regulations.
+At the very bottom of JA 109, subsection D,
+it says, "The permittee shall carry out all inspection,
+surveillance, and monitoring procedures necessary to
+determine compliance and noncompliance with permit
+conditions."
+So the problem with Petitioner's theory is
+that they are violating this provision of the permit,
+which is taken virtually verbatim from EPA regulations,
+which says that the discharger has the responsibility to
+measure and report its own violations.
+And stepping back to talk about the Clean
+Water Act program, generally, and the discharge permit
+program, generally, no one is entitled to discharge
+without a permit; a permit fixes terms that must be
+complied with; and at the heart of the permitting
+program is self-monitoring and self-reporting of
+violations.
+CHIEF JUSTICE ROBERTS: Well -- Looking at
+109, it strikes me as a little bit circular to say ­ to
+say they have the responsibility to carry out inspection
+and surveillance and monitoring to ensure compliance with
+the permit, and their point is, well, we're not -- we're
+not not in compliance with the permit because you
+haven't -- there hasn't been an allocation of the
+discharges to them.
+MR. COLANGELO: Well -- and the problem with
+that, Your Honor, is that it leads to no liability ever
+for the discharger, even though it concedes --
+CHIEF JUSTICE ROBERTS: Well, I think that
+might be -- I think that might be right, but that gets
+back to the question of whether the permit is -- is
+poorly drafted.
+MR. COLANGELO: Right.
+CHIEF JUSTICE ROBERTS: And -- and I guess
+the idea is they're changing the permit so to -- to cure
+that problem.
+MR. COLANGELO: The permit has changed. It
+is not yet effective, Your Honor, but there is a new
+permit that will be in effect shortly. But on the
+question of whether --
+JUSTICE SCALIA: Well, why -- why do you
+need that if -- if the present permit covers it as
+clearly as you say? I mean self -- self-monitoring.
+MR. COLANGELO: That is absolutely --
+JUSTICE SCALIA: My goodness, you're going
+to go through all of this how many -- how long did it
+take you to challenge this and blah, blah, blah, blah?
+Why go through all that if, indeed, the present permit,
+as you say, is perfectly adequate?
+MR. COLANGELO: The present permit is
+adequate. The State agency renewed the permit. That's
+a matter of course. It changed the monitoring program.
+The point is that whatever monitoring the State agency
+sets and that the State courts uphold is the monitoring
+that determines compliance.
+JUSTICE GINSBURG: Well, would you still
+I'm not clear if you gave me an answer to how the
+district share would be determined. It is not the
+only polluter. Are you saying each permittee is
+responsible for the whole?
+MR. COLANGELO: No, Your Honor. That's
+joint and several liability. And here, JA 93, which
+Petitioner cites, says that each permittee is
+responsible only for its discharges. That's just --
+JUSTICE GINSBURG: So how do we find out
+what is its part -- what is its share?
+MR. COLANGELO: The permit sets that out.
+The permit says, once a violation is detected, each
+permittee has to go back upstream, conduct enhanced
+monitoring to identify the particular sources of
+pollution within its jurisdiction, control those
+sources, but only those within its jurisdiction, and
+continue that process until the problem is resolved.
+JUSTICE KENNEDY: Is that the 109 language
+you cite?
+MR. COLANGELO: No, Your Honor. That's at
+both 98, which I cited second, and page 213.
+JUSTICE BREYER: Okay. So the upshot would
+be, however, as I understand it, and correct me if I'm
+wrong, that since they're doing that now anyway under
+the new permit -- and you can question my hypothetical
+assumption there -- but if they are doing it under the
+new permit, then the only result of your winning this
+would be to transfer the running of the district from
+the agency to the court. And I suspect the Ninth
+Circuit knows less about it than you participating in
+a -- some kind of negotiation with the agency.
+MR. COLANGELO: No, not at all, Your Honor.
+The -- the Petitioner retains the authority and, indeed,
+the responsibility to identify the particular sources
+within its jurisdiction that are causing the problem and
+abating only those. So it is limited, in response to
+Justice Ginsburg's earlier question, only to its own
+share.
+There is no question that there are other
+contributors, but the permit doesn't impose a violation
+only upon the entity who is the sole cause. There
+are -- there are many polluters that discharge into
+these rivers. The permit specifically says it is
+unlawful to cause or contribute to a violation of water
+quality standards. So prohibiting a contribution
+assumes that there will be other contributors and that
+the Petitioner will not be the sole cause.
+CHIEF JUSTICE ROBERTS: Well, this is all
+fine and good. Your -- your friend, though, says you
+should have cross-petitioned because the relief you seek
+expands the judgment below, and there are all these
+cases saying you can't do that.
+MR. COLANGELO: Your Honor, the relief we
+seek would not expand the judgment below because the two
+rivers on which we lost are out of the case.
+CHIEF JUSTICE ROBERTS: Well, I understand
+that, but -- it seems reasonable, but they do cite a lot
+of cases that say you can't do that. You can't just
+sort of say, oh, I give up on the others because the
+judgment, I guess, is one whole, and you would be
+changing the judgment.
+MR. COLANGELO: Accepting this argument,
+Your Honor, would not change the judgment. The cases
+that Petitioner cites are all examples -- except for
+one, which I'll get to in a second -- where the
+Respondent was seeking to change the judgment, either in
+its favor or to get lesser relief, or where the result
+would necessarily have changed the judgment.
+Here, accepting this argument would not
+change the judgment.
+JUSTICE SOTOMAYOR: Why wouldn't it
+necessarily --
+JUSTICE GINSBURG: That's because you're giving
+up -- you're giving up on the two rivers, even though your
+theory would work the same way with respect to them?
+MR. COLANGELO: That's correct, Your Honor.
+And that's consistent with the cross-petition rule. A
+respondent who is satisfied with the result below and
+does not seek to change the judgment does not need to
+cross-petition. A cross-petition is only necessary --
+JUSTICE GINSBURG: But do you think that the
+trial court was wrong, the district court was wrong, and
+the Ninth Circuit, both times, when they said, well, you
+didn't prove -- there was no -- there was no proof that
+the district was responsible for a given part. So, on
+your theory, both the district court and the Ninth
+Circuit were wrong on that?
+MR. COLANGELO: On that legal question, Your
+Honor, yes. But this Court can affirm on any basis
+preserved below, and this was also preserved in our
+brief in opposition at the jurisdictional stage, as long
+as it would not change the judgment.
+And here's why it would not. Let me
+distinguish the Northwest Airlines v. County of Kent
+case, which Petitioner cites. That case presents, in
+fact, the opposite situation of what we have here. In
+that case, Respondent's argument, had it been accepted,
+would have required the district court to grant further
+relief in continuing proceedings on a claim that no
+longer existed because the Respondent's argument was
+that there was no private right of action at all.
+Our case is the opposite because, if the
+Court accepts our position, we simply don't get any
+further relief with respect to claims that are waived to
+which we would have been entitled. And the two cases
+that we've cited by letter last week both represent
+exactly that situation.
+JUSTICE SCALIA: Mr. Colangelo, did you
+raise this argument in your brief in opposition?
+MR. COLANGELO: Yes, Your Honor, we did.
+JUSTICE SCALIA: Where is it in that? I was
+looking for it.
+MR. COLANGELO: It's in two places in the
+brief in opposition, page 4 to 5, where we set out this
+compliance monitoring framework, and page 18 to 19.
+JUSTICE SCALIA: But that -- That may be,
+but you don't support -- and page what?
+MR. COLANGELO: Page 18 to 19.
+And then, again, in our supplemental brief,
+Your Honor.
+JUSTICE SCALIA: But you don't --
+MR. COLANGELO: At the cert stage.
+JUSTICE SCALIA: -- you don't say that
+that's the basis for supporting the decision below. I
+certainly didn't interpret it.
+MR. COLANGELO: We do -- let me just quote
+what may be the most explicit thing, Your Honor, which
+is at the very bottom of page 4 in our supplemental
+brief at the cert stage. "The Court of Appeals' ruling
+was both correct and equitable. Every Clean Water Act
+permit must include monitoring provisions ensuring that
+permit conditions are satisfied."
+And we lay out the compliance monitoring.
+That's 4 to 5 of our supplemental brief in opposition to
+cert.
+JUSTICE SCALIA: I don't have your
+supplemental brief in front of me.
+CHIEF JUSTICE ROBERTS: Where on 4 to 5?
+MR. COLANGELO: At the very bottom of page
+4, the last two lines, and the top of page 5.
+Final -- now, most of our supplemental brief
+and our brief in opposition were addressing why we did
+not think Petitioner's question merited this Court's
+review. This is the argument that we made in defense of
+the judgment below, "The Court of Appeals ruling was
+both correct and equitable. Every permit must include
+sufficient monitoring to determine compliance."
+JUSTICE SCALIA: Well -- but -- but that --
+that's just to say you can rely on -- on the extant
+monitors.
+MR. COLANGELO: Absolutely, Your Honor. And
+Petitioner's saying we're not --
+JUSTICE SCALIA: So you say -- you know,
+they were correct. You have to find some basis for
+liability, and they use the monitors, and that's it. It
+didn't -- it didn't say, in detail, that these people
+had to go and -- and set up their own monitoring
+under -- under the permit.
+MR. COLANGELO: Your Honor, that was the --
+that was our argument in the Ninth Circuit and at the
+cert stage, and that -- we do lay out exactly how the
+permit works. The point is that the permit imposes
+liability on the multiple dischargers --
+JUSTICE SCALIA: You -- you told this to the
+Ninth Circuit, and the Ninth Circuit said no?
+MR. COLANGELO: That's correct, Your Honor.
+That's correct. But we can -- we can defend the
+judgment on a basis, even one that the Ninth Circuit
+rejected.
+To go back --
+JUSTICE KAGAN: Mr. Colangelo, suppose we did
+what the Solicitor General says to do and vacated
+this. Can you think of any reason why the Ninth Circuit
+would change its mind? I mean, is there any connection
+between these two issues that you can point to, such
+that our making clear to the Ninth Circuit that they
+made a mistake on one actually would affect their
+analysis on the other?
+MR. COLANGELO: There is one reason, Your
+Honor, and that is that a permit is interpreted like a
+contract, and it is a cardinal rule of contract
+interpretation that a contract should be read where --
+where possible to be both lawful and enforceable.
+So the Ninth Circuit may go back down and
+say, okay, with this corrected understanding of the
+universe of law and facts that apply, we see that
+Petitioner's reading of the permit would render it
+unenforceable because none of the permittees can be held
+liable and, therefore, unlawful because the Clean Water
+Act requires all permits to include within it
+self-monitoring and self-reporting to demonstrate a
+violation.
+So the Ninth Circuit -- now, it may just --
+it may just say, we say what we said before. But it
+could reconsider on that basis, and that would be a
+legitimate basis for it to do so.
+To go back to the earlier question about
+where there is a discharge, there is no question that
+Petitioner discharges these pollutants to these rivers,
+so the only question for this enforcement proceeding is
+where to measure Petitioner's discharges for purposes of
+liability.
+JUSTICE KENNEDY: Why is there no -- where
+do I look to find out that the district is making a
+discharge of polluted water, other than under the Ninth
+Circuit's theory that it's in the river itself?
+MR. COLANGELO: Two places, Your Honor.
+First is that it's a premise for the permit itself. So
+if you look at page JA 55, it says the Petitioner
+discharges stormwater into these rivers. And then the
+very next paragraph shows that the Petitioner has done
+an assessment of the pollutants that are typically in
+its discharges, and it lists the ones that are now in
+violation here.
+So the permit, it didn't -- it came out of
+this administrative process, and one of the elements --
+JUSTICE KENNEDY: So is your theory that, if
+the district is permitted to -- on a scale of 1 to 10,
+to discharge up to 2, but that if the monitoring station
+in the river shows an 8, then it is automatically liable
+for the increase, even though other dischargees might
+have made this?
+MR. COLANGELO: Yes, yes, because --
+JUSTICE KENNEDY: I don't get that from what
+you have read. I've looked at --
+MR. COLANGELO: Your Honor, because --
+JUSTICE KENNEDY: -- the text you've read and
+it looks to me like it's permittee by permittee.
+MR. COLANGELO: It says that the MS4 is in
+violation, that's correct. But then it says each
+permittee must, when an exceedance is detected, take
+these steps. So here, what they have failed to do is
+take the necessary steps to apportion responsibility
+among the multiple contributors. The second place, just
+to finish on the -- on the proof that they discharge --
+JUSTICE SCALIA: Finish that. So what's the
+consequence of that?
+MR. COLANGELO: I'm sorry?
+JUSTICE SCALIA: Therefore, each one of them
+is liable for all of it?
+MR. COLANGELO: No, no, Your Honor. No.
+Each one is liable for what they put in and bears the
+burden to demonstrate and limit what it puts in. That's
+explicit in the permit.
+JUSTICE SCALIA: But they haven't done so.
+So what?
+MR. COLANGELO: So that's a permit
+violation, and result is that this pollution continues
+year after year after year, when the point of the permit
+and the point of the Clean Water Act was to eliminate
+what everybody agrees is the biggest source of water
+pollution in Southern California. And this --
+JUSTICE KENNEDY: So if each permittee is
+allowed to put in a 2, but one permittee puts in an 8;
+then both permittees are liable?
+MR. COLANGELO: Correct, Your Honor,
+unless -- because those facts are not known at the time
+the violation is detected.
+JUSTICE KENNEDY: No, no, we now know the
+facts because it's the hypothetical.
+MR. COLANGELO: Okay. So if the permittee
+has done its own monitoring, in addition to what the
+permit requires, and can demonstrate that it did not put
+anything in, then it is not liable. If not, then yes.
+Two dischargers into the same river who agree in advance
+to be measured by a single monitoring station in the
+river are liable for what's measured there, and then
+they sort it out.
+And what -- Congress set up a regime that
+would allow for system-wide and jurisdiction-wide
+permits precisely because this problem was so
+complicated.
+CHIEF JUSTICE ROBERTS: Are the
+provisions -- excuse me, the provisions we've been
+talking about, the three that you cited and the one that
+you're -- are they boilerplate? Do they show up in every
+typical stormwater permit?
+MR. COLANGELO: Well, 109 -- the fact that
+the permittees must conduct all monitoring to
+demonstrate compliance, if "boilerplate" means that they
+are in all permits, then, yes, because that's a
+requirement of EPA regulations.
+CHIEF JUSTICE ROBERTS: Yes. What about the
+one that says each permittee is responsible only for a
+discharge for which it is the operator?
+MR. COLANGELO: That's from a EPA
+regulation, too, yes. That's in the definition of
+"co-permittee" at 122.2; so, yes, that's also standard
+in system-wide permits.
+To go back to the earlier question about
+where there is a discharge, the district court found,
+and this is undisputed, at Petition Appendix 117, the
+permit admits -- the permittee, Petitioner, admits that
+it is discharging these pollutants, the ones measured in
+violation, to these rivers. So what we have is no
+question, no dispute that they discharged these
+pollutants, a monitoring system included in the permit
+that the State court upheld against Petitioner's
+challenge, showing that those limits have been exceeded.
+JUSTICE BREYER: Your basic argument is
+this permit requires you, L.A. County, to do monitoring,
+to decide if you're violating it. You chose this
+system, then common sense suggests you're doing it. You
+struck out twice with that argument --
+MR. COLANGELO: Yes.
+JUSTICE BREYER: -- in the other two rivers,
+and now, you're going to go back if we permit it, and
+we want to make the argument and tell the Ninth
+Circuit, three times and you're out; in this case, hold
+the opposite.
+MR. COLANGELO: Well -- yes. I'm not sure I
+would say we struck out, Your Honor; the --
+JUSTICE BREYER: That's what you want us ­-
+I understand it.
+(Laughter.)
+MR. COLANGELO: But correct, the lower court
+did not -- neither lower court accepted this argument
+fully. The Ninth Circuit did agree that all permits
+must include compliance monitoring, but it said you need
+a little more here. And we think that was improper
+because you can't add terms to the permit once it's been
+settled.
+And there was an earlier question, Justice
+Breyer, about could we sample from an individual
+outfall, could we show more? The problem with that is
+that it would prove nothing. The Petitioner has said,
+just sample from one outfall, one of our outfalls. We
+alleged 140 violations for a dozen different pollutants
+over a 5-year period. So sampling from a single outfall
+as an evidentiary matter would be utterly meaningless.
+JUSTICE BREYER: Couldn't you get some
+expert who understands --
+MR. COLANGELO: Well, we did, Your Honor, in
+district court as an alternative theory have an expert
+who said all of this came from them. The district court
+did not address that and we didn't appeal. The appeal
+was limited just to this legal issue.
+JUSTICE SCALIA: I don't understand why you
+didn't cross-appeal on -- on this theory that -- that
+the lower court rejected.
+MR. COLANGELO: Because, Your Honor, we were
+satisfied with the judgment; and that's the rule. A
+respondent who is satisfied does not need to
+cross-appeal, unless it is --
+JUSTICE SCALIA: I didn't say you need to.
+I didn't say you needed to. But I -- I would normally
+have done it, just to be sure I had that arrow in my
+quiver and that it would not be argued, as it will be
+here, that this would be expanding the judgment below.
+MR. COLANGELO: And the reason it would not
+be expanding the judgment below is that we are on the
+opposite side of what happened in Kent. To rule in our
+favor on this argument would just leave untouched two
+claims on which we didn't prevail.
+We'd get no further relief on those. It's
+like two co-plaintiffs in district court who both lose
+identical claims. One appeals, and the other doesn't.
+The one who appeals wins a reversal. That creates an
+inconsistency, two similarly situated plaintiffs, one
+has a valid claim, one no longer does. But that's the
+consequence of our failing to cross-petition.
+JUSTICE SOTOMAYOR: Do we have -- I just
+don't remember now. Do we have a circuit split on thi
+issue of whether a permit in a situation like this would
+impose liability on all permittees?
+MR. COLANGELO: No. No. There is no ­ I
+don't know of any other circuit court who has
+addressed -- that has addressed this question.
+And let me speak to -- to the issue of
+additional monitoring, putting the burden on plaintiffs
+to conduct additional monitoring. The problem is it
+creates a complicated factual dispute for district
+courts resolve -- to resolve, when that was exactly what
+Congress wanted to eliminate.
+When Congress adopted this permit program in
+the Clean Water Act and then amended it to bring
+municipal stormwater discharges under the program,
+Congress said, we do not want district courts to be the
+forum for sorting out all of these complicated factual
+issues.
+JUSTICE BREYER: I see. What do you think
+of the government's point? They are telling us, just
+write what you usually write, and then you can go make
+all your arguments, see what they do. Does that satisfy
+you?
+MR. COLANGELO: Your Honor, we would be most
+satisfied with an affirmance on the grounds we have
+presented. If the Court vacates, we would be satisfied
+with that, too, and then we would go back to the
+district --
+JUSTICE SCALIA: What if this panel found ­
+found for you on the ground that they used, they will
+surely find for you on this other ground, which --
+(Laughter.)
+MR. COLANGELO: Yes. We expect they would.
+JUSTICE SCALIA: -- which has at least an
+inkling of plausibility.
+MR. COLANGELO: Thank you, Your Honor.
+(Laughter.)
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Mr. Coates, you have 4 minutes remaining.
+REBUTTAL ARGUMENT OF TIMOTHY T. COATES
+ON BEHALF OF THE PETITIONER
+MR. COATES: Thank you, Your Honor.
+To the cross-appeal issue, the cases that we
+cite talk about the Court's prudential limitation on
+deciding questions that are not preserved by
+cross-petition. And I depart from my learned opponent,
+Mr. Colangelo, on that point as to what the Court's
+cases say. We cite the Northwest Airlines v. County of
+Kent case, and that is a case where, in fact, the
+respondent was not seeking to change the judgment below.
+They did not cross-petition. They were just trying to
+keep what they had.
+And the Court said we are not going to reach
+that issue because, if we buy the fact that there is in
+fact no private right of action, the effect of that is
+to essentially change the underlying judgment --
+JUSTICE BREYER: Let me ask a quick
+question.
+MR. COATES: Sure.
+JUSTICE BREYER: Does it satisfy you if we
+just write in the judgment what you -- we usually write,
+and then you all can argue what it means below? What
+about that? Does that satisfy? Or do you want us to
+write something special?
+(Laughter.)
+MR. COATES: It -- it's -- it's acceptable
+because a reversal is always better than an affirmance.
+But talking about what the Court decides and what's left
+in the case, I think it is a case where the Court
+reviews what the Ninth Circuit actually decided, what is
+actually before it, and what is properly remaining in
+the case because we don't believe the cross-appeal issue
+is here.
+And that leads, I think, to reversing the
+Ninth Circuit because the district is entitled to
+summary judgment on these two river claims. And I think
+that is all that's left in the case.
+And I call the Court's attention to another
+case we cited on the cross-appeal issue. It's one of
+the NLRB cases, the -- the Express Publication case.
+And it makes it very clear there, that the respondent
+was just trying to hang on so much of what was good
+about the order as he could keep and was not seeking to
+change anything. And, again, the Court said no.
+It basically undermines the entire basis for
+the --
+JUSTICE SCALIA: Did we use our usual
+language, and did it go back, and the -- and the court
+of appeals considered --
+MR. COATES: I think, in one of the cases,
+the Court --
+JUSTICE SCALIA: -- considered the issue we
+had refused to consider?
+MR. COATES: In one of the cases, the Court
+simply affirmed, and so it didn't go anywhere.
+JUSTICE SCALIA: Okay.
+MR. COATES: But --
+JUSTICE SCALIA: Don't we have two -- I
+don't know that we do this all the time. When we expect
+them to keep the case and do something different, don't
+we usually vacate and remand, rather than reverse?
+MR. COATES: Well, I do know that, in the
+context of a lot of the Court's opinions, the Court will
+specify that judgment be granted in terms of a party.
+I know the qualified immunity cases, you
+find someone's entitled to qualified immunity, and it
+comes up on a summary judgment, the reversal is -- to
+the Ninth Circuit. And I've seen both languages used,
+but it's plain, from the text of the opinion, the
+judgment is to be entered in favor of that party.
+And, again, I think that's appropriate here.
+My opponent suggests and the government suggests, again,
+that, let's go back to the Ninth Circuit and let them
+consider this monitoring argument. They considered it.
+In fact, they even considered the use of contract terms
+that -- that they urged them to consider again.
+It's already rejected that claim with
+respect to these two rivers that are in front of the
+Court. It's rejected it with respect to Malibu Creek
+and Santa Clara River, which is not in front of the
+Court. They even accepted it with respect to an entire
+different party with County of Los Angeles --
+JUSTICE SCALIA: But they might change their
+mind now. They might change their mind.
+MR. COATES: It would be a very odd judgment
+because you'd have two claims that are -- continue to be
+dismissed that are not properly before any court. Those
+close -- those are closed. And you have another party
+out of the case on the very ground that the Ninth
+Circuit rejected in the initial opinion.
+A sort of remand for some consideration of
+an issue that's already spoken on just doesn't seem to
+make sense and invites the very sort of kind of
+jurisdictional confusion that, I think, leads the Court,
+for prudential reasons, not to consider these things
+unless there's a cross-petition.
+I think that's why this is kind of a great
+example of why prudential reasons say you should not
+consider it.
+CHIEF JUSTICE ROBERTS: Well, I understand,
+and you do cite a lot of cases for that, but I can't
+figure out what sense it makes. I mean, if you're
+willing to give up Santa Clara and Malibu, you're --
+you're safe there, and that's the only thing you've won.
+Why does it -- how does that make sense?
+MR. COATES: Well, the Court does it for two
+reasons. It does it as a prudential matter because it
+does look odd to affirm on -- to make a decision in this
+Court on a ground that essentially repudiates the lower
+court decision. It does it for prudential reasons.
+And, in fact, the case they cite, LeTulle,
+which basically says the Court has the jurisdiction to
+do that -- when someone abandons the piecemeal claim --
+is cited only once in this context after that, and
+that's in the United States v. ITT Continental Baking
+case, 420 U.S. 223, footnote 2.
+And the court gives it a "but-see" for the
+proposition that you have the jurisdiction to do it.
+But then describes this exact situation and says, for
+prudential reasons, we don't do it because it undermines
+our cert jurisdiction, particularly if resolution of
+that issue is highly fact-specific -- the one they are
+trying to bring up -- and it would really foreclose
+having to even decide this cert issue because you
+wouldn't get to it.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+The case is submitted.
+(Whereupon, at 12:12 p.m., the case in the
+above-entitled matter was submitted.)
+35:3 admits 55:5,5 amount 7:3 16:2 24:17 26:13 background
+58:12 Angeles 1:3,17 39:15 40:14 bad 10:11
+64:18 affect 8:20 50:14 27:23 43:13 57:15 59:14 based 3:14 4:2
+42:25 63:22 26:24 arguments 25:19 27:20
+affirmance answers 39:2 58:21 28:11 29:11
+affirmed 61:19 44:11 ascribed 21:7 basic 55:12
+agency 8:5 appeals 25:4,9 asked 7:10 13:19 61:9
+62:20 43:7,9 44:16 29:1 30:11 30:13 31:22,24basis 23:4 29:21
+agree 4:4,5 57:19,20 61:13 assessment 48:11 49:16
+35:12 34:19 54:2 appellant's Assistant 1:19 bear 15:5
+41:18 56:5 17:14 assume 23:8 bears 22:11 53:4
+51:2 agreed 21:24 appendix 3:21 29:20,23 bedding 10:9
+58:13 24:6,6 26:18 9:8,10 16:24 assumes 45:8 behalf 1:18,22
+60:4 agrees 5:2 53:13 55:4 44:13 35:4 59:15
+59:22 applies 25:16 attention 61:2 believe 10:14,21
+8:17,18 42:5 approach 27:9 automatically 60:16
+54:7 appropriate a.m 1:15 3:2 28:19
+56:21 area 20:13 back 4:16 25:17 bit 41:25
+amicus 1:21 2:7 argument 1:14 51:9 55:2,19 body 4:3
+55:21 59:23,23 5:25 6:18,23 61:3 64:3 62:24 63:20
+41:7 61:1,3,4,24 8:10 9:5 14:25 46:1 47:7 Colangelo 1:22
+49:1 63:3,25 64:5 15:7,18,21,24 claim 5:9 47:11 2:9 35:2,3,5,19
+30:19 31:1 33:8,12 34:7 claims 4:20 40:4,17,21,24
+30:18,24 47:17 59:17,22 35:2,5,14 60:25 62:25 42:18,25 43:6
+32:15 61:4,14,18 41:24 42:10,15 Clara 62:19 43:17,23 44:7
+33:20 62:4 63:15 45:10,18 48:25 63:17 44:19 45:15,24
+44:9 cause 7:20 14:10 54:10,20 59:12 clarity 31:21 46:13,25 47:20
+45:3,6,9 63:14 64:15 Clean 3:12 4:2 47:22,25 48:5
+58:18 causes 7:22 choices 38:14 35:12 36:2 48:9,13 49:1
+causing 15:14 chose 36:7 37:24 41:17 48:17 49:13,21 50:3
+20:12 cert 3:21 16:24 circuit 3:11 4:8 58:13 52:10,13,16,25
+48:1,6 17:10 48:9,16 4:15,20 5:9 clear 4:19 17:9 53:3,9,18,23
+48:22 49:23 6:12 13:1,19 43:13 50:13 54:15,23 55:17
+64:10,13 14:13,24 21:24 61:5 55:23 56:3,20
+58:13 cert-worthy 28:8,15,16 17:13 35:18 58:23 59:7,10
+30:16 32:14 33:19,21 42:24 59:21
+58:7 55:11 50:21 51:5 Coates 1:17 2:3 31:19 62:6
+53:14 46:16 47:4 19:24 34:4 11:11,15,18,20 completely 3:24
+5:8 9:18 changing 42:16 10:17 17:24 18:4,8 41:10 42:2,4
+11:10,11 45:23 cite 19:10,12 18:25 19:2,6,9 43:11 48:2,20
+24:22 channelized 44:6 45:19 19:17 20:14 49:9 54:17
+26:8 3:14 20:15 59:18,22 63:15 21:15 23:25 56:6
+30:12 24:25 63:25 24:6,9,12 complicated
+33:21 channels 17:2 cited 16:23 59:13,14,16 38:6 54:9 58:9
+45:17 25:6 35:15 44:8 60:8,15 61:14 58:16
+35:24 contention 50:22 39:5,10 43:10 decided 60:19
+37:10 14:24 correlation 58:10,15 decides 60:17
+Continental counsel 24:15 61:2 62:2 26:4 48:11
+continue 44:4 59:12 64:15 covers 42:23 defend 35:7 50:4
+continues 12:24 25:22 54:25 defense 1:7 3:5
+47:11 55:13 59:22 co-plaintiffs definition 26:2
+50:18,19 62:14 couple 16:22 create 10:18 demonstrate
+8:14 10:2 45:6 32:11 37:12 creates 57:20 demonstrated
+17:2 contributed 43:8 58:9 36:8
+14:17 court 1:1,14 Creek 62:18 deny 34:19,20
+48:19 15:16 4:8 8:8 14:13 30:20 57:1,6 Department
+58:8 37:15 38:2 17:15 19:12 61:3 described 38:24
+58:11,12 contributor 25:3,9,12 31:16,19 34:12 23:21
+40:1,10 26:12 27:3,6 34:23 46:14,17 designed 8:7
+40:2,7 45:2,8 30:19 31:4,6 59:20,25 63:10 detected 36:23
+57:23 control 1:4 3:4 32:10,11,15 45:12 53:20
+63:9 37:4 44:2 39:14 44:16 curiae 1:21 2:7 11:1
+controls 9:24 46:19,19,23 24:18 determination
+correct 4:5,6,17 48:16 49:7 determine 38:1
+62:13 13:14,22 18:4 56:21,22 57:2 D 3:1 41:7 40:2 41:10
+18:4,8,25 19:2 57:18 58:4,25 deal 33:3 38:24 49:9
+46:14 34:1 36:16 61:8,12,15,18 December 1:11 43:14
+27:9 31:6 50:3,4 52:17 63:24 64:1,6 32:12 34:2 dictates 4:9
+16:2,4 12:14,25 19:24 D.C 1:10,20,22 EPA's 41:6 36:25
+18:2 55:6 equally 33:19 exceeded 55:11
+26:5 discretion 33:6 E equitable 48:17 excess 14:8
+31:25 34:4 E 2:1 3:1,1 49:8 26:16
+56:15 discussion 22:11 earlier 44:24 ergo 20:23 excesses 26:13
+62:21 dismissed 63:1 51:9 55:2 erosion 10:20 excuse 19:6
+31:18 easier 9:18 erroneous 25:10 exist 23:24
+4:1 5:9 22:9 55:8 58:9 effective 19:19 ESQ 1:17,19,22 expanding
+7:14 disputed 20:3 42:19 2:3,6,9,12 57:11,13
+8:7,23 distinction 17:3 either 29:12 essentially 9:2 expands 45:13
+10:13 17:7 37:13 38:25 12:6 23:2 60:5 expect 59:7
+15:16 distinguish 47:6 46:3 63:23 61:23
+20:18 distinguishes elements 52:3 establish 28:6 expected 7:17
+22:14 eliminate 53:12 established expert 18:13
+district 1:4 3:4 58:11 31:15,17 38:15 56:19,21
+25:4 8:8 9:15 14:13 emission 12:24 estimate 15:7 explained 38:4
+28:13 16:11 20:15,21 19:23 27:21 18:14 explicit 48:14
+36:14 21:7,11,12 28:11 37:24 et 1:8 37:17 53:6
+41:18,19 26:12 27:19 emissions 5:22 event 26:7 explicitly 37:25
+51:10,17 28:10,22 29:15 10:3 everybody 5:2 Express 61:4
+54:22 40:1,3 43:14 emphasized 53:13 extant 49:11
+44:15 46:19,22 3:18 evidence 8:8 extent 23:6
+17:3 51:16 52:5 endorsed 13:20 28:19 F
+55:8 55:3 56:21,22 enforceable evidentiary facilities 17:23
+59:2 60:24 enforcement exact 64:8 8:21 17:14
+41:15 19:8,15,17 39:24 51:12 36:22 39:15,22 21:24 47:8
+44:11,13 55:15 enhanced 43:25 47:19 49:23 54:15 59:23
+15:25 doubt 4:18 ensuring 48:18 example 5:19 63:25
+49:25 downplay 15:11 entered 32:11 14:12 30:6 facto 15:13
+downstream 62:9 63:12 factors 6:14
+8:12 dozen 56:15 62:20 exceedance 53:19,22
+11:8 15:1 drafted 42:13 entities 15:5 27:20 28:11 factual 16:18,22
+16:5 drains 18:15,21 entitled 39:16 37:15 38:9,11 58:9,16
+26:16,19 draws 17:4 41:19 47:17 52:18 fact-specific
+27:25 dredged 25:15 60:24 62:5 exceedances 64:11
+42:6 25:24 26:1 entity 45:3 5:16 7:21,22 failed 52:19
+51:11,13 dredging 25:16 envision 13:17 10:2 14:17 failing 57:23
+58:14 dry 10:10 EPA 35:12 15:14,17 16:14 fairly 30:17
+12:23 22:6 going 4:21 7:25 28:24 29:6 36:6 55:9
+30:12 free 32:12 26:2 29:1 31:12,15 33:1140:5
+62:9 front 30:21 43:1 55:19 37:21 39:3 57:21
+63:16 fully 32:17 56:5 good 31:5 38:21 41:2 42:8,19increase 52:8
+59:5 8:16 20:12 55:24 56:20 37:6
+G 58:19 57:3 58:23 individuals
+17:14 33:22 62:3 hypothesis 17:19,22 18:15
+38:8 41:19 36:3,21 58:24 inkling 59:9
+51:20 GINSBURG guess 42:15 I inspection 41:8
+Ginsburg's hang 61:6 imagine 10:17 interpretation
+45:21 63:17 harbor 39:16 immunity 62:4,5 50:19
+gives 64:6 hear 3:3 impose 30:10 intervenor
+22:19 36:11 39:18 50:25 impossible involving 30:20
+59:3,4 59:1 61:12,19 hold 28:10 29:15 include 48:18 9:20
+20:6 11:13,18,21 23:15 leave 27:5 38:13 located 25:3,7
+23:14 12:4,19 13:8 57:15 location 16:19
+25:2,21 13:11,16,23 K leaves 38:21 17:11,12
+27:9 14:1,4,7,20,25 KAGAN 50:8 led 34:19 locations 38:1
+30:16,21 15:7,18,21,24 keep 60:1 61:7 left 60:17 61:1 long 43:2 47:3
+16:15,16,16,17 61:24 legal 4:12,14 longer 47:12
+56:24 17:18,22 18:1 Kennedy 9:9,15 16:19,21 26:22 57:22
+59:17 18:5,10 19:1,4 10:4,16 11:2,9 27:23 46:25 look 5:19,21
+61:3 19:7,15 20:9 11:13 16:16,17 56:24 6:10,12 12:3
+63:6 21:3 23:21 20:9 40:9 44:5 legitimate 51:8 13:6 22:13,17
+24:4,7,11,15 51:15 52:4,11 lesser 46:4 22:22 34:8
+50:12 26:10 27:1,12 Kent 47:6 57:14 47:18 63:22
+27:14,22 28:5 59:23 LeTulle 23:17 looked 52:12
+know 7:6 9:6 liability 8:20 Los 1:3,17 3:4
+41:2,7 33:17,20,24 18:6 21:6 29:3 30:6 62:21
+51:21 34:7,11,14,22 23:17 28:15 34:20 35:11 lose 57:18
+43:18 35:14 36:10,17 53:21 58:4 42:8 43:18 lot 10:11 21:5
+32:1,7,10 38:3 39:25 known 53:19 58:2 63:15
+35:7 40:9,20,25 knows 18:14 liable 26:19,20 lousy 28:23
+41:4,24 42:10 44:17 27:20,24 28:10 lower 14:18
+46:3,5,7 42:15,22 43:1 28:22 29:15 17:15 20:14
+47:4 43:12,21 44:5 L 36:13 40:3,16 56:3,4 57:2
+50:5 57:4 44:9,24 45:10 language 4:25 51:1 52:7 53:2 63:23
+59:24 45:18 46:8,10 16:23 21:25 53:4,17 54:1,4 L.A 16:6 18:20
+46:18 47:20,23 22:24 44:5 light 31:20 55:13
+48:3,8,10,23 61:12 limit 7:10 53:5
+44:2,3,22 50:1,8 51:15 large 16:8 limitations 37:8 major 9:23
+52:4,11,14,23 largest 15:9 limited 25:22 making 21:11
+63:8 54:10,20 55:12 40:23 56:2 limits 37:11 Malibu 34:8
+54:7 56:18,25 57:7 law 35:12 50:23 line 26:4 32:16 manage 23:6
+4:10 5:2,13 59:3,8,12 60:6 lay 48:20 49:23 49:2 margin 16:14
+6:18,23 60:9 61:11,16 lead 34:20 lists 51:25 mass 5:22 10:3
+61:20,22 62:22 leads 42:8 60:23 litigation 39:6 12:24 19:23
+9:5,9,15 63:14 64:15 63:8 little 41:25 56:7 27:21 28:11
+misapprehend... 20:23 37:10 4:15,20,24 5:9 oh 24:4 45:21
+26:2 misimpressions MS4s 29:10 13:1,19 14:13 18:10,18 19:1
+39:21 misinterpreted 49:25 52:21 19:24 21:24 31:8 38:24
+56:17 16:20 municipal 15:22 26:18 27:8,16 44:9 50:22
+64:18 mistake 16:22 20:6 22:15,23 28:7,15,16 53:23 61:20
+10:19 13:13 18:20 30:4 44:16 46:20,23 39:9 40:15
+15:22 38:16,19 49:22 50:2,2,5 43:24 56:8
+19:18 monitoring 4:21 N 50:10,13,21 64:3
+42:24 4:22 5:15,16 N 2:1,1 3:1 51:5,17 55:20 ones 21:13 51:25
+63:16 5:19,20,22 6:3 natural 1:7 3:5 56:5 60:19,24 55:6
+12:13,15,16 17:6 noncompliance 27:6 33:18
+60:11 15:14 17:9,11 37:18 nonpoint 11:3 operator 9:14
+41:16 20:20,22 21:2 necessarily 9:25 57:8 opinion 4:24,25
+21:4,5 22:1,10 10:1,21,24 Northwest 47:6 17:10 19:24
+37:2 25:2,7 26:13 necessary 12:9 note 12:12 22:9 63:4
+55:6 26:23 27:19 15:13 41:9 noted 6:14 14:13 opinions 27:2
+33:20 42:2 43:8,9,10 57:8 17:25 opposite 35:18
+16:20 55:13 56:6 negotiation O 2:1 3:1 49:4
+24:23 58:7,8 62:13 44:18 objectives 36:25 oral 1:13 2:2,5,8
+26:4,8 monitors 11:24 neither 23:19 obligation 6:16 3:7 24:17 35:3
+moved 3:14,19 never 20:17 obtain 23:11 61:7
+moving 17:1 new 19:18 20:2 3:19 25:5 33:13
+12:8 15:2 17:5 38:16 42:19 17:6 31:25 32:6
+16:13 period 56:16 21:18 22:1 55:10 pollutions 11:4
+19:21,22 permit 4:2 5:15 26:15,18,20 phrasing 33:15 poorly 42:13
+25:7 5:17,21 6:2,15 27:23,24 28:10 piecemeal 64:2 portion 15:10
+7:4,10 8:1,3,17 28:19 35:16,24 place 37:2,22 20:15 24:25,25
+18:2 12:8,8,12,21 37:5,6,10,13 places 47:25 3:20
+12:23,24 13:17 37:16 40:13 51:19 position 8:16
+19:21 20:2,3,4 43:25 52:15,15 plaintiff 20:21 34:23 47:15
+24:2,7 55:5 57:21 58:7 50:20
+17:10 29:7,14,19,20 37:24 40:15,19 18:20 24:20 31:25 32:6
+36:9 29:21,22 30:5 50:25 53:17 35:6 PRATIK 1:19
+44:8 48:1 31:6,21 34:3,6 54:16 58:2 point 3:12 7:4,7 2:6 24:17
+34:21 35:10,11 permittee's 5:24 10:21,24 11:16 precisely 12:17
+51:21 35:17,20 36:6 8:7 20:19 35:19 22:7 54:8
+35:22 38:16 39:4,7,9 28:17 29:20 49:24 50:12 premise 25:10
+39:10,12,12,17 39:4 41:21 53:11,12 58:19 51:20
+41:13,18,20,20 35:13,15 pointed 20:24 42:23 43:4,6
+23:12 42:18,20,23 persist 37:1 24:24 24:21 26:8
+27:5 43:4,6,7,23,24 personnel 20:15 pollutants 7:1 58:25
+46:22 44:12,14 45:2 persuasive 9:22 10:1,2,12 presents 47:7
+49:8,20,24,24 pertinent 38:11 23:6 25:5 47:2 59:19
+27:16 52:2 53:6,9,11 Petitioner 1:5 55:9 56:15 30:6
+38:12 53:25 54:14 1:18 2:4,13 3:8 polluted 27:18 pretty 38:21
+44:1,21 55:5,9,13,19 32:11 36:7 28:13 51:17 prevail 57:16
+permits 12:22 44:20 45:9 43:15 13:12
+29:8,9 51:2 55:5 56:13 polluting 18:12 60:4
+56:5 Petitioners 32:8 pollution 9:17 probably 11:16
+21:14 8:22 9:12 41:12 49:5,14 13:21 16:9 41:12 42:7,17
+58:8 prudential raised 23:13 reiteration 14:9 47:10
+51:12 38:7 reach 60:2 release 33:13 requirements
+33:16 20:18 51:13 38:3 50:19 46:4 47:11,16 35:25 37:5
+put 7:24 9:16 52:12,14 57:17 requires 51:2
+39:4,9 53:4,16,25 50:24 rely 49:11 reserve 24:13
+52:3 puts 53:5,16 reads 9:4 remaining 59:13 resolution 64:10
+41:18,19 p.m 64:17 64:12 5:7 14:2,2 13:23,25 44:4
+43:8 reason 5:3 12:5 26:11 31:18 Resources 1:7
+Q 12:6 16:1 22:8 32:7 33:16 3:5
+37:1,16 45:7 40:11 45:19 remanding respondent 46:3
+8:11 10:5 63:21,24 64:9 remedies 18:11 Respondents
+63:1 24:21 26:8,22 receiving 37:7 57:25 14:20,22 17:15
+46:21 44:24 45:1 redeposited 19:11,21 22:2 response 44:23
+46:25 49:5 25:17 43:7 responsibility
+23:5 58:5 60:7 refused 61:17 reply 19:9 42:1 44:21
+questions 59:19 regard 17:7 report 41:16 52:20
+quiver 57:10 28:17,20 29:20 represent 47:18 8:23,25 9:3,13
+22:4 37:14 repudiates 26:16 35:16
+39:17 R regulation 54:24 63:23 36:12,14 39:18
+R 3:1 regulations require 24:8 40:8 43:16,20
+35:20 16:1,2 41:6,14 54:19 required 8:2 rest 33:3
+48:18 raise 25:21,22 regulatory 8:5 23:24 24:1 rested 25:9
+25:23 47:21 13:8,11,15 31:16 37:23 result 35:21
+44:14 6:23 7:2,8,13 says 8:11,15 seen 23:15 62:7 shut 6:20
+53:10 7:16,23 8:10 17:13 21:20 self 42:24 side 13:18 29:19
+57:20 19:15 24:15 37:25 41:8,15 self-reporting 47:15 61:19
+62:6 33:8,12 34:7 43:19,24 45:5 41:22 51:3 single 4:3 14:15
+35:2,14 41:24 51:21 52:16,17 34:15 56:16
+33:3 45:18 48:25 scale 52:5 sense 7:9 55:15 situated 11:24
+63:14 64:15 12:4,19 23:21 separate 11:3 situation 47:8
+rules 6:7,10 32:5 36:10,17 37:9 43:10,23 sole 45:3,9
+12:1,3 49:7 40:20,25 41:4 sewer 6:20 50:9
+18:5 running 38:22 42:22 43:1 15:23 solution 40:18
+30:13 44:15 47:20,23 48:3 Shah 1:19 2:6 someone's 62:5
+32:19,23 runoff 15:19 48:8,10,23 24:16,17,19 somewhat 20:21
+Ryerson 23:18 49:10,15 50:1 25:13,20 27:1 sorry 16:15
+47:13 52:23 53:1,7 27:13,16 28:4 34:16 52:25
+S 56:25 57:7 28:7,24 29:6 sort 4:11 26:6
+11:1 safe 39:16 63:18 61:16,20,22 30:9,15,23 54:5 63:5,7
+16:7,25 sample 14:16 62:22 31:2,12,15,23 sorted 39:3
+18:3 16:12 18:13,21 scientific 39:21 32:9,19 33:5 sorting 58:16
+24:25 56:11,14 Scofield 23:17 33:10,14,17,23 sorts 40:5
+28:2 sampling 56:16 season 10:10 34:1,10,13,16 Sotomayor 4:10
+51:18 San 3:13,15 second 18:18 34:24 35:1 5:2 13:8,11,16
+54:2,4 17:14 33:22 36:9 44:8 46:2 share 40:3,8 13:23 14:1,4,7
+62:19 Santa 62:19 52:21 43:14,22 44:25 14:20 16:15
+satisfied 46:15 25:23 26:1 shortly 42:20 18:5 26:10
+5:10 12:7 48:19 57:4,5 40:12,20,22 show 5:16 6:7 27:1,12,14,22
+17:14 58:24,25 sections 40:11 6:16 9:21,25 28:5 31:20
+25:3 satisfy 58:21 see 9:7 19:12 16:13,14 21:8 46:8 57:24
+33:19 60:9,12 22:24,24 28:25 35:18 40:9 sound 11:5
+37:3 saw 14:8 23:16 30:11 50:23 54:13 56:12 source 3:12
+46:11 saying 4:13 8:11 58:18,21 showing 8:20 10:22,23,25
+55:7 14:2 15:12 seek 29:21 45:12 21:12 55:11 11:3,17 18:7
+62:17 18:1,22 33:2 45:16 46:16 shown 26:17 20:19 26:3,21
+6:18 49:14 59:24 61:7 51:23 52:7 sources 7:5,24
+step 26:11 37:13 14:5 56:8 62:3,14 third 12:23
+19:22 25:5 surely 59:5 34:25 35:1 34:16 38:4
+storm 6:20 surveillance 59:10,12,16 three 22:5 23:2
+45:5 18:15,21 suspect 44:16 That's 46:10 40:22 54:12
+49:23 51:22 54:14 systemwide 12:8 51:18 52:4 times 46:20
+straightforward 23:4 54:7 55:1 thereof 18:21 TIMOTHY
+37:1 strikes 41:25 T thi 57:25 59:14
+struck 55:16,24 T 1:17 2:1,1,3 thing 17:16 told 50:1
+43:7,9 22:22 32:14 43:3 38:8,23 48:14 traceable 15:16
+55:10 subject 8:4 52:18,20 63:18 traditional 40:6
+23:19 subsection 41:7 talk 41:17 59:18 think 4:15,19 transferring
+64:4 sue 28:18 talking 10:19 5:4,8 6:9 10:19 21:1
+18:9 suggest 6:15 54:12 60:17 14:5 16:11 trial 46:19
+21:4 7:10 8:3 23:19 talks 5:21,22 18:11 19:12,20 Tribe 3:25
+52:6 suggestion 16:24 17:6 22:11,16 23:8 tricky 21:25
+20:11 22:17,23 36:22 23:10,17 24:9 true 29:22
+16:25 55:15 technically 26:7 27:3,8,16 14:14,15 16:13
+12:13,15 62:11,11 19:18 28:7 29:6,8,9 18:13 23:5
+16:19 sum 23:7 tell 11:25 26:10 29:16,18 30:15 38:14,23
+20:20 summary 60:25 55:20 31:2,4,5,23 trying 38:22
+21:2 62:6 telling 58:19 32:9,13 33:2,7 59:25 61:6
+25:2,7 supplemental tension 34:18 33:14,15 34:1 64:12
+36:24 48:6,15,21,24 termed 3:16 34:3 42:10,11 Tuesday 1:11
+49:3 terms 6:11,13 46:18 49:5 tune 22:7
+22:13,13 supporting 21:17,19 24:10 58:18 60:18,23 twice 55:16
+24:8 48:11 26:15 29:7 60:25 61:14 twist 4:13
+suppose 9:15 30:16 31:3 62:10 63:8,11 two 18:11,12
+38:14 55:10 36:6,8,23 38:2 38:18 39:6,15
+45:16 uphold 43:10 41:16,23 56:15 we're 24:3 27:3 you're 46:10
+47:17,25 upshot 44:9 virtually 4:5 31:24 34:9,14 54:13
+50:12 upstairs 15:6 41:14 38:12,13,24
+54:2 upstream 16:5 void 13:9,11 42:3,3 49:14 Z
+57:15,18 17:19,20 18:9volume 9:10,16 we've 9:6 20:18 Z 13:7
+60:25 43:25 15:9 24:6,6 47:18
+62:17,25 urged 62:15 54:11 1
+use 10:11 49:17 W willing 63:17 1 52:5
+usually 32:22 40:21 wish 8:24 109 41:3,4,7,25
+want 7:7 20:2,3 won 63:18 11th 19:21
+64:9 58:11 38:7,23 46:12 12:12 64:17
+10:6 v 1:6 3:5 23:17 Washington 49:24 1318 22:21
+45:18 23:18 47:6 1:10,20,22 worry 29:5 1342(a) 22:20
+63:14 59:22 64:4 wasn't 7:25 worth 22:16 1342(p)(3) 22:13
+27:17 61:25 4:2,3,3 6:17 11:16 34:12 1362 11:6
+50:22 vacated 25:11 9:16,21 12:9 64:14 140 56:15
+vacates 27:4 17:1 20:25 write 21:21 19 48:2,5
+vacating 32:1 24:24 25:17 58:20,20 60:10 36:20 40:25
+36:5,8 verbatim 41:14 36:2,3,25 37:1 written 21:19,22 2
+version 19:11 37:7,15 41:18 2 52:6 53:16
+28:16 51:1,17 53:12 2003 36:8
+44:11
+violated 5:17 watershed 34:10 wrote 8:17 213 44:8
+23:18 violating 41:13 way 9:6 11:6 X 24 2:7
+64:4 55:14 13:17 20:7 x 1:2,9 13:7 29 39:8
+36:21 40:13,15 30:11 38:20
+2:10
+51:4 52:1,17 website 17:11,13 Yeah 24:12
+1:11 9:8 17:10
+59:13
+25:23 26:1
+64:5
+3:21 16:24
+12:22 39:6
+56:16
+51:21
+2:13
+52:7 53:16
+39:7
+9:16
+9:8,11 35:15
+36:9,22,24
+44:8

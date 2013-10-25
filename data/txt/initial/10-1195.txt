@@ -1,0 +1,3950 @@
+                                    Official
+
+
+1           IN THE SUPREME COURT OF THE UNITED STATES
+
+2    - - - - - - - - - - - - - - - - - x
+
+3    MARCUS D. MIMS,                              :
+
+4                   Petitioner                    :
+
+5           v.                                    :     No. 10-1195
+
+6    ARROW FINANCIAL SERVICES, LLC.               :
+
+7    - - - - - - - - - - - - - - - - - x
+
+8                                Washington, D.C.
+
+9                                Monday, November 28, 2011
+
+10
+
+11                   The above-entitled matter came on for oral
+
+12   argument before the Supreme Court of the United States
+
+13   at 11:04 a.m.
+
+14   APPEARANCES:
+
+15   SCOTT L. NELSON, ESQ., Washington, D.C.; on behalf of
+
+16      Petitioner.
+
+17   GREGORY G. GARRE, ESQ., Washington, D.C.; on behalf of
+
+18      Respondent.
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+
+                                       1
+                           Alderson Reporting Company
+                                 Official
+
+
+1                           C O N T E N T S
+
+2    ORAL ARGUMENT OF                                PAGE
+
+3    SCOTT L. NELSON, ESQ.
+
+4       On behalf of the Petitioner                    3
+
+5    ORAL ARGUMENT OF
+
+6    GREGORY G. GARRE, ESQ.
+
+7       On behalf of the Respondent                    26
+
+8    REBUTTAL ARGUMENT OF
+
+9    SCOTT L. NELSON, ESQ.
+
+10     On behalf of the Petitioner                    55
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+
+                                    2
+                        Alderson Reporting Company
+                                    Official
+
+
+1                         P R O C E E D I N G S
+
+2                                                 (11:04 a.m.)
+
+3                CHIEF JUSTICE ROBERTS:                 We'll hear argument
+
+4    next this morning in Case 10-1195, Mims v. Arrow
+
+5    Financial Services.
+
+6                Mr. Nelson.
+
+7                ORAL ARGUMENT OF SCOTT L. NELSON
+
+8                     ON BEHALF OF THE PETITIONER
+
+9                MR. NELSON:        Mr. Chief Justice, and may it
+
+10   please the Court:
+
+11               The Federal question jurisdiction statute,
+
+12   28 U.S.C. section 1331, broadly grants Federal courts
+
+13   jurisdiction over all actions arising under Federal law
+
+14   unless Congress has provided otherwise.                That grant of
+
+15   jurisdiction encompasses rights of action that are
+
+16   created and governed by substantive Federal law.
+
+17               The Telephone Consumer Protection Act sets
+
+18   for forth such a right of action.             It provides detailed
+
+19   substantive standards, and it grants a private right of
+
+20   action to recover for their violation.                The TCPA permits
+
+21   that action to be filed in a State court if State court
+
+22   allows such actions, but it says nothing one way or
+
+23   another about whether the action may also be filed in
+
+24   Federal court.
+
+25               JUSTICE KAGAN:            Mr. Nelson, do you think
+
+
+                                       3
+                           Alderson Reporting Company
+                                    Official
+
+
+1    that there is a clear statement rule that applies when
+
+2    Congress attempts to divest a Federal court of
+
+3    jurisdiction over claims of this kind?
+
+4                   MR. NELSON:     Well, sometimes the Court
+
+5    has -- has talked about clear statement rules in terms
+
+6    like "Congress must make unmistakably plain."                 I'm not
+
+7    sure it rises to that level, but what the Court has said
+
+8    is that jurisdiction granted by statute exists unless
+
+9    Congress has affirmatively displaced it and that the
+
+10   Court is unwilling to -- to defeat jurisdiction by mere
+
+11   implication.
+
+12               So, I think it -- it may be something a
+
+13   little less than -- than what this Court has sometimes
+
+14   referred to as a clear statement rule, but it is a
+
+15   requirement that Congress act --
+
+16               JUSTICE SCALIA:           Do you have anything more
+
+17   than implication here?
+
+18               MR. NELSON:        No.        There -- there's not even
+
+19   implication here, Justice Scalia.             There's -- there's
+
+20   really nothing at all.
+
+21               CHIEF JUSTICE ROBERTS:                 You -- you'd have --
+
+22   the same private right of action that could be brought
+
+23   in State court without subsection 5 at all, right?
+
+24               MR. NELSON:        I -- I think that's very
+
+25   likely, Your Honor.      I mean, under -- under Tafflin, and
+
+
+                                       4
+                           Alderson Reporting Company
+                                 Official
+
+
+1    going back to the -- to over a century ago in Claflin,
+
+2    there's a presumption that concurrent jurisdiction over
+
+3    a transitory cause of action created by Federal law
+
+4    exists in State courts.     But as the Court pointed out in
+
+5    Tafflin, that -- that presumption has sometimes, as in
+
+6    the antitrust cases, been found to have been displaced
+
+7    by implication from Federal policy.
+
+8                CHIEF JUSTICE ROBERTS:              What is the basis --
+
+9    you assert that you could bring this -- bring a Federal
+
+10   cause of action in Federal court.
+
+11               MR. NELSON:     Pardon me?
+
+12               CHIEF JUSTICE ROBERTS:              You think that you
+
+13   can bring the Federal cause of action in Federal court.
+
+14               MR. NELSON:     Yes.       I --
+
+15               CHIEF JUSTICE ROBERTS:              What is -- what is
+
+16   the basis for -- putting aside jurisdiction, what is the
+
+17   basis for the Federal cause of action?
+
+18               MR. NELSON:     Oh, you mean the existence of
+
+19   the cause of action at all?
+
+20               CHIEF JUSTICE ROBERTS:              Yes.   Yes.
+
+21               MR. NELSON:     I mean -- the -- you know, what
+
+22   this Court has -- has, I think, said in its
+
+23   interpretation of statutes is that where a statute
+
+24   creates a right of recovery from A to B in a court under
+
+25   circumstances Y, that is a right of action.               And the --
+
+
+                                    5
+                        Alderson Reporting Company
+                                   Official
+
+
+1                 CHIEF JUSTICE ROBERTS:               But we -- we said
+
+2    that 40 years ago.    More recently, we've said that
+
+3    Congress must be fairly express in creating a private
+
+4    cause of action.   And my -- my concern is if you put it
+
+5    against that context, that our cases require fairly
+
+6    direct evidence, express evidence, that Congress meant
+
+7    to give a private right of action, in that context the
+
+8    existence of an express State cause of action or Federal
+
+9    cause of action that can only be brought in State court,
+
+10   the implication that there isn't one that can be brought
+
+11   on its own in Federal court is fairly strong.
+
+12                MR. NELSON:      Well, I think that's not
+
+13   correct.   I think, Your Honor, that that is actually
+
+14   confusing the concept of whether there's a right of
+
+15   action, which is a substantive right of recovery that
+
+16   can be pursued in a court, and the question of
+
+17   jurisdiction, which is in what court may that be
+
+18   brought.
+
+19                CHIEF JUSTICE ROBERTS:               Well, that -- I
+
+20   understand that -- that proposition.                Assuming that
+
+21   distinction is correct and that there is no
+
+22   free-standing Federal cause of action, what good does
+
+23   having Federal jurisdiction give you?
+
+24                MR. NELSON:      Well --
+
+25                CHIEF JUSTICE ROBERTS:               Because I take it
+
+
+                                      6
+                          Alderson Reporting Company
+                                  Official
+
+
+1    that at that point everybody can immediately --
+
+2    defendants can remove -- never mind.               Cross that off.
+
+3                 What benefit do you have if as soon as you
+
+4    file your action, everybody says congratulations, you
+
+5    have Federal jurisdiction, and you're kicked out of
+
+6    court because you have no cause of action?
+
+7                 MR. NELSON:     Well, what I'm saying, Your
+
+8    Honor, is that -- is that it is not in fact the case
+
+9    that there's no right of action.
+
+10                CHIEF JUSTICE ROBERTS:              No, no.   I'm
+
+11   assuming that we don't see a cause --
+
+12                MR. NELSON:     If there were no right of
+
+13   action that -- that is available somehow in Federal
+
+14   court, then, of course, it does no good to be in Federal
+
+15   court.   But that's not how the Court has -- has treated
+
+16   rights of action.   Limitations on the court in which a
+
+17   right of action can be brought are not part of the right
+
+18   of action.   They're matters of jurisdiction.
+
+19                JUSTICE ALITO:         Can Congress create a cause
+
+20   of action that does not arise under Federal law?
+
+21                MR. NELSON:     No, I don't really think it
+
+22   can.   Congress doesn't have the power to enact State
+
+23   law.   So, if Congress creates a cause of action and --
+
+24   and establishes Federal law that governs it, that is
+
+25   necessarily a cause of action that arises under Federal
+
+
+                                     7
+                         Alderson Reporting Company
+                                    Official
+
+
+1    law.
+
+2                   JUSTICE ALITO:         And there's no dispute that
+
+3    there is a cause of action here that was created by
+
+4    Congress; isn't that right?
+
+5                   MR. NELSON:     Yes, that -- that's correct.         I
+
+6    mean, you know, this is not an implied right of action.
+
+7    It's an express right of action.             Congress said in
+
+8    227(b)(3) that if this right is violated, you can
+
+9    recover X amount, $500 per violation or up to three
+
+10   times that much in the case of a willful violation.             And
+
+11   the question is simply whether by saying that it may be
+
+12   filed in State court, the court has -- that Congress has
+
+13   displaced the jurisdiction that would otherwise be
+
+14   available --
+
+15               JUSTICE BREYER:           All right.    So, the basic
+
+16   reason seemed to me that it might mean "may," and I'm
+
+17   following up on the Chief Justice here, who withdrew
+
+18   this interesting part of his question.             The -- the
+
+19   Congress seemed to want to have ordinary people be able
+
+20   to go into small claims court in a State and bring an
+
+21   action for $500 because they were pestered by these
+
+22   salesmen on the phone in violation of the Act.
+
+23               Now, if you're right, they could go into
+
+24   Federal court.    But so could the defense.           And so, any
+
+25   case they bring in small claims court, I guess, could be
+
+
+                                       8
+                           Alderson Reporting Company
+                                    Official
+
+
+1    removed, couldn't it?       And how is that -- am I right
+
+2    about that?
+
+3                   MR. NELSON:     It's theoretically possible
+
+4    that it could be removed --
+
+5                   JUSTICE BREYER:        Well --
+
+6                   MR. NELSON:     -- Justice Breyer, yes.
+
+7                   JUSTICE BREYER:        Well, why wouldn't they --
+
+8    I mean, you know, if they're really pests -- I'm not
+
+9    saying they're all pests; some might be.              But if they're
+
+10   pests and they want to drag it out, what they do is they
+
+11   just remove it from small claims court.              They tell their
+
+12   lawyer:   Remove everything, remove everything.             And so,
+
+13   what was Congress's objective, seemingly to provide a
+
+14   simple, clear, easy thing for the average American to do
+
+15   when he's pestered, suddenly becomes a major legal
+
+16   problem since the defense lawyer is instructed remove
+
+17   every case to Federal court.              Now, that's something
+
+18   that's bothering me.      So, I'd like to know what your
+
+19   response is.
+
+20                 MR. NELSON:      Yes, Justice Breyer.        Well,
+
+21   there are several -- several parts to the answer.              The
+
+22   first is that -- that the strategy itself is
+
+23   self-defeating.    If you have a $500 claim being brought
+
+24   by an individual in a small claims court, to pay a
+
+25   lawyer, to pay the filing fee to remove it --
+
+
+                                       9
+                           Alderson Reporting Company
+                                   Official
+
+
+ 1                 JUSTICE BREYER:        Oh, it's not
+
+ 2   self-defeating, because we keep it up, and the word will
+
+ 3   get around.
+
+ 4                 MR. NELSON:     Well, when you're --
+
+ 5                 JUSTICE BREYER:        And in case, by the way,
+
+ 6   anyone doubts it, before he even files it -- one of the
+
+ 7   things that we'll instruct our salesmen to say is:          If
+
+ 8   you sue us, we're going to remove it to -- you know,
+
+ 9   there are many ways of it getting around.
+
+10                 MR. NELSON:     Well, Justice Breyer --
+
+11                 JUSTICE BREYER:        Okay, what's the second?
+
+12                 MR. NELSON:     To begin with -- now I want to
+
+13   -- I want to -- I want to stay on this one because --
+
+14                 JUSTICE BREYER:        Okay.
+
+15                 MR. NELSON:     -- before I go on to the next
+
+16   one.
+
+17                 JUSTICE BREYER:        All right.
+
+18                 MR. NELSON:     The -- the reason that that
+
+19   strategy doesn't really work with respect to individual
+
+20   plaintiffs filing in small claims court is they're not
+
+21   necessarily -- in fact, they're most likely not going to
+
+22   be repeat players.    So, they don't have any real way to
+
+23   find out about it, absent -- absent the -- the
+
+24   telemarketer telling them in the phone call that you
+
+25   have a right of action, which seems even more unlikely.
+
+
+                                     10
+                          Alderson Reporting Company
+                                  Official
+
+
+ 1               JUSTICE KENNEDY:            I'm not sure I'm
+
+ 2   understanding your answer, because I have one of the
+
+ 3   same problems as Justice Breyer.            Of -- the design of
+
+ 4   this statute, from what I can infer what the
+
+ 5   congressional intent was, is for an individual person to
+
+ 6   be able to go into small claims court.            And the
+
+ 7   defendant will usually be the telephone company that
+
+ 8   wants to remove it to Federal court and, as
+
+ 9   Justice Breyer said, instruct the attorneys always go to
+
+10   Federal court; the word will get out.            And you're
+
+11   saying, oh, don't worry about that; that won't happen?
+
+12   That will happen.   That's exactly what's going to
+
+13   happen.
+
+14               MR. NELSON:      Justice Kennedy, I think that
+
+15   word getting out is very unlikely to happen if you're
+
+16   talking about the individual, uncounseled --
+
+17               JUSTICE KENNEDY:            Whether the word gets out
+
+18   or not, they will all go to Federal court.
+
+19               MR. NELSON:      But -- and I'd also --
+
+20               JUSTICE GINSBURG:           Do we have any
+
+21   information on the -- I mean, there are small claims
+
+22   courts in State court.     Is there any practice of
+
+23   removing $500 claims and paying much more than the $500
+
+24   that's at stake?
+
+25               MR. NELSON:      No.        No, Justice Ginsburg, and
+
+
+                                    11
+                         Alderson Reporting Company
+                                   Official
+
+
+ 1   that was the -- the second part of the answer --
+
+ 2                JUSTICE BREYER:         But is there any reason to
+
+ 3   think before you brought this suit that people thought
+
+ 4   they could remove it to Federal court?
+
+ 5                MR. NELSON:      Well, in fact, in the Seventh
+
+ 6   Circuit, defendants have been aware for the past 6
+
+ 7   years, I believe, that they can remove these claims to
+
+ 8   Federal court.    And the ones that have been removed are
+
+ 9   large class actions.
+
+10               JUSTICE GINSBURG:            In this -- in this case,
+
+11   could -- could this case have been brought in a small
+
+12   claims court?    Where does it come from?
+
+13               MR. NELSON:       It comes from Florida, Your
+
+14   Honor.   It could not have been brought in small claims
+
+15   court for two reasons.      The complaint on its face
+
+16   alleges 12 calls and more, and at -- at the $1,500,
+
+17   trebled -- the 500 trebled, that would far exceed the
+
+18   $5,000 jurisdictional limit of a Florida small claims
+
+19   court.
+
+20               The action also seeks injunctive relief,
+
+21   which is not available.
+
+22               JUSTICE BREYER:          All right.   Aside from the
+
+23   individual ones, what's actually worrying me, which I've
+
+24   tried to bring out, is I'm pretty certain Congress in
+
+25   this statute was trying to protect the average person
+
+
+                                     12
+                          Alderson Reporting Company
+                                     Official
+
+
+ 1   who can't afford a lawyer who is pestered with these
+
+ 2   calls.   That's their object.
+
+ 3                 And I can think that if you can bring this
+
+ 4   suit in Federal court, so can the defendants.
+
+ 5                 MR. NELSON:       And --
+
+ 6                 JUSTICE BREYER:          And, therefore, I think,
+
+ 7   gee, I'm not so sure about this.              They don't gain much
+
+ 8   advantage, the plaintiffs, by being able to go into
+
+ 9   Federal court, and there could be some advantage on the
+
+10   defense side to making things more complex, raising
+
+11   legal fees.    Okay?
+
+12                 So, that's where I am at this moment.           Now,
+
+13   I'm asking you this because I would like your best
+
+14   answer to disabuse me of this notion which cuts against
+
+15   your case.
+
+16                 MR. NELSON:       Well, I think -- I think the
+
+17   further thing that cuts against it, Justice Breyer, is
+
+18   you've received three amicus briefs on the other side
+
+19   from people who participate in the industry, and what
+
+20   they all say repeatedly is that there are tremendous
+
+21   benefits to both plaintiffs and defendants to being in
+
+22   small claims court in the truly small claims.
+
+23                 The defendant -- you know, if the defendant
+
+24   removes, it's the defendant that's going to be racking
+
+25   up the legal fees, not the pro se small claims
+
+
+                                       13
+                            Alderson Reporting Company
+                                   Official
+
+
+ 1   plaintiff.
+
+ 2                 CHIEF JUSTICE ROBERTS:              But why is that?
+
+ 3   Wouldn't the -- I think you're fighting Justice Breyer's
+
+ 4   hypothetical.    Wouldn't the -- I can imagine if you've
+
+ 5   got a, you know, small claim type case because you got
+
+ 6   the -- one of these calls, and the first thing you get
+
+ 7   is the notice of removal and this.                I mean, you're going
+
+ 8   to say forget about it; I'm not going to hire a lawyer.
+
+ 9   Right?    I mean, the idea is they would drop it right
+
+10   away.
+
+11                MR. NELSON:      Well, I mean, the -- the
+
+12   experience is, I think -- and there's an interesting
+
+13   article in a -- in a publication called the Consumer
+
+14   Finance Law Quarterly Report from the spring of 2002
+
+15   called "Defending TCPA Actions in San Diego Small Claims
+
+16   Court."
+
+17                And there are some repeat players on the
+
+18   plaintiffs' side in small claims court, and the advice
+
+19   that the author gives is, whatever you do, don't try to
+
+20   escalate with those people; don't even remove it up to
+
+21   the -- to the State court of general jurisdiction,
+
+22   because you're just going to find yourself in a morass;
+
+23   it's going to cost you the defendant much more money to
+
+24   move this claim out of small claims court.
+
+25                JUSTICE GINSBURG:           Could the -- could these
+
+
+                                     14
+                          Alderson Reporting Company
+                                    Official
+
+
+ 1   claims be brought in State court as class actions?
+
+ 2               MR. NELSON:        Well, that depends, Justice
+
+ 3   Ginsburg, on the State.        As the Court probably may
+
+ 4   recall, in the State of New York you probably couldn't
+
+ 5   bring this action as a class action because of --
+
+ 6               JUSTICE GINSBURG:             But you could remove it
+
+ 7   to the Federal courts, and then you could.
+
+ 8               MR. NELSON:        Right.       In Federal court, I
+
+ 9   think that although there's -- there's actually some
+
+10   disagreement among the courts of appeals on this point
+
+11   between the Second and Third Circuits over whether State
+
+12   procedural law would apply in Federal court, we think
+
+13   the best answer is Federal procedural law applies when
+
+14   the claim is brought in Federal court.             Then in some
+
+15   States, there has been a recent decision in New Jersey
+
+16   where a New Jersey court said that a class action was
+
+17   not superior for --
+
+18               JUSTICE GINSBURG:             But it's up to -- it's up
+
+19   to the State.
+
+20               MR. NELSON:        It's up to the State --
+
+21               JUSTICE GINSBURG:             Congress --
+
+22               MR. NELSON:        -- if it's brought in State
+
+23   court, Your Honor.
+
+24               JUSTICE GINSBURG:             Congress said you bring
+
+25   it according to your law and your rules of procedure.
+
+
+                                      15
+                           Alderson Reporting Company
+                                   Official
+
+
+ 1   So, the State could make it -- Congress may have been
+
+ 2   interested in the small claims court, but it certainly
+
+ 3   didn't limit the States to bringing -- to putting these
+
+ 4   claims in small claims court.
+
+ 5                MR. NELSON:      No.        And -- and in fact, number
+
+ 6   one, it probably couldn't.         Number two, the -- you know,
+
+ 7   the statute creates rights to recovery and a right to
+
+ 8   injunctive relief.    That's actually the first listed
+
+ 9   claim for relief that the private right of action gives
+
+10   you.   That is -- you know, injunctive relief claims are
+
+11   virtually by definition beyond the scope of -- of
+
+12   jurisdiction of small claims courts.               So, it created a
+
+13   right of action that in some instances would be
+
+14   appropriate for small claims court.
+
+15               And I think the incentives are that -- that
+
+16   those that are really truly small claims court matters,
+
+17   they'll be brought there, they'll stay there.               Those
+
+18   that are not, cases where it's worth litigating in
+
+19   Federal court or worth litigating in a State court of
+
+20   general jurisdiction and claims that may be possibly
+
+21   suitable for class action status will be brought in
+
+22   other types of courts, such --
+
+23               JUSTICE KAGAN:         Mr. Nelson, it's an odd
+
+24   provision, this little clause, "if otherwise permitted
+
+25   by the laws or a court of a State."               What -- what is
+
+
+                                     16
+                          Alderson Reporting Company
+                                  Official
+
+
+ 1   your account of that provision and what it's doing here?
+
+ 2               MR. NELSON:      Well, I think -- I think what
+
+ 3   it does is, principally, it displaces what would
+
+ 4   otherwise be the rule of Testa v. Katt, that --
+
+ 5               JUSTICE KAGAN:        And why did Congress want to
+
+ 6   do that?   I mean, you would think -- and this goes back
+
+ 7   to Justice Breyer's point -- you know, most of these
+
+ 8   claims, they're small claims, they typically are better
+
+ 9   situated in a State's small claims court, and yet here
+
+10   Congress says, well, the State doesn't have to entertain
+
+11   these, in which case they could only be brought in
+
+12   Federal court.
+
+13               MR. NELSON:      Well, it's not clear that it
+
+14   means, you know, how much freedom it gives them not to
+
+15   entertain them.   It may -- and again, you know, that's
+
+16   an issue that the -- that the State supreme courts are
+
+17   divided on, although it's a theoretical division at this
+
+18   point because no State has actually precluded these
+
+19   claims at this stage.
+
+20               But, you know, I think that, especially read
+
+21   against the backdrop of the general principle that,
+
+22   while States can't discriminate against Federal rights
+
+23   of action, they're also not required to create courts
+
+24   that have jurisdiction over them, that what this statute
+
+25   was intended to do was -- was recognize the flexibility
+
+
+                                    17
+                         Alderson Reporting Company
+                                  Official
+
+
+ 1   that the courts would have to define which courts and
+
+ 2   under which procedures it would entertain these actions.
+
+ 3               JUSTICE ALITO:        Well, if the State thought
+
+ 4   that its courts were just being overwhelmed by these
+
+ 5   cases, even the small claims courts, there were so many
+
+ 6   of them, would they be permitted to bar them completely?
+
+ 7               MR. NELSON:      That's a possible reading of
+
+ 8   the statute, Justice Alito.         That's what the Texas
+
+ 9   Supreme Court has held.      In fact, the Texas Supreme
+
+10   Court has held that the State has to affirmatively
+
+11   authorize them.   Other State supreme courts have said
+
+12   that what it means by "if otherwise permitted" is if
+
+13   there's a court of general jurisdiction that hears cases
+
+14   like this and we haven't affirmatively excluded them.
+
+15   And then some State supreme courts such as Illinois have
+
+16   said we don't even have the power to exclude them.              But
+
+17   I -- you know, that is one of the readings of the
+
+18   statute.
+
+19               But -- but what's clear is that the "if
+
+20   otherwise permitted" does mean -- mean something.
+
+21   It provides a statutory standard for when the action may
+
+22   be brought in a State court, which is a matter of --
+
+23   it's certainly not superfluous.
+
+24               CHIEF JUSTICE ROBERTS:               But is it just when
+
+25   the action can be brought in State court or when the
+
+
+                                    18
+                         Alderson Reporting Company
+                                  Official
+
+
+ 1   action can be brought at all?           It says you may bring an
+
+ 2   action -- and that's what I understood your basis for
+
+ 3   the Federal cause of action to be -- if it's permitted
+
+ 4   by the law or rules of -- of a court of that State.
+
+ 5                MR. NELSON:     Well, I think what it says is
+
+ 6   "may," may bring an action in the courts of that State
+
+ 7   if otherwise permitted.      And I think if you think about
+
+ 8   what the -- what reason Congress would have to put "if
+
+ 9   otherwise permitted by State laws or rules of court,"
+
+10   it's very unlikely that it would use that phrase to
+
+11   denote --
+
+12               CHIEF JUSTICE ROBERTS:               Yes.
+
+13               MR. NELSON:      -- when you have a right of
+
+14   action in Federal court --
+
+15               CHIEF JUSTICE ROBERTS:               What you can
+
+16   always --
+
+17               MR. NELSON:      -- as opposed to which State
+
+18   court you would go to.
+
+19               I'm sorry.
+
+20               CHIEF JUSTICE ROBERTS:               So, if -- could an
+
+21   individual -- you say there's a Federal cause of action
+
+22   in this case apart from the State cause of action that's
+
+23   provided.   Could that Federal cause of action be brought
+
+24   in State court even though the State cause of action
+
+25   could not be?
+
+
+                                    19
+                         Alderson Reporting Company
+                                   Official
+
+
+ 1                MR. NELSON:      Mr. Chief Justice, with all due
+
+ 2   respect, I don't think that this statute creates a,
+
+ 3   quote, "State cause of action."            It creates a Federal --
+
+ 4                CHIEF JUSTICE ROBERTS:               Right.   Let's say
+
+ 5   you have two --
+
+ 6                MR. NELSON:      -- Federal cause of action that
+
+ 7   may be brought in both State and Federal court.
+
+ 8                CHIEF JUSTICE ROBERTS:               Got it, got it.     But
+
+ 9   just to follow up.    The cause of action could be brought
+
+10   in both, except if the State courts say it can't be
+
+11   brought there.    The State cause of action can't be
+
+12   brought in State court because of this "if otherwise
+
+13   permitted," right?
+
+14                The Federal cause of action, though -- I
+
+15   thought the State courts couldn't discriminate against
+
+16   the Federal cause of action, any Federal cause of
+
+17   action.   So, you can sue in State court and say:               I'm
+
+18   bringing my Federal cause of action; so, the fact that
+
+19   you don't permit a State cause of action doesn't bar me.
+
+20                MR. NELSON:      Again, I think that the premise
+
+21   of the question is really not correct.
+
+22                JUSTICE GINSBURG:           This goes back to
+
+23   Justice Alito's point --
+
+24                MR. NELSON:      The statue does not create --
+
+25                JUSTICE GINSBURG:           Justice Alito said this
+
+
+                                     20
+                          Alderson Reporting Company
+                                  Official
+
+
+ 1   claim arises under Federal law; the substantive law that
+
+ 2   governs is not State law.
+
+ 3                MR. NELSON:     Exactly right, Justice
+
+ 4   Ginsburg.
+
+ 5                JUSTICE GINSBURG:          It's a --
+
+ 6                CHIEF JUSTICE ROBERTS:              But that's fine.
+
+ 7   That may be exactly right.        But the cause of action
+
+ 8   under subsection (3) asks whether or not this action --
+
+ 9   it provides an action that can be brought in State court
+
+10   if otherwise permitted, right?
+
+11                MR. NELSON:     It provides an action, says
+
+12   that that action may be brought in State court if
+
+13   otherwise permitted.    That is the creation of a Federal
+
+14   right of action over which State courts have
+
+15   jurisdiction if their laws otherwise allow.               It's not
+
+16   the creation of two causes of action, one State and one
+
+17   Federal.
+
+18                And that's why "if otherwise permitted" may
+
+19   give the States some leeway, maybe more than they would
+
+20   have under Testa v. Katt, to exclude them.               But it
+
+21   doesn't actually affect the availability of the action
+
+22   in Federal court.   Although even if it did, Chief
+
+23   Justice Roberts, in this case there has been no
+
+24   dispute --
+
+25                CHIEF JUSTICE ROBERTS:              What about --
+
+
+                                    21
+                         Alderson Reporting Company
+                                  Official
+
+
+ 1                MR. NELSON:     -- that this action is
+
+ 2   otherwise permitted by Florida law.
+
+ 3                CHIEF JUSTICE ROBERTS:              What about a
+
+ 4   diversity action?   You could not bring this action in
+
+ 5   State court because it's contrary to the law, the rules
+
+ 6   of the court of that State, but there's diversity.                 Can
+
+ 7   you bring that diversity action in Federal court?
+
+ 8                MR. NELSON:     Well, there's a -- there's a
+
+ 9   split in the circuits over that question at this point.
+
+10   But my answer is yes, because it's -- it's a Federal
+
+11   cause of action governed by substantive Federal law, as
+
+12   the -- as the Second Circuit's opinion in Gottlieb held.
+
+13   The implication of that is if there's any basis for
+
+14   jurisdiction, whether diversity or Federal question, you
+
+15   have the right of action in Federal court, and it's not
+
+16   contingent on whether State law allows the -- the right
+
+17   of action.
+
+18                JUSTICE SCALIA:        Well, how is that?          I mean,
+
+19   the description of the right of action is that it exists
+
+20   only if permitted by the laws or rules of court of a
+
+21   State.
+
+22                MR. NELSON:     I think, again, Justice --
+
+23                JUSTICE SCALIA:        That's --
+
+24                MR. NELSON:     Justice Scalia, that's --
+
+25   that's a description of the conditions under which it
+
+
+                                    22
+                         Alderson Reporting Company
+                                  Official
+
+
+ 1   may be brought in State court.          It's not --
+
+ 2                JUSTICE SCALIA:        What -- what is a
+
+ 3   description of the cause of action then?
+
+ 4                MR. NELSON:     The description of the cause of
+
+ 5   action is that if the statute is violated --
+
+ 6                JUSTICE SCALIA:        Where is it in the statute?
+
+ 7   I mean, I'm reading the section --
+
+ 8                MR. NELSON:     It's in --
+
+ 9                JUSTICE SCALIA:        -- that says -- under
+
+10   "Protection of subscriber privacy rights," subsection
+
+11   (5) is entitled "Private right of action," and the only
+
+12   right of action it describes is that a person who has
+
+13   received more than one telephone call -- blah, blah,
+
+14   blah -- "may, if otherwise permitted by the laws or
+
+15   rules of court of a State, bring in an appropriate court
+
+16   of that State" actions.      Now, even if you say that that
+
+17   cause of action is bringable in Federal court, why
+
+18   wouldn't it be still governed by the laws of a State?
+
+19                MR. NELSON:     Well, it -- it goes to the
+
+20   question again -- and back to my answer to Chief Justice
+
+21   Roberts -- of what you consider "if otherwise available"
+
+22   to modify.   And to me, I think the most natural reading
+
+23   is that it modifies "may bring in State court," because
+
+24   that is the only thing that it makes sense to have State
+
+25   rules of court affect.
+
+
+                                    23
+                         Alderson Reporting Company
+                                   Official
+
+
+ 1               JUSTICE SCALIA:          That's fine.        Then where is
+
+ 2   the creation of a private right of action bringable in
+
+ 3   Federal court apart from State laws?                Where does that
+
+ 4   exist in this statute?      I don't see it here.
+
+ 5               MR. NELSON:       It's in the section as a whole.
+
+ 6   I think you're looking at (c)(5).            (B)(3) is the one
+
+ 7   that's actually at issue here, but its -- its phrasing
+
+ 8   is the same.    It's at 10a in the blue brief.              And the
+
+ 9   Act -- the statute as a whole creates an entitlement to
+
+10   bring an action that yields certain recoveries.
+
+11               And, you know, this Court has never looked
+
+12   at statutory provisions that create rights of action and
+
+13   say they may be brought in particular courts.                It hasn't
+
+14   read the reference to "may be brought in the courts" as
+
+15   limiting the right of action.            In Tafflin, for example,
+
+16   the RICO statute says you may bring an action in Federal
+
+17   court to recover damages for a violation of
+
+18   that section.
+
+19               CHIEF JUSTICE ROBERTS:                Counsel, do you
+
+20   know -- do you know why the Solicitor General is not
+
+21   here defending the proposition that Federal law provides
+
+22   a Federal cause of action that can be brought in Federal
+
+23   court?
+
+24               MR. NELSON:       No, I don't know why.           They
+
+25   don't tell you, when they're not filing a brief, their
+
+
+                                     24
+                          Alderson Reporting Company
+                                    Official
+
+
+ 1   reasons why, Mr. Chief Justice.              I think --
+
+ 2                  JUSTICE GINSBURG:           Is it because the FCC
+
+ 3   once took a position that the action was limited to
+
+ 4   State courts?
+
+ 5                  MR. NELSON:     No, the FCC has never taken the
+
+ 6   position that it's limited to State courts.               They have,
+
+ 7   in a number of things that they have written about the
+
+ 8   statute, said in the words of the statute that an action
+
+ 9   may be filed in State court.              They have never stated one
+
+10   way or another a position on the question whether it may
+
+11   be filed in Federal court.          In the Charvat case, they
+
+12   did file an amicus brief in the Sixth Circuit, taking
+
+13   the position that the right of action created by the
+
+14   statute is in all respects governed by substantive
+
+15   Federal law.    They didn't say anything one way or
+
+16   another about whether the Sixth Circuit actually had
+
+17   jurisdiction.    It would seem kind of odd if they took
+
+18   the view that it didn't, that they wouldn't have
+
+19   mentioned it.    But --
+
+20               JUSTICE BREYER:           What happens --
+
+21               JUSTICE KENNEDY:              Could you clarify one
+
+22   point for me.    You indicated that no State has said that
+
+23   you cannot bring an action, and yet -- then you said
+
+24   that Texas said it has to be specifically authorized.
+
+25   Did the legislature of Texas specifically authorize it?
+
+
+                                      25
+                           Alderson Reporting Company
+                                    Official
+
+
+ 1                  MR. NELSON:     Yes, it --
+
+ 2                  JUSTICE KENNEDY:           Don't let me misstate what
+
+ 3   you said.
+
+ 4                  MR. NELSON:     It's -- the Texas legislature
+
+ 5   has enacted statutes that says a plaintiff may go to
+
+ 6   court and bring an action under the TCPA, in those -- in
+
+ 7   so many words, in addition to whatever right of action
+
+ 8   it may have under Texas law.
+
+ 9                  If there are no further questions, I'll
+
+10   reserve the remainder of my time for rebuttal.
+
+11                 CHIEF JUSTICE ROBERTS:               Thank you,
+
+12   Mr. Nelson.
+
+13                 Mr. Garre.
+
+14                 ORAL ARGUMENT OF GREGORY G. GARRE
+
+15                    ON BEHALF OF THE RESPONDENT
+
+16                 MR. GARRE:     Thank you, Mr. Chief Justice,
+
+17   and may it please the Court:
+
+18                 Whether this Court concludes that a
+
+19   12(b)(1) or a 12(b)(6) label is the better fit, it
+
+20   should hold that Congress did not intend for private
+
+21   TCPA claims to be brought in Federal court under 28
+
+22   U.S.C. 1331.    The private right of action that Congress
+
+23   expressed is distinct in three different and meaningful
+
+24   ways.   And if you look at the right of action, which is
+
+25   on page --
+
+
+                                      26
+                           Alderson Reporting Company
+                                  Official
+
+
+ 1               JUSTICE KAGAN:        Mr. Garre, you don't contest
+
+ 2   the background rule, do you, which is that when Congress
+
+ 3   creates a cause of action, there is Federal question
+
+ 4   jurisdiction unless Congress does something to divest
+
+ 5   the Federal courts of that jurisdiction?
+
+ 6               MR. GARRE:     We don't, and we haven't
+
+ 7   contested that the action here arises under
+
+ 8   Federal law.   But what you've got is the question of the
+
+ 9   interplay between two statutes, 1331 and the private
+
+10   right of action here, in the same way the Court has
+
+11   dealt with the interaction between section 1983 and
+
+12   other private rights of action, for example, the City of
+
+13   Ranchos Palos Verdes v. Abrams case.             And in that
+
+14   context, the Court hasn't said, oh, if it's covered by
+
+15   1983, of course you've got to bring it under -- you can
+
+16   bring it under 1983 unless Congress has unmistakably
+
+17   cleared that you can't.
+
+18               JUSTICE KAGAN:        But if you say, if you don't
+
+19   contest the background principle, then the question is
+
+20   whether Congress has clearly enough divested the Federal
+
+21   courts of jurisdiction over this case essentially by
+
+22   giving jurisdiction to the State courts.             And we've had
+
+23   a number of cases going the other way that suggest that
+
+24   you don't divest one court of jurisdiction by giving
+
+25   jurisdiction explicitly to another court.             And the
+
+
+                                    27
+                         Alderson Reporting Company
+                                    Official
+
+
+ 1   question here is why is this any different, and has
+
+ 2   Congress by granting jurisdiction to one court spoken
+
+ 3   with the kind of clarity needed to divest the Federal
+
+ 4   courts of their pre-existing jurisdiction?
+
+ 5                  MR. GARRE:    And all of those cases dealt
+
+ 6   with the constitutional presumption of concurrent State
+
+ 7   court jurisdiction.      And, of course, where the question
+
+ 8   is whether the -- whether the Constitution has been
+
+ 9   displaced, this Court has required Congress to speak
+
+10   with unmistakable clarity.          This case is the first case
+
+11   where this Court is confronted with the question of
+
+12   whether there's any similar presumption going the other
+
+13   way.   There's no constitutional foundation for that
+
+14   presumption.    It's just the interplay between statutes.
+
+15   And for that reason we think the section 1983 paradigm
+
+16   is more important.
+
+17                JUSTICE KAGAN:         But nobody has ever said
+
+18   that Federal question jurisdiction as granted by 1331 is
+
+19   some kind of junior sister when it comes to
+
+20   jurisdiction, is some kind of weaker jurisdictional
+
+21   default provision.     I mean, once Congress has granted
+
+22   Federal question jurisdiction by 1331, that's the
+
+23   background rule.    The Federal courts have jurisdiction
+
+24   in the same way that the background rule is that the
+
+25   State courts have jurisdiction.
+
+
+                                      28
+                           Alderson Reporting Company
+                                    Official
+
+
+ 1                  MR. GARRE:    Well, no.        The background
+
+ 2   rule -- the -- right.       There's a background rule
+
+ 3   provided by a statute which Congress can displace by a
+
+ 4   later enacted more specific statute, and then there's
+
+ 5   the background rule provided by the Constitution.              And
+
+ 6   our position is that usually when the Court talks about
+
+ 7   Congress displacing, disrupting the traditional balance
+
+ 8   of powers protected by the Constitution, it does require
+
+ 9   Congress to speak with unmistakable clarity.
+
+10                It doesn't apply that kind of presumption
+
+11   when you're talking about an earlier more general
+
+12   statute and a later more specific statute.             In fact, in
+
+13   that situation, the Court's general rule is that the
+
+14   later more specific statute trumps the earlier more
+
+15   general one.    And I don't think there's any reason to
+
+16   carve 1331 out, as venerable as it is.
+
+17                JUSTICE GINSBURG:            Mr. Garre, do you have
+
+18   any example, other than this statute which is odd -- is
+
+19   there any other example of a claim that arises under
+
+20   Federal law, as this does under Federal statute -- the
+
+21   substantive law is Federal -- that one may not bring in
+
+22   State court?
+
+23                MR. GARRE:      I can't cite you another
+
+24   example.   The Shoshone case is another anomaly.            It's a
+
+25   little bit different.       But I think -- I think the Court
+
+
+                                      29
+                           Alderson Reporting Company
+                                    Official
+
+
+ 1   should give credit to what Congress did here.                 And if
+
+ 2   you look at the right of action, it's distinct in three
+
+ 3   different ways.
+
+ 4                  First, Congress only spoke of bringing suits
+
+ 5   in State courts.     Petitioner hasn't identified another
+
+ 6   Federal cause of action where Congress has done -- done
+
+ 7   that.
+
+ 8                  Second, Congress modified the entire right
+
+ 9   of action based on "and otherwise permitted by the laws
+
+10   or rules of the court of a State."                 Under the rules of
+
+11   grammar, there's no question that that clause modifies
+
+12   the "may," not anything else that follows in the
+
+13   statute.
+
+14                And the third way it's distinct, Justice
+
+15   Ginsburg, is that Congress spoke of the limitations on
+
+16   State courts and State laws before it even expressed the
+
+17   violation.   In the typical way that Congress expresses a
+
+18   private right of action -- and I've looked at a lot of
+
+19   them in the last few days -- Congress talks about the
+
+20   violation, and then it at times provides as a
+
+21   descriptive matter where it could be brought.                Here, in
+
+22   the first --
+
+23                JUSTICE GINSBURG:            Is the law any different,
+
+24   the violation and the governing law, any different than
+
+25   if the Attorney General had brought suit or if the FCC
+
+
+                                      30
+                           Alderson Reporting Company
+                                  Official
+
+
+ 1   sought to enforce this law?         I mean, the substance of
+
+ 2   the law -- whoever sues, the Attorney General, the FCC,
+
+ 3   the Federal law that governs is the same, isn't it?
+
+ 4                MR. GARRE:    Well, I think there's separate
+
+ 5   provisions that allow the State attorneys general to go
+
+ 6   into Federal court, and the FCC has its own enforcement
+
+ 7   authority.   They aren't conditioned by this limitation.
+
+ 8   We're talking about this private right of action.
+
+ 9                JUSTICE GINSBURG:          But I'm talking about the
+
+10   claim of the -- the violation, the wrongful conduct is
+
+11   the same whether the Attorney General is suing, whether
+
+12   the FCC is enforcing.
+
+13                MR. GARRE:    I think the basic elements of
+
+14   the cause of action are going to be the same, but State
+
+15   law can limit the availability of that cause of action,
+
+16   the ability to bring it in a court.              And under -- for
+
+17   example, by a class action rule or just saying you can't
+
+18   bring those claims at all or statute of limitations.
+
+19                Petitioner's view is that a plaintiff can
+
+20   circumvent those limitations altogether, authorized by
+
+21   Congress in the most important clause of this private
+
+22   right of action, simply go into Federal court and be
+
+23   gone with those limitations.
+
+24                JUSTICE SCALIA:        Can --
+
+25                JUSTICE SOTOMAYOR:         Mr. Garre, what's the
+
+
+                                    31
+                         Alderson Reporting Company
+                                  Official
+
+
+ 1   logic of your position?      Congress does a whole study
+
+ 2   about how these harassing calls and e-mails and other
+
+ 3   things are to citizens, and all of a sudden it's going
+
+ 4   to limit the rights of those citizens to recover under
+
+ 5   the Act to those States that are going to say okay.           Why
+
+ 6   even bother passing a Federal law if it was going to
+
+ 7   give States the option to protect against this kind of
+
+ 8   conduct alone?
+
+ 9               MR. GARRE:     Well, it created a public
+
+10   Federal right.   Congress all the time creates Federal
+
+11   legal protections --
+
+12               JUSTICE SOTOMAYOR:          But generally it does.
+
+13   You've just admitted --
+
+14               MR. GARRE:     -- but it doesn't give private
+
+15   right of actions.
+
+16               JUSTICE SOTOMAYOR:          You've just admitted to
+
+17   Justice Ginsburg nowhere else has it created a Federal
+
+18   right with a private cause of action in which it's
+
+19   limiting the protections of the Federal law to those
+
+20   States that decide they want to do it too.          I mean,
+
+21   generally Congress creates a Federal right because they
+
+22   don't think the States are doing enough.
+
+23               MR. GARRE:     And there's no question that
+
+24   they would have a Federal right.           And, of course, this
+
+25   -- this private right of action is distinct.          My point
+
+
+                                    32
+                         Alderson Reporting Company
+                                   Official
+
+
+ 1   is only it's not unusual for Congress to create a
+
+ 2   Federal right and not provide a private right of action;
+
+ 3   for example, under the provision in Gonzaga v. Doe --
+
+ 4                 JUSTICE SOTOMAYOR:          Unquestionably.   But
+
+ 5   it's -- it is unusual for them to create a Federal right
+
+ 6   with a cause of action and then limit its application to
+
+ 7   those States that say it's okay.            I go back to my
+
+ 8   question --
+
+ 9                 MR. GARRE:    Well, it wouldn't --
+
+10                 JUSTICE SOTOMAYOR:         Why not simply say to
+
+11   the States, please, do something about this problem?
+
+12                 MR. GARRE:    I think that -- I would point
+
+13   you to the statutory findings and, if you thought it
+
+14   appropriate, look at Senator Hollings' statement as
+
+15   well.   And the reason why it makes sense is Congress is
+
+16   dealing with a situation that, when it acted, the vast
+
+17   majority of States had passed laws to allow consumers to
+
+18   deal with this problem at the State level.           They
+
+19   identified this interstitial void that Your Honor spoke
+
+20   about in your opinion on the Second Circuit, and
+
+21   Congress acted to close that enforcement loophole to
+
+22   authorize States to allow consumers to go after
+
+23   interstate calls.
+
+24                 JUSTICE GINSBURG:          Mr. Garre, was it really
+
+25   a loophole?    What would -- I mean, if this -- if conduct
+
+
+                                     33
+                          Alderson Reporting Company
+                                    Official
+
+
+ 1   -- if the telemarketers are calling from out of State,
+
+ 2   but the impact is in the State, the person who is being
+
+ 3   called, it seems to me that there certainly would be
+
+ 4   jurisdiction over the out-of-State tortfeasor who's
+
+ 5   doing something out of State that has this impact.             It
+
+ 6   targets the State, and it has its impact.
+
+ 7               MR. GARRE:       I've struggled over that, too,
+
+ 8   Justice Ginsburg, but the one thing I can say is that
+
+ 9   Congress perceived that enforcement gap that's
+
+10   identified in the statutory findings reproduced in the
+
+11   addendum here.   And Congress, you would presume, acted
+
+12   to fill the gap that it saw, and it did this by keeping
+
+13   it at the State level, keeping in mind that we're
+
+14   talking about something with an enormous potential for
+
+15   volumes of claims.
+
+16               JUSTICE BREYER:           Well, this is the part
+
+17   that's worrying me.      On your side, it's hard, and it's
+
+18   an unusual statute, but the -- certainly -- and I agree
+
+19   with you that the language of the statute suggesting a
+
+20   kind of reverse pre-emption, something like that, and
+
+21   certainly Senator Hollings' comment, and certainly the
+
+22   fact that they specifically provide for an attorney
+
+23   general to bring an action in State court suggests that
+
+24   they wanted the smaller private actions in State -- I
+
+25   mean, in Federal court -- in State court; that favors
+
+
+                                      34
+                           Alderson Reporting Company
+                                   Official
+
+
+ 1   you.
+
+ 2               All right.      But then I thought, as you were
+
+ 3   speaking, what about diversity jurisdiction?              And -- and
+
+ 4   I don't see why there wouldn't diversity jurisdiction in
+
+ 5   terms of trying to get these out-of-State people.              And
+
+ 6   if there's diversity jurisdiction, why in heaven's name
+
+ 7   would they want to say but there is no "arising under"
+
+ 8   jurisdiction?
+
+ 9               MR. GARRE:      Well --
+
+10               JUSTICE BREYER:          So, I'm -- so, I'm pushed
+
+11   the other way by that.      So -- so, what do you think?
+
+12   What do you think?
+
+13               MR. GARRE:      Well, ultimately, all of the
+
+14   Federal circuits that have grappled with this problem
+
+15   have concluded that recognizing diversity jurisdiction
+
+16   isn't fundamentally incompatible with saying there's no
+
+17   Federal question jurisdiction, for a couple of reasons.
+
+18               JUSTICE BREYER:          I know.      But why, if you
+
+19   were sitting in Congress and somebody did tell you --
+
+20   Senator Hollings apparently never thought of this -- but
+
+21   say to Senator Hollings, Senator, there will be
+
+22   diversity jurisdiction here.             And he, when he thinks
+
+23   about it, says, hey, great, that's wonderful, because
+
+24   these people are all in State A, and they're phoning
+
+25   people in State B.
+
+
+                                     35
+                          Alderson Reporting Company
+                                  Official
+
+
+ 1               Now, if that was his reaction, then someone
+
+ 2   would say what about "arising under" jurisdiction?               And
+
+ 3   what I'm thinking is, if I imaginatively put myself in
+
+ 4   his position, I think, huh, why not?
+
+ 5               MR. GARRE:     For two reasons, Justice Breyer.
+
+ 6               JUSTICE BREYER:         What?
+
+ 7               MR. GARRE:     The first is amount in
+
+ 8   controversy.   Diversity has an amount in controversy
+
+ 9   requirement of $75,000, which makes it more likely,
+
+10   where a plaintiff has that, it would be in a situation
+
+11   where it would incur the costs of an attorney and other
+
+12   expenses to go into Federal court.               Federal question has
+
+13   no amount in controversy after --
+
+14               JUSTICE BREYER:         That's true.       So, there's a
+
+15   "flooding the courts" problem.
+
+16               MR. GARRE:     Exactly, and the amount in
+
+17   controversy checks that.
+
+18               The second reason is that, to the extent
+
+19   that Congress created this unique Federal right and
+
+20   intended it to behave like State laws, as Judge
+
+21   Calabresi described it on the Second Circuit, then it's
+
+22   more natural to think of diversity jurisdiction allowing
+
+23   the Federal courts to entertain what is in effect a
+
+24   State cause of action than it would be for Federal
+
+25   question jurisdiction where you have the anomalous
+
+
+                                    36
+                         Alderson Reporting Company
+                                    Official
+
+
+ 1   situation of someone going into Federal court and saying
+
+ 2   I'm not bound by the State law limitations, for example,
+
+ 3   the limitation on the class action, because I can bring
+
+ 4   this Federal private right of action under Federal
+
+ 5   question for $500 wherever it is.             I mean --
+
+ 6               JUSTICE GINSBURG:             How about supplemental
+
+ 7   jurisdiction?   Which says it doesn't have an amount in
+
+ 8   controversy.
+
+ 9               MR. GARRE:       We would put that in the same
+
+10   category of diversity, which is to say -- I mean,
+
+11   ultimately, I think it -- particularly if you look at
+
+12   this as the private right of action, Congress did not
+
+13   express a private right of action for someone to go into
+
+14   Federal court here.      If this Court looked at it through
+
+15   the lens of its private right of action jurisprudence,
+
+16   the Court would say, I would think, you did not confer a
+
+17   private right of action to go into Federal court in the
+
+18   unique way that you express it here.
+
+19               If the question was, if this private right
+
+20   of action said you can sue an in-State company and a
+
+21   plaintiff came here saying, well, it says in-State but
+
+22   they didn't say you can't sue an out-of-State, this
+
+23   Court would say, no, Congress said in-State; we --
+
+24   that's the private right of action it created.
+
+25               JUSTICE GINSBURG:             But Congress -- Congress
+
+
+                                      37
+                           Alderson Reporting Company
+                                  Official
+
+
+ 1   also -- it made -- for attorney general suits, it said:
+
+ 2   And Federal court jurisdiction is exclusive.           So, it's
+
+ 3   given Federal court exclusive jurisdiction to adjudicate
+
+ 4   this claim, because the claim, as you -- I think as you
+
+ 5   recognize, is the same whether it's brought by the FCC,
+
+ 6   the attorney general, or private.           So, if you use the
+
+ 7   word "exclusive" there, it said nothing in this private
+
+ 8   right of action about the State courts being exclusive.
+
+ 9                MR. GARRE:    And I think on that -- I mean,
+
+10   first, it makes sense that they would authorize Federal
+
+11   jurisdiction for the State attorney generals' actions
+
+12   because they authorized the FCC to intervene there.            It
+
+13   also makes sense that they said "exclusive" there
+
+14   because there they were dealing with the constitutional
+
+15   presumption that State courts have concurrent
+
+16   jurisdiction unless Congress affirmatively says they
+
+17   don't.   This Court had decided Tafflin a year earlier.
+
+18   And so, it -- to give Congress its due, it would make
+
+19   sense if you presume they're aware of this Court's
+
+20   decisions, that it would say "exclusive" there.          The
+
+21   constitutional --
+
+22               JUSTICE ALITO:        You -- you seem to be
+
+23   arguing for a three-tier standard for displacing
+
+24   jurisdiction.   So, if Congress wants to make a Federal
+
+25   claim cognizable only in Federal court, it has to be
+
+
+                                    38
+                         Alderson Reporting Company
+                                    Official
+
+
+ 1   very, very clear.     If it wants to displace diversity
+
+ 2   jurisdiction, it doesn't have to be that clear, but
+
+ 3   maybe it has to be certain -- clear to a certain degree.
+
+ 4   If it wants to displace Federal question jurisdiction,
+
+ 5   it doesn't have to be nearly as clear.
+
+ 6                  MR. GARRE:    But we're not.
+
+ 7                  JUSTICE ALITO:       Well, what --
+
+ 8                  MR. GARRE:    We're certainly not arguing for
+
+ 9   a distinction between diversity and Federal question.
+
+10   And ultimately, if pushed, we would take the position
+
+11   that because Congress was clear it wasn't authorizing
+
+12   suit in Federal court, we think diversity should go,
+
+13   too.
+
+14               My response to Justice Breyer was that it --
+
+15   it's a closer call because of the -- the amount in
+
+16   controversy and the extent to which Congress created a
+
+17   right --
+
+18               JUSTICE SCALIA:           When there is suit in
+
+19   Federal court, let's say these attorney general suits,
+
+20   what are the suit -- what is the suit governed by?            Is
+
+21   it governed by State law?
+
+22               MR. GARRE:       I think it would be governed by
+
+23   Federal law.    I think to the extent there's a --
+
+24               JUSTICE SCALIA:           Well, I mean, I -- Federal
+
+25   law mirroring State law?
+
+
+                                      39
+                           Alderson Reporting Company
+                                   Official
+
+
+ 1               MR. GARRE:      No, because the -- the public
+
+ 2   right of action isn't conditioned the same way that the
+
+ 3   private right of action is.          And --
+
+ 4               JUSTICE SCALIA:          Well, it's the authority to
+
+ 5   enforce, right?
+
+ 6               MR. GARRE:      If you look at the public right
+
+ 7   of action, it's not --
+
+ 8               JUSTICE SCALIA:          Civil actions brought under
+
+ 9   the subsection.
+
+10               MR. GARRE:      Right.       The public right of
+
+11   action isn't brought under (b)(3), which is a private
+
+12   right of action.   And the anomalies arise when you think
+
+13   of allowing these claims in Federal court --
+
+14               JUSTICE SCALIA:          So, you have a different --
+
+15   a different -- a different law applied if -- and the
+
+16   State law limitations don't apply if it's a suit in
+
+17   Federal court by -- by an attorney general?
+
+18               MR. GARRE:      The State law limitations apply
+
+19   to the private right of action.           The Congress didn't
+
+20   say, here's the Federal --
+
+21               JUSTICE SCALIA:          I mean, it's so weird.     I
+
+22   can't understand that.
+
+23               MR. GARRE:      But, Your Honor, it's only weird
+
+24   if you say they can bring the private right of action in
+
+25   Federal court.    If you say that Congress meant these to
+
+
+                                     40
+                          Alderson Reporting Company
+                                  Official
+
+
+ 1   be limited to State court, it makes perfect sense.
+
+ 2   Congress was making clear:        States, you have authority
+
+ 3   to address this problem; you can address it under your
+
+ 4   own law and rules of court.
+
+ 5                JUSTICE KAGAN:       I think, Mr. Garre, what
+
+ 6   Justice Ginsburg and Justice Alito were suggesting, is
+
+ 7   that this is a momentous thing for Congress to do to, to
+
+ 8   deprive the Federal courts of jurisdiction over a cause
+
+ 9   of action that has been created by Congress and a cause
+
+10   of action that has Federal law as the rule of decision.
+
+11   The usual presumption is that, of course, Federal courts
+
+12   have jurisdiction over those matters under section 1331.
+
+13                And this is one peculiar way of divesting
+
+14   those Federal courts of jurisdiction.            Obviously,
+
+15   Congress knew how to write an exclusive jurisdiction
+
+16   statute.   It didn't here.      So, why should we give
+
+17   Congress the benefit of the doubt and sort of say, well,
+
+18   Congress must have had something else in mind, even
+
+19   though Congress didn't articulate that?
+
+20                MR. GARRE:    And if Congress has to say
+
+21   "exclusive," then we lose.        I'm not arguing otherwise.
+
+22   But I think our position is, is what Congress did here
+
+23   was unmistakably different and clear enough.            And the
+
+24   flip side of what you've just said is to say that
+
+25   Congress meant nothing when it went out of its way to
+
+
+                                    41
+                         Alderson Reporting Company
+                                  Official
+
+
+ 1   create what all agree is an extraordinarily unique
+
+ 2   private right of action.
+
+ 3               JUSTICE KAGAN:        No, I don't think that's
+
+ 4   right because this is not superfluous, because of the
+
+ 5   that provision that, you know, the Testa provision which
+
+ 6   says that State courts don't have to entertain this
+
+ 7   cause of action.   So, in the usual case, State courts
+
+ 8   would have to entertain this cause of action.            Here,
+
+ 9   Congress is saying, no, if they feel as though that
+
+10   would deluge State courts, they have an out.
+
+11               MR. GARRE:     And if Congress had intended
+
+12   that, Your Honor, I think the more natural way for it to
+
+13   have said would -- would have been something like, in an
+
+14   action brought in State court, it may be limited by the
+
+15   laws or rules of that court.            Here Congress cabined the
+
+16   entire right of action:      "may" comma -- subordinate
+
+17   clause which modifies the "may."           And there's just -- in
+
+18   any other case, I think, Your Honor, the Court would
+
+19   read the "if otherwise permitted" clause as modifying
+
+20   the "may" and, therefore, the entire right of action.
+
+21               JUSTICE SCALIA:         Can Congress create a
+
+22   Federal -- can Congress in effect delegate to the States
+
+23   the contours of a -- a Federal cause of action?           I mean,
+
+24   you keep talking about it as a Federal cause of action.
+
+25               MR. GARRE:     I think --
+
+
+                                    42
+                         Alderson Reporting Company
+                                  Official
+
+
+ 1                JUSTICE SCALIA:        But it's not really, if --
+
+ 2   if its existence or non-existence depends upon State
+
+ 3   law; or at least it depends upon State law, you say, if
+
+ 4   it's brought in State courts; however, if it's brought
+
+ 5   in Federal court by the Attorney General, you have a
+
+ 6   totally different law applying, a Federal law.
+
+ 7                MR. GARRE:    I think in the Shoshone case
+
+ 8   Congress created a right of action whose content was --
+
+ 9   was supplied by State law.        So --
+
+10                JUSTICE KENNEDY:           In which case?   I
+
+11   didn't --
+
+12                MR. GARRE:    The Shoshone Mining case.
+
+13   It's -- it's cited in our brief.
+
+14                JUSTICE KAGAN:       But that is not this case.
+
+15                MR. GARRE:    No --
+
+16                JUSTICE KAGAN:       Nobody thinks that that's
+
+17   this case.
+
+18                MR. GARRE:    No, but we're not saying that
+
+19   this case is on fours with that case, but I think it's
+
+20   an example where State law would fill the content of the
+
+21   Federal right.
+
+22                JUSTICE BREYER:        Well, why wouldn't the --
+
+23   the problem that Justice Scalia just identified or you
+
+24   were talking about suggest -- actually favor their side,
+
+25   that that "in conformity with State law" is talking
+
+
+                                    43
+                         Alderson Reporting Company
+                                   Official
+
+
+ 1   about procedure?
+
+ 2                 I mean, imagine that State law has a 2-year
+
+ 3   limitation period or a 1-year.           You see -- I don't know
+
+ 4   what the limitation period is here.               It may be longer.
+
+ 5   And so, what happens is where you go into -- if the
+
+ 6   attorney general brings the action, you're going to say
+
+ 7   it's 4 years, but if it's in a State court and a private
+
+ 8   person, it would be 1 year?          That doesn't seem to me to
+
+ 9   make sense.
+
+10                 It then seems to make sense if you interpret
+
+11   that provision as saying what court you could go into in
+
+12   the State.    If the State permits you to go to the
+
+13   superior court or the small claims court or the -- in
+
+14   other words, procedural rules.
+
+15                 MR. GARRE:    Well, and Congress didn't just
+
+16   say "procedure," it said "laws or rules of court of the
+
+17   State."
+
+18                 JUSTICE BREYER:        It did, but look what --
+
+19   well, how do you get out of the mess then -- what
+
+20   happens when the State attorney general brings an action
+
+21   in a Federal court, as he is permitted to do?              What
+
+22   statute of limitation or substantive rule do you apply?
+
+23                 MR. GARRE:    It would be the general 4-year
+
+24   Federal statute of limitations.           I mean, the way --
+
+25                 JUSTICE BREYER:        But that's now really odd
+
+
+                                     44
+                          Alderson Reporting Company
+                                  Official
+
+
+ 1   because we are then going to get different statutes of
+
+ 2   limitations, depending upon whether a State attorney
+
+ 3   general or an individual --
+
+ 4               MR. GARRE:     But it's not odd if you give
+
+ 5   effect to the language of (b)(3), which in a sense says
+
+ 6   we're going to leave this up to the States.                  Congress
+
+ 7   contemplated through this language that there could be
+
+ 8   50 different rules about how private TCPA claims would
+
+ 9   be brought in State court.        I think that's undisputed.
+
+10               The question is whether or not you --
+
+11   plaintiffs can just say I want out of that and go into
+
+12   Federal court, and conversely whether a defendant can
+
+13   remove any claim brought in State court --
+
+14               CHIEF JUSTICE ROBERTS:               I'm having --
+
+15               MR. GARRE:     -- into Federal court.
+
+16               CHIEF JUSTICE ROBERTS:               Im sorry.    I'm
+
+17   having trouble, Mr. Garre, figuring out what exactly is
+
+18   at issue here.   It seems to me that there are two
+
+19   possible views on it.     First is, is there Federal
+
+20   jurisdiction over one of these actions?               The second of
+
+21   all is, is there a private right of action apart from
+
+22   the one that can be brought under subsection (b)(3),
+
+23   which is one in State court?
+
+24               MR. GARRE:     Right.
+
+25               CHIEF JUSTICE ROBERTS:               Now, which -- which
+
+
+                                    45
+                         Alderson Reporting Company
+                                   Official
+
+
+ 1   are we supposed to decide?         I can see the Federal
+
+ 2   question jurisdiction issue being straightforward.
+
+ 3   Federal law creates this cause of action; therefore, you
+
+ 4   can say that it is -- under 1331, there's jurisdiction,
+
+ 5   but then you can't do anything once you're in Federal
+
+ 6   court because the private right of action is limited to
+
+ 7   State court.
+
+ 8                MR. GARRE:     And our position is ultimately
+
+ 9   both are at issue.    Certainly, the focus of this case
+
+10   has been on the jurisdictional question, which is the
+
+11   12(b)(1).   But if the Court thinks that there's Federal
+
+12   jurisdiction, then it should say the cause of action
+
+13   fails under 12(b)(6) because both arguments are based on
+
+14   the same exact statutory language.
+
+15               This Court has recognized, for example, in
+
+16   the Merrell Dow Pharmaceuticals case, that the
+
+17   availability of a private right of action intersects
+
+18   with jurisdiction.    The Court recognized the same point
+
+19   in the National Passengers Association case, 414 U.S.
+
+20   453.
+
+21               JUSTICE GINSBURG:            Let's go back to the --
+
+22   this -- this claim -- unlike the Shoshone Mining, this
+
+23   claim arises under Federal law.           There's no question
+
+24   about that, is there?
+
+25               MR. GARRE:      We don't dispute that, Your
+
+
+                                     46
+                          Alderson Reporting Company
+                                  Official
+
+
+ 1   Honor.
+
+ 2               JUSTICE GINSBURG:            Okay.   So, Federal law
+
+ 3   creates the cause of action, and when Federal law
+
+ 4   creates the cause of action, the rule has always been
+
+ 5   there's 1331 jurisdiction.
+
+ 6               MR. GARRE:     Unless a later-enacted statute
+
+ 7   precludes that rule.     And here the later-enacted statute
+
+ 8   doesn't win it --
+
+ 9               JUSTICE GINSBURG:            But the later-enacted
+
+10   statute doesn't say that Federal law no longer creates
+
+11   the cause of action.
+
+12               MR. GARRE:     The later-enacted statute
+
+13   creates the cause of action.            Federal -- 1331 doesn't
+
+14   create a cause of action.       It's jurisdictional only.
+
+15   They need to have a cause of action.
+
+16               JUSTICE GINSBURG:            You have jurisdiction
+
+17   when Federal law creates a cause of action.
+
+18               MR. GARRE:     Unless it has been displaced by
+
+19   a later-enacted provision.        And I --
+
+20               JUSTICE KAGAN:        Mr. Garre, do you have any
+
+21   examples of that, places where we've said Congress has
+
+22   divested the court of Federal question jurisdiction and
+
+23   by what means?
+
+24               MR. GARRE:     I don't have an example in 1331.
+
+25   I have do have section 1983, which I think is a perfect
+
+
+                                    47
+                         Alderson Reporting Company
+                                   Official
+
+
+ 1   parallel, because there you've got a venerable, general
+
+ 2   provision, section 1983, which is actually older than
+
+ 3   1331, and the question comes along from time to time
+
+ 4   whether a later-enacted Federal right can be enforced
+
+ 5   through 1983.    And the Court, in that context, says
+
+ 6   although we generally presume that you can go through
+
+ 7   1983, if there's a later-enacted specific enforcement
+
+ 8   mechanism, we give the facts of that --
+
+ 9                 JUSTICE KAGAN:       And how specific does it
+
+10   have to be?    I mean, how vague are we willing to go here
+
+11   and say, okay, Congress has done a good enough job
+
+12   because somehow we have some idea that they wanted these
+
+13   cases to end up in small claims court?
+
+14                 MR. GARRE:    I think, if you look at the City
+
+15   of Rancho Palos Verdes case, which I would encourage you
+
+16   to look at, I think it doesn't have to be nearly as
+
+17   specific as my friend is claiming.
+
+18                 I think you look at all signposts of
+
+19   congressional intent.      Here you've got the language
+
+20   which is unmistakably distinctive.                The State-law,
+
+21   State-court-focused.     You've got a structure of an act
+
+22   where Congress, when it wants concurrent jurisdiction or
+
+23   Federal jurisdiction, it says so.            It provides the rules
+
+24   for venue and what not.       You've got legislative
+
+25   statutory findings indicating that Congress both was
+
+
+                                     48
+                          Alderson Reporting Company
+                                    Official
+
+
+ 1   aware of the vast volumes of calls which could create
+
+ 2   potential claims, wanting to address a particular
+
+ 3   problem of an enforcement gap at the State level.                And
+
+ 4   then if you choose to look at it, you've got the
+
+ 5   legislative history of the sponsor of this very unusual
+
+ 6   provision saying --
+
+ 7               JUSTICE GINSBURG:             When Congress creates a
+
+ 8   Federal claim, it usually doesn't.                 I mean, the
+
+ 9   assumption is that it's going to be concurrent
+
+10   jurisdiction.
+
+11               MR. GARRE:       Yes, and we're not -- I mean,
+
+12   the question is whether or not that assumption should be
+
+13   displaced here, and we're saying that Congress's
+
+14   expressions of intent displace it here.                And, again, I
+
+15   think if Petitioner --
+
+16               JUSTICE GINSBURG:             Can we go back to your
+
+17   1983 example?   Because I was thinking about that, and
+
+18   you said, well, the later specific statute is another
+
+19   Federal statute.   You have -- Congress has another
+
+20   Federal statute that makes the more general 1983 not
+
+21   available because you have the more specific Federal
+
+22   statute.
+
+23               MR. GARRE:       And I think that's why the
+
+24   parallel seems apt to us here.             You -- instead of
+
+25   dealing with Congress displacing case -- State court
+
+
+                                      49
+                           Alderson Reporting Company
+                                    Official
+
+
+ 1   jurisdiction with constitutional presumption, you have
+
+ 2   an earlier-enacted Federal statute, 1331, and the
+
+ 3   later-enacted statute, the TCPA private right of action
+
+ 4   here.
+
+ 5                  JUSTICE SCALIA:        Yes, but the difference is
+
+ 6   that the 1983 cases don't deal with what this deals
+
+ 7   with, which is displacement of the jurisdiction of
+
+ 8   Federal courts.     And we are jealous of our jurisdiction,
+
+ 9   not only in the constitutional cases that you refer to,
+
+10   but in all cases.
+
+11               And I had thought that the general rule that
+
+12   you have to be clear when you take cases out of the
+
+13   Federal courts -- I thought that that applies not just
+
+14   where you're dealing with a constitutional jurisdiction
+
+15   but also where you're dealing with already-conferred
+
+16   statutory jurisdiction.        And why shouldn't I apply that
+
+17   presumption?
+
+18               MR. GARRE:       But I think this Court has a
+
+19   more generous attitude toward section 1983.          And I think
+
+20   in your opinion in the Rancho Palos Verdes case, you
+
+21   spoke of a rebuttable presumption that Congress doesn't
+
+22   mean to -- to displace section 1983, but yet you found
+
+23   it there because of a specific enforcement mechanism.          I
+
+24   think the enforcement mechanism here is much more
+
+25   specific and meaningful than even the one in the Rancho
+
+
+                                      50
+                           Alderson Reporting Company
+                                 Official
+
+
+ 1   Palos Verdes --
+
+ 2               JUSTICE SCALIA:        It didn't deal with the
+
+ 3   jurisdiction of Federal courts.         That's what gets our
+
+ 4   hackles up --
+
+ 5               MR. GARRE:     It did not --
+
+ 6               JUSTICE SCALIA:        -- when you're telling us
+
+ 7   we have been ousted of jurisdiction.
+
+ 8               MR. GARRE:     It did not --
+
+ 9               JUSTICE SCALIA:        We don't like that.
+
+10               (Laughter.)
+
+11               CHIEF JUSTICE ROBERTS:              Counsel, I -- we've
+
+12   been talking about where this provision fits, basically,
+
+13   into our general jurisprudence in this area.             But I've
+
+14   never seen a statute remotely like this before.             Is
+
+15   there any one, where you have a Federal -- where you
+
+16   have Congress creating a cause of action that can be
+
+17   brought in State courts unless the State court says it
+
+18   can't, saying nothing at all about whether there's a
+
+19   Federal cause of action?     This is the strangest statute
+
+20   I've ever seen.
+
+21               MR. GARRE:    We totally agree, but I think
+
+22   the important point from our perspective is either
+
+23   Congress meant what it said, and this Court should give
+
+24   effect to what it said in its very distinct and unusual
+
+25   way, or it's rendered, you know, largely meaningless,
+
+
+                                   51
+                        Alderson Reporting Company
+                                   Official
+
+
+ 1   except in the most generalized sense, because if
+
+ 2   Petitioner's right, you can bring a claim in State or
+
+ 3   Federal court.    The claim that you bring in Federal
+
+ 4   court is in no way limited -- limited by the laws or
+
+ 5   rules of a State court.       And all of the stuff that
+
+ 6   Congress said about the State courts and the
+
+ 7   State-law-focused language at the very beginning of its
+
+ 8   cause of action is meaningless, because Congress didn't
+
+ 9   have to say any of this to authorize people to go into
+
+10   State court under concurrent jurisdiction conferred by
+
+11   the Constitution.
+
+12               And our position is, is that this Court
+
+13   should give effect to the words in the private right of
+
+14   action, distinct as it is, that Congress created, and
+
+15   hold that Congress did not intend for plaintiffs to be
+
+16   able to bring -- to circumvent these limitations by
+
+17   going into Federal court under 1331.
+
+18               JUSTICE SOTOMAYOR:           Could you tell me why
+
+19   you seem to be taking somewhat contradictory positions?
+
+20   You seem to be conceding that this is not a Federal
+
+21   subject matter jurisdiction issue, but the scope of the
+
+22   cause of action that was created.            The judgment was on
+
+23   the basis of lack of Federal subject matter
+
+24   jurisdiction.    Aren't you trying to alter the judgment?
+
+25   And didn't you need to cross-petition to do that?
+
+
+                                     52
+                          Alderson Reporting Company
+                                 Official
+
+
+ 1               MR. GARRE:    Well, I probably wasn't clear
+
+ 2   enough, Justice Sotomayor.       Our position is that
+
+ 3   ultimately there is no Federal question jurisdiction;
+
+ 4   that although it arises under 1331, the specific
+
+ 5   provision here was never intended to be enforced through
+
+ 6   1331 and, instead, was only authorizing State courts.
+
+ 7               JUSTICE SOTOMAYOR:         So, you're saying that a
+
+ 8   State could, if it chose, say we're only going to award
+
+ 9   actual damages, not the $500 statutory --
+
+10               MR. GARRE:    No, I don't think the State
+
+11   could actually alter what Congress said.         It can -- it
+
+12   can alter, as Congress said, the ability to bring a
+
+13   right of action.
+
+14               Now, I do think this Court could affirm --
+
+15               JUSTICE SOTOMAYOR:         But it can.   It could
+
+16   choose not to enforce that Federal right of action.
+
+17               MR. GARRE:    And in that case, a private
+
+18   citizen would go to a State attorney general and say
+
+19   bring this action on behalf, or go to the FCC and bring
+
+20   an enforcement action.    There are public rights --
+
+21   public ways to enforce that.
+
+22               Just to be clear, we think this Court could
+
+23   affirm on the alternative ground of 12(b)(6), that there
+
+24   is Federal question jurisdiction, but this private right
+
+25   of action doesn't confer a right to go into -- into
+
+
+                                   53
+                        Alderson Reporting Company
+                                    Official
+
+
+ 1   Federal court.    My friend has said that that position
+
+ 2   has been waived.     Under 12(h) of the Federal Rules of
+
+ 3   Civil Procedure, we haven't waived 12(b)(6); we just
+
+ 4   haven't asserted yet.
+
+ 5                  It's clear that Federal courts can convert
+
+ 6   12(b)(1) motions into 12(b)(6) motions, and there'd be
+
+ 7   no reason for this Court to remand simply for us to
+
+ 8   assert a 12(b)(6) -- put a 12(b)(6) label on the same
+
+ 9   position that we would be back before the courts
+
+10   arguing, transforming judicial review into something
+
+11   close to a ping-pong game.
+
+12               JUSTICE ALITO:          Wouldn't that be the oddest
+
+13   creature that's ever been seen, a cause of action
+
+14   created by Congress that is not a claim arising under
+
+15   Federal law?    That's what you'd be saying.
+
+16               MR. GARRE:       No, it would be a claim arising
+
+17   under Federal law without a private right to bring it in
+
+18   Federal court.    And it would be odd, Your Honor, and our
+
+19   position -- we agree with our friends -- that this is an
+
+20   odd statutory provision.        We ask this Court to give
+
+21   effect to its language, which both sides agree is odd
+
+22   but, we think, points to the conclusion that Congress
+
+23   meant for these claims to be brought in State court and
+
+24   not in Federal court under Federal question
+
+25   jurisdiction.
+
+
+                                      54
+                           Alderson Reporting Company
+                                  Official
+
+
+ 1               JUSTICE KAGAN:        But I guess that's the
+
+ 2   question, Mr. Garre.     If both sides agree it's odd, and
+
+ 3   all nine Justices agree it's odd, I mean, I think we can
+
+ 4   say this statute is odd.      And the question is, where do
+
+ 5   we go from there?   And where -- you know, what's the
+
+ 6   default position?   If it's odd and we can't figure it
+
+ 7   out, the default position seems to be Federal courts
+
+ 8   have jurisdiction over Federal questions.
+
+ 9               MR. GARRE:     But I think that that
+
+10   deprives -- yes, it's odd, but it's odd in a way that
+
+11   one must presume that Congress actually meant what --
+
+12   what it was doing in several different ways here.              I
+
+13   think it gets to a point where you just can't presume
+
+14   that Congress didn't mean the impact of its words here.
+
+15   So, we would urge this Court to give effect to them.
+
+16               CHIEF JUSTICE ROBERTS:               Thank you, counsel.
+
+17               MR. GARRE:     Thank you, Your Honor.
+
+18               CHIEF JUSTICE ROBERTS:               Mr. Nelson, you have
+
+19   4 minutes remaining.
+
+20             REBUTTAL ARGUMENT OF SCOTT L. NELSON
+
+21                 ON BEHALF OF THE PETITIONER
+
+22               MR. NELSON:      I want to start where Justice
+
+23   Kagan left off, which is the presumption of the
+
+24   existence of Federal jurisdiction unless Congress
+
+25   affirmatively displaces it.
+
+
+                                    55
+                         Alderson Reporting Company
+                                  Official
+
+
+ 1               My friend suggested that that may not apply
+
+ 2   or may not apply as strongly when we're talking about
+
+ 3   Federal statutory jurisdiction and specifically 1331.
+
+ 4   But this Court's decision in Colorado River, cited in
+
+ 5   our reply brief, says exactly the opposite:               that a
+
+ 6   subsequent more specific Federal statute does not
+
+ 7   displace the general grant of Federal jurisdiction under
+
+ 8   1331, absent -- absent some clearer indication than the
+
+ 9   mere existence of an optional State court jurisdiction
+
+10   over the claim.
+
+11               As to the oddness of the statute, a point on
+
+12   which we all seem to now agree, the point I would make
+
+13   there is I think that Respondent's position makes this
+
+14   statute even odder, because it suggests that somehow
+
+15   "may" means it may only be brought in Federal court, yet
+
+16   it doesn't mean it may only be brought in Federal court
+
+17   if there's diversity or 1367.
+
+18               But as Judge Easterbrook said in Brill, if
+
+19   "may" really means "may" only, then it wipes out
+
+20   diversity and 1367 as well.
+
+21               CHIEF JUSTICE ROBERTS:               Are you arguing only
+
+22   about "arising under" jurisdiction or are you arguing
+
+23   also about a Federal cause of action that can be brought
+
+24   in Federal court?   In other words, I am trying to figure
+
+25   out what we're being asked to decide in this odd case.
+
+
+                                    56
+                         Alderson Reporting Company
+                                   Official
+
+
+ 1   I understand the idea -- and I'm sorry to take up your
+
+ 2   time -- I understand the idea that this is a Federal
+
+ 3   question because it's created by a Federal law.
+
+ 4                 Can you go -- get into Federal court, and
+
+ 5   then we'll have another case about whether you can bring
+
+ 6   a cause of action there?
+
+ 7                 MR. NELSON:     Well, I certainly hope not,
+
+ 8   Your Honor.    I mean, I think if you look at what the
+
+ 9   question presented is and what the judgment below is,
+
+10   it's a question of subject matter jurisdiction, a
+
+11   12(b)(1) dismissal, and a question presented as to the
+
+12   existence of 1331.    But, you know, our point is not to
+
+13   get people into Federal court so that they can be told
+
+14   that they have no right of action.                And the answer to
+
+15   that point is that the -- the reference to State courts
+
+16   in the provision is not a limitation on the right to
+
+17   recovery.
+
+18                 Congress often actually creates rights of
+
+19   action that refer to a particular court.                It's -- it's
+
+20   the Federal court in -- in every case but this one.                But
+
+21   as in RICO, as in the Carmack Amendment that was the
+
+22   subject of the 1912 case of Galveston, Harrisburg, and
+
+23   San Antonio Railway cited in our briefs, where the
+
+24   Carmack Amendment said that persons damaged might make
+
+25   complaint in any circuit or district court of the United
+
+
+                                     57
+                          Alderson Reporting Company
+                                  Official
+
+
+ 1   States.   And the Communications Act provisions that we
+
+ 2   cite on page 10 of our reply say people have certain
+
+ 3   rights to recover, and they may bring them in Federal
+
+ 4   court.
+
+ 5               But those references to the courts have
+
+ 6   never been considered to be a limit on the right of
+
+ 7   action.   Creating the ability to go into a court and
+
+ 8   obtain a recovery creates a right of action, and it's
+
+ 9   transitory; it can be brought in any court of competent
+
+10   jurisdiction.   And the reference in the statute to a
+
+11   court that has jurisdiction over it does not mean that
+
+12   the -- that the cause of action somehow does not exist
+
+13   outside of that court.
+
+14               The cause of action exists, and the question
+
+15   is, is whether there's a jurisdictional basis.          And
+
+16   that's practically at this point, I think, been
+
+17   conceded, that this statute arises under Federal law.
+
+18   And there's really no indication whatsoever that merely
+
+19   by saying "may" be brought in State court, that Congress
+
+20   intended to displace Federal jurisdiction or to create a
+
+21   right of action that, uniquely among Federal rights of
+
+22   action, is only available in the State court.
+
+23               Now, it's true, "may" -- or "if otherwise
+
+24   permitted," as my friend said, modifies "may," but it
+
+25   doesn't just modify "may" in isolation.          It's "may"
+
+
+                                    58
+                         Alderson Reporting Company
+                                   Official
+
+
+ 1   what?   May if otherwise permitted bring an action in
+
+ 2   State court.   So, the "if otherwise permitted" modifies
+
+ 3   the conditions on which the action may be brought in
+
+ 4   State court.   But it really makes no sense whatsoever to
+
+ 5   import State court rules into whether the action is
+
+ 6   available in a Federal court.
+
+ 7               Now --
+
+ 8               JUSTICE SCALIA:          Except that that's the only
+
+ 9   section that creates a private right of action.
+
+10               MR. NELSON:       That's right.          The private
+
+11   right of action is created, but the private right of
+
+12   action is not contingent on that "if."               It's the ability
+
+13   to bring it in State court.
+
+14               CHIEF JUSTICE ROBERTS:                Thank you, counsel,
+
+15   counsel.
+
+16               The case is submitted.
+
+17               (Whereupon, at 12:04 p.m., the case in the
+
+18   above-entitled matter was submitted.)
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+
+                                     59
+                          Alderson Reporting Company
+                                            Official
+                                                                                            60
+
+        A             36:24 37:3,4     agree 34:18 42:1     1:14             attorney 30:25
+ability 31:16         37:12,13,15,17     51:21 54:19,21   application 33:6     31:2,11 34:22
+  53:12 58:7          37:20,24 38:8      55:2,3 56:12     applied 40:15        36:11 38:1,6
+  59:12               40:2,3,7,11,12   Alito 7:19 8:2     applies 4:1          38:11 39:19
+able 8:19 11:6        40:19,24 41:9      18:3,8 20:25       15:13 50:13        40:17 43:5
+  13:8 52:16          41:10 42:2,7,8     38:22 39:7       apply 15:12          44:6,20 45:2
+above-entitled        42:14,16,20,23     41:6 54:12         29:10 40:16,18     53:18
+  1:11 59:18          42:24 43:8       Alito's 20:23        44:22 50:16      attorneys 11:9
+Abrams 27:13          44:6,20 45:21    alleges 12:16        56:1,2             31:5
+absent 10:23,23       46:3,6,12,17     allow 21:15 31:5   applying 43:6      author 14:19
+  56:8,8              47:3,4,11,13       33:17,22         appropriate        authority 31:7
+account 17:1          47:14,15,17      allowing 36:22       16:14 23:15        40:4 41:2
+act 3:17 4:15         50:3 51:16,19      40:13              33:14            authorize 18:11
+  8:22 24:9 32:5      52:8,14,22       allows 3:22        apt 49:24            25:25 33:22
+  48:21 58:1          53:13,16,19,20     22:16            area 51:13           38:10 52:9
+acted 33:16,21        53:25 54:13      already-confe...   arguing 38:23      authorized
+  34:11               56:23 57:6,14      50:15              39:8 41:21         25:24 31:20
+action 3:15,18        57:19 58:7,8     alter 52:24          54:10 56:21,22     38:12
+  3:20,21,23          58:12,14,21,22     53:11,12         argument 1:12      authorizing
+  4:22 5:3,10,13      59:1,3,5,9,11    alternative          2:2,5,8 3:3,7      39:11 53:6
+  5:17,19,25 6:4      59:12              53:23              26:14 55:20      availability
+  6:7,8,9,15,22     actions 3:13,22    altogether 31:20   arguments            21:21 31:15
+  7:4,6,9,13,16       12:9 14:15       Amendment            46:13              46:17
+  7:17,18,20,23       15:1 18:2          57:21,24         arises 7:25 21:1   available 7:13
+  7:25 8:3,6,7,21     23:16 32:15      American 9:14        27:7 29:19         8:14 12:21
+  10:25 12:20         34:24 38:11      amicus 13:18         46:23 53:4         23:21 49:21
+  15:5,5,16 16:9      40:8 45:20         25:12              58:17              58:22 59:6
+  16:13,21 17:23    actual 53:9        amount 8:9 36:7    arising 3:13       average 9:14
+  18:21,25 19:1     addendum             36:8,13,16         35:7 36:2          12:25
+  19:2,3,6,14,21      34:11              37:7 39:15         54:14,16 56:22   award 53:8
+  19:22,23,24       addition 26:7      anomalies 40:12    Arrow 1:6 3:4      aware 12:6
+  20:3,6,9,11,14    address 41:3,3     anomalous          article 14:13        38:19 49:1
+  20:16,17,18,19      49:2               36:25            articulate 41:19   a.m 1:13 3:2
+  21:7,8,9,11,12    adjudicate 38:3    anomaly 29:24      aside 5:16 12:22
+                    admitted 32:13     answer 9:21        asked 56:25                B
+  21:14,16,21
+  22:1,4,4,7,11       32:16              11:2 12:1        asking 13:13       b 5:24 24:6
+  22:15,17,19       advantage 13:8       13:14 15:13      asks 21:8            35:25 40:11
+  23:3,5,11,12        13:9               22:10 23:20      assert 5:9 54:8      45:5,22
+  23:17 24:2,10     advice 14:18         57:14            asserted 54:4      back 5:1 17:6
+  24:12,15,16,22    affect 21:21       antitrust 5:6      Association          20:22 23:20
+  25:3,8,13,23        23:25            Antonio 57:23        46:19              33:7 46:21
+  26:6,7,22,24      affirm 53:14,23    apart 19:22 24:3   assuming 6:20        49:16 54:9
+  27:3,7,10,12      affirmatively        45:21              7:11             backdrop 17:21
+  30:2,6,9,18         4:9 18:10,14     apparently         assumption 49:9    background
+  31:8,14,15,17       38:16 55:25        35:20              49:12              27:2,19 28:23
+  31:22 32:18,25    afford 13:1        appeals 15:10      attempts 4:2         28:24 29:1,2,5
+  33:2,6 34:23      ago 5:1 6:2        APPEARAN...        attitude 50:19     balance 29:7
+
+
+                                  Alderson Reporting Company
+                                            Official
+                                                                                              61
+
+bar 18:6 20:19       13:3 15:5,24        33:23 49:1        century 5:1          29:19 31:10
+based 30:9           19:1,6 22:4,7     Carmack 57:21       certain 12:24        38:4,4,25
+  46:13              23:15,23 24:10      57:24               24:10 39:3,3       45:13 46:22,23
+basic 8:15 31:13     24:16 25:23       carve 29:16           58:2               49:8 52:2,3
+basically 51:12      26:6 27:15,16     case 3:4 7:8 8:10   certainly 16:2       54:14,16 56:10
+basis 5:8,16,17      29:21 31:16,18      8:25 9:17 10:5      18:23 34:3,18    claiming 48:17
+  19:2 22:13         34:23 37:3          12:10,11 13:15      34:21,21 39:8    claims 4:3 8:20
+  52:23 58:15        40:24 52:2,3        14:5 17:11          46:9 57:7          8:25 9:11,24
+beginning 52:7       52:16 53:12,19      19:22 21:23       Charvat 25:11        10:20 11:6,21
+behalf 1:15,17       53:19 54:17         25:11 27:13,21    checks 36:17         11:23 12:7,12
+  2:4,7,10 3:8       57:5 58:3 59:1      28:10,10 29:24    Chief 3:3,9 4:21     12:14,18 13:22
+  26:15 53:19        59:13               42:7,18 43:7        5:8,12,15,20       13:22,25 14:15
+  55:21             bringable 23:17      43:10,12,14,17      6:1,19,25 7:10     14:18,24 15:1
+behave 36:20         24:2                43:19,19 46:9       8:17 14:2          16:2,4,4,10,12
+believe 12:7        bringing 16:3        46:16,19 48:15      18:24 19:12,15     16:14,16,20
+benefit 7:3          20:18 30:4          49:25 50:20         19:20 20:1,4,8     17:8,8,9,19
+  41:17             brings 44:6,20       53:17 56:25         21:6,22,25         18:5 26:21
+benefits 13:21      broadly 3:12         57:5,20,22          22:3 23:20         31:18 34:15
+best 13:13 15:13    brought 4:22         59:16,17            24:19 25:1         40:13 44:13
+better 17:8          6:9,10,18 7:17    cases 5:6 6:5         26:11,16 45:14     45:8 48:13
+  26:19              9:23 12:3,11        16:18 18:5,13       45:16,25 51:11     49:2 54:23
+beyond 16:11         12:14 15:1,14       27:23 28:5          55:16,18 56:21   clarify 25:21
+bit 29:25            15:22 16:17,21      48:13 50:6,9        59:14            clarity 28:3,10
+blah 23:13,13,14     17:11 18:22,25      50:10,12          choose 49:4          29:9
+blue 24:8            19:1,23 20:7,9    category 37:10        53:16            class 12:9 15:1,5
+bother 32:6          20:11,12 21:9     cause 5:3,10,13     chose 53:8           15:16 16:21
+bothering 9:18       21:12 23:1          5:17,19 6:4,8,9   circuit 12:6         31:17 37:3
+bound 37:2           24:13,14,22         6:22 7:6,11,19      25:12,16 33:20   clause 16:24
+Breyer 8:15 9:5      26:21 30:21,25      7:23,25 8:3         36:21 57:25        30:11 31:21
+  9:6,7,20 10:1,5    38:5 40:8,11        19:3,21,22,23     circuits 15:11       42:17,19
+  10:10,11,14,17     42:14 43:4,4        19:24 20:3,6,9      22:9 35:14       clear 4:1,5,14
+  11:3,9 12:2,22     45:9,13,22          20:11,14,16,16    Circuit's 22:12      9:14 17:13
+  13:6,17 25:20      51:17 54:23         20:18,19 21:7     circumstances        18:19 39:1,2,3
+  34:16 35:10,18     56:15,16,23         22:11 23:3,4        5:25               39:5,11 41:2
+  36:5,6,14          58:9,19 59:3        23:17 24:22       circumvent           41:23 50:12
+  39:14 43:22                            27:3 30:6           31:20 52:16        53:1,22 54:5
+  44:18,25                  C            31:14,15 32:18    cite 29:23 58:2    cleared 27:17
+Breyer's 14:3       c 2:1 3:1 24:6       33:6 36:24        cited 43:13 56:4   clearer 56:8
+  17:7              cabined 42:15        41:8,9 42:7,8       57:23            clearly 27:20
+brief 24:8,25       Calabresi 36:21      42:23,24 46:3     citizen 53:18      close 33:21
+  25:12 43:13       call 10:24 23:13     46:12 47:3,4      citizens 32:3,4      54:11
+  56:5                39:15              47:11,13,14,15    City 27:12 48:14   closer 39:15
+briefs 13:18        called 14:13,15      47:17 51:16,19    Civil 40:8 54:3    cognizable
+  57:23               34:3               52:8,22 54:13     Claflin 5:1          38:25
+Brill 56:18         calling 34:1         56:23 57:6        claim 9:23 14:5    Colorado 56:4
+bring 5:9,9,13      calls 12:16 13:2     58:12,14            14:24 15:14      come 12:12
+  8:20,25 12:24       14:6 32:2        causes 21:16          16:9 21:1        comes 12:13
+
+
+                                   Alderson Reporting Company
+                                            Official
+                                                                                          62
+
+  28:19 48:3         27:2,4,16,20      contested 27:7     19:4,9,14,18       27:22 28:4,23
+comma 42:16          28:2,9,21 29:3    context 6:5,7      19:24 20:7,12      28:25 30:5,16
+comment 34:21        29:7,9 30:1,4,6     27:14 48:5       20:17 21:9,12      36:15,23 38:8
+Communicati...       30:8,15,17,19     contingent         21:22 22:5,6,7     38:15 41:8,11
+  58:1               31:21 32:1,10       22:16 59:12      22:15,20 23:1      41:14 42:6,7
+company 11:7         32:21 33:1,15     contours 42:23     23:15,15,17,23     42:10 43:4
+  37:20              33:21 34:9,11     contradictory      23:25 24:3,11      50:8,13 51:3
+competent 58:9       35:19 36:19         52:19            24:17,23 25:9      51:17 52:6
+complaint 12:15      37:12,23,25,25    contrary 22:5      25:11 26:6,17      53:6 54:5,9
+  57:25              38:16,18,24       controversy        26:18,21 27:10     55:7 57:15
+completely 18:6      39:11,16 40:19      36:8,8,13,17     27:14,24,25        58:5
+complex 13:10        40:25 41:2,7,9      37:8 39:16       28:2,7,9,11      Court's 29:13
+conceded 58:17       41:15,17,18,19    conversely         29:6,22,25         38:19 56:4
+conceding 52:20      41:20,22,25         45:12            30:10 31:6,16    covered 27:14
+concept 6:14         42:9,11,15,21     convert 54:5       31:22 34:23,25   create 7:19
+concern 6:4          42:22 43:8        correct 6:13,21    34:25 36:12        17:23 20:24
+concluded 35:15      44:15 45:6          8:5 20:21        37:1,14,14,16      24:12 33:1,5
+concludes 26:18      47:21 48:11,22    cost 14:23         37:17,23 38:2      42:1,21 47:14
+conclusion           48:25 49:7,19     costs 36:11        38:3,17,25         49:1 58:20
+  54:22              49:25 50:21       counsel 24:19      39:12,19 40:13   created 3:16 5:3
+concurrent 5:2       51:16,23 52:6       51:11 55:16      40:17,25 41:1      8:3 16:12
+  28:6 38:15         52:8,14,15          59:14,15         41:4 42:14,15      25:13 32:9,17
+  48:22 49:9         53:11,12 54:14    couple 35:17       42:18 43:5         36:19 37:24
+  52:10              54:22 55:11,14    course 7:14        44:7,11,13,13      39:16 41:9
+conditioned          55:24 57:18         27:15 28:7       44:16,21 45:9      43:8 52:14,22
+  31:7 40:2          58:19               32:24 41:11      45:12,13,15,23     54:14 57:3
+conditions 22:25   congressional       court 1:1,12       46:6,7,11,15       59:11
+  59:3               11:5 48:19          3:10,21,21,24    46:18 47:22      creates 5:24
+conduct 31:10      Congress's 9:13       4:2,4,7,10,13    48:5,13 49:25      7:23 16:7 20:2
+  32:8 33:25         49:13               4:23 5:4,10,13   50:18 51:17,23     20:3 24:9 27:3
+confer 37:16       consider 23:21        5:22,24 6:9,11   52:3,4,5,10,12     32:10,21 46:3
+  53:25            considered 58:6       6:16,17 7:6,14   52:17 53:14,22     47:3,4,10,13
+conferred 52:10    Constitution          7:15,15,16       54:1,7,18,20       47:17 49:7
+conformity           28:8 29:5,8         8:12,12,20,24    54:23,24 55:15     57:18 58:8
+  43:25              52:11               8:25 9:11,17     56:9,15,16,24      59:9
+confronted         constitutional        9:24 10:20       57:4,13,19,20    creating 6:3
+  28:11              28:6,13 38:14       11:6,8,10,18     57:25 58:4,7,9     51:16 58:7
+confusing 6:14       38:21 50:1,9        11:22 12:4,8     58:11,13,19,22   creation 21:13
+congratulations      50:14               12:12,15,19      59:2,4,5,6,13      21:16 24:2
+  7:4              Consumer 3:17         13:4,9,22      courts 3:12 5:4    creature 54:13
+Congress 3:14        14:13               14:16,18,21,24   11:22 15:7,10    credit 30:1
+  4:2,6,9,15 6:3   consumers             15:1,3,8,12,14   16:12,22 17:16   Cross 7:2
+  6:6 7:19,22,23     33:17,22            15:16,23 16:2    17:23 18:1,1,4   cross-petition
+  8:4,7,12,19      contemplated          16:4,14,16,19    18:5,11,15         52:25
+  12:24 15:21,24     45:7                16:19,25 17:9    19:6 20:10,15    cuts 13:14,17
+  16:1 17:5,10     content 43:8,20       17:12 18:9,10    21:14 24:13,14
+  19:8 26:20,22    contest 27:1,19       18:13,22,25      25:4,6 27:5,21          D
+
+
+                                  Alderson Reporting Company
+                                            Official
+                                                                                           63
+
+D 1:3 3:1            30:21             divest 4:2 27:4  enforcing 31:12     expressed 26:23
+damaged 57:24      design 11:3           27:24 28:3     enormous 34:14        30:16
+damages 24:17      detailed 3:18       divested 27:20   entertain 17:10     expresses 30:17
+ 53:9              Diego 14:15           47:22            17:15 18:2        expressions
+days 30:19         difference 50:5     divesting 41:13    36:23 42:6,8        49:14
+deal 33:18 50:6    different 26:23     divided 17:17    entire 30:8         extent 36:18
+ 51:2                28:1 29:25        division 17:17     42:16,20            39:16,23
+dealing 33:16        30:3,23,24        Doe 33:3         entitled 23:11      extraordinarily
+ 38:14 49:25         40:14,15,15       doing 17:1 32:22 entitlement 24:9      42:1
+ 50:14,15            41:23 43:6          34:5 55:12     escalate 14:20      e-mails 32:2
+deals 50:6           45:1,8 55:12      doubt 41:17      especially 17:20
+dealt 27:11 28:5   direct 6:6          doubts 10:6      ESQ 1:15,17 2:3              F
+decide 32:20       disabuse 13:14      Dow 46:16          2:6,9             face 12:15
+ 46:1 56:25        disagreement        drag 9:10        essentially 27:21   fact 7:8 10:21
+decided 38:17        15:10             drop 14:9        establishes 7:24      12:5 16:5 18:9
+decision 15:15     discriminate        due 20:1 38:18   everybody 7:1,4       20:18 29:12
+ 41:10 56:4          17:22 20:15       D.C 1:8,15,17    evidence 6:6,6        34:22
+decisions 38:20    dismissal 57:11                      exact 46:14         facts 48:8
+default 28:21      displace 29:3               E        exactly 11:12       fails 46:13
+ 55:6,7              39:1,4 49:14      E 2:1 3:1,1        21:3,7 36:16      fairly 6:3,5,11
+defeat 4:10          50:22 56:7        earlier 29:11,14   45:17 56:5        far 12:17
+defendant 11:7       58:20               38:17          example 24:15       favor 43:24
+ 13:23,23,24       displaced 4:9       earlier-enacted    27:12 29:18,19    favors 34:25
+ 14:23 45:12         5:6 8:13 28:9       50:2             29:24 31:17       FCC 25:2,5
+defendants 7:2       47:18 49:13       Easterbrook        33:3 37:2           30:25 31:2,6
+ 12:6 13:4,21      displacement          56:18            43:20 46:15         31:12 38:5,12
+defending 14:15      50:7              easy 9:14          47:24 49:17         53:19
+ 24:21             displaces 17:3      effect 36:23     examples 47:21      Federal 3:11,12
+defense 8:24         55:25               42:22 45:5     exceed 12:17          3:13,16,24 4:2
+ 9:16 13:10        displacing 29:7       51:24 52:13    exclude 18:16         5:3,7,9,10,13
+define 18:1          38:23 49:25         54:21 55:15      21:20               5:13,17 6:8,11
+definition 16:11   dispute 8:2         either 51:22     excluded 18:14        6:22,23 7:5,13
+degree 39:3          21:24 46:25       elements 31:13   exclusive 38:2,3      7:14,20,24,25
+delegate 42:22     disrupting 29:7     enact 7:22         38:7,8,13,20        8:24 9:17 11:8
+deluge 42:10       distinct 26:23      enacted 26:5       41:15,21            11:10,18 12:4
+denote 19:11         30:2,14 32:25       29:4           exist 24:4 58:12      12:8 13:4,9
+depending 45:2       51:24 52:14       encompasses      existence 5:18        15:7,8,12,13
+depends 15:2       distinction 6:21      3:15             6:8 43:2 55:24      15:14 16:19
+ 43:2,3              39:9              encourage 48:15    56:9 57:12          17:12,22 19:3
+deprive 41:8       distinctive 48:20   enforce 31:1     exists 4:8 5:4        19:14,21,23
+deprives 55:10     district 57:25        40:5 53:16,21    22:19 58:14         20:3,6,7,14,16
+described 36:21    diversity 22:4,6    enforced 48:4    expenses 36:12        20:16,18 21:1
+describes 23:12      22:7,14 35:3,4      53:5           experience            21:13,17,22
+description          35:6,15,22        enforcement        14:12               22:7,10,11,14
+ 22:19,25 23:3       36:8,22 37:10       31:6 33:21     explicitly 27:25      22:15 23:17
+ 23:4                39:1,9,12           34:9 48:7 49:3 express 6:3,6,8       24:3,16,21,22
+descriptive          56:17,20            50:23,24 53:20   8:7 37:13,18        24:22 25:11,15
+
+
+                                  Alderson Reporting Company
+                                              Official
+                                                                                              64
+
+   26:21 27:3,5,8   files 10:6          gain 13:7             11:15            Gonzaga 33:3
+   27:20 28:3,18    filing 9:25 10:20   Galveston 57:22     Ginsburg 11:20     good 6:22 7:14
+   28:22,23 29:20     24:25             game 54:11            11:25 12:10        48:11
+   29:20,21 30:6    fill 34:12 43:20    gap 34:9,12 49:3      14:25 15:3,6     Gottlieb 22:12
+   31:3,6,22 32:6   Finance 14:14       Garre 1:17 2:6        15:18,21,24      governed 3:16
+   32:10,10,17,19   Financial 1:6         26:13,14,16         20:22,25 21:4      22:11 23:18
+   32:21,24 33:2       3:5                27:1,6 28:5         21:5 25:2          25:14 39:20,21
+   33:5 34:25       find 10:23 14:22      29:1,17,23          29:17 30:15,23     39:22
+   35:14,17 36:12   findings 33:13        31:4,13,25          31:9 32:17       governing 30:24
+   36:12,19,23,24      34:10 48:25        32:9,14,23          33:24 34:8       governs 7:24
+   37:1,4,4,14,17   fine 21:6 24:1        33:9,12,24          37:6,25 41:6       21:2 31:3
+   38:2,3,10,24     first 9:22 14:6       34:7 35:9,13        46:21 47:2,9     grammar 30:11
+   38:25 39:4,9        16:8 28:10         36:5,7,16 37:9      47:16 49:7,16    grant 3:14 56:7
+   39:12,19,23,24      30:4,22 36:7       38:9 39:6,8,22    give 6:7,23        granted 4:8
+   40:13,17,20,25      38:10 45:19        40:1,6,10,18        21:19 30:1         28:18,21
+   41:8,10,11,14    fit 26:19             40:23 41:5,20       32:7,14 38:18    granting 28:2
+   42:22,23,24      fits 51:12            42:11,25 43:7       41:16 45:4       grants 3:12,19
+   43:5,6,21        flexibility 17:25     43:12,15,18         48:8 51:23       grappled 35:14
+   44:21,24 45:12   flip 41:24            44:15,23 45:4       52:13 54:20      great 35:23
+   45:15,19 46:1    flooding 36:15        45:15,17,24         55:15            GREGORY
+   46:3,5,11,23     Florida 12:13,18      46:8,25 47:6      given 38:3           1:17 2:6 26:14
+   47:2,3,10,13        22:2               47:12,18,20,24    gives 14:19 16:9   ground 53:23
+   47:17,22 48:4    focus 46:9            48:14 49:11,23      17:14            guess 8:25 55:1
+   48:23 49:8,19    follow 20:9           50:18 51:5,8      giving 27:22,24
+   49:20,21 50:2    following 8:17        51:21 53:1,10     go 8:20,23 10:15           H
+   50:8,13 51:3     follows 30:12         53:17 54:16         11:6,9,18 13:8   hackles 51:4
+   51:15,19 52:3    forget 14:8           55:2,9,17           19:18 26:5       happen 11:11,12
+   52:3,17,20,23    forth 3:18          gee 13:7              31:5,22 33:7       11:13,15
+   53:3,16,24       found 5:6 50:22     general 14:21         33:22 36:12      happens 25:20
+   54:1,2,5,15,17   foundation            16:20 17:21         37:13,17 39:12     44:5,20
+   54:18,24,24         28:13              18:13 24:20         44:5,11,12       harassing 32:2
+   55:7,8,24 56:3   fours 43:19           29:11,13,15         45:11 46:21      hard 34:17
+   56:6,7,15,16     freedom 17:14         30:25 31:2,5        48:6,10 49:16    Harrisburg
+   56:23,24 57:2    free-standing         31:11 34:23         52:9 53:18,19      57:22
+   57:3,4,13,20        6:22               38:1,6 39:19        53:25 55:5       hear 3:3
+   58:3,17,20,21    friend 48:17          40:17 43:5          57:4 58:7        hears 18:13
+   59:6                54:1 56:1          44:6,20,23        goes 17:6 20:22    heaven's 35:6
+fee 9:25               58:24              45:3 48:1           23:19            held 18:9,10
+feel 42:9           friends 54:19         49:20 50:11       going 5:1 10:8       22:12
+fees 13:11,25       fundamentally         51:13 53:18         10:21 11:12      hey 35:23
+fighting 14:3          35:16              56:7                13:24 14:7,8     hire 14:8
+figure 55:6         further 13:17       generalized 52:1      14:22,23 27:23   history 49:5
+   56:24               26:9             generally 32:12       28:12 31:14      hold 26:20 52:15
+figuring 45:17                            32:21 48:6          32:3,5,6 37:1    Hollings 33:14
+file 7:4 25:12             G            generals 38:11        44:6 45:1,6        34:21 35:20,21
+filed 3:21,23       G 1:17 2:6 3:1      generous 50:19        49:9 52:17       Honor 4:25 6:13
+   8:12 25:9,11      26:14              getting 10:9          53:8               7:8 12:14
+
+
+                                     Alderson Reporting Company
+                                         Official
+                                                                                        65
+
+ 15:23 33:19     injunctive 12:20   4:8,10 5:2,16       18:3,8,24        Kennedy 11:1
+ 40:23 42:12,18    16:8,10          6:17,23 7:5,18      19:12,15,20        11:14,17 25:21
+ 47:1 54:18      instances 16:13    8:13 14:21          20:1,4,8,22,23     26:2 43:10
+ 55:17 57:8      instruct 10:7      16:12,20 17:24      20:25,25 21:3    kicked 7:5
+hope 57:7          11:9             18:13 21:15         21:5,6,23,25     kind 4:3 25:17
+huh 36:4         instructed 9:16    22:14 25:17         22:3,18,22,23      28:3,19,20
+hypothetical     intend 26:20       27:4,5,21,22        22:24 23:2,6,9     29:10 32:7
+ 14:4              52:15            27:24,25 28:2       23:20 24:1,19      34:20
+                 intended 17:25     28:4,7,18,20        25:1,2,20,21     knew 41:15
+         I         36:20 42:11      28:22,23,25         26:2,11,16       know 5:21 8:6
+idea 14:9 48:12    53:5 58:20       34:4 35:3,4,6,8     27:1,18 28:17      9:8,18 10:8
+  57:1,2         intent 11:5        35:15,17,22         29:17 30:14,23     13:23 14:5
+identified 30:5    48:19 49:14      36:2,22,25          31:9,24,25         16:6,10 17:7
+  33:19 34:10    interaction        37:7 38:2,3,11      32:12,16,17        17:14,15,20
+  43:23            27:11            38:16,24 39:2       33:4,10,24         18:17 24:11,20
+Illinois 18:15   interested 16:2    39:4 41:8,12        34:8,16 35:10      24:20,24 35:18
+Im 45:16         interesting 8:18   41:14,15 45:20      35:18 36:5,6       42:5 44:3
+imaginatively      14:12            46:2,4,12,18        36:14 37:6,25      51:25 55:5
+  36:3           interplay 27:9     47:5,16,22          38:22 39:7,14      57:12
+imagine 14:4       28:14            48:22,23 49:10      39:18,24 40:4
+  44:2           interpret 44:10    50:1,7,8,14,16      40:8,14,21             L
+immediately 7:1 interpretation      51:3,7 52:10        41:5,6,6 42:3  L 1:15 2:3,9 3:7
+impact 34:2,5,6    5:23             52:21,24 53:3       42:21 43:1,10    55:20
+  55:14          intersects 46:17   53:24 54:25         43:14,16,22,23 label 26:19 54:8
+implication 4:11 interstate 33:23   55:8,24 56:3,7      44:18,25 45:14 lack 52:23
+  4:17,19 5:7    interstitial       56:9,22 57:10       45:16,25 46:21 language 34:19
+  6:10 22:13       33:19            58:10,11,20         47:2,9,16,20     45:5,7 46:14
+implied 8:6      intervene 38:12 jurisdictional         48:9 49:7,16     48:19 52:7
+import 59:5      in-State 37:20     12:18 28:20         50:5 51:2,6,9    54:21
+important 28:16    37:21,23         46:10 47:14         51:11 52:18    large 12:9
+  31:21 51:22    isolation 58:25    58:15               53:2,7,15      largely 51:25
+incentives 16:15 issue 17:16 24:7 jurisprudence         54:12 55:1,16  later-enacted
+incompatible       45:18 46:2,9     37:15 51:13         55:18,22 56:21   47:6,7,9,12,19
+  35:16            52:21          Justice 3:3,9,25      59:8,14          48:4,7 50:3
+incur 36:11                         4:16,19,21 5:8     Justices 55:3   Laughter 51:10
+indicated 25:22          J          5:12,15,20 6:1                     law 3:13,16 5:3
+indicating 48:25 jealous 50:8       6:19,25 7:10              K          7:20,23,24 8:1
+indication 56:8 Jersey 15:15,16     7:19 8:2,15,17     Kagan 3:25        14:14 15:12,13
+  58:18          job 48:11          9:5,6,7,20 10:1     16:23 17:5       15:25 19:4
+individual 9:24 Judge 36:20         10:5,10,11,14       27:1,18 28:17    21:1,1,2 22:2,5
+  10:19 11:5,16    56:18            10:17 11:1,3,9      41:5 42:3        22:11,16 24:21
+  12:23 19:21    judgment 52:22     11:14,17,20,25      43:14,16 47:20   25:15 26:8
+  45:3             52:24 57:9       12:2,10,22          48:9 55:1,23     27:8 29:20,21
+industry 13:19   judicial 54:10     13:6,17 14:2,3     Katt 17:4 21:20   30:23,24 31:1
+infer 11:4       junior 28:19       14:25 15:2,6       keep 10:2 42:24   31:2,3,15 32:6
+information      jurisdiction       15:18,21,24        keeping 34:12     32:19 37:2
+  11:21            3:11,13,15 4:3   16:23 17:5,7        34:13            39:21,23,25,25
+
+
+                                Alderson Reporting Company
+                                             Official
+                                                                                               66
+
+   40:15,16,18         16:19         meaningful            natural 23:22      O 2:1 3:1
+   41:4,10 43:3,3   little 4:13 16:24 26:23 50:25            36:22 42:12      object 13:2
+   43:6,6,9,20,25      29:25         meaningless           nearly 39:5        objective 9:13
+   44:2 46:3,23     LLC 1:6           51:25 52:8             48:16            obtain 58:8
+   47:2,3,10,17     logic 32:1       means 17:14           necessarily 7:25   Obviously 41:14
+   54:15,17 57:3    longer 44:4       18:12 47:23            10:21            odd 16:23 25:17
+   58:17               47:10          56:15,19             need 47:15           29:18 44:25
+laws 16:25 19:9     look 26:24 30:2  meant 6:6 40:25         52:25              45:4 54:18,20
+   21:15 22:20         33:14 37:11    41:25 51:23          needed 28:3          54:21 55:2,3,4
+   23:14,18 24:3       40:6 44:18     54:23 55:11          Nelson 1:15 2:3      55:6,10,10
+   30:9,16 33:17       48:14,16,18   mechanism 48:8          2:9 3:6,7,9,25     56:25
+   36:20 42:15         49:4 57:8      50:23,24               4:4,18,24 5:11   odder 56:14
+   44:16 52:4       looked 24:11     mentioned               5:14,18,21       oddest 54:12
+lawyer 9:12,16         30:18 37:14    25:19                  6:12,24 7:7,12   oddness 56:11
+   9:25 13:1 14:8   looking 24:6     mere 4:10 56:9          7:21 8:5 9:3,6   oh 5:18 10:1
+leave 45:6          loophole 33:21   merely 58:18            9:20 10:4,10       11:11 27:14
+leeway 21:19           33:25         Merrell 46:16           10:12,15,18      okay 10:11,14
+left 55:23          lose 41:21       mess 44:19              11:14,19,25        13:11 32:5
+legal 9:15 13:11    lot 30:18        Mims 1:3 3:4            12:5,13 13:5       33:7 47:2
+   13:25 32:11                       mind 7:2 34:13          13:16 14:11        48:11
+legislative 48:24         M           41:18                  15:2,8,20,22     older 48:2
+   49:5             major 9:15       Mining 43:12            16:5,23 17:2     once 25:3 28:21
+legislature         majority 33:17    46:22                  17:13 18:7         46:5
+   25:25 26:4       making 13:10     minutes 55:19           19:5,13,17       ones 12:8,23
+lens 37:15           41:2            mirroring 39:25         20:1,6,20,24     opinion 22:12
+let's 20:4 39:19    MARCUS 1:3       misstate 26:2           21:3,11 22:1,8     33:20 50:20
+   46:21            matter 1:11      modified 30:8           22:22,24 23:4    opposed 19:17
+level 4:7 33:18      18:22 30:21     modifies 23:23          23:8,19 24:5     opposite 56:5
+   34:13 49:3        52:21,23 57:10   30:11 42:17            24:24 25:5       option 32:7
+limit 12:18 16:3     59:18            58:24 59:2             26:1,4,12        optional 56:9
+   31:15 32:4       matters 7:18     modify 23:22            55:18,20,22      oral 1:11 2:2,5
+   33:6 58:6         16:16 41:12      58:25                  57:7 59:10         3:7 26:14
+limitation 31:7     mean 4:25 5:18 modifying 42:19         never 7:2 24:11    ordinary 8:19
+   37:3 44:3,4,22    5:21 8:6,16 9:8 moment 13:12            25:5,9 35:20     ousted 51:7
+   57:16             11:21 14:7,9    momentous               51:14 53:5       outside 58:13
+limitations 7:16     14:11 17:6       41:7                   58:6             out-of-State
+   30:15 31:18,20    18:20,20 22:18 Monday 1:9             New 15:4,15,16       34:4 35:5
+   31:23 37:2        23:7 28:21      money 14:23           nine 55:3            37:22
+   40:16,18 44:24    31:1 32:20      morass 14:22          non-existence      overwhelmed
+   45:2 52:16        33:25 34:25     morning 3:4             43:2               18:4
+limited 25:3,6       37:5,10 38:9    motions 54:6,6        notice 14:7
+   41:1 42:14        39:24 40:21     move 14:24            notion 13:14              P
+   46:6 52:4,4       42:23 44:2,24                         November 1:9       P 3:1
+limiting 24:15       48:10 49:8,11          N              number 16:5,6      page 2:2 26:25
+   32:19             50:22 55:3,14 N 2:1,1 3:1               25:7 27:23         58:2
+listed 16:8          56:16 57:8      name 35:6                                Palos 27:13
+litigating 16:18     58:11           National 46:19               O             48:15 50:20
+
+
+                                    Alderson Reporting Company
+                                            Official
+                                                                                             67
+
+ 51:1              pestered 8:21       possible 9:3 18:7    50:3 52:13        pursued 6:16
+paradigm 28:15       9:15 13:1          45:19               53:17,24 54:17    pushed 35:10
+parallel 48:1      pests 9:8,9,10      possibly 16:20       59:9,10,11          39:10
+ 49:24             Petitioner 1:4      potential 34:14     pro 13:25          put 6:4 19:8
+Pardon 5:11          1:16 2:4,10 3:8    49:2               probably 15:3,4      36:3 37:9 54:8
+part 7:17 8:18       30:5 49:15        power 7:22           16:6 53:1         putting 5:16
+ 12:1 34:16          55:21              18:16              problem 9:16         16:3
+participate        Petitioner's        powers 29:8          33:11,18 35:14    p.m 59:17
+ 13:19               31:19 52:2        practically          36:15 41:3
+particular 24:13   Pharmaceutic...      58:16               43:23 49:3               Q
+ 49:2 57:19          46:16             practice 11:22      problems 11:3      Quarterly 14:14
+particularly       phone 8:22          precluded 17:18     procedural         question 3:11
+ 37:11               10:24             precludes 47:7       15:12,13 44:14     6:16 8:11,18
+parts 9:21         phoning 35:24       premise 20:20       procedure 15:25     20:21 22:9,14
+passed 33:17       phrase 19:10        presented 57:9       44:1,16 54:3       23:20 25:10
+Passengers         phrasing 24:7        57:11              procedures 18:2     27:3,8,19 28:1
+ 46:19             ping-pong 54:11     presume 34:11       proposition 6:20    28:7,11,18,22
+passing 32:6       places 47:21         38:19 48:6          24:21              30:11 32:23
+pay 9:24,25        plain 4:6            55:11,13           protect 12:25       33:8 35:17
+paying 11:23       plaintiff 14:1      presumption          32:7               36:12,25 37:5
+peculiar 41:13       26:5 31:19         5:2,5 28:6,12      protected 29:8      37:19 39:4,9
+people 8:19 12:3     36:10 37:21        28:14 29:10        Protection 3:17     45:10 46:2,10
+ 13:19 14:20       plaintiffs 10:20     38:15 41:11         23:10              46:23 47:22
+ 35:5,24,25          13:8,21 14:18      50:1,17,21         protections         48:3 49:12
+ 52:9 57:13          45:11 52:15        55:23               32:11,19           53:3,24 54:24
+ 58:2              players 10:22       pretty 12:24        provide 9:13        55:2,4 57:3,9
+perceived 34:9       14:17             pre-emption          33:2 34:22         57:10,11 58:14
+perfect 41:1       please 3:10          34:20              provided 3:14      questions 26:9
+ 47:25               26:17 33:11       pre-existing         19:23 29:3,5       55:8
+period 44:3,4      point 7:1 15:10      28:4               provides 3:18      quote 20:3
+permit 20:19         17:7,18 20:23     principally 17:3     18:21 21:9,11
+permits 3:20         22:9 25:22        principle 17:21      24:21 30:20               R
+ 44:12               32:25 33:12        27:19               48:23             R 3:1
+permitted 16:24      46:18 51:22       privacy 23:10       provision 16:24    racking 13:24
+ 18:6,12,20          55:13 56:11,12    private 3:19         17:1 28:21        Railway 57:23
+ 19:3,7,9 20:13      57:12,15 58:16     4:22 6:3,7 16:9     33:3 42:5,5       raising 13:10
+ 21:10,13,18       pointed 5:4          23:11 24:2          44:11 47:19       Rancho 48:15
+ 22:2,20 23:14     points 54:22         26:20,22 27:9       48:2 49:6           50:20,25
+ 30:9 42:19        policy 5:7           27:12 30:18         51:12 53:5        Ranchos 27:13
+ 44:21 58:24       position 25:3,6      31:8,21 32:14       54:20 57:16       reaction 36:1
+ 59:1,2              25:10,13 29:6      32:18,25 33:2      provisions 24:12   read 17:20
+person 11:5          32:1 36:4          34:24 37:4,12       31:5 58:1           24:14 42:19
+ 12:25 23:12         39:10 41:22        37:13,15,17,19     public 32:9 40:1   reading 18:7
+ 34:2 44:8           46:8 52:12         37:24 38:6,7        40:6,10 53:20       23:7,22
+persons 57:24        53:2 54:1,9,19     40:3,11,19,24       53:21             readings 18:17
+perspective          55:6,7 56:13       42:2 44:7 45:8     publication        real 10:22
+ 51:22             positions 52:19      45:21 46:6,17       14:13             really 4:20 7:21
+
+
+                                  Alderson Reporting Company
+                                             Official
+                                                                                           68
+
+  9:8 10:19           9:12,12,16,25       23:11,12 24:2      44:22 47:4,7     22:12 30:8
+  16:16 20:21         10:8 11:8 12:4      24:15 25:13        50:11            33:20 36:18,21
+  33:24 43:1          12:7 14:20          26:7,22,24       rules 4:5 15:25    45:20
+  44:25 56:19         15:6 45:13          27:10 29:2         19:4,9 22:5,20 section 3:12
+  58:18 59:4        removed 9:1,4         30:2,8,18 31:8     23:15,25 30:10   23:7 24:5,18
+reason 8:16           12:8                31:22 32:10,15     30:10 41:4       27:11 28:15
+  10:18 12:2        removes 13:24         32:18,21,24,25     42:15 44:14,16   41:12 47:25
+  19:8 28:15        removing 11:23        33:2,2,5 35:2      45:8 48:23       48:2 50:19,22
+  29:15 33:15       rendered 51:25        36:19 37:4,12      52:5 54:2 59:5   59:9
+  36:18 54:7        repeat 10:22          37:13,15,17,19                    see 7:11 24:4
+reasons 12:15         14:17               37:24 38:8               S          35:4 44:3 46:1
+  25:1 35:17        repeatedly            39:17 40:2,3,5   S 2:1 3:1        seeks 12:20
+  36:5                13:20               40:6,10,10,12    salesmen 8:22    seemingly 9:13
+rebuttable          reply 56:5 58:2       40:19,24 42:2      10:7           seen 51:14,20
+  50:21             Report 14:14          42:4,16,20       San 14:15 57:23    54:13
+rebuttal 2:8        reproduced            43:8,21 45:21    saw 34:12        self-defeating
+  26:10 55:20         34:10               45:24 46:6,17    saying 7:7 8:11    9:23 10:2
+recall 15:4         require 6:5 29:8      48:4 50:3 52:2     9:9 11:11      Senator 33:14
+received 13:18      required 17:23        52:13 53:13,16     31:17 35:16      34:21 35:20,21
+  23:13               28:9                53:24,25 54:17     37:1,21 42:9     35:21
+recognize 17:25     requirement           57:14,16 58:6      43:18 44:11    sense 23:24
+  38:5                4:15 36:9           58:8,21 59:9       49:6,13 51:18    33:15 38:10,13
+recognized          reserve 26:10         59:10,11,11        53:7 54:15       38:19 41:1
+  46:15,18          respect 10:19       rights 3:15 7:16     58:19            44:9,10 45:5
+recognizing           20:2                16:7 17:22       says 3:22 7:4      52:1 59:4
+  35:15             respects 25:14        23:10 24:12        17:10 19:1,5   separate 31:4
+recover 3:20 8:9    Respondent            27:12 32:4         21:11 23:9     Services 1:6 3:5
+  24:17 32:4          1:18 2:7 26:15      53:20 57:18        24:16 26:5     sets 3:17
+  58:3              Respondent's          58:3,21            35:23 37:7,21 Seventh 12:5
+recoveries 24:10      56:13             rises 4:7            38:16 42:6     Shoshone 29:24
+recovery 5:24       response 9:19       River 56:4           45:5 48:5,23     43:7,12 46:22
+  6:15 16:7           39:14             Roberts 3:3 4:21     51:17 56:5     side 13:10,18
+  57:17 58:8        reverse 34:20         5:8,12,15,20     Scalia 4:16,19     14:18 34:17
+refer 50:9 57:19    review 54:10          6:1,19,25 7:10     22:18,23,24      41:24 43:24
+reference 24:14     RICO 24:16            14:2 18:24         23:2,6,9 24:1  sides 54:21 55:2
+  57:15 58:10         57:21               19:12,15,20        31:24 39:18,24 signposts 48:18
+references 58:5     right 3:18,19         20:4,8 21:6,23     40:4,8,14,21   similar 28:12
+referred 4:14         4:22,23 5:24        21:25 22:3         42:21 43:1,23 simple 9:14
+relief 12:20 16:8     5:25 6:7,14,15      23:21 24:19        50:5 51:2,6,9  simply 8:11
+  16:9,10             7:9,12,17,17        26:11 45:14,16     59:8             31:22 33:10
+remainder             8:4,6,7,8,15,23     45:25 51:11      scope 16:11        54:7
+  26:10               9:1 10:17,25        55:16,18 56:21     52:21          sister 28:19
+remaining 55:19       12:22 14:9,9        59:14            SCOTT 1:15 2:3 sitting 35:19
+remand 54:7           15:8 16:7,9,13    rule 4:1,14 17:4     2:9 3:7 55:20  situated 17:9
+remotely 51:14        19:13 20:4,13       27:2 28:23,24    se 13:25         situation 29:13
+removal 14:7          21:3,7,10,14        29:2,2,5,13      second 10:11       33:16 36:10
+remove 7:2 9:11       22:15,16,19         31:17 41:10        12:1 15:11       37:1
+
+
+                                   Alderson Reporting Company
+                                         Official
+                                                                                            69
+
+Sixth 25:12,16     4:23 5:4 6:8,9     32:5,7,20,22      struggled 34:7     supreme 1:1,12
+small 8:20,25      7:22 8:12,20       33:7,11,17,22     study 32:1           17:16 18:9,9
+  9:11,24 10:20    11:22 14:21        41:2 42:22        stuff 52:5           18:11,15
+  11:6,21 12:11    15:1,3,4,11,19     45:6 58:1         subject 52:21,23   sure 4:7 11:1
+  12:14,18 13:22   15:20,22 16:1    State's 17:9          57:10,22           13:7
+  13:22,25 14:5    16:19,25 17:10   State-court-fo...   submitted 59:16
+  14:15,18,24      17:16,18 18:3      48:21               59:18                   T
+  16:2,4,12,14     18:10,11,15,22   State-law 48:20     subordinate        T 2:1,1
+  16:16 17:8,9     18:25 19:4,6,9   State-law-foc...      42:16            Tafflin 4:25 5:5
+  18:5 44:13       19:17,22,24,24     52:7              subscriber           24:15 38:17
+  48:13            20:3,7,10,11     statue 20:24          23:10            take 6:25 39:10
+smaller 34:24      20:12,15,17,19   status 16:21        subsection 4:23      50:12 57:1
+Solicitor 24:20    21:2,9,12,14     statute 3:11 4:8      21:8 23:10       taken 25:5
+somebody 35:19     21:16 22:5,6       5:23 11:4           40:9 45:22       talked 4:5
+somewhat 52:19     22:16,21 23:1      12:25 16:7        subsequent 56:6    talking 11:16
+soon 7:3           23:15,16,18,23     17:24 18:8,18     substance 31:1       29:11 31:8,9
+sorry 19:19        23:24 24:3         20:2 23:5,6       substantive 3:16     34:14 42:24
+  45:16 57:1       25:4,6,9,22        24:4,9,16 25:8      3:19 6:15 21:1     43:24,25 51:12
+sort 41:17         27:22 28:6,25      25:8,14 29:3,4      22:11 25:14        56:2
+Sotomayor          29:22 30:5,10      29:12,12,14,18      29:21 44:22      talks 29:6 30:19
+  31:25 32:12,16   30:16,16 31:5      29:20 30:13       sudden 32:3        targets 34:6
+  33:4,10 52:18    31:14 33:18        31:18 34:18,19    suddenly 9:15      TCPA 3:20
+  53:2,7,15        34:1,2,5,6,13      41:16 44:22,24    sue 10:8 20:17       14:15 26:6,21
+sought 31:1        34:23,24,25        47:6,7,10,12        37:20,22           45:8 50:3
+speak 28:9 29:9    35:24,25 36:20     49:18,19,20,22    sues 31:2          telemarketer
+speaking 35:3      36:24 37:2         50:2,3 51:14      suggest 27:23        10:24
+specific 29:4,12   38:8,11,15         51:19 55:4          43:24            telemarketers
+  29:14 48:7,9     39:21,25 40:16     56:6,11,14        suggested 56:1       34:1
+  48:17 49:18,21   40:18 41:1         58:10,17          suggesting         telephone 3:17
+  50:23,25 53:4    42:6,7,10,14     statutes 5:23         34:19 41:6         11:7 23:13
+  56:6             43:2,3,4,9,20      26:5 27:9         suggests 34:23     tell 9:11 24:25
+specifically       43:25 44:2,7       28:14 45:1          56:14              35:19 52:18
+  25:24,25 34:22   44:12,12,17,20   statutory 18:21     suing 31:11        telling 10:24
+  56:3             45:2,9,13,23       24:12 33:13       suit 12:3 13:4       51:6
+split 22:9         46:7 49:3,25       34:10 46:14         30:25 39:12,18   terms 4:5 35:5
+spoke 30:4,15      51:17,17 52:2      48:25 50:16         39:20,20 40:16   Testa 17:4 21:20
+  33:19 50:21      52:5,6,10 53:6     53:9 54:20        suitable 16:21       42:5
+spoken 28:2        53:8,10,18         56:3              suits 30:4 38:1    Texas 18:8,9
+sponsor 49:5       54:23 56:9       stay 10:13 16:17      39:19              25:24,25 26:4
+spring 14:14       57:15 58:19,22   straightforward     superfluous          26:8
+stage 17:19        59:2,4,5,13        46:2                18:23 42:4       Thank 26:11,16
+stake 11:24      stated 25:9        strangest 51:19     superior 15:17       55:16,17 59:14
+standard 18:21 statement 4:1,5      strategy 9:22         44:13            theoretical
+  38:23            4:14 33:14         10:19             supplemental         17:17
+standards 3:19   States 1:1,12      strong 6:11           37:6             theoretically 9:3
+start 55:22        15:15 16:3       strongly 56:2       supplied 43:9      thing 9:14 13:17
+State 3:21,21      17:22 21:19      structure 48:21     supposed 46:1        14:6 23:24
+
+
+                               Alderson Reporting Company
+                                           Official
+                                                                                       70
+
+  34:8 41:7          48:3,3 57:2       37:18 42:1         49:1          win 47:8
+things 10:7        times 8:10 30:20   uniquely 58:21                    wipes 56:19
+  13:10 25:7       told 57:13         United 1:1,12             W       withdrew 8:17
+  32:3             tortfeasor 34:4     57:25            waived 54:2,3   wonderful 35:23
+think 3:25 4:12    totally 43:6       unmistakable      want 8:19 9:10  word 10:2 11:10
+  4:24 5:12,22       51:21             28:10 29:9        10:12,13,13      11:15,17 38:7
+  6:12,13 7:21     traditional 29:7   unmistakably       17:5 32:20     words 25:8 26:7
+  11:14 12:3       transforming        4:6 27:16         35:7 45:11       44:14 52:13
+  13:3,6,16,16       54:10             41:23 48:20       55:22            55:14 56:24
+  14:3,12 15:9     transitory 5:3     Unquestionably    wanted 34:24    work 10:19
+  15:12 16:15        58:9              33:4              48:12          worry 11:11
+  17:2,2,6,20      treated 7:15       unusual 33:1,5    wanting 49:2    worrying 12:23
+  19:5,7,7 20:2    trebled 12:17,17    34:18 49:5       wants 11:8        34:17
+  20:20 22:22      tremendous          51:24             38:24 39:1,4   worth 16:18,19
+  23:22 24:6         13:20            unwilling 4:10     48:22          wouldn't 9:7
+  25:1 28:15       tried 12:24        urge 55:15        Washington 1:8    14:3,4 23:18
+  29:15,25,25      trouble 45:17      use 19:10 38:6     1:15,17          25:18 33:9
+  31:4,13 32:22    true 36:14 58:23   usual 41:11 42:7  wasn't 39:11      35:4 43:22
+  33:12 35:11,12   truly 13:22        usually 11:7       53:1             54:12
+  36:4,22 37:11      16:16             29:6 49:8        way 3:22 10:5   write 41:15
+  37:16 38:4,9     trumps 29:14       U.S 46:19          10:22 25:10,15 written 25:7
+  39:12,22,23      try 14:19          U.S.C 3:12         27:10,23 28:13 wrongful 31:10
+  40:12 41:5,22    trying 12:25        26:22             28:24 30:14,17
+  42:3,12,18,25      35:5 52:24                          35:11 37:18            X
+  43:7,19 45:9       56:24                    V          40:2 41:13,25 x 1:2,7 8:9
+  47:25 48:14,16   two 12:15 16:6     v 1:5 3:4 17:4     42:12 44:24
+  48:18 49:15,23     20:5 21:16         21:20 27:13      51:25 52:4             Y
+  50:18,19,24        27:9 36:5          33:3             55:10          Y 5:25
+  51:21 53:10,14     45:18            vague 48:10       ways 10:9 26:24 year 38:17 44:8
+  53:22 54:22      type 14:5          vast 33:16 49:1    30:3 53:21     years 6:2 12:7
+  55:3,9,13        types 16:22        venerable 29:16    55:12            44:7
+  56:13 57:8       typical 30:17        48:1            weaker 28:20    yields 24:10
+  58:16            typically 17:8     venue 48:24       weird 40:21,23  York  15:4
+thinking 36:3                         Verdes 27:13      went 41:25
+                           U            48:15 50:20     we'll 3:3 10:7          $
+  49:17
+                   ultimately 35:13     51:1             57:5           $1,500 12:16
+thinks 35:22
+  43:16 46:11        37:11 39:10      view 25:18        we're 10:8 31:8 $5,000 12:18
+                     46:8 53:3          31:19            34:13 39:6,8   $500 8:9,21 9:23
+third 15:11
+                   uncounseled        views 45:19        43:18 45:6       11:23,23 37:5
+  30:14
+                     11:16            violated 8:8 23:5  49:11,13 53:8    53:9
+thought 12:3
+                   understand 6:20    violation 3:20     56:2,25        $75,000 36:9
+  18:3 20:15
+  33:13 35:2,20      40:22 57:1,2       8:9,10,22       we've 6:2 27:22         1
+  50:11,13         understanding        24:17 30:17,20   47:21 51:11
+                                                                        1 44:8
+three 8:9 13:18      11:2               30:24 31:10     whatsoever
+                                                                        1-year 44:3
+  26:23 30:2       understood 19:2    virtually 16:11    58:18 59:4
+                                                                        10 58:2
+three-tier 38:23   undisputed 45:9    void 33:19        willful 8:10
+                                                                        10a 24:8
+time 26:10 32:10   unique 36:19       volumes 34:15     willing 48:10
+                                                                        10-1195 1:5 3:4
+
+
+                                 Alderson Reporting Company
+                                         Official
+                                                             71
+
+11:04 1:13 3:2       24:6
+12 12:16           50 45:8
+12(b)(1) 26:19     500 12:17
+  46:11 54:6       55 2:10
+  57:11
+12(b)(6) 26:19              6
+  46:13 53:23      6 12:6
+  54:3,6,8,8
+12(h) 54:2
+12:04 59:17
+1331 3:12 26:22
+  27:9 28:18,22
+  29:16 41:12
+  46:4 47:5,13
+  47:24 48:3
+  50:2 52:17
+  53:4,6 56:3,8
+  57:12
+1367 56:17,20
+1912 57:22
+1983 27:11,15
+  27:16 28:15
+  47:25 48:2,5,7
+  49:17,20 50:6
+  50:19,22
+        2
+2-year 44:2
+2002 14:14
+2011 1:9
+227(b)(3) 8:8
+26 2:7
+28 1:9 3:12
+  26:21
+        3
+3 2:4 21:8 24:6
+  40:11 45:5,22
+        4
+4 44:7 55:19
+4-year 44:23
+40 6:2
+414 46:19
+453 46:20
+        5
+5 4:23 23:11
+
+
+                                Alderson Reporting Company
+

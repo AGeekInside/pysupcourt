@@ -1,0 +1,1615 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+AMERICAN TRUCKING :
+ASSOCIATIONS, INC., :
+Petitioner : No. 11-798
+v. :
+CITY OF LOS ANGELES, :
+CALIFORNIA, ET AL. :
+- - - - - - - - - - - - - - - - - x
+Washington, D.C.
+Tuesday, April 16, 2013
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 11:17 a.m.
+APPEARANCES:
+DANIEL N. LERMAN, ESQ., Washington, D.C.; on behalf of
+Petitioner.
+JOHN F. BASH, ESQ., Assistant to the Solicitor General,
+Department of Justice, Washington, D.C.; for United
+States, as amicus curiae, supporting Petitioner.
+STEVEN S. ROSENTHAL, ESQ., Washington, D.C.; on behalf
+of Respondents.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+DANIEL N. LERMAN, ESQ.
+On behalf of the Petitioner 3
+ORAL ARGUMENT OF
+JOHN F. BASH, ESQ.
+For United States, as amicus curiae,
+supporting Petitioner 19
+ORAL ARGUMENT OF
+STEVEN S. ROSENTHAL, ESQ.
+On behalf of the Respondents 30
+REBUTTAL ARGUMENT OF
+DANIEL N. LERMAN, ESQ.
+On behalf of the Petitioner 52
+P R O C E E D I N G S
+(11:17 a.m.)
+CHIEF JUSTICE ROBERTS: We will hear
+argument next in Case 11-798, American Trucking
+Associations v. City of Los Angeles.
+Mr. Lerman?
+ORAL ARGUMENT OF DANIEL N. LERMAN
+ON BEHALF OF THE PETITIONER
+MR. LERMAN: Mr. Chief Justice, and may it
+please the Court:
+This case is about the plain text of the
+FAAAA express preemption clause and the continuing
+vitality of this Court's decision in Castle v. Hayes
+Freight Lines.
+I'd like to start by showing why the Port's
+requirements here fall within the text of the statute
+and cannot be saved by any market participant exception.
+The FAAAA provides that no State or
+political subdivision of a State may enact or enforce
+any law, regulation, or other provision having the force
+and effect of law related to rates, routes, and services
+of a motor carrier. The only statutory language at
+issue here is the force and effect of law requirement.
+And the Port's actions have the force and effect of law
+under any reasonable interpretation of the phrase.
+The Port is imposing binding standards of
+conduct on motor carriers as a condition of accessing a
+channel of interstate commerce. The Port is enforcing
+those requirements through criminal penalties -
+JUSTICE GINSBURG: I thought that the Port
+said we don't apply criminal penalties which come from
+the tariff, we don't apply those to licensed motor
+carriers. They made that representation, so I think we
+have to accept that as being so.
+MR. LERMAN: They -- they did make that
+representation and we could accept that, but it's
+irrelevant because the Port is still imposing the
+criminal penalties on the terminal operators. And when
+a State is imposing criminal penalties, that is classic
+governmental action, the State acting in its sovereign
+capacity, regardless of whom the penalties are imposed
+upon. And in this Court's decision in Roe, it made
+clear that States could regulate trucking activity
+through penalties, in that case civil penalties, imposed
+only on people who do business with truckers.
+Here, the State's requirements are coming at
+the truckers from both ends. On the one end, you have
+the criminal penalties imposed on the terminal operators
+to coerce their conduct and exclude truckers. On the
+other hand, you have the tariff which puts conditions on
+access to the Port of Los Angeles, which is a key
+channel of interstate commerce.
+So the Port's requirements here have the
+force and effect of law in spades, because using -
+JUSTICE SOTOMAYOR: Can I break down your
+arguments into two components, if you might? Whether or
+not the market participant exception exists at all; and
+if it does, how far does it go?
+So, let's get to the first question in my
+mind. Seems almost impossible for me to believe that
+the States couldn't require someone to put a little
+placard like you get at the -- at almost any building
+that you go into to park your car. They ask you to put
+a little placard in the front of your window so they
+know who you are and where you're going in the Port,
+okay?
+Why is the placard requirement here any
+different than that requirement generally? Because if
+you enter property, you have -- most people tell you put
+a placard in the window to tell us you got permission to
+come in.
+MR. LERMAN: It's -- it's different in this
+case, Your Honor, because -- in addition to the overlay
+that 14506 specifically targets identification
+requirements, and -- and for purposes of this case,
+it's -- but I understand -
+JUSTICE SOTOMAYOR: But even if that, if we
+didn't have a market participant, why couldn't the State
+say: When you come into the terminal, you just got to
+put a little placard in so we know that you're not
+parking here overnight when you've already been unloaded
+or something else?
+MR. LERMAN: I think you need to look to the
+particulars of this case, and the -- and the fact is
+that the placard requirement here is codified into an
+ordinance, it's backed by criminal penalties, and it's
+restricting access to a channel of commerce. Because we
+have all those factors here, it has the force and effect
+of law.
+JUSTICE SOTOMAYOR: Could the terminal say,
+we have a pollution problem and only modern trucks can
+come and unload here?
+MR. LERMAN: No.
+JUSTICE SOTOMAYOR: So they have to take
+trucks that are too heavy for this crane to lift?
+MR. LERMAN: Heavy is a different scenario,
+Justice Sotomayor, because there's an express exception
+to the FAAAA for weight and size restrictions. So
+Congress carved out a series of exceptions for the FAAAA
+for safety requirements, which gets to part of your
+question, for height and weight and size limits, for
+requirements pertaining to the transport of
+nonconsensual goods and the like. It did not create a
+proprietary exception. So a lot of Your Honor's
+concerns may well be covered by one of these other
+exceptions.
+But there is no exception for a proprietary
+action. If it has the force and effect of law and it
+does not fall within one of the enumerated exceptions to
+the statute, then it is preempted under the terms that
+Congress used.
+JUSTICE SCALIA: Even though -- even though
+a related statute did -- did make an exception for
+proprietary action, isn't that right? The FAAAA?
+MR. LERMAN: The ADA.
+JUSTICE SCALIA: The ADA.
+MR. LERMAN: Yes, that's quite right, and
+precisely because that statute contained an exception
+and this Court has recognized that when Congress enacted
+the FAAAA, it copied the ADA, and it copied the express
+preemption clause, but it -- Congress chose not to
+include that proprietary exception.
+JUSTICE GINSBURG: Do we know why, why
+Congress had a different regulation for ports and for
+airfields?
+MR. LERMAN: I don't believe the record -
+the legislative history doesn't show why. But Congress
+thought, clearly copied the statute and made the
+decision not to include it.
+So by the terms of the statute, Congress
+wrote a statute that preempts any action with the force
+and effect of law, and it chose not to carve out an
+exception for proprietary action which, as you say, Your
+Honor, was included in the Airline Deregulation Act.
+So that just lends added force to the
+argument that the Act here does not contain an unstated
+exception, an exception that Congress has created not
+only for the ADA, which is the express model for this
+Act, but in a host of other statutes where Congress
+carved out specific exceptions for proprietary actions.
+JUSTICE SOTOMAYOR: Except in Boston Harbor,
+we said that there was a presumption in favor of it
+unless Congress explicitly indicated to the contrary.
+MR. LERMAN: Well, Boston Harbor spoke to
+express or implied indication of congressional intent.
+Here there is express indication of congressional
+intent, which is an express preemption provision
+dictating the term -- the scope of preemption. And
+Boston -
+JUSTICE SCALIA: Boston Harbor was implied
+preemption, right?
+MR. LERMAN: That's correct, Your Honor, it
+was implied preemption. There was no express preemption
+clause to construe, and that language is in the context
+of an implied preemption case. Here, as Justice Scalia
+notes, we have an express preemption clause, and we have
+a clause that has carveouts for a lot of things, but it
+does not have a carveout for proprietary action. And
+that is -- that is the best evidence as Congress has
+intended.
+This Court has stated, when there's an
+express preemption clause, the plain language of the
+clause defines the scope of Congress's intent. And here
+the plain meaning of the clause covers actions as here
+that are backed by criminal penalties and impose
+conditions of access to a key channel of interstate
+commerce.
+That is the very definition of force and
+effect of law. The Port is invoking the full coercive
+power of the State to impose conditions on motor
+carriers, and that is exactly what Congress sought to
+prevent. Congress sought to prevent State actions that
+impede the free flow of trade or that would result in a
+patchwork of requirements from jurisdiction to
+jurisdiction.
+That is what the Port's doing here. It -
+it conflicts with Congress's objectives and it falls
+within the text of the statute. And it cannot be saved
+by virtue of a market participant exception that, by
+Respondent's own admission, is untethered from the text
+of the statute itself for the reasons that we've
+discussed. Congress made quite clear what it wanted to
+except from the broad scope of preemption, and this
+Court has reinforced the breadth of preemption, and did
+not include -
+JUSTICE SOTOMAYOR: Do we need to get into
+the market exception if we find that this is -- has the
+force or effect of law rather than being a private
+contract?
+MR. LERMAN: No. If this has the force and
+effect -
+JUSTICE SOTOMAYOR: It's one or the other -
+or both, but we could choose.
+MR. LERMAN: It either has the force and
+effect of law or it doesn't. If it has the force and
+effect of law, it falls within the scope of the express
+preemption clause and this Court does not need to
+address any of that.
+I'd like to turn my -
+JUSTICE SCALIA: Some -- some of the rules
+are okay, though, as you acknowledge, and I guess
+there's a second question in the case.
+MR. LERMAN: There is. Thank you -
+JUSTICE SCALIA: You were about to get into
+that anyway.
+MR. LERMAN: I was going to, but thank you,
+Your Honor.
+JUSTICE SCALIA: Okay.
+MR. LERMAN: I was going to get to the
+second question in the case, which is this Court's
+decision in Castle v. Hayes Freight Lines. In Castle,
+this Court held that -- that a State cannot enforce
+otherwise valid requirements through a partial
+suspension of a motor carrier's federally granted right
+to operate in interstate commerce.
+That is precisely the authority that the
+Port is claiming here. The Port is claiming the
+authority to suspend or revoke motor carrier's access to
+the Port of Los Angeles, the largest container port in
+the United States and a key channel of interstate
+commerce. That would affect -
+CHIEF JUSTICE ROBERTS: That matters -- that
+matters in your view whether it's a key component of
+commerce or not. If it's -- if it's a particular
+highway, a particular street, you think Castle doesn't
+apply in that case?
+MR. LERMAN: Your Honor, Mr. Chief Justice,
+Castle spoke to partial suspensions of a motor carrier's
+right to operate interstate commerce and I think it
+cannot be denied that in this case, because of the
+nature of the Port, it is -- it would affect a partial
+suspension. I don't think this Court needs to get into
+single roads and I don't think there's any reason -
+CHIEF JUSTICE ROBERTS: Well, I think you
+have to get into it since I asked you a question about
+it.
+(Laughter.)
+MR. LERMAN: You're quite right,
+Mr. Chief Justice. I don't see any reason to let that
+camel's nose under the tent. If it's a partial -
+JUSTICE SCALIA: Or maybe you should stop
+referring to a key component of interstate commerce. It
+doesn't matter whether it's key or not, does it?
+MR. LERMAN: That's quite correct. It would
+affect the partial suspension of interstate commerce, it
+would seriously disrupt their interstate commerce
+operations. This falls within Castle's exact terms.
+And Congress has not -
+CHIEF JUSTICE ROBERTS: So they say there's
+this particular road, through a State park or something,
+that's scenic, and sometimes the trucks drive on the
+side of the road and it causes damage to what the
+State's trying to preserve, and they have a rule: Look,
+if you do that three times and we warn you, the fourth
+time you can't use this road. That is preempted?
+MR. LERMAN: That is -
+CHIEF JUSTICE ROBERTS: There is another
+road not too far away. You've got to use that one.
+MR. LERMAN: That is preempted under Castle.
+The conventional forms of punishment might include the
+three times and we fine an individual truck. But that's
+what the situation was in Castle. You can't punish a
+violation of an otherwise valid regulation through a
+partial suspension of interstate commerce. And I think
+that would qualify.
+And Castle is -
+JUSTICE KAGAN: Castle's didn't say that,
+Mr. Lerman. What if the Court is just saying, we want
+to keep unsafe trucks off the road, but we're not
+prohibiting you for past violations that you've cured.
+All we're doing is keeping unsafe trucks out of our
+port.
+MR. LERMAN: Justice Kagan, the conventional
+forms of punishment include, as we acknowledge, taking
+an unsafe truck out of service or denying access. If -
+if the truck is leaking hazardous material, the port can
+deny access to that particular truck.
+The key -- the key problem here is the
+carrier-level suspension of access. And so saying,
+because that one truck of the carrier might be leaking
+hazardous material, we are not going to let any trucks,
+even perfectly safe trucks that don't present any
+present -- clear and present safety risk -- into the
+port until you fix that unsafe truck.
+And that's the authority reserved by the
+State in this case, and that is what Castle said is
+preempted. And so we are not denying the authority to
+invoke what Castle called conventional forms of
+punishment, which we would concede includes the -- the
+type of punishment Your Honor's contemplating, but what
+it doesn't allow is a -- a suspension of access to a
+motor carrier as a business entity.
+JUSTICE KAGAN: But why does that -- why
+does it have to be truck by truck rather than operator
+by operator? Why can't the port say, you know, when we
+found a couple of trucks that this company uses that are
+unsafe, we're just going to keep the company off our
+premises until the company can show us that they've
+cured all their trucks, that they are a safe operator
+now.
+MR. LERMAN: Because that's what Castle
+dealt with, Your Honor. And I was going to turn to the
+statutory scheme in Castle, which is Castle's decision
+was predicated on a statutory scheme that gave the
+Federal Government exclusive authority to grant
+interstate commerce permits -
+JUSTICE SCALIA: Does the Federal Government
+inspect trucks for safety and -
+MR. LERMAN: It has regulatory -
+JUSTICE SCALIA: -- leaking hazardous
+materials and such?
+MR. LERMAN: I don't know that it inspects
+it directly, and it has provisions for States to do
+that. But the Federal Government still under 49 U.S.C.
+13905 has exclusive authority to revoke a Federal -- a
+motor carrier's Federally granted operating authority.
+And so there are significant rights that States have to
+impose -
+JUSTICE SCALIA: Has it ever done that?
+MR. LERMAN: I don't know if it's ever done
+that, but what it has done is -- is what Castle said,
+which is -- is -- there was no reason to -- to deny that
+the conventional forms of punishment are sufficient to
+protect the State's safety concerns, and then if they
+are not sufficient there was then and there still exists
+a remedy, which is to go to the Department of
+Transportation and ask them.
+And that remedy exists to this day under 49
+U.S.C. 13905. The same statutory scheme that was
+present in Castle and animated this Court's decision in
+Castle is present today. So if they have a safety
+concern, there are ways to deal with it.
+They can do what Justice Kagan suggested,
+which is to deny access to a particular truck. They can
+go to the Department of Transportation and ask for -
+for some type of action. But what they can't do is
+assert the veto power that this Court held was precluded
+in Castle and in the city of Chicago cases, and that is
+precisely the veto power that they are asserting here.
+JUSTICE BREYER: Can I make a somewhat -
+this is how I'm seeing the case and there is some
+mystery in it to me and it would affect how I might
+write this thing or consider it.
+Look, what they want to do is to not have
+trucks park in the neighborhood on the street, and they
+want to put a tag on it. All right. So the second -
+you seem to have said what they should have done: You
+go to the NTSB and you ask, and they do it. They
+approve it or they don't.
+And their -- their problem is that they
+don't want 40 or 50 States each saying a different
+sticker, all right? So then the whole back fills up
+with stickers and that's the problem. That's the
+problem. You go explain, et cetera, okay.
+But the first part, the parking, it seemed
+to me of course they should be able to do that. And
+there seems to me to be a tailor-made exception: The
+authority of the State to impose highway route controls
+or limitations. And if that isn't tailor-made for this,
+I don't know what is, I mean, I don't know what it's
+doing there. And so why has nobody done that?
+When I read the lower court on that, they
+said: Oh, it affects fares and it affects services.
+Every route restriction affects fares and services, you
+know? So here I see an exception which seems
+tailor-made for what they want to do. I see all kinds
+of problems with the proprietary thing. What am I
+supposed to do? What -- what I see as the exception
+tailor-made for this isn't in the case.
+MR. LERMAN: I think that's -
+JUSTICE BREYER: So what do you suggest?
+And it's a question for both sides.
+MR. LERMAN: You're right that it's not in
+the case, Your Honor. It's not in the case because the
+only issue here was whether it has the force and effect
+of law, because that's what the court below held. The
+court below held that these could escape preemption
+because the port was acting arguably in part by a
+motivation for community goodwill.
+JUSTICE SCALIA: You -- you agree with
+that -- that that provision would apply? I don't see
+that it applies.
+MR. LERMAN: I don't know if it applies.
+That was going to be the second answer.
+JUSTICE SCALIA: Route restrictions?
+MR. LERMAN: I don't think this is a route
+restriction. I don't know if it would qualify, and that
+would be -
+JUSTICE BREYER: I mean, you can't say,
+don't drive our truck through the neighborhood? This is
+residential area, no trucks over such-and-such. If you
+can say that, why can't you say do it part of the time?
+Why can't you say -- we're arguing a different question.
+I agree it is not -
+MR. LERMAN: Not only are we arguing a
+different question, I think that gets to -- and I would
+like to answer this question and then reserve my time
+for rebuttal if I might.
+But that gets to the "related to" question:
+Is that in fact related to rates, routes, and services
+with respect to the transportation of property? That
+sometimes is a more factual inquiry. But that is not at
+issue here. The only issue here is whether it can
+escape preemption because the Port was arguably
+motivated in part by a proprietary concern such as
+community goodwill.
+None of those words are in the statute,
+which preempts all actions that have the force and
+effect of law, and they are preempted on this basis.
+And I would like to reserve my time.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Mr. Bash, welcome.
+ORAL ARGUMENT OF JOHN F. BASH,
+FOR UNITED STATES, AS AMICUS CURIAE,
+SUPPORTING THE PETITIONER
+MR. BASH: Thank you, Mr. Chief Justice, and
+may it please the Court -
+JUSTICE SOTOMAYOR: Do you think the city
+could pass a regulation like as Justice Breyer
+suggested, that says, stay off residential streets?
+MR. BASH: Well, if the city were to pass
+that regulation, they'd have to make out a record that
+it either -- it comes within one -- one of the
+exceptions. Now, it could have been the safety
+exception. The Port argued for that here and the
+district court rejected it on the record after hearing
+testimony about the alleged safety and hazardous cargo
+justifications.
+They didn't make an argument under sizes and
+weights. Presumably, they could make that record.
+You'd have to see about the strength of their
+justifications. I'd note that I -- it would probably be
+the case they would have to apply uniformly to trucks of
+a given size or weights. Here, they were only going
+after drayage trucks, which are a particular category of
+trucks. I don't know if they could make that showing
+with respect to all trucks or if that was their intent
+here.
+I would like to turn, if I could, to Justice
+Ginsburg's question about the criminal penalties in this
+case. We accept the Port's statement in their brief on
+face value that the criminal penalties would only fall
+on the marine terminal operators. But, like Petitioner,
+we don't think that makes a difference.
+If, for example, the State Highway
+Commission said, okay, certain trucks can't use our
+roads unless you sign a certain agreement, but don't
+worry, if you don't agree to abide by that agreement we
+won't do anything to you, but we will throw every person
+who does business with you in jail.
+Whatever else you could say about that
+scheme, I think it would be pretty clear that it would
+be the act of a sovereign and so it would have the force
+and effect of law within the meaning of this statute.
+JUSTICE KAGAN: Mr. Bash, what would you
+think of this case if the criminal penalties were taken
+out of it? In other words, if the Port did this all
+through contract, basically said to each terminal
+operator, look, if you contract with truckers that don't
+have this concession agreement, we are going to charge
+you a higher price.
+So -- so if the criminal penalties were not
+in the case, is there enough here to still make this the
+force and effect of law?
+MR. BASH: Yes. We think not only is there
+enough here, but there's another sort of a bright-line
+rationale before you get into the Boston Harbor sort of
+understanding of if this is regulatory or market
+participant. And that's the second factor we cite in
+our brief, which is we don't consider the Port the
+equivalent of the cement factory in Reeves, like a
+commercial enterprise that you might see in the private
+marketplace.
+This port authority, like I think virtually
+all other port authorities in charge of these massive
+container ports, hold land much like a highway
+commission in trust for the public.
+This is not private property ownership. If
+you look at all the different metrics of success the
+court of appeals pointed to and the district court
+pointed to and I think the port points to in their
+brief, they are not bottom line business metrics like
+shareholder value and dividends and so forth.
+It's economic vitality of the region. It's
+the number of jobs it brought to the L.A. area. That is
+not the mark of a commercial enterprise. It's the mark
+of a regulatory body. It's something a mayoral
+candidate might point to.
+CHIEF JUSTICE ROBERTS: Well, that's not
+true. I mean, a commercial enterprise might want to
+attract customers because of its reputation as a -- as a
+green company, because of its reputation of hiring local
+workers.
+I think you have too confined a notion of
+what's good business.
+MR. BASH: I think it's true that Wal-Mart
+might say: Hey, we don't do business with labor law
+violators, or we adhere to certain environmental
+practices, as part of a marketing campaign. But I think
+what this Court said in Boston Harbor was that, yeah, a
+private business could boycott labor law -- law
+violators too, and, in a sense, the private business
+would be engaged in quote-unquote regulation.
+But when the Government does that, when the
+Government uses its special place in society and its
+enormous economic power to effectively leverage its
+power to impose regulation, that's -- that's
+fundamentally different, and that is not the Government
+acting in a market capacity even though, sure, Wal-Mart
+or Starbucks could do a similar thing.
+JUSTICE KENNEDY: Is it part of your
+argument that the city contracts with the port and then
+the port contracts with the truckers, but at that point,
+the ports are -- are confined in what they can do?
+There can be really no bargaining between the ports and
+the truckers based on what the city has already told the
+port?
+MR. BASH: Justice Kennedy, that -- that's
+like our third order argument. I mean, our first order
+argument is criminal penalties and just the nature of a
+port and -- the Port doesn't contract with the city.
+The Port is a department of the city, and its members
+are appointed by the mayor and its revisions to the
+tariff are codified in city ordinances. So it's in
+every way a part of the city, it's not just a
+contractual relationship.
+We think just the criminal penalties here
+and the nature of what a port is. A port -- a
+regulatory body that governs a critical part of public
+infrastructure is enough to resolve this case. If you
+think no, the criminal penalties don't matter and this
+Port is more like the cement factory in Reeves, it's
+really just a plain vanilla commercial enterprise, we do
+think the fact that it's leveraging significant economic
+power, that it's the only place in L.A. to do this
+business, is part of this sort of Gould market
+participant analysis.
+JUSTICE GINSBURG: Mr. Bash, how then do you
+deal with the problem that precipitated all of this?
+Here is a port that's getting lots of complaints from
+the neighborhood people. It wants to expand the port,
+it's being thwarted by environmental suits, so it wants
+to go green and it wants to do something about the
+pollution and the traffic and the hazards from the
+truck. You're saying that it can't do that?
+MR. BASH: We're -- we're not saying it has
+no recourse. And I just note parenthetically that the
+same could be true of any state highway commission
+that's contemplating an expansion of a highway project.
+They could face similar suits based on environmental
+complaints. They could face similar community
+opposition: We don't want these huge trucks coming
+through our neighborhood. That doesn't make the decrees
+and acts of a highway commission, particularly if backed
+by criminal penalties, acts that lack enforcement.
+JUSTICE GINSBURG: And how could a port
+respond to the complaints if you're making this -- this
+neighborhood around the Port an environmental hazard?
+And so we're going to make sure that our representatives
+vote against any expansion of the Port.
+MR. BASH: To -- to deal with that sort of
+effectively political opposition, community opposition,
+I think the Port retains a lot of flexibility under the
+statute to address them.
+If you look at page 90 through 93 of the
+Pet. App, it discusses the extensive incentive programs
+that the Port established. 35 percent of the drayage
+trucks currently serving the Port, or at least at the
+time the district court's opinion was written, are new,
+clean trucks that don't have the same emissions problem.
+JUSTICE BREYER: But wait. Why isn't the --
+I mean, I thought that the purpose of these
+exceptions -- of course cities can have parking
+regulations. Of course States and cities can have
+regulations involving trucks as to how and where they
+use the highways and which ones they can't use and which
+routes, et cetera. That's the purpose of that
+exception, isn't it? I mean, I -- I thought that's what
+it was.
+And, of course, you're quite right in saying
+they should have to do it uniformly. It says based on
+size and weight. Okay. Fine. What's the problem with
+that, that I'm not seeing?
+MR. BASH: I took Justice Ginsburg's
+question to be addressing a slightly different point.
+The exceptions are for things like safety, hazardous
+cargo -
+JUSTICE BREYER: No, no, it says, "The
+authority of a state to impose highway route controls or
+limitations based on the size and weight of the motor
+vehicle or the -- or hazard -- or hazardous nature."
+And it's size and weight, hazardous nature. I mean,
+isn't there room in those words to include environmental
+consideration?
+MR. BASH: There -- there may be. It's
+obviously an issue that hasn't been briefed in this
+case.
+JUSTICE SCALIA: I don't think there is.
+You think there is? He's saying that you can answer
+questions.
+JUDGE BREYER: I -- I myself don't know.
+JUSTICE SCALIA: Seems to me the answer is
+no.
+MR. BASH: But I -- I just wanted to
+emphasize for Justice Ginsburg, though, that there are a
+lot of things that ports and other -- other municipal
+entities can do to address environmental concerns. And
+they've been done in this case.
+It is the replacement of these trucks, which
+was done through a subsidy and incentive program that's
+remarkably similar to the one this Court blessed as
+market participation in Hughes that allowed these
+extensive emission reductions that the Port's seen.
+That sort of direct participation in the market has all
+the hallmarks of what we don't have here. It's not
+enforced through criminal penalties. It's not the -
+the Port acting as a regulator of this public
+infrastructure. It's actually entering the drayage
+market and purchasing trucks, effectively becoming a
+part owner of the truck.
+So I do think that the Port has extensive
+authority to address environmental concerns within the
+confines of this preemption statute.
+The Chief Justice asked about the Castle
+question, whether it matters or what if you just didn't
+want a road or what's the size of it?
+I will say that the court in Castle seemed
+to think it made a difference, the sort of size of the
+imposition, but I don't think it needs to make a
+difference anymore because we have a direct preemption
+statute.
+We think that the logic of Castle applies
+not only in the context of the licensing scheme that has
+changed but was effectively in place during Castle, but
+under Section 14501(c) itself. 14501(c) says States
+can't pass regulations that relate to prices, routes,
+and services, but it also gives States safety exceptions
+and so forth. And there needs to be a reconciliation of
+those two provisions.
+I think we'd all agree that if a State -- if
+a truck committed two safety infractions, you couldn't
+say, well, now we're going to regulate your prices,
+routes, and services as punishment for that infraction.
+This -- the framework we've set forth in the Castle
+portion of our brief I think is a reasonable
+reconciliation of the State -
+JUSTICE SOTOMAYOR: So you -- do you think
+that a statute that says if you're trucking company
+operator and you have three violations of X safety
+regulations, you just can't use our highways because we
+don't trust you, is that okay?
+MR. BASH: No, that's certainly not okay.
+We think that fails under both the holding of Castle and
+just under the current expansion provision, which is
+maybe the easier way to do it.
+JUSTICE SOTOMAYOR: Why? Why isn't it a
+standard fact that States and cities use to stop people
+from repetitive violations to tell them, if you keep
+doing this and don't remedy what you've done, we're just
+not going to let you do X, Y, and Z? Why wouldn't the
+safety violate -
+MR. BASH: Well, it should be clear at the
+outset that we're not talking about people; we're
+talking about motor carriers as an ongoing enterprise.
+So we're not saying an individual can't have their
+license revoked.
+Are you finished with the question?
+CHIEF JUSTICE ROBERTS: Finish your answer.
+MR. BASH: But more broadly, we think the
+Federal regulatory scheme in combination with this
+preemption provision just bars States from taking
+certain actions that would affect the interstate
+operations of motor carriers.
+Thank you.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Mr. Rosenthal?
+ORAL ARGUMENT OF STEVEN S. ROSENTHAL
+ON BEHALF OF THE RESPONDENTS
+MR. ROSENTHAL: Thank you,
+Mr. Chief Justice, and may it please the Court:
+At issue today are two provisions contained
+in a contract between commercial actors. They set forth
+conditions under which drayage trucks can enter the
+nonpublic portions of the Port, and they are
+indistinguishable, indistinguishable from contract
+provisions that private parties routinely impose on
+those who seek to enter their property. In our view,
+the FAAAA does not deal with contracts, and it doesn't
+deal with the right of landowners to condition those
+seeking entry into their Port.
+JUSTICE SCALIA: What exception do you
+appeal to? There are a number of exceptions there.
+MR. ROSENTHAL: What -
+JUSTICE SCALIA: What exception are you
+appealing to from the -- from the preemption provision?
+MR. ROSENTHAL: Your Honor, my first -- my
+first exception is the actual force and effect of law.
+We do not believe -
+JUSTICE SCALIA: Well, that's a different
+point, but -- but you're -- you're talking about, you
+know, an exception for private contract operations as
+opposed to public matters.
+MR. ROSENTHAL: We're -
+JUSTICE SCALIA: There are exceptions to the
+preemption and that is not one of them. And other
+statutes do have exceptions for -- for commercial
+operations or private operations. This one doesn't.
+MR. ROSENTHAL: With -- with due respect,
+the statute says "law, regulation, or provision having
+the force and effect of law." That's a -- that's
+something which applies to the general public. We
+submit that what we are calling the market participant
+exception, what it is generally congruent with, what is
+meant by Congress by the term "force and effect of law."
+The Sixth -- the Fifth Circuit in Cardinal said that the
+market participant analysis should inform what is meant
+by force and effect of law. We're not -
+JUSTICE SCALIA: Do market participants
+impose civil and criminal penalties?
+MR. ROSENTHAL: Ah. I think -
+JUSTICE SCALIA: Ah. Yes.
+MR. ROSENTHAL: The answer is no, but I
+think the criminal penalties is a red herring in this
+case, and if you will --if you'll just indulge me a
+moment, the concession agreement everyone concedes does
+not include any criminal penalties. The tariff which
+applies to the marine terminal operators, yes, it
+contains a criminal penalty, but the criminal penalty is
+not included in this tariff against the marine terminal
+operators. It's intended for other purposes.
+We have no recollection of a cargo operation
+ever having had a criminal penalty. Yes, it's in there,
+there is a misdemeanor penalty but it applies to people
+like trespassers, people who perform traditional
+criminal acts.
+There is evidence in the record. I asked
+the director, the deputy director of the Port, how do
+you enforce these requirements, and his answer was,
+primarily through our lease contract. Obviously, we
+don't want to do away with the -- with our lessor, but
+there is no indication, and there is no fact on the
+record that these criminal penalties which our opponents
+keep dredging up are ever used against MTO's.
+JUSTICE SCALIA: Is that how we decide these
+things? When there is on the books a criminal penalty
+that can apply to everybody, do we let the State come in
+and say: Oh, you know, no harm, no foul because it's on
+the books but we -- we don't really use it. Well, I
+don't know -- I don't know that we do that. If it's
+there, it's a criminal penalty, and if -- if the
+condition of -- of -- of you're being able to impose
+these limitations is that you not have criminal
+penalties, there is a criminal penalty.
+MR. ROSENTHAL: Justice Scalia, first of
+all, the direct criminal penalty doesn't apply to the
+truckers at all.
+JUSTICE SCALIA: Okay.
+MR. ROSENTHAL: So the argument is, this is
+an indirect effect, and what I'm trying to argue is the
+indirect effect is not criminal in nature. Yes, there
+is a criminal provision. But I'm saying as a practical
+matter, criminal penalties aren't used indirectly to
+enforce this prohibition.
+CHIEF JUSTICE ROBERTS: Well, but like a lot
+of criminal penalties, that's the whole point. They
+keep people from doing crimes. It doesn't seem to me to
+be very probative to say we've never had to throw
+anybody in jail or we never had to prosecute anybody
+criminally. They have a coercive effect that a private
+operator cannot avail itself of.
+MR. ROSENTHAL: But, Mr. Chief Justice,
+usually criminal penalties apply to the public. The
+reason I'm bringing this up is we have an entirely
+separate and much more robust relationship with our own
+tenants through the lease. The lease is the way this is
+enforced. Criminal penalties -- no MTO thinks for a
+second about the criminal penalty. They think about the
+contractual relationship.
+And that's an important point here because
+what we're talking about and what's central here is the
+management of land which we own, which we will not,
+underscore "not," be able to grow and develop unless we
+have some modicum of control. And we are not talking
+about expansive control here, but some modicum of
+control over who enters our land.
+Let me make one additional point which I
+think is terribly important. The owner of land -- the
+owner of land has to have some control of the type which
+ATA and the Government says we can't have control over.
+I will give you a simple example where we cut a hole in
+our fence and say the trucks can come in, you can come
+in on Navy Way but you can't come in on Prospect Street.
+That under a strict definition of the statute would be
+prohibited to us. But you can't prohibit a landowner
+from saying: You've got to identify yourself.
+JUSTICE BREYER: Well, that's why the route
+regulation thing is the exception. But the State of
+California decides -
+MR. ROSENTHAL: But we're not acting -
+JUSTICE BREYER: Pardon me. I know you're
+not. The State of California decides: Here's what we
+have: A State public utilities commission which issues
+a tariff, and what the tariff says is anyone who
+contracts with a person in this State, a property owner,
+to move his goods and services, cannot charge less than
+$30 a pound. All right? Plainly preempted.
+And your case differs because?
+MR. ROSENTHAL: My case differs because we
+are not dealing directly with rates, routes or services.
+We are not regulating. We are -
+JUSTICE BREYER: You're saying it falls
+outside the definition of "routes." Well, that argument
+is not in front of us. I mean, I thought we were
+conceding here it falls within the definition of routes
+or rates or services.
+MR. ROSENTHAL: No.
+JUSTICE BREYER: The parking regulation -
+MR. ROSENTHAL: That question was -
+JUSTICE BREYER: Well, if it doesn't fall
+within, then I'm not sure what we're talking about,
+because I thought the problem was that it does fall
+within the rates, routes and services, and then the
+question is, is there proprietary exception, et cetera.
+MR. ROSENTHAL: Well, the -- the answer -
+our position is that even if it is rates, routes and
+services, that what we are doing is not regulation, that
+this is proprietary.
+JUSTICE BREYER: That's why I asked you, and
+how does it differ from the hypothetical I just put.
+MR. ROSENTHAL: I think -- I think -- it
+differs from that because we're not prescribing any -
+if we are describing -- if we are prescribing it, it's
+inherent within our ability to access our particular
+land.
+JUSTICE KENNEDY: You are saying that you
+can do by contract what you cannot do by regulation.
+And I don't understand that argument when there are
+criminal penalties that attach to the breach of the
+contract.
+MR. ROSENTHAL: But, Justice Kennedy, let me
+say again, there are no criminal penalties that attach
+to the breach of the contract. It is purely a contract.
+The remedies are purely civil. Even our other side in
+their argument has conceded there are no criminal
+penalties to the breach of the concession agreement.
+JUSTICE SCALIA: I'm not sure that's
+crucial. You think a state can say nobody's going to
+come on our highways until it signs a contract? Okay?
+These highways belong to us, they are State land, and
+anybody who wants to ride on the highways, you have to
+enter a contract with the State. And that's going to
+get around this Federal statute?
+MR. ROSENTHAL: No, no, no. Justice Scalia,
+there is a critical distinction here. The roads, the
+bridges, the parks are open generally to the public.
+There is a difference between that and the private part
+of the city hall. For example, we restrict who comes
+into the garage under the city hall. We restrict who
+comes -
+JUSTICE SCALIA: Okay. It's a highway only
+for trucks. It's a truck highway. Okay? It's
+specially reinforced and everything, but you have to
+enter a contract with the State in order to drive your
+truck on this highway. And that's okay?
+MR. ROSENTHAL: But we're not -- we're not
+dealing with that hypothetical.
+JUSTICE SCALIA: I know we're not. That's
+why it's a hypothetical.
+MR. ROSENTHAL: But there's a difference,
+and let me give you the difference, Justice Scalia. And
+that is in this particular case we are dealing with a
+business, a commercial enterprise. And I think the
+appropriate standard which we would contend controls
+whether force and effect of law, market participant
+applies, is whether this was an action taken, reasonably
+taken to deal with a genuine commercial interest of the
+Port.
+JUSTICE SCALIA: Okay. The State makes
+money on this truck highway. It's a money-maker, okay?
+MR. ROSENTHAL: No, no, we're not -
+JUSTICE SCALIA: And that makes it okay?
+MR. ROSENTHAL: No. We are not prepared to
+concede that making money is sufficient, taxes are
+sufficient. We have findings in the district court here
+that this was undertaken to advance a commercial
+objective, that commercial objective being to allow the
+port to grow. This -- the city undertakes regulatory
+activities.
+It runs a police department, it runs -- it
+runs a fire department, public works. It does, in the
+case of the city of Los Angeles, run three enterprises:
+A port, an airport, and a power and water department.
+That is substantively different than running the public
+roads and the bridges.
+And we believe what's critical to this
+analysis and what we have extensive findings from the
+district court is that this was run as a business, like
+the cement plant, like the Boston Harbor. Boston Harbor
+I think I would posit is far closer case, it seems to me
+than what we're dealing with here, which are marine
+terminals.
+But nonetheless, in Boston Harbor this Court
+held that the regulation of who could work in Boston
+Harbor, the circumstances fell within the market
+participant doctrine.
+JUSTICE SCALIA: It was implied preemption
+in Boston Harbor. Here you have an express preemption
+clause which contains exceptions, and among those
+exceptions is not the running of a commercial
+enterprise, even though that is made an exception in a
+number of other Federal statutes, Federal preemption
+statutes. That's a very high hill for you to climb,
+relying solely on the fact that you are a commercial
+enterprise.
+MR. ROSENTHAL: It's not the only thing,
+Justice Scalia, I'm relying on. I'm also relying on the
+language which Congress put in, which are words of the
+limitation, which is force and effect of law.
+If Congress had not -- had said any
+requirement by the Port, any requirement by a city
+whatsoever, I believe we'd have a closer case. But
+they're only talking about things which have application
+to the general public.
+We submit that force and effect of law
+almost invites a market participant analysis.
+Let me also respond to your point about the
+ADA, the Airport Deregulation Act. The reason there is
+a limited exception for airport proprietors, as this
+Court has held, is because there was a longstanding
+issue about airports being able to impose restrictions
+about noise pollution on surrounding communities.
+Congress was well aware back in the 1970s,
+when this statute was enacted, of that controversy and
+they wanted to preserve of the existing rights of
+airports. There is no comparable controversy with
+respect to truck ports or ports or the Government that
+was ongoing in 1994 when this particular statute was
+adopted.
+But let me point out that what did -- did
+occur in 1994 was that Congress was writing against the
+backdrop of this Court's decision in the Boston Harbor
+case, in which Congress was told that in the absence of
+something express, which says that a city or State can't
+manage its own property when it pursues its proprietary
+interests, that there would not be inferred -- not be
+inferred -- a restriction on a State's power to manage
+its own property.
+So, unlike the situation when the ADA was
+adopted, when the FAAAA was adopted in 1994, there was,
+we submit, a background principle, which this Court had
+enunciated earlier, that there was a presumption that
+our proprietary powers were to be preserved.
+If -- if I can, I'd like to go on to the
+Castle argument as well. Our point -- we make three
+different points in Castle. First of all, our position
+is that the Castle decision was predicated upon a very
+specific statutory regime that existed in -- under the
+Federal Motor Carrier Act of 1935.
+Justice Black specifically noted the details
+of that statutory regime, which included certificates of
+convenience and necessity, very precise rules under
+which trucks were to operate within -- within the United
+States.
+That regime has died. Died several decades
+ago. And we would submit that the Castle doctrine as it
+existed died with that regime.
+JUSTICE KAGAN: Mr. Rosenthal, could I
+interrupt you for a second and just make sure I
+understand what your policy is? Who do you exclude from
+the Port? What trucks -- what trucks or what trucking
+companies do you exclude?
+MR. ROSENTHAL: Well, in fact, we don't
+exclude anybody from the Port. We simply ask that those
+trucks that come on to port property sign a nonexclusive
+concession agreement which agrees to certain conditions.
+So drayage trucks that come on, on a regular
+basis, have to sign these conditions. We would point
+out that people who operate at our Port intermittently
+can get day passes. And generally speaking -
+JUSTICE SCALIA: What -- what if they
+violate those conditions? I mean, that's -- that's
+where the -- that's where the shoe pinches. What if
+they violate those contractual conditions? Then do you
+exclude only the truck that violates it, or do you
+exclude the whole trucking company?
+MR. ROSENTHAL: Well, we -- we -- there's a
+gradation of remedies. We don't -- we have -- we have
+generally not excluded or revoked. Generally, what
+we've done is tried to get compliance. There are -
+there are penalties, there are mechanisms of a
+contractual nature which are used.
+Those are the principal -
+JUSTICE SCALIA: What's the ultimate?
+What's the ultimate? You've tried everything else and
+you whack them with a big penalty.
+What is that?
+MR. ROSENTHAL: In -- in cases involving
+fraud, criminal penalties of a continuing nature, we can
+suspend or revoke their right to come on to the
+property. That's the ultimate. But -- but -- and this
+deals with the Castle argument -
+JUSTICE KAGAN: And -- and not just the
+noncompliant trucks, but the entire operator who are
+having some noncompliant trucks, is that correct?
+MR. ROSENTHAL: Again, we -- this -- there
+hasn't been this experience of -- of having to revoke
+and -- and suspend in cases like what you're describing.
+There are -- for example, there has been revocations
+when an LMC has not had the insurance it's required, but
+that applies to all of their trucks.
+JUSTICE KAGAN: Well, if you're saying there
+isn't that experience, I mean, could -- are you in a
+position actually to represent that you would not
+exclude anything except noncompliant trucks?
+MR. ROSENTHAL: There -- there hasn't been
+the experience. What we said before is that the
+severest penalties are intended for severe continuing
+offenses. And our position is that, given the fact that
+there are reasonable applications of the revocation -
+of the suspension requirement, given the fact that ATA
+has launched a facial attack on our regulation, that it
+will be sufficient time to deal with an as-applied
+Castle.
+If Castle survives and this Court -
+JUSTICE BREYER: There are three reasons,
+and the first one, I -- I'm not sure why it wouldn't
+survive in a policy of deregulation if it seemed to
+apply a fortiori, or equally, but I don't want to argue
+that with you.
+I want to be sure I have the second and
+third.
+MR. ROSENTHAL: Yes. Let me -- let me give
+you -- let me give you my -- the three.
+First, we don't believe Castle continues.
+JUSTICE BREYER: But what is the second and
+third?
+MR. ROSENTHAL: Second -- second argument -
+second argument is that even under the Castle regime,
+all Castle talked about is going -- allowing a truck to
+go up to a customer's property line, that -- that a
+certificate of convenience and necessity never gave
+anyone permission to go into Wal-Mart or anything else.
+And that's what we're talking about here.
+And thirdly, our position is that given this
+is -- this being a facial attack, given the fact that we
+believe that there are lawful applications of -- of the
+revocation to ongoing continuing violations, which is,
+frankly, the only -- I can't make a representation -
+JUSTICE SCALIA: I've never heard of this
+doctrine. This is a facial attack to a contract? Is
+that it? I mean, you -
+MR. ROSENTHAL: Well, but -- it's a -- it's
+a facial attack to -- it is. It's a facial attack to a
+contract. We don't believe that it applies to our
+contract at all.
+JUSTICE SCALIA: We have to attack this
+contract provision by provision, or application by
+application?
+MR. ROSENTHAL: But -- but they're arguing
+that our contract is tantamount to a law.
+CHIEF JUSTICE ROBERTS: Right. And I've
+heard of facial attacks to criminal statutes.
+MR. ROSENTHAL: Right. And -- but they are
+attacking this remedy to -- they've -- they've -
+talking -- they are attacking this on -- on its face and
+saying that no application of this provision is -- is an
+exception.
+JUSTICE BREYER: And what's the one that
+would be? Give me the example that you're thinking of
+where, given Castle -
+MR. ROSENTHAL: Yes.
+JUSTICE BREYER: -- and its applications, it
+would be -
+MR. ROSENTHAL: Where -- where a truck is in
+continuing violation, a company is in continuing
+violation of a safety restriction.
+JUSTICE BREYER: All right. Now, how
+does -- how -- how would that differ from Castle?
+Because what Castle was concerned about was a State that
+has a perfectly lawful regulation, and it's violated,
+then the State as the remedy excludes the truck from the
+State.
+MR. ROSENTHAL: Because -
+JUSTICE BREYER: That's what it's concerned
+about. And it didn't say anything about accepting very
+serious violations, i.e., continuing ones. The reason
+was the need for interstate regulation of an interstate
+enterprise. And that was the reasoning. Leave it to
+the ICC, a fortiori, where it's deregulatory policy, but
+leave that to the side.
+I want to know your best case in that one,
+and I don't see the example yet.
+MR. ROSENTHAL: Let me -- let me try to
+respond, Justice Breyer.
+I think if one reads the opinion in Castle,
+Castle dealt with a past violation, not a continuing
+violation. The record in that case didn't deal with
+the -- and I think the words of the -- Justice Black
+said that would be a different case, that there would be
+a right to exclude a continuing violation.
+JUSTICE SOTOMAYOR: Could I just go back,
+because -
+MR. ROSENTHAL: You certainly may.
+JUSTICE SOTOMAYOR: -- the theoretical
+questions. The agreement requires the operators to have
+offsite parking.
+MR. ROSENTHAL: Yes.
+JUSTICE SOTOMAYOR: All right? It has to do
+that for a reason. It means that if its trucks don't
+use that offsite parking, that the operator is in
+default? Is that the City's position?
+MR. ROSENTHAL: If -- if it does, it submits
+an off-street parking plan for all of the trucks which
+are registered to go onto the property, and it has to
+agree to keep those trucks in the off-site parking.
+If it breaches that agreement, it's treated
+as a breach, and we -
+JUSTICE SOTOMAYOR: I just wanted to make
+sure. What you're saying is if trucks park anywhere
+else, then the operator's in violation of the agreement.
+MR. ROSENTHAL: That -- that's correct.
+JUSTICE SOTOMAYOR: All right. With respect
+to the placard, as I read the provision it says you have
+to have the placard coming in and going out. Is this
+like one of those parking placards that people can affix
+temporarily or does it have to be a permanent?
+MR. ROSENTHAL: No, it does not have to be
+permanently affixed to the truck.
+JUSTICE SOTOMAYOR: Well, how does that help
+you? Meaning to -
+MR. ROSENTHAL: Well, there were -- we -- we
+provide them if they want a sticker they can put on
+their truck, but we don't require it. We just give them
+the words. And most trucks, in fact virtually all
+trucks of this type, have a -- have a frame on the
+outside where they temporarily put plaques, for example,
+at times when they are carrying hazardous materials.
+You probably have seen that color design on the side.
+Those are temporarily affixed.
+So if a trucking company, an LMC, wished to
+just put the plaque on as it's crossing the gate and
+take it off when it's leaving the gate, it's -- it's
+fully lawful to do that under our restrictions.
+Most of them just leave -- leave it on, but
+that's not required. The plaque is only required as it
+enters, while it's on Port property, and when it leaves,
+as it leaves.
+JUSTICE SOTOMAYOR: So how is the public
+going to use that plaque?
+MR. ROSENTHAL: What?
+JUSTICE SOTOMAYOR: How is the public going
+to use that? The public hangs around the Port as it's
+loading to call in complaints?
+MR. ROSENTHAL: There are -- there are -
+there are members of the public include also the people
+who are on -- at the MTO, also other truckers. The
+purpose of it is essentially to provide a -- a remedy to
+notify from people who are on the Port, and -- and also
+to act essentially as a notice to the drivers in the
+trucking company that if they are violating the rules,
+there -- people know there's a phone number they can
+call. So it acts -- it has a certain enforcement
+effect.
+My point -
+JUSTICE GINSBURG: Would you clarify -
+would you clarify what the -- what happens when there is
+an infraction? Say three trucks. Is it right that you
+can suspend until the infraction is cured, that you can
+suspend all of that operator's trucks?
+MR. ROSENTHAL: We -- we are -- there has
+been very little practice, Justice Ginsburg, under that,
+but basically our enforcement where there have been
+violations has been to ban the particular truck in
+question, not the entire LMC.
+JUSTICE GINSBURG: But you could do the
+other. See, I'm -- what -- what are -- is it -- is it
+just a matter of grace that you will say: Well, we'll
+require them to fix those two trucks and all the others
+can travel? Or could you say: Until you fix those two
+trucks, none of your trucks come through?
+MR. ROSENTHAL: We -- we have built in a
+gradation. I mean, it's not purely a matter of grace.
+We classify things as minor violations and major
+violations.
+JUSTICE GINSBURG: Let's say it's a major
+violation.
+MR. ROSENTHAL: If it were a major violation
+involving something we believe was systemic within the
+LMC, the -- the -- not the regulation, but the
+concession agreement would leave the possibility that we
+could revoke or suspend until the problem was corrected.
+But -- but -
+JUSTICE GINSBURG: And how about after it's
+corrected? The Government then says there's some
+uncertainty about that, whether you -
+MR. ROSENTHAL: We have -- we have never
+enforced it that way. I mean, the enforcement -- we
+haven't used revocation; we haven't used suspension.
+And generally speaking, our intent has been, as we
+stated in the lower court and as we stated repeatedly,
+to use this for continuing violations. But we are
+really talking about future actions because revocation
+and suspension have not been common.
+Let me conclude by making two points here.
+Number one, this Port undertook these actions as a
+reasonable and genuine response to the needs to build
+and grow a port. If we are prohibited from taking what
+are substantively limited actions to control trucking,
+then essentially we're going to be in a posture in which
+this Port will be disabled by its surrounding community
+from doing what it needs to do to compete.
+Secondly, we submit you cannot be the
+owner-proprietor of property without having some control
+over the conditions under which owner -- under which
+invitees, business invitees, come onto your property;
+that this statute of Congress was not intended to
+constrain that property interest.
+JUSTICE BREYER: Make -- make this argument
+precisely and substitute for "port authority" the words
+"city of San Diego," okay? And -- and you'd be still
+right. I mean, what's bothering me is, I -- I don't
+know you've got the right one. So -- so if we decide in
+your way, what we've done is distinguish precisely the
+same situation, you from the city of Los Angeles, simply
+because of the method they have of governmentally
+regulating the port.
+MR. ROSENTHAL: No. I disagree -
+JUSTICE BREYER: Why?
+MR. ROSENTHAL: -- Justice Breyer. It's not
+because we're -- we have support as the proprietorship.
+It's because these actions were commercial in nature.
+JUSTICE BREYER: All right. I see.
+MR. ROSENTHAL: These -- the port is
+operating as an enterprise not because it has the label
+"enterprise," but because this is a business and as a
+business we should be entitled under even-handedness to
+do what a Wal-Mart or any other company could do to
+enable us to prosper, grow, and nurture our business
+enterprise.
+Thank you.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Mr. Lerman, you have 4 minutes.
+REBUTTAL ARGUMENT OF DANIEL N. LERMAN
+ON BEHALF OF THE PETITIONER
+MR. LERMAN: Justice Scalia, the criminal
+penalties are not a red herring. Rowe makes clear that
+you can't circumvent the Act by -
+JUSTICE SCALIA: I didn't say they were a
+red herring.
+MR. LERMAN: I know you didn't, Your Honor.
+I was referring to Mr. Rosenthal's argument that -- in
+response to a question. You did not say they were any
+kind of herring and they're not.
+Justice Breyer, in response to your
+question: Rates, routes and services are not at issue
+in this case. The only issue is whether they have force
+and effect of law. That's the only issue before this
+Court. The court below said they lack -- they fell
+outside the scope of the statute because of the
+proprietary nature.
+Mr. Rosenthal talked a lot about the
+commercial motivations, but the statute doesn't speak to
+commercial motivations. The statute speaks to actions
+with the force and effect of law. These have the force
+and effect of law and are preempted on that ground.
+Mr. Rosenthal said Castle has died. Castle
+is still alive. The statutory scheme that formed the
+basis of this Court's decision in Castle remain to this
+day in Title 49 of the U.S. Code, and that was the basis
+for the decision then, and it's the basis today.
+Justice Ginsburg, the concession agreements
+gives the Port unfettered discretion to determine
+whether or not to suspend or revoke access. In this
+Court's city of Chicago cases, the fact that the city
+claimed at least some power to deny a license or access
+to interstate commerce was sufficient and it's
+sufficient in this case.
+Thank you.
+JUSTICE GINSBURG: But I thought there -
+there was a representation made that they toe the line
+that the government draws. That it, they can say: No
+access as long as you have trucks in your fleet that
+don't comply. But once you've gotten your fleet in
+order and you are in compliance, then we can't punish
+you for having wrongs in the past by saying you're -
+you're suspended."
+That -- that's the position that the
+government is taking, and I take it you don't agree with
+that.
+MR. LERMAN: I don't agree and I think
+counsel said right here that they reserve the authority
+to suspend access for past or ongoing violations, and
+that runs afoul of Castle under its plain terms.
+If there are no further questions?
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+The case is submitted.
+(Whereupon, at 12:16 p.m., the case in the
+above-entitled matter was submitted.)
+40:5 40:24,24 29:18 31:22 53:1 19:12,13,16,21
+54:23 affect 11:21 12:6 anybody 33:18 asked 12:10 23:18 24:13,21
+affix 47:25 anymore 28:5 assert 16:12 basically 21:8
+11:18 ago 41:15 appeal 30:17 Associations 1:4 53:18,19,20
+14:2,4,16 agree 18:5,19 appealing 30:20 3:5 becoming 27:19
+36:8 53:23 20:23 28:15 appeals 22:5 as-applied 43:22 behalf 1:17,22
+54:7,17 47:15 54:13,15 APPEARANC... ATA 34:14 43:20 2:4,11,14 3:8
+13:24 31:25 36:20 45:7,8,16 44:20,25 45:3,3 30:23 38:20
+40:2 41:8 47:20 50:15 43:19 44:21 attacking 45:14 45:4 50:13
+52:22 agreements 45:22 45:15 belong 36:24
+27:17 agrees 41:25 28:7 31:11 32:2 attract 22:16 big 42:20
+Ah 31:20,21 32:8 37:25 authorities 21:25binding 4:1
+8:6,8 9:8 Airline 8:9 apply 4:6,7 12:1 11:18 14:10,12 blessed 27:11
+37:25 airport 38:17 18:6 20:8 32:21 15:5,15,16 17:8body 22:12 24:4
+19:8 airports 40:5,10 appointed 23:23 27:22 51:19 Boston 8:16,19
+51:2,5,8 AL 1:8 appropriate 54:16 8:24,25 21:17
+53:13 alive 53:17 37:23 avail 33:20 22:25 38:23,23
+arguing 18:18,20 backed 6:11 9:15 breadth 10:9
+40:2,23
+38:21 argument 1:14 background Breyer 16:15
+2:2,5,9,12 3:4,7 40:25 17:21 18:14
+11:19 38:16 23:12,19,20 bargaining 23:15 26:13 27:1
+27:7,22
+35:11 carriers 4:2,8 24:7 38:23 36:18 37:22 38:1,10
+36:3 9:21 29:14,23 central 34:5 claimed 53:25 38:11 39:9,13
+44:10 carrier's 11:14 certain 20:21,22 claiming 11:17 52:6 53:12,13
+46:2,9 11:18 12:3 22:23 29:22 11:17 commission
+51:18 15:16 41:25 49:12 clarify 49:15,16 20:21 22:2
+53:4 carrier-level certainly 29:2 classic 4:14 24:23 25:4 35:2
+carrying 48:12 certificate 44:16 clause 3:12 7:21 common 51:3
+28:20 carved 6:24 8:15 41:10 9:14 10:22 39:8 40:6
+20:25 37:21 38:16,24 12:2,9,14,24 23:24 40:10
+23:1 39:21 40:17 13:7 19:11,16 coerce 4:24 compete 51:11
+24:11 46:16,22,24 22:14 27:24 coercive 9:19 complaints 24:15
+38:22 53:6 54:2,21,22 29:18,25 30:5 33:19 25:1,7 49:3
+52:10,11 cases 16:13 33:14,21 45:11 color 48:13 compliance
+42:22 43:7 52:16 54:20 combination 42:14 54:9
+choose 10:18 29:20 comply 54:8
+35:1 14:11,13 15:1,3 39:4 36:23 41:24 concede 14:14
+53:16,16,18 23:16,21,22,24 5:2 6:12 9:17 concerns 7:5
+category 20:10 53:24,24 commercial 41:25 50:15
+41:8 cement 21:21 civil 4:19 31:19 24:8 30:7 31:6 conclude 51:4
+33:1 contract 10:14 38:9,22 39:2 2:3,13 3:7 dictating 8:23
+30:8 30:7,10 31:1 50:25 53:8,8 day 16:3 42:4 53:16
+42:2,6,8 32:14 36:11,14 court's 3:13 4:17 53:19 Diego 51:20
+36:17,17,23 11:10 16:5 deal 16:7 24:14 differ 36:4 46:3
+contracts 23:12 covered 7:5 46:22 37:20
+34:3 42:8,16 created 8:12 dealt 15:2 46:21 23:8 26:10
+contrary 8:18 crimes 33:16 decades 41:14 30:24 38:18
+10:7 control 34:8,9,10 criminal 4:4,6,13 decide 32:19 41:5 46:24
+31:14 34:13,14 51:8 4:14,23 6:11 51:22 differs 35:7,8
+40:7 51:13 9:15 20:15,17 decides 34:23 36:6
+51:16 controls 17:8 21:6,12 23:20 35:1 direct 27:14 28:5
+controversy 40:8 27:16 31:19,23 4:17 8:4 11:11 directly 15:13
+convenience 32:17,20,25 41:6 53:18,20 director 32:12,12
+13:10,23 14:13 34:1,2 36:13,16 defines 9:13 discretion 53:22
+copied 7:20,20 45:12 52:20 34:18 35:12,14 discusses 25:16
+50:19 crucial 36:22 14:12 25:19 38:9,22
+29:25 52:16 14:24 49:18 16:1,10 23:22 doctrine 39:5
+couple 14:21 19:14 deputy 32:12 doing 10:1 13:21
+24:24 25:23,24 26:5 currently 25:18 40:2 44:2 33:16 36:1
+43:17 16:12 17:12 D design 48:13 30:8 42:1
+45:25,25 18:1,2 19:17 D 3:1 details 41:9 dredging 32:18
+20:1 22:5,5,25 damage 13:2 determine 53:22 drive 13:1 18:15
+enormous 23:6 45:19 46:17 F first 5:9 17:5
+enterprise 21:22 7:13,18,22 8:8 30:13 40:24 fix 14:9 50:3,4
+24:8 8:12,12 10:4,12 face 20:17 24:25 fleet 54:7,8
+45:15
+24:9 enters 34:10 40:3 45:17 24:9 29:7 32:16 10:15,19,20
+6:13 7:8 8:7 entire 43:3 49:24 7:6,9 8:15 43:18,20 44:20 21:14 30:22
+10:13,16 entirely 33:23 19:24 25:23 48:9 53:24 31:10,14,17
+17:25 entities 27:7 26:11 28:12 factor 21:19 37:24 39:18,24
+21:4,14 entitled 52:11 30:17 31:4,6 factors 6:13 53:6,14,14
+31:10,14 entity 14:17 39:8,9 factory 21:21 formed 53:17
+33:9,10 entry 30:15 exclude 4:24 24:7 forms 13:10,24
+37:24 enumerated 7:9 41:19,21,23 factual 19:2 14:13 15:23
+49:13 enunciated 41:1 42:9,10 43:14 fails 29:3 forth 22:8 28:13
+environmental 46:25 fall 3:16 7:9 28:19 30:7
+27:19 25:8 26:18 27:7 excludes 46:6 falls 10:2,21 46:14
+27:22 exclusive 15:5 12:22 35:11,14 foul 32:22
+equivalent 21:21 existed 41:7,16 38:24 fourth 13:4
+25:17 expansive 34:9 federally 11:14 11:11
+32:13 even-handedn... explain 17:4 fence 34:16 fully 48:18
+52:11 explicitly 8:18 Fifth 31:15 fundamentally
+50:22 evidence 9:9 6:22 7:20 8:13 find 10:12 further 54:19
+49:12,22 exact 12:22 9:6,12 10:21 fine 13:11 26:7
+exactly 9:21 39:7 40:18 G
+39:23 54:6,13 held 11:12 16:12 impose 9:15,20 9:13 20:12
+37:5 42:4 4:15 40:4 26:14 30:11 interest 38:1
+50:24 governmentally help 48:4 31:19 33:1 40:5 51:17
+governs 24:4 52:21,24 53:3 4:23 intermittently
+24:13 25:6 50:7 higher 21:11 imposition 28:4 3:25
+49:15,21 grant 15:5 highway 11:25 impossible 5:10 interrupt 41:18
+50:10,18 granted 11:14 17:8 20:20 22:1 incentive 25:16 interstate 4:3 5:2
+54:4 15:16 24:23,24 25:4 27:10 9:16 11:15,20
+24:18 37:14 38:4 10:10 13:10,24 13:14 15:6
+45:19 grow 34:7 38:12 28:25 36:23,24 included 8:9 32:4 54:1
+51:7 52:13 36:25 41:10 invitees 51:15,15
+44:19,20 hiring 22:17 indicated 8:18 invoke 14:13
+H history 8:2 indication 8:20 invoking 9:19
+hallmarks 27:15 holding 29:3 indirect 33:9,10 42:22 50:13
+17:4 hangs 49:2 Honor 5:23 8:9 indistinguisha... issue 3:23 17:25
+41:3 happens 49:16 9:2 11:7 12:2 30:10,10 19:3,3 26:21
+47:1 Harbor 8:16,19 15:2 17:24 individual 13:11 30:6 40:5 53:5
+8:25 21:17 30:21 52:25 29:15 53:6,7
+15:2 39:2,4,7 40:16 14:15 inferred 40:20 i.e 46:11
+20:9 21:10 harm 32:22 host 8:14 40:21
+28:17 Hayes 3:13 huge 25:2 inform 31:16 J
+36:22 11:11 Hughes 27:12 infraction 28:18 jail 20:25 33:18
+44:14 hazard 25:8 hypothetical 49:17,18 jobs 22:10
+48:24 26:16 36:4 37:16,18 infractions 28:16 JOHN 1:19 2:6
+51:9 hazardous 14:1,6 infrastructure 19:13
+hazards 24:19 5:24 inspect 15:8 Justice 1:20 3:3
+23:4,5 hearing 20:1 9:3,5 39:6 32:5 43:17 9:5 10:11,17,25
+12:2 Kennedy 23:11 48:18 loading 49:3 12:18 24:6
+23:18 36:10,15
+key 5:1 9:16 15:10 logic 28:7 54:23
+15:7,10 11:20,23 12:17
+16:8,15 12:18 14:3,3 33:25,25 longstanding 27:25 31:2
+18:5,10 kind 53:3 leave 46:13,15 40:4 mayor 23:23
+19:11,16 kinds 17:16 48:19,19 50:15 look 6:8 13:3 mayoral 22:12
+20:14 know 5:15 6:5 leaves 48:21,22 16:19 21:9 22:4mean 17:10
+22:14 7:23 14:20 leaving 48:17 25:15 18:14 22:15
+24:13 15:12,20 17:10
+26:9,13 17:10,15 18:8lends 8:10 11:19 38:16 26:3,17 35:13
+27:2,5,24 18:12 20:11 Lerman 1:17 2:3 51:24 42:6 43:12 45:1
+29:6,18 27:1 31:1 32:22 2:13 3:6,7,9 lot 7:4 9:7 25:13 50:7,22 51:21
+30:5,16 32:24,24 34:25 4:10 5:22 6:8 27:6 33:14 meaning 9:14
+31:4 37:17 46:16 6:18,21 7:15,17 53:11 21:4 48:5
+32:19 49:11 51:22 8:1,19 9:2 lots 24:15 means 47:9
+52:25 10:15,19 11:3,6 lower 17:12 meant 31:14,16
+35:11 11:9 12:2,13,19 50:25 mechanisms
+36:3 L 13:6,9,18,23 L.A 22:10 24:10 42:15
+label 52:9 15:1,9,12,20 members 23:22
+labor 22:22 23:1 17:20,23 18:8 M 49:5
+39:6,16 lack 25:5 53:8 18:11,20 52:17 major 50:8,10,12 method 51:25
+42:5,18land 22:1 34:6,10 52:18,20,25 making 25:7 38:8 metrics 22:4,7
+34:12,13 36:9 54:15 51:4 mind 5:10
+45:6 36:24 lessor 32:15 manage 40:19,21 minor 50:8
+landowner 34:19 let's 5:9 50:10 management minutes 52:17
+landowners leverage 23:6 34:6 misdemeanor
+30:14 leveraging 24:9 marine 20:18 32:8
+49:1,15language 3:22 license 29:16 32:2,4 38:25 model 8:13
+50:10 9:4,12 39:17 53:25 mark 22:11,11 modern 6:16
+51:18 largest 11:19 licensed 4:7 market 3:17 5:7 modicum 34:8,9
+Laughter 12:12 licensing 28:8 6:3 10:4,12 moment 31:25
+53:4,21 launched 43:21 lift 6:20 21:18 23:9 money 38:4,8
+law 3:20,21,23 limitation 39:18 24:11 27:12,14 money-maker
+7:8 8:7 9:19 26:15 33:2 31:18 37:24 motivated 19:5
+limited 40:3 51:8 39:4,25 motivation 18:4
+16:8 21:5 23:1,1 30:22 54:5 21:23 motor 3:22 4:2,7
+43:2,11 31:9,10,14,17 Lines 3:14 11:11 massive 21:25 9:20 11:14,18
+32:18 45:10 53:7,14 49:21 materials 15:11 15:16 26:15
+47:15 53:15 LMC 43:9 48:15 48:12 29:14,23 41:8
+52:18 objectives 10:2 order 23:19,19 27:12,14 pertaining 7:2
+24:3 32:14 ordinance 6:11 11:25 12:25 Petitioner 1:5,18
+33:10 occur 40:15 ordinances 23:24 14:2 16:9 20:10 1:21 2:4,8,14
+52:6 offenses 43:18 outset 29:13 36:8 37:21 3:8 19:15 20:18
+offsite 47:6,10 outside 35:12 40:12 49:23 52:19
+Oh 17:13 32:22 overnight 6:6 parties 30:11 pinches 42:7
+46:12 17:4 20:21 26:7 34:12,13 35:4 28:11 5:17,20 6:5,10
+51:6,11 36:23 37:10,11 ownership 22:3 patchwork 9:24 placards 47:25
+18:15 51:20 51:13 4:13,14,16,19 28:9
+25:3,8 once 54:8 4:19,23 6:11 plain 3:11 9:12
+50:21 ongoing 29:14 P 3:1 21:6,12 23:20 Plainly 35:6
+12:4 41:12 42:3 park 5:13 12:25 36:13,16,20 plaques 48:11
+52:9 parking 6:6 17:5 52:21 19:17 30:5
+operations 12:22 47:6,10,13,15 32:8,20,25 33:3 26:10 30:25
+39:11 opinion 25:19 participant 3:17 permanent 48:1 25:12
+40:6 24:14 probative 33:17 public 22:2 24:4 rates 3:21 18:25
+9:19 precisely 7:18 14:3 16:25 17:3 33:22 35:2 37:5 53:5
+11:16 16:14 17:4 24:14 38:15,18 39:23 rationale 21:17
+13:22 14:1 51:19,23 25:20 26:7 48:23 49:1,2,5 read 17:12 47:23
+18:3 precluded 16:12 35:21 50:16 punish 13:12 reads 46:20
+21:7,20 predicated 15:4 problems 17:17 54:9 really 23:15 24:8
+22:6 41:6 program 27:10 punishment 32:23 51:2
+preempted 7:10 programs 25:16 13:10,24 14:14 reason 12:8,14
+24:3,3 13:5,9 14:12 prohibit 34:19 14:15 15:23 15:22 33:23
+25:6 19:9 35:6 53:15 prohibited 34:19 28:18 40:2 46:11 47:9
+preemption 3:12 51:7 purchasing 27:19 reasonable 3:25
+27:17,21 7:21 8:22,23 prohibiting 13:20 purely 36:17,18 28:20 43:19
+32:12 9:1,3,3,5,6,12 prohibition 33:13 50:7 51:6
+10:8,9,22 18:2 project 24:24 purpose 25:22 reasonably
+41:20,23 19:4 27:23 28:5 property 5:19 26:2 49:7 37:25
+42:3 29:21 30:20 19:1 22:3 30:12 purposes 5:25 reasoning 46:13
+49:2,8 31:5 39:6,7,11 35:4 40:19,22 32:5 reasons 10:6
+preempts 8:6 41:24 42:25 pursues 40:19 43:25
+53:22 19:8 44:15 47:14 put 5:11,13,19 rebuttal 2:12
+27:6 36:7 7:14,22 8:8,15 puts 4:25 reconciliation
+present 14:7,8,8 9:8 17:17 19:5 p.m 54:22 28:13,21
+10:1 20:16 preserve 13:3 40:19 41:2 Q 20:1,5 32:11,17
+40:9 53:10 qualify 13:15 46:22
+43:13,18 presumption 52:5 11:2,10 12:10 52:24
+47:11 8:17 41:1 prosecute 33:18 17:22 18:18,21 reductions 27:13
+pretty 21:2 Prospect 34:17 18:22,24 20:15 Reeves 21:21
+23:6,7 principal 42:17 provides 3:18 47:5 54:19 regime 41:7,10
+38:17 principle 40:25 provision 3:20 quite 7:17 10:7 41:14,16 44:13
+53:25 private 10:13 8:22 18:6 29:4 12:13,19 26:5 region 22:9
+22:17 51:2 47:3,7,12,21 says 19:20 26:6
+13:13 50:3 revoke 11:18 49:20 50:6,12 31:9 34:14 35:3
+23:3,7 required 43:9 15:15 42:24 50:21 52:2,4,8 40:18 47:23
+34:22 48:20,20 43:6 50:16 53:11,16 50:19
+36:1,11 requirement 53:23 Rosenthal's 53:1 Scalia 7:12,16
+43:21 46:5 3:23 5:17,18 revoked 29:16 route 17:8,14 8:25 9:5 10:25
+50:14 6:10 39:20,20 42:13 18:10,11 26:14 11:4,8 12:16
+28:11 requirements right 7:14,17 9:1 routes 3:21 18:10 26:23
+3:16 4:4,21 5:3 11:14 12:4,13 18:25 26:2 27:2 30:16,19
+22:12 32:13 42:24 45:11,13 53:5 33:4,7 36:21
+29:20 requires 47:5 46:2,25 47:8,22 routinely 30:11 37:3,10,17,20
+reserve 18:22 49:17 51:21,22 Rowe 52:21 38:3,6 39:6,16
+reserved 14:10 rights 15:17 40:9 rules 10:25 41:11 45:6 52:20,23
+respect 19:1 roads 12:8 20:22 39:9 16:4 21:2 28:8
+34:3 40:11 47:22 ROBERTS 3:3 54:18 scope 8:23 9:13
+40:1 46:19 13:7 19:11 S second 11:2,10
+Respondent's 52:16 54:20 safe 14:7,24 41:18 44:5,10
+response 51:6 Roe 4:17 15:8,24 16:6 Secondly 51:12
+45:14 46:6 restrict 37:7,8 Rosenthal 1:22 26:11 28:12,16 see 12:14 17:15
+restricting 6:12 2:10 30:1,2,4 28:24 29:11 17:16,18 18:6
+restrictions 6:23 35:8,16,18,24 saying 13:18 26:8
+44:23 result 9:23 39:15 41:17,22 29:15 33:11 seen 27:13 48:13
+retains 25:13 42:11,22 43:5 34:20 35:11 sense 23:2
+revocation 43:19 45:2,9,13,21 45:16 47:19 series 6:24
+18:25 8:16 10:11,17 State's 4:21 13:3 suggested 16:8 tantamount
+35:5,9 19:18 28:22 15:24 40:21 19:20 45:10
+36:1 29:6 47:1,4,8 statute 3:16 7:10 suits 24:17,25 targets 5:24
+47:18,22 48:4 7:13,18 8:3,5,6 support 52:5 tariff 4:7,25
+speaks 53:13 45:12 surrounding 40:6 term 8:23 31:14
+48:13 specially 37:12 15:3,4 16:4 survive 44:2 6:4,15 20:18
+specifically 5:24 STEVEN 1:22 42:24 43:7 terms 7:10 8:5
+spoke 8:19 12:3 sticker 17:2 48:7 53:23 54:17 terribly 34:12
+25:1 standards 4:1 street 11:25 11:14 12:7,20 10:5
+Starbucks 23:10 16:20 34:17 13:14 14:4,16 thank 11:3,6
+4:14,15 6:3 strict 34:18 suspensions 12:3 52:15,16 54:3
+51:24 17:8 20:20 39:24 40:25 T they'd 19:22
+28:1 34:22 35:1,2,4 submitted 54:21 tailor-made 17:7 39:15
+36:22,24 37:1 54:23 17:9,16,19 things 9:7 26:11
+truck 13:11,25 34:13 48:10 vanilla 24:8 33:25 34:17
+14:1,2,5,9,19 vehicle 26:16 50:22 51:23
+25:13 14:19 16:9 U veto 16:12,14 ways 16:7
+27:21 18:15 24:20 ultimate 42:18 view 11:23 30:12 weight 6:23 7:1
+27:20 28:16 42:19,25 violate 29:11 26:7,15,17
+29:3,19 37:11,14 38:4 uncertainty 42:6,8 weights 20:5,9
+34:2 40:11 42:9 50:20 violated 46:5 welcome 19:12
+36:5,5,22 44:14 45:24 underscore 34:7 violates 42:9 we'll 50:2
+38:24 46:6 48:3,8 understand 6:1 violating 49:10 we're 13:19,21
+54:15 49:23 36:12 41:19 violation 13:13 14:22 18:18
+trucking 1:3 3:4 38:10 violations 13:20 31:17 34:5,24
+26:3 48:15 49:10 undertook 51:5 49:23 50:8,9 38:5,25 44:18
+54:4 51:8 unfettered 53:22 51:1 54:17 51:9 52:5
+38:16 13:1,19,21 14:6 26:6 23:2 33:17 42:14
+43:25 44:8 14:7,21,24 15:8 United 1:1,14,20 virtually 21:24 51:23
+16:20 18:16 2:7 11:20 19:14 48:9 whack 42:20
+20:21 25:2,18 unload 6:17 vitality 3:13 22:9 39:21
+19:10 34:16 37:11 13:25 14:9,22 W words 19:7 21:7
+43:22 41:12,20,20,24 unstated 8:11 wait 25:21 26:18 39:17
+43:14 47:9,13 use 13:5,8 20:21 23:9 44:17 51:19
+50:3,5,5 54:7 47:10 48:24 16:21 17:1,16 works 38:15
+19:1 20:14 wrote 8:6
+1:17,20,22 X
+1:5 3:4
+1:15 3:2
+54:22
+15:15 16:4
+28:10
+5:24
+1:11
+2:8
+41:8
+40:7
+40:12,15,24
+1:11
+2:4
+2:11
+25:17
+52:17
+17:1
+15:14 16:3
+17:1
+2:14
+25:15
+25:15

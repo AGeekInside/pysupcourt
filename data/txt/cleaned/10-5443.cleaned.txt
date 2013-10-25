@@ -1,0 +1,1658 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+CHARLES ANDREW FOWLER, AKA MAN, :
+Petitioner :
+v. : No. 10-5443
+UNITED STATES :
+- - - - - - - - - - - - - - - - - x
+Washington, D.C.
+Tuesday, March 29, 2011
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 11:22 a.m.
+APPEARANCES:
+STEPHEN M. CRAWFORD, ESQ., Tampa, Florida; on behalf
+of Petitioner.
+SARAH E. HARRINGTON, ESQ., Assistant to the Solicitor
+General, Department of Justice, Washington, D.C.; on
+behalf of Respondent.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+STEPHEN M. CRAWFORD, ESQ.
+On behalf of the Petitioner 3
+ORAL ARGUMENT OF
+SARAH E. HARRINGTON, ESQ.
+On behalf of the Respondent 23
+REBUTTAL ARGUMENT OF
+STEPHEN M. CRAWFORD, ESQ.
+On behalf of the Petitioner 53
+P R O C E E D I N G S
+(11:22 a.m.)
+CHIEF JUSTICE ROBERTS: We'll hear argument
+next this morning in Case 10-5443, Fowler v. United
+States.
+Mr. Crawford.
+ORAL ARGUMENT OF STEPHEN M. CRAWFORD
+ON BEHALF OF THE PETITIONER
+MR. CRAWFORD: Mr. Chief Justice, and may it
+please the Court:
+There is a significant disagreement between
+the circuit court over what the government must prove
+beyond a reasonable doubt to establish the violation of
+Title 18, United States Code, section 1512(a)(1)(C).
+This qualifying Federal criminal statute must be
+construed clearly, consistently, and narrowly. Yet, the
+Eleventh Circuit's opinion in this case conflicts with
+the rulings in factually similar cases: From the Second
+Circuit, Lopez, and the Fifth Circuit, Causey and other
+circuit precedent. More specifically -
+JUSTICE SCALIA: Are they all consistent?
+MR. CRAWFORD: It would be our opinion they
+are all inconsistent, which is what we need from this
+Court, Your Honor.
+The Eleventh Circuit erred by placing the
+word "possible" in the statute and, thus, significantly
+modifying the plain language of the statute, and by
+proposing a standard of mere possibility -
+JUSTICE KAGAN: Mr. Crawford, what's your
+standard? Sometimes you say "certain"; sometimes you
+say "likely"; sometimes you say "plausible." Which -
+which is your standard?
+MR. CRAWFORD: Justice Kagan, we would offer
+the standard of realistic likelihood, which we cited in
+our brief on page 17 and page 41, as the appropriate
+standard in this particular case. That is language that
+comes from Lopez, the Second Circuit case, and also
+places a higher burden on the government, which we
+believe is important in order to maintain the
+Federal/State balance that is required in Federal
+criminal matters.
+It is a reasonable standard, more reasonable
+than what we would characterize the governor's -- the
+government's standard of "reasonable possible." In
+their brief, page 9, 10, and 13, they propose that,
+which, we would add, differs from what the Eleventh
+Circuit said.
+If you'll remember, in Lopez, the Eleventh
+Circuit offered the standard "possible." And yet, the
+government, backing away from that a bit, in their
+briefs, on page 9, 10, and 13, used the phrase
+"reasonably possible." And while we would concede it is
+an improvement on the Eleventh Circuit's mere
+possibility standard, it still is vague. It still
+upsets the -
+JUSTICE ALITO: The statute speaks of the
+intent of the defendant. The defendant must intend to
+prevent the communication of information about a Federal
+offense or a possible Federal offense to a law
+enforcement officer who happens to be a Federal law
+enforcement officer. So, it's all a matter of intent.
+Where do you get this question of whether
+it's possible or likely or certain or whatever that the
+information will eventually get to a Federal law
+enforcement officer? Isn't it -- isn't it simply what
+is in the mind of the defendant?
+MR. CRAWFORD: We believe that
+subsection (g) of the statute precludes the -- or takes
+the mens rea element of the defendant off the table with
+respect to whether or not the person is a law
+enforcement official or whether or not there's an
+ongoing Federal criminal investigation.
+We would agree with you that the law does
+require that the defendant intend to prevent a
+communication. The Eleventh Circuit puts the word
+"possible" in there and says intent to prevent a
+possible communication. And that's the rub, Justice
+Alito, that we're asking this Court to address.
+JUSTICE SOTOMAYOR: Going -- going back to
+Justice Alito's question: Obviously, the statute's not
+written to say the intent to preclude a witness from
+talking to law enforcement officials. If it were that
+simple about a Federal crime, then it wouldn't matter
+whether it was likely, possible. All that we have -
+know is that the witness was -- that the killing was
+intended to stop them from talking to law enforcement,
+period. So, clearly, (g) has to have a meaning
+different than merely stopping from someone talking to a
+law enforcement officer, because there has to be some
+connection to that officer being a Federal officer.
+So, going back to Justice Alito's question,
+how do you define the intent? What is the defendant's
+intent? If he doesn't have to know it's a Federal
+officer, what does he have to intend?
+MR. CRAWFORD: We believe that you define or
+would find -- determine the defendant's intent based on
+the circumstances and the totality of the circumstances
+of the case.
+JUSTICE SOTOMAYOR: Articulate what the
+intent has to be.
+MR. CRAWFORD: The intent would have to be a
+realistic likelihood that there's going to be
+communication.
+JUSTICE SOTOMAYOR: Does the defendant have
+to know that? That's my question. Does he have to
+intend to stop the witness from communicating this
+information to someone that's related to either a
+Federal judge or a Federal law enforcement agent?
+MR. CRAWFORD: Yes, Your Honor. That is the
+gravamen of the offense. That intent element is
+essential.
+JUSTICE ALITO: What do you say that is -
+JUSTICE SCALIA: What does that have to do
+with reasonable likelihood that it would occur? I mean,
+he either intends it or he doesn't intend it. What -
+MR. CRAWFORD: The -
+JUSTICE ALITO: The reasonable likelihood
+that this person who was killed -- now, you say
+"realistic likelihood."
+MR. CRAWFORD: That is correct.
+JUSTICE SCALIA: The realistic likelihood
+that this person who was killed might have gone to a
+Federal officer doesn't at all establish that the intent
+of the person who killed him was to prevent him from
+going to that officer, does it?
+MR. CRAWFORD: We -
+JUSTICE SCALIA: I mean, it seems to me you
+have to stand on one stool or the other one. Either
+it -- it relates to intent, as the statute says, or all
+there has to be is a reasonable likelihood that this
+person who was killed would have gone to a Federal
+official.
+MR. CRAWFORD: Well -
+JUSTICE SCALIA: Which is it?
+MR. CRAWFORD: It is our position that we
+are trying to determine or the jury has to determine a
+future act. The prevention of communication denotes the
+future tense of the word "communicate." So, what
+standard should we ask the jury to use in order to
+determine whether the government has provided evidence
+that there was going to be a future act prevented? And
+so, it is -
+JUSTICE SCALIA: No, no, that -- that's not
+what the statute says. It doesn't talk about preventing
+a future act. It doesn't say anyone who kills someone
+who would have gone to a Federal official is -- is
+subject to this penalty.
+MR. CRAWFORD: Well, Your Honor, we
+believe -
+JUSTICE SCALIA: If that's what it said,
+your -- your realistic likelihood test would be quite
+reasonable, but it doesn't say that. It says that
+the -- the killing has to be with the intent of
+preventing him from going.
+MR. CRAWFORD: The intent to prevent the
+communication, the communication in the future is what
+is modified by the word "prevent." And so, that's what
+we're -- that's what we're struggling with, Your Honor.
+We're trying to come up with a standard as to what -
+JUSTICE KAGAN: Mr. Crawford, do you think
+this is right, that the statute says that the person has
+to prevent the communication to a law enforcement
+officer? The statute also says that the law enforcement
+officer, in fact, has to be a Federal law enforcement
+officer, but because of subsection (g), the statute does
+not require that the person intend the communication to
+be to a Federal law enforcement officer, and that's what
+we're struggling over, correct?
+MR. CRAWFORD: That is correct, Your Honor.
+JUSTICE KAGAN: And -- and in doing that -
+I mean, I guess my question to you is the same as my
+question to the Government, which is where any of these
+standards come from. And I agree that the statute does
+not provide a lot of guidance, but how does one pick
+between a realistic likelihood or a possibility or a
+theoretical possibility or any of those things?
+MR. CRAWFORD: We would urge the Court to
+pick a particular standard, if you're going to, to help
+us interpret this statute that would strike the
+appropriate balance between State and Federal criminal
+jurisdiction.
+JUSTICE ALITO: Well, why don't we pick the
+standard that is set out in the text of the statute?
+Let me give you this example:
+Let's -- let's hypothesize a very cold,
+calculating, rational defendant who is planning a
+Federal crime, let's say the hijacking of an airplane
+over international waters, and this defendant finds out
+that his mother has learned about the plot. Now, he
+says, well, you know, I think there's a one-tenth of
+1 percent chance that mom is going to go to the FBI and
+turn me in, but in order to prevent that, I'm going to
+kill her. I intend -- I kill her with the -- for the
+purpose of preventing her from going to the FBI, even
+though I think very, very, very unlikely she's going to
+do that.
+Hasn't that defendant violated this statute?
+MR. CRAWFORD: We believe the jury would
+make that determination as to whether or not it was
+likely, realistically likely that mom would report him
+to Federal law enforcement officials. That's what we're
+trying to do, is give the lower courts or the -- or the
+jury -
+JUSTICE KENNEDY: I don't -- I think Justice
+Alito can protect his own question, but I don't think
+you've answered it. You've put in realistic likelihood.
+He's asked you whether or not as a matter of law,
+assuming that you're a juror and you read the statute
+and you were instructed on the words of the statute and
+you have Justice Alito's hypothetical, what result?
+MR. CRAWFORD: The result of the question of
+intent? Or what are you asking the result of -
+JUSTICE KENNEDY: The reliability under the
+statute under Justice Alito's hypothetical.
+MR. CRAWFORD: Then we would say, yes, that
+the defendant could be found to have violated the
+statute under that particular hypothetical.
+JUSTICE KENNEDY: All right. Then Justice
+Alito's next question -- again, he can protect his own
+line of questioning -- but what does that have to do
+with realistic likelihood? There's no realistic
+likelihood; it was only a half of 1 percent chance that
+the communication would be made. So, that takes
+realistic likelihood off the table, and if it's off the
+table, you have to give us a different test.
+MR. CRAWFORD: Well, then, I would go with
+the beyond a reasonable doubt that the government must
+prove in any criminal matter.
+JUSTICE BREYER: That's what I wondered.
+You haven't really argued that, so maybe I'm missing
+something, and this question may be better for the other
+side, but this statute, as you go through it, has some
+elements.
+The first are facts about the world, killing
+people; the second has to do with intent, and then they
+talk about all these different things to stop him from
+going to a Federal officer; the third says no state of
+mind need be proved with respect to the fact he works
+for the Feds. So, therefore, it's not part of intent.
+Now, if it's a circumstance that is an
+element of the offense and it is not part of the intent
+of the defendant, then isn't it an element, like all
+other elements, that you have to prove beyond a
+reasonable doubt?
+MR. CRAWFORD: We would agree. That is -
+JUSTICE BREYER: You didn't argue it, so
+nobody's ever adopted this, so I feel I might be barking
+up the wrong tree. Now, I grant you, you're not the
+leaf on the tree that's going to give me the answer I
+need, which is why I'm wrong, but -- but did you -
+you've researched this and haven't really argued this
+point. So, why not?
+MR. CRAWFORD: Well, we understand. And -
+and we are assuming, of course, that all elements of the
+offense have to be proven beyond a reasonable doubt.
+What we've tried to do is provide the Court with some
+sort of standard that the jury could be instructed as
+how to prove that fourth element, and that is this
+future communication.
+JUSTICE SCALIA: You think a realistic
+likelihood must be proven beyond a reasonable doubt?
+MR. CRAWFORD: We do.
+JUSTICE SCALIA: You think a juror can grasp
+all of that in a juror's mind? You must find that there
+is -
+MR. CRAWFORD: I do, Your Honor. I
+believe -
+JUSTICE SCALIA: -- that there is a
+realistic likelihood beyond a reasonable doubt?
+MR. CRAWFORD: We believe that given the
+proper instructions and definitions of the word
+"realistic likelihood" -
+JUSTICE GINSBURG: Suppose the -- suppose
+the prosecutor argued a realistic prospect there. When
+Gamble confessed, he confessed to the local police, and
+they immediately communicated that information to the
+Federal prosecutors. So, if that's what the government
+counsel argues, wouldn't that be a realistic prospect -
+wouldn't they likely have done the same thing with
+respect to Fowler that they did with respect to Gamble?
+MR. CRAWFORD: Well, I would answer that two
+ways, Justice Ginsburg. Number one, that is not what
+happened in the case below. Once Mr. Gamble decided
+to -- 4 years after the killing of Officer Horner, to
+talk to local law enforcement, it was not immediately
+reported to the Federal law enforcement officials. It
+was reported years later. So, we don't have that
+immediacy.
+JUSTICE GINSBURG: Was -- what was the time
+sequence? How much after Gamble came to the local
+police did the local police go to the -
+MR. CRAWFORD: Officer Horner was found dead
+on March of 1998, and he came forward to the local
+police in 2002 after he was sentenced to 20 years on an
+unrelated State robbery. There was then several years
+before the U.S. Attorney's Office was contacted, and
+they decided to go forward with the case that is before
+us today.
+JUSTICE GINSBURG: Several years after 2002?
+MR. CRAWFORD: 2002 is when he came forward
+and began talking to law enforcement.
+JUSTICE SOTOMAYOR: When did they go to the
+Federal authorities after 2002?
+MR. CRAWFORD: I'm sorry?
+JUSTICE SOTOMAYOR: When did they go to the
+Federal authorities after 2002?
+MR. CRAWFORD: 2003. Almost -- almost a
+year afterwards it was -- it was taken over there.
+CHIEF JUSTICE ROBERTS: What is -- what is
+your position on the subsequent element or -- or feature
+about relating to the commission or possible commission
+of a Federal offense? Does the defendant have to know
+that his actions to prevent communication involve an
+underlying Federal offense?
+MR. CRAWFORD: No, Your Honor, they do not.
+You basically take your offense as you find them, just
+as you take your officer as you find him, and we believe
+that's the -
+CHIEF JUSTICE ROBERTS: Why is that?
+1512(g)(2) talks about with respect to the law
+enforcement officer.
+MR. CRAWFORD: Correct.
+CHIEF JUSTICE ROBERTS: I would have thought
+you'd say there's a negative implication that intent has
+to be shown with respect to everything else, including
+whether or not this is a possible Federal crime.
+MR. CRAWFORD: Well, we -- we are willing to
+concede that there was a possible Federal crime that was
+occurring at the time of Officer Horner's death.
+CHIEF JUSTICE ROBERTS: Are you willing to
+concede that the defendant knew that?
+MR. CRAWFORD: I'm willing to concede the
+defendant -- it need not be proved that the defendant
+knew that.
+Now, if the government can establish
+evidence of that, we believe that goes to the
+defendant's intent and to a different element, but the
+government need not prove that because we believe the
+subsection (g) takes that off the table.
+JUSTICE ALITO: The issue -- the issue here
+is the sufficiency of the evidence. So -- so -- and the
+question is whether a reasonable juror could adopt a
+certain view of the facts.
+Now, couldn't a reasonable juror in this
+situation take this view of the facts? Your client
+killed Officer Horner simply because your client didn't
+want to go to jail. He didn't particularly care whether
+he was going to be prosecuted in State court or Federal
+court; he just didn't want to go to jail. So his intent
+was to prevent the communication of information about
+the crimes that were being planned to any law
+enforcement officer who could send him to jail, and that
+would include a State officer; it also would include a
+Federal officer. And, therefore, there's a violation of
+the statute.
+Now, what's wrong with that view of the
+facts?
+MR. CRAWFORD: We believe, Your Honor, that
+if that is the reading of the statute, that that would
+basically federalize murder, that there is always going
+to be some overlapping Federal crime that is possible,
+or the possible commission of, and if that becomes the
+standard or the reading or the interpretation of 1512,
+then every case is going to be allowed to be
+prosecuted -
+JUSTICE SCALIA: I would think your answer
+would be that if that were the law, (a)(1)(C) would have
+omitted the word "Federal."
+MR. CRAWFORD: I would agree.
+JUSTICE SCALIA: It would have said "by any
+person to a law enforcement officer." And you would -
+you would eliminate "or judge of the United States" -
+"information related to commission or possible
+commission of a violation of the law," period.
+MR. CRAWFORD: I -- I would agree with you.
+The Congress sought or deemed fit to put the word
+"Federal" in there twice, both a Federal offense and a
+Federal official.
+JUSTICE ALITO: No, because if there were -
+if the only crimes that were being planned were State
+offenses, then there would be no chance that -- that the
+conveying of that information to a Federal law
+enforcement officer would send the person to jail.
+MR. CRAWFORD: Well, the problem, Justice
+Alito -
+JUSTICE ALITO: They're planning -- they're
+planning to hold up a convenience store. It's not a
+Federal offense; it's a State offense.
+MR. CRAWFORD: Well -
+JUSTICE ALITO: So, the person isn't going
+to go to jail on a Federal charge.
+MR. CRAWFORD: I'm not so sure that holding
+up a convenience store would not qualify under the Hobbs
+Act or under some other Federal statute that a
+creative -
+JUSTICE ALITO: Well, are you saying that
+there is no possible offense that's only a violation of
+State law and Federal law?
+MR. CRAWFORD: There are.
+JUSTICE ALITO: All right.
+MR. CRAWFORD: But there needs to be proof
+-- there needs to be proof more than just the mere
+presence of a potential Federal offense. I believe in
+the Third Circuit opinion of Bell, which, if I remember
+it correctly, when you were serving on the Third
+Circuit, you authored that opinion, that you set up a
+standard that the Federal crime has to have additional
+appropriate evidence in order to have a violation under
+this statute.
+That's the problem we have with this case,
+is that we have Federal crimes -- we'll concede that;
+the cocaine and the potential or conspiracy to rob a
+bank -- but there is no additional appropriate evidence
+to meet the standard here. So, using the opinion in
+Bell, we would ask this Court to find that -
+JUSTICE KAGAN: Mr. Crawford, what would
+happen if you were dealing with a Federal offense that
+was a distinctly Federal offense, that really didn't
+have a State counterpart, like hijacking an airplane?
+Would that itself be sufficient to support a prosecution
+under this statute?
+MR. CRAWFORD: It would be -- it would make
+the government's burden easier, because it is more
+likely than not, it is realistic likelihood that there's
+going to be Federal involvement, as Justice Scalia
+pointed out, on a case where it's a threat to kill the
+President or hijacking or income tax, Federal income
+tax.
+JUSTICE KAGAN: Is that actually similar to
+this case? These guys were going to rob a bank, which I
+take it is mostly prosecuted by Federal officials.
+MR. CRAWFORD: Well, I would agree with
+that.
+Certainly not in the State of Florida. I
+would say that most State attorneys handle bank
+robberies as much if not more than the Federal
+authorities. But we would concede that bank robbery is
+a Federal crime. That's why we need something more than
+just Federal crime to confer jurisdiction.
+We need Federal law enforcement involvement,
+and we have nothing on this record that shows any
+involvement of Federal law enforcement. And that's why
+the case needs to be reversed. That's why the Eleventh
+Circuit's standard of mere possibility is too broad, and
+we're looking for a rule from this Court that will
+narrow that and keep that -- that balance of Federal and
+State criminal jurisprudence where it needs to be.
+And, quite frankly, if there's no other
+questions -
+JUSTICE SOTOMAYOR: I have one last one, the
+plain error question. Neither your brief -- I think
+you're taking the position that simply because we
+granted cert, we've accepted there's a plain error; is
+that your position? Because you haven't really defended
+against a finding of plain error.
+MR. CRAWFORD: Well, the trial lawyer did a
+poor job in articulating the reasons for the judgment of
+acquittal.
+JUSTICE BREYER: I take it you were not the
+trial lawyer?
+MR. CRAWFORD: Well, unfortunately, Judge, I
+was. So, that's why I -
+JUSTICE BREYER: Oh, you were?
+(Laughter.)
+MR. CRAWFORD: Did a poor job of
+articulating the judgment of -- the judgment at
+acquittal time, the reasons that the court should grant
+it and quite frankly did disservice to the district
+court judge, who we need to help out more. But -
+JUSTICE SOTOMAYOR: So we're really -
+granted cert to give an advisory opinion?
+MR. CRAWFORD: No.
+JUSTICE SOTOMAYOR: Because if there's not
+plain error, how do we reverse this court below?
+MR. CRAWFORD: Well, we believe that when
+the argument was made at the Eleventh Circuit, that
+whether the sufficiency of the evidence issue was raised
+there, and the Eleventh Circuit chose not to rule on
+that, but chose to rule on a statutory construction of
+1512 -- that then, when this Court granted cert, that
+basically took that issue off the table.
+JUSTICE SOTOMAYOR: So, what you're
+suggesting is that we announce the standard, hopefully
+different than the courts below for your sake, and then
+remand to then let the court apply the new standard?
+MR. CRAWFORD: That is one possibility.
+Or -
+JUSTICE SOTOMAYOR: And if it's not, what's
+the other?
+MR. CRAWFORD: The other is, is to overrule
+the Eleventh Circuit and with instructions to enter a
+judgment of acquittal.
+JUSTICE SOTOMAYOR: How could we do that
+unless we found there was plain error? And how can we
+say there's plain error when this question has vexed so
+many courts?
+MR. CRAWFORD: I don't know at this
+particular point, but I do know that we have a problem
+in the circuits, that the standards being applied are
+across the board; and we need a bright line, hopefully a
+bright-line rule, that will help us in the courts below
+so we can do our job better.
+JUSTICE SOTOMAYOR: I have to say to you
+that even if a bright-line rule is announced, the real
+work begins in deciding what evidence is sufficient to
+meet that burden.
+MR. CRAWFORD: Understood, but it's our
+position that any of the rules that have been proposed,
+except maybe the mere possibility, which is overbroad,
+there still is nothing on this record that is going to
+show a Federal law enforcement involvement or
+communication to Federal law enforcement; and we're
+going to win at any point. That is our fall-back
+position on that.
+JUSTICE BREYER: Anyway, you've made a fine
+argument here, even if you didn't make it -
+(Laughter.)
+MR. CRAWFORD: Thank you, sir. I'll do
+better next time.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+MR. CRAWFORD: Thank you, Your Honor.
+CHIEF JUSTICE ROBERTS: Ms. Harrington.
+ORAL ARGUMENT OF SARAH E. HARRINGTON
+ON BEHALF OF THE RESPONDENT
+MS. HARRINGTON: Mr. Chief Justice, and may
+it please the Court:
+When Congress enacted section 1512(a)(1)(C),
+it sought to protect the integrity of Federal criminal
+investigations and prosecutions. The statute requires
+the government to prove four things -- an actus reus, a
+mens rea and two Federal nexus elements, one of which is
+at issue in this case. The actus reus is murder, the
+mens rea that's common to every prosecution under
+section 1512(a)(1)(C) is an intent to prevent the
+communication of information to a law enforcement
+officer. The first Federal nexus element requires that
+that information relate to the commission or possible
+commission of a Federal offense; and the second Federal
+nexus element, the one at issue in this case, requires
+that there's a reasonable possibility that the
+information would have been communicated to a Federal
+officer if the murder had not occurred.
+JUSTICE KAGAN: Well, where does that
+reasonable possibility standard come from, Ms.
+Harrington?
+MS. HARRINGTON: Well, it comes from trying
+to construe all the different relevant provisions of the
+statute to make sense together. Section (a)(1)(C)
+specifies that a defendant has to have an intent to
+prevent the communication of the relevant information to
+a law enforcement officer; section 1515 tells us that
+the law enforcement officer has to be a Federal law
+enforcement officer, that's the definitional section;
+and then section 1512(g)(2) specifies that the
+government doesn't need to prove any state of mind about
+the fact that the officer is a Federal officer.
+JUSTICE ALITO: Let me give you a
+hypothetical similar to the one that I gave your -- your
+friend. Two men are sitting on a park bench planning
+the commission of a Federal crime, hijacking of an
+airplane, and they think they're by themselves; so
+they're talking about this, and then after they've had a
+discussion they turn around and they see there's
+somebody standing very close by; and so they say we have
+to kill this person to prevent him from going to the
+FBI, and so they do, and they're prosecuted under this
+statute. But then at trial they bring out evidence that
+the person didn't speak a word of English, only spoke
+Russian. So there wasn't any possibility whatsoever
+that this person was going to report that to the FBI or
+any law enforcement officer. Violation of this statute
+or not?
+MS. HARRINGTON: Yes. In our view there are
+two different ways to prove a violation of the statute.
+One is if you just read section (a)(1)(C), a natural
+reading of that section is that if a -- if defendant has
+a specific intent to prevent a communication to a
+Federal officer specifically, then that's a violation of
+the statute.
+What subsection (g)(2) tells us is that you
+don't need to prove a Federal officer's specific intent
+for every violation of the statute, but if you can prove
+that, then that's enough. And so in this case there's
+no evidence that the Petitioner had a specific intent as
+to a Federal officer, but, for example, if Officer
+Horner had said, hey, I'm the FBI or hey, I'm calling
+the FBI right now, and then he had killed him, that
+would have been enough whether it were true or not.
+JUSTICE ALITO: So a realistic probability
+relates only to the question of whether it would have
+been conveyed to a Federal officer as opposed to some
+other law enforcement officer?
+MS. HARRINGTON: Yes, that's right, and in
+section (g)(2) it's described as a circumstance that the
+Federal, that the officer in question is a Federal
+officer, and so that's -- that's a fact in the world
+that the jury needs to make a determination about. Of
+course, it's a fact in the world about -
+JUSTICE KENNEDY: But suppose in Justice -
+please continue. I interrupted you.
+MS. HARRINGTON: That's okay. I was going
+to say it's a fact in the world about something that by
+-- by the design of the defendant is never going to
+happen. The communication that's at issue when you -
+when you don't have the Federal officer's specific
+intent, is a communication that's never going to happen,
+and so the jury has to make a reasonable prediction
+about what could have happened in the absence of the
+murder.
+JUSTICE SOTOMAYOR: What do you see -
+JUSTICE KENNEDY: Suppose in Justice Alito's
+hypothetical, two guys on the park bench, and they find
+out that the man with the gray coat behind them was
+listening. They say, we have to get the man with the
+gray coat. They turn around and they shoot a man with a
+gray coat, but it's a different man. What result?
+MS. HARRINGTON: If they -- if they -
+JUSTICE KENNEDY: It wasn't the man that was
+listening. They got the wrong guy.
+MS. HARRINGTON: But if -- if the same -
+JUSTICE KENNEDY: The intent was there.
+MS. HARRINGTON: So they say, we have to
+shoot this guy to keep him from talking to the FBI?
+That's still a violation of the statute, because they
+have the requisite intent as to a Federal officer.
+JUSTICE KENNEDY: But then your realistic
+possibility -- the realistic probability standard just
+falls out of your test.
+MS. HARRINGTON: Well, just to be clear, the
+realistic possibility part only comes in where the
+defendant doesn't have a specific intent as to the
+Federal officer specifically. So, in Justice Alito's
+hypothetical, the intent was to prevent a communication
+to the FBI in particular, and if a defendant has that
+specific Federal officer, a specific intent, it doesn't
+matter whether it might have happened, would have
+happened, could have happened.
+Where the reasonable possibility standard
+comes in is in cases like this one, where the defendant
+has an intent to prevent a communication to a law
+enforcement officer for sure, but doesn't have any
+specific intent as to the Federal nature.
+JUSTICE KENNEDY: Well, I think it's very
+difficult to instruct the jury, to say, now, sometimes
+there's realistic probability, sometimes there isn't. I
+just don't know what this jury instruction is going to
+look like.
+MS. HARRINGTON: Well, I think the jury
+instruction would say, you know, you need to make a
+determination about what could have happened if the
+murder hadn't occurred, and if you find that there is a
+reasonable possibility that there would have been a
+communication with the Federal officer -- and that can
+be proved in any number of different ways in any
+particular case -- then you find that there's a
+violation of the statute.
+JUSTICE SCALIA: Why do you -- why do you
+need that? I mean, we're always talking here about -
+about murders of a witness, right?
+MS. HARRINGTON: Yes.
+JUSTICE SCALIA: So you're always talking
+about a murder that was intended to remove somebody who
+could incriminate the killer -
+MS. HARRINGTON: Right.
+JUSTICE SCALIA: -- for some other crime.
+Why isn't it enough to say you killed that person to
+prevent the disclosure of the crime, and if the crime
+was a Federal crime, the disclosure you were preventing
+was a disclosure to a Federal Court or to a Federal
+police officer?
+Why -- why do you have to create a -- a
+reasonable likelihood that this person, this particular
+person, would have gone to a Federal officer rather than
+a State officer? Isn't it enough to kill the person to
+prevent disclosure of the crime that the crime was a
+Federal crime? Why isn't that the test?
+MS. HARRINGTON: Well, I think that's an
+interpretation of the statute the government could live
+with, but the effect of that -
+JUSTICE SCALIA: Oh, the government could
+more than live with it. The government could wallow in
+it.
+MS. HARRINGTON: But that -- indeed. But
+that is a more aggressive reading than the reading we're
+offering, because Congress went to the extra step of
+defining "law enforcement officer" to mean "Federal law
+enforcement officer." So the interpretation you're
+positing would essentially read that out of the statute.
+JUSTICE SCALIA: No, but the statute reads
+it out of the statute. It says in (g) that you don't -
+the intent element does -- does not require that you
+know it's a Federal officer or that you know it's a
+Federal judicial proceeding.
+MS. HARRINGTON: Right. The reason -
+JUSTICE SCALIA: Why isn't it enough that
+you -- you kill somebody to prevent the disclosure of a
+crime that's a Federal crime?
+MS. HARRINGTON: I mean, Congress could have
+written the statute that way, but when Congress defined
+"law enforcement officer" to mean "Federal law
+enforcement officer," presumably, they meant that to
+mean something. And in (g)(2), what they do is they
+take the Federal nature of the law enforcement officer
+out of the mens rea part of the offense, but they
+describe it as a circumstance, and so that presumably
+is -- has to relate to something that could have
+happened in the world in the absence of the murder.
+CHIEF JUSTICE ROBERTS: Isn't -- if you have
+a Federal -- underlying Federal offense, and I gather
+you don't think -- that just needs to be shown as a
+matter of fact, right?
+MS. HARRINGTON: Correct.
+CHIEF JUSTICE ROBERTS: No intent with
+respect to that.
+Isn't it always likely that there's going to
+be a reasonable possibility, reasonable likelihood, that
+the communication is going to go to a Federal officer?
+MS. HARRINGTON: I -
+CHIEF JUSTICE ROBERTS: It's a Federal
+offense. If the communication covers Federal judges,
+that's the person who is going to try the case in every
+case.
+MS. HARRINGTON: Except that not all crimes
+that could be prosecuted as Federal crimes are
+prosecuted as Federal crimes. For example, there are -
+most drug crimes are prosecuted by State authorities
+rather than by Federal authorities, even though -
+CHIEF JUSTICE ROBERTS: No, obviously not
+all of them.
+MS. HARRINGTON: Not all of them. If -
+CHIEF JUSTICE ROBERTS: So you think that -
+that it's not an element of the crime, but that feature
+of the prosecution depends upon what percentage of the
+crimes are prosecuted Federally as opposed to by State
+law?
+MS. HARRINGTON: No, it doesn't. And I
+think in a particular case, if the drug crime is the
+underlying crime, that could serve as the predicate
+crime. But I think that what matters is what the jury
+has reason to conclude, and jurors generally don't
+understand the way that the Federal system works
+vis-à-vis the State system. And so if there's no reason
+for the jury to think that the information might have
+gone to Federal officers, then they wouldn't have a
+basis for a conviction under the statute.
+CHIEF JUSTICE ROBERTS: Can you instruct the
+jury that the underlying crime here is a Federal crime
+and then say the only thing they have to determine under
+some standard is whether or not the communication would
+be to a Federal officer?
+MS. HARRINGTON: You could -- you could give
+that instruction, but I -- I think -- I took the
+hypothetical from Justice Scalia to be that you wouldn't
+need to show that there's any -- any chance that the
+communication would have gone to a Federal officer. And
+I think that would read the Federal officer definition
+out of the statute, if all that was required was that
+the offense be a Federal offense.
+And then could you just say, well, you know,
+in theory -- and it's true that anybody who has
+information about a commission of a Federal offense,
+theoretically, could someday choose to give that
+information to a Federal officer, but that -
+JUSTICE ALITO: Let's say the case -- that
+this case arises -- exactly this case arises in two
+different adjacent jurisdictions. In one, the local
+sheriff and the local district attorney hate the Feds.
+They never talk to them unless they absolutely have to.
+And so if Officer Horner had taken the information that
+he learned to the local sheriff, there's no chance
+whatsoever that they would have referred that over to
+the FBI or the U.S. attorney for prosecution in Federal
+Court, so no realistic possibility there.
+In the other jurisdiction, right next door,
+the local sheriff and the local DA don't want to be
+bothered with bank robbery trials. They send all of
+those over to the FBI and the U.S. attorney, so there's
+a very high probability the information would have
+gotten to the Federal authorities.
+Now, would this case come out differently
+depending on the jurisdiction?
+MS. HARRINGTON: I think it would, Justice
+Alito. I think in the first case, the jury wouldn't
+have a reasonable basis to conclude that the information
+might have gone to Federal officers in the absence of
+the murder. In the second case, they would have a very
+reasonable basis to make that inference.
+JUSTICE KENNEDY: I don't see what that has
+to do with the defendant's intent.
+MS. HARRINGTON: It doesn't have anything to
+do with the defendant's intent. Again, there are two
+different ways, in our view, to prove a violation of the
+statute. One is if the defendant has a specific intent
+about preventing communication to a specifically Federal
+officer. If the Federal nature of the officer is in his
+mind, that's one way to prove a violation of the
+statute.
+If he doesn't have that specific intent,
+which is going to be in most cases, honestly, that are
+prosecuted under the statute, then you have to prove
+that there's some reasonable possibility that that
+communication would have happened -
+JUSTICE BREYER: Okay, where do we get
+this -
+JUSTICE KENNEDY: Then you have to change
+your answer -- right? Maybe you don't -- to my
+hypothetical where they shoot the wrong man.
+MS. HARRINGTON: But in your hypothetical,
+which I think you borrowed from Justice Alito, there was
+a specific intent to prevent a communication with the
+FBI, and so there they have the Federal officer specific
+intent.
+JUSTICE SCALIA: Isn't it rather strange,
+trials? It's such a weird issue to submit to the jury
+in a criminal trial, you know, whether this witness who
+was -- whether there's a reasonable likelihood that this
+person who was killed would have gone to a Federal law
+enforcement authority rather than the State law
+enforcement authority?
+MS. HARRINGTON: But the reason it's weird
+is because the design of the defendant in killing the
+victim is to prevent something from happening, and then
+the jury is asked to make a -- make a determination of
+whether that thing might have happened or not.
+And so you don't -- if you place too high a
+burden on the government, you're basically giving a
+defendant who acts efficiently and early in the criminal
+process a leg up, because you're -- if you require the
+government to prove that it's more likely than not that
+the communication in question would have happened with
+the Federal officer, then what you're doing is you're
+not giving sufficient protection to those communications
+to Federal officers that would cause a Federal
+investigation to be initiated. Right? You're -- it's
+not how -
+JUSTICE SOTOMAYOR: I'm a little bit
+confused. Tell me exactly why you see a difference
+between "realistically likely" or "reasonably possible."
+Tell me -- tell me what fine line exists between those
+two and what quantum of evidence more you would need
+under one as opposed to the other.
+MS. HARRINGTON: Well, I guess what we
+see -- where we see the -- sort of the ballpark is,
+either the government needs to prove that it's more
+likely than not that it would have happened, or they
+just need to prove that it's a reasonable possibility.
+And so we would opt for the second of those two options.
+You could -
+JUSTICE SOTOMAYOR: Tell me what the
+difference in proof would look like.
+MS. HARRINGTON: The difference in proof -
+I mean, it depends on the particular case. Right? In
+many of the cases that are actually prosecuted under the
+statute, there's already a Federal investigation
+underway, and in those cases, this element -
+JUSTICE SOTOMAYOR: "Likely" is proven?
+MS. HARRINGTON: Easy to prove, yes.
+JUSTICE SOTOMAYOR: Okay.
+MS. HARRINGTON: So the cases that are at
+issue are cases like this, where the murder happens
+almost contemporaneously with the Federal criminal
+activity. And in those cases, nobody's had a chance to
+even think about initiating an investigation, and so -
+but those initial communications are vital to protecting
+the Federal interest and protecting the integrity of
+Federal investigations.
+JUSTICE SOTOMAYOR: Well, but you still had
+to prove, didn't you, or wouldn't you have a measure of
+obligation to have a witness get up on the stand and
+say, the FBI always looks at bank robberies? In the
+absence of that, aren't we asking the jury to speculate
+that, merely because it can be a Federal crime -- bank
+robbery can be both a State and a Federal -- that it's
+reasonably possible it would go, not everything you
+yourself said not everything goes to the Federal
+government, so -
+MS. HARRINGTON: Right. And if I -- I would
+like to try to separate. There is the question of what
+is the element of the crime, how -- how do we define it,
+then what -- what is the evidence you would introduce to
+satisfy that element.
+In this case, certainly the government could
+have introduced evidence that -- that local law
+enforcement officers report all evidence of bank
+robberies to the FBI. That would have been enough.
+They didn't introduce that evidence.
+What they introduced instead was that when
+local law enforcement officers later got the information
+through other sources, they then shared the information
+with Federal officers. If they hadn't proven that, our
+contention is it wouldn't -- the evidence would not have
+been sufficient to sustain the conviction.
+JUSTICE SCALIA: Miss Harrington, we -
+we've gotten along for over 200 years without this
+particular Federal law, and I, therefore, am not
+inclined to give it a -- a sweeping broad
+interpretation, and I think it's so weird to submit to
+the jury, you know, how likely is it that this dead
+person would have gone to a Federal law enforcement
+officer rather than a State law enforcement officer.
+Why isn't an entirely satisfactory reading
+of this statute the following, that if you -- if,
+indeed, you have in mind specifically the FBI or a
+Federal proceeding, you're done? If, however, you don't
+have in mind specifically a Federal proceeding, but you
+have in mind a particular proceeding, which is a Federal
+proceeding, or a particular officer who is a Federal
+officer, then you're done, but anything else isn't
+covered?
+So the intent has to be the intent to stop a
+particular proceeding or -- or to stop the person going
+to a particular officer. If that proceeding is Federal
+or if the officer is Federal, you have the -- but
+otherwise, the laws that we've lived under for 210 years
+will continue to apply, and -- and -- and this new
+Federal statute will not apply.
+MS. HARRINGTON: Well, Justice Scalia, I
+think it would be insufficiently protective of the
+Federal interests to say that you could only -- that you
+would look at what the defendant had in mind about what
+the chain of communication might be if he didn't murder
+the person who was witnessing the crime. Most
+defendants don't think, wow, you know, if Officer Horner
+is going to call the dispatch, the dispatch is going to
+call, you know, the other person in the Haines City
+police department, they're going to call the sheriff,
+they're going to call the Federal law enforcement
+officers, most defendants wouldn't have -- wouldn't be
+thinking down that -- sort of down the chain of
+communication that way.
+But the statute criminalizes killing someone
+to prevent the communication, not a communication, not a
+particular communication, but the communication by any
+person of information relating to the commission of a
+Federal crime.
+JUSTICE SCALIA: I suspect that what this
+mainly addressed is -- is killing of witnesses, which
+has become very common in some jurisdictions, witnesses
+in criminal trials, and you know darn well what trial is
+involved. It's a trial that's already underway, and if
+it's a Federal trial and you kill the witness, you're -
+you're liable under this statute.
+What -- what is covered beyond that is if -
+if you know that the information is going to be given to
+a Federal officer, then they have you also, but I don't
+know why we should read the statute any more broadly
+than that and -- and have these weird questions
+submitted to the jury how likely was it that this -
+this dead person would have gone to a Federal officer
+rather than a State officer and -- and inquire into the
+question that Justice Alito asked, you know, how is
+there a friendly relationship between State and local
+officials so that the State official would -- I don't
+want to get into that. I don't think the juries do.
+MS. HARRINGTON: I mean, many of these
+things are not -- in many of these cases, this is not an
+element that's difficult to prove. If, as you say, it's
+a witness in a particular investigation or is going to
+testify in a particular trial who has been murdered,
+then it's easy to prove that the Federal officer nexus
+has been satisfied. But Congress was also trying to
+protect information that would cause Federal
+investigations to be initiated. Those are important
+communications.
+If you allow murders of people who witness
+crimes in order to prevent them from reporting that
+information to law enforcement officers, where the
+reporting of that information would have caused a
+Federal investigation to be initiated, then you're
+insufficiently protecting the Federal interest in
+prosecuting Federal crimes.
+JUSTICE KAGAN: Ms. Harrington, what would
+be -- what would happen if instead of Officer Horner,
+the custodian of the cemetery had come across these
+people and the exact same thing had happened, would you
+then say that there would be -- that there would be a
+prosecution -- there could be a prosecution under this
+statute?
+MS. HARRINGTON: Not unless the custodian of
+the cemetery was on his cell phone saying I'm calling
+911. So, if we -- what's important -
+JUSTICE KAGAN: So is that the difference,
+that Officer Horner was on his cell phone?
+MS. HARRINGTON: Well, in terms of whether
+the evidence that was presented in this case was
+sufficient, it was sufficient because the jury knew two
+things. They knew, first, that Officer Horner
+definitely would have communicated the information
+that's relevant in the case to local law enforcement
+officers; and second, they knew that when local law
+enforcement officers later acquired that information
+from other sources, they shared it with Federal
+officers.
+So if you didn't know the first step, if you
+didn't know that definitely the person who was killed
+would have communicated to local law enforcement
+officers, then there wouldn't be a reason -- first of
+all, you might not have -- have the correct specific
+intent to prevent communication with a law enforcement
+officer which is required.
+JUSTICE BREYER: I do have a question I
+would like to ask at some point. Are you finished?
+MS. HARRINGTON: Yes. Go ahead.
+JUSTICE BREYER: Because this is very
+interesting. I normally think purpose is important. In
+this one I don't, and suppose I'm right, purpose has
+nothing to do with this. The problem here is with the
+words "intent" and "prevent."
+MS. HARRINGTON: Yes.
+JUSTICE BREYER: And it's how they're used
+in ordinary English. So let me give you an example,
+even odder than Justice Alito's. But I think it
+illustrates the point -- the question.
+Imagine you put your son in his room, and
+they say why do you keep your son in his room doing his
+homework? Because I wanted to prevent him from going to
+the movies. That's why. Now, when you say that, we
+would impute, correctly, you wanted to prevent him from
+going to a Hollywood movie. You wanted to prevent him
+from going to an old movie, prevent him from going to a
+new movie, but prevent him from going to a Lithuanian
+movie?
+Now, why does that sound so odd? Because
+there's no realistic possibility that he would go to a
+Lithuanian movie. Okay.
+(Laughter.)
+JUSTICE BREYER: Now, if that's the problem,
+if that's the problem, the words that capture that
+problem, are their words "realistic likelihood," not the
+words "possibility." So if I have to choose between
+those two, and that is the problem, why don't I choose
+their solution?
+MS. HARRINGTON: I guess in our view it's
+less important which words you pick -
+JUSTICE BREYER: All right.
+MS. HARRINGTON: Than it is what they mean.
+And, so, if by realistic -- realistic probability or
+realistic likelihood -
+JUSTICE BREYER: They use realistic
+likelihood and if someone were to tell me in my odd
+example there is no realistic likelihood he would go to
+a Lithuanian movie, that seems to describe perfectly
+whether I would or would not say in trying to prevent
+him from going to the movies, you try to prevent him
+from going to a Lithuanian movie. And your -- yours
+doesn't -- I mean it's a -- I agree it may not make that
+much difference, but we have to choose some form of
+words.
+JUSTICE SCALIA: Understand this, you mean
+it would have been okay if he went to a Lithuanian
+movie?
+(Laughter.)
+JUSTICE BREYER: No, it wouldn't have been
+okay, but you don't normally say of a person when a
+thing is really weird, but he wants it to happen that
+doesn't do it for that -- it's so unlikely. I shoot an
+arrow into the air hoping it will fall on my enemy. All
+right? It's not going to. But if it does, we say he
+intended it. You see, that -- that's the kind of
+linguistic problem that I think is present.
+MS. HARRINGTON: Right. And it's not -- it
+doesn't perfectly map on to the problem in this case, of
+course, because there is subsection (g)(2), which
+specifically says you take intent out of the equation.
+And, so, I'll concede it's an awkwardly constructed
+statutory provision. But I think the important -
+JUSTICE BREYER: It's not awkwardly
+constructed. It's trying to get odd possibilities, and
+if it is trying to get those odd possibilities about
+which we normally would say he did intend to prevent
+that from happening, then those things we're trying to
+leave out are those where there is no realistic
+possibility that they would happen.
+MS. HARRINGTON: I would agree with that, so
+what we would like -
+JUSTICE BREYER: Then let's take their
+words.
+MS. HARRINGTON: Well, we -- again, it
+depends what it -- what you mean by realistic
+possibility or likelihood. If you mean more likely than
+not, then we would say that's too high a burden on the
+government. We want to include odd possibilities but
+not outlandish possibilities.
+JUSTICE SOTOMAYOR: I'm not sure I
+understand your answer to Justice Kagan's hypothetical.
+We -- we -- there's no proof that this particular
+officer who was shot was going to pick up the phone to
+the FBI. He may have overheard this. He would have
+called his fellow officers, and somebody, probably his
+supervisor, or the DA's office was going to make the
+decision whether to call the FBI. So, how is that
+different from the cemetery caretaker, who is going to
+call it in probably to 9-1-1, and he doesn't
+particularly have an idea of who's going to get involved
+or not because it's really not his issue. Why is there
+a difference between those two situations? And isn't
+the question, going back to what Justice Breyer asked,
+was, what's the likelihood that this is going to get
+investigated by the Federal Government? Why is it
+reasonably possible? Anything is reasonably possible -
+or almost anything.
+MS. HARRINGTON: Well, I mean, we -- we
+attach the word reasonably to possible to sort of to
+wall off cases that are theoretically possible, right?
+So again, we would like to cover odd occurrences but not
+outlandish occurrences, so it's not just anything that's
+possible. It's -- the jury has to have a reason to
+think it might have happened in this case.
+JUSTICE SOTOMAYOR: So I guess then your
+burden is only to show that it's a Federal offense,
+because why you need to show anything else because
+"reasonably possible" encompasses every single Federal
+offense or anything that could be termed a Federal
+offense.
+MS. HARRINGTON: With respect, Your Honor,
+we don't -- we don't think that's correct. I think
+there needs to be a reason for the jury to think that if
+this communication had not been prevented, the
+information eventually would have gone to Federal
+officers. The reason -
+CHIEF JUSTICE ROBERTS: But why isn't that
+-- maybe I asked this already, but why isn't that the
+case when you're dealing with the Federal offense?
+MS. HARRINGTON: Because, the reality is
+that not information -- that all local law enforcement
+officers share every piece of information about Federal
+offenses with -
+CHIEF JUSTICE ROBERTS: Oh, but there's a
+possibility.
+MS. HARRINGTON: There's a possibility, but
+I think -
+CHIEF JUSTICE ROBERTS: A realistic
+possibility.
+MS. HARRINGTON: And again that's -- if
+that's how the Court wanted to go, that's something the
+government could live with. But -
+JUSTICE GINSBURG: Did you say before that
+-- that presenting this to the jury; everybody's worried
+about what the jury will think; that when Gamble came
+and confessed, the local official went to -- to the
+Federal? I think we were told that there was a year
+lapse between when the local police knew about Gamble's
+confession and when -
+MS. HARRINGTON: Well, there's a 10-month
+lapse between when Gamble went to the local law
+enforcement officers and when Gamble testified before
+the Federal grand jury. So presumably the Federal -
+the AUSA was brought in sometime in that 10-month
+period. So, it wasn't that long a lapse.
+JUSTICE SOTOMAYOR: Do you know what the
+difference was between the State and the Federal
+penalties?
+MS. HARRINGTON: I don't know the
+difference. I mean, Gamble when he was -- hew was
+indicted eventually for 14 Federal offenses to which he
+pled guilty and was sentenced initially to life plus 107
+years. Some of the -- some of the crimes for which he
+was indicted could not have been prosecuted in State
+court; but presumably he could have gotten a life
+sentence for murdering a police officer if he had been
+prosecuted in State court as well.
+JUSTICE KAGAN: So Ms. Harrington, suppose
+Officer Horner had come to the scene and instead of
+seeing evidence that there was a robbery about to occur,
+had seen evidence only of drug use. Now that might be a
+Federal offense, but typically it wouldn't be prosecuted
+in -- in a Federal court. Would you say then that the
+statute is not satisfied?
+MS. HARRINGTON: No, we would say it is
+satisfied if everything else was the same.
+JUSTICE KAGAN: Because?
+MS. HARRINGTON: Because it -- it's still
+information relating to the commission or possible
+commission of a Federal offense, we still know that
+Officer Horner definitely would have transmitted that
+information to local law enforcement officers, and we
+still know that when local law enforcement officers
+later got the information, they would -- they
+transmitted it to Federal -
+JUSTICE KAGAN: Oh, but that's 4 years
+later. That was way past the time when this incident
+occurred.
+MS. HARRINGTON: It's true. And just to be
+clear, we're not saying that that communication that
+happened in 2002 is the communication that was prevented
+or intended to be prevented. What we're saying is that
+the fact when local cops got the information in 2002,
+they shared it with Federal officers, that that's a
+reason for the jury to infer that they would have done
+the same thing if they had gotten the information -
+JUSTICE KAGAN: You're saying the fact that
+they got this information 4 years later, shared it with
+law enforcement officers after they knew that a murder
+had occurred as a result of an incident would be the
+same kind of inquiry that they would make at that time?
+MS. HARRINGTON: Well, I think -
+JUSTICE KAGAN: Before the murder?
+MS. HARRINGTON: Well, of course, we don't
+know what would have happened, because Officer Horner
+was murdered to prevent any of this from happening, but
+in fact, the evidence before the jury suggested that it
+wasn't the murder that motivated them to share the
+information with Federal officers; it was one of the
+underlying robberies. It was the robbery of the Holiday
+Inn, which was a Federal offense. The statute of
+limitations had run on that in State court, and so they
+wanted to -- but they wanted to maximize the amount of
+charges they could bring against Chris Gamble. And so
+they decided to share that information with Federal
+officers.
+So it wasn't the murder that made the
+difference; it was one of the underlying Federal
+offenses that was charged against -- as one of the
+predicate crimes against Petitioner here.
+JUSTICE SCALIA: Would -- would you not
+acknowledge that the statute is vague enough that the
+intent which it requires could be either the intent to
+prevent testimony from being given to a particular
+Federal proceeding or to a particular Federal officer or
+the specific intent to withhold it from a proceeding or
+an officer who happens to be or which happens to be
+Federal, but which the defendant is not aware is
+Federal? It could bear that meaning, couldn't it?
+MS. HARRINGTON: It could, but Justice
+Scalia, I want to point out that subsections (A) and (B)
+of (a)(1), those are the provisions that talk about
+official proceedings. Subsection (a)(1)(C), which is
+the provision that's at issue here, does not talk about
+official proceedings. It talks about transferring
+information to Federal -- to law enforcement officers or
+to judges. And so there doesn't -- I think by -- just
+by reading, sort of a plain reading of those provisions
+together means that for subsection (C), you don't need
+to have an official proceeding that was in anyone's mind
+or that was underway at the time.
+JUSTICE SCALIA: Oh, I acknowledge that, but
+a particular judge or -- or the conduct of a Federal
+proceeding, it could -- it could require specific intent
+of a proceeding or a judge or an officer which happens
+to be a Federal officer.
+MS. HARRINGTON: It could, yes, and again, I
+think if the defendant has a Federal officer specific
+intent in mind when he commits the murder, that's
+enough.
+JUSTICE ALITO: So if a defendant has in
+mind a particular officer, then there's a potential
+violation of the statute, but if the defendant just
+kills for the purpose of preventing this from going to
+any Federal -- any officer who might happen to be a
+Federal officer, then there's no violation under this -
+under this reading of the statute?
+MS. HARRINGTON: No, there is -- there is
+violation, if there's a reasonable possibility -
+JUSTICE ALITO: Under the interpretation
+that's been suggested to you, that would be the
+distinction?
+MS. HARRINGTON: I'm not -- I don't mean to
+give that -- this is a case where there's not a specific
+Federal officer intent. I may have misunderstood the
+question as it was put to me.
+If there's no specific Federal officer
+intent, but you can prove that there's a reasonable
+possibility that one of the communications prevented by
+the murder would have been with a Federal officer -
+JUSTICE BREYER: I think the question was.
+JUSTICE SCALIA: It's unfair for him to ask
+you what my -- what my hypothetical was. I think the
+answer is yes.
+MS. HARRINGTON: Thank you.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Mr. Crawford, you have 7 minutes remaining.
+REBUTTAL ARGUMENT OF STEPHEN M. CRAWFORD
+ON BEHALF OF THE PETITIONER
+MR. CRAWFORD: Justice Kagan, if I could go
+to a question that you posed: If this Court were to
+find that the mere presence of a possible Federal
+offense was appropriate to give Federal jurisdiction
+under this particular statute, then I would ask the
+Court to consider the effect that that would have on
+criminal practice throughout this country.
+There is significant overlap between Federal
+and State criminal laws, and if we are simply going to
+confer Federal jurisdiction on this particular statute
+because of the mere possibility of a Federal offense,
+you have created a huge exception and, we would
+respectfully submit, create problems for that delicate
+balance between State and Federal.
+JUSTICE GINSBURG: What's delicate about
+robbery? I mean, robbery is completely a Federal crime,
+and that was what the -- that was what Horner observed,
+and they were -- they were planning for the robbery the
+next day.
+MR. CRAWFORD: Justice Ginsburg, we would
+agree that bank robbery is a Federal crime. The
+question is: Is there any evidence in the record that
+would show there was going to be any Federal involvement
+in that Federal crime? Every day, Federal crimes are
+prosecuted in the State system under their State crimes,
+but absent some Federal involvement, you have
+obliterated that line between State and Federal criminal
+practice, and that is too broad, or that, we believe,
+upsets this delicate balance that we must maintain.
+If I could, I want to go to Lithuania and
+suggest this.
+JUSTICE BREYER: I'm slightly regretting
+bringing that up.
+MR. CRAWFORD: There have been a number of
+cases cited at the Circuit Court level that give
+examples of how the government can meet their proof, and
+quite frankly, it's not difficult. In Romero, there is
+a Federal -- ongoing Federal law enforcement official
+investigation going on, so if there is an ongoing
+Lithuanian movie -
+JUSTICE BREYER: You agree basically on the
+point?
+MR. CRAWFORD: I do.
+JUSTICE BREYER: I think where you have -
+where somebody tries to prevent a general thing, we
+normally say you also prevent -- tries to prevent those
+things that are specific that fall within the general
+term, but not every oddball example.
+MR. CRAWFORD: Exactly.
+JUSTICE BREYER: And what you want is
+something that rules out the oddball examples. And your
+words are "reasonable likelihood," and you'll say if
+it's an oddball example, you can't hold him guilty of
+that, if it turns out that in this case the Federal
+example is an oddball example.
+My question really is to you: If you win on
+that, then are you going to go back and argue there was
+not one piece of evidence whatsoever that there was any
+reasonable likelihood that the Feds would investigate
+your case?
+MR. CRAWFORD: We would argue that there
+is -- the record is insufficient to establish reasonable
+likelihood of Federal involvement. And I can't put it
+any better than that.
+Thank you, Justice Breyer. Thank you,
+Mr. Chief Justice.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+The case is submitted.
+(Whereupon, at 12:17 p.m., the case in the
+above-entitled matter was submitted.)
+56:18 33:14 34:8 35:9 asking 6:3 11:12 behalf 1:15,19 calculating 10:11
+34:10 Alito's 6:5,16 Assistant 1:17 23:24 53:23 40:1,2 46:16,18
+11:10,14,19 assuming 11:8 believe 4:14 5:17 called 46:14
+52:11 amount 51:7 attorneys 20:10 Bell 19:4,15 caretaker 46:17
+announced 23:4 authored 19:6 23:19 56:12 14:22 17:14
+14:6 17:16 35:6 15:6 20:12 32:1 12:18 13:5,11 24:7,14 26:8
+1:14 a.m 1:13 3:2 21:9,13 23:15 56:2,8,16,17
+B 51:25 45:17 46:1,22 37:10,12 41:6
+19:8,13 46:22 56:5 55:17,23 56:13 cause 36:8 41:12
+backing 4:25 brief 4:10,20 caused 41:18
+10:5 20:21 briefs 5:1 cell 42:5,8
+ballpark 36:18 bright-line 23:1,4 42:5 46:17
+17:19,25
+44:21
+54:19
+3:3,7 37:20,22 38:9 broad 20:19 16:18
+23:16,23 54:19 38:21 55:1 certainly 20:9
+barking 12:22 broadly 40:21 38:7
+25:11
+basis 32:20 34:9 change 35:5
+10:7 11:5
+18:4,10
+commission confession 48:18 50:23 25:10 29:15,17
+16:5 commits 52:18 connection 6:15 21:24 22:5,10 40:10 54:14,19
+common 24:8 consider 54:4 24:1 29:19 54:22
+32:3 40:13 consistent 3:21 33:23 48:10 crimes 17:1 18:5
+47:21 communicate consistently 3:16 49:9,11,17 51:6 19:11 31:23,24
+53:20 8:13 conspiracy 19:12 53:25 54:4 55:8 31:25 32:1,9
+communicated constructed courts 11:2 22:9 41:16,21 49:7
+42:13,21 construction cover 47:5 criminal 3:15
+4:12 5:8,25 6:2 7:3 contacted 14:21 Crawford 1:15 37:11 40:14
+5:25 8:12 9:6,6,12 contemporane... 2:3,9 3:6,7,9,22 54:5,7,25
+22:1,3 9:16 11:23 13:9 37:11 4:4,8 5:17 6:20 criminalizes 40:6
+55:8 15:13 16:25 contention 38:16 7:1,9,16,20 8:1 custodian 41:24
+28:8,15 29:3 convenience 11:11,15 12:1 D
+26:19 33:5 34:19 35:2 conveyed 26:16 13:16,20 14:6 DA 33:25
+35:10 36:5 conveying 18:7 14:17,25 15:4,7 darn 40:14
+40:8,8 42:24 38:17 17:8,19,25 18:9 DA's 46:15
+34:5 confer 20:14 19:19 creative 18:20 5:16,19,24 7:4
+49:13 54:8 country 54:5 crime 6:8 10:12 10:11,13,22
+28:5,14 13:25 48:15 26:23 45:13 19:7 20:13,14 15:12 16:6,8,8
+26:1 27:3
+34:18 16:12 22:9 16:12 24:11,14 7:23 16:10 feature 15:10
+36:2 24:22 25:24 30:16 32:7 37:5 56:10 32:7
+51:22 27:16 29:4 38:4,6 41:7 eventually 5:14 Federal 3:15
+33:16 34:17 elements 12:8,18 47:19 49:5 4:15 5:8,9,10
+40:3 differently 34:5 Eleventh 3:17,25 48:13 6:18 7:8,8,23
+16:12 difficult 28:19 20:18 22:1,3,16 16:11,16 19:8 10:5,12 11:1
+41:7 55:10 eliminate 17:22 19:13 22:2 23:5 12:12 14:2,11
+disclosure 29:17 47:12 38:11,16 42:10 17:11,18 18:2,2
+49:25 dispatch 39:24 6:7,11,14 7:8 exactly 33:15 20:2,6,11,13
+district 21:18 23:11,12 24:10 55:21 56:1,3,3 26:6,10,16,20
+43:15 30:11,12,25 exception 54:10 29:18,19,19,23
+46:4 12:19 13:5,11 40:2 41:17 31:9,17,19,20
+drug 32:1,12 47:25 48:21 fact 9:14 12:13 32:16,19,22,25
+English 25:18 50:12,16 51:1 34:19,20 35:11
+26:22 E 1:17 2:1,6 3:1,1 enter 22:16 16:20 17:7 37:4,11,15,16
+35:23 23:23 entirely 39:1 factually 3:18 37:22,23,25
+easier 19:23 erred 3:25 falls 28:3 39:4,5,6,7,12
+easy 37:7 41:10 error 21:1,3,5,24 fall-back 23:13 39:13,16,19
+37:1 42:7 efficiently 36:2 ESQ 1:15,17 2:3 25:16,20 26:11 40:24 41:10,12
+46:21 either 7:7,15 8:3 2:6,9 26:12 27:23 41:19,20,21
+51:12 36:19 51:17 essential 7:11 28:9 33:22 34:2 42:17 46:24
+12:11 7:10 12:16,17 establish 3:13 38:10 39:3 47:23 48:1,16
+15:10 46:13,16
+49:1,5 frankly 20:23 18:15 19:25 half 11:22 higher 4:13
+21:18 55:10 20:5 23:10,13 handle 20:10 hijacking 10:12
+51:3,5 friend 25:9 25:15,20 27:1,3 happen 19:17 19:19 20:2
+friendly 41:2 27:6 28:21 27:4,6 41:23 25:10
+52:5 future 8:12,13,16 31:15,17,21 45:5,23 52:24 Hobbs 18:18
+8:20 9:6 13:9 34:24 39:11,24 happened 14:8 hold 18:12 56:1
+53:9,11 39:24 40:1,2,19 27:8 28:11,12 holding 18:17
+54:1,2,6 G 41:8 43:16,19 28:12,25 31:7 Holiday 51:4
+g 3:1 5:18 6:12 43:20,20,21 35:2,24 36:5,20 Hollywood 43:19
+9:15 16:14 26:5 44:19,20 45:8 41:25 47:8 homework 43:16
+55:11 26:19 30:15 46:12,15,17,19 50:10,24 honestly 34:24
+56:2,11 31:2 45:13 46:22,23 52:23 happening 35:22 Honor 3:24 7:9
+51:8 38:19 49:9 52:14 47:15
+gather 31:9 government 3:12 2:6 23:22,23,25 22:25
+19:15 14:7,14,24 36:1,4,19 38:1 30:2,8,19,23 41:23 42:8,12
+29:1,5 48:12 54:13,18 38:7 46:7,24 31:12,18,23 49:13,25 50:24
+give 10:9 11:2,25 48:11 55:9 32:5,11 33:1 54:15
+42:12,19 40:19 51:18 21:17 45:11,24 46:3 11:10,14,17
+giving 36:1,7 granted 21:3,21 47:2,15,24 48:5 25:8 27:12 28:8
+48:10 53:24 44:8 47:9 hear 3:3 illustrates 43:13
+22:19 goes 16:11 37:25 guilty 49:6 56:1 23:1 immediacy 14:13
+10:20 12:12,24 H 46:6 important 4:14
+17:10,14 Haines 39:25 41:13 42:6 43:5
+45:16 insufficient 38:11 20:22 34:7,13 35:3,5
+intend 5:7,24 investigation 10:23 11:3 13:7 43:12 44:2,10
+29:12 45:9 24:4 37:16 37:21 38:23 49:12,21 50:5
+7:7 14:1 6:25 7:1,10,23 involvement Justice 1:18 3:3 55:5,14,17,23
+17:23 8:4 9:3,5 11:12 19:25 20:15,17 3:9,21 4:4,8 5:6 56:13,14,15
+24:10,12 12:10,14,16 23:11 54:21,24 6:2,4,5,16,24
+32:18 15:24 16:12,24 56:11 7:4,12,13,17 K
+24:9,24 26:2,6 issue 16:15,15 7:21 8:2,9,18 Kagan 4:4,8 9:10
+38:13,14 26:9 27:6,21,25 22:2,6 24:7,14 8:25 9:10,20 9:20 19:16 20:4
+41:12 28:6,8,10,15 27:4 35:14 10:7 11:4,4,10 24:18 41:22
+42:13 28:17 30:16 37:10 46:20 11:13,14,18,18 42:7 49:12,21
+47:19,25 31:13 34:14,16 52:3 12:4,21 13:10 50:5,16,22
+49:23 50:1 34:18,23 35:10 13:13,18,23 53:24
+35:12 39:10,10 J 14:7,14,24 15:2 Kagan's 46:10
+52:5 42:24 43:8 jail 16:22,24 17:2 15:5,9,19,23 keep 20:21 27:23
+interest 37:15 21:11,19 52:12 19:16,25 20:4 27:11,18,21
+interpret 10:4 judicial 30:18 26:14,24,24 killed 7:18,22,24
+17:13 30:3,12 jurisdiction 10:6 27:21 28:1,7,18 29:16 35:17
+33:2 interrupted 34:6 54:2,8 30:14,20 31:8 killer 29:13
+22:16 introduce 38:5 33:16 40:13 32:21 33:3,14 12:9 14:9 35:21
+leg 36:3 lot 9:24 39:20 52:9,18 needs 19:1,2
+50:18 let's 10:10,10,12 lower 11:2 52:21 20:18,22 26:22
+15:12 level 55:8 M missing 12:5 47:17
+28:21 liable 40:17 M 1:15 2:3,9 3:7 misunderstood negative 15:24
+30:17,17 life 49:6,9 53:22 53:9 Neither 21:1
+35:15 likelihood 4:9 7:2 maintain 4:14 modified 9:7 never 27:3,6
+39:23,25 7:14,17,19,21 55:2 modifying 4:2 33:18
+8:5 9:1,25 11:6 man 1:3 27:13,14 mom 10:16,25 new 22:10 39:15
+42:19,20 11:21,22,24 27:15,16,18 morning 3:4 43:21
+49:3,24 13:11,19,22 35:7 mother 10:14 nexus 24:6,11,14
+19:24 29:22 map 45:12 motivated 51:2 41:10
+35:16 March 1:9 14:18 movie 43:19,20 nobody's 12:22
+limitations 51:6 56:18 movies 43:17 number 14:7
+44:1 45:2 36:14 54:25 32:14 murder 17:10
+6:7,11,14 listening 27:14 mean 7:14 8:2 29:1,12 31:7 O 2:1 3:1
+9:12,13,14 27:19 9:21 29:8 30:11 34:11 37:10 obligation 37:19
+11:1,7 Lithuania 55:3 30:23,25 31:2 39:21 50:18,22 obliterated 54:25
+15:1 Lithuanian 43:21 37:2 41:5 44:11 51:2,11 52:18 observed 54:15
+17:1,17 43:25 44:17,20 44:21,24 46:4,5 53:14 obviously 6:5
+18:7 44:25 55:13 47:2 49:4 53:7 murdered 41:9 32:3
+20:15 little 36:11 54:14 50:25 occur 7:14 49:14
+23:11,12 live 30:3,6 48:11 meaning 6:12 murdering 49:10 occurred 24:17
+25:1,2,2 lived 39:14 51:23 murders 29:9 29:1 50:7,19
+26:17 local 13:25 14:10 means 52:8 41:15 occurrences 47:5
+30:11,11 14:15,16,18 meant 31:1 47:6
+31:3 33:16,17,20,25 measure 37:18 N occurring 16:4
+35:17,18 33:25 38:8,13 meet 19:14 23:6 N 2:1,1 3:1 odd 43:23 44:15
+41:2 42:14,15 55:9 narrow 20:21 45:18,19 46:7
+40:2 42:21 47:25 men 25:9 narrowly 3:16 47:5
+42:14,15 48:15,17,20 mens 5:19 24:6,8 natural 25:25 oddball 55:21,24
+47:25 50:1,2,12 31:4 nature 28:17 56:1,3
+50:1,2,18 long 48:24 mere 4:3 5:3 19:2 31:3 34:20 odder 43:12
+55:11 look 28:22 36:25 20:19 23:9 54:1 need 3:23 12:13 offense 5:9,9
+34:10 36:8 38:9 17:11 phone 42:5,8 29:2 31:16
+31:4,9,20 38:13,15 40:3 overrule 22:15 46:12 33:23 35:1
+47:10 41:17 42:15,16 phrase 5:1 36:21 43:24
+42:18,22 46:14 P pick 9:24 10:3,7 44:5 45:23 46:5
+51:5 47:20 48:1,21 P 3:1 44:9 46:12 48:4,5,8 53:3
+50:1,2,13,18 page 2:2 4:10,10 piece 48:1 56:6 53:13 54:9
+49:5 51:13 officer's 26:6 park 25:9 27:12 places 4:13 4:24 5:2,9,13
+55:11 22:23 28:9 29:5 planned 17:1 37:24 46:25,25
+6:14,15,15 14:11 20:6 41:3 37:2 38:20 39:6 planning 10:11 49:23 54:1
+7:23,25 Oh 21:13 30:5 39:7,11,12 40:8 18:11,12 25:9 potential 19:3,12
+48:3 50:5 52:11 41:8,9 46:11 54:16 52:21
+14:9,17 okay 27:1 35:3 51:18,19 52:12 plausible 4:6 practice 54:5
+16:4 37:8 43:25 52:21 54:3,8 please 3:10 24:1 55:1
+17:2,3,4 44:25 45:4 particularly 26:25 precedent 3:20
+18:8 old 43:20 16:22 46:19 pled 49:6 preclude 6:6
+25:1,2 omitted 17:18 penalties 49:2 plot 10:14 precludes 5:18
+Once 14:8 penalty 8:22 plus 49:6 predicate 32:13
+one-tenth 10:15 people 12:10 point 13:2 22:23 51:14
+ongoing 5:22 41:15,25 23:13 43:2,13 prediction 27:7
+28:7,10 55:11,12 percent 10:16 51:25 55:15 presence 19:3
+29:3,20 opinion 3:17,22 11:22 pointed 20:1 54:1
+30:11 19:4,6,14 21:21 percentage 32:8 police 13:25 present 45:10
+opposed 26:16 perfectly 44:17 14:16,16,19 presented 42:10
+32:25 32:9 36:16 45:12 29:20 40:1 presenting 48:13
+opt 36:22 period 6:12 48:17 49:10 President 20:2
+35:11 options 36:22 17:24 48:24 poor 21:7,15 presumably 31:1
+38:25,25 oral 1:11 2:2,5 person 5:20 7:18 posed 53:25 31:5 48:22 49:9
+3:7 23:23 7:22,24 8:6 positing 30:13 prevent 5:8,24
+40:20,24 order 4:14 8:14 9:11,16 17:21 position 8:10 6:1 7:24 9:5,7
+41:10,23 10:17 19:8 18:8,15 25:15 15:10 21:2,4 9:12 10:17
+41:16 25:18,20 29:16 23:8,14 15:13 16:25
+49:10,13 ordinary 43:11 29:22,23,24 possibilities 24:9,25 25:15
+50:24 outlandish 46:8 31:21 35:17 45:18,19 46:7,8 26:2 28:8,15
+52:14 47:6 38:24 39:11,22 possibility 4:3 29:17,25 30:21
+overbroad 23:9 39:25 40:9,24 5:4 9:25 10:1 35:10,22 40:7
+53:9,11 overheard 46:13 42:20 45:4 20:19 22:11 41:16 42:24
+overlap 54:6 Petitioner 1:4,16 23:9 24:15,19 43:8,16,18,19
+53:23
+45:20 19:20 24:8 32:8 question 5:12 6:5 19:18 21:4,20 25:20 38:9
+51:18 33:22 42:2,2 6:16 7:5 9:21 45:5 46:20 56:4 reported 14:11
+prosecutions 9:22 11:5,11,19 reason 30:19 14:12
+50:10,11 prosecutor 13:24 22:20 26:15,20 42:22 47:7,17 41:18
+prosecutors 14:2 36:5 38:3 41:1 47:20 50:14 require 5:24 9:16
+10:19 29:18 14:3 53:10,15,25 4:17,17,19 7:14 52:13
+52:23 protect 11:5,19 54:20 56:4 7:17 8:5 9:2 required 4:15
+34:3 37:15 41:20 questions 20:24 24:15,19 27:7 24:14 51:17
+protection 36:7 40:22 28:13 29:2,22 requisite 27:25
+prove 3:12 12:3 21:18 55:10 34:12 35:1,16 respect 5:20
+22:23 16:13 24:5 25:5 R 55:25 56:7,10 15:20,25 31:14
+44:2,3,4,6 25:24 26:6,7 R 3:1 reasonably 5:2 47:15
+34:17,21,25 raised 22:2 36:13 37:24 respectfully
+39:4,5,6 53:12 31:4 reasons 21:7,17 2:7 23:24
+proved 12:13 read 11:8 25:25 REBUTTAL 2:8 result 11:10,11
+52:9 16:8 29:4 30:13 33:6 53:22 11:12 27:16
+proven 13:5,11 40:21 record 20:16 50:19
+provide 9:24 26:1 30:9,9 56:10 reverse 21:24
+37:1 provision 45:16 reads 30:14 relate 24:12 31:6 18:25 26:12,18
+55:9 52:3 real 23:4 related 7:7 17:23 29:9,14 30:19
+17:15 43:14 53:10 26:14 28:1,2,5 24:25 42:14 robberies 20:11
+25:16 56:11 28:20 33:23 reliability 11:13 37:20 38:10
+32:1,9 puts 5:25 43:24 44:4,12 remaining 53:21 51:4
+37:3 49:8 p.m 56:17 44:12,13,14,16 remand 22:10 robbery 14:20
+54:23 45:22 46:4 48:7 remember 4:23 20:12 34:1
+qualify 18:18 10:25 36:13 remove 29:12 51:4 54:14,14
+16:5 34:11 36:22 sir 23:18 4:9,11,17,19 step 30:10 42:19
+31:8 42:15 sitting 25:9 4:24 5:4 8:14 STEPHEN 1:15
+32:3,6 section 3:14 24:2 situation 16:20 9:9 10:3,8 13:7 2:3,9 3:7 53:22
+47:21 24:9,23 25:1,3 situations 46:21 17:13 19:7,14 stool 8:3
+53:20 25:4,25 26:1,19 slightly 55:5 20:19 22:8,10 stop 6:11 7:6
+see 25:13 27:10 Solicitor 1:17 24:19 28:2,13 12:11 39:10,11
+send 17:2 18:8 someday 33:12 state 10:5 12:12 struggling 9:8,18
+SOTOMAYOR 29:24 32:1,9,17 56:16,18
+set 10:8 19:6 27:10 36:11,24 54:12,23,23,25 51:25
+42:17 50:13,17 sought 18:1 24:3 statute 3:15 4:1 sufficiency 16:16
+50:9,11,16 shoot 27:15,23 42:17 9:23 10:4,8,22 23:5 36:7 38:17
+10:15 shot 46:12 speaks 5:6 12:7 17:5,9 suggest 55:4
+30:15 show 23:11 33:4 specific 26:2,6,9 18:19 19:9,21 suggested 51:1
+47:10,11 54:21 27:5 28:6,10,10 24:4,23 25:17 53:5
+8:2,9,18 31:10 35:10,11 42:23 27:24 29:6 30:3 supervisor 46:15
+13:10,13 shows 20:16 51:20 52:13,17 30:13,14,15,24 support 19:20
+17:16,20 side 12:7 53:8,11 55:20 32:20 33:7 suppose 13:23
+29:7,11 significant 3:11 specifically 3:20 34:18,22,25 13:23 26:24
+30:5,14 54:6 26:3 28:7 34:19 37:4 39:2,16 27:11 43:6
+33:3 significantly 4:1 39:3,5 45:14 40:6,17,21 42:3 49:12
+38:18 similar 3:18 20:4 specifies 24:24 49:18 51:5,16 Supreme 1:1,12
+40:11 25:8 25:4 52:22 53:1 54:3 sure 18:17 28:16
+51:15,25 simple 6:8 speculate 37:21 54:8 46:9
+53:16 simply 5:15 spoke 25:18 statute's 6:5 suspect 40:11
+55:18 true 26:13 33:10 9:18 11:1 20:20
+25:23
+16:14 10:20 11:4,5 11:2 24:21 38:19 39:14
+44:8
+13:10,13 17:16 41:11 44:18 whatsoever
+20:6 21:9 28:18,23 30:2 Tuesday 1:9 56:6
+45:14 46:1 31:10 32:6,12 turn 10:17 25:13 willing 16:2,5,7
+18:22
+25:21,24
+27:24
+37:13 38:22 twice 18:2 witness 6:6,10
+34:17,21
+53:3
+33:18 43:5,12 45:10 25:9,24 27:12 37:19 40:16
+45:16 47:8,16 33:15 34:16 41:8,15
+25:12 48:14,16 50:21 44:6 46:21 W 40:13
+29:8,11 52:6,17 53:15 typically 49:16 wall 47:4 witnessing 39:22
+44:15 thought 15:23 51:4,12 wanted 43:16,18 25:18 47:3
+30:1 told 48:16 unfair 53:16 27:18 48:24 world 12:9 26:21
+53:19,20 trial 21:6,10 upsets 5:5 55:2 29:4 34:17 38:16 40:3,3
+25:17 35:15 urge 10:2 weird 35:14,20 42:22 45:3
+47:4 trials 34:1 35:14 U.S 14:21 33:22 went 30:10 44:25 written 6:6 30:24
+27:19 35:7 23 2:7
+1:9
+2:4
+38:19 41 4:10
+49:7 50:5
+5
+2:10
+10:16 11:22 7
+24:23 7 53:21
+52:1,2
+4:20 5:1
+4:20 5:1
+48:19
+46:18
+42:6
+1:5 3:4
+49:6
+1:13 3:2
+56:17
+4:20 5:1
+49:5
+17:13 22:5
+24:2,9
+15:20
+25:1
+4:10
+3:14
+14:18
+26:5,19 31:2
+14:19
+38:19
+14:19,24,25
+50:10,12
+15:7
+1:9
+39:14

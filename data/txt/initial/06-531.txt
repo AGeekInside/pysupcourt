@@ -1,0 +1,4025 @@
+                          Official - Subject to Final Review
+
+
+ 1      IN THE SUPREME COURT OF THE UNITED STATES
+
+ 2   - - - - - - - - - - - - - - - - - x
+
+ 3   MICHAEL W. SOLE, SECRETARY,                      :
+
+ 4   FLORIDA DEPARTMENT OF                            :
+
+ 5   ENVIRONMENTAL PROTECTION, ET AL., :
+
+ 6              Petitioners                           :
+
+ 7         v.                                         :        No. 06-531
+
+ 8   T.A. WYNER, ET AL.                               :
+
+ 9   - - - - - - - - - - - - - - - - - x
+
+10                                Washington, D.C.
+
+11                                Tuesday, April 17, 2007
+
+12
+
+13                   The above-entitled matter came on for oral
+
+14   argument before the Supreme Court of the United States
+
+15   at 11:20 a.m.
+
+16   APPEARANCES:
+
+17   VIRGINIA A. SEITZ, ESQ., Washington, D.C.; on behalf of
+
+18     Petitioners.
+
+19   PATRICIA A. MILLETT, ESQ., Assistant to the Solicitor
+
+20     General, Department of Justice, Washington, D.C.; on
+
+21     behalf of the United States, as amicus curiae,
+
+22     supporting Petitioners.
+
+23   SETH M. GALANTER, ESQ., Washington, D.C.; on
+
+24     behalf of Respondents.
+
+25
+
+
+                                          1
+
+                           Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1                           C O N T E N T S
+
+ 2   ORAL ARGUMENT OF                                        PAGE
+
+ 3   VIRGINIA A. SEITZ, ESQ.
+
+ 4      On behalf of the Petitioners                            3
+
+ 5   ORAL ARGUMENT OF
+
+ 6   PATRICIA A. MILLETT, ESQ.
+
+ 7      On behalf of the United States, as amicus
+
+ 8      curiae, supporting the Petitioners                     18
+
+ 9   ORAL ARGUMENT OF
+
+10   SETH M. GALANTER, ESQ.
+
+11     On behalf of the Respondents                           29
+
+12   REBUTTAL ARGUMENT OF
+
+13   VIRGINIA A. SEITZ, ESQ.
+
+14     On behalf of Petitioners                               58
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+
+                                        2
+
+                         Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1                       P R O C E E D I N G S
+
+ 2                                                              (11:20 a.m.)
+
+ 3               CHIEF JUSTICE ROBERTS:                  We'll next hear Case
+
+ 4   06-531, Sole versus Wyner.
+
+ 5               Ms. Seitz.
+
+ 6              ORAL ARGUMENT OF VIRGINIA A. SEITZ
+
+ 7                 ON BEHALF OF THE PETITIONERS
+
+ 8               MS. SEITZ:        Mr. Chief Justice, and may it
+
+ 9   please the Court:
+
+10               The court of appeals held that plaintiffs
+
+11   who obtain a preliminary injunction are prevailing
+
+12   parties entitled to fees, even though the district court
+
+13   concluded that the State's nudity ban does not violate
+
+14   the Constitution, that plaintiffs were not entitled to
+
+15   any permanent relief, and that final judgment should be
+
+16   entered against the plaintiffs.
+
+17               This Court's cases have found plaintiffs to
+
+18   be prevailing parties in only two situations, when they
+
+19   win judgment on the merits or enter into a consent
+
+20   decree.   And this Court has declined to confer
+
+21   prevailing party status based on interim rulings in
+
+22   ongoing litigation.
+
+23               JUSTICE SCALIA:              Ms. Seitz, I'd be curious
+
+24   to get your reaction to one of the points made by
+
+25   opposing counsel, which is that there were really sort
+
+
+                                         3
+
+                           Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   of two different pieces of litigation at issue here,
+
+ 2   that it was an as-applied challenge that produced the
+
+ 3   preliminary injunction, and what was rejected in the
+
+ 4   final decision was a facial challenge.                   Is there
+
+ 5   anything to that?
+
+ 6               MS. SEITZ:        No, I don't think there is.           In
+
+ 7   the preliminary injunction, the district court predicted
+
+ 8   that it would find the nudity ban significantly
+
+ 9   infringed free expression and that the State had less
+
+10   restrictive alternatives.           That's at page 18a and 19a.
+
+11   In the summary judgment decision, the court held that
+
+12   the nudity plan's effect on free impression was de
+
+13   minimis and it had, that the State had no less
+
+14   restrictive alternative.          So in both instances the
+
+15   underlying legal claim was that as applied to nude
+
+16   expression the nudity ban was unconstitutional.
+
+17               JUSTICE SOUTER:              What do we make of what I
+
+18   understand was the court's post hoc statement that what
+
+19   was -- the reason for issuing the temporary injunction
+
+20   was the perception that there was a content basis at
+
+21   work?   And what do we make of it in light of the fact --
+
+22   I think this is of record; you correct me if I'm wrong.
+
+23   what do we make of that in light of the fact that I
+
+24   believe it is in the record that I forget the
+
+25   appropriate State official said, well, it's true we've
+
+
+                                         4
+
+                          Alderson Reporting Company
+                       Official - Subject to Final Review
+
+
+ 1   let you do this in the past, but this is political or
+
+ 2   this looks political, which suggests that there was a
+
+ 3   content basis going on?
+
+ 4              What do we make of the court's statement and
+
+ 5   the record statement by the official in deciding whether
+
+ 6   there really was in effect a separate kind of order
+
+ 7   involved in the preliminary injunction from the order
+
+ 8   that was denied at the end of the case?
+
+ 9              MS. SEITZ:       There's a factual answer to that
+
+10   and a legal answer, and I'll start with the legal
+
+11   answer, which is that the preliminary injunction itself
+
+12   states that it is assuming content --
+
+13              JUSTICE SOUTER:             Oh, I know that.   I know
+
+14   that.
+
+15              MS. SEITZ:       And as a legal matter --
+
+16              JUSTICE SOUTER:             Because that's why I asked,
+
+17   what do we make of the court's statement subsequently?
+
+18              MS. SEITZ:       I think we, as the court of
+
+19   appeals did, have to disregard those statements because
+
+20   under Rule 65 of the Federal Rules of Civil Procedure,
+
+21   the preliminary injunction itself is the operative
+
+22   document, and the bases that it states for the issuance
+
+23   of the preliminary injunction are the bases that must
+
+24   govern both on judicial review of the injunction and as
+
+25   a matter of notice to the parties of the operative
+
+
+                                       5
+
+                        Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   effect and basis for the injunction.
+
+ 2                JUSTICE SOUTER:            Is that so when there is
+
+ 3   some evidence in the record that a content basis
+
+ 4   actually was the criterion?
+
+ 5                MS. SEITZ:      And that's the factual part of
+
+ 6   my response, which is that this testimony that was
+
+ 7   relied on which we quote in full in our reply brief, was
+
+ 8   testimony by the State, a State official who did not
+
+ 9   make the decision so was not actually aware of why the
+
+10   decision was made, and was testimony only to the effect
+
+11   that the demonstration envisioned on February 14th might
+
+12   be different than her previous plays, because more
+
+13   people might be expected.
+
+14                Now the court drew from that telephonic
+
+15   testimony a possibility that the reason for the State's
+
+16   denial on February 14 was the content; but in fact,
+
+17   although the court didn't recognize it, it also had
+
+18   before it a decision by the State in 2000 denying her
+
+19   permission to put on her play based on its decision to
+
+20   enforce its nudity ban against her at that time.
+
+21                JUSTICE SOUTER:            Now the 2001 order was it
+
+22   -- was it?   She applied, I think it was in --
+
+23                MS. SEITZ:      She wrote a letter in 2000
+
+24   requesting permission to perform her play --
+
+25                JUSTICE SOUTER:            Yeah.
+
+
+                                        6
+
+                         Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1               MS. SEITZ:       Under the same terms that she
+
+ 2   had under the stipulated settlement from 1998.                 The
+
+ 3   State denied her request in a letter indicating that the
+
+ 4   nudity ban would be enforced against the play.
+
+ 5               JUSTICE SOUTER:             So the factual answer in
+
+ 6   effect is there isn't enough fact to support the
+
+ 7   distinction?
+
+ 8               MS. SEITZ:       And -- and I guess there's in
+
+ 9   addition a legal elaboration on that factual record,
+
+10   which was this was all occurring in a preliminary
+
+11   injunction hearing that took place 24 hours before the
+
+12   demonstration, telephonic testimony of an ill-prepared
+
+13   State witness.   It was never followed up, even though
+
+14   that claim remained live through summary judgment,
+
+15   because the plaintiffs continued to have a claim against
+
+16   an individual defendant for damages.
+
+17               JUSTICE SOUTER:             Yeah.      But when you got to
+
+18   the summary judgment stage, the particular peace
+
+19   demonstration performance was -- was behind them.                 So
+
+20   they're, I'm not sure that it would have been expected
+
+21   to be reinjected into the case.
+
+22               MS. SEITZ:       The challenge continued because
+
+23   there was a claim for individual damages from the park
+
+24   manager.   So in order to determine that individual claim
+
+25   for damages, of course, the plaintiffs could have put in
+
+
+                                        7
+
+                         Alderson Reporting Company
+                       Official - Subject to Final Review
+
+
+ 1   evidence that, in fact, rather than just as a
+
+ 2   preliminary prediction, the injunction was issued to
+
+ 3   prevent content-based discrimination.
+
+ 4              JUSTICE SOUTER:             So it wasn't moot after the
+
+ 5   demonstration.
+
+ 6              MS. SEITZ:       That was not mooted out.
+
+ 7              CHIEF JUSTICE ROBERTS:                 That's one of the
+
+ 8   things that concerns me.        I mean in many of these cases
+
+ 9   you have fairly elaborate proceedings over the
+
+10   preliminary injunction and the event takes place.               I
+
+11   would not want to get to a situation where people feel
+
+12   the need to artificially keep a case alive simply to
+
+13   ensure their entitlement to attorney's fees.               So how do
+
+14   you protect against that?
+
+15              MS. SEITZ:       We -- the purpose of the
+
+16   attorney's fees provision is to encourage and reward
+
+17   meritorious litigation.       And at the point at which you
+
+18   only have a preliminary injunction, no matter how long
+
+19   that preliminary injunction has been in effect, what you
+
+20   have is a prediction of success on the merits, a
+
+21   balancing of equitable factors that determine interim
+
+22   fairness, but you do not have a decision that the
+
+23   defendant has violated the Constitution or any Federal
+
+24   law.
+
+25              JUSTICE KENNEDY:            But in, but in many cases
+
+
+                                       8
+
+                        Alderson Reporting Company
+                       Official - Subject to Final Review
+
+
+ 1   the case will become moot after a period of time and the
+
+ 2   Chief Justice and I have the same concern.                The question
+
+ 3   is directed to do we just keep this litigation alive for
+
+ 4   the -- for the ancillary issue of attorney's fees?
+
+ 5              MS. SEITZ:       There are significant
+
+ 6   consequences to a finding of liability.                And to
+
+ 7   conferring preliminary -- or fees for preliminary
+
+ 8   injunction when you do not have a final determination of
+
+ 9   violation by the State, you're essentially ordering the
+
+10   State and local governments who have not been judged
+
+11   violators of law or had a full or fair opportunity to
+
+12   defend as a matter of law --
+
+13              JUSTICE KENNEDY:            Well, we're asking about
+
+14   what rule you propose we adopt and the submission to you
+
+15   is that if we have a rule there can never be attorneys
+
+16   fees in this instance, that will then create pressure to
+
+17   continue the litigation when it's for all practical
+
+18   purposes of no real importance to the parties, other
+
+19   than to just establish attorney's fees.                And that seems
+
+20   a waste of resources.
+
+21              MS. SEITZ:       And but the -- the situation --
+
+22   that situation will also obtain if you confer attorney's
+
+23   fees and prevailing party status on a plaintiff who only
+
+24   has a preliminary injunction.
+
+25              JUSTICE GINSBURG:             But do we have to judge
+
+
+                                       9
+
+                        Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   all preliminary and judgments alike?                      I mean, in some
+
+ 2   cases, the preliminary injunction is the thing.                      For
+
+ 3   example, suppose in this case, the demonstrators had
+
+ 4   said yeah, we went in with a -- with a broad challenge
+
+ 5   but we knew all we wanted was that peace demonstration,
+
+ 6   and we got it; so we're -- that's enough.                      We're not
+
+ 7   going to fight on.
+
+ 8               MS. SEITZ:         The fact that a plaintiff gets
+
+ 9   his or her way temporarily based on a preliminary
+
+10   junction does not mean that the defendant has violated
+
+11   that plaintiff's constitutional rights or that that
+
+12   would be the resolution of the --
+
+13               JUSTICE BREYER:              Who -- who -- where does it
+
+14   say you have to have done that?                My statute here says in
+
+15   any action to enforce a provision of 1983 -- the TRO or
+
+16   whatever was such an action.              It says the court in its
+
+17   discretion may allow the prevailing party an attorneys'
+
+18   fee.   Well, did they prevail fail or not?                    They got what
+
+19   they wanted.     And it was such an action.                  Doesn't say
+
+20   anything about whether you have been declared horrible
+
+21   or wonderful or violator or not a violator.                     It says did
+
+22   they get what they want in the action?                     Answer, yes.
+
+23   End of matter.
+
+24               Now what's wrong with reading it that way?
+
+25               MS. SEITZ:         To prevail you must prevail on a
+
+
+                                         10
+                           Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   legal claim.
+
+ 2               JUSTICE BREYER:             Yeah, they got the legal
+
+ 3   claim.   The legal claim is we want to have our
+
+ 4   demonstration on February 14; we have a right to do it
+
+ 5   and therefore issue an order.              You said no, don't issue
+
+ 6   the order, because they don't.               And therefore, they won.
+
+ 7               MS. SEITZ:        Respectfully, that's not a legal
+
+ 8   claim.
+
+ 9               JUSTICE BREYER:             It is not?
+
+10               MS. SEITZ:        The underlying legal claim is
+
+11   that the State's denial of the permit was
+
+12   unconstitutional.
+
+13               JUSTICE BREYER:             Yeah.       But what about the
+
+14   legal claim we are under the law entitled to a
+
+15   preliminary injunction.
+
+16               MS. SEITZ:        That is a type of relief you are
+
+17   seeking but it's based on an underlying legal claim.
+
+18               JUSTICE SCALIA:             It is not a determination,
+
+19   is it, that they have a right to hold a demonstration?
+
+20               MS. SEITZ:        It is --
+
+21               JUSTICE SCALIA:             It is just a determination
+
+22   that we don't know at this point enough to say that you
+
+23   don't have a right.
+
+24               MS. SEITZ:        It is a product of an equitable
+
+25   balancing that determines interim fairness --
+
+
+                                        11
+                           Alderson Reporting Company
+                       Official - Subject to Final Review
+
+
+ 1              JUSTICE BREYER:            Well I thought, where it
+
+ 2   say that in the statute that you have to have that
+
+ 3   particular kind of a claim?
+
+ 4              MS. SEITZ:       I think this Court's cases have
+
+ 5   interpreted the word prevail and prevailing parties to
+
+ 6   mean you must prevail on the merits of a legal claim.
+
+ 7   The only instance in which that is not true is in a
+
+ 8   consent decree scenario and in a consent decree what you
+
+ 9   have is a defendant assuming legal responsibility for
+
+10   providing relief on the merits that resolves a claim.
+
+11              CHIEF JUSTICE ROBERTS:                 So what do you do in
+
+12   a situation of mootness where there's -- you know,
+
+13   they'd be happy to pursue the claim to establish that
+
+14   they prevail on a permanent junction as well as a
+
+15   preliminary one, but the case has become moot.                   Are they
+
+16   automatically disentitled to attorneys' fees in that
+
+17   case?
+
+18              MS. SEITZ:       A claim that is never resolved
+
+19   cannot be the basis of prevailing party status.                   And
+
+20   that's what your hypothetical poses.                   And I also think
+
+21   it's not correct to say there is no point in continuing
+
+22   with litigation in that setting.              In a private attorney
+
+23   general setting, there is a value to having at the end
+
+24   of litigation a decision --
+
+25              CHIEF JUSTICE ROBERTS:                 Well, there may be a
+
+
+                                      12
+                        Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   pint to pursuing it but I'm not sure it's one that the
+
+ 2   locality governments -- I mean if you ask them the
+
+ 3   question, would you rather be liable for attorney's fees
+
+ 4   where you lose in a preliminary injunction but then the
+
+ 5   case becomes moot, or would you rather have to face
+
+ 6   individual officer liability to prevent the case from
+
+ 7   becoming moot?   Or would you rather face ongoing
+
+ 8   litigation to prevent the case from becoming moot
+
+ 9   because there's too much invested in the fees -- they
+
+10   might choose the former.
+
+11              MS. SEITZ:        Well in this case, of course,
+
+12   the State officials decided to defend the
+
+13   constitutionality of their nudity ban to the end.                     It
+
+14   was important to them.
+
+15              CHIEF JUSTICE ROBERTS:                  Well, the plaintiffs
+
+16   decided to challenge it to the end.                     But I'm suggesting
+
+17   that if they know they might -- it might result in a
+
+18   loss of attorneys fees, when all they really wanted was
+
+19   a particular demonstration, others might pursue it
+
+20   differently.
+
+21              MS. SEITZ:        There are significant
+
+22   countervailing considerations, and one is that under the
+
+23   rule you're proposing, state and local governments would
+
+24   be fearful about enforcing perfectly valid laws in
+
+25   emergency situations for fear of being penalized with
+
+
+                                       13
+                         Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   fees.     Then they have no fair chance --
+
+ 2                 JUSTICE KENNEDY:            Well, you are saying the
+
+ 3   Chief Justice is proposing a rule.                   I think he was
+
+ 4   asking you -- you want to just give us all or nothing.
+
+ 5   And we're suggesting that it just doesn't make systemic
+
+ 6   good sense to insist that every preliminary injunction
+
+ 7   be carried through to a final adjudication for
+
+ 8   attorney's fees.     And we are asking is there some midway
+
+ 9   ground.    And you, you've so far -- you can structure the
+
+10   argument the way you want, but you so far are -- in
+
+11   effect telling me absolutely not.
+
+12                 MS. SEITZ:       I -- I think that because of the
+
+13   rule I distill from this Court's case which is that you
+
+14   can't prevail on a claim that's not decided, it's hard
+
+15   for me to see what the middle ground would be.                  We do of
+
+16   course have the alternative ground for decision in this
+
+17   case which is that a claim, a preliminary junction
+
+18   that's issued in ongoing litigation whose prediction on
+
+19   the merits is later essentially proven to be false by
+
+20   subsequent litigation, can't be the basis for prevailing
+
+21   party --
+
+22                 JUSTICE BREYER:            So what do you think, when
+
+23   this was enacted, to make up an example that it is as
+
+24   horrifying as I can think, where the Ku Klux Klan was
+
+25   riding in the South, and a group of civil rights
+
+
+                                         14
+                           Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   demonstrators wanted to make certain they could have
+
+ 2   their demonstration outside the jail and they go to the
+
+ 3   judge and says the sheriff is involved in this, the
+
+ 4   whole town is; we want an injunction tomorrow.
+
+ 5   Tomorrow.     Right now.     So -- and we don't really care
+
+ 6   that much about the end of it, but we'll -- we'll go
+
+ 7   ahead and litigate it if you want.                   Now they get their
+
+ 8   injunction.     They have the demonstration; it's over.                   I
+
+ 9   would have thought if there was a situation for which
+
+10   1983 was written, it's that one.
+
+11                 MS. SEITZ:       And if in fact it is clear that
+
+12   there is no issue law in that setting.
+
+13                 JUSTICE BREYER:            Oh, there is.      The other
+
+14   side has a lot of arguments.              And they each have
+
+15   arguments.    There are plenty of issues of law.
+
+16                 MS. SEITZ:       Then you just articulated why
+
+17   that plaintiff should not be considered a prevailing
+
+18   party without taking the position that that is capable
+
+19   of repetition, but evading review situation, arguing
+
+20   that in effect the judgment is based totally on law and
+
+21   converting it essentially to a judgment on the merits,
+
+22   or otherwise coming to a final judgment on a claim, so
+
+23   that the plaintiff would have --
+
+24                 JUSTICE GINSBURG:             But why should a
+
+25   plaintiff do that when the plaintiff's position is we
+
+
+                                         15
+                           Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   got precisely what we wanted; this is not going to be --
+
+ 2   this is a one-time only demonstration.                    We're not going
+
+ 3   to repeat this.
+
+ 4                Why force litigation, especially when we can
+
+ 5   say in this case, you lost on the merits?                    The judge
+
+ 6   made a prediction.      Turned out that -- that that was
+
+ 7   wrong.
+
+ 8                MS. SEITZ:        To -- to impose attorney's fees
+
+ 9   on a defendant, it's not simply about what the plaintiff
+
+10   gets, whether the plaintiff gets what he wants, but it
+
+11   is also about what the justification is for forcing the
+
+12   state and local government to pay fees.
+
+13                And the purpose of the Civil Rights Act is
+
+14   to impose such fees against violators of civil rights
+
+15   and for the benefit of victims of similar rights
+
+16   violation, and not simply on those whom it is predicted
+
+17   will have a substantial likelihood of success on the
+
+18   merits.
+
+19                JUSTICE GINSBURG:              So you get a case that
+
+20   involves a student.       And -- and something like the
+
+21   DeFunis case.     The student is admitted to the law school
+
+22   event.    They have much controversy over this affirmative
+
+23   action program.     The student graduates.                And -- but the
+
+24   student has prevailed up until that time.
+
+25                MS. SEITZ:        I don't believe the student has
+
+
+                                         16
+                           Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   prevailed within the meaning of Section 19(a).                     The
+
+ 2   student has been predicted to be likely to prevail and
+
+ 3   has received an interim fairness -- an interim
+
+ 4   adjustment based on considerations of fairness.
+
+ 5                JUSTICE GINSBURG:             But can't fight on
+
+ 6   because first, the student had gotten everything that he
+
+ 7   wanted and the case is moot.             The student has graduated.
+
+ 8                MS. SEITZ:       In that situation, I think the
+
+ 9   benefit is capable of repetition for debating review or
+
+10   of utilizing the class action --
+
+11                JUSTICE GINSBURG:             On if you had a class
+
+12   action.    He had a single action, and he's graduated.
+
+13                MS. SEITZ:       But there are tools a plaintiff
+
+14   can use to prevent this kind of case from becoming moot
+
+15   where there is an important need to have an issue
+
+16   decided.
+
+17                JUSTICE GINSBURG:             Apart from the class
+
+18   action, what -- what else is there?
+
+19                MS. SEITZ:       65(a)(3) which allows
+
+20   consolidation of a merits determination.
+
+21                JUSTICE GINSBURG:             Oh.      Yeah.
+
+22                MS. SEITZ:       I reserve the reminder of my
+
+23   time?
+
+24                JUSTICE SCALIA:            Well, I mean, what if --
+
+25   what if there's nothing else he can do?                     What -- what
+
+
+                                        17
+                          Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   horrible does he face?        He faces a horrible of having to
+
+ 2   pay for his own litigation, just like the rest of us do.
+
+ 3              I mean this is an extraordinary benefit
+
+ 4   we're talking about here, getting -- getting your
+
+ 5   attorney's fees paid.       I -- it doesn't seem to me that
+
+ 6   we're casting this, this person into the underworld.
+
+ 7              MS. SEITZ:         And there's no basis for
+
+ 8   awarding fees against the innocent state and local
+
+ 9   government not determined to have committed a violation.
+
+10   May I reserve the balance?
+
+11              CHIEF JUSTICE ROBERTS:                   Thank you, Counsel.
+
+12              We'll hear from Ms. Millett.                   Ms. Millett.
+
+13           ORAL ARGUMENT OF PATRICIA A. MILLETT,
+
+14                ON BEHALF OF UNITED STATES,
+
+15           AS AMICUS CURIAE SUPPORTING PETITIONERS
+
+16              MS. MILLETT:           Mr. Chief Justice, and may it
+
+17   please the Court.
+
+18              This Court has held repeatedly that
+
+19   liability for attorney's fees and liability for
+
+20   violation of Federal law go hand in hand.                  A preliminary
+
+21   injunction does not determine that there has been a
+
+22   violation of Federal law.
+
+23              CHIEF JUSTICE ROBERTS:                   Are you on the all
+
+24   or nothing team this morning?
+
+25              (Laughter.)
+
+
+                                        18
+                          Alderson Reporting Company
+                            Official - Subject to Final Review
+
+
+ 1                 CHIEF JUSTICE ROBERTS:                   Is it -- can a
+
+ 2   preliminary injunction never be the basis for an award
+
+ 3   of attorney's fees?
+
+ 4                 MS. MILLETT:           I won't say never in this
+
+ 5   narrow circumstance.          And that is when, when a
+
+ 6   preliminary injunction results in a definitive and
+
+ 7   determinative ruling of law such as Thornburgh versus
+
+ 8   Obstetricians -- College of Obstetricians and
+
+ 9   Gynecologists, or the steel mill seizure case from this
+
+10   Court.   It came up on a preliminary injunction but this
+
+11   Court made a dispositive and controlling ruling of
+
+12   constitutional law.         And assuming that that declaration
+
+13   is then followed up by a change in behavior by the
+
+14   defendant compelled as result of the ruling, that would
+
+15   be enough.    But --
+
+16                 JUSTICE SCALIA:              Excuse me.       How can that
+
+17   be, that a preliminary injunction resolves a dispositive
+
+18   question of law?    Does that happen?
+
+19                 MS. MILLETT:           Well it happened -- it
+
+20   happened in this Court and -- and -- and there were
+
+21   dissenters.    But there -- it happened in this Court's
+
+22   case in the Thornburgh case.                It came up on a
+
+23   preliminary junction.          This Court determined there were
+
+24   no disputed questions of fact and it was only a contest
+
+25   of law what the Court said is that when they have done
+
+
+                                           19
+                             Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   that we can make dispositive ruling of law.              But I think
+
+ 2   that's an unusual situation and what's critical is that
+
+ 3   when --
+
+ 4                 JUSTICE SCALIA:           But it wasn't the issuance
+
+ 5   of the preliminary injunction that resolved it, it was
+
+ 6   the appeal to this Court where we -- we resolved a
+
+ 7   question of law.
+
+ 8                 MS. MILLETT:        This Court resolved a question
+
+ 9   of law on the merits.       The debate in that opinion
+
+10   between the majority and the dissents was that the --
+
+11   the dissent said majority should only decide whether it
+
+12   was an abuse of discretion to issue the preliminary
+
+13   injunction.
+
+14                 And, I mean -- it, it, it can become sort of
+
+15   the same thing if an error in law is necessarily an
+
+16   abuse of discretion, but when -- when a superior court's
+
+17   made a definitive --
+
+18                 JUSTICE BREYER:           What is the law in respect
+
+19   to this, which is right on the point you're arguing,
+
+20   that two parties have this kind of suit and the
+
+21   government party -- they settle it, and giving
+
+22   everything that the plaintiff conceivably wants, but at
+
+23   the end they say:    We don't admit we violated the law.
+
+24   Can you get attorney's fees there or not.
+
+25                 MS. MILLE TT:         If it's a consent decree.
+
+
+                                        20
+                          Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1                JUSTICE BREYER:           It's a consent decree, but
+
+ 2   no admission of a violation of law.
+
+ 3                MS. MILLE TT:         No, that's right.         This
+
+ 4   Court, while repeatedly stating, including unanimously
+
+ 5   just two years ago, that the central justification for
+
+ 6   attorney's fees is that the defendant is a violator of
+
+ 7   Federal law, has found that it will also permit
+
+ 8   attorney's fees in the consent decree situation, but
+
+ 9   that's because there you have a defendant who is not
+
+10   fighting and continuing to resist any form of final
+
+11   relief, has instead agreed to provide final relief that
+
+12   runs to a plaintiff, in favor of a plaintiff, and that
+
+13   advances the purpose of Federal law.
+
+14                CHIEF JUSTICE ROBERTS:                I have never
+
+15   understood why that's an issue.              Can't the parties -- it
+
+16   seems to me an exception that isn't consistent with the
+
+17   theory.   Why can't the parties just agree on attorney's
+
+18   fees in the settlement agreement and the consent decree
+
+19   and then it wouldn't have to be an issue?
+
+20                MS. MILLETT:        I think, I think that in
+
+21   reality certainly a party can say, I'm not entering into
+
+22   a consent decree if we're not going to resolve
+
+23   attorney's fees now or if we're going to have a fight
+
+24   over them.   So they certainly have that power because
+
+25   it's largely a contract, although one enforced by
+
+
+                                       21
+                         Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   courts.    I'm only trying to be candid with this Court's
+
+ 2   precedent, which is also recognized in Mayer versus
+
+ 3   Gagne.    For some reason, maybe they reserved the
+
+ 4   question there to be disputed in court whether you'd be
+
+ 5   responsible for attorney's fees.
+
+ 6                But I do think That's much more of a side
+
+ 7   show because that can all be dealt with through the
+
+ 8   contract elements of the consent agree.                    And really what
+
+ 9   you're talking about when a court is coercively imposing
+
+10   attorney's fees on a defendant is that the defendant has
+
+11   a right to not pay those unless they have been found to
+
+12   be a violator of Federal law or have agreed to through
+
+13   contract to deal with that issue.
+
+14                JUSTICE SOUTER:            Okay, but the argument is
+
+15   undercut, as you yourself say, by the settlement rule.
+
+16   Don't we have the settlement rule simply because we want
+
+17   to promote settlements?         We don't want litigation to go
+
+18   on and on and on simply because somebody wants to
+
+19   establish a right to attorney's fees.                    And doesn't that
+
+20   same reasoning apply here when there is a preliminary
+
+21   injunction and that's all the person wants.                    By the same
+
+22   reasoning that we accept a settlement, why shouldn't we
+
+23   accept a preliminary injunction as being a sufficient
+
+24   determination of rights to justify fees because we don't
+
+25   want it to go on and on and on when nobody has any issue
+
+
+                                        22
+                          Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   of substance involved, but is just litigating for the
+
+ 2   sake of establishing a right to fees later?
+
+ 3              MS. MILLETT:            I have three answers to that.
+
+ 4   First of all, there are two parties here.                      The defendant
+
+ 5   has a right not to be assessed attorney's fees, which
+
+ 6   are a form of final relief not interim relief, without a
+
+ 7   final decision that they violated on the merits.
+
+ 8              JUSTICE SOUTER:               But the only attorney's
+
+ 9   fees that would be assessed would be attorney's fees
+
+10   attributable to the preliminary injunction.
+
+11              MS. MILLETT:            That's right, but they have a
+
+12   right not to pay anything if they haven't done anything
+
+13   wrong.
+
+14              JUSTICE SOUTER:               They have been found
+
+15   subject to a preliminary injunction.                      The playing field
+
+16   is no longer even.
+
+17              MS. MILLETT:            They haven't been found to be
+
+18   -- there may be a Presumption or a substantial
+
+19   likelihood they're going to lose, but that doesn't
+
+20   always come out.     And there's not even always a
+
+21   substantial likelihood --
+
+22              JUSTICE SCALIA:               The point is you wouldn't
+
+23   mind putting that on a resume, that you have been
+
+24   subjected to a preliminary injunction.
+
+25              MS. MILLETT:            No --
+
+
+                                         23
+                           Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1                JUSTICE SCALIA:            It's not a black mark on
+
+ 2   your name, is it?
+
+ 3                MS. MILLETT:         No.
+
+ 4                JUSTICE SCALIA:            You haven't violated any
+
+ 5   Federal law.
+
+ 6                MS. MILLETT:         This is a case in point.
+
+ 7                JUSTICE SOUTER:            But it does mean, it does
+
+ 8   mean that somebody with a burden to establish an
+
+ 9   entitlement to the injunction has carried the burden.
+
+10                MS. MILLETT:         Well, the test is the
+
+11   prevailing party, not the substantially likely to
+
+12   prevail party.   And the other reason --
+
+13                JUSTICE SOUTER:            Then let's not have it in
+
+14   the settlement case.
+
+15                MS. MILLETT:         Well, again settlements can be
+
+16   dealt with through the settlement, as part of the
+
+17   settlement process.      But I think --
+
+18                JUSTICE SCALIA:            They are voluntary, these
+
+19   settlements, aren't they?           So you could at least say
+
+20   that the innocent person who gets stuck with attorney's
+
+21   fees for settling gets what he asked for, right?             It's
+
+22   voluntary.
+
+23                MS. MILLETT:         Well, that's what I tried to
+
+24   explain to Justice Breyer.
+
+25                JUSTICE SCALIA:            That may be, but that's not
+
+
+                                        24
+                           Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   the way the statute is written.
+
+ 2                 JUSTICE STEVENS:           Would this case be
+
+ 3   different if the defendant had consented to the entry of
+
+ 4   a preliminary injunction?
+
+ 5                 MS. MILLETT:        No, I don't think so, and I
+
+ 6   don't think courts as a matter of judicial economy want
+
+ 7   to tell the government every time we agree not to
+
+ 8   oppose, to stay the removal of an alien, that we somehow
+
+ 9   would get a bill.
+
+10                 JUSTICE STEVENS:           So if this had been, if
+
+11   they had entered into a consent decree covering just the
+
+12   one event on the front burner, that would have been?
+
+13                 MS. MILLETT:        A consent decree is a final
+
+14   resolution of a claim that legally obligates the
+
+15   defendant, final relief that runs in favor of the
+
+16   plaintiff.
+
+17                 JUSTICE STEVENS:           But if they consented to
+
+18   the entry of a preliminary injunction, why wouldn't that
+
+19   be equally binding?
+
+20                 MS. MILLETT:        Because it is not a final
+
+21   resolution.    Preliminary injunctions are important.
+
+22   They're of value to the parties.                But there's a
+
+23   trade-off in getting it.          The reason courts can give
+
+24   them is they aren't committed to final relief.                  They
+
+25   aren't committed to final obligation, and they can
+
+
+                                        25
+                           Alderson Reporting Company
+                       Official - Subject to Final Review
+
+
+ 1   decide when --
+
+ 2              JUSTICE STEVENS:            Well, they were able to go
+
+ 3   ahead with their one demonstration that precipitated the
+
+ 4   litigation, and they would have been able to do it the
+
+ 5   same way if they had a consent decree instead of having
+
+ 6   the other side not fight very vigorously in opposition
+
+ 7   to the preliminary.
+
+ 8              MS. MILLETT:         The defendant who'S been fully
+
+ 9   vindicated at the end of the case shouldn't have to
+
+10   write checks to two attorneys instead of just their own.
+
+11   There's a fundamental fairness element here.
+
+12              But also on the judicial economy --
+
+13              JUSTICE STEVENS:            But then why isn't the
+
+14   attorney -- if there were a consent decree -- I don't
+
+15   understand the difference.
+
+16              MS. MILLETT:         Because the defendant's in the
+
+17   control of the fairness issue in the consent decree and
+
+18   is not in this situation.
+
+19              But the other situation, concern, is concern
+
+20   about judicial economy.        And there's arguments in the
+
+21   amicus briefs on the other side that preliminary
+
+22   injunctions are common.        But remember, this is -- the
+
+23   central justification is that the plaintiff is a private
+
+24   attorney general who doesn't just do what they want to
+
+25   do, but either resolves the issue of law or obtains
+
+
+                                      26
+                           Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   enduring changes in defendant's behavior that are of
+
+ 2   utility to the community at large.                 Contrary to --
+
+ 3               JUSTICE KENNEDY:            We have when election
+
+ 4   season comes many, many requests for injunctions, and
+
+ 5   after the election is over the case just goes away.
+
+ 6   Nobody is interested.
+
+ 7               MS. MILLETT:         That is not --
+
+ 8               JUSTICE KENNEDY:            Under your position, all
+
+ 9   of these matters must be contested until final judgment
+
+10   before attorney's fees are available.
+
+11               MS. MILLETT:         That is not the United States
+
+12   Government's experience when it's been involved in a lot
+
+13   of voting cases.   Lots of them get fought until the end,
+
+14   and this Court's decision in Brown versus Choate
+
+15   recognizes these are capable of repetition, yet evading
+
+16   review.   Now, if the private plaintiff doesn't want to
+
+17   do the work of a private attorney general, that's their
+
+18   choice.   No one says you have to stay.                 It's just, if
+
+19   you want attorney's fees, you have to accept a
+
+20   preliminary injunction for what it is.                  It's very
+
+21   beneficial, but it is not a resolution on the merits
+
+22   that obligates the defendant to provide a form of final
+
+23   relief, not interim relief, to you.
+
+24               And this Court itself has expressed
+
+25   significant concerns about having voting cases being run
+
+
+                                       27
+                         Alderson Reporting Company
+                       Official - Subject to Final Review
+
+
+ 1   up on preliminary injunctions at the last minute and the
+
+ 2   impact that can have on voting, and we shouldn't
+
+ 3   encourage that.
+
+ 4              CHIEF JUSTICE ROBERTS:                 Ms. Millett, did I
+
+ 5   hear your legal test a while ago is an enduring change
+
+ 6   in the defendant's behavior?           Is that your standard?
+
+ 7              MS. MILLETT:         Enduring more in -- not in the
+
+ 8   transient sense of preliminary injunction.                    Obviously,
+
+ 9   things change on the outside world.                    But in the form of
+
+10   final relief and permanent relief, and that's what this
+
+11   Court's cases have said time and again.                   Not only must
+
+12   the defendant be a violator of Federal law, but in
+
+13   Ferrari, in Texas Teachers versus Darwin, in Hanrahan
+
+14   and Hewitt, the Court has made clear that it is final, a
+
+15   resolution of a dispute, a final judgment, the settling
+
+16   of a problem that makes someone a prevailing party.                   And
+
+17   "prevailing party," as this Court explained in
+
+18   Buckhannon, is a term of art.            As we say on pages 11 to
+
+19   12 of our brief, "That term of art, as defined in the
+
+20   relevant dictionaries at the time, was not just that you
+
+21   won something, but that you won at the end of the suit."
+
+22              And that's a question of basic fundamental
+
+23   fairness to plaintiffs.       Remember, there's going to be
+
+24   countervailing judicial economy concerns.                   If you tell
+
+25   governmental entities that they're going to have to
+
+
+                                      28
+                        Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   take -- may I finish -- - have to take emergency appeals
+
+ 2   from every interlocutory order and revisit stays to
+
+ 3   avoid liability for attorney's fees.
+
+ 4              Thank you.
+
+ 5              CHIEF JUSTICE ROBERTS:                   Thank you,
+
+ 6   Ms. Millett.
+
+ 7              Now we'll hear from you, Mr. Galanter.
+
+ 8              ORAL ARGUMENT OF SETH M. GALANTER
+
+ 9                  ON BEHALF OF THE RESPONDENTS
+
+10              MR. GALANTER:            Mr. Chief Justice and may it
+
+11   please the Court:
+
+12              Respondents went into Federal court because
+
+13   State officials told them their protest would be illegal
+
+14   and they left Federal court with a preliminary
+
+15   injunction that prohibited State interference with their
+
+16   protest.
+
+17              CHIEF JUSTICE ROBERTS:                   No, no.   They left
+
+18   Federal court having lost on the permanent injunction.
+
+19              MR. GALANTER:            Well, Your Honor, 20-some
+
+20   months later they lost on another component of their
+
+21   case, where they were seeking permanent relief to enjoin
+
+22   the facial applicability of the regulations.
+
+23              CHIEF JUSTICE ROBERTS:                   Their legal, their
+
+24   legal claim was that these regulations were invalid
+
+25   under the First Amendment.           And they lost on that legal
+
+
+                                        29
+                          Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   claim.
+
+ 2                 MR. GALANTER:         At the end of the case, Your
+
+ 3   Honor, yes.    But at the preliminary injunction stage,
+
+ 4   one -- their claim for relief was a violation of the
+
+ 5   First Amendment and there was evidence at the
+
+ 6   preliminary injunction stage that --
+
+ 7                 CHIEF JUSTICE ROBERTS:                Well, they succeeded
+
+ 8   in filing their complaint as well, but they don't get
+
+ 9   attorney's fees for that, because they were successful
+
+10   at the filing complaint stage.
+
+11                 MR. GALANTER:         That's true, Your Honor.          But
+
+12   what they obtained on February 13, 2003, was the relief
+
+13   they sought.
+
+14                 JUSTICE SCALIA:           What if they got a TRO
+
+15   instead of a preliminary injunction?
+
+16                 MR. GALANTER:         We're not suggesting that
+
+17   TROs --
+
+18                 JUSTICE SCALIA:           I know you aren't.      Why
+
+19   not?
+
+20                 MR. GALANTER:         Well, there are structural
+
+21   differences between the two.
+
+22                 JUSTICE SCALIA:           What are the two?      I mean,
+
+23   they prevailed.    They have a TRO here, something of
+
+24   value.
+
+25                 MR. GALANTER:         There was not the adversaries
+
+
+                                        30
+                          Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   that exists in a preliminary injunction.                  And I think
+
+ 2   the distinction --
+
+ 3                 JUSTICE SCALIA:            But it's just prevails.        If
+
+ 4   you think "prevails" means you come out of there with
+
+ 5   anything that's worth something that has a contempt
+
+ 6   citation behind it, I don't see why a TRO wouldn't
+
+ 7   qualify.
+
+ 8                 MR. GALANTER:          We're not suggesting that as
+
+ 9   the basic rule.    What we are suggesting is that if you
+
+10   obtain a preliminary injunction, in part because
+
+11   Congress recognized the difference between TROs and
+
+12   preliminary injunctions and placed preliminary
+
+13   injunctions and permanent injunctions together as the
+
+14   kinds of orders that had --
+
+15                 JUSTICE ALITO:          What if you get a
+
+16   preliminary injunction and then at the permanent
+
+17   injunction stage the basis for the preliminary
+
+18   injunction is reversed.          Let's say the preliminary
+
+19   injunction here was based on the ground that the
+
+20   decision was content-based, a factual decision, and at
+
+21   the permanent injunction stage the court finds that it
+
+22   was not content-based.
+
+23                 MR. GALANTER:          Then we would not be
+
+24   prevailing.    But I have to point out the district court
+
+25   in this case expressed --
+
+
+                                         31
+                           Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1                 JUSTICE GINSBURG:             Even though you got what
+
+ 2   you wanted?     You got to put on the show.
+
+ 3                 I thought that at the end of the line, the
+
+ 4   judge said your First Amendment rights have not been
+
+ 5   violated, the nudity ordnance can be enforced.               If you
+
+ 6   had come back again, say the next week, and said, we
+
+ 7   want to do another peace symbol, after the court has
+
+ 8   ruled on the permanent junction and you lost, you
+
+ 9   certainly couldn't prevail when you're coming back with
+
+10   another as-applied, when the court has said this
+
+11   ordnance is good and doesn't violate the First
+
+12   Amendment.
+
+13                 That's correct.            But if there were an
+
+14   intervening fact, if they permitted a performance of
+
+15   "Hair" and then said, but we'll enforce the nudity
+
+16   prohibition against your protest, then we would be able
+
+17   to come back.
+
+18                 The final judgment in this case does not
+
+19   preclude future as-applied challenges, either
+
+20   content-based or arbitrary, and the district court
+
+21   recognized that when it made very clear that it did not
+
+22   reverse or repudiate its preliminary injunction ruling
+
+23   simply because we lost the permanent junction.
+
+24                 JUSTICE GINSBURG:             I thought this court
+
+25   said, and correct me if I'm wrong, that you wanted to
+
+
+                                         32
+                           Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   put on a demonstration that would be like the plays,
+
+ 2   that would be hidden from public view because you have a
+
+ 3   curtain or whatever around it.               And then the judge said,
+
+ 4   oh no, that's not what they wanted, they didn't want it
+
+ 5   to be hidden from you view, they wanted people to see
+
+ 6   their demonstration, so if that's what they want to do,
+
+ 7   they don't have any First Amendment protection.
+
+ 8               MR. GALANTER:           That is what was at the end.
+
+ 9   I would just point out that at the preliminary
+
+10   injunction stage, you have to remember Ms. Weyer had
+
+11   been permitted to put on her play, not hiding it,
+
+12   several years before.       There was testimony suggesting
+
+13   that one of the differences in the result, the refusal
+
+14   to allow the anti-war protest, was because it was an
+
+15   anti-war protest.    And the district court makes it
+
+16   clear, in our brief in opposition appendix at page 4a.
+
+17   He says:   "The court did not revisit or reverse its
+
+18   earlier decision regarding the same legal issue.
+
+19               But I think all this just goes to the point
+
+20   for that this case presents some interesting issues, but
+
+21   that the per se rule that the Petitioners press, that
+
+22   you can never get --
+
+23               JUSTICE GINSBURG:              Let's stay with this case
+
+24   because your interest is in getting fees in this case.
+
+25   Suppose you had lost the preliminary injunction and then
+
+
+                                        33
+                          Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   you won at the end of the line.                Certainly you would be
+
+ 2   prevailing throughout, right?
+
+ 3                 MR. GALANTER:          We would obviously be a
+
+ 4   prevailing party.     But under Hens ley --
+
+ 5                 JUSTICE GINSBURG:             Even though you lost on
+
+ 6   the preliminary injunction?
+
+ 7                 MR. GALANTER:          Yes.      Under Hensley versus
+
+ 8   Eckert, this Court has made clear you can win on some
+
+ 9   claims, lose in others.
+
+10                 JUSTICE STEVENS:            But you would get
+
+11   attorney's fees for the preliminary injunction work,
+
+12   even though you lost on that?
+
+13                 MR. GALANTER:          We would get attorney's fees
+
+14   for the reasonable work that ended up leading to the
+
+15   success.     District courts have for decades now parsed
+
+16   through these legal records, subject to review by the
+
+17   court of appeals.
+
+18                 JUSTICE GINSBURG:             That parsing, is there
+
+19   any doubt that if you won on the main, in the main bout,
+
+20   that you would get your fees for your entire
+
+21   representation?
+
+22                 MR. GALANTER:          Yes, there is doubt, Your
+
+23   Honor.     The court does look for whether these fees are
+
+24   reasonable.
+
+25                 JUSTICE GINSBURG:             Not that.     But would you
+
+
+                                         34
+                           Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   not get -- would the judge say you don't get a penny for
+
+ 2   the effort you made to achieve the preliminary
+
+ 3   injunction because you lost, you lost it, even though in
+
+ 4   hindsight I could see that that was the wrong decision,
+
+ 5   you should have had it?
+
+ 6                MR. GALANTER:          Well, Your Honor, under
+
+ 7   Hensley you look to see whether they're related or
+
+ 8   unrelated claims.    This Court has adopted --
+
+ 9                JUSTICE GINSBURG:             They're obviously
+
+10   related.    It's the same thing.             I need -- I have a short
+
+11   time to answer the preliminary injunction.               The judge
+
+12   said:   You haven't shown probability of success on the
+
+13   merits, or denies it.       You win.          I thought that there
+
+14   wasn't any doubt that you could get your fees for the
+
+15   successful result from the time you filed the complaint
+
+16   until the final judgment.
+
+17                MR. GALANTER:          We would hope a court would
+
+18   find that an as-applied challenge and a facial challenge
+
+19   were sufficiently related that we'd be entitled to fees
+
+20   for both.   But what I have to stress --
+
+21                JUSTICE SCALIA:            Even though you lost on the
+
+22   preliminary injunction?         The fees that you reasonably
+
+23   expended in seeking a preliminary injunction, even
+
+24   though you lost, you'd be able to charge to the other
+
+25   side?
+
+
+                                        35
+                          Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1                 MR. GALANTER:         If I had won the final --
+
+ 2                 JUSTICE SCALIA:           Yes or no?          I think you can
+
+ 3   answer yes or no.
+
+ 4                 MR. GALANTER:         Yes.
+
+ 5                 JUSTICE SCALIA:           Okay.
+
+ 6                 MR. GALANTER:         But I would like to caution
+
+ 7   that that would be eligible for fees, but the court
+
+ 8   would go through it and say how much of this were rated
+
+ 9   to your final win, was it reasonable.
+
+10                 JUSTICE SCALIA:           No.     No.      No.   How much of
+
+11   it related to the preliminary -- you mean anything that
+
+12   related only to the preliminary injunction you would be
+
+13   denied?
+
+14                 CHIEF JUSTICE ROBERTS:                All the work you did
+
+15   to show irreparable harm, balance of the equities, not
+
+16   on the merits, you're saying that's off the table?
+
+17                 MR. GALANTER:         Well, it -- no, Your Honor,
+
+18   because those very things are also needed at a permanent
+
+19   injunction.
+
+20                 JUSTICE ALITO:         But you've got five hours
+
+21   billed -- you bill for five hours to write the brief
+
+22   that you submit at the preliminary injunction stage.
+
+23   You could get those fees later if you won at the
+
+24   permanent injunction stage, could you not?
+
+25                 MR. GALANTER:         Probably.            And we certainly
+
+
+                                        36
+                          Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   would get the money we did for writing the complaint.
+
+ 2   And one of our counts for the complaint here was exactly
+
+ 3   for the preliminary injunction that we obtained.
+
+ 4               CHIEF JUSTICE ROBERTS:                 Counsel, your
+
+ 5   approach, just as there are problems from the judicial
+
+ 6   economy perspective with your friend's approach, but
+
+ 7   doesn't your approach require the States to fight tooth
+
+ 8   and nail on the preliminary injunction because they're
+
+ 9   running the risk if they lose there, they're going to
+
+10   pay fees even if they prevail later?                    As opposed to, as
+
+11   is often the case, they might say, you know, we consent
+
+12   to the entry of the preliminary injunction or we
+
+13   don't -- you know, we're going to save our energy.
+
+14   Doesn't it require them to fight every possible stage,
+
+15   including appeal and so on?
+
+16               MR. GALANTER:          Well, two things, Your Honor.
+
+17   As I think I made clear to Justice Alito, if the
+
+18   decision is reversed or repudiated by the district
+
+19   court, there would now -- we would not be prevailing
+
+20   parties.   We would simply have gotten this benefit.                   But
+
+21   --
+
+22               JUSTICE SCALIA:            I don't know what you mean,
+
+23   if the decision on what?         On the preliminary injunction?
+
+24               MR. GALANTER:          Yes.
+
+25               JUSTICE SCALIA:            Is repudiated by the
+
+
+                                       37
+                         Alderson Reporting Company
+                            Official - Subject to Final Review
+
+
+ 1   district -- how is it repudiated?                    What do you envision?
+
+ 2                 MR. GALANTER:            Well, in the hypothetical
+
+ 3   where the same facts, the same law, and the district
+
+ 4   court says I was wrong, that would be the kind of
+
+ 5   repudiation.
+
+ 6                 JUSTICE SCALIA:              In a later case, you mean?
+
+ 7                 MR. GALANTER:            In the course of the
+
+ 8   proceedings in the same case, Your Honor.                     But --
+
+ 9                 CHIEF JUSTICE ROBERTS:                   Well, he doesn't
+
+10   have to say he's wrong.            What often happens is as it is
+
+11   here, he say's I've got 24 hours, I don't have a brief
+
+12   from the other side, I kind of make the best guess I
+
+13   can.   And then later on after an adversary presentation
+
+14   and an evidentiary hearing, he issues a different
+
+15   ruling.     As here, he doesn't have to say I was wrong on
+
+16   my 24-hour off-the-cuff guess.                  It's just that I'm
+
+17   better informed.       Is that repudiation or not?
+
+18                 MR. GALANTER:            No, Your Honor, it's not.
+
+19   And here, in fact he said the opposite.                     He said I
+
+20   wasn't wrong, these were based on different legal
+
+21   theories.     And --
+
+22                 JUSTICE GINSBURG:               Where -- can you -- I
+
+23   thought what he said was -- I thought they wanted a
+
+24   demonstration that was going to be secure from public
+
+25   view, and instead I understand now that's not -- that
+
+
+                                           38
+                             Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   wasn't what they wanted from the start.
+
+ 2               So on the premise on which I was operating,
+
+ 3   I was right, that they were going to do it just like the
+
+ 4   plays.   But what they really planned to do, and did do,
+
+ 5   I was wrong because those facts were not before me.              Had
+
+ 6   those facts been before me, they would have lost on the
+
+ 7   preliminary injunction.
+
+ 8               MR. GALANTER:          I don't believe that that's
+
+ 9   the fairest reading of the district court's subsequent
+
+10   orders in this case.      What the district court made clear
+
+11   was that his as-applied holding, that the plays and the
+
+12   war protests were being treated differently.            Remember
+
+13   that it's --
+
+14               JUSTICE STEVENS:            Yes, but assume the
+
+15   district court thought he was right at the preliminary
+
+16   injunction, and ruled otherwise at the permanent
+
+17   junction.   But what if the court of appeals when it
+
+18   reviews the fee application, thinks he was wrong both
+
+19   times?
+
+20               MR. GALANTER:          Well, Your Honor, we would
+
+21   suggest that the person in the best position to
+
+22   understand what the district court was doing --
+
+23               JUSTICE STEVENS:            Is the district court.
+
+24               MR. GALANTER:          Yes, Your Honor.
+
+25               JUSTICE STEVENS:            But maybe the court of
+
+
+                                       39
+                         Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   appeals is in the best position to determine whether
+
+ 2   they made an error of law or not.
+
+ 3               MR. GALANTER:          Yes.      And obviously they
+
+ 4   review errors of law, questions of law --
+
+ 5               JUSTICE STEVENS:            And if they think he made
+
+ 6   an error of law, what should they do?
+
+ 7               MR. GALANTER:          If he had made an error of
+
+ 8   law in the preliminary injunction ruling that, on
+
+ 9   de novo review, and reversed, then --
+
+10               JUSTICE STEVENS:            No, there's no reverse.
+
+11   It's too late.   They've had the demonstration so it's
+
+12   all over.   But in reviewing the fee application, the
+
+13   court of appeals concludes that the district judge --
+
+14   the decision represented an incorrect premise of law and
+
+15   therefore, he did make an error.               Would that control or
+
+16   would the district judge's view of the validity of his
+
+17   own decision control?
+
+18               MR. GALANTER:          We would suggest the latter,
+
+19   Your Honor, in part to avoid the fees on fees litigation
+
+20   problems.   I mean, other than the per se rule of --
+
+21               JUSTICE KENNEDY:            In other words, to avoid
+
+22   fees on fees, we do something that's wrong?
+
+23               MR. GALANTER:          No, Your Honor.       It's not
+
+24   wrong.   It's consistent with the text and the policies
+
+25   underlying --
+
+
+                                       40
+                         Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1               JUSTICE BREYER:             I thought that it -- am I
+
+ 2   wrong about that?    I thought that if, A, he goes in, he
+
+ 3   gets a preliminary injunction, he says the law is da,
+
+ 4   da, da, the judge says you're right, that's what it is,
+
+ 5   preliminary injunction.         And now it's continued up on
+
+ 6   appeal, the appellate court says you're wrong about the
+
+ 7   law.   You got it, you had the event, but you're
+
+ 8   absolutely wrong, the law did not support you.                      I
+
+ 9   thought under those circumstances you were not
+
+10   prevailing and you couldn't get it.                      Is that the law or
+
+11   not?
+
+12               MR. GALANTER:           It is the law, Your Honor.
+
+13   What I'm suggesting, though, is that --
+
+14               JUSTICE SCALIA:             I thought the hypothetical
+
+15   was different, was, the case proceeds to final judgment
+
+16   on the merits; and at that point -- okay -- at that
+
+17   point, the issue of whether the preliminary injunction
+
+18   was valid or not comes up, not in the direct appeal from
+
+19   the preliminary injunction.
+
+20               MR. GALANTER:           I --
+
+21               JUSTICE SCALIA:             Assume you win on the
+
+22   merits.
+
+23               JUSTICE STEVENS:             It's a direct appeal on
+
+24   the fee issue.
+
+25               MR. GALANTER:           Yes, Your Honor.             What my --
+
+
+                                        41
+                          Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   if I may, I agree with Justice Breyer's hypothetical
+
+ 2   that if you're appealing the merits and the court of
+
+ 3   appeals says something which shows that the -- the
+
+ 4   preliminary injunction should not have been issued,
+
+ 5   we're not a prevailing party.               I agree with
+
+ 6   Justice Scalia that if you're appealing from the
+
+ 7   preliminary injunction and the court of appeals
+
+ 8   reverses, then you're not the prevailing party.                 But
+
+ 9   Justice Stevens, what I would suggest to you and to
+
+10   Justice Kennedy was, we shouldn't be adjudicating
+
+11   whether the preliminary injunction was correctly entered
+
+12   at the fees stage.      If there is --
+
+13               JUSTICE BREYER:              Is there any authority for
+
+14   that?   Because it does seem to me wrong, that where a
+
+15   person has got a preliminary injunction and it's legally
+
+16   unsupportable, and then he gets the fee but then they
+
+17   appeal that and the court of appeals determines it's
+
+18   legally unsupportable, he never should have gotten it,
+
+19   I'd be surprised if there is a case that awards the fee
+
+20   in those circumstances, but maybe there is.                What is it?
+
+21               MR. GALANTER:            Well, I mean, the courts of
+
+22   appeals have adopted different standards.                 I can't point
+
+23   to one --
+
+24               JUSTICE BREYER:              Is there any case you can
+
+25   think of that under those circumstances let's him have
+
+
+                                         42
+                           Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   the attorney's fees?
+
+ 2                MR. GALANTER:         I can't point to one.
+
+ 3                JUSTICE BREYER:           No, I would be surprised.
+
+ 4                MR. GALANTER:         But the --
+
+ 5                JUSTICE BREYER:           The other thing that I
+
+ 6   wonder about this case is, are you the prevailing party?
+
+ 7   And the reason I ask that is because when I look through
+
+ 8   the record it seems to me your clients are very
+
+ 9   interesting.   They have their point of view.               And their
+
+10   point of view, one of their points of view was that the
+
+11   state said you can have this demonstration, just wear a
+
+12   skimpy swimming suit.      No.      Well, you can have the
+
+13   demonstration maybe, I'm not sure of this, but we're
+
+14   going to put up a cloth so other people who don't want
+
+15   to see you don't have to see you.                And there your client
+
+16   said, we won't pay any attention to the cloth.                At least
+
+17   we didn't in the past.       And then looking at that I
+
+18   thought, well, maybe what they got was, they got a
+
+19   preliminary injunction or a TRO, whatever you want to
+
+20   call it, but it didn't stop the State from putting up
+
+21   the cloth.   It was pretty clear the State would, and it
+
+22   should have been pretty clear that they were going to
+
+23   ignore it, which they did.
+
+24                And why is this any different than having
+
+25   won an injunction to say okay, you can demonstrate, but
+
+
+                                       43
+                         Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   in your swimming suit?         In other words, they didn't want
+
+ 2   this.     They didn't want what they got.                    Now, what's the
+
+ 3   response to that?
+
+ 4                 MR. GALANTER:          They did get what they
+
+ 5   wanted.     They wanted to be nude.              They wanted to make
+
+ 6   sure they weren't escorted off the beach or arrested.
+
+ 7   And that's exactly what happened.                  They had an order
+
+ 8   that protected that.
+
+ 9                 Now, the screen was there, and there's
+
+10   material disputes of fact about what they were told
+
+11   about the screen by whom.            But the court's order did not
+
+12   say stay behind the screen.              They were not in violation
+
+13   of the court order.
+
+14                 But I think this goes to the more general
+
+15   point, how can you tell when someone prevails, and this
+
+16   Court has already established that.                       You obtain some
+
+17   relief through a court award that materially changes the
+
+18   relationship.
+
+19                 CHIEF JUSTICE ROBERTS:                 Did the court order
+
+20   provide for a screen?
+
+21                 MR. GALANTER:          The court order that -- no.
+
+22   The court order said that the State was not prohibited
+
+23   from using the means it had in the past.                       So it
+
+24   clarified what the State was not prohibited from doing.
+
+25   It did not impose any requirement on the plaintiffs.
+
+
+                                         44
+                           Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1                 JUSTICE SCALIA:           That included a screen.
+
+ 2                 MR. GALANTER:         It did, Your Honor, but it
+
+ 3   didn't order the screen.
+
+ 4                 JUSTICE SCALIA:           But your people didn't want
+
+ 5   a screen.
+
+ 6                 MR. GALANTER:         That's correct, Your Honor.
+
+ 7                 JUSTICE SCALIA:           So they didn't get what
+
+ 8   they asked for.
+
+ 9                 MR. GALANTER:         They didn't get removed from
+
+10   the beach or arrested for being nude either, Your Honor,
+
+11   so they did get what they wanted.
+
+12                 JUSTICE SCALIA:           Well, that's only because,
+
+13   I guess the other side didn't take the action that they
+
+14   could have taken if they didn't -- if they didn't apply
+
+15   the screen.
+
+16                 MR. GALANTER:         Your Honor, when you obtain
+
+17   the court award, just as if you obtain a court award to
+
+18   get on a ballot or to hold a parade, or to wear a tee
+
+19   shirt, I mean, you get that --
+
+20                 JUSTICE SCALIA:           Did they conduct the
+
+21   demonstration with a screen or without a screen?
+
+22                 MR. GALANTER:         I'm sorry?
+
+23                 JUSTICE SCALIA:           Did they conduct the
+
+24   demonstration with or without a screen?
+
+25                 MR. GALANTER:         They did not use the screen.
+
+
+                                        45
+                          Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1                JUSTICE SCALIA:           And since they didn't use
+
+ 2   the screen, the State was not prohibited from arresting
+
+ 3   them; is that correct?
+
+ 4                MR. GALANTER:         That's correct.
+
+ 5                JUSTICE SCALIA:           So they did not get what
+
+ 6   they asked for.   Mainly a prohibition against the state
+
+ 7   interfering with the kind of demonstration they wanted,
+
+ 8   which was one without a screen.              You say they didn't get
+
+ 9   that.
+
+10
+
+11                MR. GALANTER:         They didn't get that, but
+
+12   they got something more than they had when they went in,
+
+13   which was, they got the right to be naked on the beach,
+
+14   which would have otherwise subjected them to arrest.
+
+15   And, I mean --
+
+16                JUSTICE SCALIA:           The state had no problem
+
+17   with that.   In the past the State had let them do that,
+
+18   as long as they had the screen.
+
+19                MR. GALANTER:         It wouldn't let them do that
+
+20   this time even with the screen.              It sent them a letter
+
+21   saying you may not appear on the beach nude.                 And I
+
+22   mean, obviously, at some times you don't get --
+
+23                CHIEF JUSTICE ROBERTS:                So the State
+
+24   prevailed to some extent as well.                They prevailed to the
+
+25   extent of getting in the order that they can do what
+
+
+                                       46
+                         Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   they had done, which is erect a screen.
+
+ 2                 MR. GALANTER:         They -- yes.         They
+
+ 3   narrowed --
+
+ 4                 CHIEF JUSTICE ROBERTS:                So they're entitled
+
+ 5   to some -- I mean, if -- this is not a reciprocal
+
+ 6   switching thing, but I mean, it does go to the question
+
+ 7   of whether or not you are the prevailing party when your
+
+ 8   opponents have prevailed to a significant extent as
+
+ 9   well.
+
+10                 MR. GALANTER:         With respect, even if we had
+
+11   sought and obtained a permanent injunction that allowed
+
+12   us to protest but not behind the screen, we'd be a
+
+13   prevailing party, although the defendants by their
+
+14   successful advocacy would have narrowed the scope of the
+
+15   injunction.
+
+16                 JUSTICE STEVENS:           Let me ask you this.      Is
+
+17   it correct that an underlying principle of law that
+
+18   justified your claim for relief and your actual relief
+
+19   was that there's some First Amendment right to
+
+20   demonstrate in the nude?
+
+21                 MR. GALANTER:         Yes, Your Honor, that was an
+
+22   underlying part of that.
+
+23                 JUSTICE STEVENS:           And what is the support in
+
+24   our cases for that proposition, if any?
+
+25                 MR. GALANTER:         Well, I think this Court's
+
+
+                                        47
+                          Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   cases in Barnes, the nude dancing cases suggest that
+
+ 2   expressive activity combined with nudity is protected by
+
+ 3   the First Amendment.       Judge Calabrese in the Second
+
+ 4   Circuit wrote an extensive opinion in a case called
+
+ 5   Tunic versus Zapper, where he surveys this Court's
+
+ 6   cases, and finds that occasionally there may be for
+
+ 7   artistic or political reasons a right to be nude as part
+
+ 8   of more expressive conduct.             But I'd like to maybe --
+
+ 9              JUSTICE GINSBURG:               But that was also a --
+
+10   that was the demonstration or the show arrangement under
+
+11   the -- was it the Brooklyn Bridge or the Williamsburg
+
+12   Bridge?
+
+13              MR. GALANTER:            It was on the streets of New
+
+14   York, Your Honor, yes.
+
+15              JUSTICE GINSBURG:               At 6 a.m.
+
+16              MR. GALANTER:            Yes, Your Honor.       But to take
+
+17   this back just one step, to the notion that we either
+
+18   not need something that's sort of enduring or merits
+
+19   based in order to obtain relief.                Maher versus Gagne
+
+20   suggested, a court doesn't need to resolve the merits in
+
+21   order for a party to be prevailing.
+
+22              JUSTICE SCALIA:              But see, it's so
+
+23   extraordinary for somebody to make the other side pay
+
+24   for his attorney.    We don't even do that -- we don't
+
+25   even do that for guilty people when they -- when the
+
+
+                                        48
+                          Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   other side wins.     So they have violated the law.               We
+
+ 2   still don't make them pay the other side's attorney's
+
+ 3   fees.   Now you want us to pay your client's attorney's
+
+ 4   fees even though you're not dealing with a guilty party,
+
+ 5   because ultimately the court found no, there really,
+
+ 6   this person didn't violate the law.
+
+ 7                That is -- you know, that's double
+
+ 8   indemnity.   I mean, it's multiplying the extraordinary
+
+ 9   departure from our usual practice, which is that each
+
+10   side pays his own.      It's one thing to say well, if
+
+11   you're a bad actor, in certain circumstances, civil
+
+12   rights cases, we'll make you pay the other side.                  But
+
+13   it's another thing to say if you're -- if you're not a
+
+14   bad actor in a civil rights case but you're unlucky
+
+15   enough to get hit with a preliminary injunction, we'll
+
+16   make you pay for the other side.                 It just grates
+
+17   that that -- it ain't fair.
+
+18                JUSTICE STEVENS:             It's not just a question
+
+19   of weaker, but what Congress intended when they wrote a
+
+20   statute authorizing these fees.
+
+21                JUSTICE SCALIA:             I assume that Congress
+
+22   doesn't often do things that are grossly unfair.                  And if
+
+23   there are various interpretations, one of which is not
+
+24   grossly unfair, that's the one we should --
+
+25                JUSTICE STEVENS:             And these trump the
+
+
+                                         49
+                           Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   literal language very definitely.
+
+ 2              MR. GALANTER:             Speaking of the language, we
+
+ 3   have here when Congress enacted in 1970 -- in 1998 -- in
+
+ 4   1976, just two years before this Court had interpreted
+
+ 5   another civil rights attorney's fees statute.                In that
+
+ 6   one, however, Congress had actually required a final
+
+ 7   order before attorney's fees would be awarded.
+
+ 8              JUSTICE BREYER:               Well, before you leave
+
+ 9   that, I wonder if -- there's one other thing floating
+
+10   around in my mind.      I might as well bring it up.            The
+
+11   word is prevailing, and if I go with you on the ground
+
+12   that it's flexible and can apply to all kinds of things,
+
+13   at least you have to really be prevailing, is there a
+
+14   good faith element in that?              That is to say, if your
+
+15   clients when they went in to get this order and they got
+
+16   it, and at that time they had no intention of following
+
+17   what they had to do.        Rather, they had every intention
+
+18   of going out and tearing down the curtain.                Does that
+
+19   enter into the determination of whether they are really
+
+20   a prevailing party who ought to get their attorney's
+
+21   fees, if you're bringing the ethical element into it?
+
+22              MR. GALANTER:             I think, Your Honor, that --
+
+23   well, first of all, the preliminary injunction itself
+
+24   was an equitable remedy.           Unclean hands could have gone
+
+25   into that question, and yes, in determining the amount
+
+
+                                         50
+                           Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   of fees, again, equity can be considered.                  The good
+
+ 2   faith of the parties, just as the complete bad faith of
+
+ 3   a plaintiff, this Court has held, permits fees to be
+
+ 4   awarded for the defendants.
+
+ 5                 CHIEF JUSTICE ROBERTS:                You can't go into
+
+ 6   court with the objective of just getting preliminary
+
+ 7   relief, can you?    I mean, you have to have an underlying
+
+ 8   claim of illegality and, that seeks permanent relief,
+
+ 9   right?
+
+10                 MR. GALANTER:         That's true, Your Honor.
+
+11   Although you can go into court knowing that --
+
+12                 CHIEF JUSTICE ROBERTS:                Knowing that --
+
+13                 MR. GALANTER:         -- you're only going to be
+
+14   getting --
+
+15                 CHIEF JUSTICE ROBERTS:                -- preliminary
+
+16   injunction.
+
+17                 MR. GALANTER:         And everyone here -- excuse
+
+18   me.   And everyone here knew that absent an appeal, this
+
+19   was the final word on the February 14th --
+
+20                 CHIEF JUSTICE ROBERTS:                On the February
+
+21   14th, but your client sought further relief.
+
+22                 MR. GALANTER:         Yes.      But it also sought it
+
+23   as a discrete claim for relief in the complaint, this
+
+24   very injunction.
+
+25                 JUSTICE GINSBURG:            You get costs?      The
+
+
+                                        51
+                          Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   phrase is "attorney's fees as part of costs".               So, do
+
+ 2   you get costs for up to the preliminary injunction?
+
+ 3                 MR. GALANTER:         Yes, Your Honor.      The
+
+ 4   district court in this case awarded us costs and also
+
+ 5   awarded the other side costs.              And that's actually --
+
+ 6                 JUSTICE GINSBURG:            So you would split the
+
+ 7   costs?
+
+ 8                 MR. GALANTER:         He found we were both
+
+ 9   prevailing parties in the case.               And that's also
+
+10   consistent with this Court's decision in Hensley, which
+
+11   says you look at a case and the unrelated claims; you
+
+12   can find that the plaintiffs are prevailing parties on
+
+13   some, the defendants are prevailing parties on others,
+
+14   and order cross awards of attorney's fees.
+
+15                 JUSTICE GINSBURG:            So this defendant, having
+
+16   succeeded in being the winner in the whole case, didn't
+
+17   get costs for the whole case; is that what you're
+
+18   telling me?
+
+19                 MR. GALANTER:         They were awarded -- they
+
+20   sought and were awarded all their costs for the entire
+
+21   case, or they sought their costs for the entire case.
+
+22   It was reduced by the district court as a matter of
+
+23   equity.   But they -- not because -- not parsing it out
+
+24   among various parties to the case.
+
+25                 JUSTICE GINSBURG:            So they were entitled to
+
+
+                                        52
+                          Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   costs for the entire case?
+
+ 2               MR. GALANTER:          Yes, they were, Your Honor.
+
+ 3               JUSTICE GINSBURG:             And attorney's fees under
+
+ 4   the statute are to be awarded as part of costs?
+
+ 5               MR. GALANTER:          Yes, Your Honor.
+
+ 6               JUSTICE GINSBURG:             So if you're not entitled
+
+ 7   to costs, if the defendant got the full costs, then how
+
+ 8   do you get entitled to attorney's fees when the statute
+
+ 9   puts them together?     Because attorney's fees are part of
+
+10   costs.
+
+11               MR. GALANTER:          That's correct.      And there
+
+12   are many cases where both parties end up getting awarded
+
+13   costs.   Hensley was one that suggested it was possible.
+
+14               JUSTICE GINSBURG:             But this wasn't --
+
+15               MR. GALANTER:          No.
+
+16               JUSTICE GINSBURG:             This was one that the
+
+17   state got all of its costs from your client?
+
+18               MR. GALANTER:          Yes.      And our client got
+
+19   costs from the state.      There were counter awards --
+
+20   cross awards of cost, which is not unusual in civil
+
+21   litigation with multiple claims.
+
+22               But more importantly, I think, when we go
+
+23   back and we look at the purposes, not only do we have
+
+24   the language here, we also have the recognition, I think
+
+25   as I was mentioning to the Chief Justice, that there's
+
+
+                                       53
+                           Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   going to be a lot of situations where core 1983 rights,
+
+ 2   core constitutional rights are at stake where you know
+
+ 3   you're not going to be able to obtain a permanent
+
+ 4   injunction.    You may even, as my friends on the other
+
+ 5   side say, ask that the two be consolidated.
+
+ 6                 JUSTICE ALITO:         What if that's not the case,
+
+ 7   but the plaintiff after getting a preliminary injunction
+
+ 8   just voluntarily dismisses the case?                      Do they still get
+
+ 9   costs for the preliminary injunction?
+
+10                 MR. GALANTER:         Oh, I think the answer is
+
+11   yes.   And I think that that's actually something that
+
+12   should be encouraged.       In this case, the preliminary
+
+13   junction was relatively cheap, as litigation goes.                        To
+
+14   encourage them to continue, particularly since the core
+
+15   relief they sought had become moot.                      Yes, there was
+
+16   additional relief they sought, or it could, in a
+
+17   hypothetical could seek.          But absent an appeal, that
+
+18   part of the case is over and there's no real need to
+
+19   continue to litigate it.
+
+20                 CHIEF JUSTICE ROBERTS:                I know you were
+
+21   asked this question and your answer may have just
+
+22   slipped by me.    Why, if you had asked for a TRO, why
+
+23   would you not be entitled to fees on that?
+
+24                 MR. GALANTER:         We think that Congress's
+
+25   distinction as far as putting preliminary injunctions
+
+
+                                        54
+                          Alderson Reporting Company
+                          Official - Subject to Final Review
+
+
+ 1   and permanent injunctions in one category and TROs in
+
+ 2   another for purposes of appealability, reflect kind of a
+
+ 3   congressional judgment about which is -- which mechanism
+
+ 4   is intended to alter the kind of substantial rights.
+
+ 5   And absent the rights to appeal, absent the
+
+ 6   adversariness, the heavier focus on irreparable
+
+ 7   injuries, unlike at the preliminary injunction stage,
+
+ 8   those are all things that we think make TROs generally
+
+ 9   ineligible to affect prevailing party status.
+
+10                 JUSTICE SOUTER:            Because the TRO case,
+
+11   characteristically the other side isn't heard, so you
+
+12   haven't prevailed.
+
+13                 MR. GALANTER:          That is one way to view it,
+
+14   Your Honor.    Without the adversariness at the hearing,
+
+15   there really was no one to prevail over.                    Whereas
+
+16   here --
+
+17                 CHIEF JUSTICE ROBERTS:                 No.   I thought you
+
+18   prevailed in the sense that you secured relief.                       That's
+
+19   how you articulated it up to this point.
+
+20                 MR. GALANTER:          Well, this Court has
+
+21   certainly described some relief as the threshold of
+
+22   prevailing.    I'm simply suggesting that there may be
+
+23   other kinds of orders, as this Court suggested in
+
+24   Hanrahan versus Hampden, that are just not sufficiently
+
+25   -- they don't have a sufficient change in the legal
+
+
+                                         55
+                           Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   relationship between the parties to warrant prevailing
+
+ 2   party status, even though they do benefit the
+
+ 3   plaintiffs.
+
+ 4                 JUSTICE SCALIA:           Well, you surely wouldn't
+
+ 5   say that the fact that the other side never shows up
+
+ 6   means that you can't get your attorney's fees.
+
+ 7                 MR. GALANTER:         No, Your Honor.         What I'm
+
+ 8   suggesting --
+
+ 9                 JUSTICE SCALIA:           So you're a prevailing
+
+10   party whether there's an adversary on the other side or
+
+11   not.
+
+12                 MR. GALANTER:         What I'm saying is that the
+
+13   TRO anticipates that, which is in part why we're not
+
+14   suggesting TROs are --
+
+15                 JUSTICE STEVENS:           Yes.       But in this very
+
+16   case, if you had gotten a TRO instead of a preliminary
+
+17   injunction, you'd have exactly the same practical
+
+18   situation.
+
+19                 MR. GALANTER:         Yes, Your Honor, but we were
+
+20   -- we did have a preliminary injunction.                  The State
+
+21   therefore did have a right to appeal, and a lot of other
+
+22   consequences flow from the fact that there --
+
+23                 CHIEF JUSTICE ROBERTS:                The State did make a
+
+24   point, that they were kind of -- this was short notice
+
+25   and they were doing the best they could on short notice.
+
+
+                                        56
+                          Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1   I mean, they showed up but only sort of.
+
+ 2                MR. GALANTER:          With three attorneys, Your
+
+ 3   Honor.   And yes -- and we both have our stories about
+
+ 4   why there was short notice.             Ours is they only told us a
+
+ 5   week before they weren't going to allow her to protest
+
+ 6   nude.    And so we moved as quickly as we could.                And this
+
+ 7   is what often happens in election cases, demonstrations,
+
+ 8   parades, religious exercise.
+
+ 9                CHIEF JUSTICE ROBERTS:                 But the regulations
+
+10   told you weren't allowed to protest nude.
+
+11                MR. GALANTER:          Your Honor, those same
+
+12   regulations had been in effect the four previous times
+
+13   she had protested nude.         And it was consistent with the
+
+14   stipulation they had entered into that her nudity was
+
+15   protected by the First Amendment.                 So again, she was
+
+16   certainly entitled to negotiate as she tried to do with
+
+17   the State.   She was told one week before that she
+
+18   wouldn't be allowed to do this.               She went to court.      She
+
+19   got the very relief that she sought and she was able to
+
+20   protest in the nude.
+
+21                Now in the other cases, you're going to get
+
+22   someone who just finds they were denied the right to
+
+23   register or to get on the ballot, and that's going to be
+
+24   disposed of immediately.          It won't be capable of
+
+25   repetition by evading review because the person is now
+
+
+                                        57
+                          Alderson Reporting Company
+                        Official - Subject to Final Review
+
+
+ 1   registered, the election is now over.                   Maybe that
+
+ 2   candidate won't run again.          So we have a whole core of
+
+ 3   First Amendment cases that will be affected if
+
+ 4   Petitioner's per se rule that preliminary injunction is
+
+ 5   never enough goes into play, because then States have
+
+ 6   the unfortunate incentive of pushing the decisions very
+
+ 7   close to the actual event deadline so that even if they
+
+ 8   lose in court, they won't have to pay attorney's fees.
+
+ 9                And I would add that in terms of the broader
+
+10   notion, here we have a midlevel state official sending a
+
+11   letter to an individual saying we don't think you have
+
+12   any First Amendment rights, and if you come, you'll be
+
+13   violating a law that's subject to criminal arrest, if
+
+14   you come and you're naked, you're going to be subject to
+
+15   criminal arrest.   Absent Section 1998, it would be
+
+16   incredibly difficult for persons in Ms. Wyner's
+
+17   situation to find attorneys.
+
+18                Thank you, Your Honor.
+
+19                CHIEF JUSTICE ROBERTS:                Thank you, counsel.
+
+20   Ms. Seitz, you have three minutes remaining.
+
+21           REBUTTAL ARGUMENT BY VIRGINIA A. SEITZ
+
+22                 ON BEHALF OF THE PETITIONERS
+
+23                JUSTICE GINSBURG:            Ms. Seitz, would you
+
+24   clarify that point about costs?              Did your client have to
+
+25   pay costs?
+
+
+                                       58
+                         Alderson Reporting Company
+                         Official - Subject to Final Review
+
+
+ 1                 MS. SEITZ:      The plaintiffs were awarded
+
+ 2   costs incurred on the preliminary injunction.                My client
+
+ 3   was awarded a right to costs on the remainder of the
+
+ 4   litigation.    Those costs were reduced to mirror the
+
+ 5   precise costs that the plaintiff was awarded on
+
+ 6   preliminary injunction, so in the end no one received
+
+ 7   any costs.    But costs were allocated for plaintiffs for
+
+ 8   the preliminary injunction, and defendants for the
+
+ 9   remainder of the case.
+
+10                 I just want to make one point about the
+
+11   timing.   The time prior to the 2003 demonstration, in
+
+12   2000 she wrote a letter requesting the right to protest
+
+13   nude and received a denial letter in response, similar
+
+14   to the one she received in 2003.                So she was on notice
+
+15   as of 2000 that we were enforcing the nudity ban against
+
+16   her activities.
+
+17                 Second, I want to say that the district
+
+18   court itself characterized its holding on summary
+
+19   judgment, quote, "as plaintiffs are unable to show
+
+20   actual success on the merits," page 34a of the appendix.
+
+21   So there's no doubt that what even the court understood
+
+22   its own holding to be was that the prediction in the
+
+23   preliminary injunction had failed to materialize when
+
+24   the court considered the full case on the merits.
+
+25                 And finally, I want to say that awarding
+
+
+                                        59
+                          Alderson Reporting Company
+                       Official - Subject to Final Review
+
+
+ 1   fees, conferring fees for a plaintiff for obtaining a
+
+ 2   preliminary injunction essentially requires the State
+
+ 3   treasury to pay its opponents when, in fact, the State
+
+ 4   has done nothing but enforce a valid law.                And we know
+
+ 5   that in this case because the case ended up getting
+
+ 6   litigated to conclusion.        But simply because we don't
+
+ 7   know that in other cases involving preliminary
+
+ 8   injunctions doesn't mean it isn't true, and that's why
+
+ 9   it's fundamentally unfair to impose fees on State
+
+10   defendants and local governments that haven't had a full
+
+11   and fair opportunity to defend their legal position.
+
+12              Thank you.
+
+13              CHIEF JUSTICE ROBERTS:                 Thank you, counsel.
+
+14   The case is submitted.
+
+15              (Whereupon, at 12:19 p.m., the case in the
+
+16   above-entitled matter was submitted.)
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+
+                                      60
+                        Alderson Reporting Company
+                                Official - Subject to Final Review
+                                                                                          Page 61
+
+
+        A          affect 55:9          33:15                  58:13,15          authority 42:13
+able 26:2,4        affirmative        Apart 17:17            arrested 44:6       authorizing
+  32:16 35:24        16:22            appeal 20:6              45:10               49:20
+  54:3 57:19       ago 21:5 28:5        37:15 41:6,18        arresting 46:2      automatically
+above-entitled     agree 21:17 22:8     41:23 42:17          art 28:18,19          12:16
+  1:13 60:16         25:7 42:1,5        51:18 54:17          articulated         available 27:10
+absent 51:18       agreed 21:11         55:5 56:21             15:16 55:19       avoid 29:3 40:19
+  54:17 55:5,5       22:12            appealability          artificially 8:12     40:21
+  58:15            agreement            55:2                 artistic 48:7       award 19:2
+absolutely 14:11     21:18            appealing 42:2,6       asked 5:16            44:17 45:17,17
+  41:8             ahead 15:7 26:3    appeals 3:10             24:21 45:8        awarded 50:7
+abuse 20:12,16     ain't 49:17          5:19 29:1              46:6 54:21,22       51:4 52:4,5,19
+accept 22:22,23    AL 1:5,8             34:17 39:17          asking 9:13 14:4      52:20 53:4,12
+  27:19            alien 25:8           40:1,13 42:3,7         14:8                59:1,3,5
+achieve 35:2       alike 10:1           42:17,22             assessed 23:5,9     awarding 18:8
+Act 16:13          Alito 31:15        appear 46:21           Assistant 1:19        59:25
+action 10:15,16      36:20 37:17      APPEARAN...            assume 39:14        awards 42:19
+  10:19,22 16:23     54:6               1:16                   41:21 49:21         52:14 53:19,20
+  17:10,12,12,18   alive 8:12 9:3     appellate 41:6         assuming 5:12       aware 6:9
+  45:13            allocated 59:7     appendix 33:16           12:9 19:12        a.m 1:15 3:2
+activities 59:16   allow 10:17          59:20                as-applied 4:2        48:15
+activity 48:2        33:14 57:5       applicability            32:10,19 35:18
+                   allowed 47:11        29:22                  39:11                     B
+actor 49:11,14
+actual 47:18         57:10,18         application            attention 43:16     back 32:6,9,17
+  58:7 59:20       allows 17:19         39:18 40:12          attorney 12:22       48:17 53:23
+add 58:9           alter 55:4         applied 4:15             26:14,24 27:17    bad 49:11,14
+addition 7:9       alternative 4:14     6:22                   48:24              51:2
+additional 54:16     14:16            apply 22:20            attorneys 9:15      balance 18:10
+adjudicating       alternatives         45:14 50:12            10:17 12:16        36:15
+  42:10              4:10             approach 37:5,6          13:18 26:10       balancing 8:21
+adjudication       Amendment            37:7                   57:2 58:17         11:25
+  14:7               29:25 30:5       appropriate            attorney's 8:13     ballot 45:18
+adjustment 17:4      32:4,12 33:7       4:25                   8:16 9:4,19,22     57:23
+admission 21:2       47:19 48:3       April 1:11               13:3 14:8 16:8    ban 3:13 4:8,16
+admit 20:23          57:15 58:3,12    arbitrary 32:20          18:5,19 19:3       6:20 7:4 13:13
+admitted 16:21     amicus 1:21 2:7    arguing 15:19            20:24 21:6,8       59:15
+adopt 9:14           18:15 26:21        20:19                  21:17,23 22:5     Barnes 48:1
+adopted 35:8       amount 50:25       argument 1:14            22:10,19 23:5     based 3:21 6:19
+  42:22            ancillary 9:4        2:2,5,9,12 3:6         23:8,9 24:20       10:9 11:17
+advances 21:13     answer 5:9,10        14:10 18:13            27:10,19 29:3      15:20 17:4
+adversaries          5:11 7:5 10:22     22:14 29:8             30:9 34:11,13      31:19 38:20
+  30:25              35:11 36:3         58:21                  43:1 49:2,3        48:19
+adversariness        54:10,21         arguments                50:5,7,20 52:1    bases 5:22,23
+  55:6,14          answers 23:3         15:14,15 26:20         52:14 53:3,8,9    basic 28:22 31:9
+adversary 38:13    anticipates        arrangement              56:6 58:8         basis 4:20 5:3
+  56:10              56:13              48:10                attributable         6:1,3 12:19
+advocacy 47:14     anti-war 33:14     arrest 46:14             23:10              14:20 18:7
+
+
+                                 Alderson Reporting Company
+                                  Official - Subject to Final Review
+                                                                                          Page 62
+
+
+  19:2 31:17       burner 25:12      central 21:5                49:11            common 26:22
+beach 44:6                             26:23                   citation 31:6      community 27:2
+  45:10 46:13,21           C         certain 15:1              civil 5:20 14:25   compelled 19:14
+becoming 13:7,8    C 2:1 3:1           49:11                     16:13,14 49:11   complaint 30:8
+  17:14            Calabrese 48:3 certainly 21:21                49:14 50:5         30:10 35:15
+behalf 1:17,21     call 43:20          21:24 32:9                53:20              37:1,2 51:23
+  1:24 2:4,7,11    called 48:4         34:1 36:25              claim 4:15 7:14    complete 51:2
+  2:14 3:7 18:14   candid 22:1         55:21 57:16               7:15,23,24       component
+  29:9 58:22       candidate 58:2    challenge 4:2,4             11:1,3,3,8,10      29:20
+behavior 19:13     capable 15:18       7:22 10:4                 11:14,17 12:3    conceivably
+  27:1 28:6          17:9 27:15        13:16 35:18,18            12:6,10,13,18      20:22
+believe 4:24         57:24           challenges 32:19            14:14,17 15:22   concern 9:2
+  16:25 39:8       care 15:5         chance 14:1                 25:14 29:24        26:19,19
+beneficial 27:21   carried 14:7      change 19:13                30:1,4 47:18     concerns 8:8
+benefit 16:15        24:9              28:5,9 55:25              51:8,23            27:25 28:24
+  17:9 18:3        case 3:3 5:8 7:21 changes 27:1              claims 34:9 35:8   concluded 3:13
+  37:20 56:2         8:12 9:1 10:3     44:17                     52:11 53:21      concludes 40:13
+best 38:12 39:21     12:15,17 13:5 characteristic...           clarified 44:24    conclusion 60:6
+  40:1 56:25         13:6,8,11         55:11                   clarify 58:24      conduct 45:20
+better 38:17         14:13,17 16:5 characterized               class 17:10,11       45:23 48:8
+bill 25:9 36:21      16:19,21 17:7     59:18                     17:17            confer 3:20 9:22
+billed 36:21         17:14 19:9,22 charge 35:24                clear 15:11        conferring 9:7
+binding 25:19        19:22 24:6,14 cheap 54:13                   28:14 32:21        60:1
+black 24:1           25:2 26:9 27:5 checks 26:10                 33:16 34:8       Congress 31:11
+bout 34:19           29:21 30:2      Chief 3:3,8 8:7             37:17 39:10        49:19,21 50:3
+Breyer 10:13         31:25 32:18       9:2 12:11,25              43:21,22           50:6
+  11:2,9,13 12:1     33:20,23,24       13:15 14:3              client 43:15       congressional
+  14:22 15:13        37:11 38:6,8      18:11,16,23               51:21 53:17,18     55:3
+  20:18 21:1         39:10 41:15       19:1 21:14                58:24 59:2       Congress's
+  24:24 41:1         42:19,24 43:6     28:4 29:5,10            clients 43:8         54:24
+  42:13,24 43:3      48:4 49:14        29:17,23 30:7             50:15            consent 3:19
+  43:5 50:8          52:4,9,11,16      36:14 37:4              client's 49:3        12:8,8 20:25
+Breyer's 42:1        52:17,21,21,24    38:9 44:19              close 58:7           21:1,8,18,22
+Bridge 48:11,12      53:1 54:6,8,12    46:23 47:4              cloth 43:14,16       22:8 25:11,13
+brief 6:7 28:19      54:18 55:10       51:5,12,15,20             43:21              26:5,14,17
+  33:16 36:21        56:16 59:9,24     53:25 54:20             coercively 22:9      37:11
+  38:11              60:5,5,14,15      55:17 56:23             College 19:8       consented 25:3
+briefs 26:21       cases 3:17 8:8      57:9 58:19              combined 48:2        25:17
+bring 50:10          8:25 10:2 12:4    60:13                   come 23:20 31:4    consequences
+bringing 50:21       27:13,25 28:11 Choate 27:14                 32:6,17 58:12      9:6 56:22
+broad 10:4           47:24 48:1,1,6 choice 27:18                 58:14            considerations
+broader 58:9         49:12 53:12     choose 13:10              comes 27:4           13:22 17:4
+Brooklyn 48:11       57:7,21 58:3    Circuit 48:4                41:18            considered
+Brown 27:14          60:7            circumstance              coming 15:22         15:17 51:1
+Buckhannon         casting 18:6        19:5                      32:9               59:24
+  28:18            category 55:1     circumstances             committed 18:9     consistent 21:16
+burden 24:8,9      caution 36:6        41:9 42:20,25             25:24,25           40:24 52:10
+
+
+                                   Alderson Reporting Company
+                                  Official - Subject to Final Review
+                                                                                    Page 63
+
+
+  57:13                52:20,21 53:1      12:4 14:13      37:18,23 40:14      57:7
+consolidated           53:4,7,7,10,13     19:21 20:16     40:17 52:10       demonstrators
+  54:5                 53:17,19 54:9      22:1 27:14     decisions 58:6       10:3 15:1
+consolidation          58:24,25 59:2      28:11 39:9     declaration        denial 6:16
+  17:20                59:3,4,5,7,7       44:11 47:25     19:12               11:11 59:13
+Constitution         counsel 3:25         48:5 52:10     declared 10:20     denied 5:8 7:3
+  3:14 8:23            18:11 37:4       covering 25:11   declined 3:20        36:13 57:22
+constitutional         58:19 60:13      create 9:16      decree 3:20 12:8   denies 35:13
+  10:11 19:12        counter 53:19      criminal 58:13    12:8 20:25        denying 6:18
+  54:2               countervailing       58:15           21:1,8,18,22      Department 1:4
+constitutionali...     13:22 28:24      criterion 6:4     25:11,13 26:5       1:20
+  13:13              counts 37:2        critical 20:2     26:14,17          departure 49:9
+contempt 31:5        course 7:25        cross 52:14      defend 9:12        described 55:21
+content 4:20 5:3       13:11 14:16        53:20           13:12 60:11       determination
+  5:12 6:3,16          38:7             curiae 1:21 2:8  defendant 7:16       9:8 11:18,21
+content-based        court 1:1,14 3:9     18:15           8:23 10:10          17:20 22:24
+  8:3 31:20,22         3:10,12,20 4:7   curious 3:23      12:9 16:9           50:19
+  32:20                4:11 5:18 6:14   curtain 33:3      19:14 21:6,9      determinative
+contest 19:24          6:17 10:16         50:18           22:10,10 23:4       19:7
+contested 27:9         18:17,18 19:10                     25:3,15 26:8      determine 7:24
+continue 9:17          19:11,20,23,25           D         27:22 28:12         8:21 18:21
+  54:14,19             20:6,8 21:4      D 3:1             52:15 53:7          40:1
+continued 7:15         22:4,9 27:24     da 41:3,4,4      defendants         determined 18:9
+  7:22 41:5            28:14,17 29:11   damages 7:16      47:13 51:4          19:23
+continuing             29:12,14,18       7:23,25          52:13 59:8        determines
+  12:21 21:10          31:21,24 32:7    dancing 48:1      60:10               11:25 42:17
+contract 21:25         32:10,20,24      Darwin 28:13     defendant's        determining
+  22:8,13              33:15,17 34:8    de 4:12 40:9      26:16 27:1          50:25
+Contrary 27:2          34:17,23 35:8    deadline 58:7     28:6              dictionaries
+control 26:17          35:17 36:7       deal 22:13       defined 28:19        28:20
+  40:15,17             37:19 38:4       dealing 49:4     definitely 50:1    difference 26:15
+controlling            39:10,15,17,22   dealt 22:7 24:16 definitive 19:6      31:11
+  19:11                39:23,25 40:13   debate 20:9       20:17             differences
+controversy            41:6 42:2,7,17   debating 17:9    DeFunis 16:21        30:21 33:13
+  16:22                44:13,16,17,19   decades 34:15    demonstrate        different 4:1
+converting             44:21,22 45:17   decide 20:11      43:25 47:20         6:12 25:3
+  15:21                45:17 48:20       26:1            demonstration        38:14,20 41:15
+core 54:1,2,14         49:5 50:4 51:3   decided 13:12     6:11 7:12,19        42:22 43:24
+  58:2                 51:6,11 52:4      13:16 14:14      8:5 10:5 11:4     differently
+correct 4:22           52:22 55:20,23    17:16            11:19 13:19         13:20 39:12
+  12:21 32:13,25       57:18 58:8       deciding 5:5      15:2,8 16:2       difficult 58:16
+  45:6 46:3,4          59:18,21,24      decision 4:4,11   26:3 33:1,6       direct 41:18,23
+  47:17 53:11        courts 22:1 25:6    6:9,10,18,19     38:24 40:11       directed 9:3
+correctly 42:11        25:23 34:15       8:22 12:24       43:11,13 45:21    discrete 51:23
+cost 53:20             42:21             14:16 23:7       45:24 46:7        discretion 10:17
+costs 51:25 52:1     court's 3:17        27:14 31:20,20   48:10 59:11         20:12,16
+  52:2,4,5,7,17        4:18 5:4,17       33:18 35:4      demonstrations     discrimination
+
+
+                                   Alderson Reporting Company
+                               Official - Subject to Final Review
+                                                                                       Page 64
+
+
+  8:3             either 26:25         24:9                 excuse 19:16        26:11,17 28:23
+disentitled         32:19 45:10      entry 25:3,18            51:17           faith 50:14 51:2
+  12:16             48:17              37:12                exercise 57:8       51:2
+dismisses 54:8    elaborate 8:9      ENVIRONM...            exists 31:1       false 14:19
+disposed 57:24    elaboration 7:9      1:5                  expected 6:13     far 14:9,10
+dispositive       election 27:3,5    envision 38:1            7:20              54:25
+  19:11,17 20:1     57:7 58:1        envisioned 6:11        expended 35:23    favor 21:12
+dispute 28:15     element 26:11      equally 25:19          experience          25:15
+disputed 19:24      50:14,21         equitable 8:21           27:12           fear 13:25
+  22:4            elements 22:8        11:24 50:24          explain 24:24     fearful 13:24
+disputes 44:10    eligible 36:7      equities 36:15         explained 28:17   February 6:11
+disregard 5:19    emergency          equity 51:1            expressed 27:24     6:16 11:4
+dissent 20:11       13:25 29:1         52:23                  31:25             30:12 51:19,20
+dissenters 19:21  enacted 14:23      erect 47:1             expression 4:9    Federal 5:20
+dissents 20:10      50:3             error 20:15 40:2         4:16              8:23 18:20,22
+distill 14:13     encourage 8:16       40:6,7,15            expressive 48:2     21:7,13 22:12
+distinction 7:7     28:3 54:14       errors 40:4              48:8              24:5 28:12
+  31:2 54:25      encouraged         escorted 44:6          extensive 48:4      29:12,14,18
+district 3:12 4:7   54:12            especially 16:4        extent 46:24,25   fee 10:18 39:18
+  31:24 32:20     ended 34:14        ESQ 1:17,19,23           47:8              40:12 41:24
+  33:15 34:15       60:5               2:3,6,10,13          extraordinary       42:16,19
+  37:18 38:1,3    enduring 27:1      essentially 9:9          18:3 48:23      feel 8:11
+  39:9,10,15,22     28:5,7 48:18       14:19 15:21            49:8            fees 3:12 8:13,16
+  39:23 40:13,16  energy 37:13         60:2                                     9:4,7,16,19,23
+  52:4,22 59:17   enforce 6:20       establish 9:19                  F          12:16 13:3,9
+document 5:22       10:15 32:15        12:13 22:19          face 13:5,7 18:1    13:18 14:1,8
+doing 39:22         60:4               24:8                 faces 18:1          16:8,12,14
+  44:24 56:25     enforced 7:4       established            facial 4:4 29:22    18:5,8,19 19:3
+double 49:7         21:25 32:5         44:16                  35:18             20:24 21:6,8
+doubt 34:19,22    enforcing 13:24    establishing           fact 4:21,23 6:16   21:18,23 22:5
+  35:14 59:21       59:15              23:2                   7:6 8:1 10:8      22:10,19,24
+drew 6:14         enjoin 29:21       ET 1:5,8                 15:11 19:24       23:2,5,9,9
+D.C 1:10,17,20    ensure 8:13        ethical 50:21            32:14 38:19       24:21 27:10,19
+  1:23            enter 3:19 50:19   evading 15:19            44:10 56:5,22     29:3 30:9
+                  entered 3:16         27:15 57:25            60:3              33:24 34:11,13
+        E           25:11 42:11      event 8:10 16:22       factors 8:21        34:20,23 35:14
+E 2:1 3:1,1         57:14              25:12 41:7           facts 38:3 39:5,6   35:19,22 36:7
+earlier 33:18     entering 21:21       58:7                 factual 5:9 6:5     36:23 37:10
+Eckert 34:8       entire 34:20       evidence 6:3 8:1         7:5,9 31:20       40:19,19,22,22
+economy 25:6        52:20,21 53:1      30:5                 fail 10:18          42:12 43:1
+  26:12,20 28:24 entities 28:25      evidentiary            failed 59:23        49:3,4,20 50:5
+  37:6            entitled 3:12,14     38:14                fair 9:11 14:1      50:7,21 51:1,3
+effect 4:12 5:6     11:14 35:19      exactly 37:2             49:17 60:11       52:1,14 53:3,8
+  6:1,10 7:6 8:19   47:4 52:25         44:7 56:17           fairest 39:9        53:9 54:23
+  14:11 15:20       53:6,8 54:23     example 10:3           fairly 8:9          56:6 58:8 60:1
+  57:12             57:16              14:23                fairness 8:22       60:1,9
+effort 35:2       entitlement 8:13   exception 21:16          11:25 17:3,4    Ferrari 28:13
+
+
+                                Alderson Reporting Company
+                                Official - Subject to Final Review
+                                                                                      Page 65
+
+
+fight 10:7 17:5       49:5 52:8     general 1:20               20:21 25:7   Hens 34:4
+   21:23 26:6       four 57:12        12:23 26:24            governmental   Hensley 34:7
+   37:7,14          free 4:9,12       27:17 44:14              28:25           35:7 52:10
+fighting 21:10      friends 54:4    generally 55:8           governments       53:13
+filed 35:15         friend's 37:6   getting 18:4,4             9:10 13:2,23 Hewitt 28:14
+filing 30:8,10      front 25:12       25:23 33:24              60:10        hidden 33:2,5
+final 3:15 4:4      full 6:7 9:11     46:25 51:6,14          Government's   hiding 33:11
+   9:8 14:7 15:22     53:7 59:24      53:12 54:7               27:12        hindsight 35:4
+   21:10,11 23:6      60:10           60:5                   graduated 17:7 hit 49:15
+   23:7 25:13,15    fully 26:8      GINSBURG                   17:12        hoc 4:18
+   25:20,24,25      fundamental       9:25 15:24             graduates 16:23hold 11:19 45:18
+   27:9,22 28:10      26:11 28:22     16:19 17:5,11          grates 49:16   holding 39:11
+   28:14,15 32:18   fundamentally     17:17,21 32:1          grossly 49:22,24  59:18,22
+   35:16 36:1,9       60:9            32:24 33:23            ground 14:9,15 Honor 29:19
+   41:15 50:6       further 51:21     34:5,18,25               14:16 31:19     30:3,11 34:23
+   51:19            future 32:19      35:9 38:22               50:11           35:6 36:17
+finally 59:25                         48:9,15 51:25          group 14:25       37:16 38:8,18
+find 4:8 35:18             G          52:6,15,25             guess 7:8 38:12   39:20,24 40:19
+   52:12 58:17      G 3:1             53:3,6,14,16             38:16 45:13     40:23 41:12,25
+finding 9:6         Gagne 22:3        58:23                  guilty 48:25      45:2,6,10,16
+finds 31:21 48:6     48:19          give 14:4 25:23            49:4            47:21 48:14,16
+   57:22            Galanter 1:23   giving 20:21             Gynecologists     50:22 51:10
+finish 29:1          2:10 29:7,8,10 go 15:2,6 18:20            19:9            52:3 53:2,5
+first 17:6 23:4      29:19 30:2,11    22:17,25 26:2                            55:14 56:7,19
+   29:25 30:5        30:16,20,25      36:8 47:6                      H         57:3,11 58:18
+   32:4,11 33:7      31:8,23 33:8     50:11 51:5,11          Hair 32:15     hope 35:17
+   47:19 48:3        34:3,7,13,22     53:22                  Hampden 55:24 horrible 10:20
+   50:23 57:15       35:6,17 36:1,4 goes 27:5 33:19          hand 18:20,20     18:1,1
+   58:3,12           36:6,17,25       41:2 44:14             hands 50:24    horrifying 14:24
+five 36:20,21        37:16,24 38:2    54:13 58:5             Hanrahan 28:13 hours 7:11
+flexible 50:12       38:7,18 39:8   going 5:3 10:7            55:24            36:20,21 38:11
+floating 50:9        39:20,24 40:3    16:1,2 21:22           happen 19:18   hypothetical
+FLORIDA 1:4          40:7,18,23       21:23 23:19            happened 19:19    12:20 38:2
+flow 56:22           41:12,20,25      28:23,25 37:9           19:20,21 44:7    41:14 42:1
+focus 55:6           42:21 43:2,4     37:13 38:24            happens 38:10     54:17
+followed 7:13        44:4,21 45:2,6   39:3 43:14,22           57:7
+   19:13             45:9,16,22,25    50:18 51:13            happy 12:13             I
+following 50:16      46:4,11,19       54:1,3 57:5,21         hard 14:14     ignore 43:23
+force 16:4           47:2,10,21,25    57:23 58:14            harm 36:15     illegal 29:13
+forcing 16:11        48:13,16 50:2 good 14:6 32:11           hear 3:3 18:12 illegality 51:8
+forget 4:24          50:22 51:10,13   50:14 51:1              28:5 29:7     ill-prepared
+form 21:10 23:6      51:17,22 52:3 gotten 17:6               heard 55:11       7:12
+   27:22 28:9        52:8,19 53:2,5   37:20 42:18            hearing 7:11   immediately
+former 13:10         53:11,15,18      56:16                   38:14 55:14      57:24
+fought 27:13         54:10,24 55:13 govern 5:24              heavier 55:6   impact 28:2
+found 3:17 21:7      55:20 56:7,12 government                held 3:10 4:11 importance 9:18
+   22:11 23:14,17    56:19 57:2,11    16:12 18:9              18:18 51:3    important 13:14
+
+
+                                    Alderson Reporting Company
+                                 Official - Subject to Final Review
+                                                                                     Page 66
+
+
+  17:15 25:21         43:19,25 47:11     27:12             9:25 10:13         16:11 21:5
+importantly           47:15 49:15      involves 16:20      11:2,9,13,18       26:23
+  53:22               50:23 51:16,24   involving 60:7      11:21 12:1,11    justified 47:18
+impose 16:8,14        52:2 54:4,7,9    irreparable         12:25 13:15      justify 22:24
+  44:25 60:9          55:7 56:17,20      36:15 55:6        14:2,3,22
+imposing 22:9         58:4 59:2,6,8    issuance 5:22       15:13,24 16:19           K
+impression 4:12       59:23 60:2         20:4              17:5,11,17,21    keep 8:12 9:3
+incentive 58:6      injunctions        issue 4:1 9:4       17:24 18:11,16   Kennedy 8:25
+included 45:1         25:21 26:22        11:5,5 15:12      18:23 19:1,16      9:13 14:2 27:3
+including 21:4        27:4 28:1          17:15 20:12       20:4,18 21:1       27:8 40:21
+  37:15               31:12,13,13        21:15,19 22:13    21:14 22:14        42:10
+incorrect 40:14       54:25 55:1         22:25 26:17,25    23:8,14,22       kind 5:6 12:3
+incredibly 58:16      60:8               33:18 41:17,24    24:1,4,7,13,18     17:14 20:20
+incurred 59:2       injuries 55:7      issued 8:2 14:18    24:24,25 25:2      38:4,12 46:7
+indemnity 49:8      innocent 18:8        42:4              25:10,17 26:2      55:2,4 56:24
+indicating 7:3        24:20            issues 15:15        26:13 27:3,8     kinds 31:14
+individual 7:16     insist 14:6          33:20 38:14       28:4 29:5,10       50:12 55:23
+  7:23,24 13:6      instance 9:16      issuing 4:19        29:17,23 30:7    Klan 14:24
+  58:11               12:7                                 30:14,18,22      Klux 14:24
+ineligible 55:9     instances 4:14              J          31:3,15 32:1     knew 10:5 51:18
+informed 38:17      intended 49:19     jail 15:2           32:24 33:23      know 5:13,13
+infringed 4:9         55:4             judge 9:25 15:3     34:5,10,18,25      11:22 12:12
+injunction 3:11     intention 50:16      16:5 32:4 33:3    35:9,21 36:2,5     13:17 30:18
+  4:3,7,19 5:7,11     50:17              35:1,11 40:13     36:10,14,20        37:11,13,22
+  5:21,23,24 6:1    interest 33:24       41:4 48:3         37:4,17,22,25      49:7 54:2,20
+  7:11 8:2,10,18    interested 27:6    judged 9:10         38:6,9,22          60:4,7
+  8:19 9:8,24       interesting        judge's 40:16       39:14,23,25      knowing 51:11
+  10:2 11:15          33:20 43:9       judgment 3:15       40:5,10,21         51:12
+  13:4 14:6 15:4    interference         3:19 4:11 7:14    41:1,14,21,23    Ku 14:24
+  15:8 18:21          29:15              7:18 15:20,21     42:1,6,9,10,13
+  19:2,6,10,17      interfering 46:7     15:22 27:9        42:24 43:3,5             L
+  20:5,13 22:21     interim 3:21         28:15 32:18       44:19 45:1,4,7   language 50:1,2
+  22:23 23:10,15      8:21 11:25         35:16 41:15       45:12,20,23        53:24
+  23:24 24:9          17:3,3 23:6        55:3 59:19        46:1,5,16,23     large 27:2
+  25:4,18 27:20       27:23            judgments 10:1      47:4,16,23       largely 21:25
+  28:8 29:15,18     interlocutory      judicial 5:24       48:9,15,22       late 40:11
+  30:3,6,15 31:1      29:2               25:6 26:12,20     49:18,21,25      Laughter 18:25
+  31:10,16,17,18    interpretations      28:24 37:5        50:8 51:5,12     law 8:24 9:11,12
+  31:19,21 32:22      49:23            junction 10:10      51:15,20,25        11:14 15:12,15
+  33:10,25 34:6     interpreted 12:5     12:14 14:17       52:6,15,25         15:20 16:21
+  34:11 35:3,11       50:4               19:23 32:8,23     53:3,6,14,16       18:20,22 19:7
+  35:22,23 36:12    intervening          39:17 54:13       53:25 54:6,20      19:12,18,25
+  36:19,22,24         32:14            Justice 1:20 3:3    55:10,17 56:4      20:1,7,9,15,18
+  37:3,8,12,23      invalid 29:24        3:8,23 4:17       56:9,15,23         20:23 21:2,7
+  39:7,16 40:8      invested 13:9        5:13,16 6:2,21    57:9 58:19,23      21:13 22:12
+  41:3,5,17,19      involved 5:7         6:25 7:5,17 8:4   60:13              24:5 26:25
+  42:4,7,11,15        15:3 23:1          8:7,25 9:2,13   justification        28:12 38:3
+                                                                              40:2,4,4,6,8,14
+
+                                  Alderson Reporting Company
+                                  Official - Subject to Final Review
+                                                                                         Page 67
+
+
+   41:3,7,8,10,12      60:10           42:21 45:19              12:15 13:5,7,8    57:14 59:15
+   47:17 49:1,6      locality 13:2     46:15,22 47:5            17:7,14 54:15
+   58:13 60:4        long 8:18 46:18   47:6 49:8 51:7          mooted 8:6               O
+laws 13:24           longer 23:16      57:1 60:8               mootness 12:12  O 2:1 3:1
+leading 34:14        look 34:23 35:7  meaning 17:1             morning 18:24   objective 51:6
+leave 50:8             43:7 52:11     means 31:4               moved 57:6      obligates 25:14
+left 29:14,17          53:23           44:23 56:6              multiple 53:21    27:22
+legal 4:15 5:10      looking 43:17    mechanism 55:3           multiplying     obligation 25:25
+   5:10,15 7:9       looks 5:2        mentioning                49:8           Obstetricians
+   11:1,2,3,7,10     lose 13:4 23:19   53:25                                     19:8,8
+   11:14,17 12:6       34:9 37:9 58:8 meritorious                      N       obtain 3:11 9:22
+   12:9 28:5         loss 13:18        8:17                    N 2:1,1 3:1       31:10 44:16
+   29:23,24,25       lost 16:5 29:18  merits 3:19 8:20         nail 37:8         45:16,17 48:19
+   33:18 34:16         29:20,25 32:8   12:6,10 14:19           naked 46:13       54:3
+   38:20 55:25         32:23 33:25     15:21 16:5,18            58:14          obtained 30:12
+   60:11               34:5,12 35:3,3  17:20 20:9              name 24:2         37:3 47:11
+legally 25:14          35:21,24 39:6   23:7 27:21              narrow 19:5     obtaining 60:1
+   42:15,18          lot 15:14 27:12   35:13 36:16             narrowed 47:3   obtains 26:25
+letter 6:23 7:3        54:1 56:21      41:16,22 42:2            47:14          obviously 28:8
+   46:20 58:11       Lots 27:13        48:18,20 59:20          necessarily       34:3 35:9 40:3
+   59:12,13                            59:24                    20:15            46:22
+let's 24:13 31:18          M          MICHAEL 1:3              need 8:12 17:15 occasionally
+   33:23 42:25       M 1:23 2:10      middle 14:15              35:10 48:18,20   48:6
+ley 34:4              29:8            midlevel 58:10            54:18          occurring 7:10
+liability 9:6 13:6   Maher 48:19      midway 14:8              needed 36:18    officer 13:6
+   18:19,19 29:3     main 34:19,19    mill 19:9                negotiate 57:16 official 4:25 5:5
+liable 13:3          majority 20:10   MILLE 20:25              never 7:13 9:15   6:8 58:10
+light 4:21,23         20:11            21:3                     12:18 19:2,4   officials 13:12
+likelihood 16:17     manager 7:24     Millett 1:19 2:6          21:14 33:22      29:13
+   23:19,21          mark 24:1         18:12,12,13,16           42:18 56:5     off-the-cuff
+line 32:3 34:1       material 44:10    19:4,19 20:8             58:5             38:16
+literal 50:1         materialize       21:20 23:3,11           New 48:13       oh 5:13 15:13
+litigate 15:7         59:23            23:17,25 24:3           notice 5:25       17:21 33:4
+   54:19             materially 44:17  24:6,10,15,23            56:24,25 57:4    54:10
+litigated 60:6       matter 1:13 5:15  25:5,13,20               59:14          okay 22:14 36:5
+litigating 23:1       5:25 8:18 9:12   26:8,16 27:7            notion 48:17      41:16 43:25
+litigation 3:22       10:23 25:6       27:11 28:4,7             58:10          one-time 16:2
+   4:1 8:17 9:3,17    52:22 60:16      29:6                    novo 40:9       ongoing 3:22
+   12:22,24 13:8     matters 27:9     mind 23:23               nude 4:15 44:5    13:7 14:18
+   14:18,20 16:4     Mayer 22:2        50:10                    45:10 46:21    operating 39:2
+   18:2 22:17        mean 8:8 10:1    minimis 4:13              47:20 48:1,7   operative 5:21
+   26:4 40:19         10:10 12:6      minute 28:1               57:6,10,13,20    5:25
+   53:21 54:13        13:2 17:24      minutes 58:20             59:13          opinion 20:9
+   59:4               18:3 20:14      mirror 59:4              nudity 3:13 4:8   48:4
+live 7:14             24:7,8 30:22    money 37:1                4:12,16 6:20   opponents 47:8
+local 9:10 13:23      36:11 37:22     months 29:20              7:4 13:13 32:5   60:3
+   16:12 18:8         38:6 40:20      moot 8:4 9:1              32:15 48:2     opportunity
+
+
+                                    Alderson Reporting Company
+                               Official - Subject to Final Review
+                                                                                       Page 68
+
+
+  9:11 60:11       5:25 9:18 12:5    permit 11:11           point 8:17 11:22    19:23 20:5,12
+oppose 25:8        20:20 21:15,17      21:7                  12:21 20:19        22:20,23 23:10
+opposed 37:10      23:4 25:22        permits 51:3            23:22 24:6         23:15,24 25:4
+opposing 3:25      37:20 51:2        permitted 32:14         31:24 33:9,19      25:18,21 26:7
+opposite 38:19     52:9,12,13,24       33:11                 41:16,17 42:22     26:21 27:20
+opposition 26:6    53:12 56:1        person 18:6             43:2,9,10          28:1,8 29:14
+  33:16           party 3:21 9:23      22:21 24:20           44:15 55:19        30:3,6,15 31:1
+oral 1:13 2:2,5,9  10:17 12:19         39:21 42:15           56:24 58:24        31:10,12,12,16
+  3:6 18:13 29:8   14:21 15:18         49:6 57:25            59:10              31:17,18 32:22
+order 5:6,7 6:21   20:21 21:21       persons 58:16          points 3:24         33:9,25 34:6
+  7:24 11:5,6      24:11,12 28:16    perspective 37:6        43:10              34:11 35:2,11
+  29:2 44:7,11     28:17 34:4        Petitioners 1:6        policies 40:24      35:22,23 36:11
+  44:13,19,21,22   42:5,8 43:6         1:18,22 2:4,8        political 5:1,2     36:12,22 37:3
+  45:3 46:25       47:7,13 48:21       2:14 3:7 18:15        48:7               37:8,12,23
+  48:19,21 50:7    49:4 50:20          33:21 58:22          poses 12:20         39:7,15 40:8
+  50:15 52:14      55:9 56:2,10      Petitioner's 58:4      position 15:18      41:3,5,17,19
+ordering 9:9      PATRICIA 1:19      phrase 52:1             15:25 27:8         42:4,7,11,15
+orders 31:14       2:6 18:13         pieces 4:1              39:21 40:1         43:19 49:15
+  39:10 55:23     pay 16:12 18:2     pint 13:1               60:11              50:23 51:6,15
+ordnance 32:5      22:11 23:12       place 7:11 8:10        possibility 6:15    52:2 54:7,9,12
+  32:11            37:10 43:16       placed 31:12           possible 37:14      54:25 55:7
+ought 50:20        48:23 49:2,3      plaintiff 9:23          53:13              56:16,20 58:4
+outside 15:2       49:12,16 58:8       10:8 15:17,23        post 4:18           59:2,6,8,23
+  28:9             58:25 60:3          15:25 16:9,10        power 21:24         60:2,7
+                  pays 49:10           17:13 20:22          practical 9:17     premise 39:2
+        P         peace 7:18 10:5      21:12,12 25:16        56:17              40:14
+P 3:1              32:7                26:23 27:16          practice 49:9      presentation
+page 2:2 4:10     penalized 13:25      51:3 54:7 59:5       precedent 22:2      38:13
+  33:16 59:20     penny 35:1           60:1                 precipitated       presents 33:20
+pages 28:18       people 6:13 8:11   plaintiffs 3:10         26:3              press 33:21
+paid 18:5          33:5 43:14          3:14,16,17           precise 59:5       pressure 9:16
+parade 45:18       45:4 48:25          7:15,25 13:15        precisely 16:1     Presumption
+parades 57:8      perception 4:20      28:23 44:25          preclude 32:19      23:18
+park 7:23         perfectly 13:24      52:12 56:3           predicted 4:7      pretty 43:21,22
+parsed 34:15      perform 6:24         59:1,7,19             16:16 17:2        prevail 10:18,25
+parsing 34:18     performance        plaintiff's 10:11      prediction 8:2      10:25 12:5,6
+  52:23            7:19 32:14          15:25                 8:20 14:18         12:14 14:14
+part 6:5 24:16    period 9:1         planned 39:4            16:6 59:22         17:2 24:12
+  31:10 40:19     permanent 3:15     plan's 4:12            preliminary         32:9 37:10
+  47:22 48:7       12:14 28:10       play 6:19,24 7:4        3:11 4:3,7 5:7     55:15
+  52:1 53:4,9      29:18,21 31:13      33:11 58:5            5:11,21,23        prevailed 16:24
+  54:18 56:13      31:16,21 32:8     playing 23:15           7:10 8:2,10,18     17:1 30:23
+particular 7:18    32:23 36:18,24    plays 6:12 33:1         8:19 9:7,7,24      46:24,24 47:8
+  12:3 13:19       39:16 47:11         39:4,11               10:1,2,9 11:15     55:12,18
+particularly       51:8 54:3 55:1    please 3:9 18:17        12:15 13:4        prevailing 3:11
+  54:14           permission 6:19      29:11                 14:6,17 18:20      3:18,21 9:23
+parties 3:12,18    6:24              plenty 15:15            19:2,6,10,17       10:17 12:5,19
+
+
+                                Alderson Reporting Company
+                                Official - Subject to Final Review
+                                                                                         Page 69
+
+
+ 14:20 15:17         48:2 57:15       rated 36:8             rejected 4:3        requesting 6:24
+ 24:11 28:16,17    protection 1:5     reaction 3:24          related 35:7,10       59:12
+ 31:24 34:2,4        33:7             reading 10:24            35:19 36:11,12    requests 27:4
+ 37:19 41:10       protest 29:13,16     39:9                 relationship        require 37:7,14
+ 42:5,8 43:6         32:16 33:14,15   real 9:18 54:18          44:18 56:1        required 50:6
+ 47:7,13 48:21       47:12 57:5,10    reality 21:21          relatively 54:13    requirement
+ 50:11,13,20         57:20 59:12      really 3:25 5:6        relevant 28:20        44:25
+ 52:9,12,13        protested 57:13      13:18 15:5           relied 6:7          requires 60:2
+ 55:9,22 56:1,9    protests 39:12       22:8 39:4 49:5       relief 3:15 11:16   reserve 17:22
+prevails 31:3,4    proven 14:19         50:13,19 55:15         12:10 21:11,11      18:10
+ 44:15             provide 21:11      reason 4:19 6:15         23:6,6 25:15      reserved 22:3
+prevent 8:3 13:6     27:22 44:20        22:3 24:12             25:24 27:23,23    resist 21:10
+ 13:8 17:14        providing 12:10      25:23 43:7             28:10,10 29:21    resolution 10:12
+previous 6:12      provision 8:16     reasonable               30:4,12 44:17       25:14,21 27:21
+ 57:12               10:15              34:14,24 36:9          47:18,18 48:19      28:15
+principle 47:17    public 33:2        reasonably               51:7,8,21,23      resolve 21:22
+prior 59:11          38:24              35:22                  54:15,16 55:18      48:20
+private 12:22      purpose 8:15       reasoning 22:20          55:21 57:19       resolved 12:18
+ 26:23 27:16,17      16:13 21:13        22:22                religious 57:8        20:5,6,8
+probability        purposes 9:18      reasons 48:7           remainder 59:3      resolves 12:10
+ 35:12               53:23 55:2       REBUTTAL                 59:9                19:17 26:25
+Probably 36:25     pursue 12:13         2:12 58:21           remained 7:14       resources 9:20
+problem 28:16        13:19            received 17:3          remaining 58:20     respect 20:18
+ 46:16             pursuing 13:1        59:6,13,14           remedy 50:24          47:10
+problems 37:5      pushing 58:6       reciprocal 47:5        remember            Respectfully
+ 40:20             put 6:19 7:25      recognition              26:22 28:23         11:7
+Procedure 5:20       32:2 33:1,11       53:24                  33:10 39:12       Respondents
+proceedings 8:9      43:14            recognize 6:17         reminder 17:22        1:24 2:11 29:9
+ 38:8              puts 53:9          recognized 22:2        removal 25:8          29:12
+proceeds 41:15     putting 23:23        31:11 32:21          removed 45:9        response 6:6
+process 24:17        43:20 54:25      recognizes             repeat 16:3           44:3 59:13
+produced 4:2       p.m 60:15            27:15                repeatedly          responsibility
+product 11:24                         record 4:22,24           18:18 21:4          12:9
+program 16:23             Q             5:5 6:3 7:9          repetition 15:19    responsible 22:5
+prohibited         qualify 31:7         43:8                   17:9 27:15        rest 18:2
+ 29:15 44:22,24    question 9:2       records 34:16            57:25             restrictive 4:10
+ 46:2               13:3 19:18        reduced 52:22          reply 6:7             4:14
+prohibition         20:7,8 22:4         59:4                 representation      result 13:17
+ 32:16 46:6         28:22 47:6        reflect 55:2             34:21               19:14 33:13
+promote 22:17       49:18 50:25       refusal 33:13          represented           35:15
+propose 9:14        54:21             regarding 33:18          40:14             results 19:6
+proposing 13:23    questions 19:24    register 57:23         repudiate 32:22     resume 23:23
+ 14:3               40:4              registered 58:1        repudiated          reverse 32:22
+proposition        quickly 57:6       regulations              37:18,25 38:1       33:17 40:10
+ 47:24             quote 6:7 59:19      29:22,24 57:9        repudiation         reversed 31:18
+protect 8:14                            57:12                  38:5,17             37:18 40:9
+protected 44:8             R          reinjected 7:21        request 7:3         reverses 42:8
+                   R 3:1
+
+                                 Alderson Reporting Company
+                                Official - Subject to Final Review
+                                                                                          Page 70
+
+
+review 5:24        Rules 5:20          se 33:21 40:20        settlements         sorry 45:22
+  15:19 17:9       ruling 19:7,11        58:4                  22:17 24:15,19    sort 3:25 20:14
+  27:16 34:16        19:14 20:1        season 27:4           settling 24:21        48:18 57:1
+  40:4,9 57:25       32:22 38:15       Second 48:3             28:15             sought 30:13
+reviewing 40:12      40:8                59:17               sheriff 15:3          47:11 51:21,22
+reviews 39:18      rulings 3:21        SECRETARY             shirt 45:19           52:20,21 54:15
+revisit 29:2       run 27:25 58:2        1:3                 short 35:10           54:16 57:19
+  33:17            running 37:9        Section 17:1            56:24,25 57:4     SOUTER 4:17
+reward 8:16        runs 21:12            58:15               show 22:7 32:2        5:13,16 6:2,21
+riding 14:25         25:15             secure 38:24            36:15 48:10         6:25 7:5,17 8:4
+right 11:4,19,23                       secured 55:18           59:19               22:14 23:8,14
+  15:5 20:19               S           see 14:15 31:6        showed 57:1           24:7,13 55:10
+  21:3 22:11,19    S 2:1 3:1             33:5 35:4,7         shown 35:12         South 14:25
+  23:2,5,11,12     sake 23:2             43:15,15 48:22      shows 42:3 56:5     Speaking 50:2
+  24:21 34:2       save 37:13          seek 54:17            side 15:14 22:6     split 52:6
+  39:3,15 41:4     saying 14:2         seeking 11:17           26:6,21 35:25     stage 7:18 30:3
+  46:13 47:19        36:16 46:21         29:21 35:23           38:12 45:13         30:6,10 31:17
+  48:7 51:9          56:12 58:11       seeks 51:8              48:23 49:1,10       31:21 33:10
+  56:21 57:22      says 10:14,16,21    Seitz 1:17 2:3,13       49:12,16 52:5       36:22,24 37:14
+  59:3,12            15:3 27:18          3:5,6,8,23 4:6        54:5 55:11          42:12 55:7
+rights 10:11         33:17 38:4          5:9,15,18 6:5         56:5,10           stake 54:2
+  14:25 16:13,14     41:3,4,6 42:3       6:23 7:1,8,22       side's 49:2         standard 28:6
+  16:15 22:24        52:11               8:6,15 9:5,21       significant 9:5     standards 42:22
+  32:4 49:12,14    say's 38:11           10:8,25 11:7          13:21 27:25       start 5:10 39:1
+  50:5 54:1,2      Scalia 3:23           11:10,16,20,24        47:8              state 4:9,13,25
+  55:4,5 58:12       11:18,21 17:24      12:4,18 13:11       significantly 4:8     6:8,8,18 7:3,13
+risk 37:9            19:16 20:4          13:21 14:12         similar 16:15         9:9,10 13:12
+ROBERTS 3:3          23:22 24:1,4        15:11,16 16:8         59:13               13:23 16:12
+  8:7 12:11,25       24:18,25 30:14      16:25 17:8,13       simply 8:12 16:9      18:8 29:13,15
+  13:15 18:11,23     30:18,22 31:3       17:19,22 18:7         16:16 22:16,18      43:11,20,21
+  19:1 21:14         35:21 36:2,5        58:20,21,23           32:23 37:20         44:22,24 46:2
+  28:4 29:5,17       36:10 37:22,25      59:1                  55:22 60:6          46:6,16,17,23
+  29:23 30:7         38:6 41:14,21     seizure 19:9          single 17:12          53:17,19 56:20
+  36:14 37:4         42:6 45:1,4,7     sending 58:10         situation 8:11        56:23 57:17
+  38:9 44:19         45:12,20,23       sense 14:6 28:8         9:21,22 12:12       58:10 60:2,3,9
+  46:23 47:4         46:1,5,16           55:18                 15:9,19 17:8      statement 4:18
+  51:5,12,15,20      48:22 49:21       sent 46:20              20:2 21:8           5:4,5,17
+  54:20 55:17        56:4,9            separate 5:6            26:18,19 56:18    statements 5:19
+  56:23 57:9       scenario 12:8       SETH 1:23 2:10          58:17             states 1:1,14,21
+  58:19 60:13      school 16:21          29:8                situations 3:18       2:7 5:12,22
+rule 5:20 9:14     scope 47:14         setting 12:22,23        13:25 54:1          18:14 27:11
+  9:15 13:23       screen 44:9,11        15:12               skimpy 43:12          37:7 58:5
+  14:3,13 22:15      44:12,20 45:1     settle 20:21          slipped 54:22       State's 3:13 6:15
+  22:16 31:9         45:3,5,15,21      settlement 7:2        Sole 1:3 3:4          11:11
+  33:21 40:20        45:21,24,25         21:18 22:15,16      Solicitor 1:19      stating 21:4
+  58:4               46:2,8,18,20        22:22 24:14,16      somebody 22:18      status 3:21 9:23
+ruled 32:8 39:16     47:1,12             24:17                 24:8 48:23          12:19 55:9
+
+
+                                    Alderson Reporting Company
+                                Official - Subject to Final Review
+                                                                                  Page 71
+
+
+  56:2               24:11                     T         14:22,24 17:8      43:19 54:22
+statute 10:14      succeeded 30:7     T 2:1,1            20:1 21:20,20      55:10 56:13,16
+  12:2 25:1          52:16            table 36:16        22:6 24:17       TROs 30:17
+  49:20 50:5       success 8:20       take 29:1,1        25:5,6 31:1,4      31:11 55:1,8
+  53:4,8             16:17 34:15        45:13 48:16      33:19 36:2         56:14
+stay 25:8 27:18      35:12 59:20      taken 45:14        37:17 40:5       true 4:25 12:7
+  33:23 44:12      successful 30:9    takes 8:10         42:25 44:14        30:11 51:10
+stays 29:2           35:15 47:14      talking 18:4       47:25 50:22        60:8
+steel 19:9         sufficient 22:23     22:9             53:22,24 54:10   trump 49:25
+step 48:17           55:25            Teachers 28:13     54:11,24 55:8    trying 22:1
+Stevens 25:2,10    sufficiently       team 18:24         58:11            TT 20:25 21:3
+  25:17 26:2,13      35:19 55:24      tearing 50:18    thinks  39:18      Tuesday 1:11
+  34:10 39:14,23   suggest 39:21      tee 45:18        Thornburgh         Tunic 48:5
+  39:25 40:5,10      40:18 42:9       telephonic 6:14    19:7,22          Turned 16:6
+  41:23 42:9         48:1               7:12           thought  12:1      two 3:18 4:1
+  47:16,23 49:18   suggested 48:20    tell 25:7 28:24    15:9 32:3,24       20:20 21:5
+  49:25 56:15        53:13 55:23        44:15            35:13 38:23,23     23:4 26:10
+stipulated 7:2     suggesting         telling 14:11      39:15 41:1,2,9     30:21,22 37:16
+stipulation          13:16 14:5         52:18            41:14 43:18        50:4 54:5
+  57:14              30:16 31:8,9     temporarily        55:17            type 11:16
+stop 43:20           33:12 41:13        10:9           three 23:3 57:2    T.A 1:8
+stories 57:3         55:22 56:8,14    temporary 4:19     58:20
+streets 48:13      suggests 5:2                        threshold  55:21           U
+                                      term 28:18,19
+stress 35:20       suit 20:20 28:21   terms 7:1 58:9   time 6:20 9:1      ultimately 49:5
+structural 30:20     43:12 44:1       test 24:10 28:5    16:24 17:23      unable 59:19
+structure 14:9     summary 4:11       testimony 6:6,8    25:7 28:11,20    unanimously
+stuck 24:20          7:14,18 59:18      6:10,15 7:12     35:11,15 46:20     21:4
+student 16:20,21   superior 20:16       33:12            50:16 59:11      Unclean 50:24
+  16:23,24,25      support 7:6 41:8   Texas 28:13      times 39:19        unconstitutio...
+  17:2,6,7           47:23            text 40:24         46:22 57:12        4:16 11:12
+subject 23:15      supporting 1:22    Thank 18:11      timing  59:11      undercut 22:15
+  34:16 58:13,14     2:8 18:15          29:4,5 58:18   told 29:13 44:10   underlying 4:15
+subjected 23:24    suppose 10:3         58:19 60:12,13   57:4,10,17         11:10,17 40:25
+  46:14              33:25            theories 38:21   tomorrow 15:4        47:17,22 51:7
+submission 9:14    Supreme 1:1,14     theory 21:17       15:5             understand 4:18
+submit 36:22       sure 7:20 13:1     they'd 12:13     tools 17:13          26:15 38:25
+submitted 60:14      43:13 44:6       thing 10:2 20:15 tooth 37:7           39:22
+  60:16            surely 56:4          35:10 43:5     totally 15:20      understood
+subsequent         surprised 42:19      47:6 49:10,13  town  15:4           21:15 59:21
+  14:20 39:9         43:3               50:9           trade-off 25:23    underworld
+subsequently       surveys 48:5       things 8:8 28:9  transient 28:8       18:6
+  5:17             swimming 43:12       36:18 37:16    treasury 60:3      unfair 49:22,24
+substance 23:1       44:1               49:22 50:12    treated 39:12        60:9
+substantial        switching 47:6       55:8           tried 24:23        unfortunate
+  16:17 23:18,21   symbol 32:7        think 4:6,22       57:16              58:6
+  55:4             systemic 14:5        5:18 6:22 12:4 TRO   10:15        United 1:1,14,21
+substantially                           12:20 14:3,12    30:14,23  31:6     2:7 18:14
+
+
+                                 Alderson Reporting Company
+                                Official - Subject to Final Review
+                                                                                       Page 72
+
+
+  27:11              22:12 28:12    57:17                    written 15:10      15:10 54:1
+unlucky 49:14      violators 9:11  went 10:4 29:12            25:1             1998 7:2 50:3
+unrelated 35:8       16:14          46:12 50:15              wrong 4:22         58:15
+  52:11            VIRGINIA 1:17    57:18                     10:24 16:7
+unsupportable        2:3,13 3:6    weren't 44:6               23:13 32:25              2
+  42:16,18           58:21          57:5,10                   35:4 38:4,10     20-some 29:19
+unusual 20:2       voluntarily 54:8Weyer 33:10                38:15,20 39:5    2000 6:18,23
+  53:20            voluntary 24:18 we'll 3:3 15:6,6           39:18 40:22,24     59:12,15
+use 17:14 45:25      24:22          18:12 29:7                41:2,6,8 42:14   2001 6:21
+  46:1             voting 27:13,25  32:15 49:12,15           wrote 6:23 48:4   2003 30:12
+usual 49:9           28:2          we're 9:13 10:6            49:19 59:12        59:11,14
+utility 27:2                        10:6 14:5 16:2           Wyner 1:8 3:4     2007 1:11
+utilizing 17:10           W         18:4,6 21:22             Wyner's 58:16     24 7:11 38:11
+                   W 1:3            21:23 30:16                                24-hour 38:16
+       V           want 8:11 10:22  31:8 37:13                         X       29 2:11
+v 1:7               11:3 14:4,10    42:5 43:13               x 1:2,9
+valid 13:24         15:4,7 22:16    56:13                                             3
+  41:18 60:4        22:17,25 25:6 we've 4:25                         Y        3 2:4
+validity 40:16      26:24 27:16,19 Williamsburg              yeah 6:25 7:17   34a 59:20
+value 12:23         32:7 33:4,6     48:11                      10:4 11:2,13
+  25:22 30:24       43:14,19 44:1 win 3:19 34:8                17:21                  4
+various 49:23       44:2 45:4 49:3                           years 21:5 33:12 4a 33:16
+                                    35:13 36:9
+  52:24             59:10,17,25     41:21                      50:4
+                                                             York 48:14               5
+versus 3:4 19:7    wanted 10:5,19 winner 52:16
+                                                                              58 2:14
+  22:2 27:14        13:18 15:1     wins 49:1
+  28:13 34:7        16:1 17:7 32:2 witness 7:13                      Z
+                                                             Zapper 48:5              6
+  48:5,19 55:24     32:25 33:4,5   won 11:6 28:21                             6 48:15
+victims 16:15       38:23 39:1      28:21 34:1,19                    0        65 5:20
+view 33:2,5         44:5,5,5 45:11  36:1,23 43:25                             65(a)(3) 17:19
+                                                             06-531 1:7 3:4
+  38:25 40:16       46:7           wonder 43:6
+  43:9,10,10       wants 16:10      50:9                             1
+  55:13             20:22 22:18,21 wonderful 10:21           11 28:18
+vigorously 26:6    war 39:12       word 12:5 50:11           11:20 1:15 3:2
+vindicated 26:9    warrant 56:1     51:19                    12 28:19
+violate 3:13       Washington      words 40:21               12:19 60:15
+  32:11 49:6        1:10,17,20,23   44:1                     13 30:12
+violated 8:23      wasn't 8:4 20:4 work 4:21 27:17           14 6:16 11:4
+  10:10 20:23       35:14 38:20     34:11,14 36:14           14th 6:11 51:19
+  23:7 24:4 32:5    39:1 53:14     world 28:9                  51:21
+  49:1             waste 9:20      worth 31:5                17 1:11
+violating 58:13    way 10:9,24     wouldn't 21:19            18 2:8
+violation 9:9       14:10 25:1      23:22 25:18              18a 4:10
+  16:16 18:9,20     26:5 55:13      31:6 46:19               19a 4:10
+  18:22 21:2       weaker 49:19     56:4 57:18               19(a) 17:1
+  30:4 44:12       wear 43:11      write 26:10               1970 50:3
+violator 10:21      45:18           36:21                    1976 50:4
+  10:21 21:6       week 32:6 57:5  writing 37:1              1983 10:15
+
+
+                                 Alderson Reporting Company
+

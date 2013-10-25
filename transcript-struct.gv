@@ -1,0 +1,9 @@
+digraph transcript {
+	preamble -> location
+	
+	location -> appearances
+	
+	appearances -> contents
+	
+	contents -> proceedings
+}

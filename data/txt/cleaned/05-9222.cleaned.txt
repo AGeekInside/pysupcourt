@@ -1,0 +1,1581 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+LONNIE LEE BURTON, :
+Petitioner :
+v. : No. 05-9222
+BELINDA STEWART, SUPERINTENDENT, :
+STAFFORD CREEK CORRECTIONS CENTER.:
+- - - - - - - - - - - - - - - - - x
+Washington, D.C.
+Tuesday, November 7, 2006
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 11:03 a.m.
+APPEARANCES:
+JEFFREY L. FISHER, ESQ., Stanford, Cal.; on behalf of
+Petitioner.
+WILLIAM B. COLLINS, ESQ., Deputy Solicitor General,
+Olympia, Wash.; on behalf of Respondent.
+MATTHEW D. ROBERTS, ESQ., Assistant to the Solicitor
+General, Department of Justice, Washington, D.C.; for
+United States, as amicus curiae, supporting
+Respondent.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+JEFFREY L. FISHER, ESQ.
+On behalf of Petitioner 3
+ORAL ARGUMENT OF
+WILLIAM B. COLLINS, ESQ.
+On behalf of Respondent 26
+ORAL ARGUMENT OF
+MATTHEW D. ROBERTS, ESQ.
+On behalf of Respondent 42
+REBUTTAL ARGUMENT OF
+JEFFREY L. FISHER, ESQ.
+On behalf of Petitioner 49
+P R O C E E D I N G S
+(11:03 a.m.)
+CHIEF JUSTICE ROBERTS: We will hear
+argument next in Burton versus Stewart.
+Mr. Fisher.
+ORAL ARGUMENT OF JEFFREY L. FISHER
+ON BEHALF OF THE PETITIONER
+MR. FISHER: Thank you, Mr. Chief Justice,
+and may it please the Court:
+In Sharp versus Pain, the Ninth Circuit
+opinion that first decided the question that's before
+you today, the Ninth Circuit said, and I'm quoting:
+"The rule of Blakely that the statutory maximum is the
+maximum sentence a judge may impose solely on the
+basis of the facts reflected in the jury verdict, was
+not clear until the Blakely decision itself." The Ninth
+Circuit is simply wrong. In this Court's Apprendi
+decision it laid down precisely that rule. At page 483
+of that decision this Court described the statutory
+maximum concept as, quote, "the maximum a defendant
+would receive if punished according to the facts
+reflected in the jury verdict alone" -- virtually the
+identical language.
+JUSTICE SOUTER: Mr. Fisher, you know,
+assuming we read it the way you read it, I've got a
+basic problem that doesn't really surface until you get
+to the end of the briefs and I wonder if you would
+comment on it at the beginning of the argument. That is
+-- or I'll put it in the form of a question.
+Is the decision which the judge makes here
+to sentence consecutively rather than concurrently, a
+decision that requires the finding of any fact about the
+commission of the crimes themselves or the circumstances
+of those crimes or about the defendant's character?
+Does the judge have to make or does the
+fact -- some fact finder have to make a finding on any
+of those subjects -- crimes, circumstances, character of
+the defendant?
+MR. FISHER: Yes, he does, Justice Souter.
+JUSTICE SOUTER: What is that fact?
+MR. FISHER: It's precisely the same kind of
+fact that the judge had to find in Blakely itself.
+Under the Washington, Revised Code of Washington, the
+statute, the statute for running sentences consecutively
+in the fashion that Mr. Burton's were run consecutively,
+refers the judge back to the very same provision that
+was at issue in Blakely itself, which is the aggravating
+factors provision of Washington, which was formerly
+codified at section 390 and is now codified at section
+400.
+JUSTICE SOUTER: I thought the only fact
+that had to be found was that, given the classification
+sentencing scheme Washington had, there would be, in
+effect, a free crime, no incremental punishment, unless
+there were consecutive sentencing. That's not a fact
+that falls within any of those categories of crime,
+character, or circumstances.
+MR. FISHER: That would be a fact, Justice
+Souter, but that is not the way the Washington law
+works. It is colloquially known as the free crime
+aggravator. But in the Washington Supreme Court
+decision in Hughes which is cited at the end of our
+reply brief the Washington Supreme Court made clear that
+to invoke that aggravator a court has to find that
+there was extraordinarily serious culpability or
+extraordinarily serious harm that accompanies the
+multiple offenses.
+JUSTICE SOUTER: So it's a misnomer to say
+it's a mere free crime criterion? It's free crime plus
+some further fact?
+MR. FISHER: That's right. And this Court's
+decision -- I'm sorry. The Washington Supreme Court
+decision in Hughes clearly lays that out. If you have
+any doubt about the way the consecutive sentences work
+in Washington, I want to give you one other citation, to
+a new Washington Court of Appeals decision that
+considers a consecutive sentences imposed exactly the same
+way that Mr. Burton's was. That is to say, they are run
+consecutively based on the clearly too lenient factor.
+That case is called State versus Washington and it was
+just reported at 143 P.3d 606, 143 P.3d 606. The
+Washington Court of Appeals in that case, considering a
+sentence just like Mr. Burton's, says that it does
+trigger and violate Blakely.
+JUSTICE SOUTER: So the extra fact then is a
+lot like the sort of heinous, atrocious and cruel
+aggravator? I mean, it's comparable to it?
+MR. FISHER: Exactly, it's part of the same
+list. And as this Court said in Apprendi itself, that
+extra culpability, which is one of the ways this
+aggravator can be met, is the quintessential type of
+element that needs to be proven beyond a reasonable
+doubt .
+JUSTICE BREYER: When you say extra
+culpability, do you mean the nature of the crime?
+Suppose there are three crimes all committed at the same
+time -- murder, rape, and kidnapping.
+They're all very serious crimes. And if you
+sentence them consecutively, you will take into account
+that there were three. If you sentence them
+concurrently, it doesn't matter. The Washington court
+says, we're not just looking to the fact that murder or
+rape or kidnapping are serious; we're looking to
+sentence consecutively if do you more than that. You
+have to look to see that the kidnapping was a special
+kind of kidnapping.
+MR. FISHER: That's right, Justice Breyer.
+In section -- the current section is section 589 of
+the Washington Code and it says that sentences shall run
+concurrently unless the judge makes an extra finding of
+exactly the same type the judge is required to find in
+Blakely. And if you look at Blakely itself, remember
+Blakely involved concurrent sentences. And so what Washington
+is doing is saying all sentences should run concurrently
+unless there's an extra fact, something about the
+additional crimes that would otherwise be running
+concurrently, that simply requires the judge to go above
+and beyond the ordinary concurrent sentences and punish
+those crimes separately.
+JUSTICE SOUTER: But could the nature of the
+additional crimes themselves satisfy it? In other
+words, could the judge say, well, all three -- it might
+be one thing if one were serious and the other two were
+trivial, but all of these three are very serious. Now,
+that's in effect a value judgment, not a finding of
+discrete fact. Could that value judgment satisfy the
+extraordinary criterion that Washington says there must
+be in addition to free crime.
+MR. FISHER: No, it couldn't, and the
+Washington decision that I've cited to you will help you
+with this, because it makes it clear that to trigger an
+aggravator to run sentences concurrently, just as under
+Blakely itself, there has to be something above and
+beyond the elements of the crime or the crimes
+themselves. It can't simply be -- I'm sorry. It can't
+simply be that there were three crimes committed
+and all three of them are very serious.
+It has to be something about the crime, the additional
+crimes, that takes it above and beyond the ordinary
+commission of that crime.
+JUSTICE STEVENS: But, Mr. Fisher, even if
+it's true that there are other examples out there that
+might qualify for that example, it's not true of this
+case?
+MR. FISHER: I'm not sure I follow, Justice
+Stevens.
+JUSTICE STEVENS: In this particular case,
+there was -- it was necessary to make an additional
+finding of fact, even though there may be cases out
+there in which you could get consecutive sentences
+without an additional finding of fact?
+MR. FISHER: You're certainly right that in
+this case you needed to have an extra finding of fact.
+There are some situations under the Washington Code and
+I believe in the majority of other States where it is up
+to the judge's discretion whether to run sentences
+concurrently, and he could do it for the reason that
+Justice Souter described. So what Washington does in
+its respondent's brief is it cites these other State
+decisions, from other States that simply have different
+sentencing systems than we have in Washington.
+CHIEF JUSTICE ROBERTS: I'm not sure I
+understand that. I mean, we have not held, for example,
+that the fact of a prior conviction is something that
+has to be submitted to a jury under Blakely. Why, if
+you're determining that sentences run consecutively,
+isn't that just the same as looking at a simultaneous
+conviction and saying they're going to run
+consecutively?
+MR. FISHER: Under some State systems that
+might be the case, Mr. Chief Justice. However, in
+Washington the way that the code works is that judges
+are directed that for multiple crimes the sentences
+shall run consecutively.
+CHIEF JUSTICE ROBERTS: So you'd have --
+MR. FISHER: Unless they make the exact kind
+of extra finding, and it refers them to the precise same
+statute that was at issue in Blakely itself.
+CHIEF JUSTICE ROBERTS: And you're saying
+that that extra finding can't simply be that this is a
+conviction for a particular serious crime that's going
+to go unpunished otherwise?
+MR. FISHER: That's right.
+CHIEF JUSTICE ROBERTS: So under this system
+if you had a regime where if you're convicted of murder
+and you've been convicted of rape before that, you get
+an enhanced sentence beyond the normal murder sentence,
+that would not contravene Blakely. But if you're
+convicted at the same time for rape and murder and those
+two sentences run consecutively, you say that that does
+violate Blakely.
+MR. FISHER: If the judge needs to make an
+extra finding beyond the elements of either of those two
+crimes to run them consecutively, then it would violate
+Blakely.
+THE COURT: But we've never held that?
+We've never held that consecutive -- that the treatment
+of sentences as concurrent or consecutive is covered by
+Blakely?
+MR. FISHER: You haven't had a case in the
+Apprendi-Blakely line of cases dealing with consecutive
+sentences. But what you've done is laid down a rule
+from the very State that we're dealing with here that
+says that if the judge needs to make an extra finding
+beyond the elements of the crimes of conviction and
+beyond the facts encompassed in the jury's finding of
+guilt for those crimes, then those findings need to be
+proved to a jury beyond a reasonable doubt. That's why
+in this case that line, that rule, is triggered.
+The Ninth Circuit of course didn't talk
+about any of this. What it said, as I mentioned, is
+that it simply took Apprendi to be a purely formalistic
+rule that had nothing to do with the facts according to
+the jury verdict, but it just had to do with whatever
+the State happened to label as the statutory maximum.
+In Apprendi this Court said, not once but three times,
+that the statutory maximum concept was triggered
+according to the facts encompassed in the jury verdict.
+And like the Washington courts, the Ninth Circuit simply
+ignored that language in this Court's opinion.
+Lest there be any doubt about the way that
+concept mapped onto this case, this Court said in Apprendi
+itself that the relevant inquiry was not one of form but
+one of effect: Does the required finding take a
+defendant to a higher sentence level than would
+otherwise be permissible based on the facts encompassed
+in the jury verdict?
+JUSTICE GINSBURG: Mr. Fisher, there's
+another potential impediment in this case and I would
+like you to comment on it. That is the petition from
+the sentence, it was second in time. There was a prior
+petition that challenged just the conviction, and under
+the governing statute, to have a second petition, you've
+got to get permission from the court of appeals and it
+has to meet stringent criteria.
+How do you get past that? You went out
+concentrating on the petition addressed to the sentence
+which is a second petition.
+MR. FISHER: This is the very first petition
+that Mr. Burton has filed against the 1998 judgment. He
+did file earlier a petition against the original
+judgment of 1994. In the joint appendix at page 34,
+that is where that petition is reprinted. He says quite
+clearly that he is challenging the 1994 judgment in that
+petition, whereas here this is his first petition
+against the 1998 judgment.
+JUSTICE GINSBURG: So did -- then you are
+bifurcating the judgment in a criminal case, which is
+not the sentence. You are saying there's an earlier
+judgment, and looking at it as we would as if it were a
+civil case, if you have a determination of liability,
+that doesn't give you a final judgment. The judgment
+will come at the end of the case when damages are
+determined.
+MR. FISHER: That's right, Justice Ginsburg.
+And if what the State is saying is correct, which is to
+say that we don't have any judgment at all until the
+sentence is final, then all you get from that is that
+Mr. Burton's first petition should have been dismissed
+and the court could have gotten it dismissed. But we
+submit what you can't do from that is retroactively
+change the first petition that he explicitly told the
+court was against the 1994 judgment, and that he told
+the court in that same filing on JA 35 and JA 40, that
+his sentence was still on direct review. You can't
+retroactively change that challenge to the 1994 judgment
+into one against the 1998 judgment, for two reasons.
+One is that if the State is right, the
+district court wouldn't have had jurisdiction under that
+1998 -- challenge against the 1998 judgment either,
+because as Mr. Burton forthrightly told the court, that
+sentence was still on direct review. But even if you
+get past that, we submit that this Court's Castro
+decision simply doesn't allow a court, especially
+retroactively, to recharacterize a habeas petition that
+the petitioner himself said was against one judgment as
+against another.
+JUSTICE KENNEDY: So you think there can
+always be two petitions, one -- of sentences on review?
+MR. FISHER: No, there can't, Justice
+Kennedy. And so what should have happened according to
+the state's theory, is that the first petition should,
+should simply have been dismissed.
+JUSTICE KENNEDY: Bit is that also your
+theory?
+MR. FISHER: I think that's -- this Court
+hasn't laid down a solid decision. But I think that's a
+better reading.
+JUSTICE KENNEDY: But are you -- are you
+asking us to say that while the sentence is still under
+review, there can be no habeas petition filing?
+MR. FISHER: Am I asking --
+JUSTICE KENNEDY: Why isn't that up to the
+option of the petitioner? He can take his chances or he
+can wait.
+MR. FISHER: I think that is a fair
+characterization, Justice Kennedy. But what Mr. Burton
+did is he want to the district court saying I'm
+challenging the 1994 judgment. And as I was saying,
+under Castro before that gets recharacterized --
+JUSTICE KENNEDY: I'm asking if it is your
+position whether or not he properly can do that?
+MR. FISHER: I don't think so. But I'm just
+recognizing that that's a jurisdictional question that
+this Court would decide for itself. But assuming that
+he can't do that, what the district court would have had
+to say is, Mr. Burton, you're not allowed to challenge
+the 1994 judgment. And let's assume for the moment he
+could have challenged the 1998 judgment. The district
+judge would have said, "Now Mr. Burton, you're only
+challenging your conviction for the 1994 judgment. You
+need to wait until you're ready to challenge your
+sentence, and then you can challenge the 1998 judgment."
+Presumably -- and this is I think a fair inference
+especially from the petition itself as it is reprinted,
+since he told the district court that he was challenging
+his sentence, if he was told he couldn't bring it at
+that time he would have said okay, I will withdraw it
+and wait until I can challenge my sentence.
+JUSTICE SOUTER: But if the first proceeding
+was not in fact jurisdictionally barred, then you would
+lose under the second and successive objection in this
+case, right?
+MR. FISHER: I don't know that we would,
+Justice Souter.
+JUSTICE SOUTER: Why not?
+MR. FISHER: Because it is a common rule
+that -- this Court hasn't had a case exactly like this,
+but the lower courts do all the time; and the Fourth
+Circuit case in Taylor which I've cited in the reply
+brief is one of them. Where, it is a common practice
+for a petitioner to bring one petition against a
+judgment and then be partially successful, and then
+bring a new petition against something in the new
+judgment. And that's essentially what happened here.
+And it may --
+JUSTICE SOUTER: Aren't those cases in which
+the first judgment is complete, he simply does not
+attack everything that was a predicate for the first
+judgment; and then if there is, in fact, a new trial,
+and a new judgment, of course, the habeas possibility
+arises again, whereas in this case, the first judgment
+was not complete.
+MR. FISHER: No, you put your finger on it
+exactly. And so, but we still think that, that, either
+the court had jurisdiction or it didn't. And if it had
+jurisdiction, then it must be -- fall in somehow into
+the category that you're talking about.
+JUSTICE STEVENS: But that's not necessarily
+true. Isn't it also possible if, at the time of the
+first judgment the judge could have said, well you really
+haven't exhausted your remedies because it is not final
+until the whole thing is over. But nevertheless,
+because exhaustion is not a jurisdictional matter, I'm
+going to go ahead and decide it.
+MR. FISHER: Could a district judge have
+done that?
+JUSTICE STEVENS: Yes.
+MR. FISHER: I think what would have needed
+to have happened here, since Mr. Burton at pages 35 and
+40 of the joint appendix, told the district judge, I'm
+still challenging my sentence on direct appeal, under
+AEDPA and customary comity principles, the judge would
+have needed to say, you need either to renounce that
+appeal from the State court or renounce this one. You
+couldn't do both at the same time.
+Mr. Burton, if he had wanted to, I think it
+is fair to say, could have gone into district court and
+said, I now have a new judgment and I'm going to
+challenge my conviction and sentence because I have no
+intention of challenging my sentence through State court
+proceedings. And perhaps he could have done that. But
+that would be a very different situation than what we
+have here.
+If I can turn back to the, not a new rule
+question, another angle at this is not simply to look at
+the text of this Court's opinion in Apprendi which we
+submit told a State court in this situation all it would
+have needed to know, but also perhaps it is helpful to
+look behind that and look at the statutes that were in
+play in New Jersey and in Washington. And even if you
+did that it becomes, we submit, very clear that a
+district judge, any reasonable trial judge, that is,
+would have known that Apprendi applied here.
+What you had in New Jersey was essentially
+two statutes. One that said an ordinary commission of a
+crime is punishable up to 10 years. And a second
+statute that said if you commit that crime with some
+kind of extra -- extra bad circumstance, there a hate
+crime, then you get -- you can get a higher sentence.
+Exactly the same thing was true in
+Washington. We had one statute that said this is what
+the, this is what the punishment is for the ordinary
+commission of this crime. And we had an extra statute
+that said, but if you commit that crime with extra bad
+circumstances -- and here the only difference was, there
+was a list of circumstances, not just a single one --
+but if you commit the crime with extra circumstances,
+then you can get extra punishment.
+And the analogy that the respondents want to
+draw between the Washington sentencing system and the
+Federal guidelines just simply doesn't hold up.
+CHIEF JUSTICE ROBERTS: So you think Blakely
+was not a new rule but Booker was?
+MR. FISHER: I think that's fair to say,
+Mr. Chief Justice. Because in Blakely all you needed to
+do was apply Apprendi which said that if you have two
+different statutory thresholds, the pertinent threshold
+for Sixth Amendment and Fourteenth Amendment purposes is
+the one that cabins the judge's discretion based on the
+facts in the jury verdict. To decide Booker this Court
+had to take the term statutory maximum and apply that to
+a different type of threshold, which was as this Court
+put it a court rule or a quasi legislative enactment.
+So under -- under the system that this Court
+reviewed in Booker, you had only a single true statutory
+maximum. And then you had to decide whether the
+Apprendi principle ought to be in play for the Federal
+sentencing guidelines. And if there is any confusion on
+that, a trial judge could have looked at Apprendi itself
+where this Court and Justice Thomas's concurrence made
+clear that there was unique status of the Federal
+sentencing guidelines that made it a more difficult
+question.
+However, here where you didn't have anything
+like that, we had just a simple situation where there
+were two statutes, one maximum for the ordinary crime,
+and then an additional maximum for the crime being
+committed with aggravating circumstances. And so it was
+a very clear map line. And that's what this Court said
+in Blakely, of course. It said, it didn't break any new
+ground in the decision in Blakely. It simply said that,
+took the state's argument and rejected it by saying our
+precedents on this point are clear. And it just simply
+quoted the Apprendi language, that the statutory maximum
+for Sixth and Fourteenth Amendment purposes is the
+maximum that a defendant may receive based on the facts
+and the jury verdict alone.
+JUSTICE GINSBURG: There were decisions
+going the other way.
+MR. FISHER: There were lower court
+decisions?
+JUSTICE GINSBURG: Yes.
+MR. FISHER: Yes, there were. And I think,
+if we want to talk about these, it is important first to
+be clear about what we are talking about. There were,
+there was a Supreme Court of Kansas that had looked to
+the relevant language in Apprendi and decided that its
+sentencing guidelines system could not stand. And then
+you had, on the other side the Supreme Court of
+Washington, and the Supreme Court of Oregon, and a
+couple of other State intermediate courts, I think some
+in unpublished decisions, that had gone the other way.
+But I think it is very telling, Justice
+Ginsburg, if you want to look at those State supreme --
+I'm sorry, those State supreme court and lower court
+decisions, because none of them -- not a single one --
+quotes Apprendi or even acknowledges the passages in
+Apprendi that said the test is not one of form but of
+effect. And there's several passages in Apprendi that
+said that the statutory maximum was the maximum allowed
+based on the facts in the jury verdict. So once you
+take those into account, we submit, as the Kansas
+Supreme Court realized, there is only one conclusion
+that you can reach. The only way those lower courts
+were able to come to a contrary decision was simply to
+pluck out -- pluck out other sentences of Apprendi and
+not acknowledge the rest of the opinion. And of course,
+the rest of the opinion where this Court has these
+passages, pages 483, 482, are the absolute guts, the
+building blocks of the opinion itself. It is where the
+Court canvasses the historical rule that was
+incorporated into our constitutional system. And so it
+is not as though that is some sort of dicta that or
+loose language that this Court had in its opinion. It
+was the very guts of the holding of Apprendi.
+And we submit that, in a Teague analysis
+where you are indeed supposed to look to whether a
+reasonable jurist would have found something, not just
+the fact that they exist, but whether a reasonable
+jurist would have reached a given conclusion, once you
+take the whole of Apprendi into account, there was only
+one conclusion that a reasonable jurist could have come
+to.
+JUSTICE KENNEDY: I suppose that doesn't
+make the dissenters in Blakely feel very good.
+MR. FISHER: Well, Justice Kennedy, I think,
+as I understand the dissents in, in Blakely, the
+dissents in Blakely primarily were saying that Apprendi
+itself was a bad idea. And that Apprendi really wasn't
+dictated by the Sixth and Fourteenth Amendments. I see
+almost nothing, in fact really nothing in the dissents
+of Blakely itself that says taking Apprendi as the law,
+we can distinguish it from the facts in this case.
+There was nothing of that in the dissents.
+JUSTICE KENNEDY: Of course you have to show
+that the result was dictated by the prior precedent.
+That's a strong phrase. We said it in Stringer --
+Stringer versus Black. But if it has a new application,
+that's -- that's new. Even though the principle is the
+same.
+MR. FISHER: I think the Stringer test is
+helpful because there, of course, this Court said that
+one of its prior decisions was not a new rule, because
+even though there was a different State sentencing
+system that slightly different before the Court in the
+subsequent case, the principle from the prior case
+dictated only one result. And I think once you go back
+to the dissents in Blakely and compare them let's say,
+with the dissents in Booker, on the merits that is, in
+Booker, I think again it is telling, because the
+dissenters in Blakely had nothing to say in terms of a
+possible way to distinguish one case from the other;
+whereas in Booker, the dissents did point out we don't
+have to extend it this far. We can limit to it to true
+statutes and not go this far. So there is a difference.
+Really what this case, I think one way to
+phrase it in terms of what it comes down to, is whether
+when this Court lays a decision down like Apprendi, that
+has a clear rule and lots of historical, robust
+reasoning behind it, saying why we are adopting a
+certain rule, whether it is up to the lower courts, in
+this case the State courts, to second-guess this Court
+and say I don't know if the Court really means what it
+says, as Justice Breyer later put it in the Blakely
+dissent.
+We think that, we submit what this Court
+should say is that when we say something is the law,
+that lower courts ought to assume that's the law, at
+least until we tell them somehow that the law is
+different.
+If there are no more questions on the new
+rule, I will quickly address the watershed argument.
+Because if for some reason this Court adopted the
+state's view that really all Apprendi was was a highly
+formalistic rule about what is a statutory maximum, and
+that -- and that just simply labeling, courts could have
+evaded it, we think that Blakely itself then has to be
+considered a watershed exception -- a watershed rule.
+And the reason why is because, is because of an error
+that runs throughout the state's brief.
+And the state's position is basically that
+this can't be watershed because Apprendi and Blakely
+deal with circumstances where a defendant has already
+been convicted of a crime and all we're considering is
+what sentence ought to be imposed. But, of course, that
+-- that contravenes the very holding of Apprendi and
+Blakely which is to remedy the fact that the defendant
+is being sentenced for a greater crime than the jury
+actually found him guilty of. And --
+CHIEF JUSTICE ROBERTS: This argument, this
+argument assumes that we rule against you on whether or
+not it is a new rule.
+MR. FISHER: I think that's right, Mr. Chief
+Justice.
+CHIEF JUSTICE ROBERTS: Don't you have --
+don't you have to address AEDPA before we get to that
+question?
+MR. FISHER: In the watershed realm?
+CHIEF JUSTICE ROBERTS: In other words, it
+doesn't matter it it's a watershed, I guess it is a
+point of argument, but it is not clear that it matters
+whether it is a watershed rule if you read AEDPA
+2254(d)(1) by its terms.
+MR. FISHER: If this Court concluded in the
+Whorton case that watershed did not survive AEDPA, then
+of course you're right, watershed doesn't -- can't get
+us home here. But as this case comes to the Court, as I
+understand it, this Court is considering this case in a
+posture that it really dealt with in Horn versus Banks
+where it said that even post AEDPA, what a court is
+supposed to do is conduct what this Court termed a
+threshold Teague inquiry as to whether Teague is
+satisfied. And of course in Horn, this Court mentioned
+the watershed exception itself.
+So we think that what this Court should
+really do is address that threshold question to the
+extent it needs to holistically.
+If there are no more questions, I'll reserve
+the remainder of my time.
+CHIEF JUSTICE ROBERTS: Thank you,
+Mr. Fisher.
+Mr. Collins.
+ORAL ARGUMENT OF WILLIAM B. COLLINS
+ON BEHALF OF RESPONDENT
+MR. COLLINS: Mr. Chief Justice, and may it
+please the Court:
+I would like to begin where Justice Ginsburg
+began, with the issue of successive petitions. We
+believe that the petition before this Court is a
+successive petition barred under AEDPA. Now my brother,
+Mr. Fisher says that it's not a successive petition
+because the first petition challenged the 1994 judgment.
+But that is simply not correct as a matter of the facts
+of this case.
+A new judgment was entered in March of 1998.
+That judgment was entered as a result of Mr. Burton's
+conviction being affirmed and his sentence being
+reversed. So when he was in custody, when he filed his
+first petition, he was in custody pursuant to that
+amended judgment.
+JUSTICE SOUTER: So that is the only
+judgment that could be attacked on habeas?
+MR. COLLINS: Exactly, Your Honor. So he
+has an amended judgment filed in March of 1998. He
+files his first petition challenging his conviction
+under that petition. Later, in 2002, he files a second
+petition challenging his sentence.
+CHIEF JUSTICE ROBERTS: It doesn't matter --
+I'm looking at joint appendix page 34, date of judgment
+of conviction, he puts in December 16, 1994.
+MR. COLLINS: He does put that in, Your
+Honor, but I don't think that's determinative. If you
+take a look at page 35, on question 8, they say, did you
+appeal from the judgment of conviction? Answer, yes.
+If you did appeal, answer the following. And it lays
+out the facts that he appealed, that his conviction was
+affirmed, that his sentence was reversed, and then a new
+judgment is entered in March of 1998.
+He is not in custody pursuant to the 1994
+judgment. He is in custody --
+CHIEF JUSTICE ROBERTS: Where does it say a
+new judgment was issued in March of '98?
+MR. COLLINS: Your Honor, that's in the
+joint appendix at page 3, which shows that --
+CHIEF JUSTICE ROBERTS: Oh, I thought you
+meant it was in his petition.
+MR. COLLINS: No, no, it wasn't in his
+petition, Your Honor, but it doesn't seem -- the fact
+that he was looking back at his conviction, original
+conviction being 1994, and that's what he wrote down,
+doesn't mean that that was the conviction and that was
+the judgment under which he was in custody, because it
+simply wasn't. The original 1994 judgment no longer
+existed because a new judgment had been entered. So
+because -- and I don't think -- I think what we disagree
+about in this is which judgment, if the first petition
+went to the first -- to the 1994 judgment, and the
+second petition went to the 1998 judgment, then we would
+agree with Mr. Fisher that it is not successive.
+On the other hand, I believe I heard him say
+that if you agree with us, that the only judgment in
+existence at the time he filed his petition was the 1998
+judgment. Then he's filed a successive petition with
+regard to that judgment, one in December of 1998 dealing
+with the conviction; a second in 2002, dealing with the
+sentence.
+So since it's a successive petition and
+Mr. Burton did not go through the gatekeeping function
+that AEDPA requires, there is no -- the district court
+had no jurisdiction and subsequently, we believe that
+this Court does not have jurisdiction.
+JUSTICE BREYER: The fact is, we're looking
+at page 34, 34 of the joint appendix, and that is the
+first petition that was filed; is that right?
+MR. COLLINS: That's correct, Your Honor.
+JUSTICE BREYER: So you look at it and it
+says, filed December 28, and maybe this is what you
+said. Then it says date of judgment of conviction,
+December 16, 1994. So looking at that, you'd think that
+is what he was attacking. Where does it say he's
+attacking anything else?
+MR. COLLINS: Well, Your Honor, it doesn't
+say he's attacking anything else, but the problem with
+that is that when he filed this petition, he was not
+being confined --
+JUSTICE BREYER: Yes, but I imagine there
+are tens of thousands off petitions filed in the Federal
+system. And I would think that judges when they're
+trying to look at those petitions, or the magistrate
+looks at them and says what judgment are you attacking,
+he has to figure that out often for statute of
+limitations purposes, or some other purpose. He'd look
+over there, go down and read that line two, and he'd
+think yeah, that's the judgment that's being attacked,
+unless of course there's some indication that it's
+something else.
+I've never heard of this before. Is there
+any precedent on that where even though the petition
+refers to date A, and there's nothing in to suggest
+anything other than date A, because it turns out that
+there's a different judgment that in fact, he's being
+held, which is date B, that the court says oh, you're
+attacking date B.
+Is there any precedent that says that's how
+it's read?
+MR. COLLINS: I'm not aware of any
+precedent.
+JUSTICE BREYER: No. So this might be the
+first time. I don't see a reason why you wouldn't read
+the petition that's filed in an ordinary way and say the
+judgment that's being attacked is the judgment that it
+refers to.
+MR. COLLINS: Well, Your Honor, I think you
+have to say the judgment that's being attacked is the
+judgment by which he's being confined. I mean, he --
+JUSTICE BREYER: I don't know what
+implication this is going to have for a lot of these
+petitions. I don't know one way or the other, but it
+might be there are thousands right now in the Federal
+court which have date A, and somebody is going to go
+back and say no, it is really date B or something. I'm
+a little nervous about it. If you're not nervous,
+you're the ones in charge.
+JUSTICE SOUTER: Well, Mr. Collins, isn't it
+your position that, number one, the only judgment that he
+can attack on habeas is the judgment that is extant at the
+time of the habeas proceeding, and that is the '92
+judgment that follows the resentencing? But he may in
+attacking that judgment attack the premise of conviction
+which occurred earlier?
+MR. COLLINS: Exactly, Your Honor.
+JUSTICE SOUTER: And if he chooses to attack
+only the earlier conviction which is the premise of the
+later judgment, he has simply in effect waived any other
+issue. And when he comes in later and tries to raise
+the issue that he could have attacked under the '92
+judgment, he's in effect trying to split up his habeas,
+it's second and successive, and that's why he can't do
+it.
+MR. COLLINS: That's exactly right, Your
+Honor.
+CHIEF JUSTICE ROBERTS: And further, I
+thought you told me that the petition goes on to
+indicate that the conviction while affirmed, that the
+sentence was reversed, looking at 9(b) on joint appendix
+35.
+MR. COLLINS: Yes, Your Honor.
+CHIEF JUSTICE ROBERTS: Which in other
+words, he details in the petition the subsequent history
+that would have resulted in a new judgment.
+MR. COLLINS: That's right, Your Honor.
+Next I would like to go briefly to the
+question that Justice Souter asked about --
+JUSTICE STEVENS: May I just be sure I
+understand one thing about that? So you're saying at
+the time he filed the petition on December 28, 1998, he
+had already had, the second judgment had already been
+entered by the Washington Supreme Court?
+MR. COLLINS: It had been entered by the
+trial court, Your Honor, so he --
+JUSTICE STEVENS: Pursuant to the reversal
+of the --
+MR. COLLINS: Exactly, Your Honor. That
+sentence is on page -- if you look at page 3 of the
+joint appendix, that is the second amended judgment
+filed in the superior court in Washington on March 16,
+1998, and he was confined under the authority of this
+judgment.
+JUSTICE STEVENS: Of the second judgment?
+MR. COLLINS: Of the second judgment.
+JUSTICE SCALIA: Why does it make any less
+sense to allow separate habeas challenges to, first, the
+conviction, and then the sentence, than it does to allow
+separate appeals to this Court from each of those? And
+once again under the statute, we entertain appeals only
+from final judgment, but you can bring here on
+certiorari the judgment of conviction, even though
+proceedings for the sentence are still in progress.
+MR. COLLINS: Well, Your Honor, I think
+we're talking about the habeas corpus statute and there
+the Court --
+JUSTICE SCALIA: A fortiori, we have a lot
+more control over habeas corpus, which is an equitable
+remedy, than we do over, what is it, 1257, our
+jurisdictional statute under certiorari.
+Why does it make any more sense for habeas
+purposes to insist that he await the final sentence
+before he gets review of the premise for that sentence,
+namely the conviction?
+MR. COLLINS: Your Honor, I'm sorry.
+I think that a couple things are being
+confused here.
+JUSTICE SCALIA: All right.
+MR. COLLINS: The first thing is when -- is
+this a successive -- is this a successive petition, and
+we would say it is, because he filed the first one and
+then the second one.
+Now the question of whether he can get
+relief under the first -- under his first habeas
+petition does not depend on the entry of a final
+judgment. In fact, under the facts of this case, the
+judgment was entered in March of 1998. In December of
+1998, he filed his first petition. And in fact, the
+first petition was denied in April of 2000 on the
+merits, because it had been exhausted, he didn't have to
+wait for that, because those claims were exhausted and
+because they were ripe, because they -- the factual
+predicates had occurred in the trial court, then that
+was all that was required for him to bring those claims.
+He didn't have to wait for a final judgment.
+JUSTICE SCALIA: But you're saying he can't
+later bring any claim about the sentence?
+MR. COLLINS: That's because Congress in
+AEDPA has declared that you have to bring all of your
+claims in your -- at one time, and if you don't, then
+your petition should be dismissed as successive, unless
+you go through the gatekeeping solution.
+JUSTICE SOUTER: So that if the statute
+governing our review had an exhaustion requirement and a
+second and successive requirement comparable to the
+AEDPA requirement, the case that Justice Scalia put
+would be exactly like this case?
+MR. COLLINS: I believe so, Your Honor.
+JUSTICE SOUTER: Okay.
+MR. COLLINS: So I just briefly want to go,
+Justice Souter, to where you started about the
+consecutive sentence issue.
+We believe that consecutive sentence is
+quite different than, from what exists in Blakely and
+that, in fact, there aren't really additional findings
+of fact. I think you referred to about the crime, about
+the circumstances, about the character. In fact, in
+this case, the finding of fact entered by the trial
+court in order to justify the exceptional sentence --
+this is on page 27 of the joint appendix, finding of
+fact 18 -- if the court were to sentence the defendant
+to a standard range sentence on each count run
+concurrently, he would receive the same punishment as if
+he had committed only the rape in the first degree.
+This would effectively result in the free crimes
+of robbery in the first degree and burglary in the first
+degree because he would receive no additional penalty
+for those crimes. Now --
+JUSTICE SOUTER: That's -- I keep doing
+this. I'm sorry. Is that sufficient, as you understand
+it, under the Washington case that your brother cited to
+me?
+MR. COLLINS: I believe it is, Your Honor.
+JUSTICE SOUTER: Okay.
+JUSTICE GINSBURG: I thought the law was
+that the sentence shall be concurrent unless, and the
+unless is that the judge makes an additional finding,
+the very same kind of finding that he would make in
+determining aggravating factor.
+MR. COLLINS: Your Honor, the sentence could
+have been run consecutively because of an aggravating
+factor. In fact, in this case the trial court judge, in
+fact, had three independent and separate reasons for
+running the sentence consecutively. Two of those would
+be, I think we would say aggravating factors that the
+Blakely reasoning would apply to. But the court of
+appeals when it considered this case only looked at the
+free crimes element to make that decision.
+JUSTICE STEVENS: Maybe you can give me just
+a little more help on this. The finding number 18 that
+you referred to says in substance, if by just sentencing
+him on the basis of the jury verdict he won't get --
+he'll get a free pass. But it doesn't say the judge
+can -- could therefore increase the sentence. It seems
+to me there had to be additional findings that justify a
+result that he thought would have been a miscarriage of
+justice.
+MR. COLLINS: No, Your Honor. I don't think
+that's right.
+JUSTICE STEVENS: You think that just having
+pointed out that he would get a pass would have been
+sufficient to justify consecutive sentences?
+MR. COLLINS: I think it would, and the
+State supreme court affirmed this decision.
+JUSTICE STEVENS: Yeah, but he did make
+additional findings. It goes on. In fact, 19 and 20
+are additional findings.
+MR. COLLINS: Your Honor, I think -- I mean,
+I agree with you that he did make additional findings.
+But --
+JUSTICE STEVENS: It nowhere says they're
+unnecessary either.
+MR. COLLINS: That's true, Your Honor. But
+if you take a look at the court of appeals opinion which
+is at page 52 and 53 of the joint appendix, when the
+court of appeals looks at the sentence, what the court
+of appeals says is, "nonetheless, the sentencing court
+concluded that the multiple offender policy alone
+justified the exceptional sentence. The fact that the
+defendant offender score for rape in the first degree is
+16, thus invoking the multiple offense policy of the
+Sentencing Reform Act standing alone, is a substantial
+and compelling reason and justification for imposing the
+exceptional sentence here."
+JUSTICE SOUTER: That is to say that that
+would have been sufficient.
+MR. COLLINS: Exactly.
+JUSTICE SOUTER: But in fact that is not
+what the trial court premised its decision on, because,
+as Justice Stevens points out, it went on in findings
+19, 20, and 21 about deliberate cruelty, sophistication
+and planning, and so on. Having been through those
+findings, the court says, from the foregoing facts the
+court now makes the following conclusions of law.
+It seems to me as though the trial court was
+basing its decision on those foregoing facts as well as
+upon finding 18, which was the free crime finding.
+MR. COLLINS: Well, I think that the --
+JUSTICE SOUTER: I guess what I'm saying is
+the fact that he might have -- I'm assuming for the sake
+of argument that the trial court might on the basis
+simply of the free crime conclusion have sentenced
+consecutively, is simply not the case that we've got,
+because he sentenced consecutively on that basis and on
+cruelty, sophistication, and so on.
+MR. COLLINS: Well, Your Honor, I believe
+that the court of appeals felt that that consecutive
+sentence on the free crimes was -- standing alone would
+have been sufficient.
+JUSTICE BREYER: I don't want to take you
+up. Let me just have one on the merits, one. I mean,
+the reason I want you to get to the merits, and I put in
+my dissent. I was trying as hard as I could to show why
+I thought this case was wrong. I start the dissent by
+saying that -- what it says, and then I quote the two
+sentences that any fact, et cetera, any fact that
+increases beyond the prescribed statutory maximum must
+be submitted to a jury and prescribed statutory maximum,
+again quote, means "solely on the basis of the facts
+reflected in the jury verdict." Okay.
+Then at the end of the opinion I say:
+"Until now I would have thought the Court might have
+limited Apprendi so its underlying principle wouldn't
+cause so much harm." Now, the next sentence of course I
+explain how they might have limited Apprendi, but
+somehow that disappeared from the opinion because I
+guess I couldn't think of it.
+So you're going to tell me now -- I mean, I
+didn't say how they might have limited Apprendi and I
+couldn't think of how they might have limited Apprendi,
+and they read Apprendi to mean what it said. Now, you
+tell me the phrase I might have put in but couldn't
+think of that would have limited Apprendi?
+MR. COLLINS: Well, Your Honor, I think that
+you could have said that the definition of "statutory
+maximum" is the traditional statutory maximum that was
+at issue in Apprendi. And in fact in the Apprendi
+decision the Court specifically, I think in response to
+Justice O'Connor's dissent, explained that Walton versus
+Arizona was still good law. And as you know, in Walton
+the jury would find somebody guilty of aggravated first
+degree murder, but they could not receive the death
+penalty unless the judge made additional findings in a
+hearing.
+And it seemed to say that the statutory
+maximum was death and that in fact the judge's findings
+would not take you above that statutory maximum. I
+think that --
+JUSTICE GINSBURG: Wasn't that overturned in
+Ring?
+MR. COLLINS: It was overturned in Ring,
+Your Honor. But when you had lower court appellate
+judges looking at your decision in Apprendi and seeing
+the fact that Walton and Apprendi were consistent, it
+was logical for them to conclude, as virtually every
+single court did except for Kansas, that the definition
+of "statutory maximum" was the traditional statutory
+maximum that was in Apprendi.
+JUSTICE SOUTER: Was it logical for them to
+conclude it or were they -- were they expressing the
+hope that the Court would draw a distinction which it
+had not drawn in the formulation that it gave in
+Apprendi? It's one thing to say that if you draw no
+further distinctions, Apprendi requires a certain
+result. It's another thing to say but maybe they will
+draw a distinction and we're going to predict that they
+will, and hence not apply Apprendi.
+Weren't the other appellate courts to which
+you refer engaged in the latter exercise, which I call
+the exercise of hope?
+MR. COLLINS: I'm not sure that I would
+agree with that, Justice Souter, only because as I think
+Justice O'Connor explained in her dissent, there are two
+ways to read Apprendi, and one of those ways would
+result in upholding guideline systems which are now
+invalid because of Blakely and Booker, but really quite
+different from Apprendi because those systems involve
+what you would call guided discretion. That is, in
+Apprendi if you wanted the aggravating factor if the
+judge found it by a preponderance then the sentence was
+enhanced.
+JUSTICE SOUTER: Okay, but doesn't that
+require drawing a distinction that Apprendi did not
+speak to? And isn't it still the case that, I think
+Mr. Fisher points out that three times we repeated in
+Apprendi the formula about fact, beyond fact found by a
+jury on the basis of which, et cetera, the range
+increases.
+Isn't the distinction which -- and I trust
+your recollection here -- that Justice O'Connor had in
+mind and that they had in mind a distinction which
+simply was not addressed in Apprendi and would have been
+something new as opposed to merely an application of
+what was implicit in Apprendi?
+MR. COLLINS: I believe it definitely would
+have been something new, Your Honor.
+JUSTICE SOUTER: Yes.
+CHIEF JUSTICE ROBERTS: Thank you,
+Mr. Collins.
+Mr. Roberts?
+ORAL ARGUMENT OF MATTHEW D. ROBERTS
+ON BEHALF OF THE UNITED STATES AS AMICUS CURIAE,
+SUPPORTING THE RESPONDENT
+MR. ROBERTS: Mr. Chief Justice and may it
+please the Court:
+If I could begin by addressing the issues
+that you were just talking about, there was a
+distinction that the Court could have drawn between
+Apprendi and Blakely and that reasonable jurists could
+have drawn and did draw. One was the formal distinction
+that you were discussing before with the State, which
+was supported by Justice O'Connor's proposing that as an
+interpretation in her dissent and the majority not
+responding to that, that that distinction was contrary
+to the rule but implausible, but in fact accepting
+the -- accepting that it was a plausible distinction and
+saying that it still wouldn't have made a difference,
+that the Apprendi rule still was important.
+The second -- and in addition to that, that
+distinction that Justice O'Connor drew there was
+consistent with the Apprendi Court's distinction of
+Walton. And you have to look at what reasonable jurists
+could have interpreted looking at that decision at the
+time with those distinctions and what the Court said in
+Apprendi.
+But in addition to that, there was more than
+a formal distinction that could have been drawn between
+the system in Apprendi and the Washington guidelines
+system. That's the distinction that we proposed in our
+amicus brief in Blakely and it rested on the fact that
+sentencing guideline systems like Washington try to
+channel but not to eliminate the discretion that
+sentencing judges have to sentence within the otherwise
+applicable limits. And in the Washington system the
+sentencing judge retained a significant degree of
+discretion that reasonable jurists could have analogized
+to traditional sentencing systems that aren't
+constrained by Apprendi.
+The facts, the facts on which the judge
+could rely to go above the guidelines, were not
+specified as in Apprendi and as in Ring by the
+legislature, but it was a wide open set that enabled the
+judge himself or herself to determine what facts the
+judge thought could justify a higher sentence; and in
+addition, the facts alone didn't trigger the higher
+sentence. The judge had to look at those facts and make
+the additional determination that those facts rose to
+the level of substantial and compelling reasons that
+justified the higher sentence.
+In that respect, the judge had a degree of
+sentencing discretion to decide what facts justified it
+and whether it was in fact justified.
+Now, of course, this Court rejected those
+distinctions in Blakely. But the question is whether a
+reasonable jurist could have accepted those distinctions
+and drawn a difference, and we submit that they could
+have.
+CHIEF JUSTICE ROBERTS: Mr. Roberts, do you
+have a position on whether we have a successive petition
+problem here?
+MR. ROBERTS: We don't have a position on
+that precise, on that particular issue here, because it
+can't arise for Federal prisoners. But let me explain
+why it can't arise for Federal prisoners because perhaps
+that will give the Court some guidance in resolving the
+issue. In the Federal system, it's well established
+that the conviction and the sentence are part of a
+unitary judgment and that that unitary judgment doesn't
+become final until the conviction and the sentence have
+both been fully adjudicated.
+That understanding is reflected in the
+language of 28 U.S.C. 2255, which is the statute that
+authorizes collateral attacks by Federal prisoners.
+That statute authorizes attacks -- what it authorizes is
+motions to vacate, set aside, or correct a sentence. So
+it's clear from that that it's not authorizing
+collateral attacks on a conviction independent of the
+attendant sentence. And I think that could shed some
+guidance here, because 2255 was intended to be a
+parallel and substitute remedy to traditional habeas for
+Federal prisoners.
+I would also make a point on the other sort
+of preliminary issues that were being discussed on the
+consecutive sentence issue, that it's not only the fact
+that the judge said that the multiple offense policy
+standing alone could justify the consecutive sentence
+here and that the court of appeals relied on that in
+upholding that.
+But the court of appeals went further,
+because petitioner had made a separate challenge to --
+and this is on page 52 and 53 of the joint appendix.
+Petitioner made a separate challenge to the other two
+aggravating factors. Petitioner argued that the
+district court wasn't allowed to rely on -- excuse me,
+the trial court couldn't rely on those two other
+aggravating factors because he had not relied on them in
+the original sentencing and this was a resentencing.
+The court of appeals rejected that challenge
+and it rejected that challenge because it said the
+sentencing court concluded that the multiple offense
+policy alone justified the exceptional sentence, and
+then on page 53 it said: "The sentencing court did not
+rely on the additional aggravating factors for imposing
+an exceptional sentence." So I think these --
+JUSTICE SOUTER: Is that true in fact?
+MR. ROBERTS: Well, that is how --
+JUSTICE SOUTER: I'm mean, I'm sure you're
+reading correctly, but is that in fact true? Because,
+having talked, as I just read out a moment ago, having
+spoken about free crimes, aggravating factors, it says,
+on the basis of the foregoing facts I now draw the
+following conclusions of law.
+MR. ROBERTS: The trial court said each of
+the three standing alone was sufficient. But what the
+court of appeals said is these other two have been
+challenged, but these other two are -- we're not going
+to deal with this challenge to these other two
+factors because they're out of the case. So I think
+that this Court has to take the case as coming from --
+coming from the Washington courts as if what the courts
+essentially said is those other two are not in the case
+any more.
+JUSTICE SOUTER: So we can treat it in
+effect -- and this may be the way to do it -- we can
+treat it as the ultimate sentencer was the Washington
+appellate court and that's what they said?
+MR. ROBERTS: Well, what the Washington
+appellate court essentially, they could have said
+petitioner is right, those other two aggravating factors
+couldn't be relied on, and so we're relying on this the
+standing alone. What they chose to do is, we're going
+to interpret what the trial court did as relying only on
+the one. And that was the basis for responding to that
+claim of error, and I do think that the Court has to
+take this case as coming on that basis.
+If I could turn to the issue of Blakely
+retroactivity for a few minutes. In addition to the
+points that I made before about why Blakely was a new
+rule, I would also submit that Blakely is not a
+watershed rule because it's not a bedrock rule that's
+essential to a fair trial, and rules are only bedrock if
+they approach the fundamental and sweeping importance of
+Gideon, and Blakely doesn't have that kind of importance
+for three reasons. First, the right to counsel
+pervasively affects every aspect of the trial, but
+Blakely affects only the procedure for determining the
+punishment of defendants who have already been found
+guilt beyond a reasonable doubt of all the elements of a
+crime.
+Second, a felony trial in which the
+defendant is denied counsel is inherently unfair, but
+it's not inherently unfair to use the preponderance
+standard to find facts that determine the extent of
+punishment, and in fact the Constitution permits the use
+of a preponderance standard to find many facts that have
+as much or more impact on punishment as facts covered by
+Blakely. Those include facts that trigger mandatory
+minimums, facts on which a judge relies to sentence
+within a broad statutory range, and even facts on which
+a judge relies to sentence above the standard range in
+advisory guideline systems.
+Third, counsel is so essential to a fair
+trial that deprivation of the right can never be
+discounted as harmless error. But this Court held in
+Recuenco that Blakely errors can be harmless, and in
+reaching that holding the Court expressly concluded that
+Blakely errors do not necessarily render a criminal
+trial fundamentally unfair or an unreliable vehicle for
+determining guilt or innocence.
+That conclusion seems to strongly suggest
+that Blakely is not a bedrock rule essential to a fair
+trial.
+If the Court has no further questions --
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Mr. Fisher, you have four minutes remaining.
+REBUTTAL ARGUMENT OF JEFFREY L. FISHER
+ON BEHALF OF PETITIONER
+MR. FISHER: Let me say one word on
+jurisdiction and then turn to two comments on the
+merits. On jurisdiction, I think Mr. Roberts is right
+that this rarely happens in the Federal system. It
+rarely happens in the State system. We can't find any
+other case where a petitioner has gone in naming, as the
+State would say, in effect the wrong judgment and
+saying: "I'm challenging this judgment."
+But what happened here was just that.
+Mr. Burton went in and said he was challenging the 1994
+judgment. And under this Court's Castro decision, when
+a pro se petitioner comes in and says I'm doing one
+thing, in that case making a motion for a new trial, it
+can't be converted into something else which is a first
+habeas petition without advising the petitioner. And
+here, not only was he not advised by the trial court but
+the State in its own answer, which we attached to our
+reply brief, agreed that he could challenge the 1994
+conviction, and said that conviction is final, and he
+can challenge that judgment, the 1994 judgment.
+So it's way too late in the day for the
+State to stand up to you now and say this pro se
+petitioner should bear the burden of bringing an
+improper petition.
+On the merits, I don't want to elaborate
+beyond simply just telling this Court that if you look
+at the Hughes decision and you look at the Washington
+decision from the Washington state courts, it is clear
+that an extra finding was necessary here, even if the
+only aggravator in play is the free crimes are clearly
+too lenient factor. Hughes makes it crystal clear that
+a judge needs to find, and I'm quoting, "extraordinarily
+serious harm or culpability arising from the multiple
+offenses." And to the extent that the State stands
+before you now and quotes from parts of Mr. Burton's
+case where the trial judge did not explicitly make that
+finding, that only reinforces the strength of his habeas
+petition now, that under Washington state law, the judge
+needed to make that kind of an extra finding and the
+judge didn't do so.
+Let me finally turn to a discussion about
+whether this Court's treatment of Walton and Apprendi
+could have given a State judge a reasonable basis to
+distinguish the system at issue in Blakely. We don't
+think it could because this Court didn't simply say in
+Apprendi that Walton stands. It explicitly said the
+reason why the Arizona capital system as we understand
+it is okay is because it's nothing more than a system
+that is permissible under Williams against New York.
+It's one where on the basis of the jury's
+finding of guilt that the death penalty is permissible
+without anything else. And so the only disagreement
+between the majority and Justice O'Connor's dissent was
+as to the way Arizona's system worked, but any judge that
+would have looked at Apprendi would have seen, the
+majority is telling us that a system is okay so long as
+the jury verdict itself allows the ultimate sentence.
+That is exactly the kind of system that was
+not in place in Washington, so a judge should have full
+well realized.
+And of course as Justice Ginsburg pointed
+out, once it became clear to this Court the way that
+Arizona's capital sentencing system functioned, this
+Court had little difficulty simply applying the Apprendi rule
+and agreeing that that system had to be invalid too.
+And just like the Blakely decision itself, not even the
+dissenters suggested that Apprendi dictated otherwise.
+If this Court has no further questions, I'll
+submit the case.
+CHIEF JUSTICE ROBERTS: Thank you,
+Mr. Fisher. The case is submitted.
+(Whereupon, at 12:01 a.m., the case in the
+above-entitled matter was submitted.)
+52:21 36:10,12,16 35:16 37:21 asking 14:15,17 basing 38:17
+5:14 6:12,16 22:24 42:14 assume 15:8 48:6 51:16,23
+ago 47:5 apply 19:7,12 assumes 25:2 bedrock 48:11
+22:7 37:15 41:18 applying 52:12 15:5 38:21 began 26:14
+agreeing 52:13 6:14 11:12,16 attached 50:15 behalf 1:16,19
+allow 13:24 33:3 19:7,18,20 31:7,10,13 26:10 42:23
+44:16 21:11 46:15 22:1,7,14,15 31:17 26:15 28:16
+allows 52:5 22:18 23:19 attacking 29:11 29:1 35:4,9
+8:13,23 32:21 39:19,21,25 30:9 31:10 42:16
+20:3 35:11 Amendment 40:1,2,4,8,8,24 attacks 45:19,20 BELINDA 1:6
+36:8 19:9,9 20:11 40:25 41:4,9 45:23 better 14:13
+Amendments 41:10,13,20,23 attendant 45:24 beyond 6:17
+44:18 22:16 41:25 42:4,7 authority 32:23 7:18 8:9,14
+amicus 1:22 42:13,15 43:5 authorizes 10:12,18 11:5
+26:2 analogized 44:7 44:9,12 51:15 authorizing 42:7 48:19
+analysis 22:2 52:15 await 33:18 bifurcating
+50:15 approach 48:13 52:20 Black 22:24
+argued 46:14 B 4:17,22 6:9
+37:23 39:3 26:9 38:22 bad 18:14,20 22:11,13,14,18
+28:25 46:8,10,19 42:22 49:22 22:15 23:9,12,25
+35:2 47:11 arises 16:17 Banks 25:20 24:13,18,23
+31:25 1:15 Arizona 40:11 26:16 41:22 43:5
+appellate 40:23 51:20 based 6:4 12:1 44:1,25 48:7,9
+12:4,23 13:1,3 characterizati... 26:8,9,11 27:4 37:24 46:21
+52:14 15:23 16:3,5 14:22 27:12,24 28:3 49:12
+23:10,11 23:23 25:16,18 9:21,25 10:4,9 31:21 32:3,7 38:23 49:16
+41:22 25:19 26:20 19:3,6 25:1,4,6 32:15,19 33:1 conclusions
+29:3,7 38:24 39:10 31:23 32:4 36:4,11 37:4,9 19:21
+30:14,22 42:5 47:14,15 42:19,25 45:4 37:14,19 38:8 concurrent 7:13
+47:17 48:6 49:20 52:18 38:19 39:2 7:18 10:23
+24:16 52:17,19,20 chose 48:2 42:16,20 concurrently
+50:16 cases 8:24 11:1 Circuit 3:10,12 colloquially 4:6 7:1,10,14
+33:7 categories 5:6 18:14 comes 23:18 confined 29:16
+category 16:23 circumstances 25:18 31:16 30:21 32:23
+41:10 35:13 comity 17:13 consecutive 5:5
+13:21 42:8 civil 13:1 8:15 18:11,19 consecutively
+15:7,10 challenge 13:16 claim 34:18 48:5 commit 18:13 4:6,19,20 6:4
+28:24 13:20 15:7,12 claims 34:12,15 18:20,23 6:24 7:4 9:16
+15:13,19 17:20 34:21 committed 6:21 9:19,24 10:15
+13:9 47:13 50:16,18 5:2 35:20 38:24,25
+51:8 challenged 12:7 clear 3:16 5:13 common 16:2,6 considered
+26:18 8:6 18:7 19:22 comparable 24:14 36:18
+change 13:12,16 codified 4:24,24 concept 3:20 21:23
+9:3,21 character 4:9,12 45:23 conclude 41:1,6 44:9
+11:9,22 5:7 35:13 Collins 1:18 2:6 concluded 25:15 contrary 21:16
+17:15,18,21 20:2,3 24:20 decide 15:5 17:5 27:13
+19:14,15,21 38:18,23 48:20 decided 3:11 48:24
+21:1,6,6,14,19 6:21,23 7:16 decision 3:16,18 determining
+24:20 25:18,19,21,22 35:21,24 36:19 20:7 21:16 dictated 22:16
+10:6 11:5 26:15 28:25 criminal 12:23 37:10 38:10,17 52:15
+15:11 29:2 30:8 31:1 49:13 40:9,24 43:19 difference 18:21
+26:23 32:14,16,22 criteria 12:10 50:9,25 51:1 23:16 43:13
+33:5,12 34:14 criterion 5:19 52:14 45:2
+35:15,17 36:13 8:2 decisions 9:10 different 9:10
+31:10,14 36:17 37:10,20 cruel 6:11 20:14,17 21:3 17:23 19:8,13
+33:4,8 37:22,22,23 cruelty 38:12 21:7 23:4 23:5,6 24:6
+45:13,15 38:10,14,15,16 39:1 declared 34:20 30:7 35:10
+50:17,17 38:22 39:3,18 crystal 51:4 defendant 3:20 41:23
+29:6 44:24 45:11 curiae 1:22 35:17 38:1 direct 13:15,22
+46:8,10,15,16 42:23 48:22 17:12
+47:9,11,15,22 custody 26:24 48:18 disagree 28:11
+50:14,24 51:18 customary definition 40:6 disappeared
+16:4 21:2,15 D 35:23 38:1 49:10
+20:6 24:12 41:14 42:22 deliberate 38:12 discretion 9:6
+22:21 47:16,16 51:1 damages 13:3 denied 34:10 19:10 41:24
+24:21 Court's 3:17 date 27:10 29:9 48:22 44:3,7,22
+30:1 5:21 11:20 30:5,6,8,9 31:1 Department discussed 46:4
+44:24 13:23 18:2 31:2 1:21 discussing 43:7
+43:17 50:9 day 50:19 depend 34:6 discussion 51:14
+5:11,13 covered 10:23 dealing 11:1,3 49:9 13:10 14:8
+6:1,7 49:2 28:20,21 Deputy 1:18 34:22
+7:1 10:21 CREEK 1:7 dealt 25:20 described 3:19 dissent 24:1
+12:9 crime 5:4,6,10 death 40:13,17 9:8 39:9,10 40:10
+5:19,19 6:20 51:24 details 32:5 41:19 43:9
+14:11 8:3,9,13,15 December 27:11 determination 52:1
+15:5,6 10:6 18:12,13 28:20 29:8,10 13:1 44:18 dissenters 22:11
+16:3,21 18:15,19,20,23 32:12 34:8 determinative 23:12 52:15
+10:18 11:5 excuse 46:15 40:17,25 42:7 14:16
+48:19 exercise 41:15 42:7 43:11 final 13:2,8 17:2
+42:4,10 enabled 44:13 exhausted 17:2 47:1,4 48:25 34:16 45:15
+43:4,6 enactment 34:11,12 factor 6:4 36:10 50:17
+19:14 exhaustion 17:4 36:13 41:25 finally 51:14
+encompassed 34:25 51:4 find 4:17 5:14
+43:20 engaged 41:15 existed 28:10 36:16 46:14,17 48:24 49:1
+45:1 enhanced 10:12 existence 28:18 46:24 47:6,14 50:3 51:5
+23:13 entered 26:21 explain 39:21 facts 3:15,21 finding 4:7,11
+26:22 27:19 45:9 11:6,13,18 7:10,25 8:24
+15:6,9 34:8 35:14 41:19 20:12 21:12 11:4,6,24
+17:6,11 entertain 33:6 explicitly 13:12 22:19 26:19 35:14,16 36:8
+18:8 entry 34:6 51:9,19 27:17 34:7 36:9,21 38:18
+46:15 equitable 33:14 expressing 41:6 38:14,17 39:15 38:18 51:2,10
+49:10 extant 31:7 44:17,18,22 findings 11:7
+48:19 especially 13:24 extent 26:3 49:1,2,3,4,5 37:13,15 38:11
+43:6 ESQ 1:16,18,20 extra 6:10,15,19 fair 14:21 15:14 finger 16:19
+2:3,6,9,12 7:10,15 9:3 17:18 19:5 first 3:11 12:14
+45:2 essentially 16:10 18:23,24 51:2 falls 5:6 16:13,14,17
+5:15,16 51:5 Federal 19:2,18 28:12,13 29:5
+exactly 6:2,13 F 50:2 38:1 40:12
+21:10 18:16 27:4 4:17 5:1,5,8,20 felony 48:21 Fisher 1:16 2:3
+47:20 31:12,21 32:19 6:10 7:2,15 8:1 felt 39:3 2:12 3:5,6,8,24
+35:3 38:8 52:6 8:24 9:1,3,14 figure 29:22 4:14,16 5:8,21
+16:20 examples 8:17 28:4 29:3 30:7 27:5 28:18,19 10:1,8,17,25
+37:18 exception 24:14 34:7,9 35:11 29:5,8,15,18 12:3,14 13:5
+35:15 37:25 37:25 38:9,21 files 27:6,7 16:19 17:6,9
+20:16,19 46:10 49:19 guilt 11:7 48:19 home 25:18 indicate 31:25
+23:2 52:16 49:15 51:24 Honor 27:4,13indication 30:1
+26:7 guilty 24:25 27:24 28:4 inference 15:14
+28:15 G 40:12 29:6,13 30:19
+49:21,22 G 3:1 guts 21:20 22:1 31:12,22 32:3 48:23
+52:19 gatekeeping 32:7,16,19 innocence 49:15
+47:8 Gideon 48:14 14:16 16:16 37:14,19 39:2
+47:7 20:14,18 21:5 34:5 46:1 Horn 25:20,24intermediate
+40:20 52:9 hand 28:16 50:25 51:4 interpret 48:3
+24:11 given 5:2 22:6 17:10 50:7 idea 22:15 interpreted
+28:24 29:24 51:6 impact 49:2 invoke 5:14
+34:23 35:6 49:11 12:4 involve 41:23
+42:1,7 going 9:18 10:6 heard 28:16 implication 26:14 31:16,17
+17:5,19 20:15 30:3 30:23 35:8 40:8 45:8
+22:16 47:12 48:2 held 9:13 10:21 48:13,14 issued 27:23
+35:21 gotten 13:10 help 8:5 36:21 impose 3:14 J
+38:18 governing 12:8 helpful 18:4 imposed 6:2 JA 13:14,14
+39:4 34:25 23:3 24:21 JEFFREY 1:16
+51:3 greater 24:24 he'll 36:24 imposing 38:4 2:3,12 3:6
+45:25 historical 21:22 21:23 29:4 32:1,21
+guideline 41:21 history 32:5 increases 39:13 46:12
+guidelines 19:2 holding 22:1 incremental 5:4 4:10,17,21
+41:10 43:24 44:11 holistically 26:3 36:14 45:23 10:17 11:4
+17:1,6 jurist 22:4,6,8 49:20 52:1,9 legislative 19:14 21:6,15 23:22
+18:8 45:1 52:18 legislature 24:4 40:23
+19:20 jurists 43:5,18 justification 44:13
+44:7 38:4 lenient 6:4 51:4 M
+42:1 jury 3:15,22 justified 37:25 Lest 11:21 magistrate
+9:15 11:8,14 44:20,22,23 let's 15:8 23:9
+46:6
+12:2 46:22 level 11:25 majority 9:5
+51:5,9 19:11 20:13 justify 35:15 44:19
+52:1,4
+24:24 37:1,8 44:15 liability 13:1 making 50:11
+36:23 39:14,16 46:7 limit 23:15 mandatory 49:3
+40:24 52:5 K 29:23 mapped 11:22
+jury's 11:6 Kansas 20:22 limited 39:19,21 March 26:21
+40:17 justice 1:21 3:3 keep 35:25 limits 44:5 32:22 34:8
+12:15,17 5:1,8,18 6:10 14:9,14,18,22 29:24 17:4 25:11
+6:19 7:7,20 15:1 22:10,12 list 6:14 18:22
+27:9
+9:8 22:21 little 31:3 36:21 52:21
+14:1 9:12,21,25 kidnapping 6:22 52:12 matters 25:12
+15:8,9 10:4,9 12:3,22 7:3,5,6 logical 41:1,5 MATTHEW
+16:8 13:5 14:3,5,9 kind 4:16 7:6 long 52:4
+2:9 42:22
+10:1 18:14 longer 28:9 maximum 3:13
+17:1,19 15:1,20,25 36:9 48:14 LONNIE 1:3
+51:12 52:6 look 7:5,12 18:1 11:15,17 19:12
+17:8 19:3,6,21 know 3:24 15:24 18:5,5 21:5
+20:2,3
+21:4 18:4 23:24 22:3 27:14 20:10,12 21:11
+22:10,12,21 30:22,24 40:11 29:7,20,23
+24:11
+25:1,5,6 known 5:10 18:9 32:20 37:20 39:13,14 40:7
+29:9,21 25:10 26:6,11 43:18 44:17 40:7,17,18
+30:7,17 26:13 27:2,9 L 50:24,25 41:3,4
+27:22 28:1 L 1:16 2:3,12 looked 19:20 mean 6:12,20
+29:3,7,17 3:6 49:22 20:22 36:18 9:13 28:7
+32:6,13 30:14,22 31:5 label 11:15 52:3 30:21 37:14
+31:13,23 32:4 labeling 24:12 looking 7:2,3 39:7,24 40:2
+34:7,8 32:9,10,17,25 laid 3:18 11:2 9:17 12:25 47:3
+45:14,14 33:2,13,24 14:12 27:10 28:5 means 23:24
+34:17,24 35:2 language 3:23 29:3,10 32:1 39:15
+16:21,22 36:6,20 37:3,6 21:25 45:18 looks 29:21 meet 12:10
+49:25 37:11,17 38:6 late 50:19 37:22 mentioned
+38:9,11,20 law 5:9 22:18 loose 21:25 11:11 25:24
+17:4 41:5,18,19 38:15 40:11 lot 6:11 30:23 merely 42:14
+42:3,11,18,19 47:8 51:11 33:13 merits 23:10
+45:4 47:1,3,19 27:16 lower 16:4 20:16 50:1,23
+3:16 11:10,19 40:20,22 34:9,10,22 4:16
+November 1:10 42:11 43:16 51:11 predicates 34:14
+52:1 14:19 16:7 46:4
+37:24 occurred 31:11 page 2:2 3:18 petitions 14:4 preponderance
+46:6,21 34:14 12:17 27:10,14 26:14 29:18,20 42:1 48:23
+offender 37:24 27:25 29:4 30:24 49:1
+offense 38:2 37:21 46:12,23 23:18 40:3 39:13,14
+46:6,21 pages 17:10 place 52:7 Presumably
+49:13 52:4 10:6 45:8 pluck 21:17,17 prior 9:14 12:6
+once 11:16 pass 36:24 37:7 point 20:9 23:14 prisoners 45:9
+23:8 33:6 21:20 pointed 37:7 pro 50:10,20
+18:4 ones 31:4 40:14 51:24 points 38:11 29:14 45:6
+51:12 open 44:13 permissible 12:1 42:6 48:9 procedure 48:17
+26:3 51:5 11:20 18:2 permission 12:9 38:2 46:6,22 15:20 31:8
+49:9 opposed 42:14 pervasively 45:5,7 progress 33:9
+oral 1:12 2:2,5,8 petition 12:5,7,8 possible 16:25 proposed 43:25
+17:19 order 35:15 12:18,20,20 post 25:21 proved 11:8
+18:6,10 ordinary 7:18 13:9,12,25 posture 25:20 proven 6:17
+20:6 8:14 18:11,18 14:7,16 15:15 potential 12:4 provision 4:21
+23:4 20:2 30:16 16:7,9 26:15 practice 16:6 4:23
+25:3 Oregon 21:1 26:16,17,18,25 precedent 22:22 punish 7:18
+27:18,23 original 12:16 27:6,7,8 28:2,4 30:4,10,13 punishable
+rape 6:22 7:3 15:4 requires 4:7 Ring 40:21,22
+35:19 rarely 50:2,3 Recuenco 49:11 resentencing robbery 35:22
+49:2 reach 21:15 refer 41:15 31:9 46:18 Roberts 1:20 2:9
+29:23 25:13 29:24 30:5,18 Respondent 27:9,22 28:1
+30:11,15 40:2 reflected 3:15 1:19,23 2:7,10 31:23 32:4
+32:17 reading 14:13 45:17 respondents 45:4,4,7 47:2,9
+23:25 ready 15:12 regard 28:20 respondent's 50:1 52:18
+35:2 realized 21:14 regime 10:10 9:9 robust 23:20
+40:3 52:8 reinforces 51:10 responding rose 44:18
+24:10 relevant 11:23 rest 21:18,19 17:25 19:4,14
+15:4 18:1 reason 9:7 24:9 relies 49:4,6 41:11,21 48:10,11,11
+25:8 24:15 30:15 rely 44:11 46:15 resulted 32:6 49:17 52:12
+27:14 38:4 39:8 46:16,24 retained 44:6 rules 48:12
+34:4 51:20 relying 48:1,3 retroactively run 4:20 6:3 7:9
+reasonable 6:17 remainder 26:5 13:11,16,25 7:14 8:7 9:6,16
+49:19 22:5,8 43:5,18 remedies 17:2 48:8 10:19 35:18
+44:7 45:1 remedy 24:23 reversal 32:17 36:12
+36:17 render 49:13 review 13:15,22 runs 24:16
+41:22 36:14 44:19 17:15 34:25 S
+REBUTTAL reply 5:13 16:5 Revised 4:18 sake 38:21
+40:13 15:15 25:4,17 29:5 10:4 12:24
+49:5,6
+39:4,20 42:1 51:18 52:12 standing 38:3 strongly 49:16
+11:4 12:18 45:13,15,21,24 9:17 47:10 48:2 submit 13:11,23
+23:25 46:5,7,22,25 single 18:22 stands 51:7,19 18:3,7 21:13
+29:8,9 49:4,6 52:5 19:16 21:7 Stanford 1:16 22:2 24:2 45:2
+30:8,10 sentenced 24:24 41:2 start 39:10 48:10 52:17
+37:17,23 38:23,25 situation 17:23 started 35:7 submitted 9:15
+39:11 sentencer 47:21 18:3 20:1 state 6:5 9:9,20 39:14 52:19,21
+50:10 sentences 4:19 situations 9:4 11:3,15 13:6 subsequent 23:7
+34:17 7:14,18 8:7,25 22:16 18:3 21:2,5,6 subsequently
+9:6,16,23 slightly 23:6 23:5,23 37:10 29:1
+18:12 9:11 19:1,19 somebody 31:1 9:5,10 42:23 successful 16:8
+28:14,21 19:23 20:24 40:12 state's 14:7 20:8 successive 15:22
+32:13,21 23:5 36:22 sophistication 24:10,16,17 26:14,16,17
+33:1 37:23 38:3 38:12 39:1 status 19:22 28:15,19,23
+35:1 44:2,4,6,8,22 sorry 5:22 8:10 statute 4:19,19 31:19 34:1,1
+48:21 46:18,21,23 21:6 33:21 10:3 12:8 34:22 35:1
+separate 33:3,5 sort 6:11 21:24 29:22 33:6,11 sufficient 36:1
+separately 7:19 Souter 3:24 4:14 45:18,20 47:10
+6:23 7:3,23,24 6:10 7:20 9:8 20:2 23:16 49:16
+6:8,24,25 show 22:21 39:9 35:25 36:5 24:11 39:13,14 supported 43:8
+10:12,12 shows 27:25 38:6,9,20 41:5 40:6,7,16,18 supporting 1:22
+12:6,12 side 20:25 41:18 42:3,18 41:3,3 49:5 42:24
+13:8,15 significant 44:6 47:1,3,19 Stevens 8:16,21 suppose 6:21
+14:15 simple 20:1 speak 42:5 8:22 16:24 22:10
+simply 3:17 7:17 special 7:5 17:8 32:10,17 supposed 22:3
+8:10,11 9:10 specifically 40:9 32:25 36:20 25:22
+24:21 10:5 11:12,19 specified 44:12 37:6,11,17 supreme 1:1,13
+27:8,18 13:24 14:8 split 31:18 38:11 5:11,13,22
+32:1,20 16:13 18:1 spoken 47:6 Stewart 1:6 3:4 20:22,25 21:1
+19:2 20:7,9 STAFFORD 1:7 strength 51:10 21:5,6,14
+35:8,9 21:16 24:12 stand 20:24 stringent 12:10 32:14 37:10
+26:19 28:9 50:20 Stringer 22:23 sure 8:20 9:12
+31:15 38:23,24 standard 35:18 22:24 23:2 32:10 41:17
+38:5 42:13 50:24 48:24 49:1,6 strong 22:23 47:3
+20:24 50:11 told 13:12,13,21 U W
+23:6 things 33:22 15:16,17 17:11 ultimate 47:21 wait 14:20 15:12
+43:24,25 think 14:3,11,12 18:3 31:24 52:5 15:19 34:12,16
+45:12 14:21 15:3,14 traditional 40:7 underlying waived 31:15
+51:17 16:20 17:9,17 41:3 44:8 46:1 39:19 Walton 40:10,11
+52:2 19:3,5 20:19 treat 47:19,21 understand 9:13 40:25 43:18
+21:2,4 22:12 treatment 10:22 22:13 25:19 51:15,19
+44:2 24:2,13 25:4 trial 16:15 18:8 51:20 18:25 20:20
+49:7 26:1 27:13 19:20 32:16 understanding 21:5 35:6 39:6
+29:10 34:14 35:14 45:17 39:8 50:23
+19:12 37:14 38:19 48:16,21 49:9 unitary 45:14,14 Washington 1:9
+22:7 39:23 40:1,4,5 49:14,18 50:11 United 1:1,13,22 1:21 4:18,18
+37:20 40:9,19 41:18 50:14 51:9 42:23 4:23 5:3,9,11
+40:18 42:5 45:24 tries 31:16 unnecessary 5:13,22,25 6:1
+48:6 46:25 47:14 trigger 6:9 8:6 37:18 6:5,7 7:1,9,13
+33:11 thought 5:1 28:1 true 8:17,18 unreliable 49:14 36:2 43:24
+31:24 36:6 16:25 18:16 upholding 41:21 44:2,5 47:16
+thousands 29:18 trust 42:10 U.S.C 45:18 wasn't 22:15
+three 6:21,25 trying 29:20 V 46:15
+50:24 8:12 11:16 Tuesday 1:10 vacate 45:21 24:14,14,18
+36:14 42:6 turn 17:25 48:7 value 7:25 8:1 25:9,11,13,16
+thresholds 19:8 14:4 18:11 21:12 36:23 23:13,17 30:16
+49:20 26:5 28:18 46:13,16 47:11 25:20 40:10 41:20
+30:15 31:8 47:12,13,17,25 view 24:10 went 12:11
+38:11 32:22 38:2 52 37:21 46:12
+50:8 18 35:17 36:21 53 37:21 46:12
+29:3 1994 12:17,19
+41:12 13:13,16 14:24 6
+48:1,2 15:8,11 26:18 606 6:6,6
+28:9,13 29:10 7
+27:14
+26:9 15:9,13 26:21
+32:5 20 37:12 38:12
+39:19 2254(d)(1) 25:14
+2255 45:18,25
+50:5 27 35:16
+2:4 27:25
+29:4,4
+4:24
+1:5 4
+13:14 17:11
+400 4:25
+18:12 42 2:10
+1:14 3:2 482 21:20
+52:20 483 3:18 21:20
+33:15 49 2:13
+6:6,6
+27:11 29:10 5

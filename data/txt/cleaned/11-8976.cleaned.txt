@@ -1,0 +1,1871 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+CALVIN SMITH AND JOHN RAYNOR, :
+Petitioners : No. 11-8976
+v. :
+UNITED STATES :
+- - - - - - - - - - - - - - - - - x
+Washington, D.C.
+Tuesday, November 6, 2012
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 10:03 a.m.
+APPEARANCES:
+A.J. KRAMER, ESQ., Federal Public Defender, Washington,
+D.C.; on behalf of Petitioners.
+SARAH E. HARRINGTON, ESQ., Assistant to the Solicitor
+General, Department of Justice, Washington, D.C.;
+on behalf of Respondent.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+A.J. KRAMER, ESQ.
+On behalf of the Petitioners 3
+ORAL ARGUMENT OF
+SARAH E. HARRINGTON, ESQ.
+On behalf of the Respondent 29
+REBUTTAL ARGUMENT OF
+A.J. KRAMER, ESQ.
+On behalf of the Petitioners 59
+P R O C E E D I N G S
+(10:03 a.m.)
+CHIEF JUSTICE ROBERTS: We'll hear argument
+first this morning in Case 11-8976, Smith v. United
+States.
+Mr. Kramer.
+ORAL ARGUMENT OF A.J. KRAMER
+ON BEHALF OF THE PETITIONERS
+MR. KRAMER: Mr. Chief Justice, and may it
+please the Court:
+From the first Congress in 1790, Congress
+has made the decision that all Federal statutes which
+are, of course, creatures created by Congress in
+statutes, should be subject to a statute of limitations;
+in this particular case, five years. When it comes to
+conspiracy cases, as this Court said in Hyde, the
+statute of limitations is treated a little differently
+because conspiracy statutes are -- conspiracy crimes are
+continuing offenses.
+So the Court said the way we determine --
+one way to determine whether a particular defendant's
+involvement in a conspiracy has ended -- in other words,
+his membership has ended -- is by the doctrine of
+withdrawal.
+It's the statute of limitations that is the
+defense in the case. It's the doctrine of withdrawal
+that triggers -- that is the triggering event for the
+statute of limitations, which sets the date for when the
+statute of limitations starts to run. Withdrawal, in
+and of itself, is not a defense. It's the statute of
+limitations that's the defense.
+JUSTICE SCALIA: Yes, but that -- is that an
+element of the crime?
+MR. KRAMER: No. This Court has called it a
+defense in the Cook case, in the Oppenheimer case --
+JUSTICE SCALIA: It has to be raised by the
+defendant, right?
+MR. KRAMER: It does have to be raised
+initially -- I'm sorry.
+JUSTICE SCALIA: Which means it's not an
+element, so it doesn't have to be charged in the
+indictment. Now, how can something that goes to the
+existence or non-existence of an affirmative defense be
+an element?
+MR. KRAMER: Well, I don't -- it is -- it is
+not an element, I agree with that; but it is -- I would
+say that it's engrafted onto every Federal criminal
+statute by statute. This is not the common law, but by
+Congress' decision. I would also say that even though
+it's not an element of defense -- of the offense, in
+Winship, this Court referred to the fact that the
+government must prove every fact necessary to prove a
+crime beyond a reasonable doubt. It's a fact
+necessary --
+JUSTICE GINSBURG: But -- but you could
+prove the crime without a reasonable -- beyond a
+reasonable doubt, if you never raised the statute of
+limitations. And statutes of limitations exist for
+civil claims, as well as criminal claims.
+And in -- on the civil side, the statute of
+limitations is an affirmative defense. And it's up to
+the plaintiff to plead and prove -- both plead and prove
+it, both the burden of production and persuasion. Why
+should it be different on the criminal side?
+MR. KRAMER: I think several reasons. First
+of all, obviously, the burden of proof is different in
+criminal cases as the court said in Mullaney v. Wilbur.
+It has been suggested that, because of the difficulties
+in negating an argument that a homicide was committed in
+the heat of passion, the burden of proof should rest on
+the defendant.
+And they said the same may be said of the
+requirement of proof beyond a reasonable doubt of many
+controverted facts, but this is the traditional burden
+which our criminal justice system applies. I also think
+that the Court has distinguished on some grounds and is
+the civil statute of limitations from the criminal
+statute.
+In fact, in the number of cases, this Court
+has talked about the criminal statute of limitations.
+It has never referred to it as an affirmative defense.
+It has said it's a defense, but it has never said that
+the defendant is required to prove it.
+In fact, the Quick case said it's part of
+the merits of the case; although it doesn't have to be
+pleaded in the indictment, and the -- that it has to
+be -- the government has to present evidence of it and
+proof of it.
+JUSTICE GINSBURG: But you -- I think you --
+you recognized that -- that the defendant has the burden
+of production, not the government, the burden -- burden
+of coming forward with this defense and producing some
+evidence of the withdrawal.
+MR. KRAMER: Yes, Justice Ginsburg, we do
+accept that there is a burden of production, as with
+several other things that are not affirmative defenses,
+like entrapment or alibi, also have a burden of
+production before the government has to prove the
+elements of the crime beyond a reasonable doubt. So
+it's not --
+CHIEF JUSTICE ROBERTS: Mr. -- I'm sorry.
+I'm sorry. Finish your answer.
+MR. KRAMER: It's -- it's not dissimilar to
+those in that respect, and it does go to negate an
+element of the crime. In -- in the conspiracy statute,
+the membership in the conspiracy is an element of the
+crime. Withdrawal negates that element of the crime.
+JUSTICE GINSBURG: Not -- only for the later
+period. It doesn't negate that this person was once a
+member of the conspiracy. The government has the burden
+to show membership, and it did. So it's not -- it
+doesn't reach back to negate that there was membership
+at some time. It just says, after withdrawal, we no
+longer prosecute.
+MR. KRAMER: That's true. What it does is
+extinguish liability for that offense past that time if
+the statute of limitations has -- if withdrawal occurs
+before the statute of limitations, someone can no
+longer, as the statute says, "be prosecuted, tried, or
+punished."
+JUSTICE SOTOMAYOR: Isn't that like an
+amnesty? Isn't that how you described it in your brief?
+MR. KRAMER: There are some cases that call
+it an amnesty. Some cases call it an extinguishment of
+liability.
+JUSTICE SOTOMAYOR: What's the difference
+between the two, in your mind, that makes it an element
+of the crime or a negation of some element of the crime?
+MR. KRAMER: In a conspiracy, there's the
+conspiracy that -- the government has to prove,
+obviously, the conspiracy itself, which is an agreement
+between -- it can be anyone. And then they have to
+prove the defendant's membership in that conspiracy.
+JUSTICE SOTOMAYOR: So you're a member, you
+are liable for all the foreseeable acts of your
+co-conspirators, whether or not you knew they were going
+to happen, so long as they were foreseeable?
+MR. KRAMER: Yes. Under Pinkerton, yes.
+JUSTICE SOTOMAYOR: And you can be liable
+for as long as you stay, until you prove you withdrew?
+MR. KRAMER: Until --
+JUSTICE SOTOMAYOR: And that extinguishes
+your liability for the continuing conspiracy?
+MR. KRAMER: I would say until you produce
+evidence that you withdrew, yes. And then the
+government has to prove that you were still a member of
+the conspiracy within the statutory limitations period.
+JUSTICE SOTOMAYOR: Why?
+MR. KRAMER: This Court has never said in
+Hyde --
+JUSTICE SOTOMAYOR: The why is, once you've
+joined, you're trying to extinguish liability. Why
+would the government have to prove that you're entitled
+to amnesty or not entitled to amnesty?
+MR. KRAMER: It -- I think, Justice
+Sotomayor, that it's really no different than if the
+government has to prove you guilty of a crime in the
+first place. They have to prove that you committed the
+offense. The statute of limitations, which is, as I
+said, engrafted on every Federal criminal statute --
+almost every statute --
+CHIEF JUSTICE ROBERTS: Well, your argument
+basically reduces to the fact that, when it comes to the
+statute of limitations, you treat the conspirators as
+individuals, rather than as members of the conspiracy.
+MR. KRAMER: Yes.
+CHIEF JUSTICE ROBERTS: Yes, well, that's
+not true with respect to other aspects of the
+conspiracy. If members of the conspiracy commit a
+murder, and it was anticipated and all that, the person
+that has nothing to do with that, other than being a
+part of the conspiracy, is liable -- criminally liable
+for that as well. Why is there a special rule for
+statutes of limitations? Well, why is he treated as an
+individual, rather than a member of the conspiracy in
+that respect?
+MR. KRAMER: Well, he would be treated
+for -- for the withdrawal purpose. If he withdrew, he
+would also not be liable under Pinkerton. There is a
+membership element component of Pinkerton as well, for
+Pinkerton liability.
+CHIEF JUSTICE ROBERTS: No, my point is
+that, once you prove the conspiracy, a member who
+doesn't -- that doesn't actually participate in the
+activities of the conspiracy, is still responsible for
+them. So it makes sense to say you can prove the
+statute of limitations with respect to the conspiracy,
+not with respect to each individual.
+MR. KRAMER: Well, I think, actually, it's
+just the opposite. If -- under -- under Grunewald, the
+government -- if the defense -- if the claim of
+termination is raised, the government has to prove that
+the conspiracy continued into the limitations period and
+that there was an overt act -- that was an overt act.
+JUSTICE KENNEDY: But what the Chief Justice
+indicates, it seems to me, is that if we accept your
+view, then there is going to be a different statute of
+limitations for each member of the conspiracy. And so
+you have four or five different statute of limitations.
+I find that -- I find that puzzling.
+MR. KRAMER: Well, actually, in this case,
+there was different statutes of -- I believe there were
+three different statute of limitations that the district
+court instructed the jury about because there were
+superseding indictments and people were indicted at
+different times.
+So there were already, in this case,
+different statute of limitations. But if one of the
+reasons for withdrawal is to encourage people to get out
+of the agreement, Justice Kennedy, then -- and try to --
+try to thwart the agreement, then people may have -- may
+come in and leave at different times during a
+conspiracy.
+JUSTICE BREYER: What is -- is there any --
+I'm trying to find an analogous instance without the
+statute of limitations. And what occurred to me, just
+as an example, that you might have in your practice
+found a different one, the Thomas Crown Affair. Say
+that he robs the bank or the art museum, but he has an
+intent to return it, and he produces evidence that he
+had an intent to return.
+Now, in such a case, once he produces the
+evidence, does the government have to prove beyond a
+reasonable doubt that he didn't have an intent to
+return? Or does he -- is there any instance in which
+the burden of persuasion shifts? Do you see what I'm
+driving at?
+MR. KRAMER: I do, and I think that there --
+that an argument can be made if the intent -- if one of
+the elements of that offense is to deprive the owner
+permanently of the property and he did not have that
+intent, the government would have to prove what it would
+have to prove originally, which is that he intended to
+deprive the -- the owner --
+JUSTICE BREYER: So you have never found a
+case -- I will ask the government this -- in the
+substantive criminal law, no matter what, who is -- even
+if the defendant is the only one ever likely to know
+anything about it, you've never found a case where, once
+the burden's produced, the -- the burden of persuasion
+remains on the defendant?
+MR. KRAMER: That the burden of persuasion
+remains on the defendant?
+JUSTICE BREYER: Yes, because you agree the
+defendant has the burden of production here.
+MR. KRAMER: Yes.
+JUSTICE BREYER: And so I was trying to
+think of some instance -- as I said, I would be
+repeating myself -- I'm looking for any instance in
+which, leaving the statute of limitations out of it, the
+burden of persuasion shifts to the defendant. So I'm
+saying, did you ever find one? The Thomas Crown Affair
+or some other instance, and your answer is, no, you
+never have heard of it.
+MR. KRAMER: Well, I guess --
+JUSTICE BREYER: Have you heard of it? So
+what?
+MR. KRAMER: Self defense and duress, as the
+Court said in Dixon, dealing with duress, because it did
+not negate the elements of the offense, it was an
+affirmative defense that excused --
+JUSTICE BREYER: Well, this is not -- this
+does not negate the elements of the defense -- this does
+not negate the elements of the crime.
+MR. KRAMER: If it doesn't negate the
+elements of the crime, I would say then this Court has
+classified it as an affirmative defense.
+JUSTICE BREYER: All right. Well, then if
+that's so, if it's an affirmative defense and if
+sometimes where it doesn't negate the elements of the
+crime the burden of persuasion remains on the defendant,
+then why shouldn't it here? Because he's the one most
+likely to know.
+MR. KRAMER: Well, I don't think, first of
+all --
+JUSTICE BREYER: And how do you prove it?
+MR. KRAMER: -- that the government has
+shown -- well, first of all, they -- they have to prove
+nothing more than what they would have to prove
+originally, that the defendant was joined -- knowingly
+and willfully joined the conspiracy.
+JUSTICE GINSBURG: But you -- you would have
+the government prove that twice. They prove his
+membership in the conspiracy. And then you say, once he
+alleges that he withdrew, they have to prove it again.
+MR. KRAMER: No, they would not have to
+prove that twice. They could just rest on what they had
+done originally. The -- the burden of production on the
+withdrawal, the government could just say to the jury
+that that's nonsense, there is no reasonable doubt here.
+We've proved that he was a member. There is a
+permissive inference that he's still a member within the
+limitations period. They would not have to prove it
+twice. They could rest on what they had done
+originally.
+It's very simple for them, however, to rebut
+this evidence.
+JUSTICE GINSBURG: What would you -- what
+would you have to produce to get over your threshold of
+satisfying the burden of production?
+MR. KRAMER: Well, it's -- it's actually, I
+think, a quite high burden of production. You would --
+the defendant -- in most cases, I would think the
+defendant himself would have to testify, which, of
+course, subjects him to extensive cross-examination on
+everything.
+He can -- of course, cannot call his
+co-conspirators as witnesses. He might be able to
+present third-party evidence which, again, would be
+subject to cross-examination. But he has to show that
+he took some -- produce evidence that he took some
+affirmative act to disavow --
+CHIEF JUSTICE ROBERTS: Well, that's why
+it's very difficult to put the burden on the government,
+because the people -- he says, well, I told so-and-so
+I'm out of this business, I'm not going to do it
+anymore. And so the government, if they had the burden
+of proof, would say, well, I don't think that's true, I
+want to call the person you -- you talked to.
+And the person says, well, I'm not going to
+testify because I take my rights under the Fifth
+Amendment. There is no way the government -- in many
+cases, there would be no way the government can carry
+this burden of proof.
+MR. KRAMER: No, I disagree with that. I
+think, in every case, it would actually be fairly simple
+for them. If the defendant can't call that person to
+support his defense, the government could just say,
+well, you didn't hear any testimony from that person
+supporting the defense. That's enough right there to
+meet our burden.
+The government, as in this case, had
+extensive cooperating witnesses, had wiretaps, had
+documentary evidence --
+JUSTICE BREYER: They often do. I just want
+to go back, get the complete -- insofar as you can help
+with this.
+All right. Let's take duress or
+self-defense. The government shows all the elements of
+murder. Then the defendant comes in and says, I have
+evidence here that it was under duress or evidence that
+it was self-defense. Then to prevail, what's the
+standard of persuasion? How does it work?
+Is it then that -- is it that the defendant
+must show more likely than not? Or is it the defend --
+that I was defending myself? Or is it that the
+government -- how does it work? What's the rule?
+MR. KRAMER: The defendant -- as I
+understand it, the defendant has to -- and, of course,
+it could vary by state.
+JUSTICE BREYER: Yes, of course. Of course.
+MR. KRAMER: The states may put different
+burdens. In the Federal system --
+JUSTICE BREYER: Yes, yes.
+MR. KRAMER: -- the defendant has the
+burden, by a preponderance, to prove the duress defense
+or the self-defense defense.
+JUSTICE BREYER: All right. Well, that's --
+well, then their point is, well, this is awfully
+similar.
+MR. KRAMER: It's not, though, in the sense
+that the only thing that connects an individual
+defendant to a conspiracy is that defendant's
+membership, knowing and willful participation in the
+conspiracy.
+JUSTICE BREYER: The fact that there is a
+statute of limitations makes your case weaker, not
+stronger, because -- because the statute of limitations
+is less directly connected to the elements of the -- the
+offense than is self-defense or duress.
+MR. KRAMER: I actually think it makes it
+stronger, in the sense that Congress has made this
+choice to require that every crime be proved to have
+been committed within the statute of limitations.
+JUSTICE SCALIA: Well, you say that you --
+you have to prove that the defendant was knowing and
+willfully a member of the conspiracy, right?
+MR. KRAMER: That was the --
+JUSTICE SCALIA: That's what you said?
+MR. KRAMER: That was the jury instructions
+in this case.
+JUSTICE SCALIA: Well, and you agree that
+that's the rule of law, right?
+MR. KRAMER: Yes.
+JUSTICE SCALIA: Doesn't duress eliminate
+willfully?
+MR. KRAMER: The Court said, in Dixon -- it
+might, to my thinking, but the Court said, in Dixon,
+that it did not negate any of the elements of the
+offense, that the -- that she had to do the acts
+knowingly and willfully in Dixon and that it did not
+negate those elements.
+JUSTICE SCALIA: So why is that different
+from this? If that's not an element, for Pete's sake,
+even though the definition of the crime is knowingly and
+willfully, and yet, nonetheless, that's -- that's an
+affirmative defense, why -- why is that any different
+here?
+MR. KRAMER: Because the only way a
+defendant can prove -- the way a defendant shows that he
+withdrew is to produce evidence of withdrawal. That is
+inconsistent with the fact that he is a member --
+necessarily negates the element of membership in the
+conspiracy. If he withdrew, he cannot, at the same
+time, be a member of the conspiracy.
+JUSTICE ALITO: Well, I'm having trouble
+understanding how your argument would work. Let's say
+that the -- the defense calls a witness other than the
+defendant to testify to a conversation in which the
+defendant allegedly withdrew from the conspiracy and, by
+doing that, satisfies its burden of production.
+Now, you say the government has the burden
+to prove beyond a reasonable doubt, not only that this
+conversation didn't occur, but also, that the defendant
+never withdrew at any other time during the limitations
+period. Isn't that where your argument would lead?
+MR. KRAMER: No, I don't think they have to
+disprove the conversation. All they have to prove is
+what they had to prove originally, which is that the
+defendant was a member of the conspiracy within the
+limitations period, by any kind of evidence.
+JUSTICE ALITO: But how can they prove that
+he did not withdraw at any other time during this
+conspiracy?
+MR. KRAMER: Well, as in this case, they had
+a number --
+JUSTICE ALITO: During the statute of
+limitations.
+MR. KRAMER: As in this case, they had a
+number of cooperating witnesses who testified about
+Mr. Smith's actions. They could ask them, did the
+conspiracy -- did Mr. Smith continue to participate, was
+he involved, did he withdraw, any --
+JUSTICE ALITO: Aren't you transforming
+the -- the nature of withdrawal? You are seeming to
+argue that the government has to prove, beyond a
+reasonable doubt, active participation in the conspiracy
+during the statute of limitations period, rather than
+the -- the affirmative withdrawal from the conspiracy.
+MR. KRAMER: No. I don't mean to imply
+active participation, if that means an overt act. It
+can just be -- the government could simply rest upon the
+inference from Hyde that the defendant had been a member
+outside the limitations period and their continued
+participation is inferred. That's overcome when the
+defendant produces evidence of withdrawal. So --
+JUSTICE GINSBURG: What -- what evidence of
+withdrawal did you produce in this case?
+MR. KRAMER: In this particular case, it was
+the -- well, it was the jury that actually called the
+issue to the attention of everybody in the first place,
+by sending out a note saying that, if we -- the
+conspiracy continued, but we think a defendant left,
+must we find him not guilty?
+There was a number of pieces of evidence,
+primarily that he was incarcerated for over six years
+before the indictment --
+JUSTICE SCALIA: That doesn't prove that he
+withdrew.
+JUSTICE GINSBURG: But you -- you agree --
+you agree that that would not have necessarily meant
+withdrawal?
+MR. KRAMER: No, there are some circuit
+cases that say that alone may be enough, but there was
+more in this case. In this particular case, one witness
+said he recalled -- he did not recall any contacts
+between Kevin Gray, who was the ringleader, after the
+arrest.
+Another said that Mr. Smith was mad at
+Mr. Gray for not sending any money. They weren't
+communicating with him. Another witness -- there was
+testimony from another witness that Mr. Smith refused to
+comply with an order that Mr. Gray sent to him.
+So there were --
+JUSTICE SCALIA: Which -- which of those are
+affirmative actions? I mean, the law is that he has to
+take an affirmative action withdrawing from the
+conspiracy. I don't think being in jail is -- is an
+affirmative action. I don't think being mad at the
+ringleader is an affirmative action. I don't think any
+of the things you've said amount to an affirmative
+withdrawal from the conspiracy.
+MR. KRAMER: Whatever that may be, it's not
+an issue in this case, in the sense that the government
+is actually the one who requested that the district
+court give the withdrawal instruction after the jury's
+note.
+JUSTICE SCALIA: Maybe not, but it -- it may
+mean that we are wasting our time.
+MR. KRAMER: I think that whether this
+qualified as affirmative acts or not is, in a sense,
+irrelevant to the question before the Court because,
+after the jury's note came out, the government itself
+requested the withdrawal instruction. And the
+government not only requested the withdrawal
+instructions, but said, we have no objection to placing
+the burden on us beyond a reasonable doubt, if that's
+what the defense wants.
+JUSTICE KAGAN: Mr. Kramer --
+CHIEF JUSTICE ROBERTS: I'm -- I'm having
+trouble understanding how this works. You said a while
+ago that the government has -- doesn't have to do
+anything? In other words, he puts on -- he says, I
+withdrew. And I told this -- the head of the conspiracy
+that I wanted no more part of it. And the head of the
+conspiracy says, well, I'm not going to testify.
+And then the government doesn't have to do
+anything?
+MR. KRAMER: The government can just say --
+they can rest on the fact that the proof outside the
+membership period and rest on the inference from Hyde
+that his membership continued.
+CHIEF JUSTICE ROBERTS: Well, how is that --
+how is that carrying the burden that you say is on it to
+prove the absence of withdrawal beyond a reasonable
+doubt? It seems to me that, if the government just sits
+there and doesn't say anything, they'll never be able to
+carry their burden.
+MR. KRAMER: I think -- I think they can by
+just saying to -- well, I don't think they have a burden
+to prove the absence of withdrawal. They have the
+burden to prove membership within the limitations
+period.
+CHIEF JUSTICE ROBERTS: Yes, but they've
+already done that. That's --
+MR. KRAMER: Within the limitations -- his
+membership within the period. So they can just say to
+the jury, look, this evidence of withdrawal is nonsense,
+you've heard the testimony, we've cross-examined him, it
+makes no sense.
+CHIEF JUSTICE ROBERTS: No, no, no. My
+hypothetical is, because we are talking about the
+criminal conspiracy, and the idea is did he tell those
+people he was out, they're probably going to say, I'm
+not going to testify.
+And so -- and you say, well, the government
+still doesn't have to do anything. It seems to me that
+you can't say that they've carried their burden of proof
+beyond a reasonable doubt, if they have nothing to say
+about an issue as to which you say they have the burden
+of proof.
+MR. KRAMER: Well, I think it's up to the
+jury whether to believe that evidence or not. And I
+don't think the government has to prove --
+CHIEF JUSTICE ROBERTS: Believe what
+evidence?
+MR. KRAMER: The -- the evidence that was
+produced by the defendant that he actually told somebody
+he --
+CHIEF JUSTICE ROBERTS: But there can't be
+any evidence because nobody is willing to testify
+under -- because they invoked their Fifth Amendment
+rights.
+MR. KRAMER: Oh, I'm sorry. I thought the
+defendant had testified to that effect, that he -- if
+there is no evidence, there is nothing for the jury.
+There is no -- if there's -- the defendant has not
+produced any evidence of withdrawal, then there
+is nothing --
+CHIEF JUSTICE ROBERTS: Okay. Well, if the
+defendant does testify, and he says, I told the
+ringleader I want out, is an attack on his credibility
+sufficient to prove the absence of withdrawal beyond a
+reasonable doubt?
+MR. KRAMER: Absolutely. And it happens all
+the time in trials, that the government relies upon the
+fact of a witness' unreliability and what happened on
+cross to say that they proved their case beyond a
+reasonable doubt. They don't have to prove anything
+they didn't have to prove originally in this case. In
+fact, it may be easier because it's within the
+limitations period.
+JUSTICE SCALIA: They didn't have to prove
+within the limitations period. They didn't have to
+prove that. You acknowledged that that the -- look,
+what's at issue here is not a defense of withdrawal.
+It's the defense of the statute of limitations, right?
+MR. KRAMER: Yes.
+JUSTICE SCALIA: You acknowledge that that
+is an affirmative defense. And you are arguing that
+what establishes that affirmative defense in this case,
+namely, withdrawal, is an element. How -- how can
+something that is -- that does nothing more than
+establish an affirmative defense be an element?
+MR. KRAMER: I --
+JUSTICE SCALIA: I can't understand that.
+Can you give me any other example in the criminal law
+where -- where --
+MR. KRAMER: I mean, an alibi -- alibi or
+entrapment negate elements are not affirmative defenses.
+If an alibi -- the defense is what -- and what could
+happen in any case --
+JUSTICE SCALIA: But that's not an
+affirmative -- I want an example of something which is
+an affirmative defense and where the proof of that
+affirmative defense becomes an element.
+MR. KRAMER: I may have given the wrong
+impression. I don't classify the statute of limitations
+as -- as an affirmative defense, nor has this Court ever
+done it.
+JUSTICE SCALIA: Why doesn't it have to be
+contained in the indictment, if it's an element?
+MR. KRAMER: It's not -- well, it's not an
+element. But in Grunewald, this Court said --
+JUSTICE SCALIA: Why is it up to the
+defendant to raise it, if it's an element?
+MR. KRAMER: I think, in Ledbetter, this
+Court said that, although there doesn't have to be a
+date in the indictment, the government -- it's
+sufficient if the government proves a date before the
+indictment within the limitations period, this Court
+specifically referred to in Ledbetter, which is at page
+21 of our brief.
+So I don't -- I may have given a wrong
+impression. This is not an affirmative defense. An
+affirmative defense does not --
+JUSTICE SCALIA: Okay. That at least is
+logical. I'm not sure it's right. But it's logical.
+MR. KRAMER: Well, I'm halfway there.
+(Laughter.)
+JUSTICE SOTOMAYOR: I actually thought your
+stronger argument in your brief was in trying to explain
+why it negated an element. I think what you said in
+your brief -- and you haven't made it here yet, as
+clearly -- was that, if he wasn't willingly
+participating during the statute of limitations, then he
+hadn't committed the actual crime.
+MR. KRAMER: That is -- that is the heart of
+our argument, that it negates the element of membership
+within the statutory period, which is what the
+government has to prove. And I'm sorry if I did not
+make that clear.
+But the element that's at issue, that the
+statute of limitations negates, is membership within the
+statute -- membership in the conspiracy, knowing and
+willful participation --
+JUSTICE SCALIA: But the government doesn't
+have to prove within the statutory period. It's up to
+the defendant to raise that defense, and if he doesn't
+raise it, it's waived.
+MR. KRAMER: Well, I think it is up to the
+government to prove it. It may be that if -- this Court
+has never said a defendant waives it by not raising it.
+But I -- I think the government has to prove it in every
+case. It may be waived.
+Some circuits have said it's waived. This
+Court has not said so.
+I would like to reserve the remainder of my
+time for rebuttal.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Ms. Harrington?
+ORAL ARGUMENT OF SARAH E. HARRINGTON
+ON BEHALF OF THE RESPONDENT
+MS. HARRINGTON: Thank you,
+Mr. Chief Justice, and may it please the Court:
+The Due Process Clause does not require the
+government to disprove withdrawal outside the
+limitations period because lack of withdrawal is not an
+element of the crime of conspiracy. This Court has been
+clear that the Winship burden attaches only to things
+that are elements in the constitutional sense. And when
+something is an element in the constitutional sense,
+then at least four consequences follow.
+As the Court has suggested, first, the
+government has to allege in the indictment in every
+case. Second, the -- the government has to prove it in
+every case. Third, the jury has to be instructed on it
+in every case. And fourth, a defendant can't waive the
+requirement that it be proved in his case by failing to
+raise it.
+But none of those things apply as to a
+statute of limitations --
+JUSTICE KAGAN: Ms. Harrington --
+JUSTICE BREYER: This is true, but his
+point -- basic point -- and he has responded to the
+points I've made, is that, of course, if there's a
+five-year statute on robbery, it doesn't help the
+government that he create -- he committed a robbery
+before.
+MS. HARRINGTON: Correct.
+JUSTICE BREYER: All right. So he's saying
+what you charged in the indictment is that he was a
+member of a conspiracy that existed between 1995 and
+2005. Now, that's the crime that concerns us, roughly.
+And he is saying, to prove your case, you have to show,
+as an element, that he was a member.
+Now, you did present some evidence that he
+was a member. And he wants to present some evidence,
+and has, that he wasn't a member. And he wasn't a
+member if he withdrew. And therefore, once he presents
+enough to get -- make that an issue, you have to prove
+beyond a reasonable doubt that he was a member. So you
+have to show he didn't withdraw.
+Now, this has nothing to do with the statute
+of limitations. By coincidence, it does. But a statute
+of limitations issue would be that you all agree that he
+withdrew, but the question is did it happen in 1993 or
+1997? That's a statute of limitations issue, but this
+isn't.
+This is a question of whether he was a
+member of the conspiracy during the time period that you
+charged in the indictment. That's his point. So what
+is the response?
+MS. HARRINGTON: So I guess I have two
+responses. The first is that it is a statute of
+limitations question, in the sense that the government
+proved -- and there is no dispute about this -- that the
+conspiracy that was charged did exist within the
+limitations period. And so the question is just did
+this particular member of the conspiracy --
+JUSTICE BREYER: Well, in other words, you
+can charge me or anybody in the audience or anybody here
+with what? Not charging them? You are saying there was
+a conspiracy? Doesn't he have to be shown to be a
+member of the conspiracy in order for you to get a
+conviction?
+MS. HARRINGTON: He does, and there's no --
+JUSTICE BREYER: And that's an element of
+the crime?
+MS. HARRINGTON: And an -- but when
+Petitioner talks about the membership or participation
+element, what he is really talking about is the
+agreement element. The government has to prove that
+each defendant who is charged with a conspiracy
+intentionally agreed to join the conspiracy. And there
+is no dispute that the government proved that with
+respect to Petitioner in this case --
+JUSTICE BREYER: There is no more relevance,
+is there, to the fact that there happened to be a
+pre-1995 conspiracy, except as a matter of proof -- I
+shouldn't say relevance -- that he happened to rob a
+bank before 1995? I mean, in each instance, there was
+criminal activity before 1995.
+Now, you can use that in order to prove that
+he was a member during '95 to 2000. That, I see. But
+he, similar, can use the matter of withdrawal to prove
+he wasn't a member during 1995 to 2000. And, therefore,
+it goes to show whether you or the government have
+proved an element of the offense, namely, that he was a
+member between '95 and 2000.
+MS. HARRINGTON: But, again, the element is
+agreement, right? So we prove that he agreed to join
+the conspiracy, and we proved that each defendant agreed
+to join the conspiracy. We don't have to prove that
+that agreement happened in the limitations period, as
+long as we prove that the conspiracy continues to --
+JUSTICE KAGAN: So how do we tell that,
+Ms. Harrington? Because it seems to me that the crux of
+the difference between you and your friend is that you
+say the element is membership in the conspiracy at some
+point, it doesn't matter whether it's in the limitations
+period. And he says the element is membership in a
+conspiracy in the limitations period. And if he's
+right, a set of things follow from that; and if you are
+right, another set of things follow.
+So how do we determine that the -- you know,
+that the statute of limitations -- that the timing
+question is not baked into the elements question, that
+it's just membership sometime, as opposed to membership
+at a particular time?
+MS. HARRINGTON: Well, we know it's not an
+element for the reasons I explained because it doesn't
+have to be charged in the indictment, it doesn't have to
+be proved in every case, the defendant can waive it. So
+it's not an element in the constitutional sense, for all
+of those reasons.
+We can also tell that, in the specific
+conspiracy context, it's not an element because this
+Court's decision in Hyde from 1912. In that case, the
+defendant, Mr. Schneider, who had raised the statute of
+limitations defense, had not done anything to
+participate in the charged conspiracy within what was
+then a three-year statute of limitations period.
+The jury was charged, he didn't do anything,
+the court said he didn't do anything. The court said,
+it's fine, he's still a member of the conspiracy because
+he has not taken an affirmative act to withdraw from the
+conspiracy.
+So that's how we know that some sort of
+active membership isn't an element of the crime, as long
+as the government has proved, beyond a reasonable doubt,
+that -- that the defendant joined the crime at some
+point and that the -- joined the conspiracy -- excuse
+me -- at some point, and that the conspiracy continued
+to exist in the --
+JUSTICE SCALIA: Did the government charge
+in the indictment that the conspiracy existed during
+this five-year period?
+MS. HARRINGTON: Yes.
+JUSTICE SCALIA: During the particular
+five-year period.
+MS. HARRINGTON: Yes.
+JUSTICE SCALIA: Did it have to do that?
+MS. HARRINGTON: It did not have to do that,
+but there's no dispute --
+JUSTICE SCALIA: And if it did not have to,
+it would have been up to the defendant to say, the
+statute of limitations runs on my participation, right?
+MS. HARRINGTON: Right. And, to be clear,
+I'm not sure it specifically used that phrase, but it
+charged -- it charged overt acts that were part of the
+conspiracy that happened within the five-year period.
+JUSTICE SCALIA: But it -- it didn't say the
+conspiracy only existed within that five-year period?
+MS. HARRINGTON: I'm not sure what -- I'm
+not sure exactly the language that is used in the
+indictment, but it --
+JUSTICE SCALIA: Well, let's assume it did.
+Would -- would -- let's say, in a burglary indictment --
+let's say the burglary occurred seven years ago, and
+there is a five-year statute of limitations. If the
+indictment just -- just accuses the individual of
+conducting a burglary seven years ago, is that -- is
+that indictment invalid?
+MS. HARRINGTON: This Court -- this Court
+has held since the Cook case that the -- the government
+does not have to charge that -- the satisfaction of the
+limitations period in the indictment.
+JUSTICE SCALIA: So it's -- it's up to the
+defendant to say, no --
+MS. HARRINGTON: It's up to the defendant --
+JUSTICE SCALIA: -- seven years is too long.
+MS. HARRINGTON: -- to raise it, right.
+JUSTICE SCALIA: So I guess the issue here
+is whether the government's statement that the
+conspiracy existed within this five-year period causes
+that to be an element of the crime?
+MS. HARRINGTON: But I think this Court has
+been clear, that it doesn't cause it to be an element of
+the crime. I mean, back as far as the Cook case, the
+Court said that it doesn't have to be -- timing is not
+an element -- is not of the essence of these crimes.
+And so it doesn't have to be charged in the indictment.
+And, again --
+CHIEF JUSTICE ROBERTS: But what if it is?
+MS. HARRINGTON: But what if it is? Of --
+CHIEF JUSTICE ROBERTS: If it is charged in
+the indictment?
+MS. HARRINGTON: Then that doesn't -- that
+doesn't cause it to be an element of the crime. I
+think, again, there is no dispute in this case that the
+government proved that the conspiracy did exist within
+the limitations period. I don't think Petitioner is
+contesting that. What he is saying is that he wasn't a
+part of that conspiracy within the limitations period.
+CHIEF JUSTICE ROBERTS: What he's saying is
+that it wasn't proven to be within the limitations
+period with respect to him.
+MS. HARRINGTON: That's true, but
+once the -- it's true that that's his argument. But
+once the government has proved that he willingly joined
+the conspiracy, which it did in this case, then the law
+presumes that every person who has willingly joined the
+conspiracy remains a member of an ongoing conspiracy,
+unless or until he takes some affirmative action to
+withdraw from the conspiracy.
+JUSTICE BREYER: I mean, I am looking at it
+as a puzzle here because I think you could look at it
+either way. I mean, if a person commits a burglary and
+the indictment charges that, and he says, yes, I did, I
+did, there is no doubt about all the elements being
+satisfied, but it happened outside the limitation
+period. That's in the statute of limitations area.
+But where you charge a conspiracy taking
+place within a period of time, as I would think you
+usually would -- I would think the -- those words on the
+paper almost always have a date in them -- then you
+could look at it as a question of membership in that
+conspiracy, the one that's charged, in which case, it's
+a question of the elements.
+And then, if you're in doubt as to whether
+or not the time that he withdrew was inside or outside
+the period, that becomes a limitations question.
+MS. HARRINGTON: But it can't --
+JUSTICE BREYER: And then I'm -- I'm sort
+of -- I'm torn here. I actually can see it either way.
+MS. HARRINGTON: I mean, I think it can't be
+an element of the crime because, if the defendant
+doesn't raise it, the government doesn't have to prove
+it or disprove it, depending on how you look at it.
+So --
+JUSTICE BREYER: No, that isn't true. You
+have to prove membership.
+MS. HARRINGTON: Well, you have to prove
+membership --
+JUSTICE BREYER: And it happens, in this
+instance, that you bring in a prima facie case. I'd be
+repeating myself. And that he says withdrawal, and
+withdrawal is designed to negate membership.
+MS. HARRINGTON: But withdrawal does not
+negate membership because, again, membership is really
+just the agreement. And, in fact, a withdrawal defense
+tends to confirm that a particular defendant agreed to
+join a conspiracy because there is nothing to withdraw
+from if he didn't join --
+JUSTICE BREYER: But then the withdrawal
+prior to the time charged negates membership in the
+conspiracy that you have charged because there was no
+membership during that time.
+MS. HARRINGTON: It's true, but the
+government has to prove that the defendant joined the
+conspiracy and the conspiracy continued to exist. And
+to bring you back to the Hyde --
+JUSTICE SOTOMAYOR: Counsel, in a normal
+case, where it's a robbery or burglary, whatever, you
+charge the crime happened in X date, and the defendant
+raises an affirmative defense that it's not within the
+statute of limitations. Who bears the burden of proving
+it does, in that situation?
+MS. HARRINGTON: This Court stated, in
+Grunewald, that the government bears the burden.
+JUSTICE SOTOMAYOR: All right. So, if you
+bear the burden in the normal statute of limitations
+case, the issue, I think, in my mind, becomes do you
+continue to bear that burden in a conspiracy crime?
+MS. HARRINGTON: Yes.
+JUSTICE SOTOMAYOR: Because -- and you still
+have to prove -- you're saying that the elements of the
+statute of limitation there are that there was an
+agreement to commit a crime, this person joined it at
+any time during the conspiracy, and the conspiracy
+continues.
+MS. HARRINGTON: Right.
+JUSTICE SOTOMAYOR: You don't have to prove
+that the defendant was part of that conspiracy or joined
+that conspiracy during the statute of limitations;
+that's your point.
+MS. HARRINGTON: We don't have to prove that
+he -- that the agreement happened in the limitations
+period or that any particular defendant did something to
+sort of re-agree within the limitations period. And
+that, again, is clear from this Court's decision in
+Hyde, where, in that case, the defendant raising the
+limitations defense had not done anything related to the
+conspiracy within the limitations period.
+JUSTICE SOTOMAYOR: I think his intuitive
+argument is, I can't be responsible for a crime I wasn't
+a part of during the limitations period. That really is
+the essence of his argument. And if it's your job to
+prove that he committed the -- a robbery during the
+limitations period, that it's your job to prove that he
+committed the conspiracy during -- that he was part --
+that the conspiracy -- that he was part of the
+conspiracy during the limitations period --
+MS. HARRINGTON: Well, what the statute --
+JUSTICE SOTOMAYOR: I think that -- that's
+the simplicity of his argument.
+MS. HARRINGTON: It -- that is the
+simplified version of his argument. I think, if you
+look at --
+JUSTICE SOTOMAYOR: So simplify your
+response to me.
+(Laughter.)
+MS. HARRINGTON: Okay. Well, if you look at
+Section -- if you look at Section 3282, which is the
+statute of limitations, it says that the crime --
+JUSTICE SOTOMAYOR: That's not a simple
+response.
+(Laughter.)
+JUSTICE SOTOMAYOR: You are already way too
+fast.
+MS. HARRINGTON: What we have to prove is
+that the crime was committed within the limitations
+period. We proved that the crime was committed within
+the limitations period because the conspiracy existed in
+the limitations period. By operation of law, anyone who
+has willingly joined the conspiracy at some point
+remains a member of the conspiracy, unless or until he
+takes an affirmative step to withdraw.
+JUSTICE KENNEDY: Isn't it essential to your
+argument that the very definition of a conspiracy is a
+crime that continues over time?
+MS. HARRINGTON: Absolutely. The way the
+statute of limitations defense operates within the
+conspiracy context is it asks the question whether and
+when a conspiracy was complete. But -- but the
+affirmative defense of withdrawal is actually an
+affirmative defense, even within that affirmative
+defense, because it asks the question whether a
+conspiracy was complete as to a particular defendant.
+And to take advantage of that affirmative --
+affirmative defense within an affirmative defense, the
+defendant has to take some affirmative act. And it
+makes sense to require him to prove that he took those
+acts.
+JUSTICE SCALIA: I wish I had -- we had the
+supervening indictment before us. It's -- it's not in
+the Joint Appendix.
+MS. HARRINGTON: It's very long.
+JUSTICE SCALIA: But it -- it's described in
+the Court of Appeals opinion as follows: "According to
+the indictment in the district court and the evidence of
+the United States at trial, during the late 1980s and
+1990s, appellants Rodney Moore, Kevin Gray, John Raynor,
+Calvin Smith, Timothy Handy, and Lionel Nunn, along with
+others, some of whom were also indicted, but tried
+separately, conspired to conduct and did conduct an
+ongoing drug distribution business in Washington."
+So apparently, according to that
+description, it -- it was not charged as a conspiracy
+during those five years. It was just charged as a
+conspiracy.
+MS. HARRINGTON: It was charged as an
+ongoing conspiracy. It started before the beginning of
+the limitations period.
+JUSTICE SCALIA: That's right. So it would
+have been up to the defendant to prove that the statute
+of limitations barred -- barred his conviction.
+MS. HARRINGTON: That's right. That's
+why --
+JUSTICE BREYER: Well, I suspect I agree.
+If -- it's awfully tough to turn this on the presence or
+absence of particular dates in the indictment, but
+the -- the thing that motivates me -- I mean, I can see
+it's like a rabbit-duck. You know, is it a rabbit, or
+is it a duck? And -- and the -- the -- the thing that
+is so rare in the law --
+JUSTICE SCALIA: It's a jackalope, maybe. I
+never heard of a rabbit-duck.
+(Laughter.)
+MS. HARRINGTON: Definitely a rabbit.
+JUSTICE BREYER: Yet it's so rare, that the
+government doesn't have the burden of proving beyond a
+reasonable doubt, that it suggests, when in doubt, say
+reasonable doubt.
+But -- so what do you want? I mean, we've
+thought of duress. We've thought of self-defense.
+MS. HARRINGTON: Insanity is another.
+JUSTICE SCALIA: Insanity.
+JUSTICE BREYER: Insanity.
+MS. HARRINGTON: Yes.
+JUSTICE BREYER: Anything else?
+MS. HARRINGTON: Extreme emotional
+disturbance. Just a constitutional matter, this Court
+held in Patterson that the government didn't need to
+disprove that.
+JUSTICE ALITO: Ms. Harrington, would you
+agree that, as this argument is developing, what is
+really at issue has less to do with the statute of
+limitations than the nature of conspiracy? And one view
+is Petitioners', and it's embodied in some of the
+questions that has been -- that have been asked, and
+it's this: That the crime is continuing to participate
+as a member of a conspiracy.
+And the other view is that a conspiracy is a
+dangerous thing. It's like rounding up a -- a pack of
+lions or wolves or setting loose some thing that
+continues to be a danger; and if you do that thing, by
+joining it, you are liable, criminally, for everything
+that happens after that, even if, at a certain point,
+you walk away, and you do nothing.
+Now, if -- if he's right, that it is active
+membership, then there may be a problem for you here.
+But if the other view is correct, that you are liable
+for setting this thing in motion, whether or not you
+continue to do anything active in support of it during
+the limitations period, then you are correct.
+Now, which is the -- which is the
+established view of the crime of conspiracy?
+MS. HARRINGTON: The view established by
+this Court is that the crime of conspiracy continues,
+and once a person joins the conspiracy, he or she is
+liable for all the acts of his co-conspirators that were
+reasonably foreseeable in furtherance of the conspiracy.
+And that's true, even if that person, once he joins the
+conspiracy, doesn't ever do anything else --
+JUSTICE GINSBURG: Yes, but you recognize --
+you recognize, as I think Justice Alito's question
+doesn't, that there is -- there is a withdrawal defense
+and the question is how do you allocate the proof
+burden?
+So your case accepts that there is a
+withdrawal defense. Indeed, the judge gave a charge to
+the jury on -- so the contest, as I understand it, the
+difference between the two of you is you say, defendant
+can say, I withdrew. If he does that, he has to prove
+it. And the defendant is saying, I have to produce
+enough, so that a jury could find I withdrew, but you
+have the ultimate burden of persuasion.
+MS. HARRINGTON: That's right. And the
+Petitioners' view is grounded in due process concerns.
+Our view is that it is not a matter of due process
+because lack of withdrawal is not an element of the
+crime of conspiracy.
+So once you take due process out of the
+equation, then you have to ask what -- where would
+Congress have understood the burden -- the allocation of
+burdens to be, when it enacted these conspiracy statutes
+in 1970?
+And as a matter of logic, as a matter of
+history, as a matter of policy, there is no reason to
+think Congress would have thought the burden of
+persuasion to be anywhere other than on the defendant.
+JUSTICE KENNEDY: And I suppose that a
+conspiracy is defined by relation to its criminal
+objects, not to its membership. If there's five people
+that conspired to rob a bank and one of the conspirators
+has said, I'm out of here, I withdraw from the
+conspiracy, metaphysically, you might argue, well, it's
+a new conspiracy because it's a new group.
+But there is no support of the law for that,
+I take it.
+MS. HARRINGTON: No, this Court has said the
+opposite. It has said that -- you know, people can come
+and go in a conspiracy and --
+JUSTICE KENNEDY: Because it's the criminal
+objects that define the conspiracy?
+MS. HARRINGTON: That's right. And, again,
+there's no dispute in this case that the conspiracy was
+ongoing.
+CHIEF JUSTICE ROBERTS: But
+you've indicted -- you haven't indicted a conspiracy.
+You've indicted an individual, and it's not clear to me
+why you don't have to show that that was -- that that
+individual's conduct was within the statute of
+limitations period.
+MS. HARRINGTON: Because once --
+CHIEF JUSTICE ROBERTS: At least, when he
+comes forward with -- under the burden of production,
+with evidence suggesting the opposite.
+MS. HARRINGTON: Well, again, if we can take
+the due process part off the table -- because we think
+it's not an element of lack of withdrawal, then you ask
+sort of, you know, what -- how would Congress have
+understood the state of the law to be when it enacted
+these crimes, that's how the Court approached this
+question as to duress in Dixon.
+I think, as a matter of logic, because the
+government can prove that someone is liable for a
+conspiracy by proving that he joined a conspiracy at
+some point and that the conspiracy existed in the
+limitations period, it wouldn't make sense to require
+the government to disprove withdrawal, once it's
+asserted --
+CHIEF JUSTICE ROBERTS: Well, but Mr. Kramer
+says it's not that big a deal, I mean, you don't have to
+do -- he says you don't have to do anything at all.
+MS. HARRINGTON: I think that's kind of a
+remarkable assertion. If what he's saying is we have to
+be disprove withdrawal, once the defendant asserts it
+beyond a reasonable doubt, it's hard to imagine why the
+government would ever -- once a defendant makes a prima
+facie case of withdrawal, when the government would ever
+just say, oh, well, we'll sort of rest on our laurels
+and rest on the -- the evidence we have proving that he
+joined the conspiracy outside the limitations period.
+JUSTICE SCALIA: Suppose this thing doesn't
+come up in the -- in the statute of limitations context.
+Suppose it comes up in the context of whether this
+defendant is liable for an act committed by the
+co-conspirators after he withdrew. So it's the same
+issue of whether -- whether he withdrew or not, before
+the murder of somebody, okay?
+He said -- you know, before that occurred, I
+was out of the conspiracy. What do our cases say
+about -- about proving it in that context? Is the
+burden on the defendant? Or is the burden on the
+prosecution?
+MS. HARRINGTON: Your cases don't say
+anything about that. Our view is that the burden would
+be --
+JUSTICE KENNEDY: And I didn't hear you.
+MS. HARRINGTON: Your cases don't say
+anything about that question, so our view would be that
+the -- the burden stays on the defendant to prove that
+he withdrew from a conspiracy in that context. The
+Pinkerton liability isn't at issue here, so you don't
+need to -- to wrap that up into this case, but our --
+our view would be the same.
+JUSTICE BREYER: Nothing to do with statute
+of limitations.
+CHIEF JUSTICE ROBERTS: Justice Kennedy?
+JUSTICE KENNEDY: I was just -- I was
+curious. In 1997, the Petitioner did report the
+identity of another cooperating witness to Gray. You
+don't -- you don't rely on that as showing that he was,
+indeed, part of the conspiracy? That's just irrelevant
+to your case?
+MS. HARRINGTON: No, we -- we do rely on
+that. That's mentioned in our brief -- at the back end
+of the brief where we talk --
+JUSTICE KENNEDY: Well, that was -- it was
+kind of a throwaway line. But why isn't that
+dispositive for you?
+MS. HARRINGTON: No, I think it is
+dispositive. And that was the reason we gave for the
+Court to deny the petition for Writ of Certiorari
+because there is plenty of evidence in this case that
+this defendant was in fact a member of the conspiracy.
+There's evidence that the leaders of the conspiracy gave
+him drugs and money.
+First of all, there's evidence that the
+reason he went to prison was to help out the leader of
+the conspiracy. There was evidence he was paid back
+because they gave him drugs and money while he was in
+prison.
+CHIEF JUSTICE ROBERTS: All of this is
+questions for the jury under -- under the Petitioners'
+view, right?
+MS. HARRINGTON: Yes, certainly. I mean,
+under -- under both views -- you know, it all -- all the
+evidence goes to whether -- you know, he had joined the
+conspiracy and whether he proved withdrawal.
+JUSTICE KAGAN: Could I make sure I
+understand one part of your argument, Ms. Harrington?
+The conclusion that timing -- the timing is not an
+element. Now, take Justice Sotomayor's example of
+something which is not a conspiracy at all, let's say
+somebody commits a robbery, and you have to show that
+the person has committed a robbery and if the person
+brings up the question of timing, you also have the
+burden of persuasion on that. But would the timing be
+an element in that case or not?
+MS. HARRINGTON: Not.
+JUSTICE KAGAN: And so you are essentially
+saying that this case should be treated just as every
+other case. You happen to have the burden of persuasion
+if somebody says the statute of limitations has been
+violated, but the question of when conduct occurred is
+never an element.
+MS. HARRINGTON: It's never an element. It
+is true that the government -- if a defendant raises a
+statute of limitations defense, the government has the
+burden of proving that the crime was committed within
+the limitations period. This Court said that in
+Grunewald. It did not offer any explanation for that,
+but we have accepted that as our burden.
+JUSTICE KAGAN: Why is it then -- I mean,
+why would Grunewald be right, that you do have the
+burden if, in fact, this isn't an element?
+MS. HARRINGTON: I think, just because it
+is an -- it is a burden that is placed on the government
+by Congress in Section 3282. I think -- I think a
+reason one could think that it makes sense is that the
+government already has to prove all the things that it
+needs to prove, to prove that the crime actually
+happened.
+And generally, in proving that a crime
+actually happened beyond a reasonable doubt, you also
+prove when the crime actually happened. And so it
+doesn't really add very much to what the government's
+burden already is in proving the crime.
+But that sort of leads me into sort of the
+policy reasons for not allocating a burden of persuasion
+to the government as to the issue of withdrawal. And
+there are sort of four big reasons why Congress wouldn't
+have understood the burden to be -- for policy
+reasons -- wouldn't have understood the burden to be on
+a defendant as to the issue of withdrawal.
+The first is that the defendant will almost
+always be in a better position to have the information
+about whether he withdrew, except in cases where he
+withdraws by making a clean rest with the government, in
+which case, it's hard to imagine he's going to be
+indicted for -- for the indictment past that period,
+except in those cases, he will know what he said in
+secret to his co-conspirators.
+Second, the government will often be
+prevented from bringing up evidence to rebut an
+assertion of withdrawal because it can't make a
+defendant testify, and it often won't be able to make
+his co-conspirators testify.
+Third, a defendant doesn't have to give any
+advanced notice of his intention to rely on a withdrawal
+defense, and so often, he can scuttle the defendant's --
+the government's ability to procure any other evidence
+it may be able to procure relevant to the issue of -- of
+withdrawal.
+And, fourth, Petitioner's role would
+encourage spurious assertions of withdrawal because it
+has -- it could have the effect of essentially making
+the government prove something extra. It already has to
+prove that he joined the conspiracy willingly, that the
+conspiracy existed in the limitations period.
+But under the government's -- under the
+Petitioner's role -- excuse me -- the government would
+also have to prove that the defendant essentially took
+some other act to show his membership or somehow
+re-agreed to the conspiracy --
+CHIEF JUSTICE ROBERTS: Well, but that last
+point seems to me spurious itself because, to prove
+withdrawal, he's got to accept the fact that he was in
+the conspiracy in the first place. So if he doesn't
+have a good withdrawal defense, it's unlikely that he
+would raise it because it would cost him any argument he
+has against participation in a conspiracy in the first
+place.
+MS. HARRINGTON: But in cases where -- such
+as this, where a defendant goes through a period of
+inaction with respect to the conspiracy, which this
+Court said in Hyde is not enough to withdraw, then there
+would be an incentive to raise a spurious assertion of
+withdrawal because it would require the government to
+sort of -- to rebut that by proving that the defendant
+had done something within that period, which it doesn't
+have to prove in order to establish liability.
+JUSTICE SCALIA: I suppose he could present
+his defense in the alternative, I didn't belong to the
+conspiracy, and anyway, I withdrew. I mean, he can make
+both of those points, can't he?
+MS. HARRINGTON: He certainly can. I think
+there's a good deal of risk in that for a defendant.
+CHIEF JUSTICE ROBERTS: Well, but, I mean,
+that works in a civil case. But, I mean, in a criminal
+case, it's kind of a big thing to say -- begin my -- my
+first argument is that, I withdrew from this horrendous
+conspiracy that's been going on.
+MS. HARRINGTON: That --
+CHIEF JUSTICE ROBERTS: Or then I wasn't a
+part of it after that.
+That's a little different in a criminal
+context.
+MS. HARRINGTON: It's true. And the theory
+of defense in this case was, in fact, that there were
+many separate conspiracies, not that any particular
+person had withdrawn, and it only came up, as my friend
+pointed out, because the jury asked a question about it.
+If I can just sort of wrap up on a -- on a
+broader note? A defendant does not become liable for a
+criminal conspiracy casually. As the jury was charged
+in this case, the government has to prove that every
+defendant was aware of the existence of the conspiracy,
+that every defendant understood that it had an illegal
+objective, and that every defendant willingly agreed to
+participate in the conspiracy with the aim -- aim of
+advancing that illegal objective.
+CHIEF JUSTICE ROBERTS: You have -- you have
+to prove that every defendant did?
+MS. HARRINGTON: That every defendant
+willingly joined the conspiracy, yes, with the
+understanding that they were advancing some illegal
+objective, the objective of the conspiracy. Now, that's
+a high evidentiary --
+CHIEF JUSTICE ROBERTS: Let me -- so you
+charge ten people as participating in this conspiracy,
+and the jury determines that one wasn't, then
+everybody's off the hook?
+MS. HARRINGTON: No, no, no. No. I'm
+sorry.
+CHIEF JUSTICE ROBERTS: So you don't have to
+prove --
+MS. HARRINGTON: To prove liability for each
+person, you have to prove that that person --
+CHIEF JUSTICE ROBERTS: Yes.
+MS. HARRINGTON: -- satisfied all these
+things. I'm sorry --
+CHIEF JUSTICE ROBERTS: You have to treat
+them as individuals.
+MS. HARRINGTON: That's what I meant, yes,
+yes.
+CHIEF JUSTICE ROBERTS: Which is what your
+friend is trying to argue for in this case?
+MS. HARRINGTON: Right. But that is -- this
+is high evidentiary burden that the government has to
+bear to prove that each defendant took some affirmative
+action to get into the conspiracy. And once the -- once
+the government proves that a defendant was a member of
+the conspiracy, then it's on the defendant to prove --
+to take some affirmative action to get himself out of
+the conspiracy.
+And it only makes sense to require him to
+prove that he took that act, instead of requiring the
+government to prove negative that he didn't take that
+act in every case.
+If there are no further questions?
+JUSTICE GINSBURG: Is this -- the burden
+allocation, is this a more hypothetical academic
+question? I mean, you pointed out that you had ample
+evidence to show that he remained a member of the
+conspiracy.
+So does the allocation of burden of
+persuasion to the defendant versus proof of production
+to the defendant, persuasion to the government, does it
+really make much difference? Does it have much
+practical consequence?
+MS. HARRINGTON: I mean, it would not have
+made a difference in this case, for the reasons you
+suggest, we had good evidence that he had active
+participation within the limitations period. It can
+make a difference in some other cases -- you know, I
+think, as a practical matter, most criminal conspiracies
+that are charged in the Federal system involve activity
+that was more recent than some of the activity that was
+involved in this case.
+But it certainly can come up, and -- you
+know, if we didn't have the type of evidence that we did
+about this particular defendant's behavior in prison,
+then it would have been hard to rebut his assertion of
+withdrawal caused by his incarceration. So it
+definitely can come up.
+CHIEF JUSTICE ROBERTS: Well, when you say
+it wouldn't have made a difference in this case, you're
+basically saying you had some good evidence. But a jury
+could have always decided against you, right?
+MS. HARRINGTON: Oh, it certainly could
+have, right. It could have decided against us on the
+whole thing, but --
+CHIEF JUSTICE ROBERTS: Well, but I think
+it's a little much to say it wouldn't make a difference
+because the jury would definitely have ruled in your
+favor.
+MS. HARRINGTON: Okay. I -- yeah. I didn't
+mean to be brazen about it. We think we had good
+evidence that the Petitioner continued in the conspiracy
+in this case.
+CHIEF JUSTICE ROBERTS: Thank you,
+Ms. Harrington.
+Mr. Kramer, you have four minutes remaining.
+REBUTTAL ARGUMENT OF A.J. KRAMER
+ON BEHALF OF THE PETITIONERS
+MR. KRAMER: Thank you.
+I would just like to start with one quick
+point. My friend said that the government would never
+rest on its laurels, but that's precisely what they did
+in this case. It was 12 days into jury deliberation
+when they said, go ahead and instruct the jury on
+withdrawal, so they rested on the evidence that had been
+presented in the trial. So that's precisely what they
+did.
+JUSTICE KAGAN: Well, that's because they
+thought that you had the burden. And it -- it does
+strike me that, if you are right that this is an
+element -- membership in the conspiracy at a particular
+time -- and the government has the burden, this idea
+that the government could -- you know, just sort of say,
+well, we don't have any evidence, but we think you
+should presume that we're right, I mean, that's -- the
+government couldn't do that if you are right.
+MR. KRAMER: The -- the government could
+just rest on whatever they had presented originally and
+tell the jury that's plenty to prove beyond -- to meet
+our burden of proof.
+JUSTICE KAGAN: Well, if you make an
+assertion, and they don't really respond to the
+assertion and -- you win.
+MR. KRAMER: It -- I mean, it happens all
+the time. The defendants say, I didn't do it, and the
+government presents their evidence and say, that defense
+is nonsense, we presented overwhelming evidence.
+In fact, in this case, also they did -- they
+didn't ask for the instruction because they thought it
+was our burden. They agreed, in the end, that the jury
+should be instructed --
+JUSTICE ALITO: I think the crux of your
+argument is that the government is going to have to
+prove, beyond a reasonable doubt, active participation
+in the conspiracy during the statute of limitations
+period because it is impossible for the prosecution to
+prove beyond a reasonable doubt that on no day, during a
+five-year period, did the defendant withdraw from the
+conspiracy.
+It simply can't be done. This person was
+under 24-hour video surveillance for the whole five-year
+period.
+MR. KRAMER: All they have to prove,
+Justice Alito, is that the person was a member of the
+conspiracy within the limitations period. That could be
+done by the inference that they were a member outside
+the limitations period and say that there was just
+insufficient -- that the --
+JUSTICE ALITO: And say what? That there
+was insufficient evidence to prove --
+MR. KRAMER: No.
+JUSTICE ALITO: -- the opposite of what they
+have to prove?
+MR. KRAMER: No, that they -- insufficient
+evidence doesn't create a reasonable doubt in what they
+are required to prove, which is membership within the
+limitations period.
+JUSTICE ALITO: I thought you argue that
+every day, that there is -- that something has to be
+proved beyond a reasonable doubt because the prosecution
+hasn't provided sufficient evidence?
+MR. KRAMER: It is. And the prosecution
+stands up and says, we presented plenty of evidence
+that -- that there is no reasonable doubt here at all.
+And that happens every day, needless to say, that people
+are convicted by that argument when --
+JUSTICE KAGAN: Well, Mr. Kramer, if they
+really have to prove beyond a reasonable doubt that
+there is membership in the conspiracy during the
+limitations period, they couldn't just come in and say,
+well, there's membership in the conspiracy before the
+limitations period, and, you know, you should assume
+that it continued.
+I mean that's not a
+beyond-a-reasonable-doubt kind of proof, is it?
+MR. KRAMER: They get a permissive
+inference. And there are many cases when I think that
+would be proof beyond a reasonable doubt for a jury,
+absent some conflicting evidence presented by the
+defendant, more than just a proffer.
+JUSTICE ALITO: Couldn't you argue they have
+the burden of proving that the defendant did not
+withdraw during this five-year period? They have the
+burden of proving that. And did you hear any evidence
+from them that -- did you hear evidence disproving
+that -- that he didn't withdraw during that period?
+There is no evidence on that.
+MR. KRAMER: Of course --
+JUSTICE ALITO: You can make that argument?
+MR. KRAMER: Yes. Or did we prove -- did
+you hear any evidence -- that there was no evidence that
+Mr. Smith was a member during the --
+JUSTICE BREYER: Your -- I'm sorry. The
+Thomas Crown Affair again, all the evidence shows he
+took $10,000 from the bank. He testifies and says, oh,
+I was going to give it back, okay? The prosecution puts
+on nothing. The jury says, are you kidding?
+MR. KRAMER: Right.
+JUSTICE BREYER: Okay.
+MR. KRAMER: I mean, and that happens every
+day, I think, in cases where the prosecution just stands
+up and says, you heard that evidence, nobody would think
+that is a reasonable doubt, that someone was not a
+member.
+Thank you very much.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+The case is submitted.
+(Whereupon, at 11:01 a.m., the case in the
+above-entitled matter was submitted.)
+13:11,17,19 amount 22:6 asserts 48:15 60:24 61:22
+63:21 20:14 22:1,2,4 analogous 11:15 assume 35:8 beyond-a-reas...
+25:13 26:6,9,15,19 anticipated 9:20 attaches 29:10 big 48:11 52:21
+26:20,21,24 anybody 31:12 attack 25:12 55:5
+41:23 41:19 42:2,3,3 anyway 54:24 aware 55:22 12:10,19,22
+54:7 ago 23:2 35:10 Appeals 42:16 A.J 1:15 2:3,9 17:1,4,8,16
+applies 5:25 B 43:22 44:5,7
+32:17,18 38:18 approached 36:5 39:3 50:5 brief 7:22 27:13
+20:16 agreement 8:6 area 37:13 baked 33:8 50:6
+42:8 11:10,11 31:23 argue 20:11 bank 11:19 32:7 bring 38:12 39:3
+54:3 32:17,20 38:17 46:24 57:2 46:22 63:7 bringing 53:9
+39:20 40:4 61:20 62:18 barred 43:8,8 brings 51:11
+57:6,9 aim 55:25,25 argument 1:12 basically 9:13 burden 5:13,16
+26:14,16 5:19 9:12 12:4 bear 39:13,15 6:16,16,20,22
+45:2,6 20:2,9 44:12 28:4 29:2 bears 39:8,11 12:17,20 13:1
+60:21 60:19 61:6,11 36:25 40:12,14 beginning 43:4 13:21 14:13,25
+Alito's 45:18 54:10 55:6 29:3 59:10 19:11,12 22:22
+35:1 allegedly 19:10 62:3 63:1 believe 11:2 24:13,15 29:10
+45:13 alleges 14:10 arrest 21:18 24:18,20 39:8,11,13,15
+alternative aspects 9:18 19:13 20:11 51:17,24 52:2
+59:21 cases 3:16 5:17 claim 10:16 3:11,13 4:24 49:5,16 50:2
+60:7,17 6:4 7:23,24 claims 5:9,9 17:22 46:12,17 50:14,15,19
+15:3,23 21:14 classified 13:17 47:24 52:8,21 51:3,8 53:23
+53:6 54:13 Clause 29:6 connects 17:12 54:11,15,24
+37:9 casually 55:20 34:24 36:4 consequences 57:8,10,20
+cause 36:4,15 40:7 47:13 29:13 59:4,23 60:22
+causes 36:1 coincidence 55:15 58:6 conspirators
+16:2 charge 31:12 comes 3:15 9:13 9:19,19,22,25 29:11,12 33:15
+33:13,22,24 commits 37:9 19:24 20:7,12 context 33:18
+6:9,10 42:25 43:1,3 9:8 17:24 28:2 24:8 28:10 continue 20:7
+55:20 58:7 30:3 40:15,17 29:9 30:8 31:1 39:15 45:6
+16:1 charges 37:10 41:13,14 48:25 31:8,10,14,15 continued 10:18
+17:17 charging 31:13 51:10,24 31:24,25 32:5 20:19 21:3
+19:25 Chief 3:3,9 7:1 common 4:23 32:18,19,21,25 23:12 34:9
+9:12,17 10:7 communicating 33:3,18,22 39:2 59:4
+22:9 10:20 15:13 21:21 34:1,3,8,9,12 62:10
+26:6 22:25 23:13,24 complete 16:11 35:2,4 36:1,17 continues 32:21
+28:20 24:6,20,25 42:1,5 36:20 37:2,4,4 39:22 41:22
+25:10 28:25 comply 21:23 37:6,14,19 44:23 45:11
+32:2 29:5 36:10,12 component 10:5 38:19,23 39:2 continuing 3:19
+35:16 36:21 47:11,18 concerns 30:9 39:2,15,21,21 8:18 44:18
+37:2 48:10 49:22 46:6 39:25 40:1,10 controverted
+38:12 50:22 54:5 conclusion 51:6 40:17,18,19 5:24
+40:8 55:3,9 56:2,9 conduct 42:22 41:15,17,18,21 conversation
+47:9 56:15,19,22 42:22 47:15 41:25 42:1,5 19:9,14,18
+49:18 57:1 58:16,23 51:19 42:25 43:2,4 convicted 62:3
+51:13 59:6 63:18 conducting 44:15,19,20 conviction 31:16
+53:4 choice 17:23 35:13 45:9,11,12,14 43:8
+circuit 21:13 confirm 38:18 45:16 46:9,13 Cook 4:10 35:16
+58:2,9 circuits 28:21 conflicting 46:20,24,25 36:5
+59:5,15 civil 5:9,10 6:2 62:16 47:5,7,9,12 cooperating
+63:19,20 55:4 Congress 3:11 48:5,5,6,21 16:8 20:5
+45:9,11 46:9 12:13,16,18,20 41:24 42:2,3,4 dispositive 50:9
+52:15,17 15:3,4 16:2,15 45:23 51:23 disprove 19:18
+63:18 criminal 4:22 18:25,25 19:9 defenses 6:21 disproving
+16:24 6:2,5 9:10 20:18,21 21:3 define 47:7 dispute 31:7
+30:1 12:12 24:8 24:23 25:5,7 defined 46:20 32:1 34:20
+26:12 32:8 25:11 27:6 definitely 43:21 36:16 47:9
+4:9 55:4,11,20 31:24 32:18 definition 18:20 distinguished
+6:1,4 58:6 33:14,20 34:7 41:21 6:1
+11:4 13:9 criminally 9:22 34:22 35:20,21 deliberation distribution
+18:12,13 44:24 38:3,18 39:1,6 59:15 42:23
+26:24 cross 25:18 39:25 40:5,8 deny 50:12 district 11:3
+cross-examina... 42:5,8 43:7 Department 22:10 42:17
+29:5 15:5,10 45:25 46:2,18 1:18 disturbance
+33:25 cross-examined 48:15,17,25 depending 38:5 44:9
+35:15,15 24:4 49:7,15 50:14 deprive 12:5,9 Dixon 13:9
+39:10 Crown 11:18 51:22 52:24,25 described 7:22 18:12,13,16
+44:9 13:2 63:6 53:11,13 54:2 42:15 48:2
+47:3 crux 32:23 54:14,19 55:2 description doctrine 3:23
+50:12 60:19 55:19,22,23,24 42:25 4:1
+54:16 curious 49:24 56:3,4 57:5,7,8 designed 38:14 documentary
+D 62:17,19 3:21 33:6 doing 19:11
+15:8 danger 44:23 60:12 56:11 6:24 11:24
+49:1 dangerous defendant's developing 14:15 19:13
+44:21 3:21 8:8 17:13 44:13 20:12 22:22
+37:17 39:6 Defender 1:15 32:24 45:25 25:14,19 30:17
+7:5,7,7 deal 48:11 55:2 10:16 13:8,11 10:24 11:2,3,6 61:22 62:1,5
+9:7 13:14 dealing 13:9 13:13,17,19 11:8,12,18 62:15 63:15
+17:23 decided 58:19 16:3,5 17:6,7 17:2 18:18,22 driving 12:2
+28:2 58:21 18:22 19:8 55:11 drug 42:23
+30:9 decision 3:12 22:23 26:1,2,5 differently 3:17 drugs 50:16,20
+34:5,7 4:24 33:19 26:6,9,16,20 difficult 15:14 duck 43:16
+38:3 40:7 26:21,24 27:15 difficulties 5:18 due 29:6 46:6,7
+defend 16:20 27:16 28:14 directly 17:19 46:10 47:22
+41:6,13 defendant 4:12 33:21 38:17 disagree 15:25 duress 13:8,9
+44:18 5:21 6:8,15 39:7 40:9 disavow 15:12 16:13,16 17:6
+18:10 ESQ 1:15,17 2:3 48:6 53:24 52:25 54:8,11 15:16,20 23:6
+48:2 2:6,9 existence 4:18 55:6 24:9,10 53:4
+explain 27:22 43:1 46:21 63:8
+29:2 53:21 54:2 52:1 35:4,11 36:1 government 5:2
+7:5 establishes 26:6 extinguishes follows 42:16 14:2,8,14
+8:2,3 event 4:2 8:17 foreseeable 8:10 15:14,17,22,23
+18:19 everybody 21:1 extinguishment 8:12 45:14 16:3,7,14,22
+26:7,9,21 everybody's 7:24 forward 6:17 19:12 20:11,17
+56:12 extra 53:22 47:19 22:9,18,20
+29:9,12 evidence 6:12,18 Extreme 44:8 found 11:18 23:2,7,9,16
+31:18,22 8:20 11:20,23 12:10,14 24:11,19 25:16
+32:14,16 14:22 15:9,11 F four 10:24 29:13 27:9,10 28:6
+33:2,12 16:9,16,16 facie 38:12 52:21 59:8 28:12,17,19
+34:5 19:1,21 20:21 48:18 fourth 29:18 29:7,15,16
+20:22 21:5 fact 5:1,2,3 6:4,9 53:19 30:3 31:6,23
+46:8 24:3,18,21,22 9:13 17:16 friend 32:24 32:1,13 34:6
+51:7,13 25:1,6,8 30:12 19:2 23:10 55:16 57:2 34:11 35:16
+52:5 30:13 42:17 25:17,21 32:4 59:13 36:17 37:1
+47:20 48:20 38:17 50:14 further 57:15 38:4 39:1,11
+13:10,13 51:2 53:9,16 55:14 60:15 45:14 48:4,8,17,18
+57:19 58:3,11 facts 5:24 51:22,23 52:7
+17:19 58:18 59:4,17 failing 29:19 G 52:10,20 53:3
+26:15 60:1,13,14 fairly 16:1 G 3:1 53:8,22 54:1
+33:8 61:12,17,23,25 far 36:5 General 1:18 54:18 55:21
+39:18 62:16,21,22,24 fast 41:11 generally 52:13 57:4,7,13,23
+example 11:17 Fifth 15:21 25:2 57:16 53:16,25
+excuse 34:8 54:1 11:15 13:2 53:13 63:8 21:23 42:19
+34:10 36:17 Finish 7:2 go 7:4 16:11 grounds 6:1
+26:15 34:12 35:4 21:1 29:14 51:2 54:14 10:15 27:4
+49:12 62:21,22 47:13 53:5 intentionally jury's 22:11,18
+30:22 held 35:16 44:10 35:18 36:8,13 58:9 10:20,20 11:10
+help 16:11 30:2 37:10 42:12,17 involvement 11:14 12:10,19
+35:2 high 15:2 56:8 indictments irrelevant 22:17 13:18 14:1,7
+39:6 57:4 11:5 50:2 14:23 15:13
+52:12,14 history 46:16 individual 9:25 issue 21:1 22:9 16:10 17:1,4,8
+homicide 5:19 10:13 17:12 24:15 26:1 17:16,25 18:4
+44:25 horrendous individuals 9:15 30:23 35:24 19:6,22 20:2,9
+62:2 55:6 56:23 39:14 44:14 20:22 21:8,10
+Hyde 3:16 8:25 individual's 49:2,17 52:20 21:25 22:13,24
+33:19 39:3 inference 14:17 24:6,20,25
+29:1,2,4,23 hypothetical 61:8 62:14 jackalope 43:18 26:11,18 27:1
+31:4,17 24:7 57:17 inferred 20:20 jail 22:3 27:5,17,21
+32:16,23 information job 40:14,16 28:12,25 29:5
+34:14,17 I 53:1 John 1:3 42:19 29:23,24 30:6
+35:5 idea 24:8 59:24 initially 4:14 join 31:25 32:17 31:11,18 32:3
+identity 49:25 Insanity 44:3,4 32:19 38:19,20 32:22 34:11,15
+illegal 55:23 44:5 joined 9:2 14:5 34:18,21 35:3
+38:2,9 56:1,6 inside 37:22 14:6 34:7,8 35:8,19,22,24
+39:10 imagine 48:16 insofar 16:11 37:1,3 39:1,20 36:10,12,21
+40:3 53:4 instance 11:15 39:25 41:17 37:7,25 38:7
+41:4 imply 20:15 11:25 12:23,24 48:5,21 51:2 38:11,21 39:4
+42:14 impossible 13:3 32:7 53:23 56:5 39:12,17,24
+44:3 60:23 38:12 joining 44:24 40:11,21 41:1
+impression instruct 59:16 joins 45:12,15 41:7,10,20
+46:5 26:23 27:15 instructed 11:4 Joint 42:13 42:11,15 43:6
+inaction 54:15 29:17 60:18 judge 45:23 43:11,18,22
+49:9,13 incarcerated instruction jury 11:4 14:14 44:4,5,7,12
+21:6 22:11,19 60:16 18:5 20:25 45:17,18 46:19
+incarceration instructions 24:3,18 25:6 47:6,11,18
+54:13 58:14 18:5 22:21 29:17 33:24 48:10,22 49:12
+56:4 incentive 54:17 insufficient 45:24 46:3 49:20,22,22,23
+inconsistent 61:10,12,16 50:23 55:17,20 50:7,22 51:4,7
+58:1,20 19:2 intended 12:8 56:11 58:18,25 51:15 52:3
+indicates 10:21 intent 11:20,21 59:15,16 60:6 54:5,22 55:3,9
+57:1,16 17:2,5,11,21 9:22,22 10:4 longer 7:14,19 9:19
+59:6 18:3,5,9,12,24 44:24 45:4,13 look 24:3 25:25 membership
+60:8,19 19:17,25 20:4 48:4,25 55:19 37:8,18 38:5 3:23 7:6,11,12
+20:15,24 21:13 limitation 37:12 40:25 41:4,5 8:8 10:5 14:9
+63:1,5 22:8,15,24 39:19 looking 12:24 17:14 19:3
+23:9,19 24:1 limitations 3:14 37:7 23:11,12,22
+25:4 3:17,25 4:3,4,6 loose 44:22 24:2 28:4,9,10
+32:22 27:7,19 28:3 9:9,14,24 mad 21:19 22:4 37:18 38:8,10
+52:3 28:16 48:10 10:12,18,23,24 making 53:3,21 38:14,16,16,22
+60:8 59:8,9,11 60:4 11:3,8,16 matter 1:11 38:24 45:3
+60:11 61:5,13 12:25 14:18 12:12 32:5,11 46:21 54:3
+41:20 62:13,25 63:2 19:15,21 20:3 46:15,15,16 62:6,8
+47:6 63:10,12 20:13,19 23:22 48:3 58:6 mentioned 50:5
+24:1 25:22,24 63:21 merits 6:10
+L 26:2,23 27:11 mean 20:15 22:1 metaphysically
+47:23 30:20,21,23 32:7 36:5 37:7 mind 8:2 39:14
+50:8 Laughter 27:20 34:23 35:11,18 48:11 50:25 50:16,20
+62:12 41:3,9 43:20 36:18,20,22 52:3 54:24 Moore 42:19
+33:6,11 law 4:23 12:12 40:9,10,13,16 60:11 62:11 motivates 43:14
+43:15 18:8 22:1 40:19 41:6,13 63:12 Mullaney 5:17
+49:4 26:12 37:2 41:15,16,24 means 4:15 murder 9:20
+53:6 41:16 43:17 43:5,8 44:15 20:16 16:15 49:3
+59:25 47:1,25 45:7 47:16 meant 21:11 museum 11:19
+lead 19:16 48:7,21,23 56:24
+28:10 leaders 50:15 51:25 53:24 member 7:10 N 2:1,1 3:1
+leave 11:12 61:7,9,19 62:7 10:8,23 14:16 44:15
+3:6,7,9 Ledbetter 27:7 line 50:8 19:2,5,20 21:11
+5:15 27:12 Lionel 42:20 20:18 30:8,11 necessary 5:2,4
+7:3,15,23 left 21:3 lions 44:22 30:13,14,15,17 need 44:10
+let's 16:13 19:7 little 3:17 55:11 31:1,10,15 49:18
+9:5,16 35:8,9,10 51:8 58:24 32:10,12,15 needless 62:2
+11:1 liability 7:16,25 logic 46:15 48:3 34:1 37:4 needs 52:11
+8:18 9:2 10:6 logical 27:18,18 41:18 44:19 negate 7:4,9,12
+49:17 54:21 long 8:12,15 50:14 57:7,19 13:10,13,14,15
+15:1 56:17 32:21 34:5 61:6,8 63:4,16 13:20 18:14,17
+16:23 liable 8:10,14 35:22 42:14 members 9:15 26:15 38:14,16
+38:22 27:17 41:4 paper 37:17 45:7 47:16 plenty 50:13
+12:10,14 12:14 14:9 47:22 50:2 61:7,9,19 62:7 40:2 41:17
+19:15 30:15 36:25 51:5 55:10 62:9,20,23 44:25 48:6
+28:18 37:1 45:12,15 participate 10:9 permanently 54:6 59:13
+51:20,21 46:10 47:17 20:7 33:22 12:6 pointed 55:17
+48:8,15,17 44:18 55:25 permissive 57:18
+60:14 42:23 43:4 participation 15:19,20 16:2 policy 46:16
+operates 41:24 20:20 28:11 39:20 45:12,15 position 53:1
+55:19 Oppenheimer 60:21 61:6 practice 11:17
+21:5 47:4,20 61:14 33:10 34:15 46:4,18 51:12 17:6
+29:2 42:5 43:13 57:22,23 present 6:12
+14:5,13,20 people 11:5,9,11 49:24 59:4 62:16
+60:5 46:21 47:4 1:16 2:4,10 3:8 60:13
+23:10 29:7 period 7:9 8:22 50:23 59:10 presumes 37:3
+49:4 overcome 20:20 20:19 23:11,23 phrase 34:25 pre-1995 32:5
+overt 10:19,19 24:2 25:22,24 pieces 21:5 prima 38:12
+9:9 12:5 60:14 32:20 33:2,3 place 9:8 21:1 prior 38:22
+17:20 owner 12:5,9 33:23 34:13,16 37:15 54:8,12 prison 50:18,21
+32:14 35:2,4,18 36:1 placed 52:7 58:12
+31:23 32:9,11 45:18,20 48:2 45:14 reserve 28:23
+32:17,19,21 49:14 51:11,19 reasons 5:15 respect 7:4 9:18
+39:18,24 40:3 questions 44:17 52:19,21,23 32:2 36:23
+15:11 42:9 43:7 46:1 quick 6:9 59:12 rebut 14:21 53:9 respond 60:9
+20:23 48:4 49:15 quite 15:2 54:19 58:13 responded
+52:10,11,11,15 rebuttal 2:8 29:25
+25:8 54:6,21 55:21 R 3:1 recall 21:16 1:19 2:7 29:3
+20:21 57:5,8,12,13 rabbit-duck recognize 45:17 41:2,8
+62:5 63:2 28:15 29:20 reduces 9:13 10:10 40:12
+14:13,25 proved 14:16 35:23 38:4 referred 5:1 6:6 rest 5:20 14:12
+19:11 17:23 25:18 54:10,17 27:12 14:19 20:17
+57:22 29:19 31:7 raised 4:11,13 refused 21:22 23:10,11 48:19
+15:18,24 36:17 37:1 raises 39:7 relevance 32:3,6 rested 59:17
+24:13,16 41:14 51:3 51:22 relevant 53:17 return 11:20,21
+32:5 61:22 raising 28:18 relies 25:16 11:25
+57:22 proven 36:22 40:8 rely 50:1,4 re-agree 40:6
+62:12,15 proves 27:10 rare 43:17,22 53:14 re-agreed 54:4
+60:23 49:6 51:24 38:16 40:13 remains 12:16 32:17 33:4,5
+63:8 52:13,17 54:19 44:14 52:16 12:18 13:21 34:23,24 35:23
+62:19,21 57:24 60:9 37:4 41:18 39:12,23 43:6
+6:8,23 8:5 punished 7:20 reason 46:16 48:14 47:8 50:24
+9:3,7 purpose 10:3 50:11,18 52:9 repeating 12:24 52:4 57:3
+10:8,11,17 put 15:14 17:2 reasonable 5:3,6 38:13 58:19,21 59:22
+12:7,8 puts 23:3 63:8 5:7,23 6:24 report 49:24 60:2,3 63:10
+puzzle 37:8 11:24 14:15 requested 22:10 rights 15:21
+17:6 puzzling 10:25 19:13 20:12 22:19,20 25:3
+19:13 22:22 23:15 require 17:23 ringleader
+Q 24:14 25:14,19 29:6 42:9 48:7 21:17 22:5
+21:8 qualified 22:16 30:17 34:6 54:18 57:11 25:12
+question 22:17 43:24,25 48:16 required 6:8 risk 55:2
+25:13,19 30:22,25 31:6 52:14 60:21,24 61:18 rob 32:6 46:22
+31:9 33:8,8 61:17,22 62:1 requirement robbery 30:2,3
+37:18,20,23 62:5,15 63:15 5:23 29:19 39:5 40:15
+30:10,16 41:25 42:4 reasonably requiring 57:12 51:9,10
+9:12,17 61:25 63:7,9 32:13 47:14 specifically stronger 17:18
+15:13 63:14 51:9 54:3 27:12 34:25 17:22 27:22
+23:13,24 SCALIA 4:7,11 57:19 spurious 53:20 subject 3:14
+4:15 17:25 showing 50:1 54:6,17 15:10
+28:25 18:4,7,10,18 shown 14:3 standard 16:18 subjects 15:5
+21:8,25 22:13 31:14 stands 61:25 submitted 63:19
+48:10 25:23 26:4,11 shows 16:14 63:13 63:21
+50:22 26:18 27:1,5 18:25 63:6 start 59:12 substantive
+55:3,9 27:17 28:12 side 5:10,14 started 43:4 12:12
+34:11,15,18,21 similar 17:10 starts 4:4 sufficient 25:13
+57:1 35:3,8,19,22 32:11 state 16:25 27:10 61:23
+59:6 35:24 42:11,15 simple 14:21 47:25 suggest 58:3
+43:6,18 44:4 16:1 41:7 stated 39:10 suggested 5:18
+Section 41:5,5 situation 39:9 6:3,5 7:5,17,18 supervening
+29:2 sense 10:11 sorry 4:14 7:1,2 30:2,19,20,23 35:5,6 51:4
+22:16 24:5 56:14,21 63:5 33:23 34:23 61:3
+33:15 42:9 40:6 47:24 39:8,13,19 system 5:25 17:3
+30:6,10 separate 55:15 Sotomayor 7:21 48:23 49:20 T 2:1,1
+36:19,21 separately 42:22 8:1,9,14,17,23 51:18,23 60:22 table 47:22
+46:2 set 33:4,5 9:1,6 27:21 statutes 3:12,14 take 15:21 16:13
+51:16 sets 4:3 39:4,12,17,24 3:18 5:8 9:24 22:2 42:6,8
+setting 44:22 40:11,21 41:1 11:2 46:13 46:10 47:2,21
+16:15 seven 35:10,13 Sotomayor's 28:5,13 taken 34:2
+25:11 35:22 51:7 stay 8:15 takes 37:5 41:19
+37:10 shifts 12:1 13:1 so-and-so 15:15 stays 49:15 talk 50:6
+41:6 show 7:11 15:10 special 9:23 step 41:19 talked 6:5 15:19
+58:6,23 59:3 trouble 19:6 violated 51:19 wish 42:11
+60:6 thinking 18:13 15:18 29:24 waive 29:18 34:2 37:6
+Thomas 11:18 try 11:10,11 waives 28:18 withdrawal 3:24
+thought 25:4 12:22 27:22 want 15:19 7:13,17 10:3
+23:6 60:16 61:20 turn 43:12 wanted 23:5 20:21,23 21:12
+25:1,11 three 11:3 twice 14:8,12,19 wants 22:23 22:7,11,19,20
+three-year two 8:2 31:4 30:13 23:15,21 24:3
+24:4 threshold 14:24 type 58:11 1:15,18 42:23 29:7,8 32:11
+59:6,11 thwart 11:11 U 30:14,14 32:12 38:21 42:2
+time 7:13,16 ultimate 46:4 36:19,22 40:12 45:19,23 46:8
+44:21 28:24 31:1 45:24 51:5 way 3:20,21 52:20,24 53:10
+45:5 33:10 37:15,22 understanding 15:22,23 18:24 53:14,18,20
+55:5 38:22,24 39:21 19:7 23:1 56:6 18:25 37:9 54:7,9,18
+41:22 59:24 understood 38:1 41:10,23 58:14 59:17
+33:4 times 11:6,12 52:22,23 55:23 went 50:18 22:2
+52:10 timing 33:7 36:6 United 1:1,6,12 weren't 21:20 withdrawn
+51:6,6,11,12 3:4 42:18 we'll 3:3 48:19 55:16
+9:5 10:14 told 15:15 23:4 25:17 we've 14:16 24:4 withdrew 8:15
+13:24 24:23 25:11 use 32:9,11 44:1,2 8:20 10:3
+16:1 torn 38:1 usually 37:16 Wilbur 5:17 14:10 19:1,4
+19:17 tough 43:12 willful 17:14 19:10,15 21:9
+22:3,4,5 traditional 5:24 V 28:11 23:4 30:15,22
+23:19,19 transforming v 1:5 3:4 5:17 willfully 14:6 37:22 46:1,3
+24:17,19 20:9 vary 16:25 18:2,11,16,21 49:1,2,16 53:2
+28:16 treat 9:14 56:22 version 40:24 willing 25:1 54:24 55:6
+36:3,16 treated 3:17 versus 57:22 willingly 27:25 witness 19:8
+37:8,15 9:24 10:2 video 61:3 37:1,3 41:17 21:15,21,22
+38:2 51:16 view 10:22 53:23 55:24 25:17 49:25
+40:11,21 trial 42:18 59:18 44:15,20 45:4 56:5 witnesses 15:8
+45:18 trials 25:16 45:9,10 46:6,7 win 60:10 16:8 20:5
+47:22 tried 7:19 42:21 49:10,14,19 Winship 5:1 wolves 44:22
+50:10 triggering 4:2 50:24 29:10 words 3:22 23:3
+37:16 29 2:7
+3
+58:17
+5
+6
+1:9
+9
+1:13 3:2
+1:4 3:4
+63:20
+59:15
+3:11
+33:19
+46:14
+42:18
+42:19
+30:22
+30:8 32:7,8
+30:23
+32:10,12
+30:9
+1:9
+27:13
+61:3

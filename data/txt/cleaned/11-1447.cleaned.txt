@@ -1,0 +1,1762 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+COY A. KOONTZ, JR., :
+Petitioner : No. 11-1447
+v. :
+ST. JOHNS RIVER WATER MANAGEMENT :
+DISTRICT :
+- - - - - - - - - - - - - - - - - x
+Washington, D.C.
+Tuesday, January 15, 2013
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 11:06 a.m.
+APPEARANCES:
+PAUL J. BEARD, II, ESQ., Sacramento, California; on
+behalf of Petitioner.
+PAUL R.Q. WOLFSON, ESQ., Washington, D.C.; on behalf of
+Respondent.
+EDWIN S. KNEEDLER, ESQ., Deputy Solicitor General,
+Department of Justice, Washington, D.C.; for United
+States, as amicus curiae, supporting Respondent.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+PAUL J. BEARD, II, ESQ.
+On behalf of the Petitioner 3
+ORAL ARGUMENT OF
+PAUL R.Q. WOLFSON, ESQ.
+On behalf of the Respondent 27
+ORAL ARGUMENT OF
+EDWIN S. KNEEDLER, ESQ.
+For United States, as amicus curiae, 46
+supporting the Respondent
+REBUTTAL ARGUMENT OF
+PAUL J. BEARD, II, ESQ.
+On behalf of the Petitioner 56
+P R O C E E D I N G S
+(11:06 a.m.)
+CHIEF JUSTICE ROBERTS: We will hear
+argument next this morning in Case 11-1447,
+Koontz v. St. Johns River Water Management District.
+Mr. Beard?
+ORAL ARGUMENT OF PAUL J. BEARD, II,
+ON BEHALF OF THE PETITIONER
+MR. BEARD: Thank you, Mr. Chief Justice,
+and may it please the Court:
+This case is about the extent to which
+Nollan and Dolan review should be made available to
+individuals to challenge excessive exactions imposed as
+conditions to land use approval.
+Here, before he could make small use of his
+property, Coy Koontz was told by the district that he
+had to finance enhancements to 50 acres of publicly
+held --
+JUSTICE GINSBURG: Let's back up. When he
+asked for a permit, he voluntarily said, I -- as
+mitigation for the loss of wetlands, I am going to
+voluntarily create a conservation easement on the rest
+of my property. So he recognized, from day one, that
+there had to be some mitigation for what he was seeking
+to do in the permit. Is that right?
+MR. BEARD: That is correct. With his
+application, Justice Ginsburg, he did offer a mitigation
+in the form of a conservation easement on most of his
+property.
+JUSTICE GINSBURG: And if he had offered
+nothing, and he just said, I want this permit to develop
+my land, and the agency said, you have offered no
+mitigation, we deny your permit, would he have a claim?
+MR. BEARD: If there was no condition
+attached to the permit denial, then there would be no
+claim; although it would be up to the district, under
+Nollan and Dolan, to make the individualized
+determination, both of the amount of impact to wetlands
+and the amount necessary to offset.
+JUSTICE GINSBURG: Suppose he just put in
+the application, no mitigating -- no mitigation of any
+kind, and the agency says no. You recognize that he
+would have no claim, right? That he had an obligation
+to mitigate.
+MR. BEARD: It depends, Your Honor. If the
+denial was based on the idea that he was obligated to
+offer mitigation and that was the extent of the
+district's communication with him -- in other words,
+that the district told him, you must offer us something,
+we won't tell you what, and we'll let you decide what
+you want to offer in mitigation -- if that was in the
+record and that was the -- and the result of that was a
+permit denial because Mr. Koontz said, for example,
+well, gee whiz, I don't know how much I need to mitigate
+for, you haven't told me, I still believe there would be
+a Dolan violation because, in Dolan, the Court made
+clear, there has to be an individualized
+determination --
+JUSTICE SCALIA: For what? For what? You
+wouldn't -- you wouldn't know what property was taken.
+MR. BEARD: He wouldn't know where --
+JUSTICE SCALIA: You are -- you are posing a
+situation in which he never came forward with any
+suggestion. They never came forward with any
+suggestion. You say he still has a cause of action for
+a taking?
+MR. BEARD: Not for --
+JUSTICE SCALIA: A taking of what?
+MR. BEARD: Not for a taking, Your Honor,
+but he -- he may have a cause of action, under Nollan
+and Dolan, for the imposition of an unconstitutional
+condition that may not -- the contours of which may not
+be known. But the fact that the district told him, you
+need to --
+JUSTICE SCALIA: I think the other side says
+that you may have such a cause of action here.
+MR. BEARD: Excuse me. I didn't understand?
+JUSTICE SCALIA: Wouldn't -- wouldn't the
+other side in this case acknowledge that you have such a
+cause -- that you may have such a cause of action here?
+MR. BEARD: Yes, Your Honor. I believe
+they -- well, their argument --
+JUSTICE SCALIA: But they are just saying
+you don't have a cause of action for a taking.
+MR. BEARD: That is correct. They -- they
+are saying that we don't have a cause of action for a
+taking. Of course, in Nollan and Dolan, there was no
+transfer of property from the applicant to the relevant
+agencies.
+As this Court will recall, in both Nollan
+and Dolan, there was an imposition of an exaction, and
+immediately, the applicant in both cases sued to prevent
+the unlawful exaction from being consummated.
+JUSTICE SOTOMAYOR: Counsel, I've had a
+problem with your argument, okay? From the record, it's
+very clear that a conservation offer is not considered
+mitigation because there's still a net loss of wetlands.
+The policy is abundantly clear, stated, and undisputed.
+Okay?
+So, given that policy, why are we even in
+this case? Meaning whether there was an exaction or no
+exaction or whatever happened in terms of the denial,
+you couldn't win on your offer because the policy of the
+State was clear and, in my mind, unassailable: We have
+to preserve wetlands. Conservation of other wetlands is
+not enough. Mitigation means make sure that we get a
+net gain of wetlands.
+So why are we here?
+MR. BEARD: Justice Sotomayor, we don't
+contest the legitimacy of the policy, of course, in
+preserving wetlands; nor do we contest, for that matter,
+the ratios that the district has imposed via its
+regulations.
+It is undisputed -- the trial court found
+below, the Court of Appeals affirmed, and the finding
+was undisturbed in the Florida Supreme Court, that, in
+fact, the offsite mitigation -- that part of the
+mitigation that went beyond the conservation easement
+was in excess, it violated Nollan and Dolan.
+So the underlying factual findings are not
+in dispute.
+JUSTICE GINSBURG: I think you -- I think
+you have a problem then, Mr. Beard, because, if you look
+at the record, the record is very clear that it was
+not -- that the district didn't come back and say, take
+it or leave it, you -- you improve our wetlands, or you
+get no permit.
+There was -- and if you -- they are set out
+in the Respondent's brief at pages 13 to 15, oh, at
+least half a dozen, maybe more, that the -- the district
+said, here are several ways -- several ways that you
+could sufficiently offset the adverse impact. And some
+of them had nothing to do with improving the
+government's own land.
+So if we can't -- we really can't say this
+was a take it or leave it, either you do the
+improvement that we are asking you to do, or you get no
+permit, what do you do with the fact that, as the
+appendix certainly bears out, that the district offered
+a range, it offered many, many ways that this permit
+might be granted. And then it says, then you are free
+to come up with some other -- something else.
+MR. BEARD: Justice Ginsburg, it's true that
+there were negotiations and that a range of offers were
+made. On Mr. Koontz's application to use 3.7 acres of
+his property in conjunction with the conservation
+easement, the district made a final decision denying him
+his permit because he would not go beyond the easement
+and offer offsite mitigation.
+And that is --
+JUSTICE GINSBURG: Not -- not -- because he
+wouldn't go beyond what he was offering, but that's --
+some of these options -- one was that he -- that he
+adjust the size of his project, that he make it smaller.
+The -- the staff suggested eliminating -- no, that --
+that's a different one.
+But there was one that suggested that he --
+he reduce the scale, the Petitioner reduce the scale of
+his project to one acre and preserve the rest for the
+conservation easement. Now, if that -- if he took that,
+would you have any -- any case here?
+MR. BEARD: I'm sorry, Justice Ginsburg? If
+we took --
+JUSTICE GINSBURG: If they said, we will
+give you -- we will give you a permit if you reduce the
+scale of your project to one acre, and then preserve the
+rest by a conservation easement?
+MR. BEARD: Unlikely not, Your Honor,
+because the trial court did conclude, based on the
+evidence, that he was having minimal impact on any
+viable wetlands. And so even a reduction in the size of
+the project, with an increase in the amount of
+mitigation, would have a fortiori gone beyond even what
+we have in this case.
+The court of appeals made clear, as a matter
+of law, that Mr. Koontz did -- was entitled to a
+determination on the application he submitted. He
+submitted that application. And, as the district
+admitted in a pretrial statement right before trial, the
+denials were based exclusively -- and this is a quote --
+"The denials were based exclusively on the fact that the
+plaintiff would not provide additional mitigation to
+offset impacts from the proposed project."
+JUSTICE KAGAN: Mr. Beard, can I go back to
+Justice Ginsburg's first question and make sure I
+understand your answer to it?
+Suppose that the State just had a policy
+that said, We're concerned about wetlands; in order to
+develop your piece of property, you have to come forward
+with a proposal -- a mitigation proposal and an adequate
+mitigation proposal. And then it gives some guidance
+about what an adequate mitigation proposal would mean,
+but it really leaves it up to the landowner.
+And the landowner says, sorry, I'm not
+giving you anything, I think I should be able to develop
+this on my own without providing any mitigation. Is
+that -- and -- and the State says, well, then, sorry,
+you don't get a permit.
+Is that a taking? Does the man have a
+takings claim? I heard you answer the question yes.
+MR. BEARD: My answer was that he may have a
+Nollan/Dolan claim. I don't want to get confused about
+the term "taking" because "taking" could imply many
+kinds of regulatory takings claims.
+JUSTICE KAGAN: Well, I -- that's the next
+question I was going to ask you because my understanding
+of Nollan and Dolan was that it assumed the condition,
+if taken alone, would constitute a taking.
+Do you disagree with that?
+MR. BEARD: I do not disagree with that,
+Your Honor.
+JUSTICE KAGAN: Okay. So then you need a
+taking someplace in the picture; isn't that right?
+Nollan/Dolan says this is how we analyze takings in the
+context of a permit scheme. So we have to look for a
+taking. So, in my example, where is the taking?
+This was Justice Ginsburg's example. Where
+is the taking?
+MR. BEARD: Right. And I think that's
+correct, that, under Nollan and Dolan, you would have to
+have a condition that was imposed on you.
+My only point was would it be lawful --
+or there be a problem in the district shifting its
+burden on to the applicant and saying, we're not going
+to establish what mitigation is required, and we're not
+going to establish what the impacts are, we'll leave
+that up to you, you give us what you think is -- is
+necessary.
+JUSTICE KENNEDY: Suppose the district
+did -- did have, as I think it did here, a uniform
+policy that, for every acre you develop, you have to
+preserve 10 wetlands -- 10 acres of wetlands.
+And then two cases, both hypothetical, one
+is somebody had an 100-acre parcel, and they want to
+develop five acres, and they have 50 acres that they
+mitigate for wetlands. The other person has only one
+acre, and he wants to -- and he has to develop the whole
+acre.
+Can the district then say, we'll give you
+the one-acre development permit, if you reclaim wetlands
+on 10 other acres that you -- that we can designate for
+you elsewhere? The hypothetical being designed to point
+out whether or not the crux of your argument is that he
+had to go off -- offsite.
+MR. BEARD: The crux is not that he had to
+go offsite, but that -- that did play into the trial
+court's analysis as to the connection between his impact
+and what was being required, and there was testimony
+below that there was no connection there. And the fact
+that the mitigation was four to seven miles away played
+into the analysis as to whether there was a connection.
+It's not --
+JUSTICE KENNEDY: So, in my hypothetical,
+you would -- would there be a violation in my
+hypothetical, as you understood it?
+MR. BEARD: It depends, Your Honor, because
+you have to determine what -- in each respective
+hypothetical, what the impact was actually to the
+wetlands and then determine what the appropriate
+mitigation --
+JUSTICE SOTOMAYOR: How do you normally
+decide whether the agency has done that right or not?
+MR. BEARD: Excuse me?
+JUSTICE SOTOMAYOR: How do you normally
+decide? Let's assume Justice Kagan's question -- or
+Justice Ginsburg's question. No -- it just says, come
+to us with a mitigation plan. And you say, this is what
+I offer, and it's enough. And they say, no, it's not
+enough; denied.
+Would you go through the State
+administrative process, to figure out whether that was
+arbitrary and capricious, whether it was a Penn Central
+violation? What would you do with that claim in the
+normal circumstance? Justice Kennedy's question.
+MR. BEARD: In the normal circumstance, if
+there was no condition imposed, there would not be a
+Nollan and Dolan claim. There may be another kind of
+claim, say, under Penn Central, and that could be
+brought. That wouldn't have to be brought via
+administrative remedies, if there was a final agency
+action --
+JUSTICE SOTOMAYOR: It would be an inverse
+condemnation.
+MR. BEARD: Correct. It could be an inverse
+condemnation type of a claim.
+JUSTICE BREYER: So -- so what I think might
+be driving some of these questions is the district court
+says -- just as you say, had Koontz offered additional
+mitigation -- the additional that would have cost
+$10,000, he would have gotten the permit. That's what
+he said.
+So then you look back to see what additional
+mitigation. And, here, we have in the record, at least
+that my law clerk finds -- you know, that -- that they
+went to Koontz and they said, here are some choices:
+Install a subsurface stormwater management system in the
+development -- I mean, right on your land -- or reduce
+the size to one acre; or eliminate the filling of the
+slide slope areas; or replace 15 culverts and eliminate
+a ditch system somewhere else; or enhance 50 acres
+somewhere else.
+Now, at that point, when -- and then they
+said, won't you negotiate for 30 more days, maybe we can
+find some other things? He says, no, I'll bring a
+lawsuit. Okay.
+Now, I absolutely can see a Penn Central
+claim there. But the land -- what you're talking about
+is not some land somewhere off the site. We're talking
+about his land. If, after all, they said you have to
+leave all the coal in the mine to hold up the ceiling --
+you know what I'm referring to -- then they go too far.
+And, here, if we look at all these
+conditions proposed and said -- you know, this is just
+terrible, they don't do it for anybody else, your
+client's the only one, it bears no relation, oh, it just
+goes too far, you win under Penn Central.
+So I can see the framework here. I'm not
+saying you're going to win, but I got it clear what the
+framework is. But suddenly you bring this Nollan/Dolan
+business into it, and I get confused. And the reason is
+because there was a different piece of land in Nollan
+and Dolan.
+The piece of land that was different was an
+easement in front of -- and an easement is a piece of
+property in Nollan, and there was a bike path in Dolan,
+right across his property.
+So -- so I don't see how Nollan and Dolan
+have to do with this. I see everything that Penn
+Central has to do with it, and that grows out of the
+nature of what was being offered. You are saying what
+they are offering you is simply going too far. Okay.
+I've got that conceptually.
+I ask this question because all these briefs
+are about Nollan and Dolan, and I don't understand what
+they have to do with it. I must be missing something,
+and that's why I am asking you.
+MR. BEARD: Justice Breyer --
+Justice Breyer, Nollan and Dolan, fundamentally, are
+about whether a property owner has been singled out to
+bear public burdens that, in fairness and --
+JUSTICE BREYER: But, of course, they are
+land claims because they took a piece of land, which
+everybody assumes -- right in front of his house -- and
+said, you've got to let everybody from the beaches walk
+back and forth from one beach in the north to another
+one in the south, and they are going to walk over your
+land.
+And the Court said, you can't take his land
+unless you have a nexus to some public purpose that is
+related to his building the house. I got it. I just
+don't see what it has to do with this case.
+MR. BEARD: Because you -- you can have an
+unconstitutional condition imposed on your right to do
+something, in this case, make use of your property. And
+the --
+JUSTICE BREYER: Of course, you can. In
+fact, there is too much coal. That's an
+unconstitutional condition. It goes too far, and there
+is a framework called Penn Central, which deals with it.
+MR. BEARD: Penn Central is a special
+takings case that goes to the question of whether a
+regulation of the use of property that is sought to be
+developed has gone too far so as to affect the taking.
+Penn Central is not --
+JUSTICE SOTOMAYOR: Which -- how does that
+not address going too far? You just said it. If -- if
+this is unrelated to the -- the denial of your permit of
+all uses of your land, and you're saying that's the
+problem, which is I still have a use, I just want more,
+why does that entitle you to your lost profits?
+When were you ever entitled to start with
+the claim that, somehow, you're entitled to a permit, as
+a matter of law?
+MR. BEARD: We're entitled, under the
+Unconstitutional Conditions Doctrine, to not have to
+bear a public burden that has no bearing on the impact
+that we're trying to use on our property.
+JUSTICE SCALIA: Yes, that's fine. That --
+that would enable you to challenge the denial of the
+permit, saying it's based upon an unconstitutional
+condition. But how does it -- how does it enable you to
+say there's been a taking? What has been taken?
+MR. BEARD: What has been -- what has been
+taken, in effect, is his funds that have to be put now
+to a public use, the enhancement of 50 acres of public
+wetlands. And there is nothing in the Takings Clause --
+nothing --
+JUSTICE SCALIA: It hasn't -- it hasn't been
+taken. I mean, he turned it down.
+MR. BEARD: Nothing was taken in Nollan and
+Dolan, either. What was proposed there, though, was a
+threat of a taking.
+JUSTICE SCALIA: The -- the permit was
+granted in Nollan and Dolan. And -- and the condition
+attached to the permit, therefore, took effect; namely,
+that you had to dedicate this easement over your -- over
+your beach, whereas, as my colleague pointed out,
+anybody could walk back and forth, barefooted.
+(Laughter.)
+MR. BEARD: Justice Scalia, in Nollan and
+Dolan, there was approval -- approval with conditions.
+There were no permits issued, and that's -- that is an
+important distinction to make, that most agencies,
+including this one, you approve a permit with a -- with
+conditions, which means, we will give you your permits
+as soon as you comply; which is substantively the same
+as saying, we won't give you your permits until you say
+yes to our conditions.
+JUSTICE BREYER: All right. Look, we have
+the same question. I just want an answer to my
+question. And, for the purposes of this question, I am
+assuming enormously in your favor. I am assuming that
+this set of conditions is the worst thing since sliced
+bread.
+(Laughter.)
+JUSTICE BREYER: All right. I
+think there -- all right. I'm assuming that in your
+favor. All right.
+JUSTICE SCALIA: Sliced bread's supposed to
+be good.
+JUSTICE BREYER: No, no. It's been proved
+bad.
+(Laughter.)
+JUSTICE BREYER: The -- the -- but -- but in
+any case, the -- the point is, you see, I assume that in
+your favor. I'm trying to figure out the conceptual
+framework. I assume that in your favor. I assume
+whether they didn't issue the permit and would have, but
+they haven't quite, or maybe they have -- it means
+nothing.
+Now, having assumed that, it seems to me
+what your argument is, is that this is a form of
+regulatory taking of the kind that Holmes was talking
+about. And that -- that's what was going on in -- in
+Penn Central, and so we simply look to see if it went
+too far or whatever. The lower courts could do that. I
+got that part.
+Now, I want you to answer the question,
+which is, am I right? Is there another part -- a
+different part to this case, called the Nollan/Dolan
+part and explain that to me. That's why I asked the
+question. I want to hear what you're going to say.
+MR. BEARD: Justice Breyer, there is another
+part, a very distinct part, and that part goes to the
+question of the condition that produced the denial. So
+there are -- there are actually two parts here. There's
+the -- the conditioning of your permit; in other words,
+we will not issue you permits unless you agree to
+perform offsite mitigation.
+Now, the question, under Nollan and Dolan,
+is was that condition constitutional? Was he asked to
+give up something that the State -- or the district, in
+this case, should not have asked him to give up in
+exchange for his right to use his property?
+Now, it's true as -- as, Justice Breyer, you
+mentioned, that the permit denial and whether that
+affects a regulatory taking of his land, of the thing he
+wants to use, that's an entirely different question.
+And it may raise another kind of claim -- another kind
+of taking claim.
+But the crux of the claim that was litigated
+in this case, from the trial court all the way up to the
+Florida Supreme Court, is was the condition to perform
+offsite mitigation -- and that was accepted as true by
+the courts below, that this was a condition that had
+been --
+JUSTICE GINSBURG: Suppose the record just
+doesn't bear that out; the record shows that it wasn't
+one option. They gave him a laundry list of things he
+could do, some -- some of them having nothing whatever
+to do -- anything off his own property.
+Suppose the -- whatever the district court
+might have said, the record shows that the agency said,
+you're right, seven things you could do, come up with
+here are six, if you have something else. And some of
+them have absolutely nothing to do with other
+properties.
+MR. BEARD: We agree that there were
+negotiations and that, even in the order, it's alleged
+that various options were provided to Mr. Koontz, but,
+ultimately, the decision -- as the district admits, the
+decision -- the final decision to deny the permit
+application for 3.7 acres of use was Mr. Koontz's
+refusal to acquiesce in the condition that he perform
+50 acres of offsite improvements.
+And, by the way, the reference --
+JUSTICE GINSBURG: Where -- where is that?
+MR. BEARD: It's in the Joint Appendix,
+pages 70 to 71, which is the pretrial statement where
+each party sets forth his and her position. There, the
+court -- I'm sorry -- the district made clear that the
+condition that had been refused and was the cause of the
+permit denial was the one to perform offsite mitigation
+at a cost of a range between $10,000 on the low end.
+Our experts said in the range of 100 to 150,000 -- 90 to
+150,000.
+So the district, later on -- even in the
+Florida Supreme Court, Justice Ginsburg, said, in its
+Petitioner's brief on jurisdiction, at page 1, that it
+required additional mitigation before it would authorize
+the permits and that, quote, "Additional mitigation
+would be offsite because the available conservation land
+onsite was, in the district's view, insufficient
+mitigation."
+So there's no question that an actual
+condition was imposed, whose rejection produced a permit
+denial.
+JUSTICE KAGAN: Mr. -- Mr. Beard, I don't
+think anybody is contesting that there was a condition
+imposed or maybe there are. But -- you know, there's
+another question whether that condition is a taking. And
+we've been trying to figure out what's the taking here.
+In Nollan and Dolan, they took an easement, they took a
+piece of land, so that's the taking. Now, you said the
+funds are the taking; is that correct?
+Any time that somebody comes up with a
+proposal for -- for a developer to pay money, in order
+to compensate the State for the costs that are
+associated with his development, that that is, itself, a
+taking?
+MR. BEARD: I want to be clear that we're
+not saying that all monetary fees or exactions would be
+subject to Nollan and Dolan, only within the permit
+context -- the special context of land use permitting is
+it --
+JUSTICE KAGAN: No, I understand. But, in
+the permit context, a State can't say to somebody, you
+have to pay to perform some service or to compensate
+without it being a taking and without it being subject
+to Nollan and Dolan analysis.
+MR. BEARD: Correct. If the State or if the
+government or the permitting authority asks for the --
+for the property owner to give up property, even money
+to be put to a public use, and it's not an application
+for your user fee or something like that, it's for
+mitigation, that should be subject --
+JUSTICE KAGAN: So -- so, for example -- and
+I'll try to do this very quickly, if -- if the State
+just had a policy for every acre of wetlands you fill
+in, it costs us $10,000, you need to pay $10,000, that's
+subject to Nollan and Dolan analysis, too.
+MR. BEARD: Correct. It would be subject to
+Nollan and Dolan analysis, to determine if there really,
+on the ground, there's a connection between the
+impact --
+JUSTICE SCALIA: No, it -- it would be
+subject to Nollan and Dolan analysis if they took the
+$10,000. If they issued the permit, the developer went
+ahead with the development, and the State then attached
+the -- the bank account in the amount of $10,000 or
+whatever, that would be Nollan -- in Nollan and Dolan --
+in Nollan, there was a taking.
+He had gone ahead with the -- with the
+development of his house under the permit, which said,
+if he did that, he gave away the easement. So there --
+there was a -- a taking there. The -- the easement
+would have been taken automatically.
+In -- in -- in Dolan, there was -- the
+individual had not gone ahead with the development, but
+it was clear that any development the person undertook
+would be subject to the -- the exaction that the
+municipality required. So there was a -- a taking
+there, we said.
+Here, there's nothing that happens. The
+permit was denied, unlike in -- unlike in -- in Dolan,
+where the permit was granted, and it was understood
+that, if she went ahead with it, she was going to
+lose -- lose some land rights. Here, the permit's been
+denied. I can't see where there's a taking here.
+Nothing's been taken.
+MR. BEARD: In Nollan and Dolan, Your Honor,
+nothing was taken, either. In Nollan, you had a permit
+approval with conditions. It's true that development
+had not gone forward, but, here, as well, development
+had not gone forward.
+Presumably -- theoretically, if the
+development had gone forward, he might have been subject
+to conditions that he would have had to satisfy. But I
+would submit to the Court --
+JUSTICE SCALIA: The permit had issued. The
+permit had issued in both of those cases, and,
+therefore, the person was saying, to go ahead with this
+permit, I give up -- I give up this land.
+MR. BEARD: The permits in Nollan and Dolan
+actually did not issue. There was only approval, with
+conditions, and there is a difference. And that is no
+different from what happened here. The threat is the
+same. You don't get a permit issued to you until you --
+JUSTICE SCALIA: There was no approval with
+conditions. There's one thing for -- for a municipality
+to issue an -- an approval with conditions, and a
+municipality saying, we can't approval it unless you
+agree to these conditions. And the person doesn't
+agree, and the municipality says, we don't approve it.
+MR. BEARD: But, in either case, he -- he
+faces the threat, the unconstitutional condition on his
+use of his property, you don't get your use until you
+comply with our conditions.
+Mr. Chief Justice --
+JUSTICE KENNEDY: I -- I have one question.
+I know we -- you are running short on your rebuttal
+time.
+Assume that, when we look at this record,
+assume we think there is a due process violation, not a
+taking violation. That is not before us here, is it?
+MR. BEARD: No. The due -- there is no due
+process claim here. There is only a State statute that
+embodies sort of a due process standard, but there is no
+due process claim here.
+And may I reserve the balance of my time,
+Your Honor?
+CHIEF JUSTICE ROBERTS: And I will afford
+you some additional time, since our questioning intruded
+on yours.
+MR. BEARD: Thank you.
+CHIEF JUSTICE ROBERTS: Mr. Wolfson?
+ORAL ARGUMENT OF PAUL R.Q. WOLFSON
+ON BEHALF OF THE RESPONDENT
+MR. WOLFSON: Mr. Chief Justice, and may it
+please the Court:
+The parties agree that Florida may require a
+landowner to perform mitigation as a condition for a
+permit that would allow the destruction of a wetlands.
+The parties disagreed as to how much mitigation was
+appropriate in this case.
+The district thought that Mr. Koontz's
+proposal was insufficient to mitigate the -- the damage
+to wetlands. Mr. Koontz rejected the district's
+counterproposals, and he refused to do anything more.
+And the district denied his permit application because
+he refused to do anything more.
+CHIEF JUSTICE ROBERTS: Does it make any
+difference, in his refusing to do anything more, whether
+the condition is onsite or offsite?
+MR. WOLFSON: I don't think it makes any
+difference, Mr. Chief Justice, I mean, the -- under the
+Florida regulatory regime, we cannot demand certain
+conditions from the landowner.
+The -- we are obligated -- if the -- if the
+permit -- the landowner has to establish, under his
+permit application -- and it's his burden -- that he
+meets the various standards -- the public interest
+standard, which includes no adverse impact --
+CHIEF JUSTICE ROBERTS: Those are all
+State -- State law provisions you are talking about.
+MR. WOLFSON: Correct. Correct.
+CHIEF JUSTICE ROBERTS: What about is
+there -- is there anything in the Federal Constitution
+that limits the conditions that you can demand?
+MR. WOLFSON: I don't -- not -- not -- if I
+understand your question, Mr. Chief Justice, I don't
+think so.
+I think that the question is -- when you are
+talking about what analytical rubric you should apply,
+whether it be Nollan or Dolan or Penn Central, I think
+you can always argue that the impact of any of the
+conditions that we would demand -- and I will assume
+here that they are true demands -- you can always argue
+that the impact of the conditions, be they onsite,
+offsite, or monetary, would be so burdensome that it
+would call into play Penn Central or --
+CHIEF JUSTICE ROBERTS: But that's -- but
+there is no -- there is no restraint on the agency. It
+can ask for the moon -- before it will give a permit?
+MR. WOLFSON: Well, I don't -- I think that
+Penn -- first of all, I think there are many restraints
+on the agency. First of all, I think Penn Central
+imposes a restraint on the agency.
+CHIEF JUSTICE ROBERTS: Do you know of any
+case where the government has lost a Penn Central case?
+MR. WOLFSON: In -- yes. There are several
+in this case, Mr. Chief Justice. I mean, Hodel v.
+Irving is a Penn Central case, I believe, and I think
+Kaiser-Aetna was also a Penn Central case.
+Now, they -- now, they -- so --
+CHIEF JUSTICE ROBERTS: Let me present --
+I'm sorry.
+MR. WOLFSON: So it does -- it certainly
+does -- and they --
+CHIEF JUSTICE ROBERTS: It doesn't happen
+very often.
+MR. WOLFSON: Well, it is -- certainly, the
+burden is on the landowner, but -- but I think that Penn
+Central -- I think that, in Lingle, when this Court tried to
+sort of restore -- you know, some -- some coherence to
+the -- to the takings jurisprudence and repudiated the
+Agins point, the Court pointed out that -- that the --
+what -- that the normal -- sort of the normal
+jurisprudence is that the government is not required to
+establish, by a heightened scrutiny, sort of that there
+is a connection between means-ends analysis, when it
+engages in economic -- economic regulation.
+And that --
+CHIEF JUSTICE ROBERTS: Just -- just to nail
+it down, your -- your position is that there is no limit
+in the Federal Constitution on what the agency can
+demand as a condition for the issuance of a permit?
+MR. WOLFSON: No, no, no. I don't think
+that is our position. First of all, the Due Process
+Clause may certainly impose conditions. The Equal
+Protection Clause may certainly impose conditions.
+And --
+CHIEF JUSTICE ROBERTS: But -- but the
+Takings -- the Takings Clause does not.
+MR. WOLFSON: If -- if the conditions are so
+onerous that it would make it essentially impossible to
+derive any value from the land, that may very well call
+into question Penn Central or Lucas. I mean, in many
+ways, this case could have been litigated as a very
+straightforward Penn Central case.
+JUSTICE KENNEDY: Suppose -- suppose the
+agency said, we are really short of revenue; we will let
+you develop your land, if you contribute a million
+dollars to our new football stadium?
+MR. WOLFSON: Justice Kennedy, I think that
+that might very well raise a Penn Central or Lucas claim.
+It also sounds like --
+JUSTICE SCALIA: Well, it doesn't raise Penn
+Central. You keep on running away from it by saying
+Penn Central or Lucas.
+MR. WOLFSON: Well, it's not --
+JUSTICE SCALIA: It does not deprive the
+land of all value. The land still has some value. Penn
+Central is totally out of the case.
+MR. WOLFSON: Well -- I mean -- it's not --
+it's not a Nollan or Dolan claim is my point,
+Justice Kennedy.
+And it's not a Nollan or Dolan claim because
+it's not a -- the -- the -- as -- as my friend
+acknowledged, the question in Nollan and Dolan -- or the
+rationale of Nollan and Dolan is would the condition, by
+itself, if demanded unilaterally and outside the
+permitting context, would -- would that have been a
+taking of property for which just compensation would
+have been required?
+So the --
+CHIEF JUSTICE ROBERTS: Sure it would have
+been -- sure it would have been, if they just went
+along -- to a landowner, and the landowner is there,
+minding his own business, and they say, well, you own
+some property, so give us a 1 million dollars to build a
+football stadium.
+That would be -- that would be
+unconstitutional, right?
+MR. WOLFSON: I think -- I think that
+would -- I mean, I think that would violate -- could
+well violate the Due Process Clause. It's hard to
+see what the -- you know, what the rationality of it is.
+But I don't think that this Court has
+ever -- has ever extended the concept of a taking to
+requirements that a landowner -- that anybody -- or a
+landowner, either pay money or, more importantly,
+because I think what really is this case, is come into
+compliance with a regulatory requirement that would
+have -- that -- which he would have to expend money to
+comply with.
+And that --
+JUSTICE ALITO: I'm trying to understand
+what would be -- what would be left of Nollan and Dolan,
+if we agree with you.
+Let me give you three situations. First,
+the petition -- the district says, we are granting your
+permit on the condition that you give us one-third of
+your land. That's Nollan and Dolan, right?
+MR. WOLFSON: Yes.
+JUSTICE ALITO: Okay. Situation number 2,
+permit is denied, but it will be granted, if you give us
+one-third of your land. What about that?
+MR. WOLFSON: I think, in that situation --
+in other words, if the situation is really exactly the
+same like Nollan and Dolan, but the permit is denied,
+but it's clear that it is a concrete -- concrete
+condition, the landowner can go up through the judicial
+review process and say, this is -- you know, the denial
+of the permit application is predicated on an
+unconstitutional condition, and you should set that
+aside.
+JUSTICE ALITO: Is that the same as the
+first example, for purposes of Nollan and Dolan?
+MR. WOLFSON: Almost. Almost,
+Justice Alito.
+JUSTICE ALITO: All right. Now let me to get to
+my third. The permit is denied, but it will be granted,
+if you give us the fair market value of the third of the
+land, and, once you have done that, then we're going to
+condemn your land and pay you the fair market value for
+it.
+MR. WOLFSON: Justice Alito, I think that
+this Court's decision -- there are -- this Court's
+decision in Village of Norwood, essentially says, if
+what is going on is just a pure contrivance to avoid the
+requirement of compensation in the Just Compensation
+Clause, that the Court has said, no, it will look
+through and -- to the substance of the demand and
+determine that there was -- you know, essentially, an
+evasion of the just compensation requirement.
+JUSTICE SCALIA: As I understand your
+position, cash is magical, right? The -- the government
+can come in and -- come into my house, take all of the
+cash that's there, and that is not the basis for a takings
+claim, right? Because cash is not -- is not a taking.
+Does that make any sense?
+MR. WOLFSON: Well, first of all,
+Justice Scalia, of course, this case, we don't believe
+involves cash. It involves a requirement to do
+something that costs money, which is -- is different
+from cash.
+I mean, cash is -- the problem with
+extending -- the problem with extending the takings
+concept to a monetary obligation, which can be paid for
+out of sort of undifferentiated funds --
+JUSTICE SCALIA: Right.
+MR. WOLFSON: -- is that it has -- it has no
+logical stopping point. I mean, the court --
+JUSTICE SCALIA: The stopping point is don't
+take my cash.
+MR. WOLFSON: Well, but the --
+JUSTICE SCALIA: Your -- your answer to my
+question is, that's okay, it's not a taking, right?
+MR. WOLFSON: I think --
+JUSTICE SCALIA: I may have some other cause
+of action, but not a -- not a taking? The government's
+come in and taken my money.
+MR. WOLFSON: It's not a -- it's not a
+Nollan and Dolan claim for the government to say, if you
+want -- if you want a permit --
+JUSTICE SCALIA: I'm not talking Nollan and
+Dolan. I'm talking about your position that the taking
+of cash cannot be a taking.
+MR. WOLFSON: Well, if a -- I'm sorry,
+Justice Scalia. If the -- if the government is seizing
+the -- the identifiable dollar bills that are in your --
+in your house, I mean, that sounds more like a case
+like --
+JUSTICE SCALIA: Oh, I see, I see.
+MR. WOLFSON: Webb's Fabulous Pharmacies,
+where --
+JUSTICE SCALIA: If they -- if they say, you
+have to turn over to us whatever money you have in your
+house, or you have to turn over to us whatever's in your
+bank account, that's not a taking.
+MR. WOLFSON: Justice Scalia, I think there
+are many -- there are many constitutional claims that
+could be made. And I also want to add, there is an
+extensive overlay of State law in this area that
+protects landowners from arbitrary, irrational,
+intrusive, excessive demands by government agencies.
+CHIEF JUSTICE ROBERTS: One of the
+things the -- the Federal provision, the Takings Clause,
+is designed to prevent property owners from having to
+bear the costs that should be borne by the people as a
+whole.
+The football stadium example, there is no
+reason that a particular landowner should have to pay
+for the football stadium, simply because he owns
+property.
+The Takings Clause is designed to make sure
+that those exactions are not imposed on property owners,
+but spread more evenly across the citizens who benefit
+from it. And I guess I don't understand why you say
+that the Takings Clause is the one provision that
+doesn't apply in that type of situation.
+MR. WOLFSON: Mr. Chief Justice, the -- the
+Armstrong policy of the -- that the government -- that
+an individual person should not be forced to bear what
+society should -- what should be spread to society as a
+whole -- is not violated when the government insists
+that a landowner comply with a generally applicable
+regulation.
+Now, of course -- of course --
+CHIEF JUSTICE ROBERTS: The generally
+applicable regulation in the football stadium
+hypothetical is not generally applicable. It says, you
+are the owner of this property, and if you want to
+develop it, you've got to build a football stadium.
+MR. WOLFSON: Well, I think that is saying
+to one particular landowner, you may have to build a
+football stadium, where no other type of similar
+regulation or requirement would ever be imposed on any
+other landowner sounds -- you know, like -- you know,
+sounds like an equal protection claim, if the government
+just picks out one landowner.
+JUSTICE SCALIA: What if they do it to five
+or six other landowners, okay?
+MR. WOLFSON: Well, then I think you have to
+ask -- but, then, Justice Scalia, I think you have to
+ask what -- what regulatory scheme is the government --
+JUSTICE KENNEDY: Well, let's -- let's
+put -- let's put it this way: I take it, it's -- it's a
+given that the government cannot take an easement on
+your property. It cannot use your property for its own
+purposes. It cannot park its trucks there. It cannot
+cut the grass.
+Why is it that, if it can't do those, it can
+still force you, as a condition to using your property
+to its highest and best use, to pay them money?
+MR. WOLFSON: Well, I think --
+JUSTICE KENNEDY: Why isn't that an equal
+burden -- why isn't that an equal use of the property by
+the government?
+MR. WOLFSON: I think -- I think, for
+several reasons, Justice Kennedy. First of all, I think
+that this nation has a long legal tradition of giving
+unique legal protection to property, as opposed to
+money.
+I mean, there are many circumstances -- many
+circumstances, where the government can say to an
+individual, you must give me $1,000, but cannot say --
+or a group of individuals or -- but cannot say to the
+same group or individual, you must give me land worth
+$1,000.
+I mean, there -- that -- that is what the
+Just Compensation Clause --
+JUSTICE SCALIA: Really? Gee, that doesn't
+strike me as -- as entirely true.
+MR. WOLFSON: Well, Justice --
+Justice Scalia, the government obviously --
+JUSTICE SCALIA: You mean a tax that is
+imposed only on landowners, and it's -- you know, it's a
+tax -- $5,000 per landowner, if that were replaced by a
+provision that said, every -- every landowner shall
+contribute to the State a portion of his property worth
+$5,000, that --
+MR. WOLFSON: I think that would --
+JUSTICE SCALIA: The latter is bad, and the
+former's okay?
+MR. WOLFSON: I think that would raise very
+serious questions. I mean, I don't know that this Court
+has ever -- has ever been faced with exactly such a
+case, but I think that would raise very serious
+questions.
+JUSTICE BREYER: So that -- am I
+wrong about -- I might have this -- I thought the
+framework, roughly, is the following: it is not the
+case that Penn Central applies only where there is a
+physical invasion of property, or there is total
+destruction of the value of the property.
+In those two situations, what we said in
+Lucas is it applies without case-specific inquiry, but
+there are another set of cases where Penn Central and
+McMahon apply with case-specific inquiry.
+And those, to discover whether you have one,
+you look into such things as whether the regulation
+destroys investment-backed expectations. And then you
+look to the nature of the government interest and the
+relationships, et cetera. That's what I thought the
+framework was.
+Now, if that's the framework, then, when the
+government says, I will let you develop your land if and
+only if you give $50,000 to the Shriners Hospital, you
+would say, I can't develop my land. And, besides, that
+significantly interferes with my investment-backed
+expectations. And, besides, there is no relation
+whatsoever. Therefore, I win under the Takings Clause.
+Now, I spell all that out because I -- if
+I'm wrong about that framework -- if I am right about
+the framework, that can apply to this case. If I am
+wrong about the framework, I want to know where in the
+cases I'm wrong.
+MR. WOLFSON: Justice Breyer, we think that
+you are right about that framework. That -- and -- and
+just six weeks ago in the --
+JUSTICE SCALIA: That surprises me.
+MR. WOLFSON: In the -- well, just six weeks
+ago, in the Arkansas Fish and Game Commission case, this
+Court reiterated that Penn Central is presumed to be the
+test.
+JUSTICE BREYER: Okay. So, if I'm right
+about the framework, that takes care of all the
+hypotheticals you were asked. In those cases, there is
+a significant interference with investment-backed
+expectation. And there's no justification whatsoever,
+so the Takings Clause applies.
+MR. WOLFSON: We agree, Justice Scalia, and
+we don't --
+JUSTICE SCALIA: Justification is the
+protection of wetlands. That's a justification, the
+protection of wetlands.
+There's no necessary comparison, as Nollan
+and Dolan requires, between the harm that would be
+occasioned if the permit were granted and what the State
+is exacting in order to mitigate.
+That -- that doesn't exist anywhere in -- in
+the analysis that you are talking about.
+MR. WOLFSON: Well, Justice Scalia, there
+are -- there is another problem with the Nollan and
+Dolan claim in this case, which is it's hard to see how
+you can have an exactions takings claim when nothing has
+ever actually been exacted --
+JUSTICE SCALIA: Now, that is a problem.
+(Laughter.)
+MR. WOLFSON: And -- right.
+And so -- and, in this case, if the -- if
+the claim for the taking is -- for the compensation is
+based on Nollan and Dolan, it seems that there is a
+mismatch and that what the Petitioner is trying to do is
+sort of take the Nollan/Dolan heightened scrutiny
+government -- government bears the burden of proof
+analysis and sort of convert that into what is the
+regulatory takings analysis for the entire parcel of his
+land, which is -- which is the measure of damages that
+he received.
+So I think that there is a mismatch. And,
+now, this is --
+CHIEF JUSTICE ROBERTS: I think that your
+point goes to the question that has been raised about --
+there's no permit issued. He didn't accept the -- the
+permit. And I don't understand that proposition.
+Are you saying that, if you are confronted
+with an unconstitutional condition, you have to accept
+it, and then you can challenge it? You can't simply say
+you denied that on the basis of an unconstitutional
+condition, and that's wrong?
+MR. WOLFSON: No, that's not our argument,
+Mr. Chief Justice. Florida has opened an avenue for
+judicial relief for you to go up through the Florida EPA
+process, just like the Federal EPA, where you can say,
+stop -- stop the district from doing this to me; they
+are predicating their -- either their grant or their --
+CHIEF JUSTICE ROBERTS: Okay. I'm trying to
+get to the Federal. You often fall back to the State
+provisions. I'm looking at the Federal Constitution.
+And, assuming the State provisions give you
+no relief, is it your position that he has no claim,
+unless he accepts a permit with unconstitutional
+conditions?
+MR. WOLFSON: If there is no -- if there's
+no kind of avenue, as I was saying, then I would think
+we would then -- you would have to obtain -- you have to
+seek compensation, but your compensation is for the
+value of your land that was taken.
+And, in Lingle, this Court reiterated that
+the Takings Clause is not a substantive limitation on
+the government's power to regulate. The -- the Takings
+Clause -- or as I should call it, the Just Compensation
+Clause -- is a requirement that if -- that the
+government will pay you just compensation for any
+property or property interest it has seized from you.
+It does not -- it does not, itself, impose
+a -- a requirement that the government substantively
+justify its regulation.
+JUSTICE GINSBURG: Mr. Wolfson, why isn't it
+entirely reasonable to say, if you are going to put a
+condition on a permit, that condition has to have some
+rough proportionate relationship to the harm that is
+being done to the permit -- what -- that seems to me
+perfectly sensible, that if they are going -- if they
+are going to exact a condition, the condition has to
+have some discrete proportional relationship to the
+harm?
+MR. WOLFSON: Justice Ginsburg, I think that
+the district thought that they were acting roughly
+proportional. In other words, we are -- we are not
+saying that the government shouldn't act -- that
+government should not act reasonably.
+But I think that, when you force these cases
+into court under the Nollan/Dolan framework, you have
+a -- you have basically a mismatched and extraordinarily
+complex situation. And you have -- you run right into
+what this Court said in Lingle, which is that it is not
+ordinarily the Court's -- the appropriate approach to
+require the government to bear the burden of proof.
+JUSTICE KENNEDY: Well, in Penn Coal v.
+Mahon, the government didn't enter the property. It
+didn't take the property in the physical sense of moving
+in inappropriate. It just says, congratulations,
+you have some coal under your land, and we hope you
+enjoy it because you can't move it.
+And we said that is a taking, that is a
+regulation that goes too far. And it deprived, as
+Justice Breyer indicated, the owner of investment-backed
+expectations, although that word wasn't in Penn-Mahon.
+MR. WOLFSON: Correct. And,
+Justice Kennedy, nobody is disputing that Mr. Koontz
+could have made the argument that the regulation goes
+too far in the sense of the burden on his proposed
+project. I mean, he had all of those arguments
+available to him.
+He bought the -- he says he bought the land
+before the regulation went into effect. He had
+investment-backed expectations and all the rest of it.
+But that is not the claim that he is
+advancing to this Court.
+Thank you.
+CHIEF JUSTICE ROBERTS: Thank you,
+Mr. Wolfson.
+Mr. Kneedler?
+ORAL ARGUMENT OF EDWIN S. KNEEDLER,
+FOR UNITED STATES, AS AMICUS CURIAE,
+SUPPORTING THE RESPONDENT
+MR. KNEEDLER: Mr. Chief Justice, and may it
+please the Court:
+I would like to emphasize, at the outset,
+that Petitioner's argument that Nollan and Dolan should
+apply in this context would -- would constitute a
+radical change in the -- in the way standard generally
+applicable regulatory programs are operated.
+It is standard procedure, when someone
+applies for a permit from the government, it is the
+permit applicant's burden to establish that he complies
+with the regulatory program.
+Nollan and Dolan shift that burden to the
+government. That has never been the case under
+regulation, including land use regulation.
+JUSTICE SCALIA: What was taken in Nollan
+and Dolan?
+MR. KNEEDLER: If -- if --
+JUSTICE SCALIA: In Nollan, was it the
+easement that was taken?
+MR. KNEEDLER: That is what -- if -- if the
+permit had issued and the -- and an easement was
+granted, yes, it was the easement.
+JUSTICE SCALIA: Well, but it -- wasn't what
+was taken unreasonably the ability of this homeowner to
+make the alterations to his house that he wanted to
+make? He wanted to add another story and the court --
+and the State said, you can't do it.
+And its only basis for saying, you can't do
+it was because you wouldn't give us the easement.
+MR. KNEEDLER: The -- the basis of the --
+the theory of Nollan and Dolan -- and the Court made
+this clear in -- in Lingle -- and in Del Monte Dunes,
+for that matter -- is those two cases apply in a
+specific situation where there is an exaction of a right
+of access, an easement for the public to enter the land
+as a condition.
+And the -- the reason for that, the Court
+explained in Lingle -- there are really two reinforcing
+points. The first was that there would be public
+access, which is a permanent physical occupation, which
+is one of -- one of the exceptions to the general Penn
+Central test for regulatory takings.
+The other is that it was a per se taking.
+The -- it -- it was per se that the government could not
+have acquired that easement for paying -- without paying
+compensation; therefore, the government could not attach
+as a condition to the granting of a permit that the
+person convey something, unless it was proportional.
+So the -- the theory began with the idea
+that the easement itself would have been -- the taking
+of that would have been a per se taking. This is a very
+different situation because the other way in which
+Petitioner's theory would constitute a radical departure
+is that compliance with regulatory programs frequently,
+maybe almost always, requires the expenditure of money.
+If someone wants to build a power plant -- a
+coal-fired power plant, he's going to have to install a
+scrubber to protect the air, to prevent no -- diminution
+of air quality. Constructing that costs money. It
+can't be that the requirement to spend money to comply
+with a regulatory program is itself a taking.
+The taking would be --
+CHIEF JUSTICE ROBERTS: Well, what about --
+what about the football stadium? Do they -- can you
+pick a particular landowner? I mean, you took a case in
+which there is no question, under Nollan and Dolan,
+about the relationship, proportionality, and nexus.
+Let's put those to one side because the
+issue is whether Nollan and Dolan apply. Can the
+government say, okay, you want a permit, we will give
+you the permit, if you fund the new football stadium?
+MR. KNEEDLER: I think, in that situation,
+there would be a very substantial equal protection challenge
+because one landowner is being singled out with no
+rational basis --
+CHIEF JUSTICE ROBERTS: But the one
+constitutional provision that is concerned with
+protecting property owners from having to bear burdens
+that should be borne by the public at large is not
+applicable?
+MR. KNEEDLER: Well, that -- that -- it
+applies when there is an identifiable property taken.
+If the --
+JUSTICE BREYER: No, no. Why isn't the
+answer, yes, it is applicable? Of course, it's
+applicable. I own a piece of land, and they have
+significantly interfered with my investment-backed
+expectation.
+MR. KNEEDLER: Right, right.
+JUSTICE BREYER: And -- and to say that I
+can't put a house on this because I'm supposed to pay
+for a football field, which has nothing to do with it,
+is as close to insisting that you have to have 4,000
+columns of coal in your mine, so that you can never use
+it, as I can think of. It's Holmes brought up-to-date.
+MR. KNEEDLER: Well, certainly --
+JUSTICE BREYER: I mean, at least that
+argument would be made --
+MR. KNEEDLER: Certainly --
+JUSTICE BREYER: And why wouldn't it be a
+winning argument?
+MR. KNEEDLER: Certainly, a Penn Central
+argument could be made there, but I think that's very
+different from a Nollan argument --
+JUSTICE BREYER: Yes, I agree with you --
+MR. KNEEDLER: -- which -- which imposes
+the -- the burden on the government and, basically,
+treats the -- the payment of money as, itself, a taking.
+JUSTICE SOTOMAYOR: Mr. Kneedler, can I go
+back to the questions presented for a moment? The court
+below did two separate rulings, I think.
+One is there can't be a taking if the -- if
+the claim is that it's of an undifferentiated money, not
+a res. And I think you would agree with that.
+If the only issue is an obligation to pay
+money, that that's not a takings claim, correct?
+MR. KNEEDLER: Yes. And this is not even an
+obligation to pay money. It's an obligation to spend
+money to come into compliance.
+JUSTICE SOTOMAYOR: Right. There was a
+second holding, however, which really gets ellipsed by
+the second, which is a denial of a permit doesn't permit
+you to raise the Nollan/Dolan case. And it appears, to
+me, even if there is an easement situation -- so, even
+if there is an actual takings claim at issue, do you
+agree with that first holding by the court below?
+MR. KNEEDLER: We -- we think --
+JUSTICE SOTOMAYOR: Assuming we narrow it
+not to undifferentiated money, but is there a difference
+between a denial or a grant?
+MR. KNEEDLER: No. If the -- if the agency
+decision is written where there is an express condition,
+we don't think that it matters -- an express condition
+satisfying Nollan and Dolan; in other words, an
+exaction, a per se taking, we don't think it matters
+whether the -- whether it's a permit grant or permit
+denial.
+There was no actual taking in the sense that
+compensation would be owed, but it could be challenged
+as an unconstitutional condition under the Nollan and
+Dolan analysis.
+But we think it's critical, when thinking
+about that, that the -- that the permit denial -- that
+only applies if the permit denial expressly is based on
+the condition because, otherwise, you would get into a
+situation of negotiations and what was discussed and --
+and liability could turn on an exchange of ideas;
+whereas it should turn on the formality of the agency's
+final decision.
+It's akin to the Williamson County final
+decision requirements.
+CHIEF JUSTICE ROBERTS: Do you agree -- your
+friend on the other side cited a number of places in the
+record, where he thought your condition was satisfied,
+that the denial of the permit was expressly based on the
+failure to comply with the offered conditions.
+MR. KNEEDLER: Well, if you look at the --
+the orders denying the permit applications in the record
+at -- I believe it's 49 to 51 and 59 to 61. In those
+situations, it says the permits were denied because the
+plaintiff did not give the reasonable assurances that
+the statute requires in order to get the permit -- the
+reasonable assurances of -- of no loss of wetlands
+functions.
+One of the ways --
+JUSTICE SCALIA: Isn't this unreal? I mean,
+you are saying, all along, in the negotiations, the
+agency says, if you do X, you get the permit. And X
+is -- would -- would be an unconstitutional condition.
+Okay. He refuses to do X. The permit is
+denied with a general statement like this: The permit
+is denied because he has refused to do the -- the
+necessary mitigation.
+Isn't it clear that the reason he's refused
+to do the necessary mitigation, is he has refused the
+last demand of the agency?
+MR. KNEEDLER: But the ultimate standard
+under the statute is whether he has provided reasonable
+assurances. What assurances -- the way in which he goes
+about it, whether offsite or onsite -- the offsite part
+just arises because this is a wetlands case.
+Normal regulation wouldn't raise the
+offsite -- onsite problem. But the ultimate question is
+he didn't carry his burden of establishing no net loss
+of wetlands.
+JUSTICE BREYER: Well, what he's going to
+say, in part, is -- I guess, I did a little numbers from
+your brief, the 37 million acres in Florida, say about
+4 million are bodies of water and say a third of them
+are built up, and we have 11 million that are wetland
+and 11 million that aren't. That's crude.
+So they're saying why in heaven's name are
+we supposed to -- everybody wants to build. And why
+should the people that happen to live in wetland have to
+pay for all the other wetland? That's just coincidence.
+So he is going to say that that is like the Shriners
+Hospital. You are going to say, no, it isn't like the
+Shriners Hospital.
+Now, all I'm saying is isn't it at least an
+issue, under the Takings Clause, whether it is or isn't?
+MR. KNEEDLER: I think it's clearly not like
+the Shriners -- the Shriners Hospital --
+JUSTICE BREYER: I know you'll say that. He
+will say that it is.
+MR. KNEEDLER: But I did want to come back
+to Justice Scalia's question. The permit -- permit
+denials -- just general permit denials, the Court made
+clear, in Del Monte Dunes, are not covered by Nollan and
+Dolan. They are covered by Penn Central.
+And the Court made clear, in Nollan, that
+the Court could have denied the permit without attaching
+the condition. We think it's important that the agency
+always have that option.
+And the third point is --
+JUSTICE ALITO: Well, you may be right, but
+you are making Nollan and Dolan a trap only for really
+stupid districts -- you know, if they -- they say the
+right words and then they are out from under it; isn't
+that right?
+MR. KNEEDLER: Well, I don't think so
+because -- because there are situations in which an
+agency actually wants to get the easement. But this
+Court, in Lingle, made clear that -- that the general
+rule is Penn Central, with only the two exceptions for
+regulatory takings --
+JUSTICE ALITO: Well, why should it matter whether
+the -- whether the permitting authority says expressly
+in the denial, "It's denied because you didn't do this,"
+or it just says, "It's denied," but it's perfectly well
+understood what was needed -- what they were going to
+demand in order to get it.
+MR. KNEEDLER: Because -- if may I answer,
+because the agency has to reserve -- has to have the
+ability to -- to deny the permit because the conditions
+required by the statute were not met.
+And Nollan and Dolan deal with formality and
+the formality of conveyance of an easement. If there is
+not a document that requires that, then the strict
+requirements of -- for the narrow exception in Nollan
+and Dolan do not apply.
+CHIEF JUSTICE ROBERTS: Thank you,
+Mr. Kneedler.
+Mr. Beard, you have three minutes.
+REBUTTAL ARGUMENT OF PAUL J. BEARD, II,
+ON BEHALF OF THE PETITIONER
+MR. BEARD: Thank you, Mr. Chief Justice.
+I would just like to point the Court -- and
+particularly Justice Scalia, to pages 30 and 31 of our
+brief on the merits where we describe, with citations to
+the Nollan and Dolan, what precisely happened there.
+I want to make sure that it's clear that
+what they did there was not issue permits. They
+approved with conditions, but the property owner still
+had to satisfy the conditions in order to receive the
+permit.
+As to the question about --
+JUSTICE SOTOMAYOR: What do we do with what
+Mr. Kneedler says is a ruling in your favor on this
+question, that all denials are subject to Nollan and
+Dolan? What do we do with that?
+I mean, what's the -- I see an enormous
+flood gate here and one in which we are sending a signal
+that, perhaps, States should be more quiet, rather than
+more engaging. They should just say no because anything
+they offer is going to be seen as an -- potentially, as
+an unconstitutional taking.
+They should just plain say no and not
+explain why, not engage in any work with you to
+mitigate.
+MR. BEARD: Justice Sotomayor, I don't
+believe that negotiations will suddenly break down, and
+we will see a flurry of permit denials, if the Court
+rules in our favor. What will happen, instead -- it's
+true, I should say, they will lose flexibility in
+demanding whatever it is that they want under the
+Takings Clause.
+They won't have any review. But the benefit
+of applying our rule that says monetary exaction should
+be treated like other exactions and be reviewed under
+Nollan and Dolan --
+JUSTICE SOTOMAYOR: But they're not. People
+are asked to pay taxes. Homeowners are asked to pay
+taxes all the time; development fees, if they want to
+develop something. People are subject to money
+exactions all of the time in this society.
+MR. BEARD: No question that we all are
+subject, on a daily basis, to government demands that we
+pay or that we have a financial obligation.
+JUSTICE SOTOMAYOR: So what happens in
+just -- when the legislature passes a development fee?
+Are you, now, saying that's subject to Nollan and Dolan,
+too?
+MR. BEARD: If the legislation requires an
+agency who processes the permit to impose a fee in
+exchange for a permit -- again, within the land-use
+context, we are not talking about taxes, homeowners'
+fees, we are talking within the discretionary land-use
+process -- that is imposed there, then the risk of
+coercion, undue influence, and the like arise, and
+Nollan and Dolan should apply.
+But I wanted to respond specifically to
+Justice Breyer's questions about Penn Central. I think,
+conceptually, there is an important difference between
+the Unconstitutional Conditions Doctrine, which is what
+we seek to apply here, and what would be a permit -- or
+what would be a Penn Central claim.
+The Unconstitutional Conditions Doctrine,
+the offense there is the -- may I --
+CHIEF JUSTICE ROBERTS: Finish your thought.
+MR. BEARD: The offense there is the
+conditioning -- the improper conditioning of a permit.
+It's not did the condition force me to lose the value in
+my land. That's a very different question that a case
+like Penn Central might answer, subsequent to a permit
+denial.
+The Unconstitutional Conditions Doctrine
+focuses exclusively on the permit exaction and on the
+conditioning, not on subsequent decisions by the
+government, for example, to deny the permit.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+MR. BEARD: Thank you.
+CHIEF JUSTICE ROBERTS: Counsel.
+The case is now submitted.
+(Whereupon, at 12:09 p.m., the case in the
+above-entitled matter was submitted.)
+adverse 8:7 49:24 55:21 areas 14:23 44:2
+59:14 affirmed 7:15 18:22 23:8 2:2,5,8,12 3:4
+agencies 6:14 appeals 7:15 12:17 20:6 back 3:19 7:25
+31:11 51:20 22:12 arises 53:20 balance 27:9
+55:11,22 58:8 37:21,22 46:21 Armstrong 36:15
+Agins 30:11 applicant 6:13 aside 34:1 18:22
+agree 20:22 22:2 applicant's 20:15,25 21:2 10:5,6 18:4
+14:22 52:16 10:3 22:7 24:8 asks 24:6 basis 34:24
+ahead 24:23 28:4,15 33:24 associated 23:18 43:11 47:17,19
+air 48:22,23 52:22 19:24 20:1,1 beach 16:19
+18:9 akin 52:14 applies 40:9,13 27:2,3 29:6 18:21
+54:2 Alito 33:7,15 41:22 46:23 assumed 11:7 beaches 16:18
+14:5 allow 27:22 46:19 47:22 19:11,16 43:22 45:11 49:17
+alterations 49:8 56:4 51:17 Beard 1:16 2:3
+52:2 amicus 1:22 applying 57:17 52:25 53:2,18 4:1,9,20 5:11
+9:22 24:24 13:8 27:24 attached 4:10 8:18 9:12,18
+27:12 analysis 12:21 45:10 18:19 24:23 10:9 11:1,10
+42:8,23,24 26:9,13,15,16 55:16 14:8 16:11
+14:4 analyze 11:14 approved 56:17 25:6 22:2,12 23:7
+26:8,19 building 16:24 36:3 10:25 11:2 41:14
+56:7,8 built 54:4 cause 5:15,20 13:22 14:1,2,9 communication
+57:9,25 burden 11:24 6:1,5,5,9,11 15:6 17:21 4:23
+59:10 17:25 28:15 22:16 35:20 21:8,9,10 27:6 comparison
+46:24 47:1 14:2 15:5,15 35:24 38:5 23:17 24:2
+3:8 49:17 29:16,19,22,23 51:2,5,14 34:20 39:12
+56:9 burdensome 30:8 31:7,9,15 58:20 42:18 44:4,4,9
+35:3 business 15:19 40:9,14 41:15 16:16 36:17 52:3
+57:10 32:14 48:6 50:16 Clause 18:10 complex 45:8
+C 58:16,20 59:3 32:21 34:17 48:18 51:8
+9:2,23 call 29:10 31:6 30:2,6,24,25 44:7,9,10 26:22 33:5
+care 41:18 49:12 23:20 25:9 conceptual
+21:2,11 26:19 28:18,21,25 client's 15:14 conclude 9:19
+19:8,15 27:24 29:19,19 29:11,18,21,25 close 50:7 concrete 33:21
+20:17 29:21,22,23 30:4,18 31:2 coal 15:9 17:6 33:21
+40:6 41:9 31:8,9,23 33:2 32:11 36:22 45:12,16 50:8 condemn 34:10
+45:20 35:3 36:7 40:4 37:12,20 43:4 coal-fired 48:21 condemnation
+50:4,11 40:9 41:6,14 43:14,19 46:9 coercion 58:13 14:7,9
+53:25 42:11,17 47:2 46:15 49:2,15 coherence 30:9 condition 4:9
+49:4 51:12 52:16 56:5,10 coincidence 5:22 11:7,21
+56:13 cases 6:17 12:7 circumstance columns 50:8 20:25 21:12,14
+case-specific citations 56:13 34:23,23 35:22 30:21 32:5
+38:1 cash 34:22,24,25 citizens 37:8 comes 23:15 38:19 43:9,12
+54:7 35:4,6,7,15 claim 4:8,11,18 Commission 44:18,18,22,22
+48:11 context 11:15 courts 20:10 21:5 22:17 development
+52:4 23:23,23 24:1 21:14 23:6 33:23 12:14 14:21
+53:8 32:7 46:19 court's 12:21 51:11,19 52:1 23:18 24:23
+59:1 58:10 34:13,13 45:10 52:7,8,19 25:3,8,9,22,23
+58:25,25 contribute 54:23 denials 10:5,6 58:4
+31:12 39:21 Coy 1:3 3:16 54:21,21 56:23 difference 26:10
+17:24 34:15 critical 52:6 denied 13:18 58:17
+19:4,7 convert 42:23 crude 54:5 25:14,18 28:4 different 9:6
+25:22 convey 48:12 crux 12:17,19 33:16,20 34:7 15:20,22 20:14
+conveyance 56:1 21:10 43:11 52:24 21:7 26:11
+28:12 correct 4:1 6:10 culverts 14:23 53:10,11 54:25 35:5 48:16
+29:6,8 11:20 14:8 curiae 1:22 2:10 55:17,18 50:18 59:2
+31:4 23:14 24:5,16 46:13 deny 4:8 22:6 diminution
+52:20 28:20,20 45:22 cut 38:17 55:23 59:8 48:22
+56:17,18 51:5 denying 8:22 disagree 11:9,10
+59:5 cost 14:13 22:18 D 52:22 disagreed 27:23
+36:25 48:23 damage 28:1 departure 48:17 discretionary
+59:9,11 day 3:23 13:5 discussed 52:10
+28:3 deal 55:25 deprived 45:19 disputing 45:23
+course 6:12 7:10 decide 4:25 derive 31:6 distinction 19:2
+30:15 16:15 17:5 13:11,14 describe 56:13 district 1:7 3:5
+4:3 6:21 49:24 22:5,6,6 34:13 designed 12:16 5:23 7:12,25
+8:21 court 1:1,13 34:14 51:21 36:24 37:6 8:5,14,22 10:3
+23:1 3:10 5:6 6:15 52:13,15 destroys 40:18 11:23 12:3,13
+48:17 16:22 21:11,12 Del 47:21 54:22 determination 27:25 28:4
+30:20 26:3 27:19 28:23 29:6 determine 13:6 45:1
+30:8,11 32:23 30:21 34:18 13:8 24:17 districts 55:6
+36:17 40:2 41:15 demanded 32:6 develop 4:6 23:2 28:2
+44:6 45:6,9 demanding 10:14,20 12:5 ditch 14:24
+47:20 48:1 demands 29:7 37:24 40:23,25 58:18,21 59:5
+54:21,24,25 denial 4:10,21 developed 17:12 doing 43:17
+7:19 11:7 46:4 evenly 37:8 extended 32:24 first 10:10 29:15
+14:1 either 8:11 everybody extending 35:8,8 29:16 30:23
+16:1 18:15 25:21 16:17,18 54:7 extensive 36:19 33:10 34:3
+18:15 26:19 33:1 evidence 9:20 extent 3:11 4:22 35:2 39:1 48:3
+20:24 43:18 exact 44:22 extraordinarily 51:15
+24:4 eliminate 14:22 exacted 42:13 45:7 Fish 41:14
+14:23 exacting 42:6 five 12:9 38:7
+eliminating 9:5 exaction 6:16,18 F flexibility 57:13
+29:4 ellipsed 51:10 7:1,2 25:10 Fabulous 36:10 flood 57:1
+32:2,4,5 embodies 27:7 47:23 51:24 faced 40:3 Florida 7:16
+emphasize 57:17 59:6 faces 26:20 21:12 22:22
+35:24 46:17 exactions 3:13 fact 5:23 7:17 27:20 28:11
+42:4,11 enable 18:3,5 23:21 37:7 8:13 10:6 43:14,15 54:2
+46:18 engage 57:7 42:12 57:18,24 12:23 17:6 flurry 57:11
+49:5 engages 30:16 exactly 33:19 factual 7:20 focuses 59:6
+51:23 engaging 57:3 40:3 failure 52:20 following 40:8
+54:23 enhance 14:24 example 5:3 fair 34:8,10 football 31:13
+56:4 enhancement 11:16,17 24:11 fairness 16:14 32:16 37:2,4
+57:19 18:9 34:3 37:2 59:8 fall 43:20 37:21,24 38:2
+enhancements exception 56:3 far 15:10,15 49:3,10 50:6
+enormous 56:25 excess 7:19 45:19,25 forced 37:14
+32:21 47:24 52:11 58:9 Federal 28:22 former's 39:25
+entirely 21:7 10:6 59:6 43:16,20,21 18:22 22:14
+7:18 8:22 equal 30:24 38:5 expectations 19:25 23:11 four 12:24
+9:10,17 38:22,23 49:12 40:18 41:2 fill 24:13 framework
+18:20 ESQ 1:16,18,20 45:21 46:5 filling 14:22 15:16,18 17:8
+25:4,5 2:3,6,9,13 expend 33:4 final 8:22 14:4 20:1 40:8,21
+47:8,10 essentially 31:5 expenditure 22:6 52:13,14 40:22 41:5,6,7
+34:14,19 48:19 finance 3:17 41:10,18 45:6
+51:13 establish 11:25 experts 22:19 financial 58:2 free 8:16
+56:1 11:26 28:14 explain 20:15 find 15:3 frequently
+establishing explained 48:2 findings 7:20 friend 32:3
+46:12 et 40:20 expressly 52:8 fine 18:2 front 15:23
+16:5,20 17:15 hard 32:21 impact 4:13 8:7 insisting 50:7
+34:9,15 44:17 harm 42:4 44:19 13:7 17:25 install 14:20
+48:21 44:24 24:19 28:17 48:21
+53:10 35:24 36:5,21 Hodel 29:21 33:1 interferes 41:1
+55:12 37:13,16 38:5 hold 15:9 impose 30:24,25 intruded 27:12
+46:20 39:6,16 40:19 51:15 imposed 3:13 invasion 40:10
+7:22 44:11,14 45:3 50:9 13:25 17:2 investment-ba...
+9:1,12,14 45:4,11,13 homeowner 23:5,9 37:7 40:18 41:1,20
+22:11,22 46:23 47:2 47:13 38:3 39:18 45:20 46:5
+48:8,10 49:9 homeowners 58:12 50:1
+11:17 59:8 Honor 4:20 5:19 50:20 irrational 36:20
+government's 6:6 9:18 11:11 imposition 5:21 Irving 29:22
+19:4,6 grant 43:18 27:10 impossible 31:5 issue 20:2,22
+24:7 51:19,25 hope 45:16 improper 58:25 26:9,15 49:8
+29:13 granted 8:16 Hospital 40:24 improve 8:1 51:4,14 54:14
+33:10,12 18:18 25:15 54:11,12,16 improvement 56:16
+34:8 33:16 34:7 house 16:17,24 8:12 issued 19:1
+40:24 42:5 47:11 25:3 34:23 improvements 24:22 26:4,5
+47:18 granting 33:11 36:7,14 47:14 22:9 26:12 43:6
+52:25 48:11 50:5 improving 8:8 47:10
+grows 16:3 hypotheticals including 19:3 56:8
+13:19 guidance 10:16 increase 9:22 Johns 1:6 3:5
+26:6 I indicated 45:20 Joint 22:12
+43:15 H idea 4:21 48:13 individual 25:8 JR 1:3
+half 8:5 ideas 52:11 37:14 39:7,9 judicial 33:22
+20:18 54:8 57:12 49:21 4:12 5:7 jurisdiction
+45:19,24 happened 7:2 II 1:16 2:3,13 individuals 3:13 22:23
+57:9,20 58:3 3:16 5:3 10:1 legislation 58:7 59:14
+4:2,5,15 59:11 28:2 45:23 legitimacy 7:10 51:24
+justification Koontz's 8:20 let's 3:19 13:14 McMahon
+7:9,22 41:21,25 42:1 22:7 27:25 38:12,12,13 40:15
+9:1,12,14 justify 44:15 49:7 mean 10:17
+11:5 L liability 52:11 14:21 18:13
+12:3 K land 3:14 4:7 limit 30:19 28:10 29:21
+KAGAN 10:9 8:9 14:21 15:6 limitation 44:7 31:7,24 32:20
+14:6 11:5,12 23:7 15:7,8,20,22 limits 28:23 35:7,13 36:7
+16:11,12 23:25 24:11 16:16,16,21,22 Lingle 30:8 44:6 39:5,11,17
+17:5,14 Kagan's 13:14 17:17 21:6 45:9 47:21 40:2 46:1 49:4
+Kaiser-Aetna 23:1,13,23 48:2 55:12 50:11 53:5
+29:23 25:17 26:7 list 21:18 56:25
+20:17 keep 31:18 31:6,12,22,22 litigated 21:10 Meaning 7:1
+22:11 Kennedy 12:3 33:13,17 34:9 31:8 means 7:6 19:4
+23:7,25 13:2 26:24 34:10 39:9 little 54:1 20:3
+26:4 31:10,14 32:1 40:23,25 42:25 live 54:8 means-ends
+38:12,22 39:1 44:5 45:16 logical 35:13 30:15
+45:12,23 46:3 47:3,24 long 39:2 measure 42:25
+Kennedy's 49:25 59:2 look 7:23 11:15 meets 28:16
+29:11,18 13:23 landowner 14:16 15:11 mentioned 21:5
+30:4 kind 4:17 14:1 10:18,19 27:21 19:8 20:9 27:2merits 56:13
+31:2,10 20:7 21:8,8 28:12,14 30:7 34:17 40:17,19met 55:24
+44:2 32:13,13,25 52:21 miles 12:24
+33:7 kinds 11:4 33:1,22 37:3 looking 43:21 million 31:12
+34:2,5,6 Kneedler 1:20 37:17 38:1,4,6 lose 25:17,17 32:15 54:2,3,4
+35:3 2:9 46:11,12 39:19,20 49:4 57:13 59:1 54:5
+46:15 47:6,9 49:13 loss 3:21 6:22 mind 7:4
+47:19 49:11,20 landowners 53:2,23 minding 32:14
+37:12,20 50:3,10,13,16 36:20 38:8 lost 17:19 29:19 mine 15:9 50:8
+50:20,23 51:6 39:18 low 22:18 minimal 9:20
+51:16,20 52:21 land-use 58:9,11 lower 20:10 minutes 56:7
+40:6 53:16 54:15,19 large 49:18 Lucas 31:7,15 mismatch 42:20
+55:9,21 56:6 Laughter 18:23 31:19 40:13 43:2
+42:9,14 56:22 19:14,22 42:15 mismatched
+know 5:4,10,11 laundry 21:18 M 45:7
+45:12 14:18 15:10,12 law 10:1 14:18 magical 34:22 missing 16:9
+46:9 23:9 26:25 17:22 28:19 Mahon 45:13 mitigate 4:19
+47:4,7 29:18 30:9 36:19 making 55:5 5:4 12:10 28:1
+49:2,15 32:22 33:23 lawful 11:22 man 10:24 42:6 57:8
+50:4,11 34:19 38:4,4 lawsuit 15:4 management mitigating 4:16
+39:18 40:2 leave 8:1,11 1:6 3:5 14:20 mitigation 3:21
+52:16 41:7 54:17 11:26 15:9 market 34:8,10 3:24 4:2,8,16
+54:17 55:6 leaves 10:18 matter 1:12 7:11 4:22 5:1 6:22
+55:4,15 known 5:23 left 33:8 9:25 17:22 7:6,17,18 8:24
+10:7,15 8:19 22:3 O option 21:18 27:16 56:8
+52:10 53:6 O 2:1 3:1 55:2 pay 23:16 24:2
+12:24 57:10 obligated 4:21 options 9:3 22:4 24:14 33:1
+14:13 net 6:22 7:7 28:13 oral 1:12 2:2,5,8 34:10 37:3
+20:23 53:23 obligation 4:18 3:7 27:16 38:20 44:11
+22:17,24 never 5:13,14 35:9 51:4,7,7 46:12 50:5 51:4,7
+23:3 47:2 50:8 58:2 order 10:13 22:3 54:9 57:21,21
+27:21,23 new 31:13 49:10 obtain 44:3 23:16 42:6 58:2
+nexus 16:23 obviously 39:16 53:1 55:20 paying 48:9,9
+35:9 5:20 6:12,15 offense 58:22,24 ordinarily 45:10 15:5,15 16:2
+7:19 11:7,20 offer 4:2,22,24 outset 46:17 17:8,9,13 20:9
+33:1,4 16:1,8,12 8:24 13:17 overlay 36:19 29:19,22,23
+36:13 18:14,18,24 57:4 owed 52:3 30:7 31:7,9,15
+39:4 20:24 23:12,22 offered 4:5,7 owner 16:13 31:17,19,22
+24:4,15,17,21 8:14,15 14:12 24:7 37:23 40:9,14 41:15
+51:2,5,7 24:25,25 25:1 16:4 52:20 45:20 56:17 45:12 48:5
+57:23 25:20,21 26:8 offering 9:2 16:5 owners 36:24 50:16 54:23
+32:2,4,5 33:8 offset 4:14 8:7 owns 37:4 59:3
+26:14,16 50:18 51:23 53:19,19,22 56:12 55:18
+52:4 54:22,24 oh 8:4 15:14 paid 35:9 perform 20:23
+56:3 36:9 parcel 12:8 21:12 22:8,17
+45:6 51:12 43:19 49:9 54:1 9:15 10:23
+normally 13:10 onerous 31:5 particularly 18:4,17,19
+42:3 north 16:19 one-third 33:12 parties 27:20,23 21:5 22:6,17
+Norwood 34:14 33:17 parts 20:20 23:5,22 24:1
+24:14 number 33:15 29:8 53:19,22 passes 58:4 25:15,21 26:4
+33:12,16 52:25 17:18 35:7,8 45:25 54:20 56:20,23
+34:7 plan 13:16 42:10,14 53:22 proposition 43:7 57:25 59:2
+42:5 plant 48:20,21 procedure 46:22 protect 48:22 questioning
+play 12:20 29:10 process 13:20 protecting 49:17 27:12
+46:23
+47:10 please 3:10 30:23 32:21 38:5 39:3 42:1 40:2,5 50:24
+49:9,10 27:19 46:16 33:23 43:16 42:2 49:12 58:16
+12:16 15:1 processes 58:8 proved 19:20 quiet 57:2
+30:11 produced 20:19 provide 10:7 quite 20:3
+35:13,14 23:5 provided 22:4 quote 10:5 22:25
+56:19 43:5 55:3 profits 17:19 53:17
+58:8,9 56:11 program 46:25 providing 10:21 R
+59:3 pointed 18:21 48:25 provision 36:23
+programs 46:21 37:10 39:20 radical 46:20
+22:25 policy 6:23,25 project 9:4,9,16 provisions 28:19raise 21:8 31:15
+52:24 7:3,10 10:12 9:22 10:8 46:1 43:21,22 31:17 40:1,4
+12:5 24:13 proof 42:22 public 16:14,23 51:12 53:21
+24:6 portion 39:21 properties 22:1 24:8 28:16 range 8:15,19
+55:16 posing 5:12 property 3:16 47:24 48:3 22:18,19
+26:6,17 36:2 43:23 10:14 15:24,25 pure 34:15 rationality
+48:12 potentially 57:4 16:13 17:3,11 purpose 16:23 32:22
+2:4,14 3:8 precisely 56:14 32:8,15 36:24 put 4:15 18:8 10:18 24:17
+42:20 56:9 predicated 37:5,7,23 24:8 38:13,13 31:11 33:2,19
+46:18 predicating 39:3,21 40:10 50:5 51:10 55:5
+43:18 40:11 44:12,12 p.m 59:13 reason 15:19
+presented 50:24 49:21 56:17 Q 53:13
+48:4 9:16 12:6 44:23 45:2 question 10:10 44:17 52:25
+pretrial 10:4 44:19 20:12,16,19,24 26:25 56:8
+23:13 22:13 proposal 10:15 21:7 23:4,10 recall 6:15
+prevent 6:17 10:15,16,17 26:24 28:25 receive 56:18
+14:17 30:10 41:5,10,17 47:17 53:6 seized 44:12
+require 27:20 42:16 45:8 54:6,13 58:5 seizing 36:5
+52:18,22 45:11 47:23 50:3,3 says 4:17 5:25 sending 57:1
+12:22 22:24 rights 25:17 11:14 13:15 45:25 52:2
+53:11 44:10,14 48:24 29:18,25 30:4 53:7 55:16,18 33:25 40:14
+requirements 30:18 31:2 56:22 57:17 sets 22:14
+37:18,21 res 51:3 rough 44:19 26:4,13 31:17 31:11
+40:17 reserve 27:9 roughly 40:8 31:21 34:21 shows 21:17,22
+45:19,24 55:22 45:1 35:3,11,14,17 Shriners 40:24
+47:3,3 respective 13:6 rubric 29:3 35:20 36:1,5,9 54:10,12,16,16
+respond 58:15 rule 55:13 57:17 36:12,16 38:7 side 5:25 6:4
+21:6 27:17 46:14 rulings 50:25 41:23,25 42:9 significant
+33:3 Respondent's run 45:8 42:14 47:4,7 41:20
+42:24 8:4 running 26:25 47:12 53:5 significantly
+48:6 rest 3:22 9:9,17 31:18 56:12 41:1 50:1
+55:14 46:5 R.Q 1:18 2:6 Scalia's 54:20 similar 38:2
+29:17 S scrubber 48:22 singled 16:13
+33:23 57:16 satisfied 52:18 second 51:10,11 37:11 45:8
+49:6 right 3:25 4:18 56:18 15:16 16:1,2 49:11 51:13
+13:11 14:21 saying 6:8,11 20:9 25:18 situations 33:10
+36:19 39:21 supporting 1:22 tell 4:25 three 33:10 56:7
+24:1 stated 6:23 10:12 12:3 terrible 15:13 57:24
+22:15 2:10 46:13 50:5 54:7 46:8,9 56:5,10 totally 31:23
+36:4 57:2 Supreme 1:1,13 59:9,10 tradition 39:2
+35:10 53:17 55:24 22:22 25:25 trap 55:5
+stop 43:17,17 sure 7:6 10:10 theory 47:20 treated 57:18
+13:10,13 35:14 56:15 thing 19:12 21:6 trial 7:14 9:19
+17:14 stormwater surprises 41:12 26:14 10:4 12:20
+51:9,17 14:20 system 14:20,24 things 15:3 21:11
+57:9,20 story 47:15 21:18,23 36:23 tried 30:8
+straightforward T 40:17 trucks 38:16
+38:4,5 strike 39:14 16:22 34:23 11:19 12:1,4 29:7 39:14
+24:3,10,15,16 taken 5:10 11:8 29:1,2,4,14,15 trying 18:1
+57:23 58:1,5 35:22 44:5 32:19,19,20,23 43:19
+10:3 59:12,14 takes 41:18 37:25 38:9,10 52:11,12
+37:2,4 substantial 31:3,3 34:24 44:2,25 45:5 48:2 50:25
+38:2 49:12 35:8 36:23 49:11 50:9,17 55:13
+substantive 44:7 37:6,10 41:3 50:25 51:3,16 type 14:9 37:11
+46:20,22 subsurface 51:5,14 54:14 58:16 U
+14:20 55:14 57:15 thinking 52:6 ultimate 53:16
+user 24:9 ways 8:6,6,15 39:23 40:1 2 33:15
+17:2,7,24 v 1:5 3:5 29:21 went 7:18 14:19 45:22 46:10 3
+26:20 45:12 20:9 24:22 word 45:21 3 2:4
+33:25 value 31:6,22,22 25:16 32:12 words 4:23 3.7 8:20 22:7
+34:8,10 40:11 46:4 20:21 33:19 30 15:2 56:12
+53:8 57:5 44:5 59:1 wetland 54:4,8,9 45:2 51:23 31 56:12
+59:5 various 22:4 wetlands 3:21 55:7 37 54:2
+16:8 view 23:2 10:13 12:6,6 worth 39:9,21 4 54:3
+28:25 Village 34:14 12:10,14 13:8 wouldn't 5:10 4,000 50:7
+34:21 violate 32:20,21 18:10 24:13 5:10,11 6:3,3 46 2:10
+43:7 violated 7:19 27:22 28:2 9:2 14:3 47:18 49 52:23
+53:24 written 51:21
+27:3,4 50 3:17 12:9
+55:19 12:13 41:7,8 43:12
+22:9
+51:2,18 17:23 18:1
+18:22 we've 23:11 $
+11:2 12:8 36:14 $10,000 14:14
+22:13
+22:13
+37:23 41:7 Williamson $50,000 40:24
+57:14,22 1
+46:13 41:3
+10 12:6,6,15
+48:20 100-acre 12:8
+55:11 11 54:4,5
+27:18 28:9,20
+11:06 1:14 3:2
+47:12 13 8:4
+32:19 33:14,18
+21:3,7 34:4,12 35:2
+14:23
+23:23 35:12,16,19,23
+26:21,21 36:4,10,16
+46:20 22:20
+37:12,25 38:9
+50:8 48:16 53:18 38:21,25 39:15 2

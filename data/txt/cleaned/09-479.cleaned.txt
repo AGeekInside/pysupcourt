@@ -1,0 +1,1635 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+KEVIN ABBOTT, :
+Petitioner : No. 09-479
+v. :
+UNITED STATES :
+- - - - - - - - - - - - - - - - - x
+and
+- - - - - - - - - - - - - - - - - x
+CARLOS RASHAD GOULD, :
+Petitioner :
+v. : No. 09-7073
+UNITED STATES :
+- - - - - - - - - - - - - - - - - x
+Washington, D.C.
+Monday, October 4, 2010
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 11:06 a.m.
+APPEARANCES:
+DAVID L. HORAN, ESQ., Dallas, Texas; on behalf of
+Petitioner in No. 09-7073; appointed by this Court.
+JAMES E. RYAN, ESQ., Charlottesville, Virginia; on
+behalf of Petitioner in No. 09-479.
+ROY W. MCLEESE, ESQ., Acting Deputy Solicitor General,
+Department of Justice, Washington, D.C.; on behalf of
+Respondent.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+DAVID L. HORAN, ESQ.
+On behalf of the Petitioner
+in No. 09-7073 4
+ORAL ARGUMENT OF
+JAMES E. RYAN, ESQ.
+On behalf of the Petitioner
+in No. 09-479 17
+ORAL ARGUMENT OF
+ROY W. MCLEESE, ESQ.
+On behalf of the Respondent 27
+REBUTTAL ARGUMENT OF
+JAMES E. RYAN, ESQ.
+On behalf of the Petitioner
+in No. 09-479 54
+P R O C E E D I N G S
+(11:06 a.m.)
+CHIEF JUSTICE ROBERTS: We'll hear argument
+next in Case 09-479, Abbott v. United States, and the
+consolidated case, 7073, Gould v. United States.
+Mr. Horan.
+ORAL ARGUMENT OF DAVID L. HORAN
+ON BEHALF OF THE PETITIONER IN NO. 09-7073
+MR. HORAN: Mr. Chief Justice, and may it
+please the Court:
+The statutory interpretation question here
+is what laws trigger section 924(c)(1)(A)'s "except"
+clause. Mr. Gould offers an interpretation that gives
+meaning and effect to every word and phrase of section
+924(c)(1)(A) and that follows this Court's recent
+holdings regarding the broad scope of the phrase "any
+other provision of law."
+The government, on the other hand, advocates
+a narrow construction that is not supported by the text
+and defends it primarily on the basis that section
+924(c) supposedly should always produce the most severe
+mandatory minimum sentence for every defendant.
+Respectfully, the government's
+interpretation is incorrect. Its reading gives no
+practical effect to the phrase "any other provision of
+law," and the government has not cited and has yet to
+even attempt to distinguish this Court's recent
+interpretation of the very same phrase, "any other
+provision of law," in Republic of Iraq v. Beaty just
+last year.
+Unlike the government's, Mr. Gould's
+interpretation is true to the text; it is true to this
+Court's holdings; and it's true to Congress's evident
+purpose in 924(c)(1)(A), and in particular in its
+"except" clause.
+JUSTICE ALITO: Well, if the text of this is
+so clear, how is it that Mr. Gould and Mr. Abbott
+propose different interpretations of this provision?
+MR. HORAN: Your Honor, as a judicial
+matter, I would note that I think our interpretations
+are not that far apart. But -
+JUSTICE ALITO: But they are not the same,
+are they?
+MR. HORAN: They are not. And our
+interpretation, we believe, is the closest to the actual
+text. Our interpretation requires reading no language
+into the text. It -
+JUSTICE ALITO: Isn't there -- isn't it -
+there is a missing prepositional phrase in this -- in
+the provision that we are looking at?
+It says, "except to the extent that a
+greater minimum sentence is otherwise provided." For
+what? And all of you have to -- are filling in the
+prepositional phrase. For an offense of conviction,
+for -- for an offense that's part of the --of the
+underlying transaction, for a violation of this
+particular provision or one that's very similar to it.
+There is just no way of getting around the
+fact that something has to be read in there. Something
+is implied; isn't that right?
+MR. HORAN: Your Honor, respectfully, I
+believe under our interpretation, it -- there is -- you
+do have to understand something to be in there, but we
+are not actually reading anything into the text. That
+is the reason -- to be sure, the words "any kind of
+conviction" are not in there.
+However, the most natural reading of the
+text, without adding anything to it, is that
+924(c)(1)(A) requires a 5-year -- at least a 5-year
+minimum sentence, in addition to any sentence for the
+predicate drug trafficking or violent crime, except to
+the extent that a greater minimum sentence is provided
+for the defendant by subsection 924(c) or by any other
+provision of law.
+JUSTICE GINSBURG: So that means there would
+be no punishment, added punishment, at all for the
+possession of the gun; that is, you have the -- the
+possession with intent to distribute, no gun involved,
+and you get 10 years mandatory minimum for that. That
+automatically would wipe out any add-on for the gun,
+under your reading.
+MR. HORAN: Yes. Yes, Justice Ginsburg.
+And to follow on that, it is true that our
+interpretation -- we think that the plain text dictates
+that if the "except" clause is triggered, the lesser
+mandatory minimum sentence under 924(c)(1)(A) shall not
+be imposed; that is -
+JUSTICE SOTOMAYOR: I'm sorry. You keep
+saying that you're not reading anything into the statute
+under your interpretation, but you are. You are
+limiting the -- the "any other provision of law" to any
+other provision of law specified in the charging -- in
+the counts of conviction, correct?
+MR. HORAN: That is the -- yes, Your Honor.
+We are recognizing that limitation.
+JUSTICE SOTOMAYOR: So you -- you said to
+Justice Alito that you weren't reading anything in, but
+you are. You're reading into it that the other
+provision of -- of law to refer to counts of conviction
+at sentencing, correct?
+MR. HORAN: That is correct, Your Honor.
+JUSTICE SOTOMAYOR: All right. So why is
+that read-in logical, meaning it's giving no extra
+punishment for the possession of a firearm?
+MR. HORAN: Your Honor, two things -
+JUSTICE SOTOMAYOR: Which was, I think,
+Justice Ginsburg's -
+JUSTICE GINSBURG: Yes. I think you weren't
+finished answering my question.
+MR. HORAN: If I may -- and I think then -
+I think it will help in answering your question, Justice
+Sotomayor. That is correct. The only thing I would
+say -- the thing I would additionally say, though, is
+that there is, under the sentencing guidelines, which
+must be applied even now, as -- to provide a recommended
+range, there would in each of these instances be a
+firearm enhancement that enhances the underlying
+predicate offenses' sentence that the defendant would be
+facing and also how the -- the district court would
+work. So I believe -
+JUSTICE GINSBURG: But that is not
+mandatory?
+MR. HORAN: That is no longer mandatory.
+That is correct.
+And then with regard to your question,
+Justice -
+JUSTICE GINSBURG: So you're saying that the
+gun possession can be accounted for by the judge as a
+matter of discretion using guidelines, but there's no
+mandatory at all?
+MR. HORAN: Yes, Your Honor. That is
+correct. There would no longer be a mandatory sentence
+for -- or mandatory additional punishment for the
+firearm possession.
+JUSTICE SCALIA: And -- and I suppose the
+prosecution can alter the consequence based on what it
+chooses to bring in a single prosecution.
+I mean, if it has other -- other
+enhancements, it should bring a separate prosecution for
+that. So long as it brings it in one suit, you say, in
+one prosecution, you get the break. But if -- if the
+other enhancement is brought -- has been brought in a
+separate prosecution, you don't get it.
+MR. HORAN: Justice Scalia, I think that's
+correct to an extent. The -- the main exception to
+that -- and I think it's a significant one -- is that
+the "except" clause would most often be triggered in the
+mine run of cases by the predicate drug trafficking or
+violent crime that carries with it a greater mandatory
+minimum sentence. That is, for double jeopardy
+purposes, the same offense as 924(c).
+So, in fact, there is a significant
+constraint on the prosecution, that it cannot bring a
+separate prosecution for 924(c) and its predicate drug
+or trafficking -- drug trafficking or violent crime. So
+it's a significant limitation on this -
+JUSTICE SCALIA: Yes. Yes, I understand
+what you're saying.
+MR. HORAN: Okay. And Justice Sotomayor, to
+return to your question, if I could answer it in two
+parts. First -- and I didn't mean to overstate, if I
+did -- we are not reading additional language into it.
+Our reading is contained within the context and the
+actual text that -- that is confined to section 924(c).
+JUSTICE SOTOMAYOR: Explain how, because you
+just said to Justice Scalia that if the mandatory
+minimum is in a separate charging instrument, then it
+doesn't affect you at all. It only affects you if the
+count is in a count of conviction at sentencing.
+MR. HORAN: Yes, Your Honor. That is
+correct.
+JUSTICE SOTOMAYOR: So what in the language
+of 924(c) sets forth that limitation?
+MR. HORAN: Your Honor, I would say that it
+is the words "is otherwise provided" and the context in
+which any textual reading -
+JUSTICE SOTOMAYOR: But -- but there
+"otherwise provided by law" could be Federal, State
+laws. It could be in the indictment, not in the
+indictment. You're proposing that we limit this
+somehow, but I want to see what the language is that
+you're relying upon to limit it.
+MR. HORAN: Your Honor, it is -- first of
+all, the statute begins by directing the defendant -- I
+mean, directing the district court to "any person." So
+they're focusing on the defendant. That is the
+offense-defining provision, to be sure, of the sentence.
+But the -- throughout the text, it also
+directs the district court to take account of minimum
+sentences that are provided for other crimes; for
+instance, primarily the predicate -
+JUSTICE SOTOMAYOR: In relationship to what?
+Isn't that the government's argument, which is that you
+have to say in relationship to something, whether it's
+the indictment or, as the government would have it, in
+relationship to the possession or carrying of a firearm?
+Why isn't that the more natural reading?
+MR. HORAN: Your Honor, because that -
+because the statute as a whole is essentially
+instructions to the district court on how to sentence a
+defendant, if at all, for the 924(c)(1)(A) offense.
+It directs them to, after considering the
+person in front of them, to impose a sentence of 5 years
+or less, in addition to the predicate -- any penalty for
+the -- the predicate drug trafficking or violent crime,
+except to the extent that a greater minimum sentence is
+otherwise provided.
+The natural reading of that is -- and must
+be -- that it is a -- a greater minimum sentence is
+provided for that defendant; that is, before the
+particular district court with the particular offenses
+that he has before him at sentencing.
+JUSTICE GINSBURG: Don't most crimes of
+violence and drug trafficking carry more than a 5-year
+sentence?
+MR. HORAN: Many of them do, Your Honor. In
+fact, those that carry a mandatory minimum sentence
+largely carry -- all carry, in fact, 10 years.
+There are some -- there are some both
+predicate drug trafficking offenses and predicate
+violent crimes that carry either no minimum at all or a
+mandatory minimum of 5 years or less, and so would not
+trigger the except clause.
+JUSTICE SCALIA: So let's suppose somebody
+commits a rape and a maiming in the same -- in the same
+criminal act. You're saying that the prosecution -- and
+let's assume it's his third. It's his third violent
+crime. So he would get the enhancement as being, you
+know, a three-time violent crime loser.
+You're saying he could get that enhancement
+and the enhancement under this -- under this gun -- he
+had a gun at the same time. He can get it if the
+prosecution charges rape in one prosecution, for which
+he will get the three-time loser enhancement, and then
+in a separate prosecution, it charges maiming and the
+use of a firearm. Then he gets both enhancements,
+right?
+MR. HORAN: That's correct, Your Honor.
+JUSTICE SCALIA: That seems -
+JUSTICE BREYER: I'm not sure that that's
+right. I think that -- that this may well apply to the
+crime that is being -- that is being prosecuted where
+the crime is defined as a real offense in the world,
+with the limitations put on that term by the guidelines.
+I would think that would be a natural reading, in which
+case you'd look to the conduct of the person.
+And if the conduct of the person is such
+that it calls for a mandatory minimum of a certain kind,
+there we are. And if that exceeds this amount, there we
+are. You can't apply it. And if it doesn't, you do
+apply it.
+MR. HORAN: Yes.
+JUSTICE BREYER: Have you looked into that?
+I mean, that was my reading of it as -- in the most
+natural way. The word "crime" is ambiguous. Sometimes
+it means words in a statute. Sometimes it means an
+affair in the world. And I thought this one probably
+meant the affair in the world.
+MR. HORAN: Well, in answering your
+question, Justice Breyer, in answering Justice Scalia's
+question, my assumption was that there were, in fact,
+mandatory minimums such that this would play out with
+one being greater than the other.
+JUSTICE SCALIA: Well, he's disagreeing with
+you. He -- your theory -- you're not reading "crime" to
+mean an affair in the world. You're reading it to mean
+a particular prosecution for a particular violation of a
+statute. Right?
+MR. HORAN: No, that's correct.
+JUSTICE BREYER: Well, I read that -
+JUSTICE SCALIA: He wants to read it as an
+affair in the world, whatever that means.
+JUSTICE BREYER: If that's so, then this
+gives tremendous power to the prosecutor to decide what
+the sentence will be in terms of how he manipulates the
+charge. And I thought that probably this, read with the
+guidelines, is designed not to -- not to permit that.
+It's to minimize the discretion, not to maximize.
+MR. HORAN: Your Honor, there will be
+circumstances in which a -- the prosecutor and the
+government, based on how it makes its charging
+decisions, can affect the floor that's created by the
+minimum sentence.
+It's a different situation than Deal, which
+was actually determinant sentences. It's not actually a
+circumstance where the government can determine the
+punishment itself. That would still be to the district
+court.
+But we maintain that this is the most
+natural reading. And, in fact, for instance, when this
+concern came up in Deal, that was to confirm the most
+natural reading of the plain text. The government would
+actually turn that analysis on its head under these
+circumstances.
+JUSTICE SOTOMAYOR: Justice Breyer is
+reading a bit what your co-counsel is advocating, what
+Mr. Abbott is arguing?
+MR. HORAN: No, Your Honor. I -
+JUSTICE SOTOMAYOR: No?
+JUSTICE BREYER: I mean, I don't know if it
+makes any difference. I mean, has there ever been such
+a case where the prosecutor worked this in such a way
+that he would produce this?
+Are you aware if any such case ever
+happened?
+MR. HORAN: No, I'm -- I'm not aware of
+that, Your Honor, in part because the "except" clause is
+-- there aren't that many instances of the "except"
+clause having been actually applied.
+JUSTICE SCALIA: And there has never been
+the incentive to do so, until we accept your
+interpretation. Then there will be means to do so.
+MR. HORAN: There may be -- Justice Scalia,
+there may be some incentive do so, subject to other
+constraints, including the -- the usual practice of
+charging, for instance, most offenses as they come under
+the transaction in the same indictment. There will be
+counterincentives, to be sure.
+Your Honors, for the -- in addition to the
+fact that our interpretation does not involve, we think,
+adding anything into the text that others must, we think
+it establishes -- it advances an evident purpose that
+Congress had in this, which was to ensure that a
+defendant who is convicted under 924(c)(1)(A) receives
+some sufficient minimum punishment.
+After 1998, the 1998 amendments, section
+924(c)(1)(A) was trafficking, in essence, in minimum
+sentences. And that's what this is about. So this way,
+a defendant will receive a sufficient minimum sentence
+by way of 924(c) -- I see that my time is up.
+Mr. Abbott will be represented by Mr. Ryan
+at this time.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+MR. HORAN: Thank you.
+CHIEF JUSTICE ROBERTS: Mr. Ryan.
+ORAL ARGUMENT OF JAMES E. RYAN
+ON BEHALF OF THE PETITIONER IN NO. 09-479
+MR. RYAN: Mr. Chief Justice, and may it
+please the Court:
+I'd like to spend some time on the second
+question in our petition regarding whether other
+firearms offenses are included within the scope of the
+"except" clause.
+But before I do, I'd like to make a couple
+of points about the first question, which is common to
+our case and to Mr. Gould's.
+Justice Sotomayor asked: Why isn't the
+government's reading the most natural? And the answer
+is pretty simple. The government's reading leaves one
+half of the "effect" clause with absolutely no practical
+effect.
+The government has, in its current
+interpretation, suggested that the "except" clause
+applies to one provision of law outside of 924(c).
+That's 3559(c). And yet with respect to that provision,
+the "except" clause does absolutely no work, both for
+practical reasons and because of the way 3559(c) is
+written.
+JUSTICE SOTOMAYOR: 930(c): A person who
+kills any person in the course of bringing a firearm
+into a Federal facility shall be punished as provided in
+sections setting forth minimums for murder and
+manslaughter. So it would also have an effect in
+930(c), no?
+MR. RYAN: It's not clear from the
+government's argument, Justice Sotomayor.
+JUSTICE SOTOMAYOR: I wasn't sure why it
+didn't list 930(c), but -
+MR. RYAN: As I understand the government's
+argument, the sentence that -- the only sentence that
+would count outside of 924(c) would be a sentence
+specifically for a 924(c)(1)(A) offense -
+JUSTICE SOTOMAYOR: I know, but its brief
+does two formulations. It says -
+MR. RYAN: Exactly right.
+JUSTICE SOTOMAYOR: -- anything that affects
+924(c), and then in other places in its brief, it says
+the -- the "except" clause refers to any higher minimum
+sentence for possessing, using, or carrying a firearm in
+relationship to a drug or -- drug offense or a crime of
+violence. Those are two different formulations.
+MR. RYAN: That's exactly right, Justice
+Sotomayor. And if the -
+JUSTICE SOTOMAYOR: I'm focusing on the
+second formulation.
+MR. RYAN: Okay. That point actually
+demonstrates why the government's justification for this
+limitation doesn't hold up. As the government argues at
+one point, the reason to read "any other provision of
+law" to include only sentences for 924(c)(1)(A) crimes
+is because the "except" clause, when it refers to this
+subsection, refers only to sentences for section
+924(c)(1)(A) offenses.
+Yet, that is not the case. As this Court
+indicated in O'Brien, 924(c)(1)(B) is a separate
+offense. Well, if 924(c)(1)(B) can trigger the "except"
+clause, and it's not the same offense as 924(c)(1)(A),
+the government's argument about excluding other offenses
+that might be separate from 924(c)(1)(A) no longer holds
+up.
+The other difficulty with the government's
+reading, to go back to the practical point, is that if
+you apply it just to 3559(c), it can have no effect
+because as a practical matter no one can serve a term of
+years after successfully completing a life sentence,
+which is what's required under 3559(c); and 3559(c)
+itself has a provision that, the "notwithstanding"
+provision, that makes clear that only the life sentence
+should be imposed when 924(c) is the third strike for
+purposes of 3559(c).
+That, in turn, just leaves future
+applications, and there the government's scenario under
+which the language that currently has no effect might
+have some effect is nothing short of far-fetched. It
+would require Congress to amend the sentence of
+924(c)(1)(A) outside of 924(c)(1)(A) and not indicate
+how those two penalties should interact.
+Now, if I could turn to the questions about
+a transactional limitation, which we suggest. The point
+of suggesting that the "except" clause should be limited
+to sentences for the same transaction is suggested by
+some of the questions directed to Mr. Gould's counsel.
+We think that it's the more natural reading of the
+statute in part because of concerns recognized by this
+Court in the United States v. Deal, namely that the
+statute is not designed and should not be read to give
+prosecutors unreviewable discretion as to when the
+minimum sentence in 924(c) ought to be applied or not.
+It also would preclude the equally odd
+situation of a defendant being able to benefit from the
+"except" clause in a multi-count indictment when the
+defendant has -- faces a higher mandatory minimum
+sentence for a completely unrelated -- unrelated charge.
+JUSTICE ALITO: Where would we look to find
+the definition of a criminal transaction for these
+purposes?
+MR. RYAN: You could look into 924(c)
+itself. Our view is that it would be no different than
+the transaction that would give rise to the 924(c)
+charge itself and so, for that reason, would necessarily
+include the predicate offense or another firearms
+offense.
+JUSTICE ALITO: What if there were several
+924(c) offenses committed during a rather brief period
+of time? What if on the same afternoon an individual
+engaged in a number of drug trafficking offenses and
+during each of those used or carried a firearm? Would
+they -- would they be part of the same criminal
+transaction?
+MR. RYAN: No. Just as different -
+different transactions can lead to multiple 924(c)
+charges, which is what happened in Deal, that could also
+occur here.
+JUSTICE ALITO: Well, you say "different
+transactions," but I'm looking for the definition of a
+criminal transaction. The criminal law has labored with
+this for a long time. It's not a self-defining concept,
+is it, a criminal transaction?
+MR. RYAN: No, it's not, but -- Your Honor,
+but I don't see how it would be any more difficult to
+determine the transaction than to look at what would
+constitute the 924(c) offense. It would be the same set
+of operative facts that could lead to a 924(c) charge
+which would count as the transaction.
+JUSTICE GINSBURG: Mr. Ryan, I thought that
+you had three positions, and now you're talking about
+the second one, which is any greater minimum sentence
+arising from the same criminal episode. But I thought
+your first position was any greater minimum sentence
+applicable to the defendant at sentencing.
+MR. RYAN: That is Mr. Gould's position.
+Our position is limited to the same transaction. Our
+alternative position, which I'd like to turn to now -
+JUSTICE SOTOMAYOR: Whether charged or
+not -
+MR. RYAN: Well, the way it would have to
+work is that there would have to be a previous
+conviction.
+Now, if I could turn to the firearms
+argument. Our argument here is straightforward.
+JUSTICE SCALIA: Excuse me, before you go
+on. Your last remark -- it has to be a previous
+conviction. So why doesn't that leave it in the hands
+of the prosecutor whether to bring that conviction, that
+other case, prior or subsequent?
+MR. RYAN: I -- I misspoke, Justice Scalia.
+You're exactly right. It would include uncharged. It
+would -- it would prohibit prosecutors from being able
+to use charging instruments to determine whether 924(c)
+would apply. I was thinking of a particular example,
+but in the general case, you're right. I apologize for
+that misstatement.
+Now, if I could just spend a little bit of
+time on our second question. Our argument here is
+fairly straightforward and fairly modest, and it relies
+on the fact that 924(c) is essentially a firearms
+offense. And the punishment provided in the different
+paragraphs in 924(c) are primarily about firearms. And
+so, in looking to determine the meaning of "any other
+provision of law," it is quite natural, as both the
+First Circuit recognized and as the government
+recognized in Whitley, the Second Circuit case, to
+include provisions of law outside of 924(c) that punish
+firearms offenses.
+Now, to be sure, this particular limitation
+is not commanded by the plain language of the statute
+and rests, like the government's argument, on context
+and purpose. But the difference is that this argument
+still gives some effect to the "except" clause. It
+would apply, as here, to other firearms offenses outside
+of 924(c) like the Armed Career Criminal Act.
+JUSTICE ALITO: Well, it gives broader
+effect. It gives broader effect to the "except" clause,
+but the government's argument gives effect to the
+"except" clause, doesn't it?
+MR. RYAN: It gives no practical -
+JUSTICE ALITO: 3559(c), which was enacted
+at the same time as this "except" clause, wasn't it, and
+makes explicit reference to -- to 924(c)?
+MR. RYAN: Two points, Justice Alito.
+First, the government's reading has no practical effect.
+It leaves the "except" cause with no practical effect.
+You could take the "except" clause away, and there would
+be no difference in terms of the sentence under 3559(c).
+As for the enactment of 3559(c), the
+government's argument is actually different. The
+government argues that when 3559(c) was amended to
+include possession -
+JUSTICE ALITO: Yes.
+MR. RYAN: -- it was at that point that the
+"except" clause also entered into 924(c).
+The difficulty with that argument, as we
+explain in our brief, is that 3559(c) was already linked
+with 924(c) insofar as both addressed use. And because
+3559(c) and 924(c) were already linked, and the
+"notwithstanding" provision within 3559(c) indicated
+that if the 924(c) offense is your third strike, you get
+the life sentence, that's it. Well, the fact that
+Congress then amended 3559(c) to make another connection
+with 924(c) can't possibly explain why there is a sudden
+need for the "except" clause.
+But the question is an -- is an important
+one because it goes to the fact that the government has
+offered three different interpretations of the language
+in this case. The first -- one of the first was in
+Whitley, where it suggested "any other provision of law"
+includes other firearms offenses outside of 924(c),
+provided that they impose a consecutive sentence. That
+argument was rejected for the idea that, instead,
+924(c)'s "except" clause actually applies to no existing
+provisions of law. And now the Government argues that
+it applies to one, 3559(c), and it has come up with a
+new theory as to why the "except" clause exists in the
+first place.
+But that theory doesn't hold up, and the
+government's shifting interpretations, if nothing else,
+suggest that the government has not hit upon the most
+natural reading.
+JUSTICE GINSBURG: But you have offered
+three different readings, so one can't say that this
+statutory text has a clear meaning, which I think is
+your first argument -- that it has a clear meaning. And
+yet, we have Mr. Gould's reading and then the two
+readings that you've offered us, same episode and same
+gun.
+MR. RYAN: Yes, Justice Ginsburg. We think
+our first argument is the most natural and the clearest,
+but I take your point. And the only response I would
+make is, if shifting interpretations or different
+interpretations suggest that at the end of the day the
+language is ambiguous and grievously so, under the rule
+of lenity, we ought to prevail. So I'm perfectly
+comfortable with that conclusion.
+If there are no further questions, I'd like
+to reserve the remainder of my time for rebuttal.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Mr. McLeese.
+ORAL ARGUMENT OF ROY W. MCLEESE
+ON BEHALF OF THE RESPONDENT
+MR. MCLEESE: Mr. Chief Justice, and may it
+please the Court:
+A district court judge in -
+JUSTICE SOTOMAYOR: Counsel, could I just
+ask one simple question, the one I started with earlier,
+which was, which of the two statements are you
+advocating? That the "except" refers to a provision
+that imposes a greater minimum sentence for violating
+924(c) explicitly, or are you saying the "except"
+clause -- and I'm quoting from your brief, in two
+different places -- the "except" clause refers to a
+higher minimum sentence for possessing, using a firearm
+in relationship to a crime of violence or a drug
+offense?
+MR. MCLEESE: I don't think there needs to
+be an explicit reference. I think that the "except"
+clause is triggered by an offense which has a greater
+mandatory minimum and which has the same elements as and
+is the same offense as a section 924(c) offense.
+JUSTICE SOTOMAYOR: All right. If that's
+the case, your adversary just said, Mr. Abbott's
+attorney just said, that you don't believe that section
+924(c)(1)(A) is trumped by 924(c)(1)(B) or by 18 U.S.C.
+section 930(c). Is his allegation correct or is he
+wrong?
+MR. MCLEESE: He is incorrect.
+JUSTICE SOTOMAYOR: Okay.
+MR. MCLEESE: First, with respect to the
+internal structure of 924(c), 924(c) as it was amended
+in 1998 is a somewhat complex statute. It has a mix of
+sentencing enhancements and elements which create
+aggravated versions of the offense, but it is all a
+single offense for double jeopardy purposes, for
+purposes of what punishment to impose. And, therefore,
+the "except" clause operates consistent with the
+definition I just suggested quite sensibly and tells a
+district court judge imposing sentence if a defendant
+has brandished a firearm and also discharged it, you
+pick one of the 924(c) menu items, they are all a single
+offense, and you impose a single mandatory minimum
+sentence that is the greatest of those which are
+applicable.
+Now, with respect to 930(c) -
+JUSTICE SOTOMAYOR: I'm sorry. So that if
+he discharges a firearm, and it says it is a sentence of
+not less than 10 years, and he -- and that firearm is
+also a short-barrelled rifle with a 10 year minimum,
+does he get 10 years, or does he get 20 years?
+MR. MCLEESE: He gets 20 years.
+JUSTICE SOTOMAYOR: How?
+MR. MCLEESE: Because there are -- the
+"except" clause says look to your defendant, look to see
+which -- whether there is any provision of law which
+carries with it a greater mandatory minimum which
+punishes the section 924(c) offense. In that instance,
+there are two. One of them provides for a 7-year
+mandatory minimum; one of them provides a 20-year
+mandatory minimum. The "except" clause -
+JUSTICE SOTOMAYOR: So if it was a machine
+gun, where there's a 30-year minimum, does he get 40 or
+30?
+MR. MCLEESE: He gets 30. You always get -
+the "except" clause operates internally to section
+924(c) to tell the district court judge, very helpfully
+in light of the complexity of the provision: You impose
+one mandatory minimum sentence for each 924(c)
+violation, whether aggravated or less aggravated.
+CHIEF JUSTICE ROBERTS: But that's not -- I
+can't imagine a single district judge getting that
+wrong. To think that, oh, my gosh, here it says 10
+years if you discharge the firearms, and here it says 5
+years if you have one, which one do I use in a case when
+it's discharged?
+MR. MCLEESE: That's not -
+CHIEF JUSTICE ROBERTS: You don't need this
+provision, the -- your argument can't be that this
+language is to make sure the district judge knows in
+that case to use the 10-year rather than the 5-year.
+MR. MCLEESE: That point, Mr. Chief Justice,
+applies in support of our position, because everyone
+agrees that the primary function, the first half of the
+"except" clause, does exactly that. That's all it does.
+It does nothing else. To the extent -- the "except"
+clause says "except to the extent a greater minimum
+sentence is provided by this subsection," the only
+function -
+JUSTICE SCALIA: But that would include (B).
+That would include (B). (B) is part of the same
+subsection, isn't it?
+MR. MCLEESE: Yes.
+JUSTICE SCALIA: So, you know, I -- I think
+what the Chief Justice says is very obvious when you are
+just talking about (c)(1)(A), but it isn't obvious to me
+that if -- if the firearm is discharged and in addition
+it's a machine gun or destructive device, that you'd
+only get -- you'd only get the 30 rather than the 30
+plus 10.
+MR. MCLEESE: Quite so. And the -
+JUSTICE SCALIA: That isn't obvious to me.
+And -- and the "except" clause would -- would handle
+that.
+MR. MCLEESE: Correct. And it's important
+to realize when -
+CHIEF JUSTICE ROBERTS: Well, I would have
+-- I guess things are obvious to different people. I
+would have thought it would be odd to say when there are
+increased minimums that the highest minimum applicable
+isn't the one that applies.
+MR. MCLEESE: I agree with that, but it's
+important to realize that another issue that a district
+court judge might confront is whether you should
+cumulate them. So it should be, as Justice Sotomayor's
+question suggests, that if there are several available,
+that you get 20 because it's a machine gun and 10
+because it was discharged. And from the perspective of
+busy district court judges, a provision which says, in
+figuring out how to sentence a 924(c) offender, you
+don't have to look through this complex statute to
+figure out what your sentencing enhancements, do some
+double jeopardy analysis; all you need to do is simple
+math. You are directed to look to, of all the ones that
+are available, the one that is longest of the mandatory
+minimums.
+The point I was trying to make, though,
+Mr. Chief Justice, is all of this, the idea that it
+really isn't that critical even to clarify in the first
+half of the "except" clause what to do, is consistent
+with our position, which is the "except" clause all
+together, both internally to section 924(c) and as it
+reaches externally, is about clarifying something that,
+it may be true, district court judges otherwise would
+have been able to figure out, had they done a lot of
+analysis. But it makes it much simpler, and the
+practical utility of it is to clarify a sentencing
+judge's options with respect to a statute that had been
+made much more complex.
+CHIEF JUSTICE ROBERTS: But your main -- the
+meat of your argument focuses on 3559(c), right? There
+is this significant provision out there that does
+provide a greater mandatory minimum. And I just don't
+see, as a practical matter, why people would worry about
+that. Under 3559(c), you get life. And you're saying,
+well, they put in the "except" clause to be sure that
+the judge would add another 5 years at the end of a life
+sentence.
+MR. MCLEESE: Mr. Chief Justice, I think the
+effect of the "except" clause is the opposite, which is
+it makes sure that a judge imposes only life and does
+not add additional sentences.
+CHIEF JUSTICE ROBERTS: Yes, exactly. Yes,
+I'm sorry.
+MR. MCLEESE: And I agree, from the
+perspective of a defendant, that may not be most
+consequential. But this is a provision which, taken as
+a whole, was clarifying, not just externally to 924(c),
+but also internally, what district court judges should
+do with a complex menu -
+CHIEF JUSTICE ROBERTS: Okay. Well, just so
+I make sure I understand, the basic point you're making
+is that there are some things under your reading that
+this deals with. One is the internal point, and we can
+disagree as to whether that's necessary or not, and the
+other is 3559(c), where it seems to me it doesn't make
+any difference whether you're in there for life or life
+and the additional 5 years.
+MR. MCLEESE: I agree, it's not practically
+significant to a defendant, although sentences of life
+plus additional terms or consecutive life are not at all
+uncommon in the code. But it is of significance to
+district court judges, who are trying to figure out what
+sentence to impose. And this provision -
+JUSTICE SOTOMAYOR: What do you do with
+930(c)? Don't leave without answering my question.
+MR. MCLEESE: Yes. I do not interpret
+930(c) as subject to the "except" clause. I believe it
+is a separate offense with different elements, and under
+the double jeopardy analysis that would apply, it is
+possible -
+JUSTICE SOTOMAYOR: But your answer to me
+was you read the "except" clause as applying to any
+higher minimum sentence for possessing, using, or
+carrying a firearm in relationship to a drug offense or
+crime of violence. Isn't killing a person a crime of
+violence?
+MR. MCLEESE: Yes. Although 930(c) does not
+-
+JUSTICE SOTOMAYOR: And isn't the bringing
+of a firearm into a Federal facility the carrying of a
+firearm?
+MR. MCLEESE: Yes. Although 930(c) does not
+require the killing of a person, it extends to
+attempts -
+JUSTICE SCALIA: Where is 930(c)? Can you
+tell me where it is in the -
+MR. MCLEESE: I don't believe -- it is
+referred to only in Petitioner Abbott's brief at a page
+number I don't recall. It's not one of the provisions
+that -
+JUSTICE SOTOMAYOR: No, but I'm still trying
+to understand your position, which is -- I read what you
+said to me the "except" clause means, and I'm applying
+it to 930(c), and I couldn't figure out why you didn't
+list it.
+MR. MCLEESE: Because 930(c) does not
+require an actual killing of a person. It extends to
+conspiracy and attempt. And, therefore, one can violate
+930(c) without violating 924(c) and vice versa. And,
+therefore -
+JUSTICE SOTOMAYOR: How?
+MR. MCLEESE: By conspiring -
+JUSTICE SOTOMAYOR: A person who kills any
+person -
+MR. MCLEESE: -- or by attempting to do so.
+So 930(c) has a broader reach because of these vicarious
+and inchoate forms of liability. So a defendant could
+be convicted separately of 930(c) and of 924(c). They
+are not the same offense for double jeopardy -
+JUSTICE BREYER: So there are two possible
+readings now of the "except" clause where it says -- the
+words are this subsection doesn't apply where a
+mandatory -- where any other provision of law sets forth
+a higher mandatory. Now, one possible reading, which is
+yours, is what this means is that, judge, where you are
+operating under that provision you just mentioned, and
+you're going to -- the guy has committed two serious
+924(c) things and so he is entitled to life -- this is
+just what the Chief Justice said -- this is done to
+remind the judge don't give him life plus 25 years,
+because it would be 25 years under this statute, not 5.
+That's one possible reading.
+The other possible reading is, judge, where,
+in fact, you have a pretty -- you have the underlying
+drug offense that's going to get you up into the 30s and
+it's -- you know, in the guidelines, it's going to be
+probably 10, 5 years, or whatever it is. You have a
+pretty high drug offense already. And now we give him 5
+extra years, say, for having a gun under this, unless
+he's already gotten, say, a mandatory minimum of 7
+years.
+And if he's already gotten the mandatory
+minimum of 7 years, here's what's happening: Judge,
+turn to the guidelines, and the guidelines will tell you
+to add 3 or 4 extra years. So in one -- that -- those
+are the two possible readings.
+Now, the first reading to me makes very
+little sense. The second reading to me says, yes, this
+is serving a purpose. It's once you're sure this guy
+has to go to jail for 5, 6, 7, maybe 10 or 20 years for
+sure, extra amounts are controlled by the guidelines,
+which is administered by a judge.
+Now, if you just came across that for the
+first time, which would you think was most probable.
+MR. MCLEESE: Well, I think when you place
+this in the context of the 1998 amendments that enacted
+the "except" clause, it is quite clear that the former
+is more plausible. And the reason I say that, there are
+really five features of the 1998 amendments that
+illustrate that the "except" clause is not to be read as
+eliminating any sentence for a section 924(c) offense,
+but rather is clarifying which sentence to impose.
+The first is that the 1998 amendments,
+setting aside the "except" clause for a moment, in every
+respect substantially increased the scope and severity
+of section 924(c). It changed what had been mandatory
+sentences to mandatory all the way to life. It -- it
+responded to this Court's decision in Bailey by
+increasing the substantive scope of the provision. It
+increased the -- it created increased mandatory minimums
+for 7-year and 10-year offenses.
+So it would be odd to think that in the
+second half of a presumptively narrow exception clause,
+Congress at the same time ran in the direct opposite
+direction and had a substantial rollback of pre-existing
+section 924(c) sentencing provisions. And that's -- to
+be clear, at the time of the 1998 amendments, these
+Petitioners would have been subject to the mandatory
+minimum sentences that they received. They would have
+been subject to 10 years in one of the cases for the
+drug offense and 5 additional years mandatory and
+consecutive under 924(c). For the other, they would
+have -- he would have been subject to 15 years for being
+a felon in possession and an armed career criminal and 5
+additional under 924(c).
+So one of the features that is key is
+putting this in the context of the 1998 amendments,
+which were in every respect -
+JUSTICE SCALIA: Wait, but it -- but it
+does -- it does subject them to less, at least with
+respect to those -- those enhancements set forth within
+the subsection itself.
+MR. MCLEESE: That is true, but that is not
+a rollback of pre-existing provisions. It's a way of -
+JUSTICE SCALIA: Why?
+MR. MCLEESE: Because none of -- in prior
+924(c) law, there wasn't a body of law that would have
+given anybody who would get the benefit of the "except"
+clause under 924(c) a higher sentence. What -- all the
+"except" clause does is it makes clear under this more
+complicated scheme that when we are increasing these
+provisions, a 7 or a 10, you shouldn't telescope them
+all inside 924(c). You shouldn't add them all together;
+you pick the highest.
+And so it -- the "except" clause is not a
+rollback. It is a way of accommodating and giving clear
+direction to the complexity of the newly enacted
+provision. And -
+JUSTICE BREYER: When -- when did Congress
+pass the statute that they amended in 1998? The one
+with -- you're saying -- I mean, it's a good point. You
+have a point, that this would make it more lenient, the
+interpretation. But the "it" was passed when?
+MR. MCLEESE: Well, section 924(c) in its
+original form I think was passed in the 1960s.
+JUSTICE BREYER: So that's way before the
+guidelines. So what they are trying to do now is the -
+in 1998, is they're trying to -- see, in 1998 what
+they're trying to do is take some of these old
+provisions and reconcile them with this new system that
+has come along. So I agree you have a point there.
+But it -- it does make a certain amount of
+sense, because what it is saying is, in these cases
+where you have a whoppo mandatory minimum anyway, so
+you're sure he's got it; now, the additional amount will
+be controlled by the guidelines, which are subject to
+not much discretion. They are pretty close to mandatory
+minimums, but there's a little wiggle room.
+MR. MCLEESE: On the general approach of
+Congress under 924(c), it also bears note that in the
+last 25 years Congress has amended section 924(c) six
+times, and setting aside for a moment the "except"
+clause, in all of those amendments Congress has
+uniformly expanded its scope or increased the severity
+of sentences. So the "except" clause would be the sole
+provision in which Congress rolled back section 924(c).
+And there are several other features of the 1998
+amendment that make clear that that is not what Congress
+did.
+JUSTICE GINSBURG: How do you answer
+Mr. Ryan's argument that you can read it this way, you
+can read it that way; therefore, he wins under the rule
+of lenity?
+MR. MCLEESE: Well, this Court's cases make
+clear that the rule of lenity comes into play at the end
+of the analysis only if there is grievous ambiguity
+after all the considerations of statutory construction
+have been considered. We haven't yet discussed all of
+them, and I think when all of them are discussed, there
+is no grievous ambiguity. In fact, the reading that we
+suggest is the only reasonable reading, all factors
+considered.
+And if I can turn back to a couple of other
+features of the 1998 amendments, another feature is
+the -- the title of the act itself, which is an Act to
+Throttle the Criminal Use of Guns. And, again, it's
+just inconsistent with the provision that has these
+features and has that act, that it would be a
+substantial important decrease in the mandatory minimum
+sentences applicable to a large class of -
+CHIEF JUSTICE ROBERTS: But that's a
+difficult -- you're saying, because Congress wanted to
+get tough on the people who use firearms in this
+provision, every ambiguous clause should be read in a
+way that makes it tougher on the criminal defendant?
+MR. MCLEESE: I don't -- that would push the
+argument too far. I think it is highly relevant to
+construing this -- the statute as a whole, that that was
+the clear overall function of that amendment.
+Now, there are two other features of the
+1998 amendment, which are, it did as has been previously
+noted -- also, the only other thing that Congress did in
+the 1998 amendment, other than modifying section 924(c),
+is it made a corresponding change in section 3559(c) to
+-- to correspond. So we know that section 3559(c) was
+front and center in Congress's mind as it was enacting
+the 1998 amendments. And it is very natural, when
+Congress is creating a more complex statute and giving
+district court judges guidance about which mandatory
+minimums to select under that statute, to mention and
+have language that accommodates the fact that there
+is -
+CHIEF JUSTICE ROBERTS: So, with respect to
+3559(c) they were in fact being more lenient, not
+stricter, right?
+MR. MCLEESE: No, I think they were
+clarifying -
+CHIEF JUSTICE ROBERTS: I thought you said
+earlier that the purpose of this, what it does, is it
+makes sure that you don't add 5 extra years on the
+people who are sentenced to life.
+MR. MCLEESE: I think it clarifies the
+relationship, and, in fact, arguably it could have
+clarified the situation in a way that would have been
+beneficial to defendants. And the reason I say that is
+when Congress enacted the first half of the "except"
+clause, which said pick one and only one mandatory
+minimum and impose it -- we're talking internally to
+section 924(c) -- if it hadn't mentioned 3559(c), there
+could have been the idea that if there -- if Congress
+didn't direct the same approach with respect to 3559(c),
+there's an implication that in fact you should impose
+both.
+And so what it really was doing was
+clarifying what would have been unclear. And it is,
+again, only half of a presumptively narrow provision
+which is just clarifying the relationship -
+CHIEF JUSTICE ROBERTS: Which is right.
+You're saying when you get life, or you get 5, just
+serve life; don't serve the extra 5.
+MR. MCLEESE: Yes. Yes, but it's not saying
+that to defendants. It's saying that to busy district
+court judges, who just need to know in a simple, clear
+way what am I supposed to -- what sentence am I supposed
+to -
+JUSTICE SCALIA: And that's the only thing
+that that additional language which says "otherwise
+provided by this subsection or by any other provision of
+law" -- why didn't they just mention 3559(c)?
+MR. MCLEESE: Well -
+JUSTICE SCALIA: That's the only thing it
+covers, that tiny little thing, which has no effect at
+all, except for the benefit of the busy district judges,
+you say. I -- I find that quite implausible.
+MR. MCLEESE: Well, remember that it was -
+although it is not hugely consequential to defendants,
+it was a provision that Congress was directly
+considering then.
+But there is another function, which is it
+creates a default rule for future similar provisions
+like 3559(c). And so there -- and had, again -- so it's
+not limited to its function with respect to 3559(c); it
+also serves, as Congress often provides, a default rule.
+And so, again, there is a fifth feature of
+the 1998 amendments for those of whom this is concern,
+which is that the legislative history of the provision
+strongly corroborates our interpretation.
+JUSTICE BREYER: Oh, it's not strongly. The
+-- what is it an example? You're saying the other -
+this thing also serves the purpose that perhaps someday
+Congress will pass a new statute, a totally different
+one, and a busy district judge might think that he
+should add the 5 or 25 years from this provision on to
+whatever sentence this hypothetical new statute
+provides, but this will tell him not to do so. Did you
+have anything in mind?
+MR. MCLEESE: Well, I -- there are -- there
+are other provisions that, like 924(j), which do provide
+sentences for 924(c) offenses that are codified
+elsewhere in the code. And with respect to other
+offenses, that's also quite common. So there's nothing
+implausible about the idea that -
+JUSTICE BREYER: I take it in those other
+offenses there are other things in the code, and the odd
+thing about this one is there is no other thing in the
+code except the one we've been discussing. And so I
+just wondered if there -- was there at the time anybody
+thinking of adding some new thing that this might have
+been applicable to? Or have you come across anything?
+I take it your answer is no.
+MR. MCLEESE: I'm not aware that -- that
+Congress had some particular pending legislation in
+mind. My point more generally, though, is that it is
+quite common for Congress to provide penalties for
+offense A in a different section, and so creating a
+default rule is a perfectly reasonable thing for
+Congress to have done while it was clarifying the
+internal relationships among the various 924(c)
+provisions and the provision in 3559(c), which is front
+and center in front of it.
+With respect to the legislative history, the
+"except" clause language was proposed by Senator Jesse
+Helms. In the legislative history of the provision,
+there is nowhere any comment by anyone suggesting that
+anyone understood it as rolling back pre-existing
+section 924(c) penalties or as reflecting a new policy
+different from the fundamental policy of section 924(c),
+which has always been defendants who commit drug
+trafficking offenses or violent crimes and who involve a
+weapon will get an additional -
+CHIEF JUSTICE ROBERTS: Is there any
+evidence in the legislative history that the reason they
+put this in was to ensure that people who got life would
+not get life plus 5 years?
+MR. MCLEESE: There's no explicit reference
+to that. But that is, I think, a -- a good inference
+from the fact that all of the other explanations are far
+more implausible.
+And there is something -- there are two
+things which support that inference more specifically,
+one of which is, again, that Congress did have in front
+of it section 3559(c) and was amending it.
+The second is that the sole reference
+anywhere in the legislative history to the "except"
+clause is in the testimony of a witness at a hearing,
+and what that witness said about it was that it will
+prevent confusion with other provisions.
+And so there is, I think, a -- a strong
+indication -
+JUSTICE SCALIA: It's one witness at a
+hearing? At a hearing? And you really think that the
+rest of the Congress knew about that hearing?
+MR. MCLEESE: I don't. My point is really
+more the negative, which is if the "except" clause, in
+the second half of an exception that is in its first
+part intended to clarify, was instead a major policy
+shift from the pre-existing policy of section 924(c),
+additional mandatory consecutive sentences, and instead
+a shift over to sentences which we will try to adjust or
+ameliorate in light of other -
+JUSTICE BREYER: No, no, no. It's a shift
+over to the sentencing guidelines, which say a person
+like this one will receive an extra 3 or 4 or 5 years
+depending on the circumstances. Will receive it, just
+like a mandatory. Unless, of course, it is an unusual
+case. That's what it's a shift to.
+MR. MCLEESE: Two responses -
+JUSTICE BREYER: Am I wrong?
+MR. MCLEESE: Two responses, Justice Breyer,
+one of which is that Congress has amended 924(c) both
+before and after this provision, and it's clear that
+Congress is not shifting away from a mandatory minimum
+regime to a regime that -- where the guidelines are
+relied upon to provide the minimum sentence that
+Congress requires.
+And it is a shift not just to a guidelines
+regime, because if this a major policy shift into a
+different world, there -- it poses a question of
+statutory construction as well, not just about
+guidelines.
+And that's the -- the next topic, which
+is -
+JUSTICE SCALIA: Well, wait. I mean, the
+guidelines can't be, as Justice Breyer said, just like a
+mandatory. They can't be, can they?
+JUSTICE BREYER: I didn't say that -
+JUSTICE SCALIA: Oh, you did. I quoted you.
+MR. MCLEESE: They could not have been, even
+in the pre-Booker world. Certainly, in the post-Booker
+world, they cannot. But the -
+JUSTICE SCALIA: Advisory.
+MR. MCLEESE: But -- but the point is that
+Congress -- if Congress was shifting in the "except"
+clause, there's a question: What's the nature of that
+policy shift?
+If you were going to try to reduce 924(c)
+sentences to accommodate sentences on other provisions
+of law, instead of just making them an add-on always,
+then there's a question: What policy should you pick?
+Should you pick any other sentence the defendant is
+facing at this sentencing? Should you pick any other
+sentence arising out of this transaction?
+That's not a guidelines issue. That's a
+question of what is the policy reflected by the statute?
+CHIEF JUSTICE ROBERTS: You should pick any
+other violent crime or drug trafficking offense that
+already provides a higher minimum.
+MR. RYAN: That -
+CHIEF JUSTICE ROBERTS: No, it seems to me
+the perfectly natural reading is to say, look, we are
+providing some minimum sentences when this happens, when
+this is the violent crime and you use a gun, but if you
+have already got a higher sentence for the violent
+crime, then this doesn't apply.
+MR. MCLEESE: That is a possible policy, to
+be sure, but one thing -- it's certainly not the only
+reasonable policy. You could focus on the transaction
+or you could focus on what the defendant is facing at
+the sentencing. All those are among the policy options
+you would consider.
+And what's interesting is that Petitioners
+can't agree among those policy options. And they can't
+agree among those policy options because section 924(c)
+has no guidance about it. And the reason section 924(c)
+has no guidance about it is because Congress wasn't
+making that policy choice at all. Congress was simply
+clarifying how to implement the preexisting policy under
+section 924(c), which is always impose, for a section
+924(c) violator, an additional separate mandatory
+minimum sentence. But here is advice about how to do
+that. Here is advice about how to do that internal to
+section 924(c). Here is advice about how to do that
+external to 924(c) under 3559(c) and with a default rule
+for other similar provisions. That's the -- the modest
+objective that Congress was attempting to achieve. And
+as everyone agrees -
+JUSTICE SCALIA: Excuse me. For other
+provisions anywhere in the code? I mean, regardless of
+whether those provisions are being prosecuted in this
+particular indictment?
+I mean, you're -
+MR. MCLEESE: No -
+JUSTICE SCALIA: You're saying that the
+other side has to say, well, it's only those that are in
+this -- in this particular criminal transaction, or only
+those in the particular indictment.
+Do you escape that necessity?
+MR. MCLEESE: I think we do, and the reason
+we do is because, in our view, this provision operates
+only when you're talking about prosecution for the same
+offense in double jeopardy purposes. And so it's not
+possible for -- under our submission, for the Government
+to prosecute somebody for one of these variants of
+section 924(c) and then come back again later and
+prosecute again and manipulate the overall structure of
+sentences, because they are the same offense.
+If you move outside that into things that
+are not the same offense for double jeopardy purposes,
+then the prospects do open up for irrational patterns of
+outcome based on the order in which things are
+prosecuted and, in addition, irrational patterns of the
+mandatory minimums based on -
+JUSTICE SOTOMAYOR: So how is your reading
+different than Mr. Abbott's?
+MR. MCLEESE: Mr. Abbott has two readings,
+and our reading differs from each of them. The first of
+Mr. Abbott's readings is transactional in nature. Ours
+is focused on the section 924(c) offense itself.
+The second of our readings is -- the second
+of Mr. Abbott's readings is focused on a firearm, just
+the fact that a firearm is involved. And, again, ours
+is focused on the use of a firearm in a way that
+constitutes the section 924(c) offense. So those are
+the differences.
+But if I could just point out the other
+anomalies, there are two other anomalies that we have
+not yet touched upon. One of them is that Petitioners'
+submissions create anomalous patterns of floors of
+statutory minimums, as we've discussed in the briefs.
+If a defendant under Petitioners'
+submission, principal submission, has committed a drug
+offense that carries a 5-year mandatory minimum sentence
+and brandishes a firearm, it is -- carrying a 7-year
+minimum, the floor is 12 years. If that defendant's
+drug offense is more aggravated and carries a greater
+sentence so that there's a 10-year mandatory minimum,
+the overall mandatory minimum, under Petitioners'
+submission, reduces to 10.
+And there is the further anomaly that for
+offenses that are different, Petitioners' submission is
+that the defendant will end up, although adjudicated
+guilty of a section 924(c) offense, with no sentence
+whatsoever. There will be a free-floating adjudication
+of guilt. And because the defendant, let's say, is a
+felon in possession and is sentenced under the Armed
+Career Criminal Act, when the judge goes to sentencing,
+the judge, on Petitioners' view, says: I will give you
+15 years under the Armed Career Criminal Act; that
+triggers the "except" clause, and therefore, I impose no
+sentence whatsoever under section 924(c). That also is
+an anomaly.
+CHIEF JUSTICE ROBERTS: As Justice -- as
+Justice Breyer has pointed out, he can take that into
+account in figuring out what sentence he would want to
+impose beyond the greater minimum.
+MR. MCLEESE: That is true. My point about
+the anomaly is just that it is very strange, to my
+knowledge unheard of, to have a judge go to sentencing
+and have a series of adjudications and to tell the judge
+as to one of them it's not the greater or lesser
+included offense of another; you don't even need to
+impose a sentence on that -- on that adjudication. The
+backdrop basic assumption is, on each of the
+adjudications, you impose a sentence.
+Now, that's not true if offenses are greater
+or lesser or are the same offense, for double jeopardy
+purposes. But under Petitioners' submission, that is
+true with respect to offenses like being a felon in
+possession of a firearm and being someone who violated
+924(c) that are different offenses in double jeopardy
+law and have always been given separate judgments,
+separate punishments.
+If the Court has no further questions, we
+would request that the judgments below be affirmed.
+CHIEF JUSTICE ROBERTS: Thank you,
+Mr. McLeese.
+Mr. Ryan, you have 3 minutes remaining.
+REBUTTAL ARGUMENT OF JAMES E. RYAN
+ON BEHALF OF PETITIONER IN NO. 09-479
+MR. RYAN: I'd like to make two points on
+rebuttal.
+There has been a great deal of discussion
+about the general purpose of 924(c), but as this Court
+has indicated, the best indication of a statute's
+purpose is the statute's language, and although the
+government argues that the sole purpose of 924(c) was to
+enhance punishment for defendants, the "except" clause
+belies that simplistic assertion of the purpose. The
+"except" clause actually mediates the punishment that is
+provided in 924(c).
+The government's reading, at the end of the
+day, wants to rely on purpose in order to give no effect
+to the "except" clause. The idea that 3559(c) is an
+instruction to busy district court judges, even putting
+aside the impossibility of serving an additional
+sentence after completing a life sentence, doesn't hold
+up, because the government never disputes the fact that
+3559(c) begins with the statement, "Notwithstanding any
+other provision of law."
+So the busy district court judge never needs
+to turn to the "except" clause in 924(c)(1)(A) to know
+that you impose a life sentence when the third strike is
+a 924(c).
+JUSTICE ALITO: Whenever Congress uses a
+phrase like that, "notwithstanding any other provision
+of law," does that mean that Congress must think that
+there is some provision of law that falls within that?
+MR. RYAN: Possibly, yes, and that -- here,
+the other provision of law would be 924(c), and so the
+point would be -
+JUSTICE ALITO: Doesn't Congress commonly do
+that to make sure that something covers any existing
+statute there might be that would fall within that,
+without necessarily saying, well, there are two of
+them -- if there are two, maybe there are three? Going
+through the entire code to find out how many there might
+be, or if there is any?
+MR. RYAN: Yes, Justice Alito, and that's
+consistent with my point, is that -
+JUSTICE ALITO: But it's not consistent with
+your main argument about the "except" clause, is it?
+MR. RYAN: Well, yes, it is, because the
+"except" clause would also apply to any other provision
+of law.
+JUSTICE ALITO: No, but your argument is the
+"except" clause has to have some pretty substantial
+effect, or otherwise the "any other provision of law"
+part of it -- otherwise, they wouldn't have put it in.
+MR. RYAN: Oh, I apologize. I misunderstood
+your -- your question.
+The "notwithstanding any other provision of
+law," in the context of 924(c), would not have any
+effect if the "except" clause was considered first. But
+3559(c) applies to many other triggering offenses, and
+so with regards to those -- and the government has not
+suggested that 3559(c) has -- has no effect.
+The last point I'd like to make is that
+there's no doubt that regardless of one's view about
+mandatory minimum sentences as a matter of policy, no
+one doubts that Congress has the authority, if it
+chooses to exercise it, to stack one mandatory minimum
+sentence on top of another.
+But as this Court's cases make clear,
+Congress, under the rule of lenity, needs to make that
+choice clear. And if nothing else, the government's
+shifting views indicate that Congress has not exercised
+that choice clearly in this case.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+The case is submitted.
+(Whereupon, at 12:06 p.m., the case in the
+above-entitled matter was submitted.)
+17:6 51:17 advances 16:22 40:23 55:23 56:2 best 54:11
+51:16,19,22 advice 50:7,8,9 anomalous 52:5 armed 24:11 38:11 bit 15:21 23:18
+advocates 4:18 53:9 aside 37:16 40:9 brandished 28:17
+27:11 34:8 40:17 45:12 asked 17:22 break 9:16
+affect 10:18 15:7 14:9,10 34:2 assume 13:2 14:10,20,23 15:20
+agree 31:13 33:6,20 56:6 50:12 brief 18:23 19:2
+52:23,25 24:12,17,20 25:4 45:11 available 31:17 32:1 23:9
+alter 9:11 21:3 brings 9:15
+39:5 42:17
+56:11 back 20:2 40:13 35:18
+41:16 20:3 23:15 24:10 backdrop 53:15 busy 31:20 43:14,25
+ameliorate 47:12 34:6 35:24 49:16 Bailey 37:20 44:19 54:21 55:2
+30:23 51:13
+39:12 40:8 appointed 1:23 basic 33:13 53:15 c 3:1 4:1 30:22
+approach 40:6 43:3 basis 4:20 calls 13:23
+38:8,12
+43:19 46:7
+50:6 54:22
+26:1 54:13 begins 11:9 54:25 CARLOS 1:10
+38:4,14 argument 1:19 3:2,6 3:4,8,12,15 4:8 carries 9:24 29:8
+41:6 42:4 3:10,13 4:3,7 17:12 27:4 54:6 52:9,12
+11:18 17:11 18:16 belies 54:15 carry 12:14,17,18
+23:19 24:7,8,14 8:20 28:1 34:4,24 carrying 11:21 19:4
+17:21 19:19 clause 4:13 5:10 completing 20:5 conspiracy 35:10 Court's 4:15 5:2,8
+24:2 7:10 9:22 12:23 54:23 conspiring 35:14 37:20 40:21 56:20
+27:25 30:1,7 16:7,9 17:18,25 complex 28:9 31:22 constitute 22:12 covers 43:24 55:14
+56:24 57:1,2 18:3,6 19:3,16,22 32:15 33:11 42:5 constitutes 51:25 co-counsel 15:21
+40:21 56:20 24:15,18,23 25:6 39:9 constraints 16:15 created 15:7 37:22
+32:22 33:1 34:4,9 conclusion 26:23 context 10:13,25 14:5,15 19:5 27:17
+42:24 45:24 46:22 confront 31:15 convicted 16:24 12:21 19:15 46:6
+55:23,25 56:3,10 20:15 25:14 38:1 7:18,24 10:19 23:3 24:11 38:11 41:8
+16:16 23:14 20:8 26:11,12 37:9 40:15 41:14,24 correct 7:18,25 8:1 52:25
+27:1,5 29:22 47:23 56:20,22 45:19 46:18 47:4 28:3 31:6 current 18:2
+31:8 clearest 26:17 47:22,24 48:2,20 correspond 42:2 currently 20:13
+33:4,12 clearly 56:24 48:20 50:2,3,12 corresponding 42:1
+41:13 42:10 close 40:4 55:6,8,13 56:17,21 corroborates 44:14 D
+43:10 46:8 closest 5:20 56:23 counsel 17:8 20:22 D 4:1
+53:4 54:2 code 33:23 45:2,6,8 Congress's 5:8 42:3 27:1,8 56:25 Dallas 1:22
+50:15 55:18 connection 25:14 count 10:19,19 DAVID 1:22 3:3 4:7
+come 16:16 26:2 33:22 38:9 47:10 counterincentives deal 15:9,16 20:25
+47:16 comment 46:1 considerations court 1:1,19,23 4:10 decisions 15:7
+42:14 43:7,9 45:16 consistent 28:14 33:24 42:6 43:15 12:10 16:24 17:4
+50:4 commonly 55:13 32:6 55:21,22 53:25 54:10,21 21:5,7 22:20 28:16
+33:7,21 35:19 discharge 29:25 either 12:21 expanded 40:11 figuring 31:21 53:6
+49:2,20 52:7 discharged 28:17 elements 27:22 explain 10:15 25:8 filling 6:3
+30:2,23 31:19 28:10 34:5 25:15 find 21:9 44:1 55:18
+44:3 46:5 discretion 9:4 15:3 enacted 24:17 37:8 explicit 24:19 27:20 firearm 8:4,17 9:9
+21:2 40:4 39:9 42:23 46:12 11:21 13:11 18:10
+28:15 disputes 54:24 enhancement 8:17 external 50:10 53:21
+23:14,24 43:14,25 44:19 entitled 36:5 facing 8:19 49:3,20 30:10 32:5 36:24
+33:18 31:24 34:6 35:21 ESQ 1:22,24 2:1 3:3 25:18 36:11 41:2 floor 15:7 52:11
+21:13,25 22:1 doubts 56:17 essentially 11:24 factors 41:3 focused 51:20,22,24
+23:22 25:1,19 drug 6:21 9:23 10:4 23:21 facts 22:13 focuses 32:17
+27:15 10:5 12:5,14,20 establishes 16:22 fairly 23:20,20 focusing 11:11 19:9
+34:5 44:18 19:5,5 21:21 27:17 evidence 46:9 fall 55:15 follow 7:8
+46:4 48:5 34:11 36:12,15 evident 5:8 16:22 falls 55:9 follows 4:15
+52:17 53:22 38:8 46:5 49:8 exactly 18:25 19:7 far 5:16 41:19 46:14 form 39:17
+17:11 54:5 37:25 47:7 Federal 11:3 18:11 forth 10:23 18:12
+great 54:9 high 36:15 33:25 37:14 42:25 interesting 49:23
+14:13 22:17 27:16 34:10 36:1 53:14,16 55:4 45:20 50:8
+54:10 greatest 28:20 history 44:13 45:23 impossibility 54:22 interpretation 4:11
+9:2 12:13 guidance 42:6 50:1 54:23 23:12 24:3 25:3 39:15 44:14
+26:9,16 50:2 holdings 4:16 5:8 30:16,17 interpretations 5:13
+guidelines 8:14 9:4 holds 19:24 included 17:17 5:15 25:19 26:6,19
+54:19 39:19 40:3 47:14 10:20,24 11:8,23 including 16:15 involved 7:3 51:23
+guilt 52:21 Honors 16:19 increased 31:11 issue 31:14 49:5
+13:7 26:15 29:14 7:7,19 8:1,5,10,23 39:3 J
+55:17 Guns 41:8 13:13 14:2,9,19 25:11 54:11 17:11 54:5
+32:6 37:25 42:23 50:17,23 judge 9:3 27:7 28:16
+22:21 26:13 hand 4:18 idea 25:24 32:4 43:2 inference 46:13,17 31:15 32:23 33:2
+11:20 15:6,11 hands 23:8 illustrate 37:12 insofar 25:9 44:19 52:23,24
+18:2 19:13 happened 16:5 22:2 imagine 29:23 instance 11:16 53:10,11 55:2
+25:2,18 26:1 happening 36:20 implausible 44:1 15:15 16:16 29:9 judges 31:20 32:10
+51:4 54:13,24 happens 49:13 45:4 46:15 instances 8:16 16:8 33:10,24 42:6
+head 15:18 implement 50:4 instruction 54:21 43:15,25 54:21
+11:18 17:23,24 hearing 46:22 47:3 implied 6:10 instrument 10:17 judgments 53:23
+19:12,23 47:3,4 important 25:17 instruments 23:14 54:1
+24:7,14,21 Helms 45:25 31:6,14 41:11 intended 47:8 judicial 5:14
+6:25 knowledge 53:10 limitation 7:20 10:6 37:22 38:5,8 40:1 mind 42:3 44:23
+8:2,6 knows 30:6 10:23 19:13 20:19 40:4 41:11 42:6,24 45:15
+9:1,2 24:5 47:10,17,24 48:12 mine 9:23
+10:7,9,15 L limitations 13:19 50:6 51:14 52:9,13 minimize 15:3
+11:2,17 L 1:22 3:3 4:7 limited 20:20 22:22 52:14 56:16,18 minimum 4:22 6:2
+13:14,15 labored 22:6 44:9 manipulate 51:7 6:20,22 7:4,11
+language 5:21 10:12 limiting 7:16 manipulates 14:25 9:25 10:17 11:14
+15:20,20 10:22 11:6 20:13 linked 25:8,10 manslaughter 18:13 12:6,9,17,21,22
+16:10,13 24:6 25:19 26:21 list 18:18 35:7 math 31:25 13:23 15:8 16:25
+18:9 30:6 42:8 43:19 little 23:18 36:25 matter 1:18 5:15 9:4 17:2,4 19:3 21:3,7
+19:1,7 45:24 54:12 40:5 43:24 20:4 32:20 56:16 22:17,19 27:12,16
+21:9,18 22:4 large 41:12 logical 8:3 57:3 27:22 28:19 29:1,8
+23:6,11 largely 12:18 long 9:15 22:7 maximize 15:3 29:11,12,14,20
+25:4 law 4:17 5:1,4 6:24 longer 8:23 9:7 McLeese 2:1 3:11 30:13 31:11 32:19
+27:1,5,8 7:16,17,24 11:3 19:24 27:2,3,5,19 28:5,7 34:10 36:17,20
+28:6,23 29:4 18:4 19:15 22:6 longest 32:1 29:3,5,16 30:3,8 38:6 40:1 41:11
+30:4,8,16 23:25 24:3 25:21 look 13:21 21:9,12 30:19 31:2,6,13 42:25 47:24 48:1
+31:3,8,16 26:1 29:7 35:25 22:11 29:6,6 31:22 32:25 33:6,20 34:3 49:9,13 50:7 52:9
+33:4,12 38:24,24 43:21 31:25 49:12 34:14,19,24 35:8 52:11,13,14 53:7
+35:3 48:25 53:23 55:1,8 looked 14:3 35:14,17 37:7 56:16,18
+36:6 55:9,11 56:1,4,9 looking 5:25 22:5 38:20,23 39:16 minimums 14:12
+39:11,18 laws 4:12 11:4 23:24 40:6,21 41:18 18:12 31:11 32:2
+41:13 42:10 lead 22:1,13 loser 13:4,9 42:13,19 43:13,22 37:22 40:5 42:7
+43:10,18,23 leave 23:8 34:2 lot 32:11 44:2,24 45:13 51:14 52:6
+45:5 46:8 leaves 17:24 20:11 46:12 47:5,19,21 minutes 54:4
+24:22 M 48:15,19 49:17 missing 5:24
+legislation 45:14 machine 29:13 50:19,25 51:17 misspoke 23:11
+50:14,20 legislative 44:13 30:24 31:18 53:8 54:3 misstatement 23:17
+53:4,4,5 45:23,25 46:9,21 maiming 12:25 mean 9:13 10:11 misunderstood 56:6
+55:6,13,20,22 lenient 39:14 42:11 13:10 11:10 14:4,16,16 mix 28:9
+lenity 26:22 40:20 main 9:20 32:16 15:25 16:1 39:13 modest 23:20 50:11
+30:20 36:13 light 29:19 47:12 32:19 35:25 36:1 mentioned 36:3 43:1 43:8
+13:20 14:5 36:12,15 37:13 overstate 10:11 pick 28:18 39:6 24:21,22 32:13,20
+17:23 38:8 45:17 49:8 O'Brien 19:20 42:24 49:1,2,3,7 practically 33:20
+23:25 26:8 51:3,8,10,20,25 place 26:4 37:7 practice 16:15
+42:4 49:12 52:9,12,19 53:13 P places 19:2 27:15 preclude 21:4
+12:20 16:16 17:17 paragraphs 23:23 play 14:12 40:22 12:4,5,20,20 21:16
+43:15 53:13 46:6 52:17 53:17 particular 5:9 6:7 46:11 presumptively
+offense-defining 23:15 24:5 45:14 20:19 25:5 26:18 pretty 17:24 36:11
+26:14 pass 39:12 44:18 47:5 48:19 52:2 prevent 46:24
+45:10 oh 29:24 44:15 patterns 51:11,13 56:14 previously 41:23
+48:14 56:6 52:5 pointed 53:5 pre-Booker 48:16
+25:11 54:25 ones 31:25 people 31:9 32:20 49:19,21,24,25 primary 30:10
+56:8 one's 56:15 41:15 42:18 46:10 50:3,4 56:16 principal 52:8
+options 32:14 49:21 34:12,20 35:9,15 27:16 34:10 propose 5:13
+45:6 order 51:12 54:19 petition 17:16 possible 34:7 35:22 prosecuted 13:17
+13:18 18:22 outcome 51:12 17:12 34:25 54:6 possibly 25:15 9:14,16,18 10:3,4
+21:16 outside 18:4,21 Petitioners 38:5 55:10 13:1,8,8,10 14:17
+22:12 23:22 20:16 24:3,10 49:23 52:4,7,14,17 post-Booker 48:16 51:2
+27:18,21,23 25:22 51:9 52:24 53:19 power 14:24 prosecutor 14:24
+28:11,12,19 overall 41:21 51:7 phrase 4:14,16,25 practical 4:25 17:25 15:5 16:2 23:9
+21:11 28:12,13 49:12 51:15,18 regime 47:25,25 19:7 23:12,16
+45:16 48:1 put 13:19 32:22 35:23 36:23 51:17 relationship 11:17 rise 21:14
+11:3,15 12:7 putting 38:14 54:21 read-in 8:3 27:17 34:11 42:20 17:10 27:1 29:22
+18:11 23:22 p.m 57:2 real 13:18 43:9 30:4 31:8 32:16
+30:14 43:20 realize 31:7,14 relationships 45:20 33:4,12 41:13
+Q really 32:5 37:11 relevant 41:19 42:10,15 43:10
+49:9 8:25 10:10 14:10 reason 6:15 19:14 relies 23:20 54:2 56:25
+6:7,24 31:17 34:2 48:5,21 reasonable 41:3 remainder 26:25 rolled 40:13
+11:12 49:1,6 56:7 45:18 49:19 remaining 54:4 rolling 46:2
+19:14 20:7 questions 20:18,22 reasons 18:7 remark 23:7 room 40:5
+23:25 25:11 26:24 53:25 rebuttal 3:13 26:25 remember 44:2 ROY 2:1 3:11 27:3
+27:11 29:7 quite 23:25 28:15 54:5,8 remind 36:7 rule 26:21 40:19,22
+30:5 31:20 31:2 37:9 44:1 recall 35:1 represented 17:6 44:7,10 45:18
+33:8,25 45:3,16 receive 17:4 47:15 Republic 5:4 50:10 56:21
+36:3 37:21 quoted 48:14 47:16 request 54:1 run 9:23
+40:13 41:9 quoting 27:14 received 38:6 require 20:15 34:20 Ryan 1:24 3:7,14
+43:8,20 44:4 receives 16:24 35:9 17:6,10,11,13
+45:21,25 recognized 20:24 required 20:6 18:15,19,25 19:7
+51:1 55:1,7 24:1,2 requires 5:21 6:19 19:11 21:12,25
+56:4,8 recognizing 7:20 48:2 22:9,15,21 23:1,11
+38:3,21 39:4 reconcile 39:22 respect 18:5 28:7,22 26:16 49:10 54:4,5
+44:7,25 reduce 48:23 32:14 37:17 38:15 54:7 55:10,20,24
+46:24 48:24 reduces 52:15 38:18 42:10 43:3 56:6
+refer 7:24 44:9 45:2,23 53:20 Ryan's 40:18
+19:14 21:1 S
+35:4 37:12 S 3:1 4:1
+41:16 saying 7:14 9:2 10:8
+9:8 15:12 27:11,15 3:12 27:4
+7:6,14,22 reflected 49:6 39:13,25 41:14
+23:22 28:13 response 26:18
+10:12,13 11:1 reflecting 46:3 43:11,13,14 44:16
+responses 47:19,21
+12:8 13:20 50:20 55:16
+15:15 says 6:1 18:24 19:2
+17:23,24 28:24 29:6,24,25
+37:1 42:16 17:16 return 10:10
+24:21 26:8 30:13,21 31:20
+54:10,12,13 regardless 50:15 rifle 29:1
+33:14 36:1,9 35:23 36:25 43:19
+56:15 right 6:10 8:2 13:12
+21:3,8 22:17,19 48:3,4,22 stack 56:18 suggested 18:3
+12:24 13:14 27:12,16 28:16,20 47:24 48:20 56:23 State 11:3 56:13
+16:10,13 28:24 29:20 30:14 short 20:14 statement 54:25 suggesting 20:20
+30:16,20 31:21 32:24 33:25 short-barrelled 29:1 statements 27:10 46:1
+34:22 38:16 34:10 37:13,14 side 50:21 States 1:1,6,13,19 suggests 31:17
+43:18,23 39:1 43:16 44:21 significance 33:23 4:4,5 20:25 suit 9:15
+48:10,14,18 48:1 49:2,4,15 significant 9:21 10:2 statute 7:14 11:9,24 support 30:9 46:17
+50:7 52:9,13,19 10:6 32:18 33:21 14:6,18 20:24 21:1 supported 4:19
+40:11 sentences 11:15 simpler 32:12 statute's 54:11,12 sure 6:15 11:12
+23:19 24:2 19:17 20:21 33:3 simply 50:3 40:24 48:6 52:6 24:5 30:6 32:22
+37:25 46:20 33:21 37:19 38:6 single 9:12 28:12,18 straightforward 33:2,13 37:1,3
+51:21,21 40:12 41:12 45:1 28:19 29:23 23:5,20 40:2 42:17 49:18
+17:1 19:17 49:13 51:8 56:16 42:21 stricter 42:12 system 39:22
+28:1,3 29:9 sentencing 7:25 six 40:8 strike 20:9 25:12
+32:8 37:13 8:14 10:19 12:12 sole 40:12 46:20 55:4 T
+38:3 39:16 22:20 28:10 31:23 54:13 strong 46:25 T 3:1,1
+41:25 42:1 32:13 38:3 47:14 Solicitor 2:1 strongly 44:14,15 take 11:14 24:23
+43:1 45:17 49:3,21 52:23 somebody 12:24 structure 28:8 51:7 26:18 39:21 45:5
+47:9 53:10 51:5 subject 16:14 34:4 45:12 53:5
+50:1,5,5,9 separate 9:14,18 someday 44:17 38:5,7,10,17 40:3 taken 33:8
+52:19 10:4,17 13:10 somewhat 28:9 submission 51:4 talking 22:16 30:22
+19:20,24 34:5 50:6 sorry 7:13 28:23 52:8,8,15,17 53:19 42:25 51:2
+32:20 39:20 series 53:11 8:2,6,12 10:9,15 subsection 6:23 36:21 44:22 53:11
+7:11 setting 18:12 37:16 35:3,13,15 51:15 substantive 37:21 text 4:19 5:7,11,21
+9:7,25 11:12 40:9 Sotomayor's 31:16 successfully 20:5 5:22 6:14,18 7:9
+12:3,6,9,15 severe 4:21 specifically 18:22 sudden 25:15 10:14 11:13 15:17
+14:25 15:8 severity 37:17 46:17 sufficient 16:25 17:4 16:21 26:11
+18:20,20,21 40:11 specified 7:17 suggest 20:19 26:7 textual 11:1
+20:5,8,15 shift 47:9,11,13,18 spend 17:15 23:18 26:20 41:3 Thank 17:8,9 27:1
+56:25 17:2 21:21 46:6 understood 46:2 W 2:1 3:11 27:3 X
+44:17 16:17 20:21 21:10 United 1:1,6,13,19 wanted 41:14 Y
+49:18 21:14,24 22:6,8,11 4:4,5 20:25 wants 14:21 54:19 year 5:5 29:1
+36:5 45:6 50:22 unreviewable 21:2 2:2 20:5 28:25 29:2,2
+51:9,12 transactional 20:19 unusual 47:17 wasn't 18:17 24:18 29:3,25 30:1 32:23
+9:19,21 transactions 22:1,5 25:9 30:1,7 41:8 way 6:8 14:5 16:2 36:18,20,22 37:2
+16:20,21 tremendous 14:24 41:15 49:14 51:24 17:3,5 18:7 23:1 38:7,8,10 40:8
+26:11,16 trigger 4:12 12:23 uses 55:6 37:19 38:21 39:8 42:17 44:20 46:11
+29:24 19:21 usual 16:15 39:18 40:18,19 47:15 52:11,25
+32:25 37:6,7 triggered 7:10 9:22 utility 32:13 41:17 42:21 43:16
+39:17 41:1 27:21 U.S.C 28:2 51:24 0
+42:13,19 triggering 56:11 weapon 46:7 09-479 1:4,25 3:9,16
+46:13,25 triggers 53:1 V weren't 7:22 8:8 4:4 17:12 54:6
+50:25 55:8 true 5:7,7,8 7:8 v 1:5,12 4:4,5 5:4 We'll 4:3 09-7073 1:12,23 3:5
+53:17,20 variants 51:5 we've 45:8 52:6
+55:4 try 47:11 48:23 53:2
+31:10 35:3 39:19,20,21 whoppo 40:1
+turn 15:18 20:11,18 wiggle 40:5
+56:15 10-year 30:7 37:23
+55:17 41:5 55:3 wipe 7:5
+22:7 23:19 29:10 35:22 36:4 word 4:14 14:5
+15 38:10 52:25
+26:25 37:6 36:23 41:22 46:16 words 6:15 10:25
+45:9 47:19,21 51:17 14:6 35:24
+18 28:2
+12:5,14,20 35:4
+1:16
+36:7,8 40:8 44:20 924(c) 4:21 6:23
+3:12 10:1,4,14,23 17:5
+19:2 20:9
+21:3,12,14,19 22:1
+36:22 47:15 54:4 22:12,13 23:14,21
+29:15,16 30:25 23:23 24:3,11,19
+25:6,9,10,12,15
+36:12 25:22 27:13,23
+29:14 28:8,8,18 29:9,18
+18:5,7 20:3 29:20 31:21 32:8
+24:17,24 33:9 35:11,20 36:5
+25:2,8,10,11 37:13,18 38:3,9,12
+26:2 32:17 38:24 39:1,5,16
+33:17 42:1,2 40:7,8,13 41:25
+43:1,3,21 43:1 45:1,20 46:3
+45:21 46:19 46:4 47:9,22 48:23
+54:20,25 49:25 50:1,5,6,9
+50:10 51:6,20,25
+53:2,22
+55:5
+1:16 3:5 36:22 55:11 56:9
+924(c)'s 25:25
+29:14 924(c)(1)(A) 4:15
+5:9 6:19 7:11 12:1
+12:3,22 29:25 16:24 17:2 18:22
+33:19 36:8 19:15,18,22,24
+37:2 38:8 20:16,16 28:2 55:3
+42:17 43:11 924(c)(1)(A)'s 4:12
+44:20 46:11 924(c)(1)(B) 19:20
+19:21 28:2
+6:19,19 924(j) 44:25
+30:7 52:9 930(c) 18:9,14,18
+3:16 28:3,22 34:2,4,14
+35:6,8,11
+35:18,20
+37:2
+36:17,20 37:2 39:4
+29:10 37:23
+4:5

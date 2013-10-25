@@ -1,0 +1,1707 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+JUAN SMITH, :
+Petitioner :
+v. : No. 10-8145
+BURL CAIN, WARDEN :
+- - - - - - - - - - - - - - - - - x
+Washington, D.C.
+Tuesday, November 8, 2011
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 11:11 a.m.
+APPEARANCES:
+KANNON K. SHANMUGAM, ESQ., Washington, D.C.; on
+behalf of Petitioner.
+DONNA R. ANDRIEU, ESQ., Assistant District Attorney, New
+Orleans, Louisiana; on behalf of Respondent.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+KANNON K. SHANMUGAM, ESQ.
+On behalf of the Petitioner 3
+ORAL ARGUMENT OF
+DONNA R. ANDRIEU, ESQ.
+On behalf of the Respondent 25
+REBUTTAL ARGUMENT OF
+KANNON K. SHANMUGAM, ESQ.
+On behalf of the Petitioner 54
+P R O C E E D I N G S
+(11:11 a.m.)
+CHIEF JUSTICE ROBERTS: We'll hear argument
+next this morning in Case 10-8145, Smith v. Cain.
+Mr. Shanmugam.
+ORAL ARGUMENT OF KANNON K. SHANMUGAM
+ON BEHALF OF THE PETITIONER
+MR. SHANMUGAM: Thank you, Mr. Chief
+Justice, and may it please the Court:
+In Brady v. Maryland, this Court established
+the now-familiar principle that the prosecution must
+hand over all favorable material evidence to the defense
+before trial. This case presents a flagrant violation
+of that principle.
+The Orleans Parish district attorney's
+office produced almost no relevant evidence to the
+defense before Petitioner's trial, and Petitioner was
+convicted of first-degree murder based solely on the
+testimony of a single eyewitness. Unbeknownst to the
+defense, however, that eyewitness had told the police on
+multiple occasions that he could not identify any of the
+perpetrators or, as he put it, that he would not know
+them if he saw them.
+The suppression of those statements alone
+justifies a new trial, but the district attorney's
+office in this case also engaged in the wholesale
+suppression of statements of numerous other witnesses,
+statements that further undermined the sole eyewitness
+identification of Petitioner and, more broadly, cast
+doubt on Petitioner's involvement and role in the
+shootings.
+If all of that information had been
+disclosed to the defense before trial, the jury surely
+would have viewed this case in a completely different
+light. The trial court therefore erred by rejecting
+Petitioner's Brady claim, and its judgment should be
+reversed.
+In our view, in order to conclude that
+Petitioner is entitled to a new trial here, this Court
+need do nothing more than to consider the suppressed
+statements of the key eyewitness, Larry Boatner.
+Respondent concedes that those statements were withheld
+from the defense before trial, and argues only that the
+failure to disclose those statements was not
+prejudicial.
+Those statements, however, could not have
+more clearly contradicted Boatner's confident
+identification of Petitioner at trial --
+JUSTICE GINSBURG: Well, he saw a picture.
+Boatner saw a picture in a newspaper, and that turned on
+the light for him, right? It wasn't any police
+suggestion.
+MR. SHANMUGAM: That is correct. The basis
+for Boatner's identification was that he saw a
+photograph in the New Orleans newspaper of Petitioner.
+It was in connection with an article describing the
+shootings and suggesting that Petitioner was one of the
+suspects in the case. And that was what led to his
+prior identification out of court.
+But just to be clear, Justice Ginsburg,
+we're not arguing today that the identification was
+somehow constitutionally problematic. At most, we're
+arguing that the identification was of questionable
+validity in light of the fact that Boatner had only a
+limited opportunity to see the perpetrators and in light
+of the circumstances that led to his identification.
+Now, even if his identification were more
+clearly reliable, our argument today would be the same.
+In a case such as this one, in which the sole basis for
+linking the defendant to the crime is the testimony of a
+single eyewitness, and there is evidence that the single
+eyewitness said on multiple occasions that he couldn't
+identify anyone, we believe that, absent extraordinary
+circumstances, that will be sufficient to --
+JUSTICE ALITO: Well, aren't you
+exaggerating a little bit about the value of the
+impeachment evidence regarding Boatner? Now, my
+understanding is that he made his first statement to the
+effect that he couldn't identify anybody at the scene
+when he had been at the scene where five people that he
+knew very well had been killed.
+He was lying on the floor with a big gash on
+his head. He was questioned at the scene, and at that
+time -- and this was in the evening -- he said: I can't
+identify anybody. But then, later that very day, wasn't
+it, that very evening, after midnight, he was questioned
+at the police station; am I correct?
+MR. SHANMUGAM: Yes, that's correct.
+JUSTICE ALITO: And at that point he gave a
+description. He did make an -- he did provide a
+description of the person that he said was the one who
+first came through the door. So, you know, that -- I
+don't know -- and then later, he said he -- there were
+statements to the effect that he couldn't identify
+anybody.
+But in light of the fact that he did provide
+a pretty, you know, somewhat detailed description on the
+very evening of the event, doesn't that -- aren't you
+exaggerating when you say that he said numerous times --
+the effect of these statements that he couldn't
+identify --
+MR. SHANMUGAM: Justice Alito, it is true
+that Boatner provided identifying details in the later
+statement that night. I would respectfully submit that
+they were relatively limited identifying details, simply
+the fact that the first man through the door had a
+low-cut haircut and gold teeth. And as we indicate in
+our brief, those were characteristics shared by numerous
+other suspects in the case.
+But I think more broadly, with regard to
+both sets of statements at issue here, the State's
+explanations for those statements are at best plausible.
+And we really think that in a case such as this one, in
+which the evidence on its face is so clearly of high
+exculpatory or impeaching values, it takes something
+more than that. It is not sufficient for Respondent to
+argue here simply that, even taking into account these
+statements, a rational juror could still reach the same
+result and return a verdict of guilty here, because this
+Court made clear in Kyles v. Whitley that the standard
+for Brady claims is not a Jackson v. Virginia type
+sufficiency of the evidence standard.
+So, again, where you have statements that on
+their face are not simply statements calling a witness's
+credibility into question, but statements that really
+directly contradict the confident in-court
+identification, it would take an exceedingly persuasive
+explanation for those statements to defeat a showing of
+materiality. Now, with regard --
+JUSTICE KENNEDY: The standard is a
+reasonable probability that the result would have been
+different, reasonable probability?
+MR. SHANMUGAM: Yes, that's correct. And
+this Court made clear in Kyles v. Whitley that that's
+not a more likely than not standard. That is
+essentially the same standard that this Court has
+articulated for prejudice for ineffective assistance of
+counsel claims under Strickland v. Washington, and by
+now it's a quite clearly established standard. And,
+again, it requires something less than a showing of more
+likely than not and perhaps something slightly more than
+the showing required for harmless error under Chapman v.
+California.
+But I do want to touch upon the State's
+explanations for these statements and explain very
+briefly why we think that those explanations are frankly
+not even plausible. With regard to the first statement
+to which Justice Alito referred, the statement that was
+made at the scene approximately half an hour after
+initial -- officers initially responded to the scene,
+the State's argument is that Boatner was somehow too
+traumatized to make an identification at the time.
+But not only did Boatner not so testify at
+the postconviction hearing -- in fact he testified that
+he couldn't recall the statement at all -- but the very
+officer who took the statement himself testified at
+trial in this case that at the time of the statement
+Boatner was, quote, "coherent and articulated very well
+the events that transpired." And that is at pages 137
+to 138 of the joint appendix.
+JUSTICE ALITO: That may be true, but if you
+were a juror and Boatner testified and he was
+cross-examined and they attempted to impeach him based
+on his failure to make an identification right at the
+scene, and he said, well, that was because five of my
+friends had just been killed and I was lying on the
+floor and I thought I was going to be shot too and I had
+a big gash on my head, and then a couple of hours later
+when I collected myself and they asked me the same
+question at the police station, I provided a description
+and didn't say I couldn't identify anybody -- do you
+think jurors would just dismiss that and say, well, he
+couldn't identify him at the scene so he must have been
+lying when he identified -- when he provided a
+description later at the police station?
+MR. SHANMUGAM: Justice Alito, I think that
+it's possible that a juror could credit that explanation
+in any retrial, though I --
+JUSTICE GINSBURG: Wasn't there also an
+intervening -- didn't he say 5 days after that he
+couldn't identify? And that was after what he said on
+the night, the same night.
+MR. SHANMUGAM: That is --
+JUSTICE GINSBURG: Five days later he said:
+I couldn't -- I couldn't identify him.
+MR. SHANMUGAM: That is correct, Justice
+Ginsburg. But even if we didn't have the March 6th
+statement or statements, I would frankly be happy to
+take my chances with the jury, even with regard solely
+to the March 1st statement, in light of that testimony
+of Officer Ronquillo that Boatner was in fact coherent,
+articulated very well the events that transpired, just
+like any witness, and so on and so forth.
+So, again -- -
+JUSTICE SOTOMAYOR: Counselor --
+MR. SHANMUGAM: -- we don't think that it's
+our burden to show that no juror could credit the
+State's explanation. It's simply that we think that
+that explanation doesn't hold water.
+JUSTICE SOTOMAYOR: Counselor, your argument
+now and in your brief suggests that you're relying most
+heavily on the failure to provide the impeachment
+materials of the only witness to this crime and the only
+piece of evidence that ties your client to the crime.
+But you also mention other things, and Respondents spend
+90 percent of their brief arguing against the other
+things. But I just want to clarify those other things.
+Number one, was the testimony mixed
+testimony about whether the assailants wore a mask
+across their face or over their entire head?
+MR. SHANMUGAM: There --
+JUSTICE SOTOMAYOR: What's the best take on
+what the evidence showed that was presented on that
+issue?
+MR. SHANMUGAM: There was some degree of
+variation in what the witnesses said. Now, in the main,
+we're talking, again, about statements that were
+withheld. And I want to lay out those statements very
+briefly, if I may. There were two eyewitnesses who made
+statements to the police indicating that some or all of
+the perpetrators, including the first man through the
+door, were wearing masks. Those were the statements of
+Shelita Russel and the statement of Dale Mims.
+Now, with regard to the statement of Shelita
+Russell -- and this was what we believe was the dying
+declaration that she made at the scene in the immediate
+aftermath of having been shot multiple times -- Russell
+said she saw people barge into the kitchen; one had a
+black cloth across the face, first one through the door.
+So, it is at least theoretically possible --
+JUSTICE SOTOMAYOR: Could I ask you
+something? Who determines that issue of whether that's
+a dying declaration? Do we determine that in deciding
+whether the withholding of the Brady materials was
+harmful or not? Do we give deference to the lower
+court's determination of that? Do they have to decide
+whether it was a dying declaration? What's the standard
+on something like this?
+MR. SHANMUGAM: The lower court did not make
+such a determination in this case on this or any of the
+other evidentiary issues that Respondent now advances,
+at least in part because it does not appear that
+Respondent advanced any of those arguments below. But I
+think more broadly, Justice Sotomayor, in terms of the
+role of this Court or any other court considering a
+Brady claim, this Court hasn't quite spoken to the
+specific issue of whether a Brady court is supposed to
+itself make an evidentiary determination where there's a
+question about admissibility, but the closest that this
+Court came was in Wood v. Bartholomew, in which this
+Court indicated that with regard to Brady material, it
+either has to itself be admissible or be reasonably
+likely to lead to admissible evidence. And the Court's
+reasoning in Wood v. Bartholomew was somewhat spare on
+that score. That was a summary reversal in a per curiam
+opinion.
+But I do think that it would be appropriate
+for a Brady court to make that determination itself or,
+at a minimum, make a determination as to whether it
+appears that it's reasonably likely that the evidence
+would be admissible.
+Here, we really don't think that it's a
+close question, particularly with regard to the
+statement of Shelita Russell, because the context of the
+handwritten notes makes clear that the statement was
+taken at the scene of the crime. Shelita Russell was
+taken to the hospital approximately a half an hour after
+the shootings occurred. She told two witnesses that she
+believed that she was dying. And so, under the law on
+dying declarations -- and I have no reason to believe
+that the law is any different in Louisiana from the
+Federal system or the 49 other States -- that would
+comfortably satisfy that requirement.
+JUSTICE SOTOMAYOR: Now, Mr. Mims was the
+neighbor who saw the two -- there were three assailants
+in total, right, and two left the scene?
+MR. SHANMUGAM: There's some doubt as to
+whether or not there were three or four assailants. And
+Mims himself, in all candor, was a little bit
+inconsistent on that point. But he consistently said,
+both in the handwritten notes and in his testimony at
+the postconviction hearing, that all of the assailants,
+however many there were, were wearing masks and that --
+that he saw them as they were getting into the car. He
+didn't say anything further other than that the masks
+were ski-type masks.
+But the State's argument with regard to the
+materiality of Mims's statement is that it is possible
+that the men would not have been wearing masks when they
+entered the house to allegedly commit the armed robbery;
+and, therefore, the fact that Boatner saw the first man
+unmasked can be reconciled with his statement. And,
+again, we would be happy to take our chances with the
+jury and make the argument that that would be an
+exceedingly unconventional way to go about committing an
+armed robbery.
+And, again, with regard to the Russell and
+Mims statements, I think it's important to remember that
+we view those statements as going directly to and
+contradicting Boatner's in-court identification. And
+so, in some sense, we view those statements as being of
+a piece with Boatner's own prior statements in which he
+indicated that he could not identify anyone and that he
+did not --
+JUSTICE ALITO: Does the defense have any
+theory as to why Boatner would lie about whether he
+could identify this individual?
+MR. SHANMUGAM: First of all, Justice Alito,
+it would, of course, not be the defense's burden in any
+subsequent retrial to come up with a theory of its own.
+The defense could simply argue, as it did at the first
+trial, that the prosecution simply didn't bear its
+burden on reasonable doubt. But --
+JUSTICE ALITO: But, yes -- but the -- the
+impact of your impeachment evidence would be related
+certainly to if a juror would ask, well, why would he
+lie about this? And I -- I'm just asking, would -- did
+the defense have any theory about what his motive would
+be about whether he could identify somebody, whether
+this first person had a mask or not?
+MR. SHANMUGAM: As this Court will be aware
+from its recent consideration of eyewitness evidence, it
+doesn't necessarily follow from the fact that an
+eyewitness identification is mistaken that the
+eyewitness was somehow lying about it. It may very well
+have been that Boatner made a mistaken identification in
+good faith out of a desire to identify the person who
+killed several of his friends.
+And, indeed, as the amicus brief of the
+Innocence Project explains in this case, there is a
+phenomenon known as "mug shot exposure effect," where an
+individual who sees a mug shot in some other context is
+more likely to identify that same person when confronted
+with a subsequent line-up. Of course, where, as here,
+the individual is exposed to the mug shot for the first
+time in seeing a newspaper article that depicts the
+individual in question and suggests that that individual
+is a suspect in the crime, it would not at all be
+unusual for the individual, when confronted with that
+photograph again in a line-up a few weeks later, to pick
+that individual.
+JUSTICE ALITO: But the first time he -- he
+said that the person wasn't masked and provided a
+description was long before he saw any mug shots. It
+was the evening of the event. It was when he was
+questioned at the police station.
+MR. SHANMUGAM: Well, on the evening of the
+event, he provided those limited details about the gold
+teeth and the low-cut haircut.
+JUSTICE ALITO: Yes, but by doing that he's
+saying this person wasn't wearing a mask. That's the
+critical point.
+MR. SHANMUGAM: Well, that may suggest that
+the person was not wearing a mask. Of course, it's
+possible that the person somehow had part of his face
+covered.
+But I think it's important to realize,
+Justice Alito, that even with regard to that statement,
+while it is true that Boatner provided those limiting
+details, he also made statements suggesting that he was
+not confident of his ability to actually make an
+identification. And in that statement, which is found
+at page 296 of the joint appendix, he says: I was too
+scared to look at anybody. I wish I could give y'all a
+description.
+So, in some sense, we think that the focus
+on the gold teeth and the low-cut haircut in this case
+is a bit of an aside, because the question here is not
+whether he saw enough to support the subsequent
+identification; the question is whether his suppressed
+statements in which he repeatedly said, I can't make an
+identification, contradict his in-court confident
+identification of Petitioner.
+And we think that in order to decide this
+case, all that the Court essentially need say in an
+opinion is that in a case such as this one, in which all
+you have is the identification of a single eyewitness,
+where you have statements in which that eyewitness said
+I can't make an identification, and those statements
+have concededly been suppressed, the Brady materiality
+threshold is satisfied.
+JUSTICE SOTOMAYOR: Am I right --
+JUSTICE KENNEDY: In looking at the
+appendix, there are some asterisks. Were these
+statements, the first two -- the one at 252 in the joint
+appendix and then the statement on March the 2nd, which
+is the one you just referred to, 296, were parts of
+those statements given to the defense counsel or none of
+the statements? And how long were the documents? Were
+they 20 or 30 pages? Can you tell me a little bit about
+that?
+MR. SHANMUGAM: First of all, none of those
+statements were given to the defense. The only
+relevant --
+JUSTICE KENNEDY: I shouldn't have said
+"statements." None of the reports.
+MR. SHANMUGAM: Yes. None of the statements
+or the surrounding materials was given to the defense at
+all. The only even remotely relevant thing that was
+given to the defense was the initial police report,
+which was a five-page document prepared by the officers
+who initially responded to the scene, with a one-page
+narrative of what took place. And that document, for
+the Court's reference, is in volume 10 of the initial
+record that was received from the district court at
+pages R1907 to 1911.
+Now, with regard to these specific
+statements, both the narrative statements and the
+handwritten notes, the narrative statements were
+contained in a relatively voluminous document -- I
+believe it was an 83-page document -- that was a
+narrative prepared by Officer Ronquillo that set out
+everything that took place over the course of the
+investigation. And none of that was disclosed.
+Respondent makes the argument that the trial
+court reviewed that document in camera, but we think
+that it is somewhat unclear what, if anything, the trial
+court actually reviewed in camera. There's no dispute
+that that document was not handed over to the defense.
+With regard to the handwritten notes, there
+actually are a relatively small number of relevant
+handwritten notes in this case, but all of them were
+contained in the police files, and none of them, none of
+the ones at issue on which we're relying, was handed
+over before trial.
+So, this is not a case in which selective
+materials were handed over. None of this material was
+handed over, and that's why we really think that this is
+a case that involves the categorical withholding of
+documents and not simply the withholding of selected
+documents that may subsequently turn out to be relevant.
+JUSTICE KENNEDY: Can you just tell me, how
+does Brady work? Is there some obligation for the
+defense counsel to say please give me all relevant
+reports?
+MR. SHANMUGAM: No. This Court has made
+clear that a request is unnecessary to trigger the Brady
+obligation, and this Court has made clear in cases
+dating back to Brady itself that the good faith or bad
+faith of the prosecutor is irrelevant. And, of course,
+the prosecutor has a duty under Brady to hand over not
+only materials in the prosecutor's own possession but
+also materials in the possession of the police as well.
+JUSTICE SOTOMAYOR: Counsel, is -- this
+group or gang, all of them had gold teeth and faded hair
+cuts?
+MR. SHANMUGAM: There were five other
+suspects who had gold teeth or -- and low-cut haircuts.
+Three of the other individuals who were primarily in the
+frame for this murder had those characteristics. I
+believe that the three were Bannister, Phillips, and
+Young. The only other suspect who is a reasonably
+likely suspect who didn't was Robert Trackling, the
+suspect whose confession to involvement in these
+shootings was withheld.
+JUSTICE SOTOMAYOR: In short, faded hair
+cuts and gold teeth were not a unique characteristic.
+MR. SHANMUGAM: They were not uncommon in
+the 1990s.
+JUSTICE SCALIA: Yes, what were these --
+(Laughter.)
+JUSTICE SCALIA: They're uncommon to me.
+These --
+(Laughter.)
+JUSTICE SCALIA: These were not gold teeth
+that were implanted, right? They -- what was it? Some
+kind of a mouthpiece of gold?
+MR. SHANMUGAM: I have to admit that my
+familiarity with this practice is perhaps not that much
+greater than yours, Justice Scalia. But my
+understanding is --
+JUSTICE SCALIA: I'm sorry to hear that.
+(Laughter.)
+MR. SHANMUGAM: My understanding is that
+these are gold teeth that are worn either as temporary
+or perhaps semipermanent implants, and that in hip-hop
+culture in the 1990s, this was relatively common. But
+whatever the provenance of this practice, it is
+undisputed on this record that multiple other suspects
+had those characteristics.
+Justice Sotomayor, there was one thing you
+asked that I just want to get back to with regard to the
+remaining categories of evidence. I just want to set
+them out, and then I'd be happy to answer any questions
+that the Court has about them. And if there are no
+further questions, I'll reserve the balance of my time.
+As we explain in our brief, there are three
+other categories of evidence at issue here. There was
+the statement of Phillip Young, Petitioner's
+co-defendant, suggesting that Petitioner was not
+involved in the shootings. There were also the
+statements that would have called into question the
+prosecution's theory that Petitioner was one of the
+shooters, a theory that was essential to establishing
+the intent required for first-degree murder under
+Louisiana law. Louisiana is somewhat different from
+other States in that it doesn't require premeditation,
+but that it -- but it does require a specific intent to
+kill or inflict great bodily harm.
+JUSTICE ALITO: Well, on that point, the
+State says that you're drawing a meaningless distinction
+between a hand -- a 9-millimeter handgun and a
+9-millimeter automatic pistol.
+MR. SHANMUGAM: Well, we don't think that
+that's a meaningless distinction, and we cite numerous
+sources in our brief that draw precisely that
+distinction.
+But I think that what's noteworthy with
+regard to the statements at issue is that both Boatner,
+who identified the weapon that the perpetrator whom he
+believed to be Petitioner was carrying, and the State's
+ballistics expert, Kenneth Leary, who identified the
+weapon that was responsible for the firing of the
+casings at issue, conspicuously failed to say that the
+weapon at issue was a 9- millimeter handgun. But at
+trial their testimonies suddenly converged, and Boatner,
+who had previously said only that the perpetrator was
+carrying a handgun, said that the perpetrator was
+carrying a 9-millimeter handgun; and Leary, who said
+that the casings at issue had come from a machine pistol
+of the Intratec or MAC-11 type, suddenly said that they
+came from a 9-millimeter handgun instead.
+And so, at a minimum, if the defense had
+possessed those statements, it could have sown doubt on
+whether the firearm was in fact one and the same and,
+therefore, sown doubt on a critical element of the
+offense at issue.
+And finally, the only other category --
+JUSTICE SOTOMAYOR: I'd just like to go back
+to that because I'm not sure I understand the argument.
+Both the ballistics expert at trial said that the
+casings were consistent with a 9-millimeter? And I know
+that Boatner said that it was a 9-millimeter that was
+used. And the issue was whether anybody would call a
+MAC gun a handgun as opposed to an automatic pistol,
+correct?
+MR. SHANMUGAM: Well, that's right with
+regard to Leary's testimony. I think the thing that was
+a little bit odd with regard to Boatner's testimony was
+the sudden degree of specificity. Having said only that
+it was a handgun or a chrome automatic in his prior
+statements, he said at trial that it was a 9-millimeter
+handgun, which he had not previously said in the
+statements that were withheld.
+And, finally, the last category of evidence
+consists of the notes of the interview in which Eric
+Rogers relayed Robert Trackling's confession to
+involvement in the shootings. As the amicus brief of
+the NACDL points out, courts have routinely held that
+confessions by other perpetrators constitute exculpatory
+evidence, even with regard to offenses that may have had
+multiple perpetrators. And we certainly believe that at
+a minimum the suppression of those notes, when
+considered in conjunction with all of the other
+evidence, comfortably satisfies the Brady materiality
+standard, and it's for that reason that we think that
+the judgment of the trial court should be reversed.
+JUSTICE KAGAN: Mr. Shanmugam, just a quick
+one. Was -- is all the evidence that you're discussing
+here today -- was that presented to the State
+postconviction court?
+MR. SHANMUGAM: Yes. We believe that all of
+this evidence was before the State postconviction court.
+Thank you, and I'll reserve the balance of
+my time.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Ms. Andrieu.
+ORAL ARGUMENT OF DONNA R. ANDRIEU
+ON BEHALF OF THE RESPONDENT
+MS. ANDRIEU: Yes. Mr. Chief Justice, and
+may it please the Court:
+The only survivor who could identify the
+assailant who led the massacre in the small home at 2230
+North Roman Street was Larry Boatner. He identified --
+Larry -- he identified the Petitioner after having
+searched the faces of 72 individuals who were presented
+to him in photo line-ups, one after the other. And,
+yes, Justice Sotomayor, several of the -- those faces or
+several of those individuals bore short fade haircuts.
+And, yes, some of the individuals who were pictured in
+those photo line-ups were other suspects. The record
+reflects that Mr. Boatner scrutinized those 72 faces.
+At one point, line-up 11 was shown to him on March 22nd,
+and he remarked about the haircut. He said: My
+assailant wore his hair like this --
+JUSTICE GINSBURG: Does this -- was this
+line-up -- was this after Boatner saw the photograph in
+the newspaper?
+MS. ANDRIEU: No, it was not. I believe
+the -- Mr. Smith's photograph was pictured in the
+Times-Picayune newspaper on June 7th, and this
+particular line-up was shown to Mr. Boatner on March
+22nd. So, at that point, line-up 8, he stopped and
+remarked about the hair --
+JUSTICE SOTOMAYOR: Could you tell me why
+Boatner waited 2 weeks to -- or never told the police
+that the face that he saw in the newspaper was the face
+of his assailant? I -- as I understand the facts, he
+says he saw the newspaper, recognized his assailant, and
+remained silent.
+MS. ANDRIEU: Yes, he did.
+JUSTICE SOTOMAYOR: It wasn't until they
+presented him with the line-up including Mr. Smith's
+face that he identified Mr. Smith. What's the reason
+for the delay?
+MS. ANDRIEU: His reason, Your Honor, is --
+it's contained most specifically on page 191 of the
+joint appendix, and it is frankly that he was afraid.
+He -- and I think the jury would have understood that.
+He obviously knew what Mr. Smith was capable of. He --
+I'm sure he feared --
+JUSTICE SOTOMAYOR: And so what turned --
+what changed his mind once the police showed him the
+line-up?
+MS. ANDRIEU: Well, I don't know that he
+changed his mind, but he was presented with a line-up,
+and when he was presented with the line-up, he very
+quickly identified Juan Smith and said: That is him; I
+will never forget his face. So --
+JUSTICE GINSBURG: And that was before or
+after the picture in the paper?
+MS. ANDRIEU: That was after. And all of
+this, by the way, was vetted during -- during a motion
+to suppress hearing. When the trial judge learned or --
+that the photograph had been shown in the newspaper, he
+reopened the hearing on the motion to suppress to
+determine -- and over the State's objection. We argued
+that this was not State action. But he reopened the
+motion to suppress to determine for himself whether or
+not that newspaper had in any way tainted the later
+identification of Juan Smith.
+JUSTICE BREYER: What is this? I mean, I
+thought -- I may -- I thought the issue is that there
+were some notes, and the first note, which was made on
+the day, the policeman says that Boatner said he could
+not supply a description of the perpetrator, other than
+to say they were black males. Then he said they had
+golden teeth and a low-cut haircut.
+And 5 days later, he said he could not ID
+anyone because he couldn't see faces. Then he said he'd
+only glanced at the first man. He couldn't tell if they
+had their faces covered and didn't see anyone. Then he
+said, I could not ID, would not know them if I saw them.
+And another set of police notes says he said that he
+could not identify any of the perpetrators of the
+murder.
+So, I guess those are all notes that the --
+the prosecution did not give to the defense. So, if you
+were a defense lawyer, whatever this other stuff is, I
+guess you would have been pretty happy to have those
+notes because you might have tried to impeach his
+identification.
+MS. ANDRIEU: Yes, and --
+JUSTICE BREYER: And so, what are -- you're
+saying that I guess it would have made no difference?
+MS. ANDRIEU: That's correct, Your Honor.
+JUSTICE BREYER: Then I'd like to hear that
+because it seems on its face that it certainly could
+have made a difference, that if he had those notes that
+he could have tried to impeach him and said where did
+this sudden recognition come from.
+MS. ANDRIEU: And I can appreciate your
+concern. This Court has held that favorable evidence --
+well, this Court has held that favorable evidence which
+is not material need not be turned over to the defense.
+And if I could --
+JUSTICE GINSBURG: But how could it not be
+material? Here is the only eyewitness --
+MS. ANDRIEU: Yes.
+JUSTICE GINSBURG: -- and we have
+inconsistent statements. Are you really urging that the
+prior statements were immaterial?
+MS. ANDRIEU: Yes, Your Honor. If I may put
+them in perspective. Mr. Boatner provided two
+statements -- I'm sorry. Mr. Boatner provided a
+statement on the scene, two statements the day of the
+incident. To a first responding officer who was not
+Detective Ronquillo, he gave a description, and that
+description was heavy built, with a hair with a fade
+with a little small top, with a lot of gold in his
+mouth. That was while he was at the scene.
+Later, homicide Detective John Ronquillo
+arrived at the scene, and apparently, according to his
+notes and, most importantly, according to his
+postconviction testimony, he asked Larry -- he asked
+Larry Boatner for a description. And Larry Boatner
+said, I can't give you a description.
+I'll put them all in perspective and then go
+back to what Detective Ronquillo and Mr. Boatner had to
+say about that. But in any case, Mr. Boatner's severe
+laceration was treated, and then he was escorted to the
+homicide office, where he gave his formal statement.
+And in that statement, part of which has been reproduced
+here by opposing counsel, Mr. Boatner said: I can tell
+you about the one, the one who put the pistol in my
+face. He was a black male with a low cut, golds in his
+mouth. I don't know how many; that's all. I was too
+scared to look at anybody. All of them had guns, one
+with an AK; one with a TEC-9. The one who hit me had a
+chrome automatic. It was big. So --
+CHIEF JUSTICE ROBERTS: Well, and you
+could argue, presumably you did argue, that before the
+jury, and that would be compelling evidence for the
+jury. And if you were the defense lawyer, you really
+would like to have that statement where he said: I
+couldn't identify them.
+MS. ANDRIEU: You would like to have it, but
+it's not material because, sandwiched between two
+descriptions -- and he's -- between two descriptions, he
+says, I can't identify. And taken in --
+JUSTICE GINSBURG: How does that make it not
+material? You can argue that it should be given
+diminished weight. But an inconsistent statement by the
+only eyewitness seems to me most material and useful to
+the defense in cross-examining the eyewitness. I really
+don't understand how you can -- you can argue that the
+jury shouldn't put much weight on it because there were
+these other things; but to say that it's immaterial I
+find that that is -- is not plausible.
+JUSTICE SCALIA: And not only the only
+eyewitness but, if I understand it correctly, the only
+evidence against the defendant. This was the only
+evidence against him, this one eyewitness
+identification, right? Was there anything else?
+MS. ANDRIEU: There was -- the
+identification of Juan Smith was bolstered by evidence,
+by testimony of the brother of Phillip Young. The
+perpetrator who was left at the scene is an aphasic
+amnesiac. So, he established a link that the two were
+known to each other, Juan Smith and --
+JUSTICE SCALIA: Well --
+MS. ANDRIEU: -- but yes.
+JUSTICE KENNEDY: But just on the
+materiality point, I -- I just have to agree with
+Justice Ginsburg. What you're telling us is that when
+the defense stands up and said, and isn't it true that,
+in this statement which you just have testified to on
+direct and which the police have put in on direct, you
+also said you could not identify any perpetrators of the
+murder -- and then the prosecutor says immaterial, and
+the judge says strike it.
+MS. ANDRIEU: But that's not --
+JUSTICE KENNEDY: I just can't believe that.
+MS. ANDRIEU: But that's not what he says.
+He says: I can tell you about the one, the one who put
+the pistol in my face.
+JUSTICE BREYER: So, I take it that your --
+JUSTICE KENNEDY: I'm talking about the
+Boatner statement of 3/6/95, in which Boatner told
+police he could not identify any of the perpetrators of
+the murder, JA 259-60.
+MS. ANDRIEU: Yes.
+JUSTICE KENNEDY: And you say that's
+immaterial. I find that just incredible.
+JUSTICE BREYER: Is it that you mean
+immaterial, or is it that you mean that it wasn't
+prejudicial because there's so much other evidence,
+there was no reasonable probability it would have made a
+difference in the trial?
+MS. ANDRIEU: That is what I mean, yes.
+JUSTICE BREYER: Okay. So, we can forget
+the word "material."
+Now, you're saying there's so much other
+evidence here against him that it wouldn't have made any
+difference.
+MS. ANDRIEU: Yes.
+JUSTICE BREYER: Now, I can understand that
+argument.
+JUSTICE KAGAN: Well, I --
+JUSTICE BREYER: But I don't know if it's
+right. That is -- that is -- now I think I can go back
+to Justice Kennedy's question, put it in those terms,
+and say, well, why wouldn't -- this could have made a
+difference. I mean, here, we have this witness who said
+all of these great things for your side, and within a
+space of hours, he has been telling the policemen that
+he can't identify anybody, he doesn't know. I mean,
+what -- that sounds like there's a probability that
+would have made a difference. Why not?
+MS. ANDRIEU: The -- among the most
+important evidence in this case is the testimony or the
+transcript from the postconviction relief hearing. John
+Ronquillo, whose notes these are, was asked about the
+March 6th statement. And I guess we are
+fast-forwarding. The next -- the statement after the
+statement made -- the one made in the homicide office
+was made on March 6th. And at that time, Detective
+Ronquillo called Larry Boatner, and Larry Boatner said,
+I can't identify anyone.
+Based -- and what Detective Ronquillo had to
+say about that -- first of all, Larry Boatner didn't
+remember saying that. But what Detective Ronquillo had
+to say about it -- and he was the person who was --
+whose impressions -- about whose impressions we're
+speaking -- was that at that point, Mr. Boatner, like
+many murder witnesses, was retreating, temporarily
+equivocating, as we wrote in brief. He was retreating
+somewhat from his assistance with the police. Not an --
+not an abnormal phenomenon --
+JUSTICE SOTOMAYOR: What if -- what if --
+could the jury be entitled to reject that conclusion?
+They have four statements by this man who Ronquillo
+described as very coherent, very with it at the scene of
+the crime. Would a jury be entitled to -- to reject
+that excuse by Ronquillo?
+MS. ANDRIEU: They would, Your Honor.
+And --
+JUSTICE SOTOMAYOR: And if they were
+entitled to do that, why would the absence of four
+statements that I can't identify someone not have been
+an argument that defense counsel could have used, number
+one, and that had a reasonable probability of making a
+difference?
+MS. ANDRIEU: First of all, there were not
+four statements that were made where Boatner said he
+couldn't identify anyone, again. He gave two statements
+the day of where he described, and one statement --
+JUSTICE SOTOMAYOR: At different hours.
+MS. ANDRIEU: I'm sorry.
+JUSTICE SOTOMAYOR: At different hours.
+MS. ANDRIEU: Yes.
+JUSTICE SOTOMAYOR: And to different
+officers.
+MS. ANDRIEU: Yes.
+JUSTICE SOTOMAYOR: So, that's two
+statements. My math is wrong?
+MS. ANDRIEU: I'm sorry. Those are
+statements where he inculpated the defendant. There are
+two statements. Starting on the scene, there is a
+statement provided to the first responding officer,
+where he provides a description. Larry Boatner provides
+a description --
+JUSTICE GINSBURG: But it is a description
+that others, other suspects, fit. The close-cut hair,
+the gold teeth. That didn't identify Smith, as opposed
+to the other suspects who had those same
+characteristics.
+MS. ANDRIEU: Yes. And those other
+suspects' photographs were all contained -- were
+contained in photo IDs -- in photo line-ups, and
+Mr. Boatner never selected one of them.
+The other thing is he -- gold teeth. He
+knew that his perpetrator had gold teeth. The next time
+he saw Mr. Smith was at trial in court. Mr. Smith
+revealed his teeth, and he had gold teeth. But as far
+as the other suspects having the haircut or physical --
+similar physical attributes --
+JUSTICE GINSBURG: It was a prior
+inconsistent statement, and we can argue about whether
+there were more consistent statements than inconsistent
+statements, but to say that this was not Brady material,
+we -- we're not saying that Larry Boatner made up a
+story on the stand that wasn't -- didn't conform to the
+truth. The question is, should the prosecutor -- should
+the defense attorney have access to a prior inconsistent
+statement?
+MS. ANDRIEU: And this Court has said that
+Brady is a reflective -- is a reflective analysis. He
+did not --
+JUSTICE ALITO: Well, can you explain how
+this -- how this took place? You have a case in which
+you're -- you're relying almost entirely on the
+testimony of one witness, and you have these notes that
+were taken by, and are presumably in the possession of,
+the lead investigator. Wouldn't any prosecutor ask the
+lead -- the lead investigator, do you have any
+statements of this witness?
+MS. ANDRIEU: Absolutely.
+JUSTICE ALITO: They have to be examined,
+and if there's anything in them that's -- that is
+impeachment material, they have to be turned over to the
+defense. And under Louisiana law, is there are a rule
+that requires the turning over of statements by
+witnesses, prior statements by witnesses?
+MS. ANDRIEU: Under Louisiana law, prior
+statements of witnesses are not discoverable. But of
+course, under this Court's decision in Brady v.
+Maryland, if the prosecutor makes a determination that
+they would materially affect the outcome of --
+JUSTICE SOTOMAYOR: But you have to --
+MS. ANDRIEU: -- guilt or innocence --
+JUSTICE SOTOMAYOR: You have to supply
+statements by a witness when they take the stand, don't
+you? Those are immaterial? Don't you have to turn
+over --
+MS. ANDRIEU: No.
+JUSTICE SOTOMAYOR:
+Louisiana?
+MS. ANDRIEU: No.
+JUSTICE SOTOMAYOR:
+over witness statements when they're taking the stand?
+MS. ANDRIEU: No. And these statements were
+provided in camera. There was -- defense filed a motion
+for discovery, and he asked for Brady material. He
+asked specifically for the supplemental report, which is
+where these statements are contained.
+JUSTICE SOTOMAYOR: So, you -- are you
+claiming that the judge's failure to catch these
+inconsistencies excuses your Brady obligation?
+MS. ANDRIEU: Not at all. The Brady
+obligation is ours. In fact, we believe that that's
+actually a poor practice. But it is one --
+JUSTICE KAGAN: Ms. Andrieu, if I could go
+back to Justice Alito's question, was the problem here
+that the prosecutors never received these statements
+from the police officers, or did the prosecutors make a
+determination similar to the kind of argument that
+you're making today -- make a determination that these
+statements simply should not be turned over because they
+are not material?
+MS. ANDRIEU: The prosecutor in this case
+actually turned them over to the trial court for an in
+camera inspection. And article -- Louisiana Code of
+Criminal Procedure article 718 actually provides for
+that practice.
+JUSTICE BREYER: It's so odd that -- I mean,
+look, it seems like here it is 5 days after the shooting
+and well before, I guess, that this witness saw any mug
+shots or did anything. And he says, I could not
+identify anyone, because he couldn't see the faces of
+the people. And now you're saying later, which you
+introduce into trial, his having looked at the faces of
+people and identified them from their faces.
+Now, previously, he said he couldn't see
+their faces. All right. And in Louisiana, the State of
+Louisiana, the prosecution and the judges say that
+isn't -- you don't have to turn over that statement that
+he couldn't see the faces made earlier.
+MS. ANDRIEU: No. What he --
+JUSTICE BREYER: What?
+MS. ANDRIEU: I'm sorry. When he's saying
+that he could not see the faces, he is not referring to
+Juan Smith. He and Detective Ronquillo testified at
+postconviction that he always said he could identify the
+one, the one whose face appeared a handgun's length from
+his own, unmasked, when he opened that front door at
+2230 North Roman.
+Detective Ronquillo put this in perspective
+at postconviction. And as I said, he --
+JUSTICE BREYER: Oh, you mean all these --
+all these statements that we have here, you're saying,
+all referred to people other than the defendant.
+MS. ANDRIEU: Juan. Yes.
+JUSTICE BREYER: All right. Well, was there
+a finding on that?
+MS. ANDRIEU: There was -- the judge did not
+give express findings of fact or finding of law, but --
+JUSTICE BREYER: Perhaps the defense would
+have liked to say they did apply to the defendant.
+JUSTICE SCALIA: You don't say all of them.
+All of them didn't apply to the --
+MS. ANDRIEU: No. The one at the scene,
+when he says I can't describe anyone here, clearly --
+JUSTICE BREYER: This was not at the scene.
+JUSTICE SCALIA: That applied to everyone,
+right?
+MS. ANDRIEU: I'm sorry.
+JUSTICE SCALIA: The one at the scene
+applied to everyone.
+MS. ANDRIEU: To everyone.
+JUSTICE SCALIA: "I can't identify anyone."
+MS. ANDRIEU: March 6th --
+JUSTICE SCALIA: Yes.
+MS. ANDRIEU: -- applied to everyone --
+everyone except Juan Smith.
+JUSTICE SCALIA: Okay.
+JUSTICE BREYER: So, you're --
+CHIEF JUSTICE ROBERTS: Wait, wait. I'm
+sorry. You've lost me there. When he says I can't
+identify anyone, Smith is out of that group already?
+MS. ANDRIEU: Oh, I'm sorry. No. He's --
+CHIEF JUSTICE ROBERTS: Okay.
+MS. ANDRIEU: I'm sorry. In both
+circumstances, he is saying -- the first time, he's
+saying, I can't describe. The second time, he is
+saying, I can't help you; I can't identify everyone.
+But the jury would have --
+JUSTICE BREYER: All right. He says, I
+can't identify --
+CHIEF JUSTICE ROBERTS: Excuse me. I can't
+identify everyone or everyone?
+MS. ANDRIEU: Anyone.
+CHIEF JUSTICE ROBERTS: Okay.
+MS. ANDRIEU: And the jury would have
+heard --
+JUSTICE BREYER: He says, I can't identify
+anyone because I couldn't see faces. Okay? That's what
+it says here, at least in my notes that my law clerks
+gathered. And --
+(Laughter.)
+JUSTICE BREYER: All right, I -- and my
+point then is this seems very odd, I mean, really
+unusual that in the State of Louisiana that they have
+some kind of system that doesn't turn that statement
+over to the defense.
+MS. ANDRIEU: It was turned over to the
+judge under article 718 for in-camera inspection.
+JUSTICE ALITO: Where's that reflected in
+the record? I --
+MS. ANDRIEU: That's on October 31st of
+1995. There is a hearing.
+JUSTICE ALITO: What you said in your brief
+was that the judge determined that the supplemental
+report relating to the North Roman Street murders
+contains no Brady material.
+MS. ANDRIEU: Yes. Mr. Smith --
+JUSTICE ALITO: I didn't understand the
+record to be that all of Boatner's statements -- that
+all the statements of Boatner that we're concerned about
+now were examined by the judge before--
+MS. ANDRIEU: Yes.
+JUSTICE ALITO: -- trial?
+MS. ANDRIEU: Yes.
+JUSTICE ALITO: And the record reflects that
+where?
+MS. ANDRIEU: The transcript of October
+31st, 1995. The --
+JUSTICE KAGAN: And is it the view of the
+prosecutor's office that because those materials were
+turned over to the judge, assuming that they were turned
+over to the judge, that that obviates the Brady
+obligation?
+MS. ANDRIEU: Not at all.
+JUSTICE KAGAN: Is that the view of the
+prosecutor's office?
+MS. ANDRIEU: Not at all. We believe it's a
+bad practice. But it is --
+JUSTICE KENNEDY: Did you concede there was
+a Brady violation in this case?
+MS. ANDRIEU: Did we concede?
+JUSTICE KENNEDY: Do you now concede--
+MS. ANDRIEU: No.
+JUSTICE KENNEDY: -- there was a Brady
+violation in the case?
+MS. ANDRIEU: No. If the --
+JUSTICE KENNEDY: You're telling the Court
+that this should have been kept from the defense, all of
+it?
+MS. ANDRIEU: Under this --
+JUSTICE KENNEDY: Under Brady.
+MS. ANDRIEU: -- Court's decision in Kyles,
+I believe a prudent prosecutor would have disclosed it.
+I do not --
+JUSTICE GINSBURG: But Kyles is a decision
+saying what the prosecutor must disclose, not it's a
+good practice.
+MS. ANDRIEU: No. But --
+JUSTICE SOTOMAYOR: So, is there a violation
+under our holding in Kyles?
+MS. ANDRIEU: I'm sorry.
+JUSTICE SOTOMAYOR: Is there a Brady
+violation under our holding in Kyles?
+MS. ANDRIEU: No, there is not.
+JUSTICE SOTOMAYOR: So, explain why what is
+on its face seemingly inconsistent statements are not
+required to be turned over.
+MS. ANDRIEU: With regard to the March 6th
+statement where Larry Boatner tells John Ronquillo at
+that point, I can't identify anyone, what Mr. -- what
+Detective Ronquillo had to say about that is
+dispositive. And he said, at that point Larry Boatner
+was withdrawing from -- he was afraid -- he was
+withdrawing from police assistance.
+JUSTICE SOTOMAYOR: I don't understand how
+he becomes the arbiter of what's Brady. You said to me
+earlier that a jury would be entitled to reject his
+conclusion. All right? Tell me what -- how his
+conclusion makes it non-Brady if a juror could decide
+differently.
+MS. ANDRIEU: The -- the postconviction
+testimony is pivotal because there is a petition that's
+filed with attachments, with exhibits. That is what
+gets, and that is what got, Mr. Smith his day in court,
+his four-day postconviction hearing testimony --
+postconviction hearing. Larry Boatner took the stand.
+What Larry Boatner had to say and what John Ronquillo
+had to say -- because after all, these are John
+Ronquillo's notes -- I think they are important. And I
+think they're important in a Brady analysis because
+those are --
+JUSTICE SOTOMAYOR: There are two components
+to Brady. Should they have been turned over? And if
+they had, is there a reasonable probability of a
+different outcome?
+MS. ANDRIEU: There is not.
+JUSTICE SOTOMAYOR: Should they have been
+turned over? That's the question that I think my
+colleague asked you, and you're saying no.
+MS. ANDRIEU: No. I believe that a prudent
+prosecutor would have. I believe we're tacking a little
+bit too close to the wind, but a prudent prosecutor
+would have. I also think that --
+JUSTICE SOTOMAYOR: All right. Now
+articulate what legal theory --
+MS. ANDRIEU: Because it -- because Mr. --
+JUSTICE SOTOMAYOR: -- would say these are
+not -- these are not materials that needed to be turned
+over, when they say: Could not ID; would not know them
+if I saw them; can't tell if had faces covered; didn't
+see anyone. That's one of the notes. The other one: I
+don't know how many, that's all; I was too scared to
+look at anybody. And --
+What makes any of those statements --
+MS. ANDRIEU: If Mr. Boatner could not
+identify anyone, Mr. Boatner would not have viewed 15
+lineups. When the lineups were presented to him --
+JUSTICE SOTOMAYOR: This is all a jury
+argument.
+MS. ANDRIEU: I'm sorry --
+JUSTICE SOTOMAYOR: Tell me why they didn't
+on their face constitute Brady materials that needed to
+be turned over. What's the legal principle that doesn't
+make them Brady?
+MS. ANDRIEU: Because if they had been
+presented -- if those statements had been presented to
+defense -- or presented to a jury, the -- the outcome
+would have remained the same. The jury --
+JUSTICE GINSBURG: How do you know? How do
+you know? How can you possibly know? The jury is
+supposed to decide on the credibility of this witness.
+There's a statement that he made a prior inconsistent
+statement. The -- Mr. Shanmugam outlined five
+categories of what he called Brady material. Is -- are
+you maintaining that none of those categories, that
+there was no Brady material at all in this case?
+MS. ANDRIEU: Yes. You're speaking of the
+other pieces of evidence?
+JUSTICE GINSBURG: Yes.
+MS. ANDRIEU: Yes. Well, I'm -- I'm not
+sure if the Charity Hospital's medical records of
+Mr. Boatner are still being urged to this Court as --
+JUSTICE GINSBURG: I'm talking about Mims
+and -- what was the woman's name? Russell?
+MS. ANDRIEU: Shelita Russell. Well --
+JUSTICE GINSBURG: And Young and the snitch,
+the one who said that his cellmate told him that his
+cellmate was the perpetrator.
+MS. ANDRIEU: Well, to be clear, Ms. Russell
+never made a dying declaration. What the defense is
+presenting to this Court as evidence of a dying
+declaration are words and dashes of Detective Ronquillo
+written at some point where he -- written at some
+point --
+JUSTICE GINSBURG: Was it a determination by
+the judge that it wasn't a dying declaration?
+MS. ANDRIEU: The judge, again, did not make
+specific facts of finding or law. The judge -- I'm
+sorry.
+JUSTICE GINSBURG: And how about Mims?
+JUSTICE KENNEDY: Because it was not --
+because it was not turned over. And with all respect, I
+think you misspoke when you -- you were asked what is --
+what is the test for when Brady material must be turned
+over. And you said whether or not there's a reasonable
+probability -- a reasonable likelihood -- pardon me -- a
+reasonable probability that the result would have been
+different. That's the test for when there has been a
+Brady violation. You don't determine your Brady
+obligation by the test for the Brady violation. You're
+transposing two very different things.
+And so, that's incorrect.
+MS. ANDRIEU: And I'm sorry, Justice
+Ginsburg, your -- Shelita Russell did not give a dying
+declaration. The notes are --
+JUDGE GINSBURG: All right. Let's go to
+Mims, who said, I saw them -- I saw the perpetrators go
+to their car when they were exiting. They had ski
+masks.
+MS. ANDRIEU: And that information -- Dale
+Mims testified at postconviction. He testified he did
+not see the assailants arrive. He did not see them --
+JUSTICE GINSBURG: But isn't it most
+unlikely, as your -- as Mr. Shanmugam said, that
+robbers -- I mean, the people who are entering,
+intruding on another's premises to rob, or whatever else
+they're going to do, would wear masks going out but not
+going in? I mean, they don't want anybody -- they don't
+want anybody to be able to identify them.
+MS. ANDRIEU: And it's plausible that
+Mr. Boatner -- I'm sorry -- that Mr. Smith masked
+himself upon escape after --
+JUSTICE GINSBURG: Well, is that maybe --
+CHIEF JUSTICE ROBERTS: I thought -- I'm
+sorry. I thought the idea was they were going to kill
+everybody who might have seen them inside. Their only
+worry would be someone who would see them outside,
+right?
+MS. ANDRIEU: Yes. So worried that the car
+that they arrived in had no license plate. They were
+definitely looking not to be identified.
+JUSTICE KAGAN: Ms. Andrieu, did your office
+ever consider just confessing error in this case?
+MS. ANDRIEU: I'm sorry.
+JUSTICE KAGAN: Did your office ever
+consider just confessing error in this case? You've had
+a bunch of time to think about it. You know? We took
+cert a while ago. I'm just wondering whether you've
+ever considered confessing error.
+MS. ANDRIEU: Your Honor, we believe that we
+have an argument that these statements of Larry Boatner
+are not material. The other evidence that Mr. Shanmugam
+has put before this Court were either not suppressed or
+not favorable. The -- Larry Boatner gave several -- he
+-- he did describe Juan Smith. He described him on
+several occasions, and he ultimately identified him, and
+he identified him after scrupulously viewing 13
+line-ups.
+So, the suggestion that he said at one
+point -- because he's equivocating because his name is
+on -- his name, address, contact information are on the
+police report. It is not a surprise -- and I don't
+think it would be a surprise to Orleans Parish jurors --
+to find that, early in an investigation, a murder
+witness equivocates. He --
+JUSTICE GINSBURG: But you're taking that
+judgment away from the jury. There was a prior
+inconsistent statement. Shouldn't that be the end of
+it? A prior inconsistent statement, one that is
+favorable to the defense, has to be turned over, period.
+I thought was what Brady requires.
+MS. ANDRIEU: And in this case --
+JUSTICE SCALIA: I -- may I suggest that --
+MS. ANDRIEU: Yes.
+JUSTICE SCALIA: -- you stop fighting as to
+whether it should be turned over? Of course, it should
+have been turned over. I think the case you're making
+is that it wouldn't have made a difference.
+MS. ANDRIEU: Made a difference. Yes.
+JUSTICE SCALIA: And -- and that's a closer
+case, perhaps, but surely it should have been turned
+over. Why don't you give that up?
+MS. ANDRIEU: Well, I -- and I actually
+thought I had when I said a prudent prosecutor would,
+but in making a sort of over-the-shoulder, rear-window
+Brady analysis, I don't think that these statements --
+that the statements made to -- the statement made to
+Ronquillo at the scene where he's all shook up and he
+says, I can't describe anybody; then he goes to the
+hospital, gets his severe laceration taken care of --
+JUSTICE SOTOMAYOR: Counsel, my worry is the
+following: You've read Cullen.
+MS. ANDRIEU: I'm sorry?
+JUSTICE SOTOMAYOR: You read Cullen.
+MS. ANDRIEU: Yes.
+JUSTICE SOTOMAYOR: You read the dissent in
+Cullen. There has been serious accusations against the
+practices of your office, not yours in particular but
+prior ones. It is disconcerting to me that when I asked
+you the question directly should this material have been
+turned over, you gave an absolute no. It didn't need to
+be. It would have been prudent, but it didn't need to
+be. That's really troubling.
+MS. ANDRIEU: And I think I misunderstood
+your question -- I think I misunderstood your question.
+Should it have been turned over? Yes. Now that we are
+here 16 years later, and the Court is making --
+JUSTICE SOTOMAYOR: That's the second prong
+of Brady. I said there were two prongs to Brady. Do
+you have to turn it over, and, second, does it cause
+harm. And the first one you said not. That -- it is
+somewhat disconcerting that your office is still
+answering equivocally on a basic obligation as one that
+requires you to have turned these materials over --
+MS. ANDRIEU: Your Honor --
+JUSTICE SOTOMAYOR: -- whether it caused
+harm or not.
+MS. ANDRIEU: If -- if I may explain. I
+obviously misunderstood your question. Present-day
+prosecutors -- oh, I'm sorry. May I --
+CHIEF JUSTICE ROBERTS: You can, very
+briefly.
+MS. ANDRIEU: We would have -- today we turn
+all of this over. Our only concern is redacting victim
+information, identifying information, so that -- for
+victims' safety. But it -- it should have been turned
+over. I guess what I was addressing or attempting to
+address was the materiality prong of Brady.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+MS. ANDRIEU: Thank you.
+CHIEF JUSTICE ROBERTS: Mr. Shanmugam, 4
+minutes.
+REBUTTAL ARGUMENT OF KANNON K. SHANMUGAM
+ON BEHALF OF THE PETITIONER
+MR. SHANMUGAM: Thank you, Mr. Chief
+Justice.
+Just three very quick points. First of all,
+with regard to Larry Boatner's statements on March the
+6th, Justice Breyer, you'll be happy to know that your
+law clerks' notes were correct. Boatner on March the
+6th said -- and this is at page 308 of the joint
+appendix -- could not ID anyone because couldn't see
+faces; can't tell if had faces covered; didn't see
+anyone; would not know them if I saw them.
+JUSTICE BREYER: I'm not surprised they're
+correct.
+(Laughter.)
+MR. SHANMUGAM: It is quite clear that that
+statement applies to all of the perpetrators. The State
+advances the argument today, as it did in its brief,
+that Boatner must have been too scared to cooperate by
+March the 6th, but that is utterly belied by the record
+in this case. Boatner continued to cooperate with the
+police investigation in the following weeks, reviewing
+police line-ups. He even testified that he wanted to go
+looking for Petitioner after seeing his photograph in
+the New Orleans newspaper, pages 489 and 494 of the
+joint appendix. He didn't leave New Orleans until June,
+3 months later, and he actually returned to New Orleans
+before Petitioner was even apprehended. So, again --
+JUSTICE ALITO: It is your understanding
+that the -- that all of Boatner's -- all the notes about
+Boatner's statements were turned over to the judge
+before trial for in camera inspection?
+MR. SHANMUGAM: Justice Alito, it is
+entirely unclear based on this record. Counsel for
+Respondent cites the transcript from October 31st, 1995,
+a transcript that wasn't even prepared until after cert
+was granted in this case.
+It's clear that the court reviewed
+something, but it is entirely unclear from that
+transcript what the court reviewed. And, of course,
+even if the court had made an in camera determination,
+it would no way -- in no way affect our claim after the
+fact here.
+My second point: The State today for the
+first time says, in response to the question from
+Justice Scalia, that there was more evidence here
+linking Petitioner to the crime and relies on the
+testimony of Eddie Young, the brother of Phillip Young,
+the individual who was found at the scene. But the sole
+substance of that testimony was that Phillip Young knew
+Petitioner. And we would respectfully submit that that
+is scarcely inculpatory, and if it was, anyone in New
+Orleans who knows a felon ought to be worried. And,
+therefore, we really don't think that that adds anything
+to the evidence in this case. The sole evidence linking
+Petitioner to the crime was the statement -- the
+testimony of Larry Boatner.
+Third, there has been some discussion about
+the language in this Court's cases in Kyles and Agurs
+suggesting that prosecutors should err on the side of
+caution. That is part of the constitutional standard
+because, after all, the materiality requirement is part
+of the requirement for a constitutional violation under
+Brady. But all of the evidence at issue here, including
+Boatner's statements, was withheld from the defense,
+leaving aside this question of what the trial court may
+have reviewed in camera.
+And the prosecutor's conduct in this case,
+with all due respect to Ms. Andrieu, was not, quote, "a
+little too close to the wind." The Orleans Parish
+district attorney's office acted with flagrant disregard
+for its obligations under Brady in this case. The Brady
+standard has been around for half a century. There is
+no real ambiguity about what that standard requires, and
+we think that the conduct in this case was in fact
+egregious and clearly violated that standard. We think
+that the trial court erred by rejecting Petitioner's
+Brady claim, and for that reason, we think that its
+judgment should be reversed.
+Thank you.
+CHIEF JUSTICE ROBERTS: Thank you, counsel,
+counsel.
+The case is submitted.
+(Whereupon, at 12:12 p.m., the case in the
+above-entitled matter was submitted.)
+57:16 46:4 52:10 appeared 40:10 asked 9:19 22:7 behalf 1:16,18
+29:3,6,12,19 55:7 assailant 25:23 11:25 13:20
+34:5 35:6,14 apply 40:24 41:1 49:21 44:1,17 46:14
+38:11,14,17,25 55:9 assuming 43:20 best 7:12 11:12
+41:21,23 42:7 8:24 13:17 attempted 9:13 17:18 18:15
+43:6,11,13,16 argue 7:17 attorney 1:17 black 12:4 28:12
+45:20 46:10,14 argues 4:18 attributes 36:22 9:1,3,8,12
+48:13,21 49:12 argument 1:12 aware 15:21 23:9,16 24:8
+52:3 14:12,19 19:15 B 29:24,25 30:11
+8:23 9:11 another's 49:25 50:25 54:7,24 bad 20:14 44:2 35:15 36:6,16
+15:5,8,14 answer 22:9 arguments balance 22:11 37:2 43:9 45:8
+17:8 answering 53:12 12:18 25:14 45:11,25 46:1
+37:10,19 anybody 6:4,10 armed 14:15,21 ballistics 23:12 47:4,5 48:6
+43:2,7 6:20 9:21 arrive 49:21 24:6 50:5,25 51:3
+55:10 17:14 24:9 arrived 30:8 Bannister 21:1 54:14,25 55:2
+30:23 34:2 50:14 barge 12:3 56:13
+30:15 Cain 1:6 3:4 chances 10:14 colleague 46:13 consistent 24:7
+54:12 California 8:18 14:18 collected 9:19 36:25
+56:21 call 24:9 changed 27:13 come 15:10 consistently
+12:9,21 38:18 39:13 characteristics committing constitute 24:25
+13:1,8 55:13,22 56:23 7:8 20:25 22:5 14:20 47:11
+20:8,12 candor 14:4 36:12 common 22:2 constitutional
+25:5 capable 27:10 Charity 48:5 compelling 31:3 56:17,19
+38:2,19 car 14:9 49:17 Chief 3:3,8 completely 4:9 constitutionally
+43:5 50:13 25:16,20 31:1 components 5:12
+44:4,8 care 52:14 41:18,22 42:5 46:6 contact 51:10
+45:1,15 carrying 23:11 42:8 50:8 concede 44:3,5,6 contained 19:10
+47:11 23:18,19 53:20 54:3,5,9 concededly 18:5 19:23 27:7
+case 3:4,13 4:1,9 57:12 concedes 4:17 36:14,15 38:21
+5:8,19 7:9,13 chrome 24:16 concern 29:13 contains 43:5
+52:10 9:7 12:15 16:5 30:25 53:23 context 13:14
+54:2 17:17,25 18:1 circumstances concerned 43:9 16:7
+57:3,3,9 19:22 20:1,4 5:16,24 41:24 conclude 4:13 continued 55:2
+32:22 37:11 39:11 cites 55:16 45:17,18 17:22
+44:4,9 47:25 claim 4:11 12:21 conduct 56:24 contradicted
+40:5,15 50:17,20 51:21 55:23 57:9 57:6 4:22
+41:4 52:1,5 55:2,18 claiming 38:23 confessing 50:17 contradicting
+42:3,11 56:11,24 57:3 claims 7:21 8:13 50:20,23 14:25
+54:13,19 57:6,14,15 clarify 11:7 confession 21:4 converged 23:16
+22:12 56:15 8:9 13:15 confessions cooperate 54:25
+24:23 casings 23:14,20 20:12,13 48:13 24:25 55:2
+43:2 24:7 54:22 55:19 confident 4:22 correct 5:3 6:12
+cast 4:4 clearly 4:22 5:18 8:1 17:11,22 6:13 8:8 10:11
+53:21 categorical 20:4 57:7 confronted 16:8 54:14,20
+22:13 47:23,24 54:14 conjunction counsel 8:13
+cause 53:9 close 13:13 connection 5:6 25:16 30:19
+48:12 close-cut 36:9 15:22 Counselor 10:20
+38:2 cuts 20:21 21:7 depicts 16:11 44:20 earlier 40:3
+55:21 describe 41:3,25 disclosed 4:8 45:16
+4:10,14 D 3:1 described 35:3 disconcerting Eddie 56:4
+7:20 8:9,11 Dale 11:23 35:17 51:4 52:23 53:11 effect 6:4,19,25
+49:19 describing 5:6 discoverable 16:6
+13:1 dashes 48:16 description 6:15 38:1 egregious 57:7
+15:21 dating 20:14 6:16,22 9:20 discovery 38:19 either 13:2
+19:5,16 day 6:10 28:10 9:25 16:19 discussing 25:9 21:25 51:2
+20:11,13 30:1 35:17 17:15 28:11 discussion 56:14 element 24:1
+25:7,11 45:23 30:3,4,11,12 dismiss 9:22 engaged 4:1
+29:13 days 10:5,9 36:6,7,8 dispositive entered 14:15
+36:19 28:14 39:17 descriptions 45:11 entering 49:24
+39:12 decide 12:11 31:9,9 dispute 19:18 entire 11:10
+45:23 17:24 45:18 desire 16:2 disregard 57:2 entirely 37:12
+51:2 47:20 detailed 6:22 dissent 52:20 55:15,20
+55:19,21 deciding 12:8 details 7:3,5 distinction 23:1 entitled 4:14
+56:22 decision 38:2 16:23 17:10 23:5,7 35:1,4,9 45:16
+44:16,19 Detective 30:3,7 district 1:17 equivocally
+19:4 38:2 48:16,20 49:14 45:10 48:16 document 19:1 51:14
+56:15 declarations determination 19:3,10,11,16 equivocating
+46:24 defeat 8:3 13:8,9 38:3 documents Eric 24:21
+defendant 5:20 39:7,8 48:19 18:14 20:5,6 err 56:16
+40:17,24 determine 12:8 DONNA 1:17 error 8:17 50:17
+3:20 4:8,18 determined 43:3 door 6:17 7:6 escape 50:6
+13:16 19:19 20:9 29:9 33:9,15 doubt 4:5 14:2 2:6,9
+35:4 23:23 28:23,24 33:24 34:4 15:13 23:24 essential 22:19
+29:15 31:4,15 35:13 52:2,3 24:1 essentially 8:11
+40:23 42:20 35:18,20,22 due 56:25 8:14 32:4
+48:14 51:19 differently dying 11:25 12:8 22:19
+defense's 15:9 diminished 48:14,15,20 6:23 16:20,22
+definitely 50:15 direct 32:13,13 D.C 1:8,15 16:23
+6:2 7:14 11:19 finding 40:20,22 G 3:1 guilt 38:6
+11:4,13 48:22 gang 20:20 guilty 7:19
+15:15 F findings 40:22 gun 24:10
+22:8,13 face 7:14,24 firearm 23:25 gathered 42:14 guns 30:23
+25:1,5,9 11:10 12:4 firing 23:13 getting 14:9
+29:13,14 17:5 26:22,22 first 6:3,17 7:6 H
+27:4,19 29:8 8:22 11:21 5:10 10:4,9,12 hair 20:20 21:6
+33:7,14 30:21 32:21 12:4 14:16 26:11 27:20 26:10,19 30:4
+48:2,15 40:10 45:5 15:8,11,20 29:17,20 31:11 36:9
+56:2,11 47:11 16:10,17 18:10 32:10 36:8,23 haircut 7:7
+faces 26:1,3,7 18:17 28:9,16 44:19 47:18 16:24 17:17
+39:22,23,25 35:14 36:5 48:24 49:13,15 36:21
+46:24 54:17,17 54:11 56:1 51:15 26:4
+7:6 9:4 10:16 3:18 22:20 20:9 28:23 57:4
+23:25 39:1 five 6:5 9:15 49:13 52:6 23:2
+24:25 57:6 47:22 18:23,25 31:12 20:2,3
+failure 4:19 9:14 follow 15:23 goes 52:13 handwritten
+37:10 faith 16:2 20:14 55:3 50:1,1,2,9 19:9,20,22
+53:17 20:15 forget 27:19 gold 7:7 16:23 happy 10:13
+far 36:20 forth 10:18 30:5 36:10,17 harm 22:24
+8:20,21 34:10 56:5 golden 28:13 harmful 12:10
+Federal 13:22 frankly 8:21 great 22:24 29:7
+4:3,16 fighting 51:24 friends 9:16 greater 21:20 hearing 9:4 14:7
+15:22 filed 38:18 45:22 16:3 group 20:20 27:24 28:1
+18:2 files 19:23 front 40:11 41:20 34:7 43:1
+29:18 finally 24:3,20 further 4:3 guess 28:22,25 45:24,25
+find 31:19 33:4 14:10 22:11 29:5 34:9 heavily 11:2
+32:25 34:2,14 indicated 13:1 issues 12:16 21:10,12,15,20
+53:24 20:24 26:1,4,5 joint 9:10 17:13 31:1,11,20
+34:11 29:22 31:18 information 4:7 Juan 1:3 27:18 33:5,11,17,19
+35:6 38:9 53:24,24 40:8,18 41:15 35:8,18,20,22
+53:14 immediate 12:1 initial 8:25 51:4 35:25 36:8,23
+impeach 9:13 initially 8:25 32:16 40:21 38:7,12,15,22
+impeachment inside 50:10 55:12 41:16,17,18,22
+42:22 55:13 judge's 38:23 42:23 43:2,7
+54:16 important 14:23 interview 24:21 57:10 44:19,23 45:1
+5:4,9,11 importantly intruding 49:25 10:2,22 15:16 47:7,10,18
+8:2 30:9 investigation 45:18 48:3,7,10,19
+14:25 impressions 19:14 51:13 jurors 9:22 48:24,25 49:12
+16:1 34:19,19 55:3 51:12 49:22 50:7,8
+incident 30:2 investigator jury 4:8 10:14 50:16,19 51:15
+28:6 including 11:21 37:15,16 14:19 27:9 51:22,24 52:4
+31:24 27:3 56:20 involved 22:16 31:3,4,17 35:1 52:15,18,20
+inconsistencies involvement 4:5 35:4 42:2,9 53:7,15,20
+25:24 inconsistent involves 20:4 47:17,19 51:16 54:19 55:10,14
+27:4,18 14:5 29:21 in-camera 42:22 Justice 3:3,9 56:2 57:12
+50:15 31:13 36:24,25 in-court 8:1 4:24 5:10,25 justifies 3:25
+37:5 45:5 14:25 17:22 6:14 7:2 8:5,23
+6:4,10,19 incorrect 49:11 issue 7:11 11:14 10:11,20,25 K 1:15 2:3,9 3:6
+9:21,23 incredible 33:4 12:7,22 19:24 11:12 12:6,19 54:7
+15:3,7 inculpated 36:3 22:13 23:9,14 13:24 15:5,8 KAGAN 25:8
+16:2,8 inculpatory 23:15,20 24:2 15:14 16:17,25 33:19 39:3
+50:16 Laughter 21:11 long 16:19 18:14masks 11:22 misspoke 49:2
+21:14,23 42:15 look 17:14 30:23 14:8,10,11,14 mistaken 15:24
+3:6 54:7 law 13:19,21 looked 39:22 massacre 25:23 misunderstood
+20:7 40:22 42:13 50:15 55:5 13:1 20:2 mixed 11:8
+48:22 54:14 lost 41:19 29:15,18 31:8 months 55:8
+44:3,6,8 lawyer 28:24 lot 30:5 31:12,14 33:12 morning 3:4
+48:25 31:4 Louisiana 1:18 37:1,21 38:19 motion 27:23
+lead 13:3 37:15 37:22,25 38:13 47:23,25 49:3 motive 15:18
+leaving 56:22 16:24 17:17 materially 38:4 multiple 3:21
+left 14:1 32:3 lying 6:7 9:16,2412:9 18:23 25:2
+56:6 length 40:10 M 47:11 53:13 28:21 32:15
+24:7 license 50:14 machine 23:20 matter 1:11 51:13
+28:18 lie 15:6,17 MAC-11 23:21 57:16 murders 43:4
+33:20 light 4:10 5:1,14 main 11:16 mean 28:7 33:5
+46:23 5:15 6:21 maintaining 33:6,10,24 N
+10:15 47:24 34:2 39:16 N 2:1,1 3:1
+54:13,18 liked 40:24 making 35:12 40:15 42:17 NACDL 24:24
+limiting 17:9 males 28:12 medical 48:5 19:9,12
+56:15 lineups 47:6,6 man 7:6 11:21 men 14:14 necessarily
+line-ups 26:2,6 18:11 26:8,17 23:15 53:1
+30:10 link 32:4 55:1 48:7,24 49:16 neighbor 13:25
+34:13 linking 5:20 Maryland 3:10 49:20 never 26:21
+36:6 56:3,11 38:3 Mims's 14:13 27:19 36:16
+45:8,11 little 6:1 14:4 mask 11:9 15:20 mind 27:13,16 39:5 48:14
+46:1 18:15 24:14 17:1,4 minimum 13:9 new 1:17 3:25
+51:3 30:5 46:15 masked 16:18 23:23 25:3 4:14 5:5 55:6,7
+56:13 57:1 50:5 minutes 54:6 55:8 56:8
+16:11 offenses 25:1 pages 9:9 18:15 57:8 27:13 28:19
+office 3:16 4:1 19:6 55:6 phenomenon 32:13,25 34:23
+28:5 30:17 34:11 paper 27:21 16:6 34:24 39:6 45:13
+43:19,25 50:16 pardon 49:5 Phillip 22:14 51:11 55:3,4
+officer 9:6 10:16 part 12:17 17:5 photo 26:2,6 poor 39:2
+43:4 36:5 particular 26:17 photograph 5:5 possession 20:17
+39:6 13:13 photographs 12:5 14:13
+25:3 oh 40:15 41:21 parts 18:12 36:14 17:5
+53:19 people 6:5 12:3 physical 36:21 possibly 47:19
+30:9 Okay 33:11 39:21,23 40:17 36:22 postconviction
+37:13 41:16,22 42:8 49:24 pick 16:15 9:4 14:7 25:11
+46:3,25 42:12 percent 11:6 picture 4:24,25 25:13 30:10
+54:14 once 27:13 period 51:19 27:21 34:7 40:9,14
+ones 19:24 52:23 perpetrator pictured 26:5,15 45:20,24,25
+18:1 perpetrators 24:10 30:20 44:2,21
+35:11 5:15 11:21 24:25 pivotal 45:21 precisely 23:6
+7:8 23:5 36:10 32:14,25 49:16 37:11 prejudicial 4:20
+38:24 3:15 5:5 51:12 perspective 25:21 19:12 55:17
+43:22 55:6,7,8 56:9 29:24 30:13 point 6:14 14:5 presented 11:13
+53:12 57:1 40:13 17:2 22:25 25:10 26:1
+outlined 47:22 1:16 2:4,10 3:7 48:18 51:9 48:15
+51:5 over-the-shou... 5:5,7 17:23 points 24:24 Present-day
+55:16 P 55:5,9 56:3,7 6:12 9:20,25 31:2 37:14
+page 2:2 17:13 Petitioner's 3:17 18:25 19:23 28:25
+24:18 38:18 rear-window rejecting 4:10 56:7
+provides 36:6,6 52:9 57:8 responded 8:25
+47:12 46:14,16 52:8 57:9 relatively 7:5 1:18 2:7 4:17
+29:22 put 3:22 29:23 15:13 33:8 relayed 24:22 19:15 25:19
+37:5,24 30:13,20 31:17 35:12 46:8 relevant 3:16 55:16
+47:21 32:13,20 33:22 49:4,5,6 18:19,24 19:21 Respondents
+52:23 40:13 51:2 reasonably 13:2 20:6,9 11:5
+33:8 34:3 reasoning 13:4 relief 34:7 36:5
+46:8 Q REBUTTAL relies 56:3 response 56:1
+question 7:25 2:8 54:7 relying 11:1 responsible
+17:18,20 22:17 39:5 47:17 49:6
+39:4 46:12 29:11 remarked 26:9 34:22
+15:12 6:11 16:21 43:8,14 55:1 repeatedly reversal 13:5
+40:1 questions 22:9 55:15 17:21 reversed 4:12
+quick 25:8 54:11 redacting 53:23 38:20 43:4 reviewed 19:16
+32:15 quite 8:14 12:21 referred 8:23 reports 18:21 56:23
+38:3 54:22 18:12 40:17 20:10 reviewing 55:3
+44:17,20 quote 9:8 56:25 referring 40:7 reproduced right 5:1 9:14
+52:8 reflected 42:23 30:18 14:1 18:7
+53:19 R 1:17 2:6 3:1 reflects 26:7 require 22:22,23 31:24 33:21
+25:18 43:14 required 8:17 39:25 40:19
+43:19,25 reach 7:18 8:22 10:14 requirement 45:17 46:18
+read 52:16,18 11:24 13:1,13 13:23 56:18,19 49:15 50:12
+real 57:5 19:7,20 22:7 37:23 51:20 robbers 49:24
+really 7:13,25 25:1 45:7 reserve 22:11 14:21
+16:18 29:21 31:4,15 regarding 6:2 respect 49:1 24:22
+17:9 42:17 53:2 reject 35:1,4 56:25 ROBERTS 3:3
+31:1 44:20 46:13 semipermanent silent 26:25 35:8,18,20,22
+42:5 says 17:13 23:1 22:1 similar 36:22 35:25 38:5,7
+50:8 26:24 28:10,19 sense 15:1 17:16 39:7 38:12,15,22
+54:3,5 31:10 32:15,16 serious 52:21 simply 7:5,17,24 44:23 45:1,4
+32:19,20 39:19 set 19:12 22:8 10:23 15:11,12 45:14 46:6,11
+43:4 Scalia 21:10,12 52:14 ski 49:17 sounds 34:3
+30:3,7 31:20 32:6 1:15 2:3,9 3:5 slightly 8:16 sown 23:24 24:1
+34:8,13 40:25 41:5,8 3:6,8 5:3 6:13 small 19:21 space 34:1
+35:2 41:11,13,16 7:2 8:8 10:1,8 25:23 30:5 spare 13:4
+40:8,13 51:22,24 52:4 10:11,21 11:11 Smith 1:3 3:4 speaking 34:20
+46:1 56:2 11:15 12:14 27:4,10,18 48:1
+52:12 scarcely 56:8 14:2 15:8,21 28:6 32:1,5 specific 12:22
+13:14,16 9:23 12:1 47:22 49:23 27:3 spend 11:5
+48:8,9 13:16 14:1 51:1 54:5,7,9 snitch 48:10 spoken 12:21
+49:13 19:2 30:1,6,8 54:22 55:14 sole 4:3 5:19 stand 37:3 38:8
+52:12 Shelita 11:23,24 solely 3:18 10:14 standard 7:20
+scrutinized 26:7 shooting 39:17 53:11 stands 32:11
+12:3 13:25 28:17 39:20,24 shot 9:17 12:2 44:25 47:9 42:18 54:23
+16:19 40:3,7 42:12 16:6,7,10 48:23 49:12 55:25
+26:12,22 46:25 49:21,21 shots 16:19 50:5,9,18 statement 6:3
+28:18 50:11 54:16,17 39:19 52:17 53:19 7:4 8:22,23 9:5
+39:18 seeing 16:11 show 10:22 sort 52:9 9:6,7 10:13,15
+49:16,16 55:5 showed 11:13 Sotomayor 11:23,24 13:14
+seemingly 45:5 27:13 10:20,25 11:12 13:15 14:13,17
+34:17 sees 16:7 8:17 18:7 20:19 22:14 30:1,17
+39:21 selected 20:5 shown 26:8,17 21:6 22:6 24:4 30:18 31:5,13
+41:24 36:16 27:25 26:3,20 27:2 32:12,24 34:9
+42:1 selective 20:1 side 33:25 56:16 27:12 34:25 34:10,11 35:17
+37:6 submitted 57:14 18:23 49:20,20 55:4 16:11,17 22:11
+42:19 57:16 survivor 25:22 testify 9:3 25:15 34:12
+47:21,22 subsequent suspect 16:13 testimonies 36:18 41:24,25
+52:11 15:10 16:9 21:2,3,4 23:16 50:21 56:1
+56:12 17:19 suspects 5:8 7:9 testimony 3:19 times 6:24 12:2
+20:6 26:6 36:9,11 11:8,9 14:6 26:16
+6:19,25 substance 56:6 36:14,21 24:13,14 30:10 today 5:11,18
+sudden 24:15 system 13:22 32:2 34:6 25:10 39:8
+8:3,20 29:11 42:19 37:13 45:21,24 53:22 54:24
+11:17,18 suddenly 23:16 56:4,6,13 55:25
+14:23 23:21 T Thank 3:8 25:14 told 3:20 13:18
+15:1,2 sufficiency 7:22 T 2:1,1 25:16 54:3,4,9 26:21 32:24
+18:3 sufficient 5:24 tacking 46:15 57:11,12 48:11
+7:16 tainted 28:5 theoretically top 30:5
+suggest 17:3 take 8:2 10:14 12:5 total 14:1
+22:17 51:22 11:12 14:18 theory 15:6,10 touch 8:19
+24:17 suggesting 5:7 32:22 38:8 15:18 22:18,19 Trackling 21:3
+29:21,22 17:10 22:15 taken 13:16,17 46:19 Trackling's
+30:1 56:16 31:10 37:14 thing 18:24 22:6 24:22
+suggestion 5:2 52:14 24:13 36:17 transcript 34:7
+51:8 takes 7:15 things 11:5,7,7 43:16 55:16,17
+suggests 11:1 talking 11:17 31:18 33:25 55:21
+16:12 32:23 48:7 49:10 transpired 9:9
+39:5,9 summary 13:5 TEC-9 30:24 think 7:10,13 10:17
+43:8,9 supplemental teeth 7:7 16:24 8:21 9:22 10:1 transposing
+47:3,15 38:20 43:3 17:17 20:20,23 10:21,23 12:19 49:10
+52:10,11 supply 28:11 21:7,15,25 13:7,12 14:23 traumatized 9:2
+55:12 38:7 28:13 36:10,17 17:7,16,24 treated 30:16
+support 17:19 36:18,20,20 19:16 20:3 trial 3:13,17,25
+22:22 47:20 26:20 28:16 25:6 27:9 4:23 9:7 15:12
+10:23 28:1,4 45:17 46:24 46:12,17 49:2 23:16 24:6,17
+23:11 suppressed 4:15 47:10 54:17 50:21 51:12 25:7 27:24
+17:20 18:5 telling 32:10 52:1,10 53:3,4 33:9 36:19
+16:21 suppression tells 45:8 Third 56:14 55:13 56:22
+surely 4:8 52:5 terms 12:19 20:24 21:1 true 7:2 9:11
+40:2 20:12 37:3 48:20 work 20:8 40:12
+53:9,22 unusual 16:14 55:17 worn 21:25 25 2:7
+29:15 urged 48:6 way 14:20 27:23 56:9 259-60 33:1
+39:9,12 urging 29:21 28:5 55:23,23 worry 50:11 296 17:13 18:12
+43:20,20 useful 31:14 weapon 23:10 52:15
+46:7,12 utterly 55:1 23:13,15 wouldn't 33:14 3
+47:12 wear 50:1 33:23 37:15 3 2:4 55:8
+51:19 V wearing 11:22 52:2 3/6/95 32:24
+52:1,5 v 1:5 3:4,10 7:20 14:8,14 17:1,4 written 48:17,17 30 18:15
+53:5,13 7:21 8:9,13,17 weeks 16:15 wrong 36:1 308 54:15
+55:12 12:25 13:4 26:21 55:3 wrote 34:22 31st 42:25 43:17
+14:1 value 6:1 we're 5:11,12 x 1:2,7 4
+29:24 values 7:15 11:17 19:24 4 54:5
+31:8,9 variation 11:16 34:19 37:2 Y 489 55:6
+35:16,25 verdict 7:19 43:9 46:15 years 53:6 49 13:22
+46:6 vetted 27:23 Whitley 7:20 8:9 Young 21:2 494 55:6
+53:8 victim 53:23 wholesale 4:1 22:14 32:2
+violated 57:7 10 19:4
+21:5 6th 10:12 34:9
+56:21 34:12 41:12
+44:4,9,23 45:2 withholding 11 26:8
+1:13 3:2 45:7 54:13,15
+57:15 55:1
+Virginia 7:21 witness 10:18
+33:24 7
+voluminous 137 9:9
+38:8 7th 26:16
+39:18 718 39:14 42:22
+51:14 72 26:1,7
+31:16,21 W 16 53:6
+43:7 wait 41:18,18 191 27:7 8
+13:18
+waited 26:21 1911 19:6
+37:24,24 8 1:9 26:18
+83-page 19:11
+21:21,24 11:18 22:7,8 1995 43:1,17
+50:2,3 55:16 9
+8:13 2nd 18:11
+18:15
+16:18 2011 1:9
+words 48:16
+27:2 33:6 wore 11:9 26:10 22nd 26:8,18
+25:23

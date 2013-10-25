@@ -1,0 +1,1745 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+FLORIDA DEPARTMENT OF :
+REVENUE, :
+Petitioner :
+v. : No. 07-312
+PICCADILLY CAFETERIAS, INC. :
+- - - - - - - - - - - - - - - - - x
+Washington, D.C.
+Wednesday, March 26, 2008
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 11:06 a.m.
+APPEARANCES:
+SCOTT D. MAKAR, ESQ., Solicitor General, Tallahassee,
+Fla.; on behalf of the Petitioner.
+G. ERIC BRUNSTAD, JR., ESQ., Hartford, Conn.; on behalf
+of the Respondent.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+SCOTT D. MAKAR, ESQ.
+On behalf of the Petitioner 3
+G. ERIC BRUNSTAD, JR., ESQ.
+On behalf of the Respondent 26
+REBUTTAL ARGUMENT OF
+SCOTT D. MAKAR, ESQ.
+On behalf of the Petitioner 54
+P R O C E E D I N G S
+(11:06 a.m.)
+CHIEF JUSTICE ROBERTS: We'll hear argument
+next in Case 07-312, Florida Department of Revenue
+versus Piccadilly Cafeterias.
+Mr. Makar.
+ORAL ARGUMENT OF SCOTT D. MAKAR
+ON BEHALF OF THE PETITIONER
+MR. MAKAR: Mr. Chief Justice, and may it
+please the Court:
+The virtues of reading Congress' grant of
+the stamp tax exemption, 1146(c), to only
+post-confirmation transfers is threefold. First, it's
+faithful to the language of the statute, which requires
+that there be a plan confirmed, as the courts in NVR and
+Hechinger have held, and draws a simple bright-line test
+at the point of confirmation, at which point the
+bankruptcy judge has the power to grant that tax
+exemption.
+It's also based upon the principle that
+taxation exemption statutes, which this is a case
+involving one, must be narrowly construed if they are to
+stay under principles of federalism. It also avoids the
+intrusion into the State's tax system, keeping in mind
+the important fact that approximately three-quarters of
+these Chapter 11 cases never get to plan confirmation.
+Instead, in three quarters of the cases you have, as in
+Lamie and in the Hartford case, you may have a case
+convert to Chapter 7 or have it be dismissed.
+So a pre-confirmation tax exemption granted
+by the bankruptcy judge at any point prior to
+confirmation --
+JUSTICE BREYER: I don't understand that.
+If it's never confirmed, then I guess the tax is okay,
+isn't it?
+MR. MAKAR: Well, Justice Breyer, what
+happens in these situations is that a -- for example, a
+363 sale order where the property is being sold, in that
+order there is an exemption granted by the bankruptcy
+judge.
+JUSTICE BREYER: But so what? Isn't that --
+I mean, I assume that's totally illegal, that you get --
+I thought we're talking about this provision where
+everybody agrees that it has to be under a plan
+confirmed under section 1129. So if there's no plan
+confirmed, I don't know how you would fall within this
+exemption.
+MR. MAKAR: Well, that's our point exactly,
+Your Honor.
+JUSTICE BREYER: Fine. If it's your point
+exactly, then I guess I must agree with that. I'll hear
+from the other side. Except I thought your point was it
+makes it difference whether the transfer takes place
+before the plan is confirmed or after. So I may be just
+confused about that.
+MR. MAKAR: Well, what happens in these
+situations before confirmation where there is a 363
+order that transfers, that the bankruptcy court then
+says this is entitled to an exemption, at that point in
+time the State of Florida or whatever State is denied
+the revenue that would otherwise --
+JUSTICE BREYER: Oh, no, I'm asking you
+this. You then concede -- let me for my own point of
+view; forget what the -- maybe I'm confused about the
+facts or maybe I'm not. But let's suppose there is a
+plan and it is confirmed. The transfer, however, took
+place a month earlier where a private group of creditors
+came together, every creditor, with the debtor and they
+worked out a sale tomorrow, and they transferred the
+assets tomorrow. Four months later, the plan that
+includes every word of that goes before the bankruptcy
+judge, the bankruptcy judge thoroughly understands the
+situation, and he says: I confirm the plan.
+Now, under those -- in that circumstance, I
+guess you now are -- are you prepared to concede that
+Florida cannot tax?
+MR. MAKAR: No, Your Honor.
+JUSTICE BREYER: Of course not. So then --
+then the fact that there is no plan seems to me
+irrelevant, that situation, from the present case.
+So now let's look at this case, where there
+is a plan and it is confirmed. My question, going back
+to what I thought the facts are, is this: Imagine the
+situation I've just described -- thorough investigation
+later by the bankruptcy judge; plan including it is
+confirmed. And you say if the transfer took place first
+you can assert your tax, but if the transfer took place
+second, after the plan, you can't.
+And my question, if I'm right on my
+assumption, is I'd like you to provide a reason why any
+human being, a reasonable human being, would want to
+make that distinction?
+Why would anyone want to say we want to give
+all the money to the creditors and not let Florida get
+some if it takes place, the transfer, after the
+confirmation, but would think differently about it and
+would want Florida to get some if the transfer takes
+place before the confirmation, which confirmation
+describes everything in depth, is thoroughly
+investigated, et cetera? What reason could there be for
+such a distinction?
+MR. MAKAR: Well, two things,
+Justice Breyer. First of all, the Bankruptcy Code speak
+in terms of a -- 1146(c) speaks in terms of a "plan
+confirmed."
+JUSTICE BREYER: I'm not speaking of the
+language for the moment. I want you to forget about the
+language and assume the language is ambiguous. That's a
+different question. My question is, assuming that the
+language is ambiguous, as every lower court has found,
+assuming that, however, is there any reason why a
+reasonable human being would make this distinction?
+That's my question. And there may be an answer, but I
+want to know what answer is.
+MR. MAKAR: Sure. In this context --
+JUSTICE SCALIA: I mean, you could say this
+was Congress, right?
+MR. MAKAR: I'm sorry?
+JUSTICE BREYER: That is not an answer.
+(Laughter.)
+JUSTICE BREYER: I would appreciate an
+answer to the question.
+MR. MAKAR: Well, Justice Breyer, I think
+the practical reason is Congress has created a
+structured Bankruptcy Code, in which there is a plan
+confirmation process structure that Congress has
+provided here. And in this particular case, and in
+perhaps the hypothetical, this was done outside the plan
+confirmation process. In other words, this sale was
+done even before a plan was even filed.
+CHIEF JUSTICE ROBERTS: I suppose one of the
+reasons would be how far do you go back? I mean, you go
+back three years and say, well, you know, the bankruptcy
+judge can say, part of what I'm confirming is the sale
+that took place three years ago, so you can file for a
+refund, I guess.
+MR. MAKAR: Well, that's the fundamental
+problem we have.
+JUSTICE BREYER: That's the problem? If
+that's the problem, I thought that there had to be a
+filing for bankruptcy before any of this kicks in.
+MR. MAKAR: Well, there certainly is. There
+has to be a filing for --
+JUSTICE BREYER: Okay. Then the answer
+can't be you could go back 50 years. The answer would
+have to be you go back until the filing for bankruptcy.
+CHIEF JUSTICE ROBERTS: Well, why does there
+have to be -- there has to be a filing for bankruptcy
+before you get a plan confirmed, but I didn't understand
+that to be the threshold before -- what does that mean,
+there has to be a filing for bankruptcy? That the
+confirmation of the plan can't go back before that?
+MR. MAKAR: Well --
+CHIEF JUSTICE ROBERTS: It goes back before
+then in a lot of cases to look for preferential
+transfers and things like that.
+MR. MAKAR: Well, sure, but here what we
+have is the language of the statute, 1146(c), is keyed
+in to a key event, which is plan confirmation, the plan
+confirmed. The authority for the bankruptcy judge to
+grant the tax --
+CHIEF JUSTICE ROBERTS: I thought your
+answer to Justice Breyer was saying there's another key
+event and that's the filing of the petition for
+bankruptcy.
+MR. MAKAR: Well, that has -- I don't see
+that as having any relevance as to the authority of the
+bankruptcy judge to grant the tax exemption. The
+question I understood was how far back can can you go?
+And our position on that is opening this up to
+pre-confirmation transfers creates all sorts of
+problems.
+JUSTICE BREYER: What? That's what I want
+to know. And I'll add a qualification. I'd say I would
+read into this a context, and the context is the whole
+section that gives the exemption from the State law only
+kicks in when you file for bankruptcy.
+So, I -- now, it's my question. I guess I
+could make the hypothetical the the way I want to make
+it, and the way I want to make it is that this section
+applies once it kicks in, the bankruptcy filing, and it
+does not distinguish between the pre- and the
+post-confirmation, you know, where the confirmation
+takes place after the transfer or the transfer after the
+confirmation.
+You're arguing to the contrary. And what I
+want to know is what reason there is? Do I have to
+repeat the question?
+MR. MAKAR: No. No.
+JUSTICE BREYER: What is the reason? That's
+what I want you to focus on, for making that
+distinction.
+MR. MAKAR: Well, as I understand the
+question, Justice Breyer, you're concerned about the
+pre-confirmation transfer that ultimately gets wrapped
+into a plan that's ultimately confirmed and why
+shouldn't that be occurring? Our position --
+JUSTICE SCALIA: That's what the whole case
+is about.
+MR. MAKAR: Right. And that's the language
+of the statute in our view provides that the authority
+flows from the confirmed plan.
+JUSTICE SCALIA: He wants a reason why that
+might be. Do you know many instances in which Congress
+has set up a system in which you cannot determine
+whether a State tax is valid or invalid until some
+future event at an indeterminate time which may be three
+years later? Is that customary --
+MR. MAKAR: No, in fact --
+JUSTICE SCALIA: -- for someone not to know
+whether the tax is payable or not for sure until three
+years later?
+MR. MAKAR: No, that's exactly our argument.
+JUSTICE SCALIA: Isn't that a good reason?
+MR. MAKAR: That's our argument, which is
+that it is -- is not narrowly construing the statute.
+It's broadly construing it, as the Eleventh Circuit
+found --
+JUSTICE GINSBURG: There's another
+assumption then that was in Justice Breyer's question
+about, well, you have to have the petition, the
+bankruptcy petition. But in this very case wasn't the
+sale -- wasn't the basic arrangement made the day before
+the petition was filed?
+MR. MAKAR: Right. This appears to be one
+of those so-called pre-packaged plans where it was
+arranged and was sort of put together outside a formal
+plan confirmation process. Under the Bankruptcy Code,
+typically there's the filing of the petition --
+JUSTICE STEVENS: Absolutely.
+MR. MAKAR: -- and filing of the plan --
+JUSTICE STEVENS: You were asked, and I
+think tried to answer and never got your answer out, and
+I'd like to hear: What is it you were saying about
+cases in which pre-confirmation transfers are made and
+the tax exemption is made? Did you start to tell us
+that you might never recover the tax later on? Or what
+kind of a problem does it create?
+MR. MAKAR: That's precisely my point. In
+three-quarters of these cases approximately, these
+exemptions can be given.
+JUSTICE STEVENS: Yes, but then the question
+is, can you nevertheless, in an untimely fashion,
+eventually get the tax imposed and the tax collected?
+MR. MAKAR: Possibly. If it's in escrow,
+possibly. It takes a tremendous amount of monitoring in
+these cases. There's a problem with notice. The State
+doesn't get notice.
+JUSTICE KENNEDY: Are there also instances
+-- and, again, I'm interested in Justice Breyer's
+question and Justice Stevens's question, the practical
+reasons that might have prompted the statute to be drawn
+in the way that you say it's been drawn. Are there also
+instances where a transaction goes through and is later
+unwound, is later set aside? So that the tax has to be
+refunded?
+MR. MAKAR: Yes. I mean, that could be a
+possibility. That's our position, that this is sort of
+turning this into a refund statute, perhaps in some
+instances, by allowing all these pre-confirmation
+transfers to be eligible for the exemption, keeping in
+mind that this whole question in this case is: Are
+preconfirmation transfers ever eligible? We don't think
+they -- that they are because, as the courts in NVR and
+Hechinger said, the natural, simple, bright-line test is
+if you get to plan confirmation, if you've gone through
+the process that Congress has established, and you get a
+plan confirmed, then the transfer of the security --
+this is not a securities case -- but the transfer of the
+property has at that point been exempt from the tax.
+So in our view, the purpose of the statute
+would be thwarted by allowing all these pre-confirmation
+exemptions. As I say, in 25 percent of the cases
+perhaps you will get the plan confirmed, and perhaps --
+CHIEF JUSTICE ROBERTS: Counsel, I'm not
+sure I understand the practical consequences of your
+position. I assume that if you're right, people who
+have an interest in buying the bankrupt business will
+wait or have to wait until after confirmation of the
+plan, because the tax liability is going to save them a
+lot of money. Is it going to work in that case?
+MR. MAKAR: Work in the sense that --
+CHIEF JUSTICE ROBERTS: I mean, will the
+effect of your plan be that it will discourage people
+who come along and want to buy a bankrupt business?
+MR. MAKAR: No. I think we have to put this
+in context. What we have is a Chapter 11
+reorganization. And then Chapter 7 of course is
+liquidation, which is typically where the assets of the
+company would be liquidated and sold off, and you have a
+trustee. Here we have a different context. This
+reorganization -- Congress established this
+reorganization process.
+JUSTICE GINSBURG: But are you not -- are
+you questioning -- what I understand to be the case,
+it's not at all uncommon for a Chapter 11 these days to
+have the 363(b) sale of property, then have some kind of
+global settlement, and then distribute all the assets,
+never have any kind of reorganization. And I didn't
+understand that it was necessary to kick the case over
+into Chapter 7.
+Aren't there many cases filed under Chapter
+11 that end up with no reorganization?
+MR. MAKAR: There are a number. There are a
+number. And I'm not sure exactly the number, but it's a
+small but growing percentage in which the debtors are
+taking advantage of Chapter 11 to liquidate rather than
+go through Chapter 7. And there's reasons for that. It
+may be that the debtor in possession of the company has
+greater control than a trustee would and so forth.
+Our point is that this is -- in this
+liquidation context, it's basically trying to hammer a
+Chapter 7 peg into a Chapter 11 hole, because what is
+happening here is the tax exemption that Congress has
+set up here, which should be narrowly construed in favor
+of the State, is being broadly expanded. In fact, what
+the Eleventh Circuit did below --
+JUSTICE SCALIA: What harm is done? Could
+you tell us in just a few words, what's the harm?
+That's what Justice Breyer's concerned about.
+MR. MAKAR: Well, the harm, Justice Scalia,
+is that in these instances -- as I said, in cases where
+he exemption is being granted unjustifiably, the State
+has to expend resources on litigation. And there is now
+a new test, and there has -- it is going back to court,
+and there is --
+JUSTICE BREYER: And it's not the
+litigation. What you've said so far is, at least as I
+have taken it in, that the practical harm is the
+following: There will be a certain number of transfers
+that take place after the filing, but before the actual
+confirmation; and in respect to those transfers, the
+State is left in a position of uncertainty.
+You don't know if you can assert your tax or
+not assert your tax until that transfer is later
+confirmed as part of the confirmed plan or not.
+That's what I take it as you're having said.
+And then I think I'll hear in a minute somebody say, but
+that kind of uncertainty is rife in the tax laws. It
+often occurs that a taxing authority is not certain
+about how to characterize a transaction until later
+events take place which are part of, or related to, the
+transaction; and the IRS and all the State tax
+departments survive.
+So if I'm right in guessing that, discuss.
+(Laughter.)
+JUSTICE BREYER: That's all I can say.
+MR. MAKAR: The notice provision is one.
+The State may not get notice. For example in NVR,
+there's 5,000-and-something transfers of property that
+happened in the State of Florida that we never get
+notice of to object to them. If it is in a 363 context,
+we probably don't get notice because we don't own the
+property that is being transferred.
+All this pre-confirmation effort and
+expenditure of resources on -- the State has to monitor
+these --
+JUSTICE SCALIA: What about the solvency of
+the person who has tentatively been declared exempt from
+your tax; so, therefore, you can't go get him right
+away? This is not the ordinary citizen. This is
+somebody who is on the edge of bankruptcy. You would
+normally want to get your money out of him as soon as
+possible before he squanders what is left, right?
+MR. MAKAR: Well, I --
+JUSTICE SCALIA: And would it -- would it
+not happen with some frequency that, even though you
+could have collected the tax three years earlier, by the
+time it turns out for sure that there's never going to
+be a Chapter 11 confirmation --
+JUSTICE STEVENS: Isn't the tax imposed on
+the purchaser, not the bankrupt's estate?
+MR. MAKAR: I'm sorry, sir?
+JUSTICE STEVENS: Isn't the tax imposed on
+the purchaser, rather than the bankrupt's estate?
+MR. MAKAR: Under -- under Florida law it is
+imposed upon the transaction and is repaid by the buyer
+or the seller. But on the question here --
+JUSTICE GINSBURG: What I don't understand
+about the -- how the Florida system works, I thought you
+don't get -- you don't get the transfer recorded until
+you pay the tax. I thought that's what Florida law was.
+MR. MAKAR: That's correct. But here what
+is happening is with the pre-confirmation orders that
+are coming out with regularity, those are being used to
+prevent the taxes from being paid and the recordation
+of --
+JUSTICE BREYER: Why can't you just say
+that? Why can't you say, you want to record this
+taxation, pay the tax. And when you come in later,
+because it was confirmed, show us the paper. We'll give
+you the money back.
+How does that interfere with -- with
+anything?
+MR. MAKAR: Well, it becomes an
+administrative burden.
+JUSTICE BREYER: Why is it an administrative
+burden? The burden is entirely on the people who want
+their money back. They come in. They file a piece of
+paper. It says Federal bankruptcy judge signed, plan
+confirmed, and it would take, I guess, a few minutes to
+read through it to see they're telling the truth, which
+you always have the problem in a tax, and then you give
+them their money back.
+MR. MAKAR: Well, again, what is happening
+with these orders being granted, sometimes the State
+doesn't even know about it, and sometimes --
+JUSTICE BREYER: Of course, you can't file
+it if they don't tell the State. So if they're not
+going to tell you, they're not going to have their
+transfer recorded.
+I mean, look, we're going into this, and on
+the other side, of course, there is the following
+consideration: That there are creditors who are owed a
+lot of money; and all these creditors are in a room; and
+they think, if I can sell these assets tomorrow, I'm
+going to get a lot more money than I will if I have to
+wait for six months. That's why we want to go through
+with this.
+Now isn't that an important bankruptcy
+interest, to make the creditors more whole?
+MR. MAKAR: Well, the State of Florida
+doesn't want to stand in the way of -- nor do the other
+States -- in the way of maximizing the value of the
+estate.
+And in the situation here we're talking
+about a very small tax. It's only imposed in this
+limited context as to when a confirmation plan comes out
+in Chapter 11.
+JUSTICE SCALIA: Mr. Makar, you were going
+to address, I take it, the assumption that
+Justice Breyer has asked you to make, which is that the
+language here is ambiguous. And your position is, I
+take it, that "confirmed" means "confirmed"?
+MR. MAKAR: Well, absolutely. I don't
+concede away our first argument. I think it's very
+powerful, which is that the language of the statute,
+itself, put in the context of this Chapter 11
+confirmation process, read in its context, which is from
+the post-confirmation section, powerfully supports the
+position that this is a post-confirmation transfer
+exemption.
+CHIEF JUSTICE ROBERTS: I don't understand
+why this is a big deal. Assuming that was news to me,
+that this only arises after the filing of a bankruptcy
+petition, and you are looking forward to confirmation of
+the plan, this tax only applies at the transfer of
+title.
+Why don't you just get your deal together
+and just say, well, the closing is going to be the day
+after confirmation of the bankruptcy plan?
+MR. MAKAR: Well -- and then --
+CHIEF JUSTICE ROBERTS: And that's when you
+transfer title, and that's when you have to pay the
+stamp tax.
+MR. MAKAR: Well, that, in the ordinary
+course of things, is what the statute envisions.
+That's, of course, not what happened here, but that's
+the ordinary course. And this exemption --
+JUSTICE SCALIA: Sometimes don't they want
+the transfer to be effective whether or not there is a
+later confirmation? I thought that that was the
+assumption here: That some of these transfers they want
+to be effective whether or not a confirmation occurs
+later.
+MR. MAKAR: Well, and that's what happens in
+some of these cases that are transferred to Chapter 7 or
+dismissed, where they get the tax exemption and then get
+out of the Chapter 11 whirl, having gotten the tax
+exemption, leaving the State to have to unravel what has
+been done.
+That's the beauty and simplicity of the
+bright-line rule of Hechinger and NVR, which is that the
+language of the statute says post -- it says confirmed
+plan. So it is at that point that the authority of the
+bankruptcy judge to grant the exemption -- the exemption
+exists and, thereby, makes it self-executing in the
+sense that the plan is confirmed. The order of
+confirmation provides the authority for the exemption;
+and from that point forward it works with -- with
+simplicity. It is a very straightforward application of
+the statute.
+And it's the most natural reading of the
+statute, as well. So I don't want the Court to at all
+feel as if I'm conceding ground on the language of the
+statute or the structure of the code and how it applies
+here.
+What I'm -- where I think there may be some
+confusion is simply that in these three-quarters of the
+cases these exemptions are being granted, and it is a
+problem for the States to have to go out there and to
+track them down and figure out what's going on in these
+cases and try to unravel the exemption. So it is in
+that regard that I -- if one of the exemptions --
+JUSTICE STEVENS: May I just ask this
+question? I guess this has been the rule in Florida for
+awhile. There's a problem, and has the problem been
+that you actually don't get the money? Or is it an
+administrative problem, keeping track of things and
+finding out whether or not you are entitled to it?
+MR. MAKAR: Justice Stevens, it could be
+both. I think it could that be we don't know about it,
+so we don't get the money. It gets filed, and then we
+don't -- the order is filed with the clerk of court,
+and, therefore, the money isn't received --
+JUSTICE STEVENS: Are there any studies
+showing how much money you've actually lost by this
+practice?
+MR. MAKAR: No. We've looked at it to see
+if there's any data. There's nothing that I can give to
+you with any reliability. I would say, anecdotally,
+that it is in the low millions rather than the --
+obviously the stamp tax in the State of Florida has been
+in the billions of dollars overall; but that's not the
+issue here. So -- but it is quite a few millions of
+dollars that we believe is --
+JUSTICE STEVENS: Did I understand you
+correctly? You say you have, in fact, lost millions of
+dollars from the failure to get access under this rule?
+MR. MAKAR: Anecdotally, yes. As I said,
+this is in conversations with the Department of Revenue
+and so forth. There's just no hard data. That's one of
+the problems in this area, since -- I did provide the
+Court with some data about the number of plans that are
+confirmed versus dismissed, and so forth, and the number
+of filings. We have about a thousand --
+JUSTICE STEVENS: It would seem to me that,
+normally, because you do require recording, that there
+would be -- it wouldn't be all that difficult to keep
+track of all these cases in which there had been
+transferred pre-confirmation transfers. And if you did
+you have some filed in the computer that had them all
+there, as soon as the -- if the confirmation did not
+occur, you could just go ahead and send out the bills.
+MR. MAKAR: Well, that system does not
+exist. I don't know how difficult it would be. I would
+suspect -- things sound simple sometimes in theory, and
+then in practice they become very difficult in a State
+as populous as --
+JUSTICE KENNEDY: I guess your point is
+that, as a whole, the virtue of the stamp tax is that it
+is virtually automatic on recording, and you don't have
+to send out notices, and so forth.
+MR. MAKAR: Well, absolutely. And --
+JUSTICE KENNEDY: The whole point of the
+stamp tax.
+MR. MAKAR: Absolutely, and it makes it at
+that point in time certain. And the virtue, again, of
+this bright-line rule is that it provides certainty,
+predictability, and -- and --
+CHIEF JUSTICE ROBERTS: How long does it
+typically take from the filing of the petition to
+confirmation of the bankruptcy plan?
+MR. MAKAR: Mr. Chief Justice, the study I
+cited to the Court about the number of cases it could
+be -- has data in there. It looks to be -- it
+was 4,000, or something along this line. It looks to be
+like the average is about -- I think it is around 450 to
+600 days. I would have to pull the data and look real
+closely. But that's on average. Some can be very
+quick; some can take longer, depending on
+the complexity.
+A pre-packaged plan like the one we have
+before us here, it's not clear here why they couldn't
+have had the plan confirmed before the transfer. This
+wasn't a perishable commodity or things along those
+lines. But there is not a whole lot of data.
+JUSTICE STEVENS: Is it -- another question
+I had: Is it not true that even under your rule there
+will be a number of cases that, even though it was clear
+that the transaction was after the confirmation, there's
+an issue as to whether it was under the plan?
+MR. MAKAR: That issue could actually arise;
+and that was the Jacoby case that, in our view, sort of
+spawned a lot of the problems here.
+There may be some issues arising
+post-confirmation. We concede that. That -- but that's
+going to be less often than if we have the range of
+pre-confirmation. Because if we have the range of
+pre-confirmation transfers now being subject to
+litigation, it's going to be at least multiples of -- in
+terms of the burden on the State.
+JUSTICE KENNEDY: I had one question as to
+operation of the tax in Florida.
+Suppose a transaction -- there's no
+bankruptcy. A transaction is completed. Stamps are
+paid. There is then a suit to rescind the transaction
+on the ground of fraud or mistake. Do you get your
+money back from the stamp tax?
+MR. MAKAR: There is a refund mechanism for
+certain situations. I'm not sure if that one would be
+covered, but I believe it would be. There are -- there
+are some me mechanisms to get a refund back under the
+State's systems.
+If there are no further questions, I will
+reserve my time for rebuttal.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Mr. Brunstad.
+ORAL ARGUMENT OF ERIC BRUNDSTAD, JR.
+ON BEHALF OF THE RESPONDENT
+MR. BRUNSTAD: Mr. Chief Justice, and may it
+please the Court:
+The scarcest and most precious commodity in
+a Chapter 11 case is cash. Without cash, you cannot
+even get to confirmation.
+The way in which most debtors generate the
+cash necessary to get to confirmation, to pay all of the
+things that have to be paid in cash on confirmation is
+through asset sales.
+In fact, this tax exemption is more
+important for pre-confirmation transfers to the
+confirmation process than post-confirmation transfers.
+Here in this case, if you look at the joint
+appendix page 127, you can see the things that had to be
+paid on confirmation of this plan, including
+administrative expenses.
+In section 1129, Congress set forth the rule
+that certain things have to be paid in cash. Every
+dollar that is spent to pay a stamp tax cannot be used
+to pay employee claims, cannot be used to pay for goods
+and services the debtor desperately needs to reorganize,
+and cannot be offered to creditors to get their vote in
+favor of the plan.
+There is no reason, no reasonable reason why
+Congress would have wanted to allow the exemption for a
+thousand-dollar transfer that occurs after confirmation,
+but not to a ten-million-dollar transfer that occurs
+just prior to confirmation.
+JUSTICE SCALIA: Because you don't know
+whether that second one will ever be a sale under a
+plan, which is what the code requires. It has to be a
+transfer under a plan. And when it occurs, you don't
+know whether it is going to be an under plan or not.
+MR. BRUNSTAD: Well, Justice Scalia, I think
+that depends on how you define the term "under." And,
+getting back to your prior question --
+JUSTICE SCALIA: At the time it occurs it
+doesn't matter how you define the term. There is no way
+at the time it occurs to say that this is a transfer
+under a plan. There hasn't been a confirmed plan.
+MR. BRUNSTAD: There has not been a
+confirmed plan, but there is often --
+JUSTICE SCALIA: It requires under a plan
+confirmed.
+MR. BRUNSTAD: Well, it requires that there
+be a plan confirmed. Now, it doesn't say "confirmed
+plan." Where Congress intended to foreclose discussion,
+it says --
+JUSTICE SCALIA: It says "a plan confirmed."
+How do you know at the time the transfer is made whether
+it is under a plan confirmed?
+MR. BRUNSTAD: You don't necessarily know,
+Justice Scalia.
+JUSTICE SCALIA: You don't at all know.
+JUSTICE SOUTER: In fact, you do know, I
+presume, on the statistics that the odds are three to
+one against there being a confirmed plan.
+MR. BRUNSTAD: Yes, Justice Souter, but that
+underscores how difficult it is to confirm plans in
+Chapter 7, why Congress wanted to make it easier by
+providing this tax relief. You need cash to confirm.
+For example, the administrative expenses --
+JUSTICE SOUTER: I am -- I don't quite
+follow the leap you just made.
+MR. BRUNSTAD: Well, the whole purpose of
+1146(a) is tax relief. It is tax relief to provide more
+dollars for other Chapter 11 purposes. You cannot
+confirm a plan without hard, cold cash.
+In the LTD bankruptcy, the administrative
+expenses that had to be paid in full prior to the
+effective date of the plan were north of $200 million.
+This really makes a difference. This is a live,
+flesh-and-blood problem.
+JUSTICE GINSBURG: I thought, Mr. Brunstad,
+that the question was asked: So the State is not going
+to get its tax at the time of the asset transfer,
+because the cash is needed to eventually have a plan
+that works. So the State doesn't get its tax.
+And then it turns out that there is no plan;
+that the case is dismissed. What happens then? Florida
+has to get back -- at that point gets the tax that it
+wanted up front?
+MR. BRUNSTAD: Justice Ginsburg, the
+practice is to escrow the funds so they will be
+available as an administrative expense if it turns out
+there is no confirmed plan.
+In addition, this is no different than any
+other asset sale in bankruptcy where if the tax
+exemption is not allowed, they claim it as an
+administrative expense.
+JUSTICE GINSBURG: They are all paid up
+front, but they are put into escrow. Is that what you
+are telling me?
+MR. BRUNSTAD: That is the practice,
+Justice Ginsburg. And the reason why Florida is never
+harmed is because the procedures are the same whether it
+is a Chapter 11 case or Chapter 7. They have to come to
+the bankruptcy court and file a request for payment of
+this kind of tax anyway.
+JUSTICE BREYER: So there is no case, to
+your knowledge -- not millions of dollars, but there is
+no case, to your knowledge, where, in fact, people
+transferred the assets; they thought there would be a
+plan confirmed; there was no plan confirmed; and then
+the State was not paid?
+MR. BRUNSTAD: None that I'm aware of,
+Justice Breyer. And here is why that shouldn't happen.
+It is theoretically possible, but here is why that
+should not happen.
+Because when the -- a transfer is made under
+section 360(c) -- excuse me, 363 -- the transfers are
+made free and clear of all claims in interest. That's
+what section 363 provides.
+If the State wants to get its tax, in the
+ordinary course it comes into the bankruptcy court
+anyway, just as Florida did in this case, to file a
+request for payment of the tax.
+JUSTICE SCALIA: You would have no reason to
+know the answer to that question. You are not the
+State.
+The State has told us that millions of
+dollars have been lost in taxes not recovered.
+MR. BRUNSTAD: That's because the exemption
+applies, Justice Scalia. The courts apply this
+exemption in Chapter 11. It is only applied in Chapter
+11, not Chapter 7.
+JUSTICE SOUTER: Isn't it odd that the --
+isn't it odd that the Congress would have required, we
+will assume, this escrow procedure when the odds are
+three to one against the non-taxability?
+It seems to me that just as matter of simple
+efficiency, they would not have required this elaborate
+procedure when the odds are that the procedure would be
+to no avail to the bankruptcy State -- the State.
+MR. BRUNSTAD: No, Justice Souter, because
+the purpose of Chapter 11, as we know, is to facilitate
+reorganization, rehabilitation, saving jobs. It is very
+difficult. Congress understood it would be difficult.
+That's why it made Chapter 11 more liberal than former
+Chapter 10 under the Bankruptcy Act of 1898. That's why
+we have this tax relief, to provide more dollars that
+are available to make that process actually work. This
+is a real flesh-and-blood problem.
+CHIEF JUSTICE ROBERTS: Is it often the
+case -- and I don't know, but is it often the case that
+the people who are engaged in one these asset purchases
+are, in fact, the creditors themselves? In other words,
+they are owed a lot of money and said, well, let's --
+basically, let's take over the business and run it
+ourselves?
+MR. BRUNSTAD: Sometimes, Chief Justice
+Roberts, but not often. And the reason why we have
+these asset sales quickly in bankruptcy, think of the
+warehouse of the bananas. If you file bankruptcy, you
+have got to sell those bananas right away. You can't
+wait for months and months and months until the plan is
+confirmed, because there's nothing left to sell.
+Here we have a business which we call the
+melting ice cube. It an operating business with
+employees, but we've got to get it into the hands of
+somebody with capital quickly. Otherwise, this business
+is going to be -- shut its doors. All of those people
+will be let go. That's why we had a quick sale here:
+To preserve value, to preserve jobs.
+We couldn't wait until the plan-confirmation
+process played out. And, in fact, there could not have
+been a confirmed plan without the sale because the
+creditors were fighting too hard about who was going to
+get what. We had to have the sale first, and we had to
+do it quickly to maximize the value, preserve the
+business, save the jobs.
+CHIEF JUSTICE ROBERTS: Well, I assume that
+the creditors have an interest in that as well. I don't
+know how -- I mean, they are the ones who could move
+quickly to get the confirmation of the plan, because
+they are the ones whose interests have to be addressed
+before the plan can be confirmed.
+So wouldn't they have an interest in the
+melting bananas, or whatever?
+(Laughter.)
+MR. BRUNSTAD: Chief Justice Roberts, the
+answer to that question is that the creditors have
+diverse interests. Secure creditors often want to
+liquidate quickly. They want to get their collateral
+liquidated because they may be paid in full out of that.
+That may leave nothing for the unsecured creditors, the
+tort victims, the employees who have wage claims, the
+Pension Benefit Guaranty Corporation.
+In order for there to be cash for those
+entities, a more negotiated sale or a different process
+might have to be followed. That's what happened in this
+case. There was enough to pay the secured creditors in
+full and give a 45 to 50 percent distribution to
+unsecured creditors, including the Pension Benefit
+Guaranty Corporation.
+JUSTICE ALITO: You say the test is whether
+it is instrumental. A transfer has to be instrumental
+to the plan, is that correct?
+MR. BRUNSTAD: That is a standard that we
+offer, Justice Alito.
+JUSTICE ALITO: That is different from
+"necessary"?
+MR. BRUNSTAD: Yes, it is. It is -- it is
+more open.
+JUSTICE ALITO: Well, what does it mean?
+MR. BRUNSTAD: Well, basically, Justice
+Alito, it encompasses almost any pre-confirmation
+transfer. It's a wide open standard. I want to be up
+front about that. You could say -- you could use a
+dictionary definition of under in accordance with, it's
+about the same. It would cover all of pre-petition --
+I'm sorry -- the pre-confirmation transfers where you
+ultimately have a confirmed plan, because all of them
+will be generating cash that make confirmation possible.
+CHIEF JUSTICE ROBERTS: I understand your
+arguments about the desirability. How do you squeeze it
+into the statutory language?
+MR. BRUNSTAD: Well, a couple --
+CHIEF JUSTICE ROBERTS: Under a plan and
+you're suggesting that it's under the plan before there
+is a plan.
+MR. BRUNSTAD: Well, the standard -- the
+test at 1146(a) requires that there be a plan confirmed
+under section 1129. So we have three parts of the
+statute. We have an incident of transfer, that's
+undisputed. We do in this case have a plan confirmed
+under section 1129. And we do, in fact, have a stamp
+tax. The question --
+JUSTICE SCALIA: You missed the crucial --
+the crucial part. The transfer has to be under a plan
+confirmed. I mean, that's the troublesome language.
+The transfer has to be under a plan confirmed.
+MR. BRUNSTAD: But we know, Justice Scalia,
+that in -- where the same language is used, in section
+365(g), it cannot possibly mean post-confirmation
+events. It cannot possibly. Because section 365(g)
+addresses assumptions or rejections of executory
+contracts under a plan confirmed under Chapter 11. That
+cannot happen post confirmation because, as this Court
+said properly in Bildisco, assumption or rejection must
+occur prior to confirmation of a plan.
+So the same language used elsewhere in the
+statute, exactly the same, cannot possibly mean
+post-confirmation. It must mean something else. And we
+think it means a transfer that occurs either before or
+after confirmation as long as you have a confirmed plan.
+Now, it's also critical that where Congress
+intended to foreclose the debate to require that there
+be a plan first, such as in section 1142(b) or section
+511(b), Congress said "under a confirmed plan." You
+cannot insert a verb between confirmed and plan, where
+it's confirmed plan.
+In this section, Congress -- in 1146(a),
+Congress said plan confirmed under section 1129. Does
+that mean plan that has been confirmed, plan that may be
+confirmed, plan that is confirmed? It's ambiguous.
+It's ambiguous.
+Again, in section 1142(b), Congress
+expressly dealt with transfers under a plan -- under a
+confirmed plan. And in context, that distinct language
+means there was a plan first, and then it authorizes
+parties under the plan to make the transfers that are
+authorized under the confirmed plan.
+JUSTICE SOUTER: Is it relevant, as your
+friend on the other side pointed out, that the
+particular section in question occurs within the statute
+under the general heading of "Post-Confirmation
+Matters"?
+MR. BRUNSTAD: No, Justice Souter. And
+here's why. We know, for example, in section
+1145(c)(2), which is also part of subchapter 3, that
+expressly applies to an exemption for sales of
+securities between the petition date and the
+confirmation date.
+In addition, section 1146(b) itself allows
+for requests for determination of the tax effects of the
+plan before the confirmation date. So we know for a
+fact that the rules in subpart 3, some of them apply to
+pre-confirmation periods, requests, and exemptions.
+JUSTICE SOUTER: But isn't the -- isn't the
+normal reading, if we're going to give any weight to the
+placement in the statute at all -- and I think we're
+entitled to give some, that unless there is the kind of
+clarity that you've just been describing in these two
+exceptions, that, in fact, the placement there indicates
+that it is dealing with a post-confirmation matter?
+MR. BRUNSTAD: I think it is entitled to
+some weight, Justice Souter, but I think it is
+completely undercut by some of the very provisions of
+subchapter 3 by their terms apply to pre-confirmation
+events.
+Similarly, some the provisions of subchapter
+2, section 1127(b) applies expressly to
+post-confirmation matters. Congress was not consistent
+in placement -- placing things exclusively under one
+heading or another.
+JUSTICE GINSBURG: Mr. Brunstad, there's an
+aspect of the way this looks that I don't understand,
+and you're an expert in this area. Perhaps you can
+explain it to me.
+You have one of these 363(b) sales of
+property, and then you have a global settlement with the
+creditors. What function does the plan serve after you
+have all that? The assets have been sold. The
+creditors have made a settlement. There's going to be
+no reorganization; whatever there is, is going to be
+distributed.
+What is the function of having a plan after
+all that confirmed? I know one purpose of it is that
+you avoid paying the stamp tax. But is there any other
+purpose once you have already settled that the sale is
+made, the creditors agree on how it's going to
+be divided up? What is the function that the plan
+serves?
+MR. BRUNSTAD: That's an excellent question,
+Justice Ginsburg. The answer is, I think, important.
+And there is an excellent answer, and that is, whereas
+Chapter 7 liquidations are sort of off-the-rack, Chapter
+11 liquidations are custom-made. The plan is
+custom-made and tailored to the particular assets and
+circumstances of the particular case.
+The assets that were sold in this case was
+not all the assets to be sold, Justice Ginsburg. That
+often happens. And this plan provides for the orderly
+liquidation in a specific way of the assets that
+weren't, in fact, sold.
+There also are all kinds of claims that have
+to be resolved and dealt with. This plan, in a
+customized way, dealt with with the resolution of those
+claims -- the PBGC liabilities, tort liabilities, all
+different kinds of liabilities and concerns -- in a much
+more efficient and tailor-made way than could have
+happened if the case had been converted to an
+off-the-rack Chapter 7 case.
+There is a test which the lawyers and the
+courts apply as to whether we should stay in Chapter 11
+when the situation has been that most of the assets have
+been sold or whether we should convert to Chapter 7, and
+that is whether it's in the best interests of the
+creditors and the best interests of the estate to stay
+in the Chapter 11.
+That test was met here. It was clearly in
+the best interest to stay in the Chapter 11, because we
+got that customized procedure: A plan administrator who
+was appointed subsequently who is continuing to
+liquidate assets and distribute the proceeds. We have
+all kinds of benefits.
+Now, it is not possible to confirm a Chapter
+11 plan simply to escape tax liabilities. Section 1129
+says you cannot confirm a plan if the primary purpose is
+to escape tax liabilities. So there is a protection for
+the State there as well.
+Here, of course, the primary purpose of
+confirming the plan was not just to he avoid tax
+liabilities. It was to do all these other
+administrative things in a custom-made way.
+JUSTICE SCALIA: What is the section you
+mentioned earlier that uses "under" in a sense that
+clearly applies to pre-confirmation?
+MR. BRUNSTAD: Section 365(g),
+Justice Scalia.
+JUSTICE SCALIA: I'm looking for it, and I
+can't --
+MR. BRUNSTAD: We quote it in part on page
+38 of our brief. And it is quoted in part on page 17 of
+the Petitioner's brief.
+JUSTICE SCALIA: Did you make that argument
+there?
+MR. BRUNSTAD: Yes. Yes, Justice Scalia.
+On pages 38 and -- 37, 38, and 39, we specifically talk
+about section 365(g)(1), and we cite the Bildisco case
+and specifically made the point --
+JUSTICE SCALIA: How does that provision
+read? Do you have it quoted here?
+MR. BRUNSTAD: I do, Justice Scalia. Let me
+quote it for you exactly. Section 365(g) deals with
+what the effect of a rejection -- I'm sorry -- effect of
+breaching an executory contract is. And there are two
+subparts, 365(g)(1), which provides: "If such contract
+or lease has not been assumed under this section or" --
+here's the language that is the same -- "under a plan
+confirmed under Chapter 11."
+So, if the contract or lease has not been
+assumed or -- under this section, section 365, or under
+a plan confirmed under Chapter 11, then the breach is
+basically deemed to have existed just immediately prior
+to the filing of the bankruptcy case.
+It is exactly the same language. And it is
+also in (g)(2), the same language is used yet again.
+It cannot be the case that the election to
+assume or reject an executory contract can occur
+post-confirmation. It cannot. Why? Because, as this
+Court explained in Bildisco, the assumption or rejection
+must occur prior to confirmation, up until the point of
+confirmation, is the language this Court used. The
+lower court decision, the TWA case, et cetera, all say
+exactly the same thing. And there's an important reason
+for that.
+The standard for assumption or rejection,
+even if it is elected in a plan, is you have to satisfy
+section 365. And that has to be done through a court
+order, through a court proceeding that has to occur
+essentially before the court actually confirms the plan.
+So the same language used --
+JUSTICE SOUTER: Why? Why?
+MR. BRUNSTAD: Because the debtor has to
+elect -- the debtor has to make a decision before
+confirmation so we know what's going to happen to the
+property, and so the creditor can timely final a claim
+if it is going to be rejection, because the creditor
+does not file a claim for rejection damages for
+rejection of the contract until the assumption or
+rejection is determined. That particular thing is
+postponed.
+But we must know that prior to confirmation
+because we have to know how to treat the creditor's
+claim; if we have to pay that creditor significant
+money, what's going to happen to the property. For
+example, Justice Souter, suppose it is a contract to
+purchase a Boeing 767 for $600 million. The debtor
+might file for bankruptcy, one of the airlines files for
+bankruptcy and might have to decide whether to honor
+that obligation or to reject that obligation, assume it
+or reject. We need to have that information. We need
+to know if the debtor is going to have to pay that $600
+million before confirmation. We can't wait until after
+because it's too important to the plan. It's too
+important in dealing with the asset.
+That's why all the courts, including this
+one, have said you must make the assumption-or-rejection
+election up until confirmation, never after. So it
+can't be the case that the specific language "under a
+plan confirmed under Chapter 11" as used in section 365
+refers to post-confirmation, but that is in fact the
+same language used in section 1146.
+Now, contrast that with the language used in
+sections 1142(b) or 511(b), which talks about a
+"confirmed plan." And, in context, that language
+clearly means a plan comes first. Congress could have
+used that same formulation in section 1146(a); it chose
+not to. And under Russello and the other precedents of
+this Court's canons of construction, we should give that
+semantic choice its deference. And, again, there's a
+reason. So a statute --
+CHIEF JUSTICE ROBERTS: Your argument there
+is that "under a plan confirmed" means something
+different than "under a confirmed plan"?
+MR. BRUNSTAD: In context, yes, Chief
+Justice Roberts. And if you look at section 1142(b), I
+think you can -- you can actually see in context why
+that so clearly means -- that so clearly means the plan
+comes first and then is confirmed. But again, it's
+different language that is used.
+CHIEF JUSTICE ROBERTS: Do you -- do you
+agree with the proposition that you only go back so far
+as the filing of the petition? Well, what in your
+argument suggests that that's a logical stopping point?
+It seems to me that if you don't take the date of
+confirmation, I don't know why all of your policy
+arguments wouldn't cause you to go back further.
+MR. BRUNSTAD: By statute, Chief Justice
+Roberts, section 103 provides that the provisions of
+Chapter 11, in Chapter 11, including section 1146, apply
+only in a Chapter 11 case. There is no case --
+CHIEF JUSTICE ROBERTS: Yes, but we've
+already shown a willingness to abandon that type of
+limitation with "under a plan confirmed." So, you know,
+the consideration of the prior transfer is going to take
+place in the context of a bankruptcy case.
+MR. BRUNSTAD: The only sections that apply
+basically to pre-bankruptcy, pre-petition matters, are
+the avoidance powers in section, for example, the
+preference actions in section 547, the fraudulent
+transfer provisions in section 548. Those things
+expressly apply to pre-bankruptcy events, and they say,
+before the -- "90 days before the commencement of the
+case," those kinds of things. When Congress wanted to
+reach back before the petition date, it used very
+specific terms of the art, very specific authorization.
+Nothing like that appears anywhere in
+section 1146(a), and for good reason. It's very clear,
+and every court to have looked at this has so held, that
+1146(a) does not apply before the case is commenced.
+And that makes sense because the purpose is to give tax
+relief to facilitate the Chapter 11 process. You want
+to have cash available --
+JUSTICE STEVENS: Let me just ask this. As
+a practical matter does the judge, the bankruptcy judge,
+enter some kind of an order approving the transfer, even
+though it's pre-confirmation, an order to establish the
+tax exemption?
+MR. BRUNSTAD: Yes, Justice Stevens. In
+fact, that has to happen.
+JUSTICE STEVENS: So it would have to be
+after the filing of the bankruptcy proceeding.
+MR. BRUNSTAD: Yes, Justice Stevens, it
+must. And under section 363, the Bankruptcy Court must
+approve sales like this on notice to creditors, which
+would include the State. And here, in fact, what
+happened is consistent with what happens in almost every
+bankruptcy case. Because the State has an interest, a
+taxing interest, in the transfer, the State will get
+notice, which Florida gave here. They have an
+opportunity to come and object if they wish to, which
+they did here.
+There are actually more protections for the
+State for pre-confirmation transfers than
+post-confirmation transfers. After the confirmation of
+the plan, the Bankruptcy Court's work is essentially
+done, and then you're just out in the world under the
+plan and the debtor is making sales and transfers.
+There isn't the opportunity for the State to come in and
+actually object to things as there is pre-confirmation.
+So here the State actually has more
+protections for the pre-confirmation sale --
+CHIEF JUSTICE ROBERTS: How do you know
+whether to pay the tax or not? I mean, you know that
+the bankruptcy petition has been filed, but you really
+don't know whether there's going to be a plan confirmed
+under Chapter 11. How do you know whether to pay or
+not?
+MR. BRUNSTAD: Well, for example --
+CHIEF JUSTICE ROBERTS: I assume there are
+penalties if you don't pay on time.
+MR. BRUNSTAD: There's a very practical
+reason for that question, Chief Justice Roberts, and
+that is in this case the Bankruptcy Court specifically
+determined in his order, judge in his order, that the
+exemption would apply. So that was determined in the
+order. Of course --
+CHIEF JUSTICE ROBERTS: But this doesn't
+happen for some time down the road, right?
+MR. BRUNSTAD: Well --
+CHIEF JUSTICE ROBERTS: Up to, I guess -- we
+were told up to 400 days.
+MR. BRUNSTAD: Well, you can't have a sale
+until the Bankruptcy Court approves it. In the process
+of approval, the Bankruptcy Court was asked and made the
+determination that 1146(a) would apply. Now, what
+happens then is the State can come in and has the right
+to file a request for payment of administrative expense
+and the funds are escrowed, because if in fact there
+ends up not being a confirmed Chapter 11 plan, then the
+State is entitled to its tax, and the money is then paid
+to the State, its request for payment of administrative
+expenses is allowed, and it gets is money. But this can
+make --
+JUSTICE SCALIA: It's always escrowed? Is
+that --
+MR. BRUNSTAD: It's not always escrowed,
+Justice Scalia.
+JUSTICE SCALIA: Is that a uniform practice?
+MR. BRUNSTAD: That is the practice, but
+it's not uniform because in some cases there's no need
+for an escrow. There are some cases in which we know
+there's going to be enough cash available that the State
+will be paid, so we don't need that safety. But the
+State can always ask for it, and if the State asks for
+it I'm almost certain in most cases it will get it.
+JUSTICE ALITO: Is it relevant that this is
+a tax-exemption provision?
+MR. BRUNSTAD: Well, I think it's relevant
+in the sense that Congress was clearly intending here to
+grant tax relief to Chapter 11 debtors to facilitate the
+Chapter 11 process. It's not a tax exemption, Justice
+Alito, in the sense of, for example, an exemption to a
+revenue-raising provision. In other words, you could
+have a State statute that says: The purpose of the
+statute is to raise taxes and we'll create exemptions.
+That's one context. And there it might make sense to
+say: Well, look, while the overall purpose of the
+statute is to raise revenue, we might construe the
+exceptions to that purpose narrowly.
+Here the purpose of Chapter 11 is to
+facilitate the Chapter 11 process. So I think we
+construe this revenue-raising -- I'm sorry -- this tax
+relief measure consistent with that overall purpose.
+JUSTICE GINSBURG: Why shouldn't we look to
+see how it was in the Internal Revenue Code with respect
+to the Federal State tax exemption? That I think leaves
+no room for argument. This case might be argued either
+way about does it apply to preconfirmed plan asset
+transfers? But as I understand it, this section 4382(b)
+was limited to post-confirmation transfers, that is
+transfers made within five years after confirmation of
+the plan.
+MR. BRUNSTAD: That's the limitation that
+the United States wanted to add to section 267 of the
+Bankruptcy Act of 1898. Congress did not grant the
+United States' request. The United States said this is
+administratively too difficult to administer, and
+Congress rejected that testimony from the representative
+of the Treasury and enacted section 267 over the
+objection of the United States.
+Now, the United States after the Excise Tax
+Reduction Act, I think of 1965, does not really have
+many excise taxes. And so the testimony of the
+Commissioner of the Internal Revenue Code -- Revenue
+Service in 1978, when the Bankruptcy Code was being
+adopted, was that the United States doesn't really care
+about stamp taxes. It really didn't have a position on
+it.
+JUSTICE GINSBURG: Well, what was -- what
+did section -- I'm not talking about -- you mentioned
+267. 42 -- 4382(b), what did that say?
+MR. BRUNSTAD: I'm sorry, Justice Ginsburg?
+JUSTICE GINSBURG: Section -- 26 U.S.C.
+4382(b).
+MR. BRUNSTAD: 4382(b)?
+JUSTICE GINSBURG: Yes.
+MR. BRUNSTAD: Was that the revenue
+provisions --
+JUSTICE GINSBURG: That was in the 1954
+Code. I'm not talking about 1898.
+MR. BRUNSTAD: That one I'm not certain of,
+Justice Ginsburg.
+JUSTICE GINSBURG: I thought that said that
+the tax exemption was limited to transfers
+post-confirmation.
+MR. BRUNSTAD: No, Justice Ginsburg. There
+the three -- the history of the development of the
+statute is section 77(b)(F) and then went to section 267
+and then went to section 1146. That's the direct --
+JUSTICE GINSBURG: Maybe you can straighten
+me out, because where I get this from is the brief for
+the State, and it's at page 17, mentions the
+now-repealed 4382(b).
+MR. BRUNSTAD: That may, Justice Ginsburg,
+have been a mirror provision. Before 1938, the
+tax-exemption provisions under the Bankruptcy Code were
+mirrored. There was a provision in the Bankruptcy Act
+in section 77(b)(F). There were also mirroring
+provisions under the bankruptcy -- under the Internal
+Revenue Code. Those were eliminated and instead we just
+have section 267 under the Bankruptcy Act of 1898, which
+dealt with the exemption in bankruptcy.
+Justice Ginsburg, I think that, going back
+to your earlier point, I think it's important to
+underscore that the context of this case is different
+from other contexts in which the discussion of how we
+should construe a tax exemption applies. I think the
+Court here should apply the analysis that it applied in
+Dolan, where the Court was considering application of a
+similar canon of narrow construction, and the Court
+said: Well, in construing the Federal Tort Claims Act,
+in juxtaposition to this concept that we construe
+waivers of sovereign immunity narrowly, we don't apply
+that because that would basically run afoul of the
+purpose of the Federal Tort Claims Act provisions.
+The same thing here. The proper rule of
+resolution where we have an ambiguous statute is to look
+to the purpose of the statute, and the purpose here is
+to make Chapter 11 easier by granting tax relief. And I
+think that, consistent with that purpose, the Court
+should construe section 1146(a) --
+JUSTICE SCALIA: Could I?
+MR. BRUNSTAD: Yes, Justice Scalia?
+JUSTICE SCALIA: You know, we've said in
+other opinions no -- no statute pursues its purposes at
+all costs. And the limitations contained in a statute
+are as much a part of its purpose as the broad purpose
+that you just mentioned. I mean, if a -- if a "plan
+confirmed" means a plan confirmed, that limitation is
+part of the purpose no less than the broad purpose that
+you express.
+MR. BRUNSTAD: Well, that -- that's true in
+general, Justice Scalia, but if Congress had really
+wanted to narrow the purpose here to post-confirmation,
+it would have surely used the temporal limitations it
+used, for example in section 1127, where the Court said
+before -- the Congress said before confirmation you do
+this; after confirmation you do that. That is a -- that
+is a standard legislative technique used throughout the
+Bankruptcy Code that was not used in section 8.
+JUSTICE SCALIA: Maybe, but "under a plan
+confirmed" seems under normal interpretation of language
+to me to mean under a plan that has been confirmed.
+MR. BRUNSTAD: Well, I think, Your Honor, as
+the Court stated in Ardestani, quote, "The word 'under'
+has many dictionary definitions, and we must draw its
+meaning from its context," close quote. And under
+Robinson, the Court looked to, where there was an
+ambiguous statute, the purpose as the way to resolve the
+ambiguity, and I submit that should happen here.
+Thank you very much.
+CHIEF JUSTICE ROBERTS: Thank you,
+Mr. Brunstad.
+Mr. Makar, you have five minutes remaining,
+and during those five minutes I hope you'll give an
+answer if you have one to the 365(g)(1) argument that
+your friend has made.
+REBUTTAL ARGUMENT OF SCOTT D. MAKAR
+ON BEHALF OF THE PETITIONER
+MR. MAKAR: Sure, I'm be glad to, Mr. Chief
+Justice.
+365(g) here speaks in terms of a rejection
+of an executory contract --
+JUSTICE SCALIA: Is that spelled out
+somewhere in the -- is its text somewhere in these
+materials?
+MR. MAKAR: The full text? I'm sorry; it'
+not.
+JUSTICE BREYER: It's on page 38, the last
+line, the next to the last line.
+JUSTICE SCALIA: Not the full, not the full
+section, though.
+JUSTICE BREYER: The red brief.
+JUSTICE SCALIA: Just little snippets of it.
+JUSTICE BREYER: Yes.
+MR. MAKAR: This provision 365(g) says the
+rejection of an executory contract constitutes a breach
+of such contractual relief if the contractual relief is
+not under a section under a plan. What that means is
+that it's deemed rejected if, at the time of plan
+confirmation -- not before, but at the time of plan
+confirmation. If it's not in the plan, it's deemed a
+rejection, rejected. That's merely a -- an instrument
+to say when the contract is -- is deemed rejected. If
+it's in the plan it's not rejected. If it's not in the
+plan -- it doesn't get --
+JUSTICE BREYER: No, no. I'm sorry.
+Doesn't the rejection have to take place prior to the
+plan being confirmed?
+MR. MAKAR: It says the rejection --
+JUSTICE BREYER: Does it or doesn't it?
+Prior to in your opinion or not prior to?
+MR. MAKAR: Rejection may occur before that,
+but the -- is referring to -- rejection in an executory
+contract constitutes a breech, the -- when it is a
+breach. And it's only determined -- determined to be a
+breach --
+JUSTICE BREYER: I'm sorry. I don't
+understand how that would work. I have a contract with
+Boeing for $500 million. I decide to reject it.
+Now if that breach doesn't occur until the
+plan is confirmed, how does the trust -- how does
+bankruptcy judge know how to treat Boeing as a creditor?
+MR. MAKAR: Well, at the point of -- the
+statute speaks in terms of the point of plan
+confirmation.
+JUSTICE BREYER: I understand that. But I'm
+sorry -- doesn't the plan which its confirmed have a
+list of the creditors and how they are treated?
+MR. MAKAR: Sure.
+JUSTICE BREYER: All right. How do we write
+the plan if, in fact, no breach has occurred and he
+hasn't become a creditor until the plan is, in fact,
+confirmed?
+MR. MAKAR: Well, I'm not sure I am
+following. But I think the language of the statute here
+is in a different context, which is saying that the
+rejection is -- constitutes a breach but gas not been
+assumed, and at that point it has not been assumed, but
+at the point of confirmation --
+JUSTICE KENNEDY: I can understand -- just
+taking a quick look at 365(g), why it serves a different
+purpose and a different function.
+But the Respondent's point was, you have to
+interpret "under" differently under your view, under
+365, than under the statute at issue.
+Do you agree with that?
+MR. MAKAR: No. No. Because under a plan
+confirmed in 365(g) relates to point of confirmation or
+beyond, and we believe under 1146(c) or under 1146(a,
+Congress has readopted it.
+CHIEF JUSTICE ROBERTS: So your argument is
+that you don't have a rejection of the executory conduct
+-- contract -- until the plan is confirmed? That's
+what Congress --
+MR. MAKAR: That's what -- I'm sorry yes.
+That's -- at that point. That doesn't undermine the
+argument that under a plan confirmed, 1146(c) means at
+the point of confirmation or beyond.
+The most natural reading of 1146(c) is to
+provide this post-confirmation transfer exemption. No
+one is contesting that. That's the natural reading of
+the -- of the statute.
+And the point here of there being more
+protection and, for example, is simply not the case.
+The State is not on notice ob many of these transfers as
+an MVR. Those were transfers that were outside the
+ordinary course of business. We would give not notice
+of that. And in the ordinary course of 363 practice,
+parties that have an interest in the property -- the
+State doesn't- -- do not get notice of that proceeding.
+So that -- this notion that there's more protection in
+pre-confirmation than post-confirmation is just
+unsupportable.
+In -- in conclusion, Your Honors, this is a
+tax exemption statute, and under this Court's principles
+it should be narrowly construed. It shouldn't be
+expanded to this pre-confirmation transfers with all the
+problems it creates, in the three quarters of cases that
+don't get confirmed, and have all these intrusions upon
+them, but -- local governments in their collection of
+the stamp tax. For that reason we ask the Eleventh
+Circuit be reversed. Thank you.
+CHIEF JUSTICE ROBERTS: Thank you, Counsel.
+The case is submitted.
+(Whereupon, at 12:06 p.m., the case in the
+above-entitled matter was submitted.)
+59:1 37:7 53:1 54:8 26:24 41:17 22:4 46:22 47:1,9
+24:19,22 analysis 52:17 50:6 54:15,17 46:4 48:13 50:14,24
+52:6,10 answer 7:13,14 35:16 45:10 authorizes bankrupt's
+7:19,22 8:19 arises 20:20 37:11 17:22,25
+anyway 30:24 art 46:4 49:6 42:11 45:21
+46:5 asks 49:8 aware 31:6 26:25 54:18
+22:24 application 22:6 assert 6:12 16:9 a.m 1:14 3:2 26:17 57:14
+29:12,19 52:18 16:10 Benefit 34:13,19
+41:6
+52:17 30:13 32:21 back 6:7 8:7,8 best 40:14,15,18
+20:22 22:11 assets 5:20 9:19 15:25 big 20:19
+38:18 41:9 31:3 39:4,20 26:14,18 28:11 41:21 42:18
+57:11 50:7 52:17,22 43:23 47:23 14:10 55:11 56:5,6
+49:10 approves 48:12 assumption 6:15 8:21,23 9:1,10 4:16,25 5:12
+approving 46:14 11:20 20:6 9:15,18 10:2,6 6:3 7:3,6,19,21
+Ardestani 54:4 assumptions 19:20 20:20 10:19 16:2,22
+argued 50:6 assumption-o... 26:11 29:19 20:7 30:25
+56:7 call 33:8 29:10,17 30:22 41:9 44:14 58:14
+canon 52:19 30:22 31:25,25 45:1,1 49:13 conduct 57:17
+15:20 capital 33:11 36:13 39:18,18 close 54:6 29:9,11,18
+55:7 case 3:4,21 4:3,3 40:18,23 42:7 closing 20:25 confirmation
+21:23 11:22 13:12,19 45:13,13,14 22:11 28:6 6:21,23,23 8:1
+14:6,20,25 46:10 47:20 50:4,23,24 8:4 9:2,9 10:8
+31:2,16 32:20 characterize cold 29:18 16:7 17:20
+36:1 39:21,22 Chief 3:3,9 8:6 collected 12:19 21:1,12,14
+26:23 27:1 42:12,15,21 13:25 14:8 collection 58:20 25:21 27:5,7,8
+44:7 45:14,14 20:18 21:3 come 14:10 27:12,15 28:1
+45:19 46:2,8 25:1,4 26:22 18:15,24 30:22 28:3 33:25
+31:6 47:1 48:2 50:6 27:1 32:19 47:4,12 48:15 35:14 36:14,16
+32:10 52:14 58:4,24 33:1,22 34:6 comes 20:3 36:21 37:24
+34:6,24 58:25 35:15,19 44:20 31:15 44:14 38:2 42:19,20
+cases 4:1,2 9:5 44:23 45:4,11 45:2 43:8,15 44:1,6
+37:19 12:10,15,22 45:15 47:16,23 coming 18:10 45:9 47:8
+39:15 13:23 15:2,22 48:1,6,9 54:11 commenced 50:10 53:21,22
+21:17 22:15,18 54:19 57:16 46:8 55:15,16 56:15
+44:23 24:5 25:5,20 58:23 commencement 57:4,13,23
+46:17 49:4,5,9 58:18 choice 44:18 46:1 confirmed 3:15
+47:22,25 cash 27:4,4,7,8 chose 44:15 Commissioner 4:9,20,21 5:4
+27:18 29:11,18 Circuit 11:17 50:23 5:16 6:7,11 7:5
+50:12 30:2 34:14 15:17 58:22 commodity 8:24 9:10
+35:14 46:11 circumstance 25:16 27:3 10:21 11:2
+52:3 49:6 5:24 company 14:15 13:18,24 16:11
+54:3 cause 45:10 circumstances 15:9 16:11 18:16
+certain 16:5,15 39:21 completed 26:11 19:1 20:9,9
+26:7 27:18 49:9 cited 25:5 38:14 23:25 25:15
+33:8,9 certainly 8:17 claim 30:14 43:9 25:12 28:21,24 29:1
+58:7 certainty 24:24 43:11,17 computer 24:7 29:7 30:11
+52:24 concept 52:21 36:25 37:1,2,4
+21:19 27:4 clearly 40:17 conclusion 45:2,17 47:19
+53:13,13 9:25,25 14:12 42:18,20,21 45:8 46:3 43:13 48:3,4
+55:23 14:16 15:12 43:1,2,3 46:7 day 11:23 20:25 56:5,5
+17:2 20:3,13 46:22 48:2,12 days 14:21 25:9 development
+20:14 37:10 48:13 52:17,18 46:1 48:10 51:21
+44:13,23,25 52:19 53:4,20 deal 20:19,24 dictionary 35:10
+52:14 54:6 courts 3:15 44:3 difference 5:3
+8:1 contract 42:3,4 cover 35:11 debtor 5:18 15:9 40:6 44:22
+13:17 42:8,16 43:12 covered 26:17 27:21 43:6,7 45:3 52:14
+15:14 43:19 54:22 create 12:13 43:20,25 47:11 57:1,6,7
+28:22 55:11,18 56:4 49:19 debtors 15:6 differently 6:21
+32:3,13 56:8 57:18 created 7:24 27:6 49:14 57:9
+37:3 contracts 36:13 creates 9:21 decide 43:22 difficult 24:4,11
+38:19 contractual 58:18 56:9 24:13 29:9
+46:2 55:12,12 creditor 5:18 decision 42:21 32:13,13 50:16
+50:14,17 contrary 10:11 43:9,10,17 43:7 direct 51:23
+57:15 contrast 44:11 56:12,22 declared 17:9 discourage 14:9
+control 15:10 creditors 5:17 deemed 42:11 discuss 16:20
+convert 4:4 32:22 33:18,23 define 28:10,13 dismissed 4:4
+45:18 converted 40:8 34:19 39:3,5 definitions 54:5 30:5
+34:13,20 46:23 56:18 Department 1:3 distinction 6:17
+50:2 34:23 critical 36:22 departments distinguish 10:7
+correctly 23:18 crucial 36:4,5 16:19 distribute 14:23
+56:4 counsel 13:25 customary 11:8 25:11 distributed 39:7
+26:22 58:23 customized 40:4 depends 28:10 distribution
+52:19 course 6:3 14:13 custom-made described 6:9 diverse 34:8
+52:16,21 21:9 31:15 describing 38:9 Dolan 52:18
+41:3 48:5 58:7 D desirability dollar 27:19
+58:16 court 1:1,13 3:7 54:17 desperately 23:19 29:17
+52:20 15:25 22:9 data 23:10,22,24 determination doors 33:12
+41:8 48:23,25 13:11 15:14,23 failure 23:19 23:13 26:9
+ESQ 1:16,18 2:3 20:17 21:9,18 faithful 3:14 30:5,20 31:16
+essentially 43:3 22:18 27:10,25 far 8:7 9:19 16:3 flows 11:2
+established 48:4 49:15,16 favor 15:15 followed 34:16
+29:21 estate 17:22,25 52:11,16 57:25 Federal 18:25 19:13 56:25
+36:11 38:16 exist 24:11 file 8:10 10:2 formulation
+exactly 4:23 5:1 expend 15:24 filed 8:5 11:24 forward 20:21
+58:21 36:18 42:1,13 17:6 24:7 47:18 found 7:10
+45:22 47:22 expert 38:24 16:6 20:20 45:23
+excellent 39:15 express 53:15 filings 24:1 friend 37:15
+38:8,12 excuse 31:11 46:10 49:14,25 37:11 44:14 39:13 57:7
+executory 36:12 fact 3:25 6:4 45:2 fundamental
+57:17 29:5 31:2 Fla 1:17 further 26:20
+58:20 hear 3:3 5:1 instrumental 4:11,16,25
+53:17 49:14 50:14 13:15 21:23 36:23 8:6,14,19,22
+22:15 hole 15:13 19:21 31:12 11:3,10,14,19
+18:4 ground 22:10 Honors 58:14 58:9 13:1,25 14:8
+30:8,16 26:13 hope 54:14 interested 12:25 14:19 15:18,20
+38:22 group 5:17 human 6:16,16 interests 34:1,8 15:21 16:2,22
+50:3 growing 15:6 7:12 40:14,15 17:8,16,21,24
+Guaranty 34:13 hypothetical 8:3 interfere 18:18 18:4,13,22
+34:20 10:4 Internal 50:4,23 19:8 20:5,7,18
+guess 4:9 5:1,25 52:8 21:3,10 22:20
+23:10 22:21 24:15 ice 33:9 interpretation 24:15,20 25:1
+38:6,8 48:9 illegal 4:17 54:1 25:4,18 26:8
+46:9 guessing 16:20 Imagine 6:8 intrusion 3:24 26:22 27:1
+58:7 immediately intrusions 58:19 28:4,9,12,18
+31:7,9 36:14 39:16 42:22 6:9 32:2,10,19
+15:8 48:7 54:9 imposed 12:19 irrelevant 6:5 34:21,25 35:1
+19:18 happened 17:1 17:21,24 18:2 IRS 16:18 35:5,6,15,19
+24:9 21:8 34:16 20:2 issue 23:15 36:4,8 37:14
+45:5,10 40:8 46:25 incident 35:25 25:22,23 57:10 37:19 38:5,13
+15:14 18:9 includes 5:21 41:7,11,12,17
+17:19 happens 4:12 27:15 34:19 Jacoby 25:24 43:5,19 44:20
+5:6 21:16 30:5 44:4 45:13 jobs 32:12 33:14 44:24 45:4,11
+22:17 39:24 46:25 indeterminate 33:21 45:15 46:12,17
+28:8 48:15 11:7 joint 27:13 46:19,21 47:16
+33:12,18 hard 23:22 indicates 38:10 JR 1:18 2:5 47:23 48:1,6,9
+39:5,6,12 29:18 33:18 information 26:24 48:23 49:1,2
+harm 15:18,19 43:24 judge 3:18 4:6 49:10,15 50:3
+47:19 15:21 16:4 insert 37:1 4:15 5:22,22 51:3,6,7,10,13
+52:12 harmed 30:21 instances 11:4 6:10 8:9 9:10 51:16,17,20,24
+53:6,7 7:7,8,8,10 9:8 16:3 26:6 56:2,13,19,24 minute 16:13
+10:25 20:8,12 little 55:8 57:12,20 minutes 19:1
+21:24 22:10 live 29:22 making 10:16 54:13,14
+35:17 36:6,9 local 58:20 47:11 mirror 52:4
+56:7,16 36:17 37:10 logical 45:7 March 1:10 mirrored 52:6
+57:5,16 42:6,13,14,20 long 25:1 36:21 materials 54:25 mirroring 52:7
+43:4 44:7,10 longer 25:11 matter 1:12 missed 36:4
+54:1 56:25 19:12 25:9 38:11 46:13 moment 7:7
+22:24 lawyers 40:10 54:7 maximizing 26:14 32:23
+24:15,20 lease 42:5,8 41:12 mean 4:17 7:16 monitor 17:6
+57:5 leave 34:11 looks 25:6,7 8:7,25 13:7 monitoring
+legislative 53:23 19:15,17 25:17 53:12 54:2 move 33:24
+16:14 32:23,24 low 23:12 means 20:9 MVR 58:6
+38:8 liabilities 40:5,5 lower 7:10 42:21 36:20 37:11
+40:6,24 41:1,5 44:14,21 45:1 N
+liberal 32:14 Makar 1:16 2:3 55:13 57:22 narrow 52:19
+9:24 10:8 50:12 53:13 4:11,23 5:6 6:2 mechanism narrowly 3:22
+11:4,10 limitations 7:2,15,18,23 26:15 11:16 15:15
+19:7 23:2 53:10,19 8:12,17 9:3,7 mechanisms 49:23 52:22
+28:4,8 limited 20:3 9:16 10:14,18 26:18 58:16
+29:2,4,5 50:9 51:18 10:25 11:9,13 melting 33:9 natural 13:15
+32:11,20 line 25:7 55:4,4 11:15,25 12:6 34:4 22:8 57:24
+36:8 lines 25:17 12:14,20 13:7 mentioned 41:8 58:1
+38:2 liquidate 15:7 14:7,11 15:4 51:4 53:12 necessarily 29:2
+43:8,15 34:9 40:21 15:21 16:23 mentions 52:1 necessary 14:25
+45:9 liquidated 14:15 17:15,23 18:1 merely 55:17 27:7 35:2
+47:16,17 34:10 18:8,20 19:5 met 40:17 need 29:11
+49:5 liquidation 19:22 20:5,10 million 29:21 43:24,24 49:4
+56:12 14:14 15:12 21:2,6,16 23:1 43:20 44:1 49:7
+liquidations 24:19,22 25:4 millions 23:12 needs 27:21
+25:23 26:15 23:15,18 31:1 negotiated
+14:24 odds 29:6 32:4,8 paper 18:16,25 piece 18:24 56:11,14,17,21
+30:20 offer 34:25 part 8:9 16:11 place 5:3,17 56:22 57:12,18
+offered 27:22 16:17 36:5 6:11,12,20,23 57:22
+39:18 40:9 53:11,14 16:17 45:19 29:9
+ones 33:24 34:1 parties 37:12 placing 38:20 please 3:10 27:2
+opening 9:20 parts 35:24 4:20 5:4,16,20 4:6,23,25 5:2,9
+operation 26:9 27:7,19,20,20 6:13 7:4,25 8:3 13:20 15:11
+17:2 opportunity payable 11:11 12:3,6 13:16 30:6 41:22
+46:23 47:4,12 paying 39:10 13:18,24 14:5 42:19 45:7
+58:5,7,10 oral 1:12 2:2 3:7 payment 30:23 14:9 16:11 52:13 56:13,14
+34:14 43:2 penalties 47:24 27:15,23 28:6 policy 45:9
+23:24,25 48:3,5 34:19 28:17,18,21,22 position 9:20
+orderly 39:24 people 14:2,9 28:24 29:1,7 10:22 13:8
+21:23 ordinary 17:11 32:21 33:12 30:4,11 31:4,4 20:16 51:1
+31:15 percent 13:23 33:6,17,25 possession 15:9
+49:21 50:2 25:16 37:1,2,4,5,5,6 possibly 12:20
+11:21,22,24 39:3,8,13,19 post 21:24 36:14
+43:2 page 2:2 27:14 45:6 46:3 42:6,10,25 3:13 10:8
+41:14,15 52:1 47:18 43:3 44:2,8,13 20:15,16 26:2
+28:1,2,7 27:8,15,18 Petitioner's 50:7,11 53:12 47:8 50:9
+36:20 29:20 30:16 41:16 53:13,25 54:2 51:19 53:18
+31:5 34:10 Piccadilly 1:7 55:13,14,15,16 57:25 58:12
+58:15 provides 11:1 29:25 31:19 record 18:14
+14:1 16:4 36:16 42:11,19 42:4 45:12 48:1 recorded 18:6
+47:25 43:15 45:18 providing 29:11 questioning 19:11
+30:9,19 private 5:17 16:23 41:23 questions 26:20 24:17
+58:8 probably 17:3 49:11,17 52:4 quick 25:11 recover 12:12
+19:3 22:16,22 38:17 45:12,24 33:20,25 34:9 Reduction 50:21
+23:23 25:25 purchase 43:20 54:4,6 26:15,18
+procedure 32:4 17:25 regard 22:19
+procedures purpose 13:21 R 3:1 rehabilitation
+proceeding 43:2 39:9,11 40:25 range 26:3,4 reject 42:16
+14:18 20:14 53:14,14,18 22:8 38:6 42:2,18,24
+49:15,25 pursues 53:9 really 29:22 56:3 57:2,17
+9:21 10:20 proper 52:25 20:13 30:17 51:1 53:17 related 16:17
+13:10,22 properly 36:15 p.m 58:25 reason 6:15,25 relates 57:13
+18:9 24:6 property 4:13 7:11,24 10:12 relevance 9:17
+27:11 13:20 14:22 Q 10:15 11:3,14 relevant 37:14
+38:4 16:25 17:4 qualification 27:24,24 30:20 49:10,12
+41:9 39:2 43:9,18 9:24 31:18 33:2 reliability 23:11
+47:7,13 58:9 quarters 4:2 42:22 44:19 relief 29:11,16
+58:12,17 proposition 45:5 58:18 46:6 48:1 29:16 32:16
+25:13 58:4,11 7:9,9,13,22 reasonable 6:16 50:2 53:3
+45:21 47:15 10:19 11:20 reasons 8:7 13:2 remaining 54:13
+23:23 29:16 13:12 18:3 rebuttal 2:7 14:13,17,18,24
+32:12 Roberts 3:3 8:6 17:8,16 20:5 send 24:9,18 17:12 33:11
+8:22 9:4,12 21:10 28:4,9 sense 14:7 22:3 soon 17:13 24:8
+20:18 21:3 29:3,4 31:18 49:13,16,20 35:12 42:2
+44:20,24 45:4 48:23 49:1,2 Service 50:24 sort 12:2 13:8
+48:16,20 47:23 48:1,6,9 54:23 55:5,8 set 11:5 13:5 sorts 9:21
+54:11 57:16 scarcest 27:3 15:15 27:17 sound 24:12
+room 19:15 50:6 second 6:13 28:5 39:2,5 37:19 38:5,13
+25:19 27:17 27:17 31:11,13 shown 45:16 so-called 12:1
+52:25 35:24 36:2,9 shut 33:12 spawned 25:25
+40:24 41:7,10 significant 56:14
+sale 4:13 5:19 45:12,13,22,23 simple 3:16 41:20,22 48:2
+14:22 28:5 50:8,13,18 32:6 spent 27:19
+2:6 26:25 33:19 34:15 51:23 52:7,10 22:6 squeeze 35:16
+48:11 55:6,13 40:24 58:4 23:13 24:16,21
+23:21 37:22 39:1 45:20 situation 5:23 36:2 39:10
+50:4,23 46:23 47:11 Secure 34:8 6:5,9 20:1 51:1 58:21
+51:11 satisfy 42:25 secured 34:17 40:12 Stamps 26:11
+save 14:5 33:21 securities 13:19 situations 4:12 stand 19:23
+50:1 saying 9:13 12:9 security 13:18 six 19:18 35:8,22 42:24
+11:25 28:23,24 40:25 self-executing 39:4,22,23 10:1 11:6
+16:20 49:18 55:10,24 22:2 40:1,13 12:22 15:16,23
+33:5 Scalia 7:16 sell 19:16 33:5,7 Solicitor 1:16 16:8,18,24
+56:20 10:23 11:3,10 seller 18:3 solvency 17:8 17:1,6 19:6,9
+24:13 structured 7:25 talking 4:18 28:2 thousand-dollar
+29:25 studies 23:6 20:1 51:4,14 term 28:10,13 28:1
+31:5,14 study 25:4 talks 44:12 terms 7:4,4 26:7 three 4:2 8:8,10
+32:9 subchapter Tallahassee 38:15 46:4 11:7,11 17:18
+41:2 37:21 38:15,17 1:16 54:21 56:14 29:6 32:5
+47:1,2,7 subject 26:5 tax 3:12,18,24 test 3:16 13:15 35:24 51:21
+48:15 submit 54:9 4:5,9 6:1,12 15:25 34:21 58:18
+49:6 submitted 58:24 9:11,18 11:6 35:23 40:10,17 threefold 3:13
+50:5 59:1 11:11 12:11,12 testimony 50:17 three-quarters
+58:5,10 subpart 38:3 12:19,19 13:5 50:22 3:25 12:15
+22:16 40:20 16:14,18 17:10 54:10,11 58:22 thwarted 13:22
+suggesting 17:18,21,24 58:23 time 5:10 11:7
+35:20 18:7,15 19:3 theoretically 17:19 24:23
+suit 26:12 21:18,19 23:13 theory 24:12 28:25 30:1
+13:2,9 26:10 43:19 29:11,16,16 things 7:2 9:6 timely 43:9
+20:12 Supreme 1:1,13 30:1,3,6,13,24 21:7 22:24 title 20:23 21:4
+22:7,9 sure 7:15 9:7 31:14,17 32:16 24:12 25:16 told 31:21 48:10
+35:25 11:11 14:1 36:3 38:1 27:8,14,18 tomorrow 5:19
+37:16 15:5 17:19 39:10 40:24 38:20 41:6 5:20 19:16
+44:19 26:16 54:19 41:1,4 46:9,16 45:24 46:2 tort 34:12 40:5
+49:18,19 56:19,24 47:17 48:19 47:13 52:20,24
+51:22 surely 53:19 49:14,15 50:1 think 6:21 7:23 totally 4:17
+survive 16:19 50:5,20 51:18 12:8 13:13 track 22:17,24
+56:14,25 suspect 24:12 52:16 53:3 14:11 16:13 24:5
+58:2,15 system 3:24 11:5 58:15,21 19:16 20:11 transaction 13:4
+T 31:22 49:19 38:13 39:16 transfer 5:3,16
+17:21,24 tailored 39:20 taxing 16:15 50:5,21 52:12 10:9,9,20
+23:1,6 tailor-made 47:2 52:13,16 53:4 13:18,19 16:10
+24:2 40:7 tax-exemption 54:3 56:25 18:6 19:11
+46:12,17 take 16:6,12,17 49:11 52:5 thorough 6:9 20:16,22 21:4
+19:1 20:6,9 technique 53:23 thoroughly 5:22 21:11 25:15
+6:22 10:9 temporal 53:19 29:24 31:3 45:18,24 46:14
+talk 41:20 ten-million-do... thousand 24:1 transferred 5:19
+21:17 undermine virtually 24:17 wide 35:8 45:13,13,14
+31:3 57:21 virtue 24:16,23 willingness 46:10 47:20
+9:6,21 52:14 vote 27:22 wish 47:4 49:24,25 53:3
+13:11,13 underscores word 5:21 54:4 11:06 1:14 3:2
+29:9 W words 8:4 15:19 1127 53:20
+24:6 understand 4:8 wage 34:12 32:22 49:17 1127(b) 38:18
+27:11,12 8:24 10:18 wait 14:4,4 work 14:6,7 1129 4:20 27:17
+35:12 14:1,20,25 19:18 33:6,15 32:17 47:9 35:24 36:2
+47:7,8 18:4 20:18 44:1 56:8 37:4 40:24
+50:8,9 23:17 35:15 waivers 52:22 worked 5:19 1142(b) 36:24
+51:18 38:23 50:8 want 6:16,18,18 works 18:5 22:5 37:8 44:12,24
+56:8,16 57:5 6:22 7:7,14 30:3 1145(c)(2) 37:21
+understood 9:19 17:13 18:14,23 34:3 45:10 1146(a 57:14
+uniform 49:2,4 34:8,9 35:8 44:15 46:6,8
+50:20,25 29:10 30:7 1146(c) 3:12 7:4
+22:18 31:14 50:10 127 27:14
+$500 56:9
+unwound 13:5 19:23,24 27:6 0 1954 51:13
+1:6 3:4
+U.S.C 51:7 41:6 50:7 54:8 1
+32:15
+45:12
+25:2 v 1:6 weight 38:6,13 11 4:1 14:12,21 2008 1:10
+20:4,13
+35:13 verb 37:1 49:19 29:17 30:22 51:5,22 52:10
+victims 34:12 20:1 38:6,7 3
+36:13
+40:11,16
+13:21 25:24 45:15 53:8 38:15
+42:7
+44:8
+4:13 5:7
+31:11,13 8
+58:8 8 53:24
+14:22
+9
+42:9 43:1 90 46:1
+57:10
+36:10,11
+42:1
+55:10
+41:21
+54:15
+41:20
+41:15,20,20
+41:20
+25:7
+48:10
+51:5
+50:8
+52:2
+34:18
+25:8
+8:20 34:18
+36:25
+2:9
+45:23
+45:24
+25:9
+4:4 14:13 15:1
+21:17
+30:22
+39:18
+43:20
+51:22

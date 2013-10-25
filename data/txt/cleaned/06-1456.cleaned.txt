@@ -1,0 +1,1751 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+HUMBERTO FIDEL REGALADO :
+CUELLAR, :
+Petitioner :
+v. : No. 06-1456
+UNITED STATES. :
+- - - - - - - - - - - - - - - - - x
+Washington, D.C.
+Monday, February 25, 2008
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 10:02 a.m.
+APPEARANCES:
+JERRY V. BEARD, ESQ., Assistant Federal Public Defender,
+Fort Worth, Tex.; on behalf of the Petitioner.
+LISA H. SCHERTLER, ESQ., Assistant to the Solicitor
+General, Department of Justice, Washington, D.C.; on
+behalf of the Respondent.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+JERRY V. BEARD, ESQ.
+On behalf of the Petitioner 3
+LISA H. SCHERTLER, ESQ.
+On behalf of the Respondent 27
+REBUTTAL ARGUMENT OF
+JERRY V. BEARD, ESQ.
+On behalf of the Petitioner 54
+P R O C E E D I N G S
+(10:02 a.m.)
+CHIEF JUSTICE ROBERTS: We'll hear argument first
+today in Case 06-1456, Cuellar versus United States.
+Mr. Beard.
+ORAL ARGUMENT OF JERRY V. BEARD
+ON BEHALF OF THE PETITIONER
+MR. BEARD: Thank you, Mr. Chief Justice,
+and may it please the Court:
+Section 1956, the money laundering statute,
+requires an intent to minimize the criminal taint of
+unlawful proceeds. But the statute does not criminalize
+concealing money's existence. In this case,
+Mr. Cuellar's conviction should be reversed for two
+reasons. First, while the method of the transportation
+involved may have been designed to conceal, the
+transportation itself was not. Secondly, while Cuellar
+may have in fact concealed money itself, he did not
+conceal the nature, source, location, ownership or
+control of the unlawful proceeds.
+CHIEF JUSTICE ROBERTS: Well, he certainly
+concealed the location. They were secreted in the car,
+under the goat hair and everything else. The location
+of the money was certainly concealed.
+MR. BEARD: Chief Justice, in the broader
+sense location was concealed. The point to be taken
+here I think is this: An examination of the text itself
+reveals particular listed attributes, and location
+numbers among them. But what this suggests, the
+requirement that there be a design to conceal or to
+disguise these particular attributes, necessarily means
+a plan, if you will, for those -- excuse me -- for those
+attributes to be presented either to law enforcement if
+they intercept the money or inject it into legitimate
+commerce later. In other words, they'll be observed
+later. Location has independent meaning, but it's also
+understood within the context of the words that surround
+it. All money changes location, whether concealed or
+not. Location in this context means more than the
+location that the money was found in the car.
+JUSTICE BREYER: Maybe I should ask you this
+now because you've probably thought about it and I can't
+work it out. I don't see any problem with the word
+"location." I thought what you would say is it isn't
+the transportation in this instance that concealed the
+location, it's the method of transportation that sealed
+the location.
+MR. BEARD: Yes, Justice --
+JUSTICE BREYER: And if you read it that
+literally, then there is no problem in getting to your
+interpretation of the statute, or is there? Because
+since you didn't advance that argument, I thought maybe
+there's something I've not seen here.
+MR. BEARD: No, Justice Breyer; you're
+correct. There is a huge difference between the method
+of transportation and the transportation itself. And in
+this particular case, the difference is certainly
+implicated. What we understand the government to be
+arguing is that the method of the transportation
+signifies the listed attributes. But if that were the
+case it would effectively render all transportation of
+funds necessarily to be money laundering.
+JUSTICE STEVENS: May I just ask, what do
+you mean by method of transportation in this case? I
+mean, that it was in a car or the fact it was wrapped up
+in dirty -- in a dirty kind of container, and so forth
+and so on?
+MR. BEARD: Justice Stevens, what I'm
+referring to is certainly that it was in a car, but
+there was a secret compartment, goat hair was sprinkled
+around to try to throw off drug detection dogs, and
+those type of characteristics.
+JUSTICE STEVENS: But isn't that all just
+evidence that there was a motive to conceal the
+ownership?
+MR. BEARD: No, I don't think so,
+Justice Stevens. What we're looking at here is that the
+design of the -- the fact Mr. Cuellar may or may not
+have known, for example, who owned -- where the money
+was coming from or who owned it, that doesn't go to the
+design of the transportation. The design of the
+transportation itself is just to get the money to
+Mexico. I can say that abstractly, but in this case in
+particular because we know from the government's
+evidence that what this was was essentially the last leg
+of a drug trafficking deal. We know that this was
+repayment. So in this particular case at least, the
+purpose of this transportation was to get this money
+back as repayment money.
+JUSTICE GINSBURG: If he were a courier
+bringing the marijuana into the United States what would
+be the crime and the penalty?
+MR. BEARD: Justice, if he was bringing --
+JUSTICE GINSBURG: If he was bringing
+marijuana into the United States instead of returning
+with the proceeds?
+MR. BEARD: Well, presumably, Your Honor, it
+would be a drug trafficking crime. But of course, as I
+understand your hypothetical, he would possess marijuana
+at that time.
+JUSTICE GINSBURG: But now he possesses
+money. And you're not saying this is innocent behavior.
+It is criminal behavior, so what is the crime if not
+money laundering?
+MR. BEARD: We have suggested that
+Mr. Cuellar's, liability, liability or culpability, lie
+more properly under the bulk cash smuggling statute.
+JUSTICE GINSBURG: But that requires knowing
+that it's illegal to take out more than X amount of
+money, and there's nothing that indicates that the
+common courier would know anything about such a
+provision.
+MR. BEARD: Yes, you're correct that it
+would require inference as opposed to direct evidence.
+This is why in our reply brief, we gave an example of
+where the identical type behavior arose, not in Texas
+but in Alabama, and in fact the individual pleaded
+guilty to bulk cash smuggling.
+So I suppose my response would be this. The
+same weak inferences that supported the money laundering
+conviction in the government's eyes would be the same
+inferences that would support the cash smuggling.
+JUSTICE KENNEDY: If we take it that you
+concede -- I don't want to say that you concede. If we
+take it the government has a strong case under the
+smuggling statute, wouldn't it have an equally strong
+case under (i) of the statute that we're considering
+here, which doesn't require concealing or disguising the
+nature, just to avoid a transportation reporting
+requirement. That's the same as the smuggling statute.
+MR. BEARD: No, I don't think --
+JUSTICE KENNEDY: I know the government
+didn't indict under (ii).
+MR. BEARD: But I don't think it is the
+same, Your Honor, because the cash smuggling, the bulk
+cash smuggling statute, speaks to currency and of course
+this speaks to transactions. So I think that there
+is in fact --
+JUSTICE KENNEDY: You mean as the proceeds
+of an illegal transaction?
+MR. BEARD: Well, I'm distinguishing between
+currency and transaction because as I understand it at
+least transaction might implicate in a banking context,
+but cash is cash, if you will. So --
+JUSTICE GINSBURG: And it doesn't matter for
+purposes of the bulk cash statute that it was illegal.
+It could be perfectly lawful money.
+MR. BEARD: Yes, Your Honor, absolutely.
+That's certainly true.
+CHIEF JUSTICE ROBERTS: But why -- why isn't
+this transporting to conceal the location or the
+ownership in this sense? Suppose you have someone the
+police suspect of engaging in drug activities. They
+know he sold, you know, so much marijuana or whatever
+and got cash back. They think it's there, and they're
+going to investigate it, but this fellow comes in and
+they transport the proceeds across the border.
+Isn't that transportation to conceal the
+location or the ownership?
+MR. BEARD: As I understand it, Mr. Chief
+Justice, if the police are aware of it and then the
+flush, if you will, takes the money across, I think
+that's -- that's much closer. That's --
+CHIEF JUSTICE ROBERTS: Well, they think
+it's there, but they're not sure, and they -- you know,
+that would help them make their case, to find out that
+the guy they think sold the drugs has $80,000. So they
+get a search warrant or whatever, and it turns out he
+doesn't, because it's been transported to conceal the
+location or ownership.
+MR. BEARD: I would -- no, I think that
+the -- if the police were aware, if the police were
+aware and the kingpin were aware and put in place some
+type of design, if you will, to flush the money and
+perhaps to -- to Mexico under the circumstances you
+described, then you would be closer to, to having money
+laundering liability, although certainly I don't know
+that the courier necessarily would.
+However, I think it's very important to
+consider that the money laundering statute necessarily
+contemplates this notion of -- of detection or the money
+resurfacing, if you will. And the reason I think that's
+important is because it gives a particular meaning to
+those listed attributes. If the police were just --
+well, in this case, just stumbled upon it, and nothing
+was -- had been done and there was no evidence on the
+record to suggest that there was going to be anything
+done in this case other than repayment, money laundering
+liability is simply not going to arise.
+Now, I think that --
+JUSTICE BREYER: I still don't see why isn't
+what the Chief Justice said absolutely right? If you
+are transporting this money to get it out of town so the
+police can't find it, you're transporting it to conceal
+it. That falls right within the statute.
+MR. BEARD: I --
+JUSTICE BREYER: If you're transporting it
+simply to pay some courier somewhere else, you're not
+transporting it to conceal it. And if in fact the
+transportation is done in a way that conceals it, that's
+beside the point because the statute is interested in
+transporting it in order to conceal it.
+MR. BEARD: I think that --
+JUSTICE BREYER: What is wrong with that?
+MR. BEARD: I think what's wrong, Your
+Honor, is that the -- the statute focuses on the
+transportation or some of the other transfers of
+transmission and specifically is coupled, if you will,
+with this notion of -- of the attributes themselves. I
+don't know that it's -- it's simply too broad, in fact,
+to say that all transportation's will necessarily incur
+the money laundering liability.
+JUSTICE SCALIA: I -- maybe I don't
+understand the -- I thought he was helping you, but
+maybe --
+(Laughter.)
+JUSTICE SCALIA: Were you helping him? I
+thought so.
+(Laughter.)
+JUSTICE GINSBURG: It sounds like he was
+making the distinction that didn't the dissenting judge
+make between -- the dissenting judge says transporting
+to conceal is no good, but concealing to transport is
+okay.
+MR. BEARD: That -- you're correct, Your
+Honor, and that is, I think, a point to be made. The --
+Judge Smith below did try to highlight the fact that if
+you transport to conceal, then you're beginning to
+implicate money laundering liability.
+JUSTICE ALITO: Suppose someone transports
+money across a border and is recorded surreptitiously on
+tape explaining exactly why the person did it, and the
+person says: The reason why I'm transporting this
+across the border is because I know that when I get it
+to the destination country, that's a place where people
+use huge amounts of cash for bank deposits, for
+purchases; and, therefore the act of transporting it
+from the United States to the other country will
+disguise the nature of the cash as drug money.
+Would that fall within the statute?
+MR. BEARD: No, I don't think so,
+Justice Alito, and the reason I don't is because that
+-- what you've described implicates potential money
+spending, this notion that the money is easier spent.
+But without more, money spending would not equate to
+money laundering. That's --
+JUSTICE ALITO: Why wouldn't that fit the
+literal language of the statute? It's a transportation
+across the board with the design to conceal the nature,
+i.e., that it's drug money, of this money?
+MR. BEARD: I'm not sure, Justice, that
+you've actually concealed the nature. If the money was
+going -- if the money was dirty and going across dirty,
+it remained dirty and just happened to be spent. But --
+JUSTICE SOUTER: Yes, but it doesn't remain
+dirty simply because it goes to a place in which the
+appearance of this kind of cash does not have the dirty
+appearance that it does at home. Why -- why isn't
+that the correct answer?
+MR. BEARD: I --
+JUSTICE SOUTER: Why doesn't that make it
+laundering?
+MR. BEARD: Again, I don't know that there
+has been -- as I understood the hypothetical, I don't
+think that there's been any suggestion of a design to
+conceal, the why. You're just taking dirty and you're
+--
+JUSTICE SOUTER: No, but the design to
+conceal -- maybe I misunderstood the hypo, but I thought
+the design to conceal was you conceal the dirty
+character of the money by taking it to a place and using
+it in that place where use of large amounts of cash,
+whether for bank deposits or spending in luxury stores,
+does not have the dirty implication, the dirty
+appearance that it does in the United States.
+So, why doesn't that therefore satisfy the
+concealment?
+MR. BEARD: I -- Justice Souter, I think
+that the answer to the question is here. The statute is
+designed to take -- or purposed to take these dirty
+proceeds, unlawful proceeds, and to cleanse them so as
+to prevent their injection into streams of legitimate
+commerce.
+What you've described as spending is
+admittedly spending, but I don't think that the spending
+that's -- that you've contemplated there basically
+implicates the core concern, if you will. The money --
+JUSTICE SCALIA: You don't have any evidence
+like that here anyway, do we? Do we know that this was
+going to "Spendy Land" where everybody has a lot of
+money? Did we know that?
+MR. BEARD: Justice Scalia, what we know,
+because the government's evidence established it, is
+that the money was being sent back to Mexico to repay
+--
+JUSTICE SCALIA: Does everybody have a lot
+of money in Mexico? Is that --
+MR. BEARD: Well, I would hazard to say no,
+of course, but the record --
+JUSTICE ALITO: Was there -- was there
+evidence about the nature of the Mexican economy?
+MR. BEARD: There was. There was, Your
+Honor.
+JUSTICE ALITO: What was the evidence?
+MR. BEARD: I'm sorry?
+JUSTICE ALITO: What was the evidence?
+MR. BEARD: The evidence that you just asked
+about went to that it was easier to spend money in
+Mexico.
+JUSTICE ALITO: Wasn't there an expert who
+said that Mexico has a cash economy?
+MR. BEARD: Yes, yes. And it -- and --
+JUSTICE ALITO: And what does that mean?
+MR. BEARD: What I take it to mean --
+JUSTICE ALITO: Does it mean people can
+spend a lot of cash without raising eyebrows?
+MR. BEARD: Certainly more than here. That
+was what I think that the evidence was offered for. And
+the same expert, of course offered, you know,
+established -- or the government established through the
+same expert that the purpose of this particular
+transportation was to complete the transaction, the drug
+transaction.
+JUSTICE ALITO: In your brief, you argue
+that there has to be a design to create the appearance
+of legitimate wealth. Are you drawing back now from
+that argument?
+MR. BEARD: No, and, of course, we are well
+aware that those words are not found in the statute, nor
+do we suggest that they were. But what we have
+suggested is simply that that's, if you will, shorthand
+for describing what necessarily occurs if the
+attributes, the listed attributes, are obfuscated. That
+is the cleansing mechanism.
+JUSTICE ALITO: Well, why would that be so?
+Suppose -- I mean, just take -- modify my hypothetical.
+What this person says on the tape is: I'm sending this
+money across the border because I know that if it --
+once it gets there, it will be harder to establish my
+ownership of it. People will still know that it's drug
+money perhaps, but they -- it will be harder to
+establish my ownership of it.
+Now, would that fall within the statute?
+MR. BEARD: Well, at that point, yes,
+because I think --
+JUSTICE ALITO: But there wouldn't be an
+attempt to create the appearance of legitimate wealth
+there then, would there?
+MR. BEARD: Well, to the extent that the
+individual who has been taped is contemplating the
+money's resurfacing, I think that there would be. It
+would be not legitimate wealth, though. And perhaps I
+need to drive this point home. It would be less dirty.
+In other words, there's not a requirement that the dirty
+money necessarily be made clean or a description, but
+that the dirty money be made less dirty. And that I
+think is -- is what we're talking about.
+JUSTICE SCALIA: Does the statutory purpose
+have to be the only purpose or the principal purpose? I
+mean, I could conceive that the principal purpose of
+this transportation was to give the money back to the
+fellow who gave the drugs, to pay the provider of the
+drugs. I assume that would be the principal purpose.
+But what if you know that when the -- when
+the provider of the drugs is paid, he'll be able to
+spend this cash easily in Mexico, which has a cash
+economy? And let's assume that the latter is enough to
+satisfy the purpose requirement of this statute. What
+-- what would be the result?
+MR. BEARD: If we -- well, Justice Scalia,
+if we --
+JUSTICE SCALIA: If you assume a primary
+purpose to pay off the --
+MR. BEARD: Right. If we assume that the --
+that the latter, as you just said, satisfies the
+statute, then you have a conviction.
+But we certainly don't assume that, because
+that implicates money spending, and money spending
+hasn't -- hasn't been held to be money laundering.
+JUSTICE SCALIA: Even though that wasn't the
+real purpose -- I mean, the real purpose was to pay off
+this fellow, who otherwise might come to hurt you.
+MR. BEARD: Yes, absolutely.
+JUSTICE SCALIA: But once you do pay him
+off, you know that the money is going to be ready
+spendable.
+MR. BEARD: Well, certainly in this case, we
+don't have any evidence that Mr. Cuellar knew any such
+thing. If you were to remove it from the confines of
+the Cuellar case, I think you -- your hypothetical does
+come closer to implicating liability; but that's simply
+not what we have here, at least.
+JUSTICE STEVENS: Now, what you understand
+the language "disguise the nature of the proceeds of
+this specified unlawful activity" to mean, does that --
+is that satisfied by merely proof that it is proceeds of
+unlawful activity? Or do you have to tell that -- what
+is the word "nature" talking about?
+MR. BEARD: No, Justice Stevens. It would
+again, I think, require more. If all that were required
+is to show that there was unlawful proceeds --
+JUSTICE STEVENS: Well, that's what it seems
+to say. What I'm asking is: What do you think it
+means?
+MR. BEARD: Well, what I think it means is
+that there has to be some -- the transportation or what
+have you has to be purposed, designed, to take the
+nature and obfuscate it. And this --
+JUSTICE STEVENS: But I'm just asking about
+the word -- the meaning of the word "nature." What is
+the nature, other than the fact it's proceeds of
+unlawful activity?
+MR. BEARD: That it would -- I think that it
+would -- "nature" is perhaps the first and foremost of
+the attributes, but I think that it means, that it means
+dirty, unclean.
+JUSTICE STEVENS: "Dirty" in some sense
+other than being proceeds of specified unlawful
+activity?
+MR. BEARD: Oh, okay. I don't know.
+JUSTICE STEVENS: I just don't know what
+that means other than that it is proceeds of unlawful --
+MR. BEARD: When I have -- when I read the
+attributes and contemplate --
+JUSTICE STEVENS: I'm just talking about the
+one attribute, "nature."
+MR. BEARD: Right.
+JUSTICE STEVENS: I'm trying to understand
+what you think that means.
+MR. BEARD: I have thought of it as meaning
+basically dirty.
+JUSTICE STEVENS: Proceeds of unlawful
+activity.
+MR. BEARD: Proceeds of unlawful activity
+are the --
+JUSTICE STEVENS: It's always dirty.
+MR. BEARD: There may be -- well, yes, I see
+where you're going. Is there -- what is the independent
+meaning of "nature." I think that --
+JUSTICE GINSBURG: Why isn't it simply to
+change the nature from being drug money to look like
+it's apparently innocent? I mean the change of the
+nature -- the nature going in is it's always dirty.
+It's drug money. And the purpose of the concealment is
+to get it converted to some different nature, i.e.,
+clean money.
+Isn't that what "disguise the nature" means?
+MR. BEARD: I don't -- I brook no quarrel
+with that. I mean, yes. I'm just -- what I was simply
+suggesting --
+JUSTICE STEVENS: But the verb is not
+"transformed." The verb is "disguise" or "conceal."
+MR. BEARD: That's true, and the meaning
+certainly of "conceal" would be to bring it forward with
+maybe no explanation of the taint, if you will. And, of
+course, "disguise" would be to maybe create a false
+explanation of where the money is --
+JUSTICE KENNEDY: Was there a reporting
+requirement for -- for this shipment. If he had gone to
+the border, would he -- well, then, a lot of what you're
+arguing about isn't very important because they could
+just indict under (ii).
+MR. BEARD: To avoid a transaction-reporting
+--
+JUSTICE KENNEDY: To avoid a
+transaction-reporting requirement, and you wouldn't have
+to go through all this "nature" thing.
+MR. BEARD: Your Honor, as I understand it
+he would have a currency-reporting requirement, had he
+been going South.
+JUSTICE KENNEDY: You indicated that there
+is such a requirement.
+MR. BEARD: A currency-reporting
+requirement, yes. I'm not sure that there is a
+transaction-reporting requirement. I think that that --
+JUSTICE KENNEDY: Oh, I see.
+MR. BEARD: -- may implicate different
+considerations.
+JUSTICE GINSBURG: And if he -- if he didn't
+know about the currency-reporting requirement, then he's
+not guilty under that statute because it requires
+knowledge.
+MR. BEARD: Yes, Your Honor, I understand.
+And so where we are left is he may not be guilty under
+money laundering and perhaps, perhaps not under bulk
+cash smuggling. But that in itself does not necessitate
+a broadly interpreted understanding of the money
+laundering statute.
+JUSTICE GINSBURG: If he's not -- if he
+doesn't fit into either category, then there's no crime?
+MR. BEARD: That's a possibility, yes,
+absolutely.
+CHIEF JUSTICE ROBERTS: Counsel, can I ask
+you to go back to Justice Stevens's line of questioning?
+If -- do you conceal the nature of proceeds if you
+conceal the proceeds?
+MR. BEARD: No, and I think that --
+Mr. Chief Justice, I think that it's important to
+understand, for example, that hiding money is not
+necessarily the same thing as -- I mean, concealing
+money is not necessarily the same thing as concealing
+the location. And I think you could make the same type
+of analysis in the other --
+CHIEF JUSTICE ROBERTS: Well, that -- that
+doesn't seem to follow. I understand the argument with
+"nature." In other words, you're not concealing the
+nature; it's just not there. But when you're hiding it,
+you are concealing the location.
+MR. BEARD: Yes. But, again, I think that
+the term "location," which is understood in the context
+of the words surrounding it, if I take money and hide it
+in my --
+CHIEF JUSTICE ROBERTS: Well, that gets me
+to a question. Several times you've referenced the
+attributes. Are you saying that the statute would have
+a different meaning if it just said "location"?
+MR. BEARD: What I'm suggesting, Chief
+Justice, is that if the -- that the statute would have a
+particularly different meaning from the one that the
+government wants if the attributes just listed existence
+of the money. There is a huge difference between hiding
+money or hiding the location of the money.
+If you just had location by itself, I'd be
+making the same argument; but there's a huge difference
+between hiding money or hiding the location.
+CHIEF JUSTICE ROBERTS: Well, you better
+explain that a little more for me.
+MR. BEARD: All right, then. If I --
+CHIEF JUSTICE ROBERTS: Because they seem to
+me the same.
+MR. BEARD: If I -- no. I think that the --
+hiding the location suggests that the individual is
+contemplating the money resurfacing later, either for
+injection into commerce or for -- perhaps if the police
+discover it, and they're trying -- the launderer, if you
+will, is trying to make sure that the money would
+survive that subsequent --
+CHIEF JUSTICE ROBERTS: Okay, so hiding
+location assumes it's going to come up later.
+MR. BEARD: Yes.
+CHIEF JUSTICE ROBERTS: And if you just hide
+the money, you assume he's just going to leave it
+somewhere and forget about it?
+MR. BEARD: No. No, Mr. Chief Justice. If
+you just hide the money, that would encompass just
+hiding money, for example, in the back yard of your
+house with -- with -- or in a tin can or under a
+mattress or whatever. It's a much broader -- broader
+concept.
+And I think that that's really what is at
+play here because, to the extent that the government is
+focusing on the method or -- of the concealment here,
+they're -- they're implicating that type of behavior, if
+you will, and saying it's sufficient to support a money
+laundering conviction.
+JUSTICE ALITO: But what if there is a wire
+transfer to a bank in another country because that bank
+has bank secrecy laws that will make it impossible to
+ascertain the location of the money once it is there?
+Does that fall within the statute?
+MR. BEARD: At this point, no, Justice,
+because you haven't suggested that there was any type of
+design, any intent to disguise or conceal. You've just
+suggested it went to another place. If I sent it to an
+account --
+JUSTICE ALITO: If that's the purpose. If
+the person says, I'm sending this to blank country
+because they've got bank secrecy laws there that make it
+impossible to find this money once it gets into their
+banking system.
+MR. BEARD: No.
+JUSTICE ALITO: That's not --
+MR. BEARD: On those facts, no, I don't
+think so. Now, if I were sending money to accounts in
+the jurisdiction you've described, and perhaps with a
+little bit more, different names on the accounts or what
+have you, then I -- then I think a different result.
+But if I'm just sending from my account here to my
+account there, then no.
+JUSTICE GINSBURG: Would you say the same
+thing for -- if you just put it in a safe deposit box in
+a bank in the Bahamas?
+MR. BEARD: I would make the same -- my
+answer would be the same without more, Your Honor.
+CHIEF JUSTICE ROBERTS: Well, the "more" is
+they don't hold it under your name. They hold it under
+a numerical account number. Then that changes
+everything?
+MR. BEARD: It very well may. At least -- I
+don't know that it changes everything, but it very well
+may lead to a different result. But you just modified
+the hypothetical.
+What I'm -- what I'm suggesting is that if
+you're just putting money in a safety deposit box or
+this account or under the mattress or in the hole in the
+back yard --
+JUSTICE SCALIA: Because the police can't
+find it in that account even if it is still under your
+name. In an account here the police would be able to
+find it. In an account in the Cayman Islands, they
+won't be able to. Isn't that -- isn't that transporting
+it in order to conceal, to conceal it?
+MR. BEARD: Justice, no, I don't think so,
+and I'll briefly answer and try to come back to you in
+rebuttal.
+But I think that it's important to
+understand the money laundering statute is not a
+detection statute. That's not where the focus of the
+statute rests.
+Mr. Chief Justice, if I can reserve the
+balance of my time.
+CHIEF JUSTICE ROBERTS: Thank you, Mr.
+Beard.
+JUSTICE SCALIA: I don't understand that, so
+I hope you will explain it later. It doesn't mean
+anything if it's not a detection statute.
+CHIEF JUSTICE ROBERTS: Ms. Schertler.
+ORAL ARGUMENT OF LISA H. SCHERTLER
+ON BEHALF OF THE RESPONDENT
+MS. SCHERTLER: Mr. Chief Justice, and may
+it please the Court:
+The international concealment money
+laundering statute contains no appearance of legitimate
+wealth requirement, nor does it demand proof that the
+illegal proceeds will be cleansed after they cross the
+United States border. Petitioner's construction of the
+statute is not supported by its tests and would defeat
+its purpose.
+What the statute does require is proof
+beyond a reasonable doubt that the defendant knows that
+he has illegal proceeds and that he knows that the
+transportation across the border of those known illegal
+proceeds is designed in whole or in part to conceal or
+disguise one, at least one, of the facts in the statute
+about those proceeds. The phrase "designed in whole or
+in part" directs a full examination of the plan, of the
+way in which the cross-border transportation of these
+known illegal proceeds was planned out.
+JUSTICE ALITO: Does the word
+"transportation" mean the act of transportation across
+the border or the method of transportation?
+MS. SCHERTLER: The word "transportation"
+itself means the carrying of something from one place to
+another. The phrase "designed in whole or in part,"
+suggests that one should look at the entire plan, the
+way that this transportation was conceived or planned
+out in the mind, which would include, we would submit,
+the method that was -- that was chosen to be used for
+this transportation, the individual who was designated
+to conduct this transportation of known illegal proceeds
+across the United States border, and, yes, reasons for
+conducting that transportation as well.
+But it is not limited, as Petitioner would
+suggest, to just one fact, that being what's going to
+happen to the funds after the transportation is over.
+JUSTICE BREYER: You go back to
+Justice Alito's question. I agree with you that you
+could read this as including a prohibition against a
+method of transportation which method is to hide the
+money. You could. But you could also read it the way
+that the question suggests, to refer only to the
+transportation. So you transport it physically in order
+later to hide it.
+Now, the difference between the two is if we
+accept yours, which is the broader, this statute
+includes everything that has nothing to do with the
+common word "money laundering." Any time you hide
+something, for whatever reason you hide it, to take it
+to pay the couriers, you're money laundering. Any time
+you run a gambling operation and the people stick the
+money in the wad of their shoe, they're money
+laundering.
+I mean, why would you think Congress would
+want that narrow reading when it can be read to focus
+much more closely on money laundering just by reading it
+literally for what it says?
+MS. SCHERTLER: Your Honor, several
+responses to that, to that question.
+First of all, what's the purpose -- if we
+want to look beyond the words "designed in whole or in
+part" in the context of the international money
+laundering statute to try to discern what the purpose
+was of the statute, the purpose of this statute was to
+prevent criminals from taking their proceeds abroad
+where they would be outside the reach of all of these
+controls that have been set up in the United States in
+order to detect illegal proceeds and use those proceeds
+to trace back to the crimes and the criminals that
+generated them.
+JUSTICE SOUTER: But if that's all they were
+getting at, they wouldn't have to have this
+international component at all, because if you totally
+eliminated the "to or through" requirement and you were
+able to focus or properly focus solely on the method of
+the transportation, et cetera, then you would cover not
+only cases in which the concealment ultimately would
+take place by crossing a border, but you would pick up
+cases in which the concealment would take place even
+within the United States; and that would certainly be in
+the government's interest.
+But if you add, if you say, well, but this
+is limited by a to or through requirement, then it
+suggests, it seems to me, as Justice Breyer's question
+does, that it must -- the statute must be getting at
+what happens when it crosses the border as opposed to
+the means of crossing.
+What's your answer to that?
+MS. SCHERTLER: My answer to that, Your
+Honor, is that that would have -- that would defeat the
+purpose for which this statute was enacted. The -- the
+premise of this statute was that once illegal proceeds
+are taken abroad, taken outside of the United States
+system, we lose control of them, we lose the ability to
+find them, and we will have no idea --
+JUSTICE SOUTER: But that would be -- that
+would be equally true and an equally appropriate
+objective without the "to or through" requirement in
+there. In other words, you don't have to have the "to
+or through" requirement in order to give the government
+a tool for exactly the purpose that you describe.
+MS. SCHERTLER: And there -- there could
+have been drafted a statute that was even broader than
+this one in that respect. But the way -- the reason
+that Congress imposed the "to or through" requirement is
+that it knew -- is that that was when law enforcement in
+the United States would lose the ability to use ordinary
+investigative methods to find the proceeds of illegal
+fraud.
+JUSTICE KENNEDY: Then what you're saying, I
+suppose, is that the movement of funds, if they're
+illegal proceeds, outside of the country is a per se
+concealment?
+MS. SCHERTLER: No, Your Honor. We do not
+--
+JUSTICE KENNEDY: Give me an example of when
+you take money outside of the country that's illegal
+money --
+MS. SCHERTLER: Yes.
+JUSTICE KENNEDY: -- that's not a
+concealment?
+MS. SCHERTLER: Yes. Let's say you have a
+drug dealer who conducts a number of drug transactions
+on one side of the border, takes his daily take, puts it
+in his pocket or his wallet and crosses the border into
+Mexico. Based on that evidence alone, the government
+would not be able to show beyond a reasonable doubt that
+merely taking those illegal proceeds, known illegal
+proceeds, putting them in your pocket, that that was
+designed to conceal the location, that there was a
+plan --
+JUSTICE SCALIA: He puts it in his shoe,
+okay. Because it's a lot, he puts it in his shoe.
+MS. SCHERTLER: That would --
+JUSTICE SCALIA: That would be enough,
+wouldn't it?
+MS. SCHERTLER: That would -- yes. Your
+Honor, that would permit the inference. Now, of course,
+ultimately --
+JUSTICE SOUTER: What if he gives it to his
+brother and says take it across for me, will you?
+MS. SCHERTLER: Well, I don't think that
+that alone is -- is enough, Your Honor.
+What the statute asks is can you find --
+JUSTICE SOUTER: If he tells his brother to
+put it in his shoe?
+(Laughter.)
+MS. SCHERTLER: That would -- that would --
+that would get close.
+CHIEF JUSTICE ROBERTS: Why isn't that
+enough? If, for example, he's being -- he thinks he's
+being watched by law enforcement because they know he's
+up to something, but his brother isn't, why isn't that
+concealing?
+MS. SCHERTLER: With that additional
+evidence, absolutely. I think there would be a basis
+for a jury to find beyond a reasonable doubt that that
+was designed, that that was designed to conceal.
+JUSTICE KENNEDY: Well then, let me back up.
+Then let me add this. It seems to me that you're
+saying, as you have to say, that any movement of illegal
+funds outside the country which is concealed is per se
+concealing a relevant attribute?
+MS. SCHERTLER: We don't go that far, Your
+Honor. As I said --
+JUSTICE KENNEDY: But if you do.
+MS. SCHERTLER: -- you need to find --
+JUSTICE KENNEDY: I think you have to go
+that far to make the case you're making.
+MS. SCHERTLER: No, not at all. I mean,
+what -- Congress could have said every cross-border
+transportation of illegal proceeds is covered. And they
+did not. What they did was they set up this filter
+for the ones --
+JUSTICE KENNEDY: But you're always
+concealing the control. You're always concealing the
+ownership. You're always concealing the location if
+it's in your shoe or in the bottom of the car.
+MS. SCHERTLER: I don't -- you have -- they
+have to find a design to conceal.
+JUSTICE BREYER: He purposely puts it in his
+shoe, okay.
+MS. SCHERTLER: Yes.
+JUSTICE BREYER: It's a design. He knows
+he's going to do it. So -- and you're saying, I take
+it, 100 percent of the time that's illegal. If you're
+not saying that, I don't understand what you're saying.
+MS. SCHERTLER: No --
+JUSTICE BREYER: If you are saying that, I
+don't know why they call this statute "Laundering of
+Monetary Instruments." Why didn't they call it "shoe
+hiding"?
+(Laughter.)
+JUSTICE SCALIA: And you're basically
+confronting face-on the dissent here, which drew a
+distinction between transporting to conceal and
+concealing to transport. And all you have here is
+concealing to transport, and the question is whether
+that violates the statute.
+I agree with Justice Breyer that if this is
+a statute directed at concealing to transport, it's a
+funny name for it to think that it's a money laundering
+statute.
+MS. SCHERTLER: Your Honor, the title of
+this statute, "Money Laundering," this is exactly
+what -- among the conduct that Congress had in mind when
+it enacted and when it confronted money laundering in
+1986. It saw money laundering as the variety of ways in
+which criminals prevent the detection of their illegal
+proceeds and thus are able to profit from their crimes.
+It covered a wide range of conduct that included
+converting, yes, illegitimate wealth into legitimate
+forms through very complex means.
+But Congress was also concerned about
+criminals taking their proceeds across the border
+surreptitiously --
+JUSTICE GINSBURG: Were they concerned that
+this was a 20-year penalty, not what you're talking
+about, the person who gets -- who is the drug dealer,
+but all that this evidence shows is that we have a
+courier. We don't even know if he knows who put the
+money in the car. We don't know if he knows the -- who
+the person is that he's to deliver the money to.
+So on your theory, all you have to prove is
+that this defendant drove a car in which illicit money
+was hidden in order to get it out of the country. No
+grand design. All he is is a courier.
+MS. SCHERTLER: He needs to know that part
+of the design, part of the plan of that transportation,
+was to conceal or disguise --
+JUSTICE GINSBURG: That's a -- that's a lot
+of fancy language. All he knows, in fact, if he's just
+a courier is that somebody gave him money to take this
+car in which drug money is hidden across the border.
+MS. SCHERTLER: And the use of that courier
+also was part of a design to conceal or disguise the
+ownership and control --
+JUSTICE GINSBURG: Not his design. His
+design is only -- I mean, he's just a drug courier, and
+I think that's what -- that's a problem with your
+interpretation of the statute. One can think of the
+kingpin having this elaborate plan, and when it gets to
+Mexico it's going to go into this bank and that place.
+But here the defendant is simply a courier, and on the
+government's theory anyone who transports hidden money
+to get it out of the country, who drives the car, just
+the driver, is a money launderer.
+MS. SCHERTLER: Justice Ginsburg, the --
+Congress's purpose here was in getting at exactly this
+kind of conduct by third parties in particular, because
+when you use a third party that violates another purpose
+at which the statute is directed: using third parties
+to conceal who the true owner in control of the proceeds
+is.
+JUSTICE SOUTER: I suppose then the brother
+should be -- giving the money to the brother should
+satisfy the statute.
+MS. SCHERTLER: It --
+JUSTICE SOUTER: Because if I'm -- if I'm in
+the drug business and my -- my brother is an
+international social worker or something, I'm certainly
+going to conceal when I give it to him and he carries it
+across the border.
+MS. SCHERTLER: Yes, Justice Souter, that
+would be another example of using a third party so that
+a -- so that one part of the design of that
+transportation is to conceal the ownership and control
+of the proceeds.
+And in response to Justice Ginsburg's
+question, Congress also -- well, in the sentencing
+guidelines system now, the guidelines takes account of
+whether you have the individual who is also engaged in
+the underlying offense or whether you have a third party
+who had not been involved in the underlying offense.
+But no -- no matter how you see it, this was
+precisely the conduct that Congress is getting at. It
+saw that the only way to -- to get at crime -- one way
+that was very important to it was to get at the money
+and in order to get at the money you need to be able to
+counteract the ways in which the criminals would prevent
+law enforcement from getting at the money.
+JUSTICE ALITO: Suppose the person who set
+all this up lives in Mexico and the sole intent of that
+person was to bring the money back to him in the place
+where he lives? That would -- would that be money
+laundering by him, to start out with?
+MS. SCHERTLER: If he had designed this
+transportation, yes, Your Honor, because the whole --
+the design of this transportation was to conceal or
+disguise all five of the attributes of these illegal
+proceeds.
+JUSTICE ALITO: Isn't that a question of --
+isn't that a question of his intent?
+MS. SCHERTLER: I --
+JUSTICE ALITO: It's not the effect of the
+design, is it? It's the intent of the design.
+MS. SCHERTLER: It -- it is -- what was --
+what was the plan? What was the conception? What
+decisions were made about why and how we get these
+proceeds from point A to point B.
+JUSTICE SCALIA: Everybody knows he's a drug
+dealer, back in Juarez or wherever he lives in Mexico.
+MS. SCHERTLER: But by --
+JUSTICE SCALIA: He's famous in town. He's
+a well respected man because he's a big drug dealer.
+And he has just arranged get the money delivered to him
+so that he can spend it. What -- what's concealing
+there?
+MS. SCHERTLER: And he's arranged it in a
+way, if we're assuming the transportation here, so that
+his ownership and control of those proceeds will be
+disguised --
+JUSTICE SCALIA: It won't be disguised.
+MS. SCHERTLER: -- during the course of the
+transportation by saying, I'm going to select a third
+party.
+CHIEF JUSTICE ROBERTS: During the course of
+the transportation. That is not what you say in your
+brief. I'm looking at page 41 and what you say is: "If
+no independent evidence establishes that concealment or
+disguising of the pertinent attribute of the proceeds
+would occur at the point of destination, then a
+factfinder would lack a reasonable basis for inferring
+that the transportation was designed to conceal or
+disguise."
+In other words, in the hypothetical
+Justice Scalia just gave -- in other words everybody
+knows he's a drug dealer, he spends the money -- there
+is no concealment or disguising the pertinent attribute
+at the point of destination.
+MS. SCHERTLER: That -- the sentence,
+Mr. Chief Justice, that you just read is the last in a
+series of "if's" that we lay out in our brief, where we
+-- where we assert that at any point in the
+transportation a jury could find evidence of a design to
+conceal or disguise. And that last sentence says if
+they haven't found any evidence concerning the means and
+the method and the person used for the act of
+cross-border transportation, and if in addition there
+was no evidence of what would occur at the point of
+destination, then there would be no evidence.
+CHIEF JUSTICE ROBERTS: So there is no money
+laundering if they conceal the proceeds in a suitcase
+that's in the trunk of the car? Is that enough?
+MS. SCHERTLER: Well, that would --
+CHIEF JUSTICE ROBERTS: Is that concealing
+the money?
+MS. SCHERTLER: If we're talking about just
+the attribute of location, use of a suitcase I would say
+provides some evidence that there was a design to
+conceal the location of those illegal proceeds during --
+as part of this cross-border transportation.
+CHIEF JUSTICE ROBERTS: Does use of a
+suitcase provide that evidence?
+MS. SCHERTLER: I think it would provide
+basis for a jury to make --
+CHIEF JUSTICE ROBERTS: When I use a
+suitcase I'm using it to carry my clothes, not to
+conceal them.
+MS. SCHERTLER: And if the jury were
+presented with testimony that that was the design --
+that the only design, the only purpose, the only plan in
+using that suitcase was to use it to secure money for
+travel, then we would not have met our burden, but based
+solely on the circumstances.
+JUSTICE KENNEDY: Well, your answer to
+Justice Scalia's hypothetical is still not clear to me.
+It -- it seems to me your answer should be yes, because
+he's concealing the ownership as of the time he goes
+across the border, which brings me to my earlier
+question, if once it's concealed, the statute is always
+-- is always valid.
+Then you indicated that oh, well, what
+happens at the destination is very important. Then we
+had Justice Scalia's hypothetical. I'm not sure where
+you came out on that.
+MS. SCHERTLER: Oh, our -- let me -- let me
+be clear. I think even if one were to hypothesize that
+there would be no effort whatsoever to conceal the money
+at the point of destination, but a jury could find that
+the transportation itself was designed in other
+respects -- in its method, in its means -- to conceal or
+disguise an attribute of the proceeds, that would be
+enough to find that it was designed in whole or in part,
+in any part --
+JUSTICE KENNEDY: So Concealment,
+concealment during the transportation is always a
+concealment of an attribute under the statute. That has
+to be your position.
+MS. SCHERTLER: Concealment -- yes. The
+only exception that we make would be in the Chief
+Justice's example, if the jury were to find that there
+was no design to conceal the location, for instance, to
+prevent its discovery; it was only -- my only design was
+to secure this for transport, like I put my money in my
+wallet to do that.
+JUSTICE STEVENS: May I ask you a broader
+question, forgetting the text of the statute for just a
+minute, because the text is extremely broad. Do you
+think the question whether there's an attempt to create
+an appearance of legitimate wealth has anything to do
+with the analysis? The question presented is whether
+there must be such a --
+MS. SCHERTLER: The question presented --
+JUSTICE STEVENS: And you're arguing that's
+totally irrelevant and that -- and also that that
+familiar title, "Money Laundering," totally irrelevant?
+MS. SCHERTLER: Your Honor, we disagree that
+there is any -- there is no appearance of legitimate
+wealth requirement in the statute. This --
+JUSTICE STEVENS: There is no -- okay.
+MS. SCHERTLER: This statute --
+JUSTICE STEVENS: And the term "laundering"
+really should be totally ignored?
+MS. SCHERTLER: The term "laundering" under
+-- when it is understood to mean the way Congress meant
+it and the way Congress was viewing this conduct is much
+broader than Petitioner suggests.
+Laundering is the many ways in which
+criminals prevent detection of their proceeds. It would
+include and Congress certainly had evidence before it --
+JUSTICE STEVENS: I understand you could
+find a violation of it, but what I'm really asking you:
+Is this just a total wild goose chase? We shouldn't
+even consider laundering at all? As I understand your
+argument, it's totally irrelevant.
+MS. SCHERTLER: The title of the statute
+says -- but the terms of the statute are what matter
+here.
+JUSTICE STEVENS: So it is irrelevant?
+MS. SCHERTLER: The terms are plain. But
+even if you were to look at the term "laundering," it
+would not support Petitioner's argument that that has a
+narrow meaning that includes only conduct that creates
+an appearance of legitimate wealth.
+CHIEF JUSTICE ROBERTS: So if this fellow
+were driving to Canada would that be a different case,
+because Canada does not have the sort of cash economy
+we've heard about in Mexico?
+MS. SCHERTLER: If the method of
+transportation were exactly the same, it would make no
+difference, Your Honor. In this case, this -- this
+transportation method was designed, a jury could find
+beyond a reasonable doubt, to conceal or disguise the
+ownership and control of the proceeds through the third
+party, and if that were the case and they were going to
+Mexico it would be the same. The nature and the
+location of the proceeds through the use of this secret
+compartment and the goat hair to discuss the scent of
+the proceeds from the drug detection dog.
+CHIEF JUSTICE ROBERTS: So, what if the
+fellow says: You know, there are dangerous roads
+between here and Mexico. I'm hiding the money so that
+if, you know, a gang comes up they don't find it. And
+you say: No, we think you're hiding it because it's
+illegal proceeds? Is that enough to get to the jury?
+MS. SCHERTLER: I think that's enough to get
+to the jury, and that would be a jury question, Your
+Honor, yes.
+JUSTICE SCALIA: Just to be clear, you
+affirmatively say that concealing to transport is
+enough, right?
+MS. SCHERTLER: Yes, Your Honor. It's --
+that is enough. Concealing to transport when the jury
+-- when it is part of the design of the transportation
+to conceal the location, nature, source, ownership, or
+control, any single one of those things. And all of
+those are in here.
+JUSTICE GINSBURG: Why do you make
+distinctions between methods of concealment? And if the
+design is to get the money out of the country, why
+should it matter whether you put it in a travel bag, you
+put it in the glove compartment, you put it in your
+wallet, or you go through this elaborate disguise that
+we see here?
+What -- if what's important is getting it
+beyond the border beyond the reach of law enforcement in
+the United States, why should it make a difference how
+carefully it is concealed?
+MS. SCHERTLER: That need not make a
+difference if there is evidence before the jury, if
+there is evidence that the ultimate design of the
+transportation is to conceal or disguise the proceeds at
+the point of destination.
+JUSTICE KENNEDY: Well, then your only
+defense is to go across the border and before you go
+across you put all the money in your arms so the people
+can see it? That's the way you do it?
+(Laughter.)
+JUSTICE KENNEDY: Other than that?
+MS. SCHERTLER: In that situation, there
+would no basis to find concealment or disguise of
+location. Now, some of the other attributes may be at
+issue if a third party is conducting that
+transportation, but location from the method alone. So
+the jury would need information about, well, what is the
+design, what is the purpose of this cross-border
+transportation? They could still find that the
+necessary design to conceal or disguise is satisfied by
+evidence that the whole purpose here is to get it to
+Mexico where it will be turned into legitimate wealth,
+for instance.
+JUSTICE GINSBURG: That's transporting to
+conceal.
+MS. SCHERTLER: That's -- and I, for one --
+JUSTICE GINSBURG: But you're saying this
+statute covers both?
+MS. SCHERTLER: It covers both, Your Honor.
+It asks broadly what was this -- how was this
+transportation designed and planned out in whole or in
+part? In any part, was it designed to conceal or
+disguise? And that would encompass all of the stages
+that we are -- that we are discussing.
+JUSTICE GINSBURG: In your brief, you said
+the bulk cash statute would not apply to a courier. Do
+you still take that position, that the government's
+choice is to indict for money laundering or nothing?
+MS. SCHERTLER: The bulk cash -- well,
+the bulk -- in this case, there's no evidence in this
+record that a bulk cash smuggling statute charge would
+have been viable because there's no evidence in this
+record that this defendant knew of a currency reporting
+requirement and intended to evade it.
+Petitioner's argument that the bulk cash
+smuggling statute shows that the conduct here was not
+intended to be covered by the money laundering statute
+is incorrect for the very reason that Justice Kennedy
+has identified. The bulk cash smuggling statute could
+not have filled a gap in the money laundering statute
+for the conduct here because it has always contained a
+provision that covers the transportation of known
+illegal proceeds across the border to evade a --
+reporting requirements.
+JUSTICE SCALIA: There's no principle that
+all criminal statutes have to cover every -- every bad
+act. Maybe Congress has left a gap. I'm willing to
+entertain the possibility that this individual,
+obviously doing something very bad, doesn't -- falls
+between the two stools. He is neither guilty under the
+taking currency out of the country statute because he
+didn't know of the existence of the statute, and he's
+not guilty under one because he was not transporting to
+conceal but was concealing to transport. And so there's
+a gap. The Justice Department can certainly get that
+gap filled readily enough. I don't know why we should
+torture either one of the statutes to close it.
+MS. SCHERTLER: The plain reading of the
+money laundering statute covers this conduct, and
+Congress specifically had this conduct in mind. As
+Senator Biden said in questioning -- and he became one
+of the co-sponsors -- questioning a witness about this:
+Isn't it the truth that if we -- if we strengthen all
+our domestic controls against money laundering, aren't
+the criminals going to resort to physically transporting
+their cash out of the United States? This is a --
+CHIEF JUSTICE ROBERTS: How many co-sponsors
+were there?
+MS. SCHERTLER: I don't know, Your Honor.
+This is part of the core conduct at which
+this statute was directed, this international
+concealment money laundering statute.
+JUSTICE BREYER: How does that show what you
+want it to show? I mean, what I just heard you say is
+that Senator Biden said if we make it very tough to
+launder money in the United States, then criminals will
+send their money abroad to be laundered.
+MS. SCHERTLER: And --
+JUSTICE BREYER: They'll transport it abroad
+in order to launder it. How does that help you?
+MS. SCHERTLER: They will resort to taking
+their money physically out of the United States. And
+the Senate report says that this provision was designed
+to halt this flow.
+JUSTICE BREYER: In order to launder it.
+Were they not talking about money laundering?
+MS. SCHERTLER: If the premise --
+JUSTICE BREYER: Or were they not talking
+about it? I'm just going back -- I didn't read Senator
+Biden's statement, so I'm just curious.
+MS. SCHERTLER: This provision was directed
+at preventing the illegal moneys from leaving the
+country. It would have made no sense for Congress,
+having understood that when money leaves the United
+States we have little if any ability to know what
+happens to it, to require in the statute proof beyond a
+reasonable doubt of what would happen to the money once
+it --
+JUSTICE SCALIA: If you're trying to prevent
+the money --
+JUSTICE KENNEDY: But you, in response to
+one of my hypotheticals, said that it would be relevant
+in some cases to show that it was designed to create the
+appearance of legitimate wealth. So you put that back
+in --
+MS. SCHERTLER: If --
+JUSTICE KENNEDY: So you put that back into
+play.
+MS. SCHERTLER: If we have that evidence,
+yes, Your Honor. But to take Petitioner's position that
+it would be necessary evidence in every case in which to
+prevail under this statute to know of future plans to
+launder abroad, when the premise of this statute is that
+when the money leaves the country we cannot know what
+happens to it, makes no sense.
+JUSTICE SCALIA: What if --- if that's what
+they're concerned about, taking the money out of the
+country, why do they have the concealment requirement?
+They could have just said, you know, if you take dirty
+money out of the country you're guilty.
+MS. SCHERTLER: They --
+JUSTICE SCALIA: They didn't say that. They
+have a concealment -- I can't understand why, if the
+money is hidden during the transportation, it's any
+worse than when the money is not hidden during the
+transportation. It isn't -- it isn't the hiding during
+the transportation they're concerned about. The statute
+doesn't make any sense that way.
+MS. SCHERTLER: I think that it does, Your
+Honor.
+The Court -- the Congress certainly could
+have written it in the broad way that you've suggested.
+It's not unlike the way that they wrote section 1957,
+which covers broadly all transactions in illegal money.
+They chose to not cover everything and to
+cover cross-border transportation's where there's
+evidence of some intent on the part of that individual
+to conceal or disguise. And when you think about it,
+they had set up regulatory provisions like the
+transaction reporting requirement when there's no
+conceal or disguise. There were other controls in place
+as, say, the first line of defense against money
+laundering to say, $10,000 or more is leaving the
+country, we're going to know about it because we have
+reporting requirements.
+Here the Senate report says that they made
+the decision to require evidence of concealment.
+"Evidence of concealment of a crime" is what the report
+says. And any time one of these attributes of illegal
+proceeds is being concealed or disguised, that is
+concealing a crime in a way that impairs law enforcement
+from finding those proceeds.
+JUSTICE STEVENS: May I ask -- may I ask
+this question? If the statute did include -- and I know
+you think it does not -- a requirement of trying to
+create an appearance of legitimate wealth, you would
+lose? In this case.
+MS. SCHERTLER: I don't think so, Your
+Honor, and I would -- I would go back to the evidence
+that Justice Alito has pointed out that is in this
+record, that there's evidence in this record that --
+that the -- by taking the funds to Mexico, they would be
+able to be used in a way that would not raise suspicion.
+JUSTICE STEVENS: Well, there's also,
+consistent with the evidence, they want to pay the drug
+dealer for the drugs. And then a jury -- you can't say
+it's clear beyond a reasonable doubt that that was not
+what it was going on.
+MS. SCHERTLER: There was -- I would not --
+I would not disagree with that. I think that we do -- I
+see that my red light is on.
+CHIEF JUSTICE ROBERTS: Why don't you finish
+your answer?
+MS. SCHERTLER: Your Honor, there was --
+there was evidence in this case that the proceeds were
+removed -- this is expert testimony -- removed from the
+United States to conceal so as not to go through
+reporting requirements, so that the money would not be
+identified to U.S. law enforcement. We believe the jury
+could also infer that further efforts to conceal and
+disguise those proceeds would occur at the point of
+destination.
+Thank you, Your Honor.
+CHIEF JUSTICE ROBERTS: Thank you,
+Ms. Schertler.
+Mr. Beard, you have four minutes remaining.
+REBUTTAL ARGUMENT OF JERRY V. BEARD
+ON BEHALF OF THE PETITIONER
+MR. BEARD: Justice Scalia, when I left we
+were discussing --
+JUSTICE SCALIA: I forget what it was that I
+didn't understand.
+(Laughter.)
+MR. BEARD: Happily I've been thinking about
+it. Disruption versus detection I had told you, told
+the Court that this was not a detection statute as much
+as it is a disruption statute.
+I think it is important for the Court to
+recall that the very broad interpretations that the
+government advances today are essentially the very broad
+interpretations that the Congress rejected explicitly 20
+years ago. The Congress rejected the notion that the
+transportation of illicit funds in and of itself created
+money laundering liability. And we've discussed that.
+I think it's important, Justice Scalia, in
+particular, in response to your question to bring this
+up, because the Congress recognized that detection would
+be harder in rejecting that type of legislation, but
+rejected that they did.
+The Congress has also shown itself capable
+of -- of -- in the 1957 context of taking transactions
+involving unlawful proceeds and making those per se
+illegal. They could have easily done the same thing in
+the transportation context if they had wanted to, but
+instead they were looking at the separate behavior that
+comprises money laundering. I mean, it is the notion
+that you're taking money somewhere else and you're doing
+something else and it gives rise to separate liability.
+I think the true harm in the government's
+interpretation, it basically conflates liability for
+money laundering with the underlying offense, because
+all of the underlying offenses involve concealment.
+JUSTICE STEVENS: May I ask the same basic
+question of you? Do you think that this line, "create
+an appearance of legitimate wealth" is an essential
+element of the offense?
+MR. BEARD: It is not an element,
+Justice Stevens. As I said, so --
+JUSTICE STEVENS: So then your question
+presented raised that question, you're walking away from
+that question?
+MR. BEARD: We have spoken in the question
+presented in that broad term, because we think that that
+language encapsulates what's taking place.
+JUSTICE STEVENS: It is not an essential
+element of the offense?
+MR. BEARD: It's not an element. But what
+is an essential element is the need for the
+transportation -- the transportation to be designed to
+accomplish the same thing, to obfuscate those
+attributes. It's -- and that's -- and therein is the
+reason why --
+JUSTICE ALITO: -- the same thing,
+appearance of legitimate wealth goes to one of the
+attributes, the nature of what's being transported. It
+doesn't go to all the other attributes.
+MR. BEARD: The Congress had identified,
+Justice Alito, those particular attributes as being key
+to allowing the launderer to inject the money back into
+commerce. It may be that nature is implicated more
+often, but the Congress chose to list the others because
+they felt that those were the particular attributes
+that, broadly speaking, allowed for the laundering
+process.
+This notion of --
+JUSTICE KENNEDY: Suppose the evidence is
+clear that he knew he was taking it across the border
+and it was to pay the drug dealer? Would that suffice?
+MR. BEARD: For liability under the statute,
+Justice? No, because the purpose there was not to
+obscure the attributes. It is simply repayment. It's
+the final leg, if you will --
+JUSTICE KENNEDY: Well, but -- no, no. He
+conceals it, in order to pay the drug dealer.
+MR. BEARD: Yes. I'm saying that -- I may
+have misunderstood. If you are saying Mr. Cuellar were
+to know he was paying the drug dealer?
+JUSTICE KENNEDY: Yes.
+MR. BEARD: That wouldn't give rise to
+laundering, because all you have there basically is
+money spending. It's the conduct of the underlying --
+JUSTICE KENNEDY: It's concealing who owns
+and controls.
+MR. BEARD: No, I don't think so. I think
+what you would have under these circumstances is merely
+the final step, if you will, in the underlying unlawful
+activity.
+JUSTICE SCALIA: Mr. Beard, can't you give
+us something we can get this guy on?
+(Laughter.)
+MR. BEARD: I'm not comfortable doing that.
+JUSTICE SCALIA: He's carrying dirty money.
+It even smells of drugs.
+(Laughter.)
+JUSTICE SCALIA: Can't we get him as an
+accessory to drug dealing or something? You say he has
+to walk?
+MR. BEARD: Well, Justice, I'm not
+uncomfortable with the notion of him walking, because
+I'm not uncomfortable with the notion you brought up
+earlier with that there may indeed be a gap. If there
+is a gap, then there's a remedy for that. But I think
+that if --
+JUSTICE GINSBURG: The point -- the point
+about aiding and abetting something, this money reeks of
+marijuana, and that was very puzzling to me. Why this
+is the standard operating procedure to take this money
+and wrap it in containers that had contained the drug.
+So when the police find it, they know it's drug money.
+MR. BEARD: Justice, I know that the --
+initially the way this went down was the money that was
+in his pocket. That's what triggered the -- that's what
+they said smelled like raw marijuana. And then
+eventually, they found the drug money. And I can't tell
+you why they did it this way. But I think that your
+question underscores they were concerned not with
+obfuscating any attributes, obviously, they were
+concerned with getting this money back to repay the
+person who had sent the drugs north under the
+government's theory.
+CHIEF JUSTICE ROBERTS: Thank you,
+Mr. Beard. The case is submitted.
+(Whereupon, at 11:04 a.m., the case in the
+above-entitled matter was submitted.)
+51:3 25:16,22 28:14 asks 33:13 48:3 37:12 believe 54:12
+30:19 53:18 57:1,6 Assistant 1:16 25:20 beyond 28:5
+36:4 Alito's 29:7 1:18 based 32:20 30:5 32:21
+53:21 allowed 57:11 assume 17:13,17 42:8 34:1 45:13
+59:22 amount 7:9 24:17 basically 14:11 53:25
+50:10,12 13:22 assuming 40:4 56:3 58:3 50:8
+analysis 23:3 attempt 16:22 basis 33:25 Biden's 50:23
+18:8 answer 13:9 attribute 20:1 47:11 bit 26:1
+33:25 14:4 26:9 27:4 34:7 40:15,23 Beard 1:16 2:3,8 blank 25:17
+20:17 19:15,24 23:15 9:21 10:21 28:16 29:1
+13:7,8,25 47:12 53:7 12:16 13:1,10 32:18,19 36:9
+15:25 16:22 56:24 57:3,4,6 13:13 14:3,17 37:3 38:7
+27:23 43:20 57:10,19 59:15 14:23 15:2,5,7 42:14 46:21
+51:12 53:14 21:15 16:3,19,24 57:15
+49:5 APPEARAN... 9:23,23 16:4 18:12,24 19:5 box 26:6,19
+20:8 appropriate 21:3,13,18,23 11:4 29:6
+B 22:2,8,16,22 34:25 35:3,8
+58:10
+2:2,7 3:3,6 5:2 24:21 26:21 54:19,20,22 40:13 41:2
+54:20 51:12,15 53:17 58:11,14,21 55:14
+56:16 8:21 9:5 12:11 clear 42:11,22 3:22,24 4:1,13 confronted 36:1
+29:15 15:11,16 17:16 57:15 42:15 46:23 35:14
+43:16 17:16 22:11 close 33:18 53:8 Congress 29:23
+45:7 48:9,12 49:15 concealing 3:13 31:24 34:15
+52:17 49:24 closer 9:13 10:1 22:25 23:1,6,8 38:14,20 44:10
+category 22:15 18:16 33:23 34:7,20 44:11,15 49:5
+37:24 3:24 5:7,19 24:14 27:4 41:15 42:13 55:15,18 57:5
+38:4 8:24 10:2 comes 9:6 45:23 46:5,8 49:12 57:9
+22:10 38:5 44:15 coming 6:5 14:2 20:19 consider 10:5
+49:13 52:14 commerce 4:10 25:2 27:22 44:19
+cetera 30:20 14:8 24:9 57:8 30:21,23 32:7 considerations
+compartment 46:14 47:11 consistent 53:23
+34:22 3:25 8:25 9:10 comprises 55:24 conceived 28:21 contains 27:23
+37:3 9:14 10:17 conceal 3:16,19 concept 24:24 contemplate
+41:13 22:18,23 23:4 4:5 5:24 9:1,8 conception 19:24
+40:11 41:1,11 21:4 22:20,21 52:10 59:14,16 contemplating
+6:8,12 43:10 45:5,20 28:8 32:24 conduct 28:25 context 4:12,14
+8:2 9:16 49:25 54:5,17 34:2,24 35:15 35:25 36:5 8:18 23:10
+18:12 59:19 36:24 37:5,22 37:19 38:20 30:6 55:19,22
+34:13 choice 48:11 38:6,11 39:8 44:11 45:3 control 3:20
+chose 52:18 57:9 40:18 41:5,12 48:19,24 49:17 31:13 34:20
+51:19 chosen 28:23 41:20 42:3,23 49:18 50:3 37:6,22 38:11
+54:8 circumstances 43:1,12 45:13 58:4 40:5 45:14
+9:25 42:9 58:8 46:10 47:2,18 conducting 29:2 46:11
+cleanse 14:6 49:12 52:21,24 conducts 32:17 49:22 52:24
+cleansing 16:9 concealed 3:18 conflates 56:3 converted 20:20
+18:1 25:5 7:3 49:4 52:25 55:15 distinction
+13:9 30:13 36:3,9 demand 27:24 45:11 46:22,25 46:14
+cross 27:25 deposit 26:6,19 26:1,2,16 45:6 dog 45:19
+25:7,17 32:19 13:23 directed 35:20 doing 49:7 55:25
+34:6 crossing 30:22 describe 31:20 37:21 50:4,24 58:14
+37:15 31:6 described 10:1 directs 28:11 domestic 49:22
+49:9 cross-border 12:18 14:9 dirty 5:16,16 doubt 28:5
+52:1,3 28:12 34:15 25:25 13:3,3,4,6,7,16 32:21 34:1
+41:8,21 47:16 describing 16:7 13:20,24,24 45:13 51:5
+10:3,23 3:17 6:3 18:13 6:6 9:24 12:24 20:11,18 52:2 drawing 16:1
+37:2 18:15 57:24 13:15,18,20 58:15 drew 35:14
+48:9 Cuellar's 3:14 15:25 25:13 disagree 44:2 drive 17:3
+15:19 curious 50:23 37:7,8 38:10 discover 24:10 driving 45:6
+21:6 33:7 currency 8:11 39:8,15,15 discovery 43:13 drove 36:19
+8:17 48:16 41:4,19 42:5,6 discuss 45:18 drug 5:21 6:11
+52:14 currency-repo... 46:15 47:1,16 discussing 48:7 12:25 15:22
+21:19,23 22:5 47:18 54:23 16:15 20:16,19
+D 28:24 12:14 18:19 37:3,8 38:4
+48:20 daily 32:18 14:5 19:7 28:8 25:13 28:9 45:19 53:23
+52:17 45:21 32:24 34:2,2 39:9 40:19 58:19 59:6,7
+dealer 32:17 42:25 43:3 45:13 46:18 drugs 9:17
+21:6 40:22 53:24 50:16 51:11 48:6 52:21,24 53:24 58:16
+51:11 57:16,22,25 56:22 54:14 59:17
+56:7 dealing 58:19 destination disguised 40:6,7 D.C 1:9,19
+22:15 defendant 28:5 detect 30:12 disruption 55:3 earlier 42:14
+53:6,9 36:19 37:13 detection 5:21 55:5 58:24
+et 30:20 eyes 7:21 30:19,19 give 17:11 31:19
+49:1 F focusing 25:2 58:2,11
+17:17 everybody fact 3:18 5:15 foremost 19:14 56:1
+14:15,21 39:20 6:3 7:17 8:13 forget 24:18 giving 37:25
+49:15 18:13 32:20 fall 12:15 16:18 forward 21:4 53:17 54:10
+40:14 41:4,6,9 falls 10:20 49:7 41:6 59:12 goat 3:23 5:20
+44:15 46:25 familiar 44:1 fraud 32:3 goes 13:6 42:13
+48:15 51:17,19 fancy 37:1 funds 5:12 29:5
+53:17,19,23 February 1:10 53:20 55:11 14:15 18:10
+exactly 12:7 fellow 9:6 17:12 further 54:13 24:14,17 29:4
+48:6 37:18 45:10 felt 57:10 38:6 40:9
+33:21 28:11 filled 48:23 G 3:1 50:22 53:2
+46:21 example 6:4 49:14 gambling 29:20 54:1
+54:12 7:15 22:24 filter 34:17 gang 45:23 good 11:23
+existence 3:13 34:24 41:4 getting 4:25 55:8
+15:21 54:9 47:11,17 59:7 46:20 59:16 30:25 37:14
+27:15 finish 54:5 6:19 7:1,8 8:20 59:18
+explanation 19:14 30:4 22:4,14 26:5 guidelines 38:15
+explicitly 55:9 fit 12:22 22:15 37:17 46:13 guilty 7:18 22:6
+15:20,20 25:1 flow 50:17 59:2 52:3
+eyebrows 15:16 focus 27:8 29:24 38:13
+23:21,24 13:24 intended 48:17 5:18,23 6:2,15
+hurt 18:7 22:23 27:6 25:13 39:2,12 8:25 9:11,14
+51:4,23 42:22 imposed 31:24 interest 30:25 12:5,17,22
+16:11 18:15 include 28:22 27:22 30:6,17 14:25 15:4,6
+52:7,8 54:12 57:5 40:14 32:2 22:19,23 23:4
+29:9,13 ignored 44:8 42:17 involved 3:16 24:4,13,16,19
+ii 8:8 21:12 indicates 7:10 38:18 25:6,11,16,22
+8:21 27:25 48:11 irrelevant 43:25 27:3,10,12,14
+24:7,13 28:6,7,13,25 individual 7:17 44:1,20,24 27:17,20 28:14
+35:11 30:12 31:11 16:25 24:7 Islands 26:25 29:6,7 30:15
+52:9 32:2,6,11,22 28:24 38:16 issue 47:13 31:3,15 32:4
+45:25 inference 7:14 J 34:3,10,12,19
+11:6 12:1 55:21 7:22 Juarez 39:21 36:25 37:7,17
+21:18 illegitimate 36:6 inferring 40:17 judge 11:21,22 37:24 38:3,8
+26:9 30:2 illicit 36:19 information 12:2 38:13 39:1,11
+32:8 33:7 55:11 47:15 jurisdiction 39:14,20,23
+34:9 impairs 53:9 initially 59:9 25:25 40:7,11,21
+39:7 implicate 8:18 inject 4:9 57:7 jury 34:1 41:4 41:1,11,15,22
+45:11 12:4 22:2 injection 14:7 41:25 42:4,24 42:1,10,11,19
+48:2 implicated 5:8 24:9 43:11 45:12,25 43:5,16,24
+51:18 57:8 innocent 7:2 46:2,2,8,25 44:5,7,16,24
+53:17 implicates 12:18 20:17 47:15 53:24 45:5,20 46:4
+14:12 18:3 instance 4:20 54:12 46:13 47:4,9
+48:8 52:2 53:2,12 46:21 53:9 3:23 4:1,3,11 means 4:6,14
+49:3,13 57:25 59:7,8 54:12 4:13,14,15,19 19:4,5,15,15
+50:6,12 knowing 7:8 lawful 8:22 4:21,22 9:1,9 19:22 20:4,22
+51:7 knowledge 22:7 laws 25:8,18 9:20 23:2,8,10 28:18 31:6
+known 6:4 28:7 lay 41:2 23:16,22,23,25 36:7 41:6 43:1
+53:11,18 28:13,25 32:22 lead 26:16 24:7,14 25:9 meant 44:10
+54:5,17 48:25 leave 24:17 32:24 34:21 mechanism 16:9
+55:13 knows 28:5,6 leaves 51:2,22 41:18,20 43:12 merely 18:21
+35:3 36:15,16 leaving 50:25 45:17 46:10 32:22 58:8
+37:1 39:20 53:1 47:12,14 met 42:8
+58:1,5 40:22 left 22:9 49:5 look 20:16 28:20 method 3:15
+54:22 30:5 45:1 4:21 5:5,9,14
+L leg 6:10 57:20 looking 6:2 25:2 28:16,23
+21:8,15 56:17 36:6 43:20 15:16 21:10 46:14
+22:1 large 13:22 44:3 45:4 33:2 36:25 Mexican 15:1
+Laughter 11:16 47:20 51:12 luxury 13:23 Mexico 6:8 9:25
+11:19 33:16 53:14 56:8 14:19,22 15:9
+43:5 35:12 47:8 57:2 M 15:11 17:16
+48:21 55:1 58:13,17 let's 17:17 32:16 making 11:21 32:20 37:12
+57:14 launder 50:9,13 liability 7:6,6 23:24 34:13 39:2,21 45:8
+58:1,5 50:18 51:21 10:2,14 11:12 55:20 45:16,22 47:20
+37:16 57:7 57:17 6:20,24 9:4 35:25 49:18
+5:12 7:4,20 light 54:4 matter 1:12 8:20 minute 43:18
+48:16 11:12 12:4,21 31:2 46:16 59:22 misunderstood
+13:12 18:4 line 22:19 52:25 mattress 24:23 13:19 57:24
+8:7 9:4,4 27:7,23 29:17 LISA 1:18 2:5 mean 5:14,15 modify 16:11
+10:2 29:19,22,25 27:18 8:14 15:13,14 Monday 1:10
+12:9 30:7 35:9,21 list 57:9 15:15 16:11 Monetary 35:10
+14:14,16 35:24 36:1,2 listed 4:3 5:10 17:10 18:6,20 money 3:10,18
+15:19 39:5 41:12 10:9 16:8 20:17,24 22:25 3:24 4:9,13,15
+17:14 44:1,7,9,13,19 23:20 27:15 28:15 5:12 6:4,7,13
+19:20,21 45:1 48:11,20 literal 12:23 29:23 34:14 6:14 7:2,4,10
+26:15 48:23 49:17,22 literally 4:25 37:8 44:10 7:20 8:22 9:12
+35:9 50:5,19 53:1 30:1 50:7 55:24 9:24 10:1,5,6
+55:12,24 56:4 little 24:2 26:1 meaning 4:11 10:13,18 11:12
+49:10 57:11 58:3 51:3 10:8 19:10 12:4,6,14,18
+50:2 law 4:8 31:25 lives 39:2,4,21 20:5,14 21:3 12:19,20,21,25
+33:21 38:25 location 3:19,22 23:16,19 45:3 12:25 13:2,3
+14:12,16 narrow 29:24 54:14 41:21 43:3,4 30:22,23 37:12
+15:8 45:3 occurs 16:7 46:9 48:5,5 39:3 52:24
+17:5 nature 3:19 8:4 offense 38:17,18 50:3 52:20 56:17
+18:3,3 12:14,24 13:2 56:4,9,19 particular 4:3,6 plain 44:25
+20:16 15:1 18:19,23 offenses 56:5 5:7 6:9,12 10:8 49:16
+21:7 19:8,10,11,14 offered 15:18,19 15:21 37:19 plan 4:7 28:11
+20:1,14,16,18 oh 19:20 22:1 55:14 57:6,10 28:20 32:25
+20:18,20,22 42:17,21 particularly 36:23 37:11
+24:8 21:17 22:20 okay 11:24 23:19 39:17 42:6
+23:6,7 45:16 19:20 24:13 parties 37:19,21 planned 28:13
+46:10 57:3,8 33:2 35:1 44:5 party 37:20 38:9 28:21 48:4
+27:7,22 necessarily 4:6 once 16:14 18:9 38:17 40:10 plans 51:20
+5:12 10:3,5 25:9,19 31:11 45:15 47:13 play 25:1 51:16
+30:6 11:11 16:7 42:15 51:5 pay 10:23 17:12 pleaded 7:17
+35:21 17:5 22:25 ones 34:18 17:23 18:6,9 please 3:9 27:21
+36:1,2 23:1 operating 59:5 29:19 53:23 pocket 32:19,23
+necessary 47:18 operation 29:20 57:16,22 59:10
+51:19 opposed 7:14 paying 57:25 point 4:1 11:1
+38:22,23 necessitate 31:5 penalty 6:17 12:1 16:19
+39:3,4 22:11 oral 1:12 2:2 3:6 36:12 17:3 25:11
+40:22 need 17:3 34:11 27:18 people 12:10 39:19,19 40:16
+42:7 38:23 46:24 order 11:2 27:2 15:15 16:15 40:24 41:3,9
+43:14 47:15 56:21 29:12 30:12 29:20 47:6 42:24 47:3
+45:22 needs 36:22 31:19 36:20 percent 35:5 54:14 59:2,2
+47:6 neither 49:8 38:23 50:13,18 perfectly 8:22 pointed 53:18
+north 59:17 57:22 permit 33:7 police 9:3,11,22
+50:5 notion 10:6 11:9 ordinary 32:1 person 12:7,8 9:22 10:9,19
+12:19 55:10,24 outside 30:10 16:12 25:17 24:9 26:22,24
+57:13 58:22,23 31:12 32:6,11 36:13,17 39:1 59:7
+number 26:12 34:6 39:3 41:7 position 43:8
+55:12,24 32:17 owned 6:4,5 59:17 48:10 51:18
+56:4 numbers 4:4 owner 37:22 pertinent 40:15 possess 6:24
+58:4,15 numerical 26:12 ownership 3:19 40:23 possesses 7:1
+5:25 9:2,9,20 Petitioner 1:5 possibility 22:16
+O 16:15,17 34:21 1:17 2:4,9 3:7 49:6
+56:23 45:14 46:10 Petitioner's 28:1 premise 31:11
+59:15 P phrase 28:10,19 42:5 43:21,23
+59:15 30:6 36:22,23 13:6,21,22 prevent 14:7
+43:13 48:25 50:16,24 range 36:5 51:10 55:14
+51:7 provisions 52:22 raw 59:11 remain 13:5 responses 30:3
+purchases 12:12 46:21 remaining 54:19 result 17:19
+17:10,13,18,23 41:1 50:22 removed 54:9,9 17:1 24:8
+31:20 37:18,20 ready 18:10 repayment 6:12 right 10:17,20
+6:21 8:14 purposed 14:5 44:8,17 reply 7:15 rise 56:1 58:2
+14:6,6 19:7 reason 10:7 12:8 report 50:16 roads 45:21
+19:1 purposely 34:25 12:17 29:18 53:4,6 ROBERTS 3:3
+purposes 8:21 31:23 48:21 reporting 8:4 3:21 8:25 9:14
+22:20 put 9:23 26:6 56:25 21:8 48:16 22:18 23:4,13
+27:25 33:15 36:15 reasonable 28:5 49:2 52:23 24:1,4,13,16
+43:14 46:16,17 32:21 34:1 53:3 54:11 26:10 27:12,17
+30:9,12 46:17 47:6 40:17 45:13 require 7:14 8:3 33:19 40:11
+31:11 51:12,15 51:5 53:25 18:25 28:4 41:11,15,22
+puts 32:18 33:1 reasons 3:15 51:4 53:5 42:1 45:5,20
+36:4,9 33:2 34:25 29:1 required 18:25 49:25 54:5,17
+38:12 putting 26:19 rebuttal 2:7 requirement 4:5 59:19
+40:5 32:23 27:5 54:20 8:5 17:4,18 run 29:20
+41:12,20 puzzling 59:4 recall 55:7 21:9,16,19,22
+44:14 recognized 21:24,25 22:5 S
+Q 55:15 27:24 30:18 S 2:1 3:1
+49:1 53:8 quarrel 20:23 record 10:12 31:2,17,19,24 safe 26:6
+54:8,14 question 14:4 14:24 48:14,16 44:4 48:17 safety 26:19
+23:14 29:7,11 53:19,19 52:1,23 53:13 satisfied 18:21
+28:4 46:2 53:12 referenced 7:8 22:6 saw 36:2 38:21
+55:14 56:7,12 23:14 reserve 27:10 saying 7:2 23:15
+59:14 REGALADO 50:14 35:4,6,6,8 40:9
+52:22 respects 43:1 16:12 25:17
+R 3:1 55:17 1:20 2:6 27:19 41:5 44:22
+secure 42:7 situation 47:10 States 1:1,7,13 stores 13:23
+43:14 smelled 59:11 3:4 6:16,20 streams 14:7
+26:22 see 4:18 10:16 smells 58:16 12:13 13:25 strengthen
+33:1,4 20:12 22:1 Smith 12:2 28:1 29:1 49:21
+39:20,23 38:19 46:19 smuggling 7:7 30:11,24 31:12 strong 7:25 8:1
+46:4 47:7 54:4 7:18,22 8:1,5 32:1 46:22 stumbled 10:10
+51:7,24 seen 5:3 8:10,11 22:11 49:24 50:9,15 submit 28:22
+54:22,24 select 40:9 48:14,19,22 51:3 54:10 submitted 59:20
+58:11,15 Senate 50:16 social 38:5 statute 3:10,12 59:22
+53:4 sold 9:4,17 5:1 7:7 8:1,2,5 subsequent
+50:8,22 solely 30:19 42:9 10:20 11:1,6 suffice 57:16
+27:17,18 25:17,24 26:3 sorry 15:5 18:1 22:6,13 16:5 29:4
+28:17 sense 4:1 9:2 sort 45:7 23:15,18 25:10 suggested 7:5
+31:8,21 19:17 51:1,23 sounds 11:20 27:7,8,9,16,23 16:6 25:12,14
+52:11 source 3:19 28:2,4,9 29:15 52:15
+sent 14:19 25:14 46:10 30:7,8,8 31:4 suggesting
+34:8,11 59:17 Souter 13:5,11 31:10,11,22 20:25 23:17
+35:2 sentence 40:25 13:18 14:3 33:13 35:9,18 26:18
+36:22 41:5 30:15 31:15 35:20,22,24 suggestion
+38:2,8 sentencing 33:9,14 37:24 37:10,21 38:1 13:15
+38:14 38:3,8 42:15 43:7,17 suggests 4:4
+separate 55:23 South 21:20 44:4,6,21,22 24:7 28:20
+56:1 speaking 57:11 48:1,9,14,19 29:11 31:3
+43:9 series 41:2 speaks 8:11,12 48:20,22,23 44:12
+44:2,6,9 set 30:11 34:17 specifically 11:8 49:9,10,17 suitcase 41:12
+45:9 39:1 52:22 49:18 50:4,5 51:4,20 41:18,23 42:2
+shipment 21:9 specified 18:20 51:21 52:10 42:7
+48:2 shoe 29:21 33:1 19:18 53:12 55:4,5 support 7:22
+49:16 33:2,15 34:22 spend 15:8,16 57:17 25:4 45:2
+35:1,10 17:16 40:1 statutes 49:4,15 supported 7:20
+51:14,17 shorthand 16:6 spendable 18:11 statutory 17:8 28:2
+53:16 show 19:1 32:21 spending 12:19 step 58:9 suppose 7:19 9:2
+50:6,7 51:11 12:20 13:23 Stevens 5:13,18 12:5 16:11
+shows 36:14 18:3,3 58:4 18:24 19:2,9 39:1 57:14
+16:6 18:16 stages 48:6 56:11,12,18 12:6 36:10
+23:1 26:6 tool 31:20 41:8,21 42:25 underlying
+38:15 8:9,12 9:5,12 44:20 55:11,22 56:22 understand 5:8
+tough 50:8 56:22 6:24 8:17 9:10
+15:14 17:1,7 18:15 6:23 transporting 9:1 44:16,19 52:6
+19:7 18:25 19:3,5 transaction 8:15 10:18,19,22,24 54:25
+29:18 19:13,15 20:4 8:17,18 15:22 11:2,22 12:8 understanding
+32:11 20:14 21:25 15:23 52:23 12:12 27:1 22:12
+33:10 22:22,23 23:2 transactions 35:15 47:22 understood 4:12
+37:2 23:9 24:6,25 8:12 32:17 49:11,23 13:14 23:10
+51:18 25:24 26:2 52:17 55:19 transports 12:5 44:10 51:2
+59:5 27:3,6 29:23 transaction-re... 37:14 United 1:1,7,13
+35:21 37:9,10 transfer 25:7 46:16 12:13 13:25
+43:19 45:24 transformed true 8:24 21:3 30:11,24 31:12
+19:25 53:13,16 54:3 transmission 56:2 49:24 50:9,15
+41:17 55:6,13 56:2,7 11:8 trunk 41:13 51:2 54:10
+56:16 58:7,7 transport 9:7 truth 49:21 unlawful 3:12
+45:1 40:9 45:14 transportation turned 47:20 use 12:11 13:22
+47:13 3:15,17 4:20 turns 9:18 30:12 32:1
+13:19 20:5 8:4 9:8 10:25 type 5:22 7:16 45:17
+59:19 tin 24:22 29:2,5,9,12 ultimately 30:21 valid 42:16
+59:18 44:21 36:23 38:11 unclean 19:16 verb 21:1,2
+22:25 told 55:3,3 40:12,18 41:4 58:22,23 viable 48:15
+wide 36:5 1986 36:2
+28:17 29:17 27 2:6
+46:18 16:4 17:4 23:6 3
+50:7 31:18 40:20,21
+4
+12:22 16:21
+33:5 58:2
+29:10 written 52:15
+38:21,21 wrong 11:4,5
+44:10,11 wrote 52:16
+52:11,15
+53:9,21 X
+x 1:2,8 7:9
+Y
+27:24 years 55:10
+43:20
+45:4 $
+51:12 $10,000 53:1
+56:8 $80,000 9:17
+0
+1:6 3:4
+40:4 100 35:5
+53:2 11:04 59:21

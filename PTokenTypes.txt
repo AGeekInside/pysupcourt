@@ -1,0 +1,4 @@
+// $ANTLR 2.7.7 (20111217): t.g -> PTokenTypes.txt$
+P    // output token vocab name
+NAME=4
+NEWLINE=5

@@ -1,0 +1,1368 @@
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 8963: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 28092: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 25647: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xe9 in position 23304: invalid continuation byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 1627: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 18264: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 3394: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 3122: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 3330: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 9939: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 18598: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xe0 in position 48017: invalid continuation byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xe0 in position 33387: invalid continuation byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xe0 in position 499: invalid continuation byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xe0 in position 17561: invalid continuation byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 3250: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 27794: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xe0 in position 57410: invalid continuation byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 5363: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 6769: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xe9 in position 38005: invalid continuation byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 1069: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 5753: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xe0 in position 46211: invalid continuation byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 2148: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 7084: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 10743: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 25602: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 25007: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 12297: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 13753: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xe0 in position 23455: invalid continuation byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xe0 in position 36357: invalid continuation byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xe0 in position 54972: invalid continuation byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xe0 in position 53481: invalid continuation byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xe9 in position 851: invalid continuation byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xe0 in position 13869: invalid continuation byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xe0 in position 7549: invalid continuation byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xe0 in position 6863: invalid continuation byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xe0 in position 8034: invalid continuation byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xe0 in position 40616: invalid continuation byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xe0 in position 12984: invalid continuation byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xe0 in position 8245: invalid continuation byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 1658: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 23156: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 35525: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 9902: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xe0 in position 33325: invalid continuation byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 7273: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 62030: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 3226: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 11515: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xe0 in position 23625: invalid continuation byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 10139: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 36110: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xe0 in position 50499: invalid continuation byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 14968: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xfc in position 53829: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 21308: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xe9 in position 7481: invalid continuation byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 3794: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 21051: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 35390: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xea in position 25303: invalid continuation byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 43080: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 7834: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 35276: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 15615: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 19149: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 44662: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xe0 in position 8478: invalid continuation byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xe0 in position 28009: invalid continuation byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xfc in position 55523: invalid start byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xe0 in position 101146: invalid continuation byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xe0 in position 5340: invalid continuation byte
+Traceback (most recent call last):
+  File "oralArgParser.py", line 237, in <module>
+    main(sys.argv[1:])  
+  File "oralArgParser.py", line 234, in main
+    outputJson()
+  File "oralArgParser.py", line 218, in outputJson
+    outputFile.write(json.dumps(outputDict, indent=4, sort_keys=True))
+  File "/usr/lib/python2.7/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 203, in encode
+    chunks = list(chunks)
+  File "/usr/lib/python2.7/json/encoder.py", line 428, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/lib/python2.7/json/encoder.py", line 402, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/lib/python2.7/json/encoder.py", line 384, in _iterencode_dict
+    yield _encoder(value)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xad in position 4314: invalid start byte

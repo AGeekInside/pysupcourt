@@ -1,0 +1,1539 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+DAVID J. KAPPOS, UNDER SECRETARY :
+OF COMMERCE FOR INTELLECTUAL :
+PROPERTY AND DIRECTOR, PATENT :
+AND TRADEMARK OFFICE, : No. 10-1219
+Petitioner :
+v. :
+GILBERT P. HYATT. :
+- - - - - - - - - - - - - - - - - x
+Washington, D.C.
+Monday, January 9, 2012
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 11:05 a.m.
+APPEARANCES:
+GINGER D. ANDERS, ESQ., Assistant to the Solicitor
+General, Department of Justice, Washington, D.C.; for
+Petitioner.
+AARON M. PANNER, ESQ., Washington, D.C.; for
+Respondent.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+GINGER D. ANDERS, ESQ.
+On behalf of the Petitioner 3
+ORAL ARGUMENT OF
+AARON M. PANNER, ESQ.
+On behalf of the Respondent 26
+REBUTTAL ARGUMENT OF
+GINGER D. ANDERS, ESQ.
+On behalf of the Petitioner 49
+P R O C E E D I N G S
+(11:05 a.m.)
+CHIEF JUSTICE ROBERTS: We'll hear argument
+next in Case 10-1219, Kappos v. Hyatt.
+Ms. Anders.
+ORAL ARGUMENT OF GINGER D. ANDERS
+ON BEHALF OF THE PETITIONER
+MS. ANDERS: Thank you. Mr. Chief Justice,
+and may it please the Court:
+Section 145 of the Patent Act permits a
+person who has sought a patent from the PTO and believes
+that the agency has wrongly denied his application to
+seek judicial review of that decision in district court.
+The Federal Circuit in this case held that the plaintiff
+in a section 145 action may obtain a more favorable
+standard of review, de novo review, by flouting the
+PTO's rules during the examination process.
+Under the court's approach, a plaintiff may
+present to the court material new evidence that he
+refused or failed without cause to present to the PTO.
+And as his reward, he is given de novo review of the
+PTO's expert determinations on all of the relevant
+issues.
+For three reasons, that unprecedented regime
+should not be allowed to stand: First, principles of
+administrative deference and exhaustion require that the
+PTO be given the opportunity to apply its expert
+judgment to all of the reasonably available evidence.
+For that reason, section 145 should be interpreted as a
+safety valve proceeding that permits applicants to
+introduce evidence to the court that they reasonably
+could not have presented to the PTO.
+JUSTICE SCALIA: Can you only get a 145
+proceeding when you have new evidence?
+MS. ANDERS: No.
+JUSTICE SCALIA: Suppose I have no new
+evidence and -- and I want to challenge. Can I bring a
+145?
+MS. ANDERS: Yes, section 145 --
+JUSTICE SCALIA: Right.
+MS. ANDERS: -- permits any applicant
+dissatisfied with a decision of the PTO --
+JUSTICE SCALIA: And on what basis does the
+court decide the case? De novo?
+MS. ANDERS: No, the Federal Circuit has
+held that in those cases substantial evidence review
+applies, and where the Federal Circuit gets that is this
+Court's case in Morgan v. Daniels. That was an action
+under section 145's predecessor. There was no new
+evidence in that case, and the Court held that this was
+a proceeding in the nature of a suit to set aside a
+judgment, the judgment of the expert agency which had
+made this determination, and that, therefore, because
+this was administrative review, a deferential standard
+of review should apply.
+JUSTICE SCALIA: Yes.
+MS. ANDERS: So, it's quite clear that
+when --
+JUSTICE SCALIA: How close a predecessor is
+the predecessor?
+MS. ANDERS: All of the material language is
+-- is the same. There's -- there's no material
+difference for purposes of this case.
+JUSTICE GINSBURG: But the Morgan case
+involved -- it wasn't a contest between the PTO and the
+would-be patent holder; it was an interference
+proceeding, wasn't it?
+MS. ANDERS: That's correct, Justice
+Ginsburg. It was an interference proceeding, and that's
+because, at the time, section 145's predecessor applied
+equally to interferences and to ex parte patent denials.
+But the Court's reasoning, its discussion of -- of the
+predecessor statute, did not distinguish based on the
+fact that this was an interference. And also this
+Court --
+JUSTICE SOTOMAYOR: I thought that -- it's
+interesting that the language of Morgan and one of its
+companion cases, not companion in the sense of being
+heard at the same time, but on the same issue -- Radio
+City case -- both of them don't talk in the language of
+today. They don't talk about deference. They don't
+talk about substantial evidence. They talk about
+whether the PTO has expertise, and presumptions that
+their factfindings based on their expertise have to be
+overcome with some convincing evidence.
+So, they're talking in different language,
+but the concept they're talking about is one where the
+court does accept findings of the PTO on the matters
+that involve their expertise and give them weight,
+substantial weight, essentially, and only overturn it if
+the court is, in the words of Morgan and Radio City,
+"thoroughly convinced" that they were wrong.
+So, what's wrong with that standard?
+Everybody likes the deference language of today, but
+they were very clear in what they were saying: If the
+PTO made a finding, you decide whether that finding was
+based on its expertise, and if it was, you don't change
+it, court, unless you're thoroughly convinced they were
+wrong.
+Is there anything wrong with that? With
+that articulation of what the standard should be in all
+situations, whether there's new evidence or no new
+evidence?
+MS. ANDERS: Well, I think here we are
+suggesting that in -- in 145 actions, when there is new
+evidence, the -- Morgan's "thorough conviction" standard
+should apply. And that reflects the fact that the court
+needs to look at the new evidence, but because the PTO
+has made an expert determination, as the Court said in
+Morgan, that determination should not be overturned
+unless there's a high degree of certainty.
+And I would note that that is essentially
+what this Court did just last term in Microsoft v. i4i.
+There the Court said that when a third party is
+challenging the validity of a granted patent, that the
+third party should have to show invalidity based on a
+heightened burden of proof, clear and convincing
+evidence. And that reflects the same wisdom that --
+that underlies --
+JUSTICE SOTOMAYOR: All right. Let me tell
+you what my problem is with this case. It is the issue
+that Verizon raised and the lack of connection between
+the district court's holding and the circuit court's
+holding. The district court excluded the affidavit for
+the proposed arguments on the basis of them being new
+arguments that Board rules precluded them from raising
+at the stage they did. The circuit court described the
+affidavit as new evidence. And the Verizon amicus brief
+says: Court, be careful, because it's not really clear
+what's new evidence in this affidavit and what's new
+argument.
+And that question troubles me, for the
+following reason: Verizon posits that the issue of
+whether a description is specific enough is a legal
+question to which the PTO is not entitled to deference.
+Why, other than Federal Circuit and Patent Board
+precedent, is that right? And can you explain why this
+affidavit that was rejected is in fact new evidence and
+not merely new argument?
+MS. ANDERS: Certainly, Justice Sotomayor.
+I think the district court did characterize
+this as new evidence, and the reason it did that was
+because Mr. Hyatt made a concerted strategic decision
+here to present his affidavit as new evidence. In form,
+this is -- this is factual evidence. This is a
+declaration containing proffered testimony that Mr.
+Hyatt would offer if there were a trial. So, it is in
+form factual evidence, and in order to take advantage of
+the possibility of introducing new evidence in the
+section 145 action, Mr. Hyatt argued that this was
+new factual evidence that should --
+JUSTICE SOTOMAYOR: Could you tell me what
+-- other than that it's in the form of an affidavit,
+tell me what in the content was new evidence? I want to
+get away from the labels, and I want to get to the
+substance because I've looked at all of these
+submissions, and it sounds like what I read in briefs
+every day.
+MS. ANDERS: Certainly. I think whether or
+not the -- the ultimate question of whether the written
+description is sufficient is a question of law. It
+would be one that rests on several subsidiary
+factfindings, including what the ordinary skill in the
+art is, what a person of ordinary skill in the art would
+understand when he reads the specification, and where in
+the specification there is support, there is description
+support, for the claims that shows that Mr. Hyatt
+possessed the invention that he claimed.
+And so, I think when you look at what
+happened at the PTO, the examiner said: Despite my
+expertise, I can't tell where in the specification your
+claims are supported. This is at 258 -- it's a 250-page
+specification reprinted in the joint appendix. It has
+over 100 pages of diagrams, source code, and 117 claims.
+And so, the PTO asked for this information; Mr. Hyatt
+refused to present it or he didn't present it, and then,
+on rehearing, the Board said that he had not had any
+cause not to present this new -- this new argument. And
+so, at that point, Mr. Hyatt went into the 145
+proceeding, and he was -- he characterized this as
+factual evidence in order to get around, presumably, or
+it would be reasonable to try to get around, the Board's
+ruling that he couldn't present new evidence.
+Now, you certainly could characterize this
+as legal argument. We believe that we would win on that
+ground as well, even if this were new argument, because
+certainly the PTO is entitled to enforce its rules here,
+and both the district court and the panel found that the
+PTO did not abuse its discretion in -- in holding that
+Mr. Hyatt had forfeited his right to raise this
+argument. But that's not -- that's not an additional
+question presented that we -- that we added here because
+it's a very case-specific question.
+But at any rate, the -- the entire case has
+now been litigated on the basis of this being factual
+evidence --
+JUSTICE SCALIA: Your case is stronger if it
+isn't new facts, right? That's what you'd say.
+MS. ANDERS: I'm sorry?
+JUSTICE SCALIA: Your case is stronger if in
+fact it's only new argument and not new fact.
+MS. ANDERS: Certainly. I think it should
+be very clear that we would win on that ground. The en
+banc court here characterized this as new factual
+evidence and applied a rule that will -- will govern, if
+it's left to stand, in all 145 actions, which would
+permit applicants to withhold evidence from the PTO.
+JUSTICE GINSBURG: Ms. Anders, one of the
+problems with, I think, your position, is it sounds very
+strange to have two proceedings, one where you go
+directly to the Federal Circuit under 101 -- 141; and
+then this other one where you go to the district court,
+where if that's not, as Judge Newman said, a whole new
+-- whole new game, then why would Congress create two
+judicial review routes, one in the district court
+reviewable in the Federal Circuit, the other directly in
+the Federal Circuit, if there's no difference? That is,
+if in both of them, it's not de novo review; it is
+reviewing what the -- what the agency did under the
+ordinary standard for reviewing agency action.
+What's different about the -- the 145
+proceeding?
+MS. ANDERS: Well, in the 145 proceeding,
+the applicant has the ability to introduce new evidence
+that couldn't be presented to the PTO. And I think --
+JUSTICE KAGAN: But what kind of evidence is
+that, Ms. Anders?
+MS. ANDERS: Well, I think there are two
+primary categories, both of which can be very important
+in the examination proceedings. The first is oral
+testimony. The PTO doesn't hear oral testimony, but it
+is routine in the examination procedures for --
+JUSTICE KAGAN: So, in the 145, an applicant
+can take all his written affidavits and say: I want to
+present oral testimony, on these exact matters, but
+live.
+MS. ANDERS: He could -- he could certainly
+bring that to the district court, yes. Now, the
+district court always, under general evidentiary rules,
+can say: I believe this evidence is cumulative; so, I'm
+not going to hear it.
+But to the extent that the district court
+believes it would be helpful to hear oral testimony, for
+instance, if the PTO's determinations involve
+credibility decisions, then certainly the district court
+could hear that testimony, and that's often how these
+proceedings have been used.
+JUSTICE KAGAN: But to the extent the
+substance of that testimony was something that he could
+have brought to the PTO, that testimony, in your view,
+would be out of bounds.
+MS. ANDERS: There would have to be a
+reasonable justification for not having presented it --
+JUSTICE BREYER: There has to be a
+reasonable -- some kind of justification. Can you work
+with the word "equitable"? I mean, this was an
+equitable action, and could you say that the -- to the
+district court, well, of course, you -- assuming you'd
+win on the second question. But on the first question,
+this is not an on/off thing. That's your real objection
+to the de novo standard.
+You say: But these are equitable actions,
+and generally an individual should not be allowed to run
+around the PTO. So, you better have some kind of
+reason, but leave it up to the -- to the district courts
+to work with that word "equitable" and to -- it seems to
+me there will be a lot of shading cases here where you
+can't quite tell if it is new or isn't new and some
+parts are and some aren't. But just leave it up to the
+district court and say: Take into account the fact that
+people should not be allowed to run around the PTO and
+work equity. That's kicking the ball back.
+Now, if you like that, let me know. If you
+don't like it, tell me what we -- why -- what should
+we -- you want an absolute rule? Tell me why.
+MS. ANDERS: Well, the standard we're
+proposing is that the district court has discretion to
+determine whether there was reasonable cause not to
+present the evidence to the PTO.
+JUSTICE BREYER: And if it says there isn't,
+then it can't hear it? I mean, imagine you're sitting
+there as a district judge, you think: Oh, my God, they
+should have presented it, but this is the key matter
+forever. Do I really pay no attention to it at all?
+MS. ANDERS: Well, I think it's no different
+from exhaustion or forfeiture rules in any other
+context --
+JUSTICE BREYER: Except you have a history
+here.
+MS. ANDERS: The Board applicant has the --
+JUSTICE BREYER: You have the history of the
+pre-APA section 145 where they apparently did take the
+evidence in.
+MS. ANDERS: Well, certainly in the early
+cases, they took new evidence in. But by 1952, which is
+when Congress re-enacted this provision, you have the
+lower courts applying the Morgan standard and saying:
+Based on Morgan's reasoning, because we know that the
+PTO is the primary factfinder, because we know their
+decision is so important, we will apply limitations on
+new evidence because we don't think that that
+evidence --
+JUSTICE KAGAN: But then you really do go
+back to Justice Ginsburg's question because your
+understanding of what they wouldn't have a reasonable
+opportunity to present -- I mean, it's very, very
+narrow. It's a bunch of cumulative testimony that
+nobody would want to present and no judge would want to
+hear. And other than that, you're basically saying in
+all circumstances, well, they could have done that in
+the PTO. So, then you have Justice Ginsburg's problem,
+which is these are two channels that are exactly the
+same.
+JUSTICE GINSBURG: And you were beginning to
+answer that by saying, well, you can't have oral
+testimony before the PTO. But what else? I asked you
+what would be -- what's different about 141 and 145 on
+your view. And you said one thing is oral testimony.
+What else?
+MS. ANDERS: Well, the other primary
+category of evidence that could come in would be
+evidence that has a temporal component. If there's a
+lot of evidence that could be relevant to patentability
+that develops only slowly or that might arise very late
+in the process. So, for instance, obviousness is a --
+is a very common ground of rejection. But one thing
+that can be relevant to obviousness is if the invention,
+once disclosed, has commercial success. So, this type
+of sales evidence can -- can develop very late in --
+JUSTICE KAGAN: But I thought that your
+brief suggested that even with respect to that kind of
+evidence, a person can go back to the PTO. Is that
+right?
+MS. ANDERS: For the most part, the record
+closes once the -- once the applicant files his brief on
+appeal to the Board. And then it can be months or years
+before the Board issues its decision.
+Now, there are -- there are a couple of
+avenues through which an applicant could still introduce
+new evidence even when the Board is considering the
+appeal. But both of those, as the process goes --
+that's the request for continuing examination and the
+continuation application. Both of those have increasing
+down sides that require the applicant to abandon his
+appeal or give up some of his patent -- the patent term
+that he would presumably get. So --
+CHIEF JUSTICE ROBERTS: What if -- what if
+the new evidence is in reaction to the PTO's ruling?
+The PTO says: Look, we're not -- we're not going to
+issue a patent because you didn't show us that, you
+know, the valve in the back of the thing or whatever
+was -- was novel, and we think that's important. So --
+and the applicant goes to, under 145, to the district
+court and said: Well, I didn't submit that evidence
+because I didn't have any idea that that was going to be
+a significant issue, and I'm -- you know, I'm sorry,
+but, you know, I have a good basis for not thinking of
+that, and here it is.
+Is that the type of new evidence that could
+be admitted?
+MS. ANDERS: Well, in the first instance,
+the PTO's procedures actually provide -- they actually
+provide for this situation, and that's when the Board or
+the examiner enters a new ground of rejection. Then, at
+that point, the applicant has the right to reopen
+prosecution that -- introduce new evidence --
+CHIEF JUSTICE ROBERTS: So, this is an
+exception? I thought you were telling us earlier you
+generally can't get --
+MS. ANDERS: Right. Yes. I'm sorry. This
+is -- this is an exception --
+CHIEF JUSTICE ROBERTS: Oh.
+MS. ANDERS: -- that would apply when
+there's a new ground of decision. That is something
+that Mr. Hyatt could have tried to take advantage of.
+He -- he didn't. He simply sought rehearing. But in
+any event, both the district court -- the district court
+carefully considered the Board's grounds of rejection
+and decided that this wasn't -- that these weren't new
+grounds of rejection, and the panel affirmed that.
+But to get back to the difference between
+141 and 145, I think Congress separated these two
+proceedings out in 1927. Before that, you had gotten an
+appeal first on the record and then -- and then the bill
+in equity under 145. So, Congress separated this in
+1927, and it appears from the legislative history that
+it's concerned with streamlining the proceeding and
+having more efficiency in -- in patent appeals.
+So, it would be reasonable to conclude that
+there would be some number of applicants who -- probably
+the majority of applicants, who wouldn't have new
+evidence, who could go to 141 and simply get a final
+decision from a court after one court proceeding in the
+court of appeals.
+JUSTICE KENNEDY: What evidence --
+MS. ANDERS: But --
+JUSTICE KENNEDY: Oh, please, continue.
+MS. ANDERS: Simply that there are -- for
+some number of other applicants, it was important to
+provide a safety valve because the PTO couldn't consider
+oral testimony and because certainly, at the time, oral
+testimony was a major concern in interference
+proceedings, where you'd often have two inventors saying
+I invented it first; no, I invented it first. And you'd
+have this credibility fight. So, it was very important
+at the time to provide a safety valve proceeding for
+those applicants.
+JUSTICE GINSBURG: But you said that you
+could -- you could go into court on 145 even if you had
+no new evidence.
+MS. ANDERS: Yes, and Morgan, in fact, was a
+case like that. It appears some applicants may have
+done that, but --
+JUSTICE GINSBURG: So, you do -- in that
+case, would there be any difference between 141 and 145
+other than you go to a different court?
+MS. ANDERS: No, I don't think there would
+be for an applicant who had no new evidence at that
+time. But I think the -- the other alternative, to
+treat 145 as an entirely de novo proceeding that allows
+any new evidence that the applicant failed without cause
+to present to the PTO, thereby obtaining de novo review,
+it's -- there's no evident policy justification for
+Congress to provide it.
+JUSTICE KENNEDY: Well, that was -- that was
+Judge Newman's view, but the en banc court took the
+middle position. Often, in trial court evidence
+problems, the judge says, well, it goes to its weight,
+not the admissibility. And it seems to me that's what
+Judge -- the en banc majority was saying, that the fact
+that it was not presented before or that it points in a
+different direction from what the PTO found goes to its
+weight, not its admissibility. In other words, they
+will give consideration to the fact that it wasn't
+introduced and -- and maybe discount it as a result,
+unless there's a reason. So, it just depends on the
+facts of the case.
+Number one, am I reading or am I summarizing
+the en banc majority correctly? And, number two, why
+isn't that a sensible way to interpret the statute so,
+as Justice Ginsburg is suggesting, you give some meaning
+to 145? It's -- it performs a function that 141 does
+not.
+MS. ANDERS: Well, I think you're correct,
+Justice Kennedy, that -- that the en banc court believed
+that administrative deference principles didn't weigh
+against its conclusions because the district court could
+give more weight to the new evidence.
+But that is not an adequate response, we
+don't think, because this is still de novo review. So,
+once the applicant introduces new evidence, the manner
+in which the district court evaluates the PTO's
+conclusions has entirely changed. This is no longer a
+deferential standard looking at the evidence. This is
+actually a de novo review, with no deference given to
+any of the PTO's factfindings, even on the evidence
+before it. And we don't think that's a sensible way to
+read the statute because there's no basis in the text of
+the statute for a bifurcated standard that would provide
+for deferential "thorough conviction" review when
+there's no new evidence, but then de novo --
+JUSTICE KENNEDY: Well, then -- then you're
+saying that we -- that we should choose either between
+your position or Judge Newman's position.
+MS. ANDERS: Well, Judge Newman's position I
+think is inconsistent with Morgan, because Morgan was a
+section -- Revised Statute 4915 action. It was a 145
+action with no new evidence. And the Court there said
+that the "thorough conviction" standard should apply
+because this was administrative review. So, to hold
+that 145 requires de novo review even when there's no
+new evidence would be to overrule Morgan.
+JUSTICE SOTOMAYOR: I'm not sure why --
+JUSTICE KAGAN: But Morgan only talked about
+the standard of review; isn't that right? Morgan has
+very little to say about what types of evidence ought to
+be admitted in this proceeding. And one thing we could
+do is to separate out these two things and say, you
+know, we think that there's a basis for one, for, let's
+say, giving the government a fairly deferential standard
+of review -- call it clear and convincing, call it
+thorough conviction -- but go the other way, rule
+against you, on the evidentiary point, which Morgan says
+nothing about.
+MS. ANDERS: Well, I think Morgan did not
+directly address this -- the admissibility of new
+evidence, but by saying that the PTO is the primary
+decisionmaker and that the court should not lightly set
+aside what the PTO does, it invoked administrative
+deference principles, which in turn show why all of the
+reasonably available evidence needs to be presented to
+the agency.
+And -- I do think that it -- it wouldn't
+make sense to have a de novo standard of review for
+patent denials any time new evidence comes in, largely
+based on this Court's decision in Microsoft. There, the
+Court rejected the argument that a third party who had
+no opportunity to present evidence to the PTO should not
+be held to as high a standard of review. So, it would
+be particularly perverse here to say that de novo review
+should apply whenever a patent applicant puts in any new
+evidence that --
+JUSTICE SOTOMAYOR: But I don't know that
+that -- I think you're confusing the nature of the
+review, which is de novo, new, with the -- the burdens
+that attach to the proof. Those are two different
+concepts. And so, that's what Microsoft said. Don't
+confuse burdens with standards of review. That it's de
+novo review is one thing, but even in de novo review, we
+often give more weight or presumptive weight to some
+facts as opposed to others. And that's what I think
+Morgan was talking about. Morgan was very clear:
+Whether it was new evidence or not, you give -- you
+accept as valid whatever the PTO does, and you require
+to be thoroughly convinced by new evidence or not that
+they were wrong.
+I don't know why that standard can't apply
+in any situation. I think that's what Judge Newman
+intended, although he didn't say that.
+So, why are we confusing the standard of
+review with the burden?
+MS. ANDERS: Well, I think that the
+presumption of validity and the need to give deference
+to the PTO's determinations are essentially two ways
+of -- of saying the same thing. As Microsoft noted, the
+presumption of -- of validity comes from the assumption
+that the agency is presumed to do its job. That's what
+Judge Rich said. And that in turn is what the Court
+said in RCA, where it announced the presumption of
+validity, and there it relied on Morgan.
+JUSTICE SOTOMAYOR: I have two problems with
+your argument. The first is -- and I know that it may
+be unique to me because many of my colleagues say that
+you don't rely on legislative history, but I'm not
+relying just on legislative history. I'm relying that
+the legislative history is replete with the commissioner
+of patents himself saying that section 145 required de
+novo review. And witness after witness tried to argue
+for Congress to change it, and it didn't, arguing that
+it required de novo review.
+Second, our cases repeatedly describe it as
+de novo review. So, you got to get past that.
+And then you got to get past that between
+1927 and 1945 you have Barrett on your side. But there
+are plenty of courts, including the Second Circuit, and
+a very respected jurist, Learned Hand, saying that if
+you exclude new evidence, it should only be if it's on
+principles of estoppel, that someone intentionally
+withheld evidence from the PTO.
+So, how do you deal with a record that
+doesn't basic -- that doesn't support your basic
+argument?
+MS. ANDERS: I think the record does support
+our argument, Justice Sotomayor, because what you see in
+the early 20th century after Morgan had construed this
+as administrative review -- you referred to the 1927
+hearings. There, I think many of the people used the
+phrase "de novo" in a very loose way that probably was a
+result of its dating before the APA. They referred to
+it mostly as -- as a contrast between the original
+action and the appeal. And that's the same thing you
+see in the early cases. For instance, Globe-Union
+referred to this as a de novo proceeding, even as it
+said that the thorough conviction standard should apply
+and new evidence should be limited because this was
+administrative. So, I don't think you can place very
+much weight on the use of the term "de novo."
+I do think it's notable that every time
+there was an objection in the cases before 1952, the
+courts applied limitations on new evidence. Dowling,
+the case you referred to -- that was -- that was dicta;
+the court discussed the standard but didn't actually
+apply it there. And so, I think the most natural
+inference is that in 1952, Congress looked to Morgan and
+it looked to these cases, and it viewed this as an
+administrative review proceeding.
+If I could reserve the balance of my time.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Mr. Panner.
+ORAL ARGUMENT OF AARON M. PANNER
+ON BEHALF OF THE RESPONDENT
+MR. PANNER: Mr. Chief Justice, and may it
+please the Court:
+The language of section 145, the structure
+of the judicial review provisions in the Patent Act, the
+long history of the provision, and this Court's
+constructions of its predecessors all make clear that
+the Government's argument that a plaintiff is barred
+from introducing new evidence in an action under section
+145, except in the unusual if not extraordinary
+circumstance where the applicant had no opportunity to
+introduce the substance of that evidence, is incorrect.
+Section 145 does not follow the modern norm
+of on-the-record review. Such review is afforded under
+sections 141 to 144. And no principle of administrative
+law supports the Government's "no opportunity" standard
+in situations where Congress has authorized a trial de
+novo to obtain relief from adverse agency action.
+CHIEF JUSTICE ROBERTS: The problem I have
+with your submission: You say there are basically two
+routes to get review of a denial by the Patent Office.
+The first is, under 141, you appeal to the Federal
+Circuit, right, and in that situation, you're limited to
+the record before the agency --
+MR. PANNER: Yes, Your Honor.
+CHIEF JUSTICE ROBERTS: -- on which you
+lost. And there's deference to the agency, which ruled
+against you.
+Under 145, you can add new evidence, you
+could address questions that the PTO raised, saying you
+don't -- you haven't dealt with this valve in the back,
+and you could say, well, here's new evidence dealing
+with that. There's no deference to the agency, and to
+some extent you can pick which judge you want to hear,
+to the extent you can -- can do that.
+Why would anybody proceed under section 141
+instead of 145?
+MR. PANNER: Well, Your Honor, to be clear
+about what is permitted under section 145, it is correct
+that new evidence can be permitted to go to issues that
+have been properly ruled on by the PTO in the course of
+ruling on the ex parte application.
+The reason that appeals to the -- to the
+Federal Circuit are quite common is because often the
+issue that is the basis for the rejection is a legal
+issue. And as to those issues, there's de novo review
+in the Federal Circuit. The Federal Circuit will be
+ruling on those legal issues in time in any event. It
+is really in the circumstance where there is a factual
+question as to which new evidence is relevant, where the
+applicant will avail himself of what --
+CHIEF JUSTICE ROBERTS: So, that in -- in
+every case where it's anything other than a purely legal
+issue, you would go under 145?
+MR. PANNER: Well, Your Honor, if you had
+evidence that you wanted to present, and the remedies at
+the PTO were inadequate for one reason or another. But
+in thinking about the practical implications of the
+procedural option that section 145 affords, it's
+important to recognize that this procedure has been in
+place for generations, and it has been understood by the
+patent bar as reflected in decisions of the --
+CHIEF JUSTICE ROBERTS: Well, I know.
+That's why I'm -- I'm really confused, because I take it
+that people don't often use 145, right? They almost
+always appeal to the Federal Circuit.
+MR. PANNER: Well, I think that the number
+of cases involving rejections that are taken up into
+court are somewhat limited, in part because applicants
+often have an adequate remedy before the PTO. But where
+there is a circumstance where there has been a final --
+a Board action, a case like this one, where the --
+the grounds for rejection, not meaning the technical
+grounds, because the grounds of written description had
+been identified in the examiner's decision, but where
+the reasoning that justified the rejection was quite new
+in the decision of the Board and where there were --
+there was factual evidence that the applicant wanted to
+submit to a generalist district court to permit the
+district court to understand where in the specification
+the support for these elements --
+CHIEF JUSTICE ROBERTS: Well, Ms. --
+Ms. Anders told us that there's a procedure before the
+PTO that lets you deal with these -- that sort of
+something came up that you didn't think about, and you
+can address that.
+MR. PANNER: Your Honor, what -- what
+Ms. Anders was referring to, I believe, is the
+possibility to reopen where there are new grounds for a
+rejection. There were no new grounds here because it
+was still a written description rejection. The
+applicant did argue in -- in filing for rehearing that
+the explanation that the Board had provided was one that
+he had not been able to discern from the examination --
+the examiner's rejection.
+And if you just look at the record in this
+case, when the examiner said that there was support
+lacking for the features that were -- where the Board
+eventually did -- did affirm, there is no explanation as
+to what element was missing, why the -- why the feature
+was not supported in the specification. The Board
+provided that reasoned explanation, and the applicant
+tried to respond, and the Board refused to -- to accept
+it.
+JUSTICE BREYER: Do you think -- in terms of
+the second question on the standard of review, I'm
+somewhat -- I'd like your response to the approach, that
+where there's ambiguity -- I mean, you're going to win
+if there's no ambiguity. But if there's ambiguity, I
+think that 1946 makes a difference. That is, preceding
+that time, every agency went its own way, and you had
+dozens of specialized methods of review. And the whole
+purpose of 50 years of administrative law has been to
+try to create uniformity across agencies in a vast
+Federal Government.
+And now, what was obviously worrying me in
+the first case and this case, too --
+MR. PANNER: Yes, Your Honor.
+JUSTICE BREYER: -- is that we're chipping
+away at that, and that will be very hard for lawyers and
+for ordinary people to understand if we suddenly go back
+and create specialized rules in favor of each agency
+that always wants a specialized rule, of course; they
+think what they do is terribly important, which it is,
+I'm sure.
+But that's -- that's why I'm saying if
+ambiguity on the standard of review, you go with
+uniformity.
+MR. PANNER: Right. Well, there's really
+two points, Your Honor: With respect to standard of
+review, which is separate from the question of the
+admissibility of the evidence -- on standard of review,
+the APA says that where there's a trial de novo, the
+standard is whether the finding is unwarranted by the
+facts under (2)(F). So --
+JUSTICE BREYER: That's -- that begs the
+question in a sense because they're interlinked. I
+mean, the same reasons would support that it's not a
+trial de novo even if you introduce some new evidence.
+MR. PANNER: Well, I think that --
+JUSTICE BREYER: It is a -- it is an old
+trial with some new evidence, and there will be a
+thousand different variations on that theme.
+MR. PANNER: I think that goes to Justice
+Sotomayor's point really, which is that there is a trial
+de novo, and clearly at a minimum what the courts are
+talking about when they refer to this, not 5 times, not
+10 times, but dozens of times, this Court several times,
+lower courts pervasively, when they are talking about a
+de novo proceeding, they're talking about the fact that
+the applicant can introduce new evidence to attempt to
+overcome the adverse action that was -- was entered by
+the agency.
+JUSTICE BREYER: All right. So, the new
+part -- I get that.
+MR. PANNER: Okay. And then the question
+becomes, what is the appropriate standard of review when
+there is new evidence going to this question? And the
+answer here goes I think to -- section (2)(F) says that
+there's a -- the question is whether it's warranted by
+the facts. There is then the question of what weight
+may be afforded to a particular agency -- agency
+determination. At a minimum, the fact that there has
+been a rejection shifts the burden. When an applicant
+goes to the PTO, there's an assumption of an entitlement
+to patent, unless the PTO can show that the applicant is
+not entitled to that patent. So, the burden is on the
+PTO.
+Once there has been a proper rejection by
+the agency and the Board has ruled, then the applicant
+bears the burden. So, at a minimum, there has been a
+shifting. And the applicant would then bear the burden.
+And as a practical matter, as the Federal Circuit
+indicated, the district judge will weigh the evidence
+before it, including the new evidence and the findings
+by the agency, in making its determination as to whether
+the applicant has carried -- carried his burden to show
+that he's entitled to the patent.
+JUSTICE KENNEDY: If the judge does that,
+what -- how does he articulate the weight that he gives
+to what the PTO find? Does he say I give deference to
+this? I give substantial deference? This was all
+discussed -- page 9 of your brief, you summarized what
+the majority opinion of the en banc court did.
+MR. PANNER: Yes, Your Honor.
+JUSTICE KENNEDY: And in that connection, on
+this same line, do you -- do you agree with that
+summary?
+MR. PANNER: I do, Your Honor. That is to
+say that what the Federal circuit recognized is that in
+determining the weight to give to new evidence and
+determining what weight to give to the determined --
+prior determination of the agency, it's appropriate for
+the district court to look at the circumstances of the
+new evidence. And one of the things that's -- this is
+an equitable -- well, was an equitable action. And, of
+course, the judge is sitting without a jury.
+In Microsoft, there was obviously concern by
+this Court that there not be shifting standards of proof
+that would be confusing to a jury and could lead to
+collateral litigation about that. Where a district
+judge is making a determination about a factual issue,
+the district judge can as a practical matter quite
+reasonably determine what was before the Board, what did
+the Board decide, what was the basis for that, how
+strongly supported is it, versus how -- how -- to what
+extent is this new evidence something that really
+requires me to look at this anew.
+JUSTICE KENNEDY: Well, in line with
+Justice Breyer's question, can you give us an example of
+some other agency review proceeding that is somewhat
+like this, or is this just unique?
+MR. PANNER: I don't think it's entirely
+unique at all, Your Honor. That is to say, for example,
+in proceedings where there's orders to pay money by the
+FCC, the findings of the agency are given prima facie
+weight in an action -- in an enforcement action. And
+so, new evidence is permitted, and the district judge
+would make a determination based on the record and the
+new evidence. But the party or the agency seeking to
+enforce the prior order would be able to rely on those
+factual findings to -- as prima facie evidence where, if
+there was no contrary evidence, it would actually
+establish those facts.
+There are other administrative review
+schemes that do afford trial de novo in which the -- you
+know, there may be more or less deference to whatever
+the agency did depending on -- on what the record may
+reflect about the considered judgment of the agency.
+JUSTICE GINSBURG: Are there limits on the
+new evidence that can be produced? Are there any
+limits, in your view?
+MR. PANNER: Well, Your Honor, I think that
+the principle of estoppel that was recognized in Barrett
+is not one that we're -- we're challenging. That is to
+say, in a circumstance in which an applicant -- and, of
+course, that was an interference proceeding, and it's
+perhaps easier to foresee this happening in an
+interference context, but in that case, the plaintiff
+had actually suppressed, had directed witnesses not to
+answer questions that went into a particular factual
+area and then, when -- after appeal and when the
+district court action was brought, attempted to
+introduce the very evidence that he had -- that the
+applicant had deliberately suppressed. And the district
+court said, look, that -- that is -- gives rise to an
+estoppel, which seems to me a generally applicable
+principle that --
+JUSTICE BREYER: All right. Well, if you're
+willing to accept that, then what about broadening that
+to prevent people from running around the PTO, and
+simply saying unless the -- unless the person, the
+potential patentee, unless he wants to -- unless he has
+shown he can show that he's innocent, that is to say it
+wasn't deliberate, it wasn't negligent, it wasn't a part
+of a trial -- of a strategy, unless he shows he was
+totally without sin in some form of words in not
+introducing the evidence the first time, he can't
+introduce it now?
+MR. PANNER: I think the difficulty with
+that, Your Honor, is not only is it inconsistent with
+the practice of the courts, which have always recognized
+that, but it also ignores the fact that there needs to
+be decisions that an applicant makes about what evidence
+to present to the PTO. And there may be good cause for
+not presenting evidence in the PTO that becomes quite
+relevant once --
+JUSTICE BREYER: Well, say that. Say unless
+he can show that there was good cause for his not having
+introduced it before the PTO, he -- the -- the court now
+won't consider it.
+MR. PANNER: Well, Your Honor, we would --
+we would certainly meet that good cause standard in this
+case, but the thing that I think is difficult about that
+standard is that it could potentially lead to all sorts
+of collateral litigation. In a typical case, for
+example, an applicant will seek to introduce new expert
+testimony that either was not or was -- is additional to
+whatever was at issue -- was offered in the PTO. Often,
+expert testimony will not be offered at all in an ex
+parte application.
+JUSTICE SOTOMAYOR: So, give us a standard
+and how is what -- the good cause that you're somehow
+willing to accept different from the Government's
+reasonable cause standard? And equity seems to have
+required an intentional or bad faith withholding. Is
+that what you want to limit yourself to? What do you do
+with sort of the in between? The intentional and the
+grossly negligent.
+MR. PANNER: Justice Sotomayor, to be clear,
+the proper standard is -- does not permit exclusion of
+evidence because there was good cause to present it and
+it was not.
+The standard for -- which we think is
+supported in the cases is one that would permit the
+introduction of evidence as the Federal Circuit said
+consistent with the rules of evidence and civil
+procedure. That's why principles of estoppel, which are
+reflected in ordinary equity practice, not just
+administrative review contexts, would be -- would be
+applicable and could lead to the exclusion of evidence.
+JUSTICE SOTOMAYOR: And what do you see the
+limits of that estoppel -- equity principles? I think
+that's what Justice Breyer was -- was referring to.
+What would be the contours of your equity limits?
+MR. PANNER: And I think that looking at the
+-- at the cases that were decided before 1952, which
+everyone seems to -- to agree is -- is the magic date,
+the furthest that any court went was the decision in
+Barrett. And it's interesting that the panel decision
+in this case also relied on the idea in Barrett.
+JUSTICE SOTOMAYOR: That's a little bit
+unfair, to characterize the cases as limited to that.
+Some talked about negligence.
+MR. PANNER: Not --
+JUSTICE SOTOMAYOR: And some courts said it
+should be intentional. There was a debate back and
+forth.
+MR. PANNER: In the court of -- in the court
+of appeals, Your Honor, the only exclusion of
+evidence --
+JUSTICE SOTOMAYOR: Yes, I agree.
+MR. PANNER: -- was from Barrett, and that
+was a case that involved, again, directing a witness not
+to answer, the suppression of inquiry into a particular
+factual area where the applicant then -- changing his
+story and claiming a different date for reduction of
+practice and a different basis for reduction to practice
+than had been argued before the PTO -- attempted to
+introduce the evidence that he had suppressed.
+So, that's a very different circumstance.
+And the courts -- the decisions are actually at pains to
+say that Barrett should not be over-read. The Third
+Circuit in the Carborundum case said that; the Nichols
+case, which we've we cited in our brief, said that; and
+of course, as you pointed out, Judge Hand observed that
+in the -- in the Dowling case. Globe-Union said that.
+So, even the cases that the Government itself relied on
+were -- accepted evidence, despite the arguments that
+were made by the defendants in those cases that this was
+evidence that should have been excluded because it could
+have been presented, and -- and did consider it.
+And that brings us, I think -- there has
+been a lot of discussion about Morgan and the standard
+of review and what Morgan has to say about that. And
+the critical point that this Court recognized in
+Microsoft was that Morgan is one of the early cases and
+then -- and Radio Corporation is another that depend on
+an idea of the presumption of validity, which of course
+was then adopted by Congress in section 282 as a
+statutory presumption, that was given that common law
+meaning that required clear and convincing evidence.
+But the clear and convincing evidence is to overcome the
+grant of a property right to the defendant in those
+cases.
+What's critical in Morgan is the fact that
+the -- the Patent Office had granted a patent to the
+defendant, and it was a challenge to the validity of
+that patent that the plaintiff's case relied on. And
+it's -- and that's absolutely clear because the Court
+cites to Johnson v. Towsley, which is a case involving a
+land grant. And what the Court says is our presumption
+is that when the executive has the power to give
+property rights, we don't get to review it.
+Now, in this case, we see a limited
+exception because there's a statute that actually tells
+us we have to do it, but that exception is going to be
+limited. But if you look at what Morgan relies on,
+Morgan is not relying on agency expertise; it's relying
+on agency authority, which is a different matter. And
+so -- and the authority that the agency had to grant a
+property right. In the -- in the conception of a -- of
+the court of 1893 and the administrative law that
+existed in 1893, the fact that there was no property
+right being challenged in an action where there was an
+effort to overcome a rejection means that this idea
+about the presumption of the validity of the rights that
+had been granted by an executive department doesn't come
+into play. There had been no rights granted by the
+executive department, and there's a new proceeding in
+which, to quote Professor Merrill's article, the court
+had "the whole case." And that's really reflected in
+the language that Congress chose.
+Now, of course, that -- the differences
+between what Congress provided under section 145 and the
+modern administrative review do lead to some -- to some
+questions. There is the question, you know, what should
+the standard be if there is no new evidence? Which --
+you know, which the court looked at.
+JUSTICE GINSBURG: And on that I think you
+-- you're not taking the position that Judge Newman did.
+I think -- didn't you say that if no new evidence is
+introduced in a 145 proceeding, then the court engages
+in APA-style review?
+MR. PANNER: Your Honor, Judge Newman said
+that if there -- that all -- all findings should be de
+novo in a section 145 action, but the -- the majority of
+the en banc court said that if there's no new
+evidence -- relying on what the Federal Circuit had held
+for many years, that if there's no new evidence, then
+the standard would be the substantial evidence standard
+that would apply on appeal.
+JUSTICE GINSBURG: And that -- and that --
+JUSTICE KENNEDY: And you agree with that?
+MR. PANNER: We haven't taken a position on
+it, but let me suggest --
+JUSTICE KENNEDY: I -- I noticed that.
+MR. PANNER: -- why it might be right, Your
+Honor, which is that section 141 and section 144 do --
+this Court in -- you know, held in Zurko that once you
+are in a situation where there is no new evidence -- and
+as an aside, Zurko emphasized that Morgan was a case
+that was on no new evidence. Where you have a case
+that's on no new evidence, there -- the APA standard of
+review, substantial evidence, arbitrary/capricious
+review, applies. And it might -- this might be the sort
+of narrow circumstance where to apply a de novo
+standard, even though that may be otherwise suggested by
+the language of section 145, would create an anomaly, as
+-- as this Court recognized in Zurko.
+JUSTICE SOTOMAYOR: It seems to me you were
+introducing such a gamesmanship. Anybody who wanted to
+get out of substantial deference under the APA just has
+to present an expert. That -- that's what makes little
+sense to me, trying to -- now we're hair-splitting in a
+very minute way.
+MR. PANNER: Right. I don't -- I don't
+think --
+JUSTICE SOTOMAYOR: Articulate a standard
+that would -- Newman is suggesting total de novo review
+with no reference to any kind of presumption applied to
+the PTO decision. Another way --
+MR. PANNER: I'm not sure --
+JUSTICE SOTOMAYOR: -- to look at it is the
+way I suggested, which is it doesn't matter whether
+there's new evidence or not; what is the level of
+respect that you are going to give to the PTO factual
+findings?
+MR. PANNER: Right. And, Your Honor, I
+think that the standard of proof is one of -- is the
+preponderance of the evidence. And the question of what
+weight -- as the Federal Circuit said, what weight to
+afford to that prior finding of the PTO would depend on
+what the record showed. That is the -- as the facts of
+the case may appear -- in section 145, it requires the
+district court to look at the findings and look at the
+new evidence and to then make the determination.
+JUSTICE SOTOMAYOR: Be -- as in the language
+of Morgan, be convinced that the PTO was wrong?
+MR. PANNER: As section -- as I say, the
+language of Morgan deals with the circumstance in which
+there's a challenge to the validity of an issued patent.
+The action that was at issue, the action as to which the
+validity was being challenged, was not the denial of the
+patent to the applicant; it was the fact that the PTO
+had issued a patent to the defendant in that case. And
+so, there was a collateral attack, effectively a
+collateral challenge to the validity of that issued
+patent. And that's why Radio Corporation of America
+cites Morgan, and that's how, you know, it's relevant to
+the -- this Court's, you know, decision in Microsoft,
+that the statutory presumption of validity carries this
+heightened standard of proof.
+JUSTICE BREYER: My goodness. Suppose
+you're a lawyer, back to the Chief Justice's question,
+as you are, and you have the client there, and you're
+thinking, you know, if he puts all his evidence before
+the PTO, and they say no, we've had it. I mean, there
+we are. But if we hold back something, well, then we're
+going to get not -- get de novo review and a district
+court. Boy! But if we're too obvious about holding
+back something, we run into the estoppel rule.
+My goodness. You're -- you're in a mess, it
+seems to me, trying to advise a client what to do in
+that situation. Better not say hold something back; on
+the other hand, if he does he's pretty -- how do you
+deal -- you see?
+MR. PANNER: I think the -- I understand the
+concern, but the practicalities of patent prosecution
+practice are that no applicant would hold back evidence
+in an effort to -- to produce that sort of tactical
+advantage because once --
+CHIEF JUSTICE ROBERTS: Because -- I'm
+sorry. Go ahead.
+MR. PANNER: I think because it's -- it's
+frankly more straightforward and easier to try to meet
+those objections in the Office. That's what usually
+happens, is that there's a dialogue with the examiner to
+try to meet the grounds for rejection.
+One of the things that I think is important
+to take into account with respect to the context of this
+case is there were a vast number of rejections. There
+was not just a rejection on written-description and
+enablement grounds, but there were rejections for double
+patentings; there were rejections for anticipation;
+there were rejections for obviousness. And every single
+one -- every single one -- of those grounds for
+rejection was overcome in the appeal before the Board.
+And many of the written-description rejections were
+overcome in the appeal before the Board. And at -- with
+respect to every one, if one goes back and reads the
+examiner's decision, the examiner did provide an
+explanation as to what was lacking with respect to
+certain -- certain elements of the claimed invention,
+and with respect to every single one of those, the Board
+reversed.
+So, where the applicant was provided a fair
+opportunity to try to meet the concerns, the applicant
+did so, and the Board ruled in his favor. And he again
+attempted -- there's no question of sandbagging here.
+The -- the applicant brought these arguments to the
+Board in the rehearing petition, in the request for
+rehearing, and said here's my answer to your more
+focused explanation. And they -- they refused to hear
+it.
+So, as a practical matter, I think that --
+and you don't have to take my word for it, again,
+because this procedure has been in place for so long,
+and problems have not arisen. And even if there were
+uncertainty as to what the precise standard for
+admissibility was, the applicants would have every
+reason to test that and to -- to try to do something
+along that line if that were a realistic option and
+favorable.
+The fact of the matter is that that has not
+happened because the applicants have every reason in the
+world to pursue the application with vigor before the
+Office. And the Federal Circuit, which, of course, is
+more familiar with the -- the patent application process
+than any other court, had no concerns that the rule that
+they were adopting would lead to abuses.
+CHIEF JUSTICE ROBERTS: I guess, as a
+practical matter, these things all end up before the
+Federal Circuit anyway, right?
+MR. PANNER: That's right, Your Honor.
+CHIEF JUSTICE ROBERTS: And I suppose that
+-- if you had the same case and one is coming up under
+the 141 and the other under 145, I suppose it's
+theoretically possible they could reach different
+results because of different standards of review.
+MR. PANNER: Well, Your Honor, you can't do
+both.
+CHIEF JUSTICE ROBERTS: No, no. I know.
+I'm not saying -- the point is that although they all
+come before the Federal Circuit, they may come to them
+in a very different posture that would cause the Federal
+Circuit to rule differently if you had the same case
+under one and under the other.
+MR. PANNER: Well, Your Honor, I -- it
+wouldn't be on the same record.
+CHIEF JUSTICE ROBERTS: Right.
+MR. PANNER: If it were on the same record,
+then presumably the -- the issue that would be presented
+would be quite similar. The only time I can see that --
+so, in other words, if there were a different record,
+it's true that the Federal Circuit's review of the
+district decision would be -- it would be the difference
+that this Court recognized in Zurko. It would be the
+court/court standard of review, which is -- gives
+perhaps slightly less weight to the decision of the
+district court than the court/agency review. But that
+doesn't seem like an advantage. In the -- in a
+circumstance at least where an applicant has prevailed,
+the applicant would be more likely to see the victory
+taken away by the Federal Circuit.
+Unless the Court has questions.
+Thank you, Your Honor.
+CHIEF JUSTICE ROBERTS: Thank you,
+Mr. Panner.
+Ms. Anders, you have 3 minutes remaining.
+REBUTTAL ARGUMENT OF GINGER D. ANDERS
+ON BEHALF OF THE PETITIONER
+MS. ANDERS: Thank you.
+This is an action for judicial review of
+agency determination. This is an action that -- that
+requires the patent applicant to -- to seek a property
+right from the agency, to have it denied, and to
+challenge that in court. And as a result, this Court
+said in Zurko that this is review of an agency
+determination, and, therefore, Morgan's deferential
+standard should be carried forward into the APA.
+And in construing Morgan, the Court in Zurko
+did not consider that it was -- whether a property right
+had been awarded or not; it was simply that the agency
+had made a determination in its expertise. And I think
+that goes to why it would not be sufficient for the
+court simply to weigh the evidence differently. In
+every other agency -- judicial review proceeding of
+agency action, the rule is that the agency is the
+primary decisionmaker. The agency has to consider the
+evidence first and make a determination. That aids
+judicial review. It allows the agency to apply its
+expertise. And we generally don't think of the court as
+being the one who should make the first determination on
+issues of fact. And that's particularly --
+JUSTICE SCALIA: Yes, but you have a strange
+statute here. I don't know any statute that -- that
+reads this way. "As the facts" -- "as the facts" --
+where is it? "As the facts may" --
+MS. ANDERS: Yes. "As the facts" --
+JUSTICE SCALIA: "As the facts in the case
+may appear." That's --
+MS. ANDERS: Well, that language was in the
+statute in Morgan when the Court construed this as
+judicial review. And I think that -- there would have
+to be a compelling reason in order to interpret the
+statute to permit an -- to permit the applicant to
+introduce evidence that he failed without cause, without
+justification, to provide to the agency.
+And I don't think that Mr. Hyatt has shown
+any such justification. And --
+JUSTICE KAGAN: Well, but I guess the
+compelling reason is the statutory language and
+especially with respect to the admissibility of evidence
+question. I mean, it -- the standard that you suggest
+just can't be derived from the statutory language; isn't
+that right?
+MS. ANDERS: Well, I think certainly there's
+an exhaustion requirement within the statute. The Board
+has to have considered the application. And, therefore,
+it would make no sense to have the Board consider the
+application if it didn't have to consider all of the
+evidence that was provided.
+So, I think in that sense, you know, the
+standard that the Federal Circuit put in place and that
+Mr. Hyatt is proposing really is providing --
+JUSTICE SOTOMAYOR: So, why didn't the court
+just say what you said? If it -- if -- not the court;
+Congress. If you admit that Congress intended a section
+145 action to permit new evidence, if it wanted to limit
+that evidence to something that could not have been
+found with due diligence or whatever your limitations
+are, why did it speak more broadly? I mean, the
+statutory language suggests "as the facts in this case,"
+not in the case before the PTO. As law and -- "as
+equity might permit."
+This is very broad language.
+MS. ANDERS: Well -- so, the language could
+be taken to suggest that some new evidence is
+admissible, but I think then we look to the fact that
+this -- just like section 141 is a judicial review
+proceeding, and there should have to be compelling
+reason before we deviate from the normal deferential
+standards that apply when a -- when a court is reviewing
+an agency's determination.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+The case is submitted.
+(Whereupon, at 12:03 p.m., the case in the
+above-entitled matter was submitted.)
+26:5 admissible 19:19 appear 43:25 32:12 33:23
+52:4 adopted 40:5 Anders 1:18 2:3 19:12 29:22
+30:8 32:7 12:3,12 13:2 14:15 16:10,14 8:6,14 10:3,10
+37:14 advise 45:4 14:1,10,15,19 16:19 17:3,15 10:11,16 11:1
+affidavits 12:9 18:21,23 19:11 28:6 29:8,22 49:1
+11:20 afford 35:6 23:22 25:3 33:7 35:16,25 46:16
+21:17,18 43:23 29:13,18 48:25 36:19 37:7 arisen 46:24
+26:14,23 afforded 26:19 49:1,3 50:5,8 39:6 44:10 art 9:14,14
+32:7 34:1 32:17 50:23 51:18 45:10 46:12,13 article 41:11
+35:23 affords 28:14 anew 34:13 46:16 48:18,19 articulate 33:10
+42:2 44:8 agencies 30:19 announced 24:4 49:6 50:12 43:9
+49:4,5,19 agency 3:12 5:2 anomaly 42:24 applicants 4:5 articulation 7:1
+11:19,20 22:17 answer 15:15 11:7 18:15,16 aside 5:1 22:14
+27:4,7,13 39:5 46:18 28:24 47:1,6 asked 9:25
+34:21,25 35:8 43:2 50:25 51:2 assumption 24:1
+29:16 41:1 49:5,7,9 APA 25:9 31:13 11:5 25:20 attach 23:6
+49:20,22 50:14 49:11 applies 4:22 attempt 32:6
+5:4 20:21 agree 33:17 apparently apply 4:2 5:5 39:9 46:15
+22:14 38:13 39:2 14:17 7:7 14:25 attention 14:9
+26:1 42:9 appeal 16:11,16 17:23 21:19 authority 40:25
+30:18 ahead 45:14 16:20 18:9 23:1,17 25:14 41:1
+38:5 41:3 aids 49:21 25:11 27:2 25:23 42:7,22 authorized
+allowed 3:25 28:21 35:22 49:22 51:24 26:22
+22:11 allows 19:20 appeals 18:13 approach 3:18 available 4:3
+bifurcated 21:9 49:11 44:9 claiming 39:7
+14:15 5:14 6:5 7:21 24:14 7:17 8:4 11:3
+17:1 18:6 29:23 30:3,6,8 25:21 28:8 channels 15:12 37:20 40:7,8
+31:1 32:25 34:9,10 29:2 30:2,22 characterize 40:15
+44:20,24 46:3,5,10,14 30:22 35:19 8:16 10:9 clearly 32:1
+46:6 46:17 50:24 37:4,6 38:16 38:18 client 44:21 45:4
+33:14 Boy 45:1 45:22 47:17 26:3,7,24 27:6 37:6 44:12,13
+Breyer 13:4 48:2 50:6 28:7,18 29:12 colleagues 24:8
+38:15,16 36:4,23 38:9 13:17 14:20 chipping 30:24 24:1
+44:19 24:16 25:12,19 choose 21:13 coming 47:17
+7:16 brief 8:3 16:6,10 37:25 38:12,18 circuit 3:14 4:20 1:4
+22:21 33:13 39:15 39:18,20 40:2 4:22 7:23 8:2 commercial
+briefs 9:7 40:10 8:11 11:11,16 16:3
+broad 51:17 categories 12:4 28:21 33:3,20 common 16:1
+17:7 broadly 51:13 cause 3:20 10:3 42:4 43:22 companion 6:3
+22:4 brought 12:25 14:3 19:21 47:8,14,25 6:3
+34:10 35:23 46:16 36:20,24 37:3 48:2,20 51:5 compelling
+bunch 15:7 37:13,15,22 Circuit's 48:11 50:11,18 51:22
+26:6 49:2 C 11:2 12:12,20 circumstances concern 19:2
+29:18 call 22:6,6 37:3 50:23 cited 39:15 concerned 18:12
+careful 8:4 40:13 44:7,13 civil 38:2 concerted 8:18
+carried 33:7,7 challenged 41:5 46:9 conclusions
+21:3 convinced 6:17 courts 13:15 debate 38:22 derived 50:21
+34:5 7:17 22:6 40:7 39:12 38:12 9:11,16 29:4
+18:7,10 Corporation 4:23 5:22 7:23 4:17 8:18 despite 9:20
+24:14 40:3 44:14 7:23 22:21 14:25 16:12 39:19
+26:22 correct 5:18 26:11 44:16 17:24 18:18 determination
+41:13,15 20:19 27:19 court/agency 22:21 29:5,7 5:3 7:9,10
+correctly 20:14 48:16 38:14,15 43:12 32:18 33:6,23
+52:1 48:14 48:12,15 49:5,10,15,21
+39:22 course 13:8 30:19 31:2 22:13 49:20 determinations
+51:1 27:21 31:3 42:24 decisions 12:20 3:22 12:19
+34:2 35:17 credibility 12:20 28:17 36:19 23:24
+41:14 47:8 critical 40:1,11 declaration 8:21 34:9
+50:25 3:13,19 4:6,19 12:15 15:7 40:13 44:11 33:22
+6:16,23 7:7,9 D 39:20 33:21,22
+11:4,12,15 Daniels 4:23 20:21 21:5 deviate 51:23
+13:8,20 14:2 dating 25:9 27:7,13 33:11 dialogue 45:18
+18:18,19 19:9 day 9:8 43:3 difference 5:13
+45:21 26:8 28:24 22:19,25 23:5 deliberate 36:10 41:14
+35:23 36:1,25 25:13,17 26:22 denial 27:1 44:9 15:17 19:16
+41:3,11,19,23 42:1,22 43:10 denied 3:12 49:7 39:7,8,11
+22:7 49:12,17,23 deals 44:6 depending 35:8 difficult 37:4
+50:9 51:7,8,24 dealt 27:11 depends 20:11 difficulty 36:15
+22:11 46:9 7:3,6,8,18 8:3 17:14 30:2 facts 10:23
+enablement 14:20 15:1,2 exception 17:18 factual 8:20,23
+enforce 10:12 16:4,7,15,23 exclude 24:22 11:4 28:4 29:8
+enforcement 18:17,20 19:10 39:21 39:6 43:17
+8:16 enters 17:14 22:1,12,16,20 41:8,10 fairly 22:5
+11:12,15 entire 10:19 22:23 23:2,13 exhaustion 4:1 faith 37:16
+entirely 19:20 23:15 24:22,24 14:11 50:24 familiar 47:9
+21:3 34:18 25:15,20 26:14 existed 41:4 favor 31:2 46:14
+17:3 entitled 8:10 26:17 27:9,12 expert 3:22 4:2 favorable 3:15
+20:22 10:12 32:22 27:20 28:5,11 5:2 7:9 37:7,10 47:4
+29:9,10 33:8 29:8 31:12,19 43:4 FCC 34:21
+34:6,8 entitlement 31:22 32:6,13 expertise 6:8,9 feature 30:5
+35:23,25 32:20 33:4,5,21,25 6:14,22 9:21 features 30:3
+48:12 equally 5:21 34:12,23,25 40:24 49:15,23 Federal 3:14
+equitable 13:6,7 35:2,3,11,24 explain 8:12 4:20,22 8:11
+equity 13:22 39:1,10,19,21 46:8,19 28:21 30:20
+38:4,8,10 41:22 42:4,5,6 27:14,15 34:12 42:4 43:22
+40:2 estoppel 24:23 evidentiary 8:13 11:1,1 find 33:11
+38:3,8 45:2 ex 5:21 27:22 20:5,9 32:5,18 31:14 43:23
+42:1 Ginsburg's 15:4 grossly 37:19 37:2 38:25 intentionally
+44:1 15:11 ground 10:11 41:25 42:14 24:23
+17:11 20:9,16,23 17:14,24 48:4,22 38:15
+19:4,4 23:10,13,23 grounds 18:3,5 Hyatt 1:9 3:4 interference
+27:2 33:11,12,21,22 29:3,4,4,19,20 8:18,22,25 5:16,19,24
+36:13 34:15 37:12 45:19,24 46:2 9:17,25 10:4 19:2 35:17,19
+40:18 43:17 guess 47:12 10:15 17:25 interferences
+16:7 18:17 happening 28:13 31:19 32:6
+51:12 God 14:7 hear 3:3 12:6,16 28:15 31:4 introduced
+heard 6:4 including 9:13 introducing
+44:25 4:25 22:24 increasing 16:18 invalidity 7:16
+36:24 37:3,13 helpful 12:18 individual 13:13 invention 9:18
+36:2 45:3 18:11 24:9,10 9:25 invoked 22:14
+gotten 18:8 24:11 26:11 innocent 36:9 involve 6:14
+government 45:5,10 instance 12:19 involved 5:15
+3:6 49:1 Government's 10:14 45:1 INTELLECT... 40:16
+11:8 grant 40:9,17 28:10 29:17 intended 23:19 8:8 16:25 17:6
+19:8,14 41:1 30:23 31:10 51:9 27:25 28:1,9
+35:10 granted 7:15 33:15,19 34:19 intentional 34:7 37:9 44:8
+42:8 40:12 41:8,9 35:13 36:16 37:16,18 38:22 48:8
+34:15 35:10 46:8 long 26:11 46:23 Merrill's 41:11
+27:20 37:20 38:7,9 language 5:11 look 7:8 9:19 methods 30:17
+49:25 38:17,21 39:2 6:2,5,11,19 16:24 30:1 Microsoft 7:13
+43:1,9 42:24 44:3,6 36:1 40:23 34:3 40:2
+20:1,3,5 13:3,5 19:23 lawyer 44:20 lost 27:7 modern 26:18
+23:18 50:14,16 lawyers 30:25 lot 13:17 15:23 41:16
+27:14 justified 29:6 lead 34:5 37:5 39:24 Monday 1:12
+34:2,7,8 38:6 41:16 lower 14:22 32:4 money 34:20
+39:16 K 47:11 months 16:11
+KAGAN 12:1,8 Learned 24:21 M Morgan 4:23
+35:9 16:5 21:24 left 11:6 magic 38:13 7:10 14:22
+26:10 Kappos 1:3 3:4 27:25 28:3,8 majority 18:16 21:22,24,25
+Kennedy 18:20 legislative 18:11 20:5,14 33:14 22:8,10 23:12
+51:21 18:22 19:25 24:9,10,11 42:2 23:12 24:5
+4:8,11,15 key 14:8 likes 6:19 material 3:19 44:4,6,15
+5:6,9,14 kicking 13:22 limit 37:17 5:11,12 49:12 50:9
+6:1 7:20 kind 12:1 13:5 51:10 matter 1:14 14:8 Morgan's 7:6
+9:2 10:22 13:14 16:6 limitations 33:3 34:8 14:23 49:10
+11:8 43:11 14:25 25:20 40:25 43:15
+13:4 know 13:23 51:12 46:21 47:5,13 N
+14:23,24 17:1 limited 25:15 52:4 N 2:1,1 3:1
+17:6,7 22:4 27:3 28:24 matters 6:13 narrow 15:7
+17:17 23:3,17 24:7 38:18 40:20,23 12:10 42:22
+18:20,22 28:18 35:7 limits 35:10,12 mean 13:6 14:6 natural 25:23
+41:17,19 42:15 38:8,10 15:6 30:13 nature 5:1 23:4
+21:12 44:15,16,22 line 33:17 34:14 31:18 44:23 need 23:23
+23:3 47:23 50:2 47:3 50:20 51:13 needs 7:8 22:16
+25:4 26:3 51:4 litigated 10:20 meaning 20:16 36:18
+27:6 litigation 34:6 29:3 40:7 negligence
+29:12 L 37:6 means 41:6 38:19
+31:16 labels 9:5 little 22:1 38:17 meet 37:3 45:16 negligent 36:10
+32:9 lack 7:22 43:4 45:19 46:13 37:19
+7:2,2,5,8 24:15,17 25:8 47:3 particular 32:17 28:16 46:23
+8:3,5,5,13 25:13,17 26:23 oral 1:14 2:2,5 35:21 39:5 51:5
+28:1 31:13,19 3:6 12:5,6,10 particularly plaintiff 3:14,18
+10:3,3,8 32:1,5 35:6 12:18 15:15,18 22:25 49:25 26:13 35:19
+11:1 42:2,22 43:10 19:1,1 26:5 parts 13:19 plaintiff's 40:14
+44:25 order 8:23 10:6 party 7:14,16 play 41:9
+13:18,18 number 18:15 35:1 50:11 22:22 34:25 please 3:9 18:22
+15:1 18:24 20:13,14 orders 34:20 patent 1:5 3:10 26:8
+17:9 28:22 45:22 ordinary 9:13 3:11 5:16,21 plenty 24:20
+9:14 11:20 7:15 8:11 point 10:4 17:15
+19:10 O 31:1 38:4 16:20,20,25 22:8 31:25
+20:23 O 2:1 3:1 original 25:10 18:13 22:20 40:1 47:24
+objection 13:10 ought 22:1 23:1 26:10 pointed 39:16
+23:1 25:19 overcome 6:10 27:1 28:17 points 20:6
+objections 45:17 32:7 40:8 41:6 32:21,22 33:8 31:10
+25:15,20 observed 39:16 46:3,5 40:12,12,14 policy 19:23
+27:9,12 obtain 3:15 overrule 21:22 44:7,10,11,14 position 11:9
+28:5 26:23 overturn 6:15 45:9 47:9 49:6 20:2 21:14,14
+obtaining 19:22 overturned 7:10 patentability 21:15 41:21
+32:6 obvious 45:1 over-read 39:13 15:23 42:10
+33:5 obviously 30:21 patentee 36:8 posits 8:8
+34:12 34:3 P patentings possessed 9:18
+35:11 obviousness P 1:9 3:1 45:25 possibility 8:24
+41:10,18 15:25 16:2 page 2:2 33:13 patents 24:12 29:19
+42:3,5 46:1 pages 9:24 pay 14:9 34:20 possible 47:19
+offer 8:22 pains 39:12 people 13:21 posture 48:1
+44:2 offered 37:9,10 panel 10:13 18:5 25:7 28:20 potential 36:8
+Office 1:6 27:1 38:15 31:1 36:6 potentially 37:5
+41:21,25 47:8 26:4,5,7 27:5 permit 11:7 29:9 practical 28:13
+Oh 14:7 17:22 27:18 28:10,22 37:21,25 50:12 33:3 34:8
+Okay 32:11 31:9,20,24 permits 3:10 4:5 practicalities
+11:18 opportunity 4:2 48:24 1:20 2:4,10 3:7 4:24 5:9,10,20
+19:20,22 15:6 22:23 part 16:9 28:24 49:2 5:23
+21:5,11 26:16,21 46:13 32:10 36:10 phrase 25:8 predecessors
+22:19,25 opposed 23:11 parte 5:21 27:22 pick 27:14 26:12
+problems 11:9 19:6,24 21:9 32:11,13,15,16 reasoning 5:22
+10:1,1,3,8 46:24 provided 29:23 43:21 44:20 reasons 3:24
+14:4 procedural 30:7 41:15 46:15 50:20 31:18
+19:22 28:14 46:12 51:3 questions 27:10 REBUTTAL
+28:11 procedure 28:15 providing 51:6 35:21 41:17 2:8 49:1
+37:22 29:13 38:3 provision 14:21 48:21 recognize 28:15
+46:23 26:11 quite 5:7 13:18 recognized
+11:25 17:12 PTO 3:11,20 4:2 34:8 36:21 36:17 40:1
+14:8 20:6 proceed 27:16 4:7,17 5:15 6:8 48:9 42:25 48:13
+39:22 proceeding 4:5 6:13,21 7:8 quote 41:11 record 16:9 18:9
+4:9 5:1,17,19 8:10 9:20,25 24:25 25:3
+18:12,18 19:6 11:25 12:6,25 R 3:1 34:24 35:8
+16:21 25:13 26:1 14:24 15:11,16 40:3 44:14 48:10
+32:5 34:16 16:7,24 18:25 raise 10:15 reduction 39:7,8
+24:1,4 proceedings 23:14 24:24 raising 8:1 referred 25:6,9
+41:7 11:10 12:5,22 27:10,21 28:12 rate 10:19 25:13,21
+44:17 18:8 19:3 28:25 29:14 RCA 24:4 referring 29:18
+process 3:17 33:11 36:6,20 reaction 16:23 reflect 35:9
+47:9 39:9 43:12,17 reading 20:13 38:4 41:12
+34:4 43:20 23:24 15:3 28:4,19 rehearing 10:2
+15:20 proper 32:24 purpose 30:18 41:12 51:6 46:17,18
+49:20 37:21 purposes 5:13 reason 4:4 8:8 rejected 8:13
+36:3 property 1:5 put 51:5 20:11 27:23 rejection 16:1
+22:15 49:6,13 p.m 52:3 50:11,18 51:23 27:25 29:3,6
+38:3,8 proposed 7:25 reasonable 10:7 29:20,21,25
+51:6 question 8:7,10 15:5 18:14 45:19,23 46:3
+17:16 45:9 10:18 13:9,9 reasonably 4:3,6 45:22,24,25
+16:2 reversed 46:11 26:3,24 27:6 schemes 35:6 similar 48:9
+36:22 review 3:13,16 28:7,18 29:12 second 13:9 simply 18:1,17
+3:16,21 4:21 45:13 47:12,16 24:16,20 30:11 18:23 36:7
+39:18 19:22 20:25 52:1 1:3 sin 36:12
+21:5,10,20,21 routes 11:15 section 3:10,15 single 46:1,2,10
+42:4 25:6 26:1,10 47:10 48:2 27:16,19 28:14 situations 7:2
+35:5 38:5 10:12 12:14 sections 26:20 Solicitor 1:18
+41:16,24 42:20 38:2 40:20 45:7 30:12 34:16
+49:4,9,18,22 run 13:13,21 seeking 34:25 42:21 45:11
+23:14 reviewable running 36:6 31:17 43:5 Sotomayor 6:1
+37:16 reviewing 11:19 S sensible 20:15 21:23 23:3
+11:20 51:24 S 2:1 3:1 21:7 24:6 25:4
+reward 3:21 19:6 31:11 38:17,21 39:2
+43:25 14:21 sandbagging 18:10 51:7
+Rich 24:3 46:15 set 5:1 22:13 Sotomayor's
+43:17 16:8 17:15,20 19:3 20:5 34:4 sounds 9:7 11:9
+46:6,8 21:25 27:3 21:13 22:12 shifts 32:19 source 9:24
+50:19 28:20 31:9 23:25 24:12,21 show 7:16 16:25 speak 51:13
+2:7 26:6 47:15 48:6 16:24 20:3 shown 36:9 specification
+rights 40:19 32:14 40:17 shows 9:17 29:10 30:6
+49:8 ROBERTS 3:3 10:22,25 50:1 sides 16:19 standard 3:16
+6:18 7:1,6 subsidiary 9:12 taken 28:23 23:4,11,18,22 tried 17:25
+13:11 substance 9:6 42:10 48:20 25:3,7,16,18 24:13 30:8
+21:4,9
+26:17 51:19 25:23 28:22 troubles 8:7
+22:5
+23:17
+33:12 talked 21:24 31:4,20,24 try 10:7 30:19
+25:14,22 42:6,20 43:3 38:19 32:14 34:18 45:16,19 46:13
+30:11 success 16:3 talking 6:11,12 35:13 36:15 47:2
+37:3,5 sufficient 9:11 technical 29:3 38:11 39:23 turn 22:15 24:3
+49:16 tell 7:20 9:2,4,21 41:20,22 43:8 two 11:10,14
+41:18 suggest 42:11 13:18,24,25 43:20 45:8,15 12:3 15:12
+51:19 telling 17:18 45:20 46:21 18:7 19:3
+44:18
+48:14 42:23 43:15 temporal 15:22 50:15,23 51:4 23:6,24 24:6
+50:20 suggesting 7:5 term 7:13 16:20 51:20 26:25 31:10
+20:16 43:10 25:17 thinking 17:7 type 16:3 17:9
+47:20 suit 5:1 terribly 31:4 third 7:14,16 typical 37:6
+summarized test 47:2 22:22 39:13
+21:8,9 20:13 12:21,24,25 25:14 uncertainty
+40:21 summary 33:18 15:7,16,18 thoroughly 6:17 46:25
+support 9:16,17 19:1,2 37:8,10 6:23 23:15 underlies 7:19
+50:18,21 30:2 31:18 Thank 3:8 26:3 17:18 29:10 31:1
+supported 9:22 48:22,23 49:3 thousand 31:23 45:8
+supports 26:21 theoretically 19:1,6,19 understood
+44:19 47:16,18 thing 13:10 26:2 28:3 unfair 38:18
+39:5 37:4 today 6:6,19 34:17,19
+sure 21:23 31:5 33:25 45:20 total 43:10 unprecedented
+T 2:1,1 11:25 12:3 1:6 31:14
+13:20 14:17 19:17,19 20:19 26:22 31:13,19
+45:21 46:22 22:4,10,18 36:11 v 1:8 3:4 4:23
+40:16 32:16 33:10,21 Y 2 31:15 32:14
+24:1,5 went 10:4 30:16 250-page 9:22
+41:7 35:21 38:14 Z 258 9:22
+weren't 18:4 Zurko 42:15,17 26 2:7
+19:6 we're 14:1 16:24 49:9,12
+16:24 30:24 3
+44:23 100 9:24 49 2:10
+52:3 5 32:2
+20:1 13:9 30:13
+11:11 15:17 50 30:18
+wisdom 7:18
+13:25 39:4 145 3:10,15 4:4
+27:14 witnesses 35:20 4:8,13,14 7:5
+word 13:6,16 8:25 10:4 11:6
+43:2 words 6:16 20:8 14:17 15:17
+36:12 48:10 17:3 18:7,10
+worrying 30:21 24:12 26:9,15
+18:16 22:18 27:19 28:9,14
+20:9 would-be 5:16 42:2,24 43:25
+written 9:10 47:18 51:10
+25:8 written-descri... 1893 41:3,4
+43:6,12 45:23 46:4 1927 18:8,11
+50:3 wrong 6:17,18 24:19 25:6
+49:17 wrongly 3:12 1952 14:20
+X
+25:17 x 1:2,10 2

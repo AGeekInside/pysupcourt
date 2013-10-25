@@ -1,0 +1,1791 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+CHARLES WILKIE, ET AL., :
+Petitioners :
+v. : No. 06-219
+HARVEY FRANK ROBBINS :
+- - - - - - - - - - - - - - - - - x
+Washington, D.C.
+Monday, March 19, 2007
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 11:05 a.m.
+APPEARANCES:
+GREGORY G. GARRE, ESQ., Deputy Solicitor General,
+Department of Justice, Washington, D.C.; on behalf of
+Petitioners.
+LAURENCE H. TRIBE, ESQ., Cambridge, Mass.; on
+behalf of Respondent.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+GREGORY G. GARRE, ESQ.
+On behalf of the Petitioners 3
+ORAL ARGUMENT OF
+LAURENCE H. TRIBE, ESQ.
+On behalf of the Respondent 28
+REBUTTAL ARGUMENT OF
+GREGORY G. GARRE, ESQ.
+On behalf of Petitioners 56
+P R O C E E D I N G S
+(11:05 a.m.)
+CHIEF JUSTICE ROBERTS: We'll hear argument
+next in Case 06-219, Wilkie versus Robinson.
+General Garre.
+ORAL ARGUMENT OF GREGORY G. GARRE
+ON BEHALF OF THE PETITIONERS
+MR. GARRE: Thank you, Mr. Chief Justice,
+and may it please the Court:
+Respondent asks this Court to recognize a
+new constitutional tort under Bivens and the Just
+Compensation Clause --
+JUSTICE SCALIA: Mr. Garre, could you crank
+up the thing? The sound isn't working, I don't think,
+Mr. Garre.
+CHIEF JUSTICE ROBERTS: I think it needs a
+little upcranking.
+Good.
+MR. GARRE: Hopefully that's better.
+-- recognize a new constitutional tort under
+Bivens and the Just Compensation Clause that would
+subject public officials to personal liability for
+conduct that he concedes does not amount to a taking.
+Recognizing that constitutional tort would require this
+Court to extend Bivens to an entirely new context, it
+would disregard limits that have existed for centuries
+on Just Compensation Clause claims, and it would skew
+the enforcement of important public land use objectives
+and thereby threaten public resources and public lands.
+JUSTICE GINSBURG: General Garre, there's a
+record here that the district court said there was
+substantial evidence, enough to go to trial, of a
+pattern of harassing conduct that included trespasses on
+this man's lodge and leaving the place in disarray,
+videotaping the guests, selective enforcement of the
+grazing laws, a whole pattern of things, even asking the
+Bureau of Indian Affairs to impound his cattle? This
+man says, this has been done to me by officers of my
+government. Is there a remedy?
+MR. GARRE: Justice Ginsburg, there are a
+number of avenues that he could have sought to prevent
+this alleged conduct and that he did invoke. We don't
+think that there is a remedy under Bivens or an inferred
+action under the Just Compensation Clause.
+JUSTICE GINSBURG: Well, what is, what is
+there that will really be effective, because if you tell
+me challenging each citation for violating the grazing
+permit --
+MR. GARRE: He can challenge the citations
+for challenging the -- canceling the grazing permits --
+JUSTICE GINSBURG: And then the behavior
+will continue and he'll get one more and one more and
+one more.
+MR. GARRE: Well, I don't think that that's
+a reasonable inference, Justice Ginsburg. In fact, the
+IBLA considered and rejected each of the alleged
+administrative actions on which his claim is now based.
+JUSTICE KENNEDY: May I ask a quick
+question. I had the same list of alleged acts, and I
+think many of them are uncontested, that Justice
+Ginsburg mentioned. Just as a matter of policy, can you
+inform me, when the Solicitor General's Office takes
+this case do you look into whether any of these things
+happen and the Justice Department issues a warning,
+don't do this any more? If these things are as Justice
+Ginsburg explained you don't defend all of those
+actions?
+MR. GARRE: Well, our position is that he
+hasn't established a constitutional tort or an
+actionable claim under RICO.
+JUSTICE KENNEDY: I know that. I know that.
+MR. GARRE: To answer your question, the
+Government takes these types of allegations seriously.
+It's taken seriously at the line level at the Bureau of
+Land Management. It's taken seriously within the
+Department of Interior and it's taken seriously at the
+Department of Justice.
+JUSTICE KENNEDY: Because if this, if this
+continues, your argument -- and I understand your
+argument that there's no essential free-standing cause
+of action for damages -- basically means he has a right
+to go broke with attorneys' fees challenging each
+individual incursion, each individual wrong.
+Well, again that assumes that he wouldn't
+get any relief out of the IBLA. That assumes that if he
+had gone to the IBLA and said, you canceled my grazing
+permits for grounds that weren't valid, that the BLM
+would have proceeded to engage in the same conduct. In
+fact, the IBLA --
+JUSTICE GINSBURG: Well that's exactly what
+he alleged and he said, and it happened for over a
+five-year period.
+MR. GARRE: But we know from the decisions
+of the IBLA that he did challenge that they rejected the
+grounds that he --
+JUSTICE SCALIA: They may be wrong, too.
+They may have been as much a part of the conspiracy as
+the officers who conducted it. And there are indeed
+those in the West who think that the BLM does, does act
+quite arbitrarily and high-handedly and is, is upheld
+by, by the, the administrative courts. Now, if that's a
+problem, what's the solution to that problem?
+MR. GARRE: Well, Justice Scalia, to bring
+an APA action to Federal court challenging the final
+decisions of the IBLA.
+JUSTICE SCALIA: That's one by one. Every
+time there is another trespass he has to go all the way
+through the administrative procedure and then when the,
+when the administrative court says, well, it was okay,
+then he has to go through the regular Federal courts.
+That doesn't seem to me like a realistic remedy, not for
+somebody who claims he's being systematically harassed
+for five years as, as is the claim here.
+MR. GARRE: Again, I think you have to
+assume that his claims would not succeed either at the
+administrative level or at the APA level, and if he
+got --
+JUSTICE SCALIA: I don't assume that at all.
+Even if they, even if they succeed, they say, yes,
+you're right, they trespassed, good for you. I mean,
+what is the remedy if they did trespass? What
+administrative remedy does he obtain.
+MR. GARRE: Well, if there's a trespass he
+can go, he can obtain an action under the Federal Tort
+Claims Act. A trespass is an unauthorized taking.
+That's the way that this Court has treated it 1952 in
+the Hasselly case.
+JUSTICE SCALIA: What -- the photographing
+of his guests who he brings onto his ranch to hunt and
+they pay him for that. And then he claims that the BLM
+follows them just to harass them, just taking
+photographs. What relief could he get for that?
+MR. GARRE: Well, he claimed that they were
+trespassing on his lands.
+JUSTICE SCALIA: Let's assume they wasn't
+trespassing.
+MR. GARRE: Well, he'd raised that objection
+before the IBLA and the IBLA concluded, and we think
+reasonably, that, given the history of the disputes with
+this individual, given his litigious nature, that it was
+reasonable for the BLM officials who were out there to
+be documenting his trespasses on public lands, and
+that's an important dimension of this case.
+JUSTICE GINSBURG: I thought there was one
+aspect of the videotaping his guests, that the
+Government was doing it on its own land, on public land.
+They had cameras and the cameras were stationed so they
+weren't trespassing, they were just making the guests
+feel uncomfortable.
+MR. GARRE: To document, to document his
+trespasses on other lands, and that's -- the citation to
+the IBLA decision is at footnote 2 of our reply brief
+and it discusses that allegation in depth.
+In any event --
+JUSTICE GINSBURG: I would really like to
+have your answer to my opening question, and I said: If
+your only answer is each time something, he is charged
+by the BLM people, he goes one at a time, engaging a
+lawyer, spending a lot of time, but it was, one of the
+briefs called it, dying a thousand deaths. He doesn't
+want that. He wants to say: Stop, stop this whole
+pattern; not one citation; stop this whole pattern. How
+does he get that remedy?
+MR. GARRE: He does not have a remedy under
+the Just Compensation Clause or Bivens, Justice
+Ginsburg.
+JUSTICE GINSBURG: What does, what does he
+have?
+MR. GARRE: He can challenge, he can
+challenge these actions under the administrative process
+available to him under the --
+JUSTICE KENNEDY: Piecemeal.
+MR. GARRE: -- APA --
+JUSTICE KENNEDY: Piecemeal.
+MR. GARRE: -- like any number of other
+contexts.
+JUSTICE KENNEDY: Does he have any action
+that is other than piecemeal?
+MR. GARRE: He has to challenge each
+administrative action --
+JUSTICE KENNEDY: I take it the answer is
+no.
+MR. GARRE: -- that he claims is unlawful.
+CHIEF JUSTICE ROBERTS: Were any of these
+administrative actions found to be unfounded? In other
+words, did he win any of the trespass citations?
+MR. GARRE: He did not. In fact, the IBLA
+found that the BLM had a right of administrative access
+to cross his lands to get to public lands which it was
+administering. And again, this case would have been
+quite different if the IBLA had found that the BLM
+officers were acting without legitimate authority.
+JUSTICE BREYER: I'm surprised you say
+piecemeal. I would have thought most agencies in the
+government have like an inspector general or someone
+that you can complain.
+MR. GARRE: And they do.
+JUSTICE BREYER: You can write them a letter
+and you say, look at what's been going on, they've been
+trespassing, they've indicted me on a false charge; I
+want you to see the whole list here and I'd like you to
+do something about it. And if they don't do anything
+about it, you go to your senator. Maybe you can go to
+the newspapers. I mean, has any of that happened here?
+MR. GARRE: It has, Justice Breyer. It has.
+JUSTICE BREYER: And what's been the result
+of that?
+MR. GARRE: The result of that is it was
+determined that these actions by these line officers of
+the Bureau of Land Management were perfectly
+appropriate, that they were dealing with someone who has
+systematically violated the permits and conditions that
+are found --
+JUSTICE GINSBURG: Who made that, who made
+that determination, including the selective citations?
+MR. STARR: I believe there was an inspector
+general investigation, investigation within the
+Department of Interior that --
+JUSTICE GINSBURG: I thought the Department
+of Interior reached a settlement agreement in which they
+told the line people at BLM to stop.
+MR. GARRE: There was a settlement
+agreement, Justice Ginsburg. But the Department of
+Interior stands behind the actions that are issued, at
+issue in this case, and I think --
+JUSTICE GINSBURG: Nonetheless, they did
+enter a settlement which included that this behavior was
+going to stop.
+MR. GARRE: Well, I'm not sure that that's a
+fair characterization. I mean, like any party to
+litigation, any party to multiple lawsuits and claims,
+there are many reasons why it might be deemed in the
+interest of a person to agree to a settlement. And I
+don't think it's fair to --
+JUSTICE GINSBURG: Would you agree at least
+to a minimum that we must accept for purposes of this
+proceeding that what the complaint alleged, and what the
+district court said on summary judgment, there was
+sufficient evidence to go to a trial. That that's true.
+So we have to accept his allegations that there were
+selective citations for violations of grazing -- grazing
+laws, that they broke into his lodge and messed the
+place up?
+MR. GARRE: This Court has to accept those
+factual allegations, to --
+JUSTICE GINSBURG: Okay. So that's --
+MR. GARRE: -- to be sure. But the court
+of --
+JUSTICE GINSBURG: So that's the case we
+have. And you're telling me that the only remedy a
+citizen, assuming the truth of those allegations, is to
+fight these actions one by one?
+MR. GARRE: That's a fulsome remedy, Justice
+Ginsburg, when you think of the claims that could be
+brought administratively under the Administrative
+Procedures Act, under the Federal Tort Claims Act, to
+receive damages, to receive injunctions --
+JUSTICE SCALIA: What damages would you get
+for the trespass of a -- one, one BLM agent on your
+land? A lot of money you're going to get for that?
+Would it, would it come anywhere close to
+reimbursing you for the lawyers' fees that it's taken to
+go, to go all the way through the litigation?
+MR. GARRE: If the allegation is that these
+trespasses have in effect deprived me of my property
+which is my business, then conceivably he could make a
+request for a large amount of damages.
+JUSTICE SCALIA: He doesn't say it deprived
+him of his property which is his business.
+MR. GARRE: No, I think --
+JUSTICE SCALIA: He is saying it's a
+trespass; get off my land.
+MR. GARRE: He, he has made both claims,
+Justice Scalia. And I think -- he has, he has
+complained about BLM officials exercising the right of
+administrative access, which has been confirmed at the
+administrative level and which is well settled. And he
+has made the more general complaint that these
+trespasses have -- and interfered with his businesses
+and interfered with his property. He filed a, a bond in
+this Court seeking, claiming the damages were in several
+million dollars related to the business. So that --
+JUSTICE GINSBURG: Can he get injunctive
+relief? Can he get injunctive relief? You said
+something about, that, you said they may seek to enjoin
+conduct that they claim will amount to an uncompensated
+taking.
+Can he have this litany of things that have
+happened and go into a court and say court, enjoin those
+--
+MR. GARRE: Certainly he could under the
+APA. He could challenge the administrative actions he
+complained about, and if court concludes those are
+unauthorized or unconstitutional he could obtain an
+injunction.
+JUSTICE GINSBURG: He can bring, he can
+bring this, he could bring this not one action at a
+time, but he could complain all at once about
+everything?
+MR. GARRE: Well, the other thing to keep in
+mind is that many of these discrete administrative
+actions -- for example, take the cancellation of the
+permits. That was based on a course of conduct that
+included 20 formal trespasses, disregarding trespass
+notices by the BLM, 20 violations of his grazing
+permits. All of that would be part of a record before
+the IBLA and before a Federal court in an APA. It would
+have an opportunity to review those allegations and
+determine whether or not the alleged Federal action was
+unlawful. And if a court believed --
+JUSTICE GINSBURG: He could -- he could not
+go into a Federal court with a Federal question? He
+would have to go to the initial decision maker, then the
+I --
+MR. GARRE: He would have to exhaust his
+administrative remedies, just like any number of other
+people who believe that they have been wronged by the
+Federal Government.
+JUSTICE SCALIA: Part of his claim is -- is
+selective enforcement. You know, maybe he did trespass,
+maybe some of his cattle did stray on somebody's land.
+But they are beating on him because of what they say is
+his failure to give a reciprocal easement which the
+Government is entitled to.
+To what extent was any of the administrative
+approval of the BLM agents' actions, to what extent was
+that based on the legitimacy of seeking to extract this
+reciprocal easement from him? Because I don't see that
+it's legitimate at all.
+MR. GARRE: Well, the I -- let me answer
+that in two ways. First the IBLA found that there was
+not an effort to extort or blackmail Mr. -- the
+Respondent for exercising his rights.
+JUSTICE SCALIA: Was that because the
+Government was entitled to the reciprocal easement? Is
+that why they said that?
+MR. GARRE: Well --
+JUSTICE SCALIA: It wasn't extortion because
+he should have given the easement.
+MR. GARRE: No. I don't think that's what
+the IBLA found and we cite the part of the IBLA record
+at footnote 2 of our reply brief.
+Secondly it's well established that the
+Government can seek reciprocal arrangements with respect
+to property. The Court in the Leo Sheep case forced the
+Government to seek reciprocal arrangements.
+JUSTICE SCALIA: Not after, not after they
+have already given away -- I mean, yes; they could come
+to him anew and say I'll tell you what, if you give us
+this easement we'll give you yet another one.
+MR. GARRE: That's true.
+JUSTICE SCALIA: But he had one in, from the
+past, which -- which his predecessor had given a
+reciprocal easement for, and the Government failed to
+record the easement and therefore was is deprived of it.
+MR. GARRE: That's true. But I think it's
+important to keep in mind the scope of the claim before
+the Court.
+JUSTICE SCALIA: And they're mad at him for
+not giving back that easement which they failed to
+record.
+MR. GARRE: The BLM doesn't have to stop
+enforcing its laws and regulations once someone refuses
+to enter into reciprocal arrangements. There are
+thousands of reciprocal arrangements.
+JUSTICE SCALIA: It wouldn't be reciprocal.
+What was the Government offering to give him in exchange
+for his, his reaffirming the prior easement that they
+had failed to record? What was the Government giving
+him in exchange?
+MR. GARRE: A valuable right-of-way, Justice
+Scalia, that - that was for 30 years, that covered 14
+miles of public road --
+JUSTICE GINSBURG: But that's what his
+predecessor had.
+JUSTICE SCALIA: He had that already.
+MR. GARRE: Well, but that did not convey
+with the property. It had to be reassigned in order for
+Mr. Robbins to take advantage of that right-of-way.
+JUSTICE SCALIA: I did not -- I did not
+understand that.
+MR. GARRE: Absolutely. And it's in the
+regulations. The right-of-way has to be reassigned, and
+it wasn't going to be reassigned because Respondent
+refused to agree to the reciprocal easement and because
+he refused to make rental payments.
+JUSTICE KENNEDY: As originally negotiated,
+with I think Nelson. Was the right-of-way cancellable
+at any time? Or how long would the right-of-way last?
+MR. GARRE: The right-of-way was for 30
+years which was long than the 20-year easement that the
+Government got in exchange. And this something that was
+negotiated at arm's length by parties that didn't have
+the acrimonious relationship that developed between
+Respondent and the BLM.
+CHIEF JUSTICE ROBERTS: Counsel, I -- I
+think part of what's happening here is there is
+difference between the regulation on the books and how
+they are enforced. Just as a hypothetical, let's say
+they don't -- the Government doesn't get its reciprocal
+easement that it wants, and so it says look, we normally
+don't strictly enforce these cattle trespass things, but
+we are going to go by the book with this guy until he
+gives us the right-of-way. Every time his cattle cross
+over the line we are going to hit him with a trespass
+citation. They don't do it for anybody else but,
+they're going to do it for him because they want to get
+the reciprocal right-of-way. Is that appropriate or
+inappropriate?
+MR. GARRE: Well, first I don't think it
+gives him a cause of action under Bivens or the Just
+Compensation Clause. Second --
+CHIEF JUSTICE ROBERTS: So that he can't --
+but you're saying his remedy is to challenge each one.
+But actually each one, his cattle did trespass, so he
+doesn't have a good case. It's just that out in the
+West they don't actually give citations every time a cow
+crosses the river.
+MR. GARRE: Then I, then I don't think he is
+a very sympathetic plaintiff to be complaining that he
+is entitled to violate BLM rules or regulations. There
+is a certain amount of give and take that we think is
+inherent in these reciprocal arrangements and we think
+that the Just Compensation Clause tolerates.
+These are, the Just Compensation Clause or
+property rights here are protected fundamentally by
+State law. That's why any unauthorized action by the
+Government is a trespass, which is, which is dealt with
+under State law. The Just Compensation --
+JUSTICE BREYER: Well, why is it a State law
+matter? Why didn't he know about this possibility? Why
+didn't he know that his predecessor in title had
+granted? Why wasn't there an actual notice, given the
+fact that everybody in this area of the country seems as
+a matter of course to give mutually beneficial
+rights-of-way? I agree it wasn't recorded.
+MR. GARRE: I think he was on notice. The
+BLM made a determination that because it wasn't
+recorded, it wouldn't seek to enforce that against
+Respondent. It may be that it was -- it made a legal
+error on that; I don't know. But it made that
+determination --
+JUSTICE GINSBURG: That's a given in the
+record. The record is that he was not on notice. So
+whether one says, gee that's unlikely if he wasn't --
+MR. GARRE: But in any event, the point is
+that the BLM recognized that it had to negotiate a new
+reciprocal arrangement with Respondent and it sought to
+do so.
+JUSTICE GINSBURG: And it's trying to cover
+for its own sloppiness or carelessness in not
+recording --
+MR. GARRE: Well, it, it's trying to seek,
+establish a new reciprocal arrangement. Regardless of
+why it was back in the position of having to do so, it
+did so in a way that it did in any number of other
+situations that did arise.
+JUSTICE KENNEDY: Can I ask you about the
+Bivens theory here before your time runs out? Doesn't
+Davis versus Passman help the Respondent here?
+MR. GARRE: I, I don't think so, Your Honor.
+I think what is distinct about the Bivens claim here is
+first Bivens and Just Compensation Clause claims are
+fundamentally incompatible. And that in Bivens, its
+damages are nothing. Here the constitutional right
+actually explicitly provides a remedy, just
+compensation. Secondly, just compensation claims are
+claims against the Government.
+JUSTICE KENNEDY: Well that's because we
+assume it's focused just on his property and that the
+property was ultimately the thing that was in issue.
+But if you have all these other retaliatory actions, and
+wrongful actions taken by the Government tangential to
+this dispute, I take it Davis versus Passman, broadly
+read, says we can use Bivens if there is no other way to
+get a remedy against the Government.
+MR. GARRE: Well -- two points. First,
+Davis versus Passman was decided in a day in which this
+Court was much more likely to infer new causes of action
+from the Constitution or from statutes. The Court in
+its recent cases, most recently Malesko, has said that
+it's sworn off that habit, and it's refused to recognize
+any new Bivens action in 25 years since those cases were
+decided.
+Secondly, the Respondent here has ample
+remedies and avenues that he could seek. If he believes
+that there has been unauthorized trespass he can seek
+damages under the Federal Tort Claims Act.
+JUSTICE KENNEDY: Suppose we think --
+suppose we disagree with you on the latter point. We
+think he is really in a bind; there's not really
+anything he can do. Doesn't that invoke the Davis
+versus Passman rationale?
+MR. GARRE: I --
+JUSTICE KENNEDY: To expand -- it would be
+an expansion of Bivens.
+MR. GARRE: It would be closer to it but the
+Court would still have to confront the question of
+whether it would be appropriate to infer a
+constitutional tort under the Just Compensation Clause.
+And we would urge the Court not to do so.
+There is an overarching question here of
+qualified immunity. Whatever is true with respect to
+whether this new constitutional tort should be created
+towards other claims before the Court, the Petitioners
+on this case were not on clear notice that their actions
+in responding to someone who had systematically violated
+the rules and regulations, which -- on the books for
+some time -- would subject them to personal damages
+actions and in fact treble damages under the RICO
+statute. For that, for that --
+JUSTICE SCALIA: If a -- including, you
+know, busting into his lodge and disrupting the
+furniture and all of that, they thought that that was
+probably --
+MR. GARRE: Well, if that's true --
+JUSTICE SCALIA: -- probably allowed?
+MR. GARRE: If that's -- they would be on
+notice, that that conduct if true could subject them to
+a tort action under the Federal Tort Claims Act. There
+is no decision that the court of appeals or
+Respondent has pointed to that would put the Petitioners
+here on notice in the specific situation they
+confronted, that their actions could subject them to a
+constitutional tort which had never been recognized by
+any court, whether their actions could subject them to
+treble damages under RICO.
+JUSTICE SCALIA: Is that a test for -- for
+-- for qualified immunity? You have to know -- not
+only --
+MR. GARRE: You have to have --
+JUSTICE SCALIA: It's not enough to know
+that your action was wrongful? You have to know the
+particular statute or constitutional provision under
+which a remedy would be sought?
+MR. GARRE: Yes. The first question is
+whether he has established a violation of the right.
+And the rights that are alleged in this case that are
+before this Court, or a right under the compensation
+clause of the Fifth Amendment to --
+CHIEF JUSTICE ROBERTS: So you're suggesting
+they would not be immune from a State law trespass
+action?
+MR. GARRE: No. The -- the -- the Congress
+has waived the sovereign immunity from those types of
+claims under the Federal Tort Claims Act.
+JUSTICE KENNEDY: The people who had done
+this --
+JUSTICE GINSBURG: But the Federal Tort
+Claims Act is against the United States. It's not
+against the --
+MR. GARRE: It's against the United States
+if they are acting within the scope of their conduct.
+If it's unauthorized actions outside the scope of the
+conduct, then they can go directly against the
+individuals. That's --
+JUSTICE GINSBURG: But then it wouldn't be a
+Federal Tort Claims Act.
+MR. GARRE: Well, then it would be
+additional suits in State court. They could also --
+there are also State, Federal and criminal laws that
+they could seek to invoke or have invoked. But --
+JUSTICE SOUTER: But respect to the RICO
+claim, assuming the RICO claim is upheld, what do you
+say to your brother's argument that there is no history
+of qualified immunity for RICO claims? That the
+qualified immunity doctrine addresses the, the kind of
+development of squishier law under -- under 1983. So
+that you simply have not qualified immunity.
+MR. GARRE: Two things, Justice Souter.
+First the argument was not raised below; we don't think
+it's properly before the Court.
+Second, the question under qualified
+immunity, and this Court made this clear in the Wyatt
+case and again in the Knight case, it doesn't look to
+the particular offense. It looks to the nature of the
+responsibility that the Government officials are
+performing. And here the nature of the responsibilities
+are enforcing grazing permits, enforcing access to
+public lands, activities that BLM officials have
+discretion and have had discretion for more than a
+century to enforce. And we think that falls squarely
+within the rubric of qualified immunity.
+JUSTICE SOUTER: Well that may be a very --
+it seems to me that those may be good arguments, or at
+least relevant arguments against the applicability of
+RICO in the first place. But if RICO is found to have
+been violated, I take it it would be an extension of
+qualified immunity jurisprudence --
+MR. GARRE: I don't --
+JUSTICE SOUTER: -- to, to apply it to a
+RICO defendant.
+MR. GARRE: With respect, I don't think it
+would be. First, the large portion of the courts of
+appeals that have addressed this have concluded that
+qualified immunity principles do extend to RICO. And
+second, again, the focus of the inquiry is on the nature
+of the responsibilities. It's not on the particular
+offense alleged. It's not on whether there's a
+violation of that offense. It's the nature of the
+responsibilities, and here these responsibilities,
+enforcing permits enforcing access and use of public
+land, and protecting against abuse of those lands, are
+things that BLM officials and other government officers
+have exercised their discretion to do for more than --
+JUSTICE BREYER: If this case were
+identical, everything's the same, except that the
+officials involved are state officials, would there be a
+1983 action?
+MR. GARRE: Well, no, because we don't think
+that there's a violation of the Just Compensation Clause
+when someone doesn't take property, when someone doesn't
+act through allegedly --
+JUSTICE BREYER: That's a different --
+that's a different reason. That's a merits defense. I
+just wondered if --
+MR. GARRE: Oh, are you -- the question with
+respect to qualified immunity?
+JUSTICE BREYER: Yeah. You're saying there
+is no Bivens action, period.
+MR. GARRE: Well, we think that qualified
+immunity now --
+JUSTICE BREYER: No, I'm not even thinking
+of it. I just wonder if 1983 would apply and it would
+be clear that there is an action. If you win, there
+would be no problem.
+MR. GARRE: No, because there has been no
+violation of the substantive Fifth Amendment right and
+there has been no violation of Bivens.
+It's important to recognize the overarching
+context of how the Federal Government manages the public
+lands. There are -- there are numerous reciprocal
+arrangements that could be affected by this. Any time a
+landowner refuses to enter into a reciprocal
+arrangement, he can then turn around in any government
+action that is taken against that landowner, all he has
+to do is add on an element of wrongful subjective
+intent, and he can bring a constitutional tort claim, or
+even a RICO claim like the respondent here, and subject
+officers to the threat of personal liability. And we
+think that this would have a significant skewing effect
+on legitimate government decision making.
+If I could reserve the remainder of my time.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Mr. Tribe.
+ORAL ARGUMENT OF LAURENCE H. TRIBE
+ON BEHALF OF THE RESPONDENT
+MR. TRIBE: Mr. Chief Justice, and may it
+please the Court:
+There is a dramatic contrast between the
+instantaneous judgments a school principal might have to
+make in the face of complicated decisions like Tinker,
+and a deliberate decision over a course of almost a
+dozen years made by officials of the Bureau of Land
+Management that the greater retaliate against someone
+for refusing to relinquish his property to the
+government without any compensation. You don't have to
+have taken a special course in constitutional law to
+know that that is clearly forbidden.
+JUSTICE SCALIA: Mr. Tribe, can I get
+something straight? Is it indeed correct that what the
+government was seeking here was an exchange of
+easements, that the government was going to give one and
+your client would give the other?
+MR. TRIBE: No, Justice Scalia, that's not
+correct. That was what they did with Nelson, his
+predecessor.
+JUSTICE SCALIA: With the predecessor in
+interest of your client.
+MR. TRIBE: That's right. And what happened
+--
+JUSTICE SCALIA: Did what the government
+gave to your predecessor of interest, did that easement
+continue? The government has just said that it expired.
+MR. TRIBE: The government is wrong. It
+continued.
+JUSTICE SCALIA: That's how I understood it.
+MR. TRIBE: It ran with the land, it was
+part of what he brought. If it had expired --
+JUSTICE SOUTER: This is the easement over
+the roadway.
+MR. TRIBE: The right-of-way over the
+government's roads.
+JUSTICE SOUTER: As opposed to the grazing
+easement.
+MR. TRIBE: As -- that's right. The
+right-of-way over the road of access, which they not
+only canceled in July of 1985 but refused to maintain
+themselves, so that he couldn't really access the ranch.
+CHIEF JUSTICE ROBERTS: If they finally
+canceled it, how did it -- I mean, if it runs with the
+land, they don't have the authority to cancel.
+MR. TRIBE: They didn't have the authority
+to cancel it simply because of the transfer of the land.
+They allege that he had made various technical
+violations on account of which they canceled it. But
+the key point is, that was supposed to be the quid pro
+quo, that is, they have maintained all along that this
+case is about that right-of-way and what an ingrate the
+respondent is that he wants to continue enjoying it and
+not give the easement. Well, he didn't enjoy it after
+July of 1995 when it was canceled. They wouldn't have
+had to cancel it for alleged violations.
+JUSTICE SCALIA: I don't care whether it was
+canceled, but I must say, if they were just seeking a
+fair exchange of reciprocal easements, which landowners
+do all the time --
+MR. TRIBE: Right.
+JUSTICE SCALIA: And the system of lands out
+there can't work without it.
+MR. TRIBE: Uh-huh.
+JUSTICE SCALIA: I wouldn't see anything
+terribly wrong about the BLM people say okay, he wants
+to play hardball, he wants to play by the book, we'll
+play by the book. What would be wrong with --
+MR. TRIBE: They didn't --
+JUSTICE SCALIA: See, I wouldn't feel bad
+about that if they said --
+MR. TRIBE: I wouldn't either.
+JUSTICE SCALIA: -- by God, every time his
+cows trespass, we're going to get him. Every time his
+hunting expeditions go on public land, we're going to
+get him. That would seem reasonable to me. So it
+really is crucial to my view of the case that the
+government was not seeking a new exchange, it was
+seeking --
+MR. TRIBE: That's right.
+JUSTICE SCALIA: -- for him to cough up --
+MR. TRIBE: To cough up that easement. And
+in fact when he said, he offered to negotiate, and the
+immediate response from Mr. Vessels, who is since
+diseased, was, the United States does not negotiate.
+That wasn't just kind of starting of a bargaining
+position. They dug in and for a series of years the
+district court found, fully substantiated on the
+petition appellate via -- appendix to the petition at
+page 37a, not only playing hardball and being
+selectively tough on him, but a number of clearly
+illegal acts, breaking into his lodge. One of them
+particularly striking to me at joint appendix 49 to 57,
+inciting a neighbor to ram a truck into the respondent
+while he was on horseback. Firemen --
+JUSTICE BREYER: Who would have thought --
+wait. When you say that, I mean, there's a lot of these
+acts, it seems, they are plainly illegal.
+MR. TRIBE: Sure.
+JUSTICE BREYER: Well, if they are plainly
+illegal, then there are remedies in the courts.
+MR. TRIBE: There are remedies one by one
+for each of these acts.
+JUSTICE BREYER: All right. But what is
+actually worrying you, which probably you can address at
+some point, is this: There are remedies one by one.
+That's true. And each has one. And maybe you can even
+get injunctions against harassing.
+MR. TRIBE: Well, the remedies were
+acquittal. He was acquitted, for example.
+JUSTICE BREYER: Well, maybe he didn't do
+it.
+MR. TRIBE: He spent hundreds of thousands
+of dollars.
+JUSTICE BREYER: And so it may be, they
+thought he did do it and --
+MR. TRIBE: No, no. They didn't think he
+did do it.
+JUSTICE BREYER: All right.
+MR. TRIBE: He alleged --
+JUSTICE BREYER: Did you bring a suit for
+malicious prosecution?
+MR. TRIBE: That's part of -- this is a
+suite like Hartman v. Moore. One of the acts that is
+clearly actionable under Bivens, if one has to dissect
+the various predicate acts, is the fact that without
+probable cause, at page 71 of the joint appendix, they
+deliberately fabricated a felony charge.
+JUSTICE BREYER: All right. Now --
+MR. TRIBE: And when he was acquitted of
+that by a jury that took 20 minutes, and said that they
+were outraged by the BLM, they found other things to do.
+They found other things --
+JUSTICE GINSBURG: But he also lost the
+malicious prosecution suit, didn't he? Didn't he bring
+a malicious prosecution suit?
+MR. TRIBE: He tried to do that.
+JUSTICE GINSBURG: And he lost.
+MR. TRIBE: He won some, he lost some, but
+the --
+JUSTICE BREYER: Maybe he should have won.
+What's worrying me throughout, if you want to know --
+MR. TRIBE: I sure do.
+JUSTICE BREYER: All right.
+(Laughter.)
+JUSTICE BREYER: What is worrying me
+throughout is, put this case to the side. If the Court
+recognizes what I take it has not happened in the past,
+that there is an action for private people to bring
+against the government, Bivens, under the Fifth
+Amendment, all of a sudden vast numbers of regulations,
+the coal pillars in Holmes case, everything south of
+that will be suddenly in Federal court as people claim
+that what's going on with this regulation is there are
+individuals in the government who have gone too far, and
+they are just trying to get my property and the use of
+it, without paying a fair price. Now by the way,
+sometimes people in government do go too far, so many of
+those claims might have some justification. But
+suddenly I see the possibility of this kind of action
+becoming a major roadblock, an obstacle sometimes used
+unjustifiably, and not necessarily, not necessary, this
+kind of thing, to impose a roadblock to totally
+legitimate government regulatory action.
+MR. TRIBE: Justice Breyer, that -- that
+floodgates concern was addressed by this Court not long
+enough in Hartman v. Moore when the remedy in that case
+for a prosecution that was brought to retaliate against
+someone for the exercise of her First Amendment right
+was a Bivens action against the postal inspectors who
+made this all up. Now the Court there addressed the
+possibility that this would unleash a flood of lawsuits,
+and it said that over the past quarter century, there
+had been only 12 Bivens or 1983 actions against this
+kind of retaliation. I suppose that is because not that
+many postal inspectors or BLM guys think they can get
+away with deliberately retaliating against people for
+exercising their rights.
+JUSTICE BREYER: You see, part of what's
+worrying me is that once you get into the Fifth
+Amendment, which is -- prevents the government from
+taking property for a public use without just
+compensation, the possibility of the legal imagination
+becomes endless. Because every time a person walks
+across the doorstep, every time a person wants to
+install a pipe in the basement, read the meter -- I
+mean, I can see possibilities of actions of this kind
+arising, and particularly when the government wants to
+buy it and is pointing out all the reasons why it should
+be sold. Is there a threat lurking in that
+conversation? You see what I'm worried about here,
+which wasn't present in the other case?
+MR. TRIBE: I see, but it was present in
+Davis, Davis v. Passman, to which Justice Kennedy
+referred, already recognized a Bivens action for
+violating something even more capacious, due process,
+equal protection. When this Court said in Village of
+Willowbrook against Oleck that there is a cause of
+action even for the naked assertion that you're treating
+me differently, did that open huge floodgates? Have we
+been flooded? It seems to me that the Court has
+developed its own filters against the floodgate of
+retaliation claims. It's been --
+JUSTICE KENNEDY: I'm not sure, Professor
+Tribe, that the cases you cite at page 22, 23 of your
+brief really support your position. The question is
+whether there should be a freestanding cause of action
+for damages.
+MR. TRIBE: That's correct.
+JUSTICE KENNEDY: And in the brief you say
+that the government says that this is limited First
+Amendment, and then you say, "These remarkable claims
+are unsurprisingly false." I thought that was a rather
+severe charge against the government, that it's
+misrepresenting its cases.
+MR. TRIBE: Uh-huh.
+JUSTICE KENNEDY: Then in page 22 and 23,
+you go ahead and you talk about Wisconsin versus Yoder,
+Lefkowitz versus Turley, Bordenkircher, which I think
+was vindictive prosecution or adding on charges. All of
+those are in the -- every one of these cases are in the
+context of a criminal proceeding. Griffin, a murder
+case. It's just alleging a constitutional --
+MR. TRIBE: But many of them are not,
+Justice Kennedy.
+JUSTICE KENNEDY: -- alleging a
+constitutional claim. Well, which one?
+MR. TRIBE: Well, for example, Shapiro v.
+Thompson. The Court has said that the right to travel
+cannot be penalized. The broad point that --
+JUSTICE KENNEDY: Well, no. That was, there
+was an existing case or controversy there. That wasn't
+a freestanding cause of action. None of these cases are
+freestanding. Davis versus Passman, different.
+MR. TRIBE: And Hartman v. Moore, different.
+What we were answering there was not the point about a
+freestanding cause of action.
+JUSTICE KENNEDY: Well, it seems to me that
+those cases do not support your position, and I don't
+think it's correct to say that this is unsurprising,
+that the government makes a false representation about
+cases.
+MR. TRIBE: Well, Justice Kennedy, that was
+a response to their claim, that only with respect to the
+Fifth Amendment is there a right. This was not the
+Bivens question. Only with respect to the Fifth --
+First Amendment is there a right not to be retaliated
+against for the exercise of your rights.
+JUSTICE KENNEDY: I think it was in the
+context of a freestanding right, but let's leave that
+aside.
+MR. TRIBE: We can look at it.
+JUSTICE KENNEDY: That's right. It does
+seem to me that you are asking us to extend Bivens, this
+is an extension. Would you accept that?
+MR. TRIBE: In the sense that there has
+never been a case just like it under Hope v. Pelzer,
+there doesn't have to have been one like it. But we do
+think that there is a compelling case, because there's
+no other way to enforce the just compensation right
+against a group of government agents who are determined
+to pile punishment upon punishment until someone caves
+in.
+CHIEF JUSTICE ROBERTS: Well, you say -- you
+call it punishment, but in fact the government's
+position on each of these particulars has generally been
+vindicated. When your client has appealed, they've
+upheld the trespass citations. When you've sued for
+malicious prosecution, the suit's been rejected. Which
+of the government actions do you not have an existing
+remedy for, apart from the Racketeer and Corrupt -- RICO
+Act or the, this new Bivens claim?
+MR. TRIBE: Mr. Chief Justice, it is the
+retaliatory pattern that there is no remedy for. When
+going --
+CHIEF JUSTICE ROBERTS: Can you point to any
+one governmental action for which you do not have an
+existing remedy?
+MR. TRIBE: Well, the action of falsely
+prosecuting him in retaliation --
+CHIEF JUSTICE ROBERTS: You have a malicious
+prosecution claim for that. You brought that, you lost.
+MR. TRIBE: No, we did not bring a malicious
+prosecution claim for that felony charge.
+CHIEF JUSTICE ROBERTS: You could have
+brought one.
+MR. TRIBE: It would have been against
+Federal officials and that would have been then
+transformed unless we brought it under Bivens, which is
+what we are trying to do, transformed into an action
+against the United States by the Westfall Act. That is
+all of these attempts --
+JUSTICE SCALIA: And then if you would have
+succeeded, you would have been compensated.
+MR. TRIBE: For that one event from the
+United States, but the BLM agents would not have been
+deterred.
+In any event, Carlson v. Green --
+JUSTICE SOUTER: No, but the theory of the
+Tort Claims Act is that if the government is paying out
+of the treasury, it's going to see to it that its
+employees don't continue to commit the tort. So I don't
+think -- I don't think you can make the argument that it
+would have had no effect on the improper behavior.
+MR. TRIBE: I think the most important point
+that I'm trying to make, Justice Souter and Mr. Chief
+Justice, that when someone says, I do not want to give
+you my property, you have to take it from me and give me
+just compensation, the position of the Government here
+is that there is no constitutional limit on the kind of
+retaliation they can engage in.
+CHIEF JUSTICE ROBERTS: Well, if the
+position of the Government were more fairly represented
+they would say, we don't want everyone to be able to
+claim that everything we're doing under color of law is
+retaliation, because then we'll hear that against IRS
+agents, we'll hear it against OSHA agents. So long as
+you -- and their position is you have a remedy for
+everything you're complaining about, and you invoked
+some of them and you lost, you didn't invoke others and
+so you didn't prevail. But don't create a whole new
+remedy just because you're dissatisfied with having to
+pursue each one individually.
+MR. TRIBE: Well, Bivens as a constitutional
+tort is not a new remedy. The question really is
+whether there is any conceivable basis when they trash
+his lodge, when they do all of the other things, for
+treating this differently from another kind of
+constitutional violation. I mean, they argue that it's
+very important, even though we could have lots of people
+bringing unjustified suits, to have a Bivens remedy for
+retaliation against free speech. The reason that they
+give is that free speech is easily chilled. But with
+property rights the Just Compensation Clause is kind of
+its own antifreeze.
+JUSTICE BREYER: No. The reason would be
+probably that the, if you can make a comparison. The
+number of Government actions that affect criminal
+charges and so forth are tiny compared to the number of
+governmental actions that affect people's property.
+Virtually, I mean the number of Government actions
+affecting how people use their property, it's the whole
+series of law books. It fills the room. And suddenly
+to open up a new remedy in that kind of thing is what's
+frightening me, which is what I said already. So you
+don't have to answer.
+MR. TRIBE: But Justice Breyer, the Court
+has established in the area of retaliation against
+people for the exercise of their rights, Title VII
+rights in Burlington, First Amendment rights --
+JUSTICE BREYER: Retaliation, what is
+retaliation? Isn't retaliation statutory?
+JUSTICE KENNEDY: It's statutory.
+MR. TRIBE: Hartman is not statutory. Some
+of the -- Hartman is the First Amendment, and it's the
+Bivens case. The point I was trying to make about that
+is that the Court has a body of law trying to filter out
+through requiring proof of causation, requiring proof of
+substantial injury, filter out these trivial cases where
+someone is simply making a nuisance.
+JUSTICE ALITO: Mr. Tribe, could I ask a
+question about the RICO claims?
+MR. TRIBE: Certainly.
+JUSTICE ALITO: Until I read this case, I
+had never come across the concept that a Government
+employee can be guilty of extortion by demanding money
+for the Government and your brief didn't cite very much
+authority for this anywhere in the history of extortion.
+MR. TRIBE: In the common law history,
+Justice Alito, we cited two cases from New York, the
+Whaley case in 1827 and Willett in 1915. And it was
+that body of New York law from which the Hobbs Act
+largely drew. Those were cases in which the courts said
+that the fact that the government agent is extorting
+property for his own employer the government doesn't
+make any difference; it is still extortion.
+JUSTICE ALITO: That's not a lot of, that's
+not a lot of authority, considering the long history of
+extortion, just two old New York cases.
+MR. TRIBE: There are plenty of cases,
+Justice Alito, that involve extortion for one's employer
+where the employer might be a union or a corporation or
+a charitable body. But it's true the Hobbs Act has not
+been applied, in my research anyway I have not seen it
+applied, to this kind of extortion. But the language
+clearly covers it and the language of RICO clearly
+covers it.
+JUSTICE ALITO: Suppose you have a librarian
+in a courthouse and the librarian is charging lawyers 25
+cents a page for photocopies, but there's some library
+rule that says the fee is supposed to be 10 cents a
+page. Now is that, is that a RICO?
+MR. TRIBE: If the librarian thinks that,
+the legislature is not giving us enough money, so I'm
+going to deliberately use my authority to get an extra
+five cents from everybody, I suppose if you could prove
+willfulness, which is an important element of Hobbs, and
+if there were several librarians and there was a pattern
+and you could establish the other prerequisites of RICO,
+it could be a RICO violation.
+JUSTICE BREYER: Well, the two cases you
+cite, the first one is the person who was charged with
+extortion is a judge --
+MR. TRIBE: That's right.
+JUSTICE BREYER: And he was extorted on the
+ground that he told the plaintiff to pay the defendant,
+so the money wasn't given to the government. So I don't
+see that that's a difference. And then the second case
+--
+MR. TRIBE: The second case --
+JUSTICE BREYER: -- it may have been, but
+you say "See Also," which is a sign to me there's
+something wrong with that case.
+(Laughter.)
+MR. TRIBE: I don't, I don't think there is,
+Justice Breyer, and it's very short.
+JUSTICE BREYER: I'm surprised that you
+didn't put it first if there wasn't.
+Page 49.
+MR. TRIBE: Well, Willett versus Devoy, it
+involved a clerk demanding more money than the law
+allowed, and the court said: "No distinction is made on
+the ground that the official keeps the fee or turns it
+over to the government. Such a judge-made restriction
+on the general statute requiring that the money be kept
+by the individual might itself bring about uncertainty,
+confuse and possibly great injustice."
+JUSTICE BREYER: Why did you say "See Also"?
+MR. TRIBE: I don't remember.
+CHIEF JUSTICE ROBERTS: You say this clearly
+establishes. Are the BLM folks supposed to have known
+about Willett versus Devoy?
+MR. TRIBE: No.
+CHIEF JUSTICE ROBERTS: -- as clearly
+establishing their liability for what you call
+extortion? I'm sure what they would call trying to save
+the taxpayers money and getting the type of reciprocal
+agreement with this landowner that they have got with
+thousands of others.
+MR. TRIBE: Well, Mr. Chief Justice, first
+of all, when you keep calling it a reciprocal agreement
+it does trouble me. They weren't giving him anything
+for this easement which they had already extracted from
+his predecessor.
+CHIEF JUSTICE ROBERTS: You agree if the
+case were otherwise -- and I gather we have a factual
+dispute on that -- that it would have been all right? I
+mean, if he didn't have this other easement already, but
+they were trying to negotiate it, that this type of
+playing hardball, I guess is one way to put it, would be
+all right?
+MR. TRIBE: It makes all the difference in
+the world. They were trying to get the easement for
+nothing. I mean, it's very much --
+CHIEF JUSTICE ROBERTS: Well, that's what
+I'm trying to get, to see if you agree with that. In
+other words, everything about this case would otherwise
+be, I'm sure not breaking the laws, but otherwise it
+would be all right if they were trying to get a
+reciprocal easement?
+MR. TRIBE: Well, most of what they did
+would not have been an okay method of getting a
+reciprocal easement, anyway. But the attempt to get it
+would be fine. It's not that they are not entitled to a
+reciprocal easement. That might have been a problem
+under Nollan and Dolan to figure out whether there was
+enough connection, but I think there would have been
+enough.
+The problem was that they were using the
+right-of-way, which was long gone, as an excuse to get
+an invaluable piece of property that they had no right
+to get. They were then trying to -- they were basically
+saying, and they made it explicit, give us this easement
+for nothing or we'll bury you.
+JUSTICE SCALIA: Mr. Tribe, I'll tell what
+you troubles me about this case. There are overzealous
+government agents. There always have been and I am sure
+that, assuming all of the misbehavior described here is
+correct, I'm sure it is not the first time this has
+happened. Government agents sometimes get overzealous.
+But why should there be this extraordinary remedy when
+the overzealousness happens to be attached to a desire
+to get a piece of land, whereas if they had just picked
+on this guy because they didn't like the way he combed
+his hair or for any other reason and had done the same
+things you wouldn't have your Bivens action, right?
+MR. TRIBE: Nor would Nollan have come out
+the same way if they weren't trying to get an easement
+in return for something which wasn't -- which you called
+extortion.
+JUSTICE SCALIA: No, no. If they were
+trying to get some other property for it or, or, or
+money for it, it didn't turn --
+MR. TRIBE: I guess the straightforward
+answer that I would give to your question I think is
+that the Constitution does guarantee that the Government
+cannot take your property for public use without just
+compensation.
+JUSTICE SCALIA: The whole spectrum of
+possible Government misbehavior, selective enforcement,
+the whole spectrum, the only, the only times we're going
+to allow a cause of action under Bivens or under, under
+not 1983 -- yes -- the only times we're going to do that
+is when there is a demand for property?
+MR. TRIBE: You've certainly done it with
+respect to the Eighth Amendment. You've done it with
+respect to speech. You've done it with respect to --
+JUSTICE KENNEDY: But Professor Tribe, all
+these cases are cases in which there is -- Nollan, you
+have a cause of action to challenge the permit and this
+is just a, this is just a constitutional defense.
+That's different from a freestanding cause of action.
+And I share Justice Scalia's concern. It seems to me in
+thinking about this case there is -- there could be
+something very wrong here, going after a person because
+of what he's done. Suppose the Government wants
+somebody to be a witness in a trial and he won't do it,
+and they go around hurting his business, they go around
+invading his property and so forth. That to me is
+outrageous and you might have an argument that there
+should be a Bivens cause of action for that.
+And Justice Scalia's question -- I had the
+same question -- is why do we think it to the property?
+The essence here, the essence of what's going on, is
+that they're being vindictive against this person. Now
+again, the cases you're citing, include Hartman, which
+is a free speech case which is different, really don't
+support you. I think this is an extension of Bivens.
+MR. TRIBE: Justice Kennedy, if it's an
+extension, it's I think implicit in Bivens' logic.
+Bivens deals with the cases --
+JUSTICE KENNEDY: Fair enough, but it's an
+extension of Bivens.
+MR. TRIBE: The Fifth Amendment is different
+from the First, but is it different in a relevant way?
+The Just Compensation Clause does give the government an
+incentive, if they can avoid having to use eminent
+domain and tax the public, gives them an incentive to
+try to squeeze property out of somebody. If it has any
+incentive effect, it's one that points to the need for a
+Bivens remedy. Why is a Bivens remedy --
+CHIEF JUSTICE ROBERTS: But are they
+disabled from negotiating? If they go up to somebody
+and say, you know, we'd really like a right-of-way
+because we have some interest in lands that we need to
+maintain on the other side, and the person says, no and,
+you know, get off my property, do they have to shrug
+their shoulders and say all right? Or can they say,
+well, you know, we're neighbors, we have a lot of
+interests in common and we should work together? Is
+that all of a sudden extortion?
+MR. TRIBE: No, Mr. Chief Justice. Working
+together is what this guy tried to do at the beginning.
+He said, I'm happy to negotiate.
+CHIEF JUSTICE ROBERTS: So how many trespass
+--
+MR. TRIBE: They said: We don't negotiate.
+CHIEF JUSTICE ROBERTS: -- citations for his
+cattle does it take before it's all of a sudden
+extortion?
+MR. TRIBE: The record in the case shows
+that on those very instances where he was cited with
+trespass others who were doing the identical thing were
+not. And the IBLA has said --
+CHIEF JUSTICE ROBERTS: And he challenged
+the citations and they were rejected.
+MR. TRIBE: The IBLA rejected them because
+it said it has no jurisdiction. This was at -- in its
+decision at 170 IBLA in 2006. No jurisdiction to
+consider whether the motive was retaliatory, whether it
+was unconstitutional, whether it was part of a pattern.
+And this Court has said that one can't use the APA in
+that way either. Nor could an injunction be used to get
+a pattern like this because of Rule 65D and
+International Longshoremen, try to frame an injunction
+saying: Don't keep trashing this guy and ruining his
+business and harassing and surveilling his guests and
+whatever else you can come up with in order to squeeze
+his property out of him. No other remedy will work.
+JUSTICE SOUTER: So are you saying that
+there was therefore no way short of Bivens even to
+challenge or even to vindicate his claim of selective
+prosecution.
+MR. TRIBE: He could have taken that one
+item and under a decision like Hartman vindicated it.
+But as is clear from the way he tried to challenge these
+individual things and then concluded, as we explained in
+our brief, that it was taking years and costing hundreds
+of thousands of dollars more than was involved in each
+individual one, that was hopeless.
+JUSTICE SOUTER: I appreciate that, but I
+thought you made the further claim -- maybe I
+misunderstood it -- that if he had gone from the
+administrative tribunal, or attempted to, to get into
+the district court, he could not have gotten into
+district court under the act.
+MR. TRIBE: Well, he wouldn't have had --
+because he would have had no record. That is, the
+review under the APA by the district court would have
+been based on the evidentiary record he made. And the
+IBLA specifically ruled that it would not entertain
+evidence about the reasons that the BLM officials had
+for going after him. There would be no evidence to
+support his claim.
+JUSTICE SOUTER: Could he have gone into the
+district court and said, I tried to make a record but
+they wouldn't let me; let me make a record now? Could
+he have done that?
+MR. TRIBE: I believe the district court's
+jurisdiction in reviewing a final agency action is
+limited to the agency record.
+JUSTICE BREYER: No, no. You can go to an
+agency and say, agency I want to do such and such, dah
+dah dah, here are my reasons. Agency says no. I want
+review.
+MR. TRIBE: So a challenge to the IBLA's
+assertion --
+JUSTICE BREYER: I don't know. You might
+have written to the Secretary of the Interior:
+Secretary, I want to you do such and such, please. No.
+Okay, review.
+MR. TRIBE: Well, he did write to the
+Secretary of the Interior.
+JUSTICE BREYER: And what happened?
+MR. TRIBE: He was not given an answer. So
+what can one say?
+The district court decided -- lest you
+assume that because he wasn't given an answer he doesn't
+have a case, the district court said, as hard as it is
+to prove these things, he has substantial evidence that
+they were picking on him solely to get the property, not
+because they didn't like him, not for some other reason;
+they were trying to get property for which they were
+unwilling to pay.
+It's doubtful that they could have taken
+it by eminent domain because the laws limiting the
+ability of the BLM require proving necessity and there
+is nothing in the record suggesting that they needed
+this easement. There is plenty in the record suggesting
+that he couldn't access his own property as long as the
+roadway wasn't maintained in a passable condition, and
+one of the ways they retaliated against him was to
+refuse to maintain the roadway.
+The record is also clear that his
+business suffered greatly. So that if the result is
+that someone who is trying to insist that if you want my
+property, you have to take it by eminent domain and give
+me just compensation, can't get help in those other
+ways, this is crucial.
+What would have happened in Kaiser
+Aetna, if when the Government said we think we have an
+easement to the Laguna pond, instead of going to court,
+which they did and they lost, if they had said well we
+are going to ram our motor boats or invite people to ram
+their motor boats into your sailboat? We are going to
+ruin your business in the Kuapa pond until you give the
+public an easement. Only a Bivens cause of action which
+the Court has recognized in other areas, in other
+constitutional claims -- due process, free speech,
+Eighth Amendment -- only a Bivens cause of action is
+directly responsive to that.
+CHIEF JUSTICE ROBERTS: No. A, an action
+against the Government for ramming your sailboat is
+directly responsive to that. You get -- you get full
+recovery.
+MR. TRIBE: The Westfall Act makes an
+exception when you are making a constitutional claim.
+That is, in 1988 when the Court passed the Westfall Act,
+there were two exceptions 2679B(2)(a) and (b) were
+constitutional claims and statutory claims.
+CHIEF JUSTICE ROBERTS: You don't need the
+Constitution to the sue the Government for ramming your
+sailboat. Basic state tort law.
+MR. TRIBE: Mr. Chief Justice --
+CHIEF JUSTICE ROBERTS: You can answer.
+(A little laughter.)
+MR. TRIBE: It seems to me that state tort
+law does not get at the harm that he has suffered. It
+gets at each individual piece. But the main harm he
+suffered is that they are circumventing the Just
+Compensation Clause as the one way that the Fifth
+Amendment was designed to permit the Government to get
+property for public use. Thank you.
+CHIEF JUSTICE ROBERTS: Thank you, Counsel.
+MR. TRIBE: Thank you, Mr. Chief Justice.
+CHIEF JUSTICE ROBERTS: Mr. Garre, you have
+four minutes remaining.
+REBUTTAL ARGUMENT OF GREGORY C. GARRE,
+FOR PETITIONERS
+MR. GARRE: Thank you, Mr. Chief Justice.
+First I want to clarify, the question of the
+assignment. And our position, it's always been our
+position that a new right-of-way had to be issued after
+the property was sold. And I'll point the Court to JA
+84, which is where the BLM officials made clear at the
+outset that an assignment was required. Point the Court
+to JA 100 which is the right-of-way --
+JUSTICE SCALIA: They might have been lying
+about that --
+MR. GARRE: Well --
+JUSTICE SCALIA: -- just as they lied about
+a lot of other stuff, according to --
+MR. GARRE: Pointing to JA 100 which is the
+right-of-way, which says that in accordance with Federal
+regulations, and I point the Court to 43 CFR 2803, which
+discusses assignments and makes clear that assignments
+have to be approved.
+JUSTICE GINSBURG: I thought there was
+something about Nelson having assigned his, the
+right-of-way that he had to the Government.
+MR. GARRE: Justice Ginsburg, assignments
+have to be approved by the BLM. That's --
+JUSTICE GINSBURG: Yes. But it wasn't that
+it was a new assignment; it was the former owner
+assigned it and the BLA -- BLM approved.
+MR. GARRE: It was never approved. And
+that's clear, there was never any valid assignment.
+That's why the reciprocal arrangement had to be
+negotiated anew and again, I point to 43 --
+CHIEF JUSTICE ROBERTS: Well, then why did
+you revoke it later, if it wasn't valid?
+MR. GARRE: It -- it was revoked as part of
+the decision not to assign it. And that's clear from
+the decision canceling the right-of-way. There was no
+assignment that could be approved, and rents had not
+been paid on it. So it was combined with the
+assignment.
+JUSTICE SCALIA: Why wouldn't there be an
+assignment? Why, why would the prior owner have any --
+any interest in not assigning it?
+MR. GARRE: In order for the right-of-way,
+because these are rights-of-way to public lands. They
+have to approved by new -- once new property owners seek
+to assert them. And again the --
+JUSTICE GINSBURG: The prior owner did
+assign it. The stopper was the BLM.
+MR. GARRE: But, but again it's clear -- and
+it was not approved, and one of the reasons it wasn't
+approved was because rents weren't paid and he wasn't
+agreeing by the terms and conditions of the regulations
+which are part of the right-of-way. And that's at JA
+100.
+The next point I wanted to make, Justice
+Kennedy, is we agreed this would be a dramatic new
+extension of Bivens, and we agree with Justice Breyer,
+the problems or types of litigations that this new
+constitutional tort would create are really just -- the
+-- capable of the imagination.
+JUSTICE KENNEDY: Davis versus Passman is a
+different context. But in theory is it consistent with
+what the Respondent asks?
+MR. GARRE: No, it's not. Because the
+Respondent here has more statutory and administrative
+remedies available to him than the plaintiff in Passman
+did, including claims under the Federal Tort Claims Act
+for trespasses, for any of the other alleged wrongs that
+you've heard about here today. These were -- these were
+wrongs that were addressed by the IBLA and the APA.
+CHIEF JUSTICE ROBERTS: But their argument
+is broader. It says you can't look at each little
+piece. You've got to look at the overall structure, and
+overall they are doing it to extort a property right
+they don't want to pay for, and they are not doing --
+other people's cattle cross over and they don't
+prosecute them.
+Now, let's assume that's correct on the
+facts. Are you saying that they have no remedy for that
+type of extortionate activity?
+MR. GARRE: They don't have a Bivens remedy
+and they don't have a RICO remedy. I'd point the Court
+to Lujan versus National Wildlife Federation, where the
+Court said that in that situation what a plaintiff must
+do is challenge each administrative action individually,
+and the types of programmatic pattern challenges are for
+Congress, they're for executive branches; they are for
+inspector generals.
+JUSTICE SOUTER: But what do you -- what do
+you say to the argument that -- that you simply cannot
+follow that logic ultimately, because when you get to
+the point of the sort of the, you know, the death by a
+thousand cuts, which is what they are claiming here, you
+can stitch up every cut, but by the time you get to a
+thousand, you're dead. I mean, they're making an
+argument that this is quantitatively so different that
+it is qualitatively different.
+MR. GARRE: I think the law and this Court
+reasonably assumes that where individuals have remedies
+available to them through challenging individual --
+JUSTICE SOUTER: Why is that a reasonable
+assumption in response to their argument?
+MR. GARRE: It's reasonable to assume that
+if there are actions against United States under the
+Federal Tort Claims Act, or actions finding Government
+conduct unauthorized under the APA, that the Government
+will take action to prevent that.
+Here every action that was challenged was
+found to be appropriate and lawful under the existing
+regime. We would urge the Court to reverse.
+CHIEF JUSTICE ROBERTS: Thank you, Counsel.
+The case is submitted.
+(Whereupon, at 12:06 p.m., the case in the
+above-entitled matter was submitted.)
+60:24 24:1 25:4 46:13 59:5 60:16 asking 4:11 39:1
+39:2 activities 26:5 43:24 44:3,10 26:20 assertion 36:21
+26:4 27:2 acts 5:9 32:14 13:14 1:14 assign 57:20
+54:12 32:20,25 33:21 allegations 5:23 appellate 32:11 58:8
+adding 37:17 alleged 4:17 5:6 26:11 56:14,18 57:11
+address 33:2 15:9 24:13 apply 26:16 58:1
+22:13 35:13,18 59:5 33:17 59:3 appreciate 57:3,3,8
+24:21,25 addresses 25:17 allegedly 27:13 52:13 assume 7:15,18
+27:13 administering alleging 37:20 appropriate 8:10 21:20
+40:13,22 10:15 37:23 11:11 19:8 53:25 59:13
+44:5 administrative allow 48:24 22:24 60:19 60:13
+55:13,15 5:7 7:1,8,9,16 allowed 23:17 approval 16:1 assumes 6:9,10
+60:15 7:22 9:20 10:5 45:19 approved 57:4,9 60:9
+14:1,2,17 15:1 24:15 28:3 58:5,10,11 25:14 47:25
+10:2,5 58:25 59:20 36:3 37:9 area 20:9 42:20 60:12
+15:9 administrativ... 38:17,19 42:22 areas 55:5 attached 48:4
+20:2 13:5 43:2 49:3 50:6 argue 42:1 attempt 47:10
+23:20 advantage 18:4 55:7 56:4 argument 1:12 attempted 52:16
+27:9 Aetna 54:23 amount 3:23 2:2,5,8 3:3,6 attempts 40:14
+28:11 Affairs 4:12 13:17 14:11 6:4,5 25:15,21 attorneys 6:7
+35:7,11 affect 42:10,12 19:22 28:21 40:25 authority 10:17
+36:17,21 agencies 10:19 ample 22:10 49:17 56:10 30:17,18 43:15
+38:5,9 agency 53:7,8 anew 16:24 59:6,25 60:6 43:25 44:17
+40:1,12 53:10,10,11 57:16 60:12 available 9:21
+49:7,9 agent 13:9 43:21 answer 5:22 9:6 arguments 59:1 60:10
+53:7 agents 16:1 39:8 9:7 10:6 16:5 26:10,11 avenues 4:16
+59:20 40:18 41:14,14 42:18 48:17 arising 36:10 22:11
+47:24 48:2 53:22,25 55:22 arm's 18:18 avoid 50:9
+18:10 20:11 antifreeze 42:7 20:23 21:4
+47:3 anybody 19:6 28:10 57:15 B
+10:10 58:17 anyway 44:6 arrangements b 55:16
+52:22 40:18 46:3 Bureau 4:12 36:14 37:20 charge 10:25
+boats 55:1,2 42:22 46:18 47:4,23 44:24
+3:7 books 18:23 businesses 14:4 43:6,17,20 Chief 3:3,8,16
+23:8 42:15 busting 23:13 44:1,2,23 49:6 10:9 18:21
+41:1 37:16 cattle 4:12 15:21 28:19,23 30:15
+53:6 breaking 32:14 C 2:1 3:1 56:10 59:11 40:3,7 41:3,9
+4:18 9:15 34:1,13,16,18 cancel 30:17,19 causes 22:4 60:21
+21:9,12 35:12 36:1 31:3 caves 39:9 chilled 42:5
+42:8,19,23 canceled 6:11 cents 44:12,13 circumventing
+27:20 44:23 45:2,8 30:13,16,21 44:18 56:2
+33:22 45:13,14,25 31:2,5 centuries 4:1 citation 4:22 9:1
+35:17,21 53:9,15,21 canceling 4:25 century 26:7 9:12 19:6
+38:18 58:17 57:21 35:20 citations 4:24
+40:11 brief 9:2 16:17 cancellable certain 19:22 10:11 11:15
+42:3 37:3,7 43:14 18:13 certainly 14:16 12:16 19:17
+48:8,24 52:10 cancellation 43:10 49:2 39:15 51:5,13
+50:2 briefs 9:10 15:2 CFR 57:2 cite 16:16 37:2
+bring 7:3 14:21 capable 58:20 challenge 4:24 43:14 44:24
+55:4,7 14:22,22 28:13 capacious 36:18 6:19 9:19,20 cited 43:17 51:9
+59:16 33:18 34:7,21 care 31:4 10:4 14:17 citing 49:23
+9:8 broad 38:2 case 3:4 5:13 8:2 challenged 15:19 17:7
+11:21 broader 59:7 8:18 10:15 51:12 60:18 21:12 25:14,14
+15:5 broadly 21:24 11:25 12:24 challenges 59:21 28:13,14 34:25
+17:12 broke 6:7 12:17 16:20 19:16 challenging 4:22 37:24 38:16
+40:4,6 50:22 conducted 6:23 48:1 59:13 criminal 25:11
+52:4,14 compared 42:11 confirmed 14:1 Corrupt 39:18 37:19 42:10
+55:14 comparison confront 22:23 costing 52:10 cross 10:14 19:4
+compensated confuse 45:24 28:19 56:6 crucial 31:24
+8:5 compensation 59:22 country 20:9 cut 60:4
+12:6 13:4 3:12,21 4:2,19 connection course 15:3 cuts 60:3
+21:13 9:15 19:12,24 47:14 20:10 29:3,8
+22:13 19:25 20:4 consider 51:17 court 1:1,12 3:9 D
+24:21 21:13,17,17 considered 5:6 3:10,25 4:6 7:4 D 3:1
+25:8 22:25 24:14 considering 7:9 8:1 12:13 dah 53:10,11,11
+35:6 27:11 29:7 43:25 12:19,22 14:6 damages 6:6
+37:9 36:5 39:7 41:6 consistent 58:22 14:14,14,18 13:7,8,17 14:6
+43:9 42:6 48:20 conspiracy 6:22 15:7,10,12 21:15 22:13
+50:8 54:20 Constitution 16:20 17:8 23:9,10 24:2
+60:15 56:3 22:5 48:18 22:4,5,23 23:1 37:5
+9:15 complained 3:11,20,24 25:24 28:24 36:16 38:6
+13:25 14:18 5:19 21:15 32:10 34:19,25 58:21
+22:25 complaining 22:25 23:4,25 35:13,18 36:19 day 22:3
+27:11 19:20 41:16 24:9 28:13 36:23 38:1 dead 60:5
+50:8 56:3 complaint 12:12 29:8 37:20,24 42:19 43:4 dealing 11:11
+52:8 complicated 49:8 55:6,14 52:17,18,21 dealt 20:3
+56:17 29:2 55:17 58:19 53:3,24 54:1 death 60:2
+concedes 3:23 context 3:25 54:24 55:5,15 deaths 9:10
+conceivable 28:6 37:19 56:16,18 57:2 decided 22:3,9
+33:22 conceivably contexts 10:1 60:20 decision 9:2
+46:2,6 13:16 continue 5:2 courthouse 15:13 23:21
+49:10 continued 30:1 26:19 32:23 57:20,21
+43:12 4:17 6:13 corporation crank 3:13 49:8
+51:25 14:11 15:3 44:4 create 41:18 deliberate 29:3
+diseased 32:7 18:10,16 19:1 16:10 19:21 39:17,25 60:19
+45:18 disputes 8:14 46:15,20,25 error 20:16 expeditions
+5:14 6:1,2 disregarding 48:10 54:11,24 2:6,9 expired 29:24
+15:4 55:4 essence 49:21,21 30:4
+17:5 23:13 31:6 establish 21:4 52:9
+20:13,17 district 4:6 Eighth 49:3 55:7 46:7 50:2,5 58:17
+53:3,6,24 54:1 element 28:12 40:17,20 extort 16:7 59:9
+8:25 54:8,19 everything's extortion 16:13
+8:17 employees 40:24 evidence 4:7 44:1,3,7,25
+51:10 59:9,10 44:3,4 54:2 50:23 51:7
+45:5 dollars 14:7 enforce 19:2 52:22 59:15
+33:11 52:11 20:14 26:7 exactly 6:15 extra 44:17
+38:6 54:8,19 enforced 18:24 33:7 37:25 extracted 46:15
+49:9,24 doorstep 36:7 enforcement 4:3 exception 55:14 extraordinary
+58:22 doubtful 54:7 4:10 15:20 exceptions 48:3
+dozen 29:4 48:22 55:16
+41:25 58:16 26:4,4 27:2,2 17:20 18:17 fabricated 33:25
+dug 32:9 engaging 9:8 executive 59:22 10:12 20:9
+27:5 easement 15:23 entertain 52:23 exhaust 15:15 46:18
+17:4,5,10,18 entitled 15:24 existing 38:4 failure 15:23
+50:4 five 7:13 44:18 3:6 15:11 17:24 21:18,23 22:1
+38:13 floodgate 36:24 5:4,18,22 6:18 give 15:23 16:24 29:25 31:25
+13:6 15:7 focused 21:20 10:4,8,12,22 41:4,5 42:5 39:8,17 40:22
+folks 46:3 11:5,8,22 12:4 47:20 48:17 41:6,10 42:10
+23:20 follow 60:1 12:19,22 13:3 50:8 54:19 42:13 43:12,14
+25:8 follows 8:6 13:14,20,23 55:3 43:21,22 45:4
+28:6 footnote 9:2 14:16,25 15:15 given 8:14,15 45:21 47:24
+40:10 16:17 16:5,12,15 16:14,23 17:3 48:2,18,22
+59:2 forbidden 29:9 17:1,6,12,21 20:8,18 45:4 49:13 50:8
+forced 16:20 18:2,7,15 53:22,25 54:23 55:10,19
+former 57:11 20:21 21:3,11 50:10 60:15,16
+16:6,16 26:12 26:18 27:10,17 12:14 13:13,13 granted 20:8
+36:2 60:19 56:8,10,12,22 19:3 25:5 4:25 6:11
+50:6 four 56:9 56:25 57:8,13 31:22 35:5 12:16,16 15:5
+frame 51:22 57:19 58:3,9 37:15 49:15,15 26:4 30:9
+22:2 fulsome 13:3 47:9 19:16 26:10 guess 46:22
+25:21 fundamentally Ginsburg 4:5,15 gotten 52:17 48:16
+35:16 20:1 21:14 4:20 5:1,5,11 government guests 4:10 8:4
+38:19 furniture 23:14 5:16 6:15 8:19 4:14 5:23 8:21 8:20,23 51:24
+43:2 further 52:14 9:5,16,17 10:20 15:18,24 guilty 43:13
+45:15 11:14,19,23 16:10,19,21 guy 19:3 48:6
+48:1 G 12:1,10,21,24 17:4,17,19 50:25 51:23
+14:14 hypothetical indicted 10:25 invaluable 11:23 12:1,10
+34:20 18:24 individual 6:8,8 47:18 12:21,24 13:3
+53:21 8:15 45:23 investigation 13:8,18,21,24
+I 52:9,12 56:1 11:17,17 14:8,21 15:11
+6:11,14,19 7:5 individually invoke 4:17 16:22 17:2,9
+51:24 IBLA's 53:13 inferred 4:18 involved 27:8 23:17 24:3,7
+46:22 illegal 32:14,20 inherent 19:23 issue 11:25 26:9,16 27:6
+38:7 36:5 58:20 51:20,22 56:15 29:15,18,22
+49:23 immediate 32:6 injunctions 13:7 issues 5:14 30:2,5,9,15
+immune 24:17 33:5 item 52:7 31:4,9,12,17
+26:8,14,21 injustice 45:24 58:13 34:1,6,10,13
+41:2 42:2 inspectors 35:17 45:21 38:25 39:11,20
+43:15,16 impose 35:10 install 36:8 judgments 29:1 40:15,21 41:3
+impound 4:12 instances 51:9 July 30:13 31:2 41:4,9 42:8,19
+19:9 intent 28:13 jurisprudence 44:3,10,23
+L legitimate 10:17 lost 34:6,10,11 meter 36:8
+Laguna 54:24 16:4 28:17 40:4 41:17 method 47:9
+52:2 land 4:3 5:25 35:11 54:25 miles 17:23
+53:2,9 8:21,21 11:10 length 18:18 lot 9:9 13:10 million 14:7
+55:9 13:10,22 15:21 Leo 16:20 32:19 43:24,25 mind 15:1 17:7
+27:3 29:4 30:3 lest 53:24 50:21 56:24 minimum 12:11
+30:17,19 31:22 letter 10:23 lots 42:2 minutes 34:3
+57:5,8 48:5 let's 8:10 18:24 Lujan 59:18 56:9
+landowner 28:9 38:22 59:13 lurking 36:12 misbehavior
+28:11 46:10 level 5:24 7:16 lying 56:20 47:25 48:22
+60:11 landowners 7:16 14:2 misrepresenting
+liability 3:22 M 37:12
+9:1 10:14,14 librarian 44:10 main 56:1 52:15
+27:3 28:7 44:11,15 maintain 30:13 Monday 1:9
+50:17
+51:23 large 13:17 limit 41:7 major 35:8 46:9 48:15
+9:22,24 laughter 34:17 limiting 54:8 28:17 43:7 motive 51:17
+18:12 45:11 55:23 limits 4:1 55:14 60:5 motor 55:1,2
+22:14 LAURENCE line 5:24 11:9,21 Malesko 22:6 multiple 12:6
+24:22 1:18 2:6 28:21 19:5 malicious 33:19 murder 37:19
+37:1,7 law 20:2,4,5 list 5:9 11:1 34:7,8 39:16 mutually 20:10
+24:17 25:18 litany 14:13 40:3,5
+litigation 12:6 man 4:13 N
+41:12
+42:25 42:15 43:4,16 13:13 Management N 2:1,1 3:1
+50:1,4 43:19 45:18 litigations 58:18 5:25 11:10 naked 36:21
+55:20,25 60:8 litigious 8:15 29:5 National 59:18
+47:5 54:8 23:13 32:14 Mass 1:18 necessary 35:9
+41:7,25 lawsuits 12:6 41:24 matter 1:11 5:11 necessity 54:9
+44:7 35:19 logic 50:2 60:1 20:6,10 60:24 need 50:12,17
+15:20 44:11 43:25 47:17 30:16 32:19 needs 3:16
+leave 38:22 54:12 36:9 42:1,13 negotiate 20:22
+24:4,7,8 leaving 4:9 Longshoremen 46:20 47:1 32:5,7 46:21
+34:14 Lefkowitz 37:16 51:22 60:5 51:1,4
+legal 20:15 36:5 look 5:13 10:24 means 6:6 negotiated
+60:2 legislature 19:1 25:25 mentioned 5:11 18:12,18 57:16
+57:6 26:2,5 27:4,8,8 part 6:22 15:6 27:2 points 22:2
+57:13,14 52:24 56:17 18:22 30:4 36:7 44:24 policy 5:11
+21:4 okay 7:9 12:21 51:18 57:19 personal 3:22 portion 26:19
+23:4 31:13 47:9 58:13 23:9 28:15 position 5:18
+39:19 53:18 particular 24:9 petition 32:11 21:5 32:9 37:3
+42:16 old 44:1 26:1,23 32:11 38:11 39:13
+44:1 Oleck 36:20 particularly Petitioners 1:4 41:6,10,15
+57:11 once 14:23 32:15 36:10 1:17 2:4,10 3:7 56:14,15
+17:13 36:2 particulars 23:5,22 56:11 possibilities
+one's 44:3 parties 18:18 44:12 possibility 20:6
+49:6 42:16 passable 54:13 8:3 possible 48:22
+23:6,19 15:8 21:24 22:3,18 picking 54:3 predecessor
+opposed 30:9 36:16 38:6 piece 47:18 48:5 17:3,25 20:7
+15:16 58:3 44:20 51:18,21 pile 39:9 prerequisites
+32:13 originally 18:12 59:21 pillars 34:24 44:21
+OSHA 41:14 pay 8:5 45:3 pipe 36:8 present 36:14,15
+40:22 plainly 32:20,22 60:17
+47:23 48:2 35:5,24 42:2 53:17 private 34:21
+48:4 people's 42:12 54:11 probable 33:24
+10:17 P 27:20 43:3 56:16,18 28:1 47:12,16
+27:4 P 3:1 permit 4:23 49:7 57:2,16 58:15 problems 58:18
+page 2:2 32:12 56:4 59:17 60:2 procedure 7:8
+37:19 39:9,9,12 realistic 7:11 20:14 13:3 19:14
+55:6 pursue 41:20 22:16,16 30:14 recovery 55:12 24:10 35:14
+45:15 46:22 41:22 49:24 refuse 54:15 41:15,19,22
+reason 27:15 22:7 30:13 50:13,13 52:1
+14:5 25:19,23 26:8 8:16 31:23 Regardless 21:4 rents 57:22
+18:3 26:14,21 27:18 60:11,13 regime 60:20 58:11
+21:20,21 27:21 reasonably 8:14 regular 7:10 reply 9:2 16:17
+29:6 qualitatively 60:9 regulation 18:23 representation
+36:4 41:5 60:7 reasons 12:7 35:1 38:13
+quantitatively 36:11 52:24 regulations represented
+47:18 60:6 53:11 58:10 17:13 18:8 41:10
+49:1 quarter 35:20 reassigned 18:3 19:21 23:8 request 13:17
+50:11 question 5:9,22 18:8,9 34:23 57:2 require 3:24
+52:1 9:6 15:12 REBUTTAL 58:12 54:9
+22:23 23:2 2:8 56:10 regulatory required 56:18
+58:5 24:11 25:23 receive 13:7,7 35:11 requiring 43:5,5
+27:17 37:3 reciprocal 15:23 reimbursing 45:22
+49:19,20 56:13 18:10,25 19:8 6:19 39:16 resources 4:4
+34:7,8 quid 30:22 21:4 28:7,9 related 14:7 23:3 25:13
+37:17 quite 6:25 10:16 31:6 46:9,13 relationship 26:18 27:18
+40:4,6 quo 30:23 47:7,10,12 18:19 38:16,18 49:3
+57:15 relevant 26:11 49:4,4
+25:21 36:17 55:5 remainder 22:10 23:22
+8:17,21 ran 30:3 record 4:6 15:6 remedies 15:16 38:16 60:12
+17:23 ranch 8:4 30:14 16:16 17:5,11 22:11 32:23,24 responsibilities
+27:2 28:6 rationale 22:18 17:19 20:19,19 33:3,6 59:1 26:3,23 27:1,1
+36:4 reached 11:20 51:8 52:20,22 60:9 responsibility
+rights 16:8 20:1 S 2:1 3:1 21:3 22:11,12 somebody's
+38:20 42:6,21 55:20 seeking 14:6 sort 60:2
+rights-of-way saying 13:21 31:5,25 32:1 20:23 24:10
+right-of-way 47:20 51:23 selective 4:10 Souter 25:13,20
+18:13,14,15 says 4:13 7:9 15:20 48:22 40:21 41:3
+30:24 47:17 21:25 37:8 selectively 32:13 59:24 60:11
+57:1,7,21 58:3 50:18 53:11 sense 39:3 sovereign 24:20
+36:25 river 19:18 Scalia 3:13 6:21 seriously 5:23 specific 23:23
+41:8,13 road 17:23 7:3,6,18 8:3,10 5:24,25 6:1 specifically
+30:12 13:8,18,21,24 settled 14:2 52:23
+roadblock 35:8 15:19 16:9,13 settlement 11:20 spectrum 48:21
+39:21 roads 30:8 17:16,22 18:1 severe 37:11 speech 42:4,5
+roadway 30:6 18:5 23:12,17 Shapiro 37:25 49:4,24 55:6
+53:12,18 ROBERTS 3:3 31:17,20 32:3 shoulders 50:20 squeeze 50:11
+24:2 40:3,7 41:9 49:19 significant starting 32:8
+46:2,6,17 47:2 school 29:1 28:16 state 20:2,4,5
+50:14 51:2,5 scope 17:7 25:3 simply 25:19 24:17 25:10,11
+39:18 51:12 55:9,18 25:4 30:19 43:7 27:8 55:20,24
+44:8,14 55:22 56:6,8 second 19:12 59:25 States 1:1,12
+59:17 57:17 59:6 25:23 26:22 situation 23:23 24:25 25:2
+13:25 Robinson 3:4 Secondly 16:18 situations 21:7 60:14
+24:12,14 room 42:15 21:17 22:10 skew 4:2 stationed 8:22
+29:20 rubric 26:8 Secretary 53:16 skewing 28:16 statute 23:11
+31:8 ruin 55:3 53:17,20 sloppiness 21:1 24:9 45:22
+33:1,16 ruining 51:23 see 11:1 16:3 sold 36:12 56:16 statutes 22:5
+35:16 rule 44:13 51:21 31:12,17 35:7 solely 54:3 statutory 42:24
+ruled 52:23 36:1,9,13,15 Solicitor 1:15 42:25 43:1
+39:7 rules 19:21 23:8 40:23 45:5,9 5:12 55:17 58:25
+46:19,23 runs 21:9 30:16 45:25 47:3 solution 7:2 stitch 60:4
+48:8 seek 14:10 16:19 somebody 7:12 stop 9:11,11,12
+59:9 S 16:21 20:14 49:14 50:11,15 11:21 12:3
+47:24 48:1 5:15 14:13 60:4 Tribe 1:18 2:6
+19:20 6:24 7:14 8:13 tolerates 19:24 33:20 34:2,9
+28:14 system 31:9 11:25 12:9 tort 3:11,20,24 34:11,15 35:12
+23:7 18:13,22 19:10 23:20,20,25 38:7,15,24
+54:2 T 20:12 21:11,12 28:13 40:22,24 40:9,17 41:2
+take 10:6 15:2 26:7,18 27:10 58:19 59:2 43:1,8,10,16
+51:6 51:6 54:19 41:2 45:12 transformed 48:16 49:2,5
+42:15 taken 5:24,25 49:20,25 50:2 trash 41:23 51:8,14 52:6
+56:2 takes 5:12,23 thinks 44:15 treated 8:1 tribunal 52:16
+54:10,11 tax 50:10 10:19 11:19 treble 23:10 trivial 43:6
+49:25 terribly 31:13 33:10 46:11 22:12 24:17 44:5
+test 24:3 52:11 31:21 39:15 truth 13:1
+35:22 56:5,6,7,12 36:12 trespassed 7:20 trying 20:25
+49:13 60:21 threaten 4:4 trespasses 4:8 21:3 35:3
+46:3 40:21 58:22 14:23 18:14 14:4 15:4 59:3 43:3,4 46:8,21
+48:10,14 unleash 35:19 violating 4:22 Westfall 40:13 24:8 28:12
+unsurprising 36:18 55:13,15 wrongs 59:3,5
+43:17 upcranking violations 12:16 41:12 48:23,25
+55:16 3:17 15:5 30:21 50:21 Y
+25:14 39:15 Virtually 42:13 Wildlife 59:18 years 7:13 17:22
+59:21 use 4:3 21:25 W Willett 43:18 29:4 32:9
+35:3 36:4 wait 32:19 45:17 46:4 52:10
+51:19 56:5 want 9:11 11:1 Willowbrook 44:1
+V 41:4,11 53:10 win 10:11 27:25 0
+14:19 35:14 36:16 56:13 59:10 witness 49:14 1
+22:12 37:25 38:7 wanted 58:15 won 34:11,13 10 44:13
+60:16 39:4 40:20 wants 9:11 19:1 wonder 27:24
+56:19,25
+57:18 36:7,10 49:13 words 10:11
+1:13 3:2
+various 30:20 Washington 1:8 work 31:10
+60:23
+vast 34:23 wasn't 8:10 working 3:14 170 51:16
+51:18 21:24 22:3,18 20:8,11,13,20 world 46:25
+1:9
+45:17 46:4 38:4 45:4,15 worrying 33:2 1952 8:1
+Vessels 32:6 54:13 57:10,18 wouldn't 6:9
+35:21
+view 31:24 13:13 21:6,25 31:17,19 48:8 1988 55:15
+25:2 vindicate 52:4 50:7 51:20 write 10:23 2
+40:13,18 vindicated 52:3,8 56:3 53:19 2 9:2 16:17
+39:14 52:7 ways 16:6 54:14 written 53:16 20 15:4,5 34:3
+49:22 weren't 6:12 29:25 31:13,15 2006 51:16
+23:7 26:13 West 6:24 19:17 wrongful 21:23 23 37:2,14
+22:8 44:11
+2:7
+57:2
+2:4
+17:22 18:15
+32:12
+57:2,16
+32:15 45:16
+2:10
+32:15
+51:21
+33:24
+56:17

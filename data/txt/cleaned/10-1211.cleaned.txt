@@ -1,0 +1,1566 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+PANAGIS VARTELAS, :
+Petitioner : No. 10-1211
+v. :
+ERIC H. HOLDER, JR., :
+ATTORNEY GENERAL. :
+- - - - - - - - - - - - - - - - - x
+Washington, D.C.
+Wednesday, January 18, 2012
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 11:22 a.m.
+APPEARANCES:
+STEPHANOS BIBAS, ESQ., Philadelphia, Pennsylvania; for
+Petitioner.
+ERIC D. MILLER, ESQ., Assistant to the Solicitor
+General, Department of Justice, Washington, D.C.;
+for Respondent.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+STEPHANOS BIBAS, ESQ.
+On behalf of the Petitioner 3
+ORAL ARGUMENT OF
+ERIC D. MILLER, ESQ.
+On behalf of the Respondent 24
+REBUTTAL ARGUMENT OF
+STEPHANOS BIBAS, ESQ.
+On behalf of the Petitioner 46
+P R O C E E D I N G S
+(11:22 a.m.)
+CHIEF JUSTICE ROBERTS: We'll hear argument
+next in Case 10-1211, Vartelas v. Holder.
+Mr. Bibas.
+ORAL ARGUMENT OF STEPHANOS BIBAS
+ON BEHALF OF THE PETITIONER
+MR. BIBAS: Mr. Chief Justice, and may it
+please the Court:
+As the Government concedes, INA subsection
+101(a)(13)(C)(v), added by IIRIRA, does not expressly
+mandate retroactivity. Under Landgraf, applying that
+new provision would attach new legal consequences to
+pre-IIRIRA offenses, penalizing both those who travel
+and those who don't.
+Covered lawful permanent residents could not
+visit their parents abroad without being forced to
+abandon their children here. They would be removed from
+the country or else confined here. Either way, they
+would lose an ability they had under pre-IIRIRA law
+based on pre-IIRIRA offenses. Thus, applying the
+subsection to them would be impermissibly retroactive.
+The settled expectations at issue here are
+those of round trips by lawful permanent residents, not,
+as the Government would put it, one-way tickets or
+first-time entrants.
+These are people who have structured their
+lives here. They have homes, spouses, children, and
+careers here and, yet, have a settled expectation that
+they will be able to maintain ties to visit aged and
+ailing parents abroad, to go to funerals and wakes and
+visit them in the hospital and surgeries. Our amici,
+the NACDL brief and the Asian American --
+JUSTICE GINSBURG: As far as going forward
+is concerned, that's -- that's just the way it is,
+right?
+MR. BIBAS: Yes, because Congress has
+expressly changed the law post-IIRIRA. The question is,
+for those before IIRIRA, whether those settled
+expectations are being disrupted.
+JUSTICE GINSBURG: Could they -- could
+they -- the person who -- who is here and then the new
+law is passed -- could that person have petitioned for
+discretionary relief before traveling?
+MR. BIBAS: Yes, Your Honor, that is a
+possibility. That is not the same as the automatic
+ability to travel, and, in fact, in this case the
+discretionary relief was denied. It depends on a
+different set of factors from the automatic pre-IIRIRA
+ability to travel. But it is a theoretical possibility
+in some cases.
+CHIEF JUSTICE ROBERTS: So, your
+expectations argument is that somebody trying to figure
+out whether to go ahead and rob the bank is going to
+say, well, if I do and I'm caught and I'm found guilty,
+I won't be able to take temporary trips abroad; so, I'm
+not going to rob the bank.
+MR. BIBAS: No, Your Honor. First of all,
+you phrased it specifically as a reliance argument,
+which is an alternative. Even the Government concedes
+it's not a prerequisite.
+Second, the right time to look at
+expectations is the moment before the law is enacted:
+Does one have an expectation at that point that one will
+be able to continue --
+CHIEF JUSTICE ROBERTS: Well, you're
+concerned under Landgraf, I think, with whether or not
+it disrupts settled expectations. And it just doesn't
+seem to me that this issue enters into the expectations
+at all when the pertinent act, which is the commission
+of the crime, not the pleading guilty, takes place.
+MR. BIBAS: No, Your Honor, I believe the
+practical impact is a new travel disability or penalty,
+just as in Landgraf. The discrimination there had been
+illegal for decades; yet, adding a new form of damages
+to it was impermissibly retroactive. In Hughes
+Aircraft, filing false claims with the government had
+been illegal for years; yet, broadening the class of
+people who could file suit and removing a defense -- no
+reliance possible at all, but there was a settled
+expectation that there would be no additional
+consequences attached to that.
+JUSTICE ALITO: What's the difference
+between someone who commits the crime just before the
+Act is passed and someone who commits the crime just
+after the Act is passed? The person who commits the
+crime just after the Act is passed had the expectation
+prior to the passage of the Act that if he did certain
+things, he wouldn't -- he wouldn't have this consequence
+from his conduct.
+MR. BIBAS: Congress, of course, has the
+power to change things, but the expectation until an Act
+is passed is that the consequences are fixed in time.
+And if Congress decides that the potential unfairness is
+outweighed by the benefits of making the Act
+retroactive --
+JUSTICE ALITO: But the person who -- who
+commits the crime just after the Act is passed had the
+expectation prior to that time, that had -- if he did
+certain things in the future, he wouldn't suffer certain
+consequences.
+MR. BIBAS: And yet, Congress has -- has
+affirmatively warned and put everybody on notice that
+now there is this new consequence. You may be deterred
+by this new consequence. We may be punishing you by
+this new consequence. But the consequence has been
+announced.
+JUSTICE SCALIA: Mr. Bibas, I have -- this
+is almost a question of personal privilege. You -- you
+make your whole argument on the basis of Landgraf. So
+does the Government. You do not cite -- the Government
+cites but does not discuss the relevant portion of a --
+of a later case which involved the same question,
+Republic of Austria v. Altmann.
+I concurred separately in Landgraf because I
+thought that the test that the Court was using,
+upsetting settled expectations, was indeed the proper
+test for constitutional provisions forbidding ex post
+facto laws, which is where the Court derived it from,
+Justice Story's opinion in a New Hampshire
+constitutional case.
+But I said in my concurrence that the proper
+test for -- for the other issue of retroactivity,
+namely, constitutionality aside, does this statute mean
+to be applied only in the future or in the past? And
+for that, I propose -- well, I'll read you what we said
+in Altmann:
+"Our approach" -- which postdates Landgraf.
+"Our approach to retroactivity in this case thus
+parallels that advanced by Justice Scalia in the
+concurrence in Landgraf." Quote, and it's quoting the
+concurrence: "'The critical issue ... is not whether
+the rule affects 'vested rights,' or governs substance
+or procedure, but rather what is the relevant activity
+that the rule regulates. Absent clear statement
+otherwise, only such relevant activity which occurs
+after the effective date of the statute is covered.
+Most statutes are meant to regulate primary conduct, and
+hence will not be applied in trials involving conduct
+that occurred before their effective date. But other
+statutes have a different purpose and therefore a
+different relative retroactivity event'" -- "'relevant
+retroactivity event.'"
+And that is what we have here. The -- the
+event that is sought to be regulated is entry into the
+United States, and it is clear that this statute applies
+only to prospective entry into the United States. It
+doesn't apply to past entry so that those people who
+came in, in violation of this statute, can be deported.
+Now, why shouldn't we apply that rule in this case, as
+we did in the Republic of Austria case?
+MR. BIBAS: No, Your Honor. As a -- first
+of all, our reply brief discussed Altmann, and the
+majority of the Court has viewed that as limited to the
+foreign sovereign immunities context. But taking your
+test on its own terms --
+JUSTICE SCALIA: Why would it be limited
+just to the foreign sovereign immunities context?
+MR. BIBAS: That's the majority's approach.
+But taking your test on its own terms, what you're
+pointing out is there is a future --
+JUSTICE SCALIA: Why do you say that's the
+majority's approach?
+MR. BIBAS: I'm sorry. The majority in
+Fernandez-Vargas expressly said that Republic of Austria
+was in a sui generis context and that its holding
+shouldn't be extended to -- to Fernandez-Vargas.
+JUSTICE SCALIA: Its -- its holding.
+MR. BIBAS: Yes.
+But to take -- to look at your test, you
+were pointing out that there is a future event which the
+Government -- practically its entire theory turns on
+that. But even if there is a future event, there is a
+past event being regulated here, and the activity at
+issue under your test would be the pre-IIRIRA offense,
+not just the innocent post-IIRIRA travel. What we have
+is future lawful travel, concededly lawful, nothing
+nefarious needs to be shown of it.
+JUSTICE KAGAN: Well, Mr. Bibas, how is it
+different then from a felon in possession statute, where
+you look at the past offense --
+MR. BIBAS: Right.
+JUSTICE KAGAN: -- and then you say, well,
+this man, because of that past offense, can't buy a gun
+in the future? How is it different at all?
+MR. BIBAS: Your Honor, there are five
+pertinent distinctions. Permit me to unpack.
+The first and most important is that the
+Landgraf test should have a broader scope than the ex
+post facto context in these criminal cases because
+Congress can override it expressly.
+Since the ex post facto clauses disable both
+State and Federal legislatures from acting at all, the
+deprivation of power must be narrow and careful so State
+and Federal legislatures can continue to regulate felon
+in possession or racketeering or the other crimes the
+Government advances.
+But Landgraf just tells Congress how to
+legislate. It's a background rule. So, it's legitimate
+to have a presumption against retroactivity sweep more
+broadly, as Congress is free to override it and, as I
+will explain, does override it regularly.
+Secondly, felon in possession is inherently
+dangerous conduct. This is a protective law. It's not
+just a punitive or deterrent law.
+The third and related point is that felon in
+possession laws are tailored. There's a nexus to a
+danger, a threat to people suffering firearm -- it's
+narrowly tailored. Fourth --
+JUSTICE KAGAN: Well, why isn't the -- the
+government, Congress, making the exact same judgment
+here? If the activity to be regulated is entry, and
+Congress is making a judgment that we do not want
+dangerous people to enter, and we're using the
+conviction, the prior conviction, as a marker for who is
+dangerous, and that's exactly what Congress has done in
+the felon in possession statute.
+MR. BIBAS: Your Honor, I believe the two
+are quite different. Felon in possession is limited to
+firearms in the hands of proven dangerous people. Here
+we have a law that says you can stay in the country
+indefinitely; we're going to discourage you from going
+abroad and leaving the country because we'll make it
+harder for you to come back. That's not tailored at all
+to protecting the people inside the United States.
+I'd also point out that the felon in
+possession statute, as this Court noted in Heller, is
+part of a long tradition of forbidding such activity as
+a crime. So, it's hard to say there are settled
+expectations being upset by felon in possession laws.
+And the final one is Congress can do that
+simply by being explicit, and it has done so repeatedly
+in laws such as IIRIRA. Elsewhere in IIRIRA, section
+321(b) says the aggravated felony definition applies to
+convictions entered before, on, or after the statute's
+effective date. It knew how to do it; it did it more
+than a dozen other times in IIRIRA, as this Court noted
+in St. Cyr. It didn't spell it out here. The point of
+this --
+JUSTICE SOTOMAYOR: How about the career
+criminal enhancements, instead of the felon in
+possession? And assuming your arguments, what limits
+can Congress put on anyone with respect to future
+conduct if it's going to be a burden? Under your view,
+it stops people from traveling. Career criminal
+statutes put on the distinct disadvantage of a longer
+sentence.
+MR. BIBAS: Yes, Your Honor, and as we
+noted, in the criminal context, this Court in Witte and
+Gryger notes it's a heavier punishment on the new crime
+because it's aggravated, because it's repeated. And
+because Congress has more leeway in the ex post facto
+context and because recidivism enhancements have a long
+tradition, it's entirely legitimate. There's no need to
+say that that's punishing the past offense because the
+future offense -- it --- it's permissible to increase it
+under the Ex Post Facto Clause.
+And that's an inquiry that's different from
+the Landgraf test here because all Congress has to do is
+spell out expressly we want to apply this to convictions
+entered before, on, or after the statute's effective
+date, which it did in 321(b), which it didn't do here.
+So, if we were looking at the function of --
+JUSTICE SOTOMAYOR: Does that argument that
+you've just made go more to whether or not the BIA's
+conclusion that Congress intended to rescind the Fleuti
+decision -- but you assume that's what its intent was?
+MR. BIBAS: We've assumed arguendo because
+that's the premise of the question presented. Yes.
+JUSTICE SOTOMAYOR: So, if we assume that,
+if we assume that was Congress's intent, doesn't that
+start -- give you the conclusion? If Congress intended
+to undo it, doesn't that prove that they intended to
+effect it retroactively?
+MR. BIBAS: No, Your Honor, it doesn't. All
+the case law, the legislative history, the other
+discussion was about certain other aspects of entry
+doctrine that needed to be changed. The discussion was
+express about saying we're changing the definition from
+entry to admission because we don't want people who have
+snuck into the country outside of --
+JUSTICE SOTOMAYOR: No, no. I -- those go
+to the basic premise.
+MR. BIBAS: Right.
+JUSTICE SOTOMAYOR: If you assume Congress
+intended to rescind the prior doctrine, isn't that proof
+itself that it intended to apply the statute
+retroactively?
+MR. BIBAS: No, Your Honor --
+JUSTICE SOTOMAYOR: To this conduct?
+MR. BIBAS: No, Your Honor. Congress can
+intend to rescind -- to -- to abrogate a statute such
+that it will have no effect going forward, but as this
+Court noted in Landgraf, the -- the background default
+rule that the public and Congress expect is that new
+laws will apply prospectively. That has the virtue not
+only of giving a clear background rule which -- against
+which Congress legislates, against which it did
+legislate in IIRIRA; but it also forces Congress to
+advert to the potential unfairness of retroactivity and
+decide that the benefits outweigh it.
+That's what this Court said in Landgraf. It
+makes perfect sense, and that clear statement rule
+serves the function of having them smoke out into the
+open. If you think it's beneficial to make this
+affect convictions in the past, just say so. But it
+didn't.
+So, to go back to our primary point, with
+the practical impact or effect being a new travel
+disability, the Government's argument seems to boil down
+to that, because there is one event that must happen
+after the statute's effective date, therefore there can
+be no retroactive effect.
+JUSTICE KAGAN: Well, that event is the
+event that the government cares about, which is the
+entry into the country. It's not as though the -- you
+know, the government says -- just picks an event at
+random and -- and makes it the trigger mechanism. The
+government has picked the event that it wants to
+regulate, which is entry.
+MR. BIBAS: Yes, Your Honor, but this is an
+effect test, and under Martin v. Hadix and Landgraf, we
+have to take a commonsense functional view of what the
+effects are, the new legal consequences. As --
+CHIEF JUSTICE ROBERTS: I would have thought
+your answer to my colleague would be: No, what they
+want to regulate is the staying in the country, and
+they're trying to make that as uncomfortable as possible
+in order to encourage the individual to leave. If he
+can't go to the, you know, parent's party, the cousin's
+wedding or whatever, he's just going to leave, and then
+once he does, he can't come back.
+Why would -- why would the Government
+care -- it's a question for them, I'm sure. Why would
+they care whether somebody that they don't want to be
+here stays here? It seems to me the exact opposite.
+So, I would have thought your argument -- your answer
+would be, no, what they're trying to regulate is not the
+coming and going, but simply the staying.
+MR. BIBAS: Yes, Your Honor, you're right
+that, particularly given the strange way in which it's
+written, it's hard to understand it as something other
+than a penalty and possibly a deterrent, but certainly a
+penalty based on past crimes, to make life
+uncomfortable. And that does not speak of a protective,
+forward-looking exclusive function, if that's the test.
+But to go back to the earlier point, if that
+were -- if we were to follow the approach Justice Scalia
+outlined, that would be the right response. But we
+don't even need to get there because the primary test
+under Landgraf is not the point or function or purpose,
+but an effects test. The effect, as the Government
+concedes, is to force him to choose between his parents
+in Greece and his wife, children, career, and home here.
+JUSTICE SCALIA: But there are a lot of --
+but there are a lot of statutes which we interpret to be
+valid, and not retroactive, which have a substantial
+effect. You can pass a statute altering the rules of
+evidence which have the effect of making someone who
+committed a prior murder convictable; whereas, before,
+he was not convictable.
+And we don't just look to the effect and
+say, well, it has that substantial effect; so, it's
+operating retroactively. We say, no, it's a rule of
+evidence. It applies in the future, and that evidence
+can come in.
+And that's my problem with this other
+approach. There are often adverse effects upon
+activities that occurred before the statute was enacted,
+but we still regard the statute as prospective only and,
+therefore, not subject to special rules for people who
+are affected.
+MR. BIBAS: Well, setting aside the
+difference between the ex post facto context and the
+civil context, and I -- there is the procedural
+distinction which I know Your Honor didn't sign on to.
+It's also relevant that here it is directly expressly
+tied to a past conduct. It's a precondition. It's not
+even a piece of evidence or something one can draw an
+inference from. It is a precondition for ineligibility
+under 101(a)(13)(C)(v). And, therefore, it looks like
+the disability that Justice Story said; a disability has
+to involve future conduct. But if it's expressly
+disabling future conduct, that's a penalty on past
+conduct.
+The disability in St. Cyr of not being able
+to apply for future discretionary relief. The
+disability in some other cases of this Court that we
+found after briefing and alerted opposing counsel to,
+Cummings v. Missouri and Ex parte Garland in volume 71
+of the U.S. Reports. Even though the law there forbade
+teaching in the future or holding office or preaching or
+being a member of the bar, the Government's theory would
+say those are post-enactment things; just refrain from
+teaching; you don't have a vested right to teach.
+This Court said, no, we recognize those are
+expressly targeted to punish the past membership in the
+Confederacy that triggers that disability. And so, the
+Government's approach would render the Justice Story's
+disability category a nullity.
+CHIEF JUSTICE ROBERTS: Does it matter in
+the examples that you just gave that admission to the
+United States is purely a matter of legislative grace,
+while we might conclude that teaching, being a member of
+the bar, whatever, is not?
+MR. BIBAS: I don't believe that that is
+important. That only matters for the vested rights
+argument, and this Court in Cummings said expressly it
+was dealing with a privilege. So -- moreover --
+CHIEF JUSTICE ROBERTS: I'm sorry. What --
+an which privilege was that?
+MR. BIBAS: The privilege of teaching or the
+privilege of holding office. So, you can't rest on a
+right/privilege disposition.
+CHIEF JUSTICE ROBERTS: Suppose that might
+have been regarded as such then but not under current
+law.
+MR. BIBAS: Okay. Well, another answer --
+in St. Cyr, the government made the same argument, and
+this Court said: Well, sure, Congress has the plenary
+power to change the rules any time it wants; just do it
+expressly.
+The question is not whether Congress can,
+but whether it has, in fact, changed the rules
+expressly, to make that express tradeoff that the
+potential unfairness of retroactivity is worth it.
+Now, the final point here, I believe there
+was some reference earlier to reliance in the offense.
+And as the Government concedes, reliance is not a
+prerequisite. This Court can rule for Petitioner and
+not even bother with reliance. But the presence of
+reliance here is an extra factor that -- that shows the
+retroactivity to be obvious and severe. So, the court
+of appeals' whole premise that reliance is necessary
+goes away. The Government concedes the court of appeals
+implicitly was wrong on that.
+As a practical matter, our point is that
+defendants rely on the known consequences of offenses
+when they decide to plead guilty. As this Court
+recognized in --
+CHIEF JUSTICE ROBERTS: When they decide to
+plead guilty?
+MR. BIBAS: Yes.
+CHIEF JUSTICE ROBERTS: The operative issue
+here is when they commit the crime.
+MR. BIBAS: We don't claim that there's a
+reliance interest in committing the crime, but in the
+decision to plead guilty, as a practical matter, the
+defendants weigh a number of consequences. And one of
+those is whether they might have a 4-month discount off
+their sentencing guidelines, which was the inducement
+here, and another one is, will they ever be able to see
+their parents again?
+CHIEF JUSTICE ROBERTS: So, this -- so,
+this --
+JUSTICE KENNEDY: So, you draw the line --
+your position is that only those who have entered a
+guilty plea are entitled to the presumption against
+non-retroactivity, but not those who've been found
+guilty?
+MR. BIBAS: Your Honor, our primary position
+is that because reliance isn't necessary, all of them
+benefit from it because they all have settled
+expectations.
+JUSTICE KAGAN: How do you explain St. Cyr
+if reliance isn't necessary? St. Cyr is all about
+reliance.
+MR. BIBAS: Yes. And at the end of this
+Court's opinion, the Court said that the presence of
+this reliance made the retroactive effect especially
+obvious and sincere -- especially obvious and severe in
+St. Cyr. That did not purport to overrule holdings in
+Landgraf and Hughes Aircraft, where there had been no
+legally cognizable reliance.
+So, St. Cyr is an easy case because of the
+guilty plea because of the reliance. But Landgraf and
+Hughes Aircraft didn't involve any reliance, and there
+was still retroactivity because the settled expectations
+were disrupted because there were new consequences
+attached to pre-enactment conduct.
+So, regardless of whether there is reliance,
+there are settled expectations that are upset by a law
+whose function or point is to punish and deter
+misconduct based on past wrongs. My client --
+JUSTICE SCALIA: We're trying to figure out
+what Congress intended, right? We're not talking about
+constitutionality. We're talking about a rule that it's
+presumed that statutes are only prospective. All right?
+And your argument is the reasonable expectation of
+Congress when they passed this was that it would only
+apply to -- to people who, what, committed the crime or
+were convicted after the statute passed --
+MR. BIBAS: Yes.
+JUSTICE SCALIA: -- just as a matter of
+statutory interpretation?
+MR. BIBAS: Yes, Your Honor.
+JUSTICE SCALIA: Okay.
+MR. BIBAS: This -- that is the background
+default rule against which Congress legislates. And in
+laws such as IIRIRA and SORNA and elsewhere, Congress
+spells out when it wants to apply to pre-enactment
+offenses, to pre-enactment conduct. That's a defeasible
+civil retroactivity rule that can reach more broadly
+than the ex post facto jurisprudence.
+JUSTICE KAGAN: Well, do you have any case
+in which a court has deemed a statute retroactive even
+though it wasn't triggered until the party took some
+further action? Is there any case out there either from
+this Court or from another court where we've said, you
+know, it's retroactive even though it depends upon a
+future event?
+MR. BIBAS: Yes, Your Honor. St. Cyr
+depended on applying for discretionary relief in the
+future. He didn't have to. Cummings depended on trying
+to teach or preach or hold office. Ex parte Garland
+depended on trying to practice law in the future.
+Those are all disabilities taking away a
+future ability based on a past wrong. That's what the
+disability category has to mean if it's to remain
+meaningful. And the Government's approach would gut
+Justice Story's fourth category. If there are no
+further questions, I'd like to reserve the balance of my
+time.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Mr. Miller.
+ORAL ARGUMENT OF ERIC D. MILLER
+ON BEHALF OF THE RESPONDENT
+MR. MILLER: Mr. Chief Justice, and may it
+please the Court:
+As the discussion so far this morning
+reveals, the Court's retroactivity analysis takes
+account of a number of different factors, but the one
+that is most significant and, indeed in this case,
+virtually dispositive is that the application of section
+1101(a)(13) to Petitioner was triggered only because he
+engaged in voluntary conduct that postdated the
+enactment of the statute.
+JUSTICE KAGAN: What do you take the trigger
+to be? Because in your brief you kept on talking about
+the trigger being the trip. And I would have thought
+that you would have talked more about the activity being
+the attempt to enter the country.
+MR. MILLER: That's -- I mean they're
+closely connected together in time, and they both -- but
+they both postdate the enactment of the statute. But
+what -- the thing that is being regulated by section
+1101(a)(13) is the entry of aliens into the United
+States. The statute sets out a comprehensive scheme for
+determining when an alien arriving at the border seeking
+to come into the United States should be regarded as
+seeking an admission. So, that's conduct that takes
+place in the future.
+Part (A) of 1101(a)(13) sets out the general
+definition of admission, and then (C) sets out a number
+of exceptions. And so, taken together, they are part of
+a comprehensive effort to codify Fleuti in some
+respects. And, in particular, Romanette (ii), the
+180-day provision, is actually a fairly generous
+codification of Fleuti, probably extending beyond what
+would have been regarded as a brief trip under Fleuti.
+CHIEF JUSTICE ROBERTS: Counsel, I have
+to -- I just don't understand this statute. This is
+somebody we would not allow into the country. And yet,
+the only thing we say is you can't leave. I just don't
+understand how that -- how that works.
+MR. MILLER: I think there are -- there are
+two points to be made about that. And the first is that
+that is a feature of the statute writ large. I mean,
+that exists even with respect to post-enactment criminal
+convictions. So, it's --
+CHIEF JUSTICE ROBERTS: No. Right.
+MR. MILLER: And the second, I think to
+understand it, it's helpful to look at the history. The
+distinction between grounds of inadmissibility and
+grounds of deportability goes back all the way to the
+1917 Act. In that statute, a single crime of moral
+turpitude was a basis for inadmissibility but was
+generally not a basis for deportability unless it had a
+1-year sentence and was committed within 5 years --
+CHIEF JUSTICE ROBERTS: Well, I know, and I
+understand that there is a limitation on actually
+deporting the person. But here I would think the one
+thing you want the person to do is leave. Maybe for a
+particular event, but maybe he'll decide to stay in
+Greece if once he's there for the -- but it seems very
+odd to say we're going to show you how much we don't
+want you here; we're not going to let you leave.
+MR. MILLER: I think what the -- what the
+history shows that it's the crossing the border that has
+always been regarded as a legally significant event.
+This Court's cases recognizing --
+JUSTICE GINSBURG: But it wasn't before.
+We -- I think we have held that an immigration lawyer is
+obliged to tell a defendant faced with a criminal charge
+what the legal -- what the immigration consequences will
+be. And here, suppose before the -- at the time of the
+plea in this case, the attorney had said, once you've
+served your time, you will be able to take brief casual
+trips. That would have been accurate advice, right?
+Before IIRIRA.
+MR. MILLER: Well, I think -- I think the
+most important point about the consequence of the plea
+is that, as an immediate result of the plea under
+pre-IIRIRA law, so at the time he pleaded guilty in
+1994, he made himself inadmissible. So, that's not
+anything that has changed. So, he knew that he was --
+JUSTICE GINSBURG: But I'm asking you, the
+lawyer talking to the client -- and the client wants to
+know before I enter this plea, what will be the
+consequence for me? And the question that's asked is,
+will I still be able to visit my mother in Greece? What
+should the lawyer -- what should the lawyer at that time
+have answered?
+MR. MILLER: I think the lawyer should have
+said, by pleading guilty, you are making yourself
+inadmissible to the United States. Under --
+JUSTICE BREYER: When Rosenberg would have
+been the law -- Fleuti -- and the answer to the question
+would have been, yes, you can make trips abroad,
+wouldn't it?
+MR. MILLER: That's -- that's right. And I
+think you might also have said that under a current law,
+you will not be regarded as seeking an admission if you
+take a brief, casual, and innocent trip. But the change
+in the law --
+JUSTICE KAGAN: All right. Well, that's
+what's going to be important to the person, right? It's
+not inadmissible and all the legal terms. Am I going to
+be able to make short trips to visit my mother? Yes,
+you are going to be able to make short trips to visit
+your mother.
+And then you wake up the next morning, and
+Congress has passed a statute, and now you're not able
+to take short trips to visit your mother. So, something
+very real has happened to the life of this person.
+MR. MILLER: That's -- that's right, I mean,
+and there is no question but that there is a serious
+consequence as a result of the change in the law. But
+the Court has made clear in Landgraf and in a number of
+other cases that even uncontroversially prospective
+statutes can impose burdens.
+JUSTICE BREYER: That's true, but in -- in
+St. Cyr, as I read it, on pages 322 and 23, the Court
+focused directly, not on the crime point of time, but
+the time of the guilty plea. And what the Court says
+there is that a person who is thinking of pleading
+guilty might well have taken into account the fact that
+he could ask the Attorney General later when he's about
+to be deported to exercise discretion in his favor.
+So, that's as I read those pages. You can
+say why I'm not reading them correctly, but that's how I
+read them. And then, having read it that way, I thought
+the question in this case is whether the person who's
+sitting at the table and deciding whether to plead
+guilty or not is likely to think, well, if I plead
+guilty, I can always ask for discretion. That's St.
+Cyr.
+Well, if I plead guilty, I can still visit
+my aging parents and grandparents, a matter that could
+be of importance to some people, as opposed to whether I
+will never see them again. Now, that seems to be the
+question.
+Is the second as likely to be in the
+person's mind as the first? And to tell you the truth,
+I don't know the answer. I mean, maybe it would be.
+There isn't that much chance of getting discretion. It
+might be important to some people to visit their aging
+parents and grandparents. So, go ahead. Answer the
+question. Is the one more important than the other?
+And if not, why not?
+MR. MILLER: I think you've correctly
+described the reasoning of the Court in St. Cyr, and I
+think that that reasoning highlights two ways in which
+this case is significantly different. And the first is
+that, in St. Cyr, it was the guilty plea, the
+conviction, that was legally significant under the
+provision of IIRIRA at issue there. And the Court
+emphasized that a guilty plea is a quid pro quo. It has
+to be knowing and voluntary. The Court cited
+Santobello v. New York, a due process case about guilty
+pleas. And then -- so, one difference in this case is
+that the legally significant event here --
+JUSTICE BREYER: No, but I'm really asking
+you --
+MR. MILLER: -- is not the guilty plea.
+JUSTICE BREYER: -- isn't my question the
+key question? Now, you can answer that "no." But -- I
+mean, I suppose you could prove that the only thing that
+mattered to -- to LPRs who plead guilty, the only thing
+that mattered, was visiting their parents and
+grandparents, a matter I doubt; but, you can say, even
+on that situation, it would make no difference, or you
+could say I think the one is as important as the other,
+or you could say they're not. I just want to get your
+full answer, all -- your whole answer to my question.
+MR. MILLER: The conclusion to the first
+part of the answer is that it wouldn't make a difference
+because what matters here is not the guilty plea; what
+triggers the application of 1101(a)(13)(C) is the
+underlying criminal conduct and is --
+JUSTICE KAGAN: You're quite right,
+Mr. Miller, as a formal matter that that's true, that
+that's the words of the statute. But how many times has
+the Department of Homeland Security tried to declare a
+person inadmissible on the basis of the commission of a
+crime without putting into evidence either a conviction
+or a guilty plea?
+MR. MILLER: I don't have any --
+JUSTICE KAGAN: I can't imagine that it's
+like more than on one -- you know, five fingers of your
+hand. I mean, that's the way people prove crimes in
+this area, isn't it, by convictions or guilty pleas?
+MR. MILLER: Well, I would say that -- this
+is a statue --
+JUSTICE KAGAN: Or convictions after trial
+or convictions by guilty pleas.
+MR. MILLER: The statute is being applied
+by -- in the first instance, by customs officers at the
+airport or at the land border crossing. They have
+access to a number of databases which include not only
+records of convictions but also things like arrest
+warrants. And an arrest warrant by itself would not be
+enough to show that a person had, in fact, committed an
+offense, but it might well trigger some further inquiry
+from the customs officer that would lead to them finding
+out more information or perhaps getting an admission
+from the person.
+JUSTICE KAGAN: If, as a fact of the matter,
+the way the commission of crime is proved in this area
+is through showing a conviction, does your distinction
+stand up at all?
+MR. MILLER: I mean, there is still, I
+think, a significant formal distinction, and then
+there's also another important distinction from St. Cyr,
+which is that that was a case where, as a result of the
+guilty plea plus the change in law, the person there
+faced immediate deportability with no prospect of
+discretionary relief. And the Court said that there is
+a clear difference, for purposes of the retroactivity
+analysis, between a possibility of deportability and a
+certainty of deportation.
+Here, not only is he not deportable, but
+there's no immediate consequence for him at all. The
+statute only has any effect on him when he engages in
+the post-enactment travel. And I think --
+JUSTICE GINSBURG: What about the
+characterization? Which seemed to me to make common
+sense. Yes, the trigger is that he has gone abroad and
+is returning. But the target, they say, was the crime.
+That's why the law -- the law really doesn't care about
+the travel back and forth; what it cares about is that
+this person was convicted of a crime.
+MR. MILLER: I -- I don't think that's
+correct, Your Honor, and I think that highlights one of
+the distinctions between this case and Cummings v.
+Missouri and Ex parte Garland.
+In those cases, you had statutes that were
+nominally prospective in application, but the Court
+actually said that we think that what's really happening
+here is that the statutes are imposing punishment for
+the completed acts. To the extent there was any doubt
+in those cases themselves, this Court discussed them
+both in Harisiades v. Shaughnessy and said that it
+viewed them as cases about punishment. This is not a
+statute --
+JUSTICE SOTOMAYOR: But isn't that the case
+here, meaning -- it goes back to the Chief Justice's
+question, which is what they're trying to do is punish
+those individuals, those LPRs, who have committed this
+kind of crime, by not letting them travel or come back
+in. That's really what their argument is, is -- you
+know, you are imposing a punishment, a disability, for
+having committed the crime. You're not imposing a
+disability merely for the act of traveling.
+MR. MILLER: I mean, I think when you look
+at the statute as a whole, you see that it's a -- it's a
+comprehensive regulation of crossing the border, which
+has always been regarded as a legally significant event.
+There are six subparts to 1101(a)(13)(C). Five of them
+have nothing to do with past conduct. They're about the
+nature of the trip and what the alien is doing as he's
+coming in.
+And then you have -- have this one, which is
+of a piece with the long history of drawing a
+distinction between inadmissibility and deportability.
+And I think it recognizes --
+CHIEF JUSTICE ROBERTS: What is the -- what
+is the policy underlying the rule that doesn't allow
+somebody who has a lawful status here to go to his
+grandmother's funeral --
+MR. MILLER: I -- I --
+CHIEF JUSTICE ROBERTS: -- and come back?
+It's going to take 4 days. He goes; he comes back.
+What policy supports prohibiting that travel?
+MR. MILLER: I mean, I -- I think it
+reflects a -- a judgment over -- on the part of Congress
+over many, many years that it is one thing to say to an
+alien, all right, we're not going to go and try and find
+you and take you and kick you out of the country. It is
+quite another to say you may freely cross our borders;
+even after having left, you may come back, and we're --
+without any inquiry into your --
+CHIEF JUSTICE ROBERTS: Okay. They're two
+different things, but I don't know that you've
+articulated what the policy is to prevent -- prohibit
+somebody from doing that.
+MR. MILLER: I mean, other than referring
+you to -- to the history and to the idea that's been
+reflected -- you know, this Court has recognized that
+control over the border is a core sovereign prerogative
+that lies at the heart of Congress's immigration power.
+And I think that --
+JUSTICE SCALIA: Well, I suppose you could
+say that there's a likelihood of quite inequitable
+enforcement if indeed you adopt a position we're going
+to pick up all of these people and send them away.
+That's not going to happen. It'll -- it'll be hit and
+miss.
+And, on the other hand, you can enforce it
+rigorously and equitably upon everyone if you only
+forbid reentry to those people who want to come back in
+and who have to, you know, give their names to
+Immigration, and you can check on -- on this status.
+That seems to me a sensible reason.
+MR. MILLER: That's right. And --
+JUSTICE BREYER: All right. But why do you
+-- look, as I read the statute, it isn't even clear
+whether it overrules Rosenberg v. Fleuti. I mean, they
+talk about admission, but admission, after all,
+could have an exception for the 4-day trip. That's what
+the Court said effectively in Rosenberg v. Fleuti.
+So, Congress certainly wasn't clear on what
+policy they're following. I would have thought that.
+You can disagree with that. But I -- because -- but the
+part that's still gnawing at me 95 percent of the people
+plead guilty. All right. You know. Everybody pleads
+guilty. All -- about. About. And now, the consequence
+that this ex post enacts is he can't take the 4-day
+trip.
+And you keep saying, well, a 4-day trip
+requires action on a person's part. Right. Of course,
+it does. So, why does that matter? I mean, the fact is
+he can't take the 4-day trip. A 4-day trip requires
+action. You have to buy a trip -- ticket. You have to
+get on a plane. So --
+MR. MILLER: Well, i think -- if I could
+just first address the -- the question of whether the
+statute, in fact, abrogates Fleuti, and just to be clear
+on that -- the question presented assumes that it does.
+Petitioner isn't challenging that. And the Board, in
+the Collado-Munoz decision, has explained why the -- the
+statute, in fact, does have that effect.
+And I think that the significance of this
+post-enactment conduct, the significance of the trip, is
+illustrated by this Court's decision in
+Fernandez-Vargas, which made clear that when you have --
+when the application of the statute is within the
+control of the person to whom it's being applied,
+because he has to do something after it comes into
+effect -- there, it was choosing to remain in the United
+States and becoming subject to the reinstatement of a
+prior order of removal -- here, it's taking the travel.
+But that goes a long way towards establishing that it
+doesn't have a retroactive effect, that it's regulating
+future conduct.
+Another --
+JUSTICE SOTOMAYOR: Prior to the Fernandez
+case, the illegal act was remaining. And so, that was
+within your control. But the -- you can't undo an
+illegal act that you've done to be able to travel. The
+act is now part of your background. And so, there's
+nothing in your control to change that act once the
+statute has passed.
+MR. MILLER: Well --
+JUSTICE SOTOMAYOR: And so, you're -- you're
+carrying that around as a disability.
+MR. MILLER: In Fernandez-Vargas, the
+conduct that subjected the alien to the application of
+this -- this procedural -- this disadvantageous removal
+procedure was remaining in the United States.
+And it's true that that conduct was
+unlawful, but for purposes of the retroactivity
+analysis, the Court didn't focus on whether it was
+lawful or unlawful. What matters is that it was conduct
+that was in the future, that was after the statute was
+enacted.
+And so, here, although the -- the trip is
+not unlawful in that sense, it is future conduct. And
+here, as in Fernandez-Vargas, there is ample warning --
+which was another point that the Court emphasized in
+that case -- ample warning that the statute would be
+applied to people who engaged in that conduct.
+I do want to address your --
+JUSTICE KAGAN: It -- it can't be right that
+it's any future conduct. If -- if there's a trigger
+mechanism that is entirely random, you know, it's -- you
+can be deported if you've committed a crime of moral
+turpitude in the past, but not until you go to the
+movies on a Saturday.
+Surely, that would not change the analysis.
+MR. MILLER: I think that's right, Your
+Honor, and I think the reason it wouldn't is reflected
+in some of this Court's -- in the ex post facto
+analysis.
+If you have a statute that, for example,
+makes it a crime to have engaged in certain conduct in
+the past and then, you know, something -- some
+commonplace, utterly trivial activity in the future, I
+think a court looking at that would say this is not --
+although it is nominally prospective, this is really a
+statute aimed at punishing the prior conduct.
+JUSTICE SCALIA: Well, I -- I don't know.
+I think it would be prospective and unconstitutional
+because it's irrational. I mean, not everything that's
+unconstitutional is unconstitutional -- not everything
+that is unconstitutional is not prospective, it seems to
+-- or do you think that's so?
+If it's -- if it is unconstitutional in
+violation of the ex post facto law, the statute has to
+be -- has to be prospective. I'm sorry. Has to be
+assumed not to cover that prior conduct. Is that right?
+MR. MILLER: I mean, I think -- the
+hypothetical statute I was describing I think would
+violate the Ex Post Facto Clause under the sort of
+analysis that this Court used in Smith v. Doe, in a
+holding that --
+JUSTICE SCALIA: Okay. And if it does, it
+automatically has to be interpreted not to cover that?
+MR. MILLER: I mean --
+JUSTICE SCALIA: By reason of the
+presumption of expectation --
+MR. MILLER: Oh, you mean -- if you mean a
+parallel statute in the civil context.
+JUSTICE SCALIA: Yes, yes.
+MR. MILLER: I -- I think that's the best
+reading of Landgraf, and I think under -- under the
+analysis suggested in your concurring opinion in
+Landgraf --
+JUSTICE SCALIA: Yes. Yes.
+MR. MILLER: -- I think one would look at
+that statute and say this is really a statute that's
+aimed at regulating the past conduct, and that -- that
+has a retroactive effect.
+So, I mean, to finish that thought, I think
+I would just say that there is a narrow category of
+cases where you have what is in form a prospective
+regulation that's really aimed at -- aimed at burdening
+or punishing a past act. But this is not that.
+JUSTICE KAGAN: And how do we separate those
+two? How do we decide that this is not that, and that
+it's instead something else, that it's a regulation of
+future conduct?
+MR. MILLER: I -- in the criminal context,
+the Court has used the analysis of Kennedy v.
+Mendoza-Martinez to figure out whether a statute is --
+is imposing additional punishment for past conduct. And
+that looks at a number of factors, and the most
+important factor under that test, the Court has said, is
+whether the statute appears to be related to a
+legitimate prospective regulatory purpose.
+And so, that's why, for example, statutes
+like 922(g), the felon in possession statute, which was,
+I would point out, amended just back in 1996 to add
+misdemeanor crimes of domestic violence, which had not
+previously been something that would subject one to a
+firearms disability -- that was added.
+Every court of appeals that has considered
+the question has held that it doesn't violate the Ex
+Post Facto Clause and, I think, implicitly has held that
+it does in fact reach that conduct.
+JUSTICE SCALIA: Even -- even if you had
+pleaded guilty to spousal abuse?
+MR. MILLER: I'm not aware of any cases --
+JUSTICE SCALIA: Yes.
+MR. MILLER: -- specifically addressing that
+question, but -- but, yes, because there you have a
+statute that is regulating future conduct. It only
+applies to somebody who engages in the future conduct.
+The sex offender registration laws are another example
+that this Court has upheld. That kind of law obviously
+imposes a very significant burden on people on the basis
+of prior conduct, but the fact that there is some burden
+by itself does not mean that the statute is retroactive.
+Nor does it mean that it's appropriately
+viewed as imposing a disability. I mean, I think that
+the Court in Landgraf quoted Justice Story's formulation
+of a disability as referring to statutes that impose a
+disability in respect to transactions that are already
+passed. So, it is not enough that there used to be
+something that you could do, and now, in the future,
+you're not going to be able to do that. That's not a
+disability in the relevant sense, and if it were, I
+think the Court would have a very difficult line-drawing
+problem to figure out why it is that statutes like
+922(g) are okay, or sex offender registration laws, or
+any number of --
+JUSTICE BREYER: That's -- that's why I
+think the Chief Justice's question and the ambiguity of
+the statute are relevant. Like with SORNA you would
+apply it backwards, because that's a pretty clear
+intent.
+I don't know about, you know, like, "three
+times and you're out" statutes, et cetera. But -- but
+here you have the disability on the one -- the
+disadvantage to the person pleading guilty, that
+problem, on the one hand; and, on the other hand, you
+have the policy that with a -- fill in the blank --
+with a statute that doesn't talk about it but simply
+uses a new definition of admission or admissibility.
+That's -- do you want to say something about that?
+MR. MILLER: I think, if you're -- if you're
+asking whether Congress has specifically addressed the
+temporal scope of the statute, we -- we acknowledge
+under St. Cyr that it hasn't. And so, that's why we're
+at step two of the --
+JUSTICE BREYER: More than that, what is --
+I'm ignoring -- more than that, I'm saying what's the
+policy on the other side? The policy that favors the
+retroactivity despite the fact that the person might not
+have pleaded guilty? And that's why I was interested in
+the Chief Justice's question and also the ambiguity of
+the language in the statute that they used.
+MR. MILLER: I think that the -- the policy
+is Congress was trying to redefine -- I mean, they were
+replacing the old term of "entry" and -- with a new
+concept of admission. They're trying to redefine a
+comprehensive scheme for regulating the treatment of
+aliens arriving at the border. And I think that you
+have to look at all the parts of it together as a scheme
+that was to be applied going forward, when people
+arrived at the border in the future, after the enactment
+of the statute.
+If there are no further questions --
+CHIEF JUSTICE ROBERTS: Could you go over
+again for me your distinction of St. Cyr?
+MR. MILLER: I think it's twofold, Your
+Honor. The first is that, in St. Cyr, the legally
+significant event was the conviction. It was the guilty
+plea. Here, the guilty plea is significant because it
+makes Petitioner inadmissible, but that was true under
+current law.
+CHIEF JUSTICE ROBERTS: You don't argue that
+-- that the significance of what the individual is
+giving up makes a difference?
+MR. MILLER: That's our second point, is
+that St. Cyr said there is a big difference between
+immediate deportability and the potential --
+CHIEF JUSTICE ROBERTS: Is there -- is there
+a difference in terms of what they face if they don't
+plead guilty? I've always had difficulty with St. Cyr
+and the notion that, say, someone pleads -- is facing,
+you know, 10 years, and they plead -- plead guilty to 2
+years, that the -- the reason they did that is to, you
+know, avoid one of these immigration provisions. It
+seems to me it is to avoid 8 years.
+MR. MILLER: I --
+CHIEF JUSTICE ROBERTS: And I just wonder if
+the relative significance of what is at issue under the
+immigration law is something that we can take into
+account, or if St. Cyr prohibits that?
+MR. MILLER: No, I think it is certainly
+appropriate to take into account, that however --
+however significant the application of Fleuti might be
+to aliens, it's on a different order of significance
+from --
+JUSTICE KAGAN: Well, Mr. Miller, the
+Solicitor General actually represented to us -- in the
+Judulang argument, used that as an example, the Fleuti
+case, as something that people doing pleas did think
+about and did rely upon.
+MR. MILLER: Well, I think -- I mean, we
+don't question that that's something that people might
+have -- have been aware of and have been thinking about,
+but it's not something that was bargained for in the
+plea agreement because it's not something that's
+affected by the plea agreement.
+The statute here is triggered by the
+post-enactment conduct of entering the country but also
+by the -- the pre-enactment conduct of committing the
+crime. And, as Petitioner has acknowledged, there isn't
+any reliance in the state of immigration law when you
+choose to commit the crime. And so, I think that's --
+that's a difference from the scenario that was addressed
+in Judulang.
+CHIEF JUSTICE ROBERTS: Thank you,
+Mr. Miller.
+MR. MILLER: Thank you.
+CHIEF JUSTICE ROBERTS: Mr. Bibas, you have
+6 minutes remaining.
+REBUTTAL ARGUMENT OF STEPHANOS BIBAS
+ON BEHALF OF THE PETITIONER
+MR. BIBAS: Thank you, Your Honor. I'd like
+to make five points.
+The first one is the statute is poorly
+tailored to any protective or forward-looking effect.
+As the Court has noted, its perverse effect is to
+discourage people from leaving the country, to keep them
+in. So, any idea that the purpose is to get them out
+just doesn't square with the way the statute is written.
+As Justice Ginsburg noted, while the
+post-IIRIRA innocent travel may be the trigger here, the
+obvious target is the pre-IIRIRA offense. The statute
+is tied to misconduct. The natural inference of making
+misconduct not just a piece of evidence but a
+prerequisite is that it is the misconduct that is being
+penalized.
+Second, the impact, we suggest, is the
+relevant test. The impact is a penalty. It is a
+disability based on a past act that Mr. Vartelas is now
+helpless to undo. That is all that is required under
+Landgraf. If Congress thinks it important, it can
+expressly require retroactivity, but it hasn't done so.
+Third, let me make clear that we have
+alternative theories here. Reliance is something that
+makes the case worse. It is something that exacerbates
+the problem, makes it obvious and severe. And our
+amici, the NACDL brief, points out very movingly how
+important these kinds of considerations are in
+immigrants' decisions to plead guilty. Here, for
+example, my client received a 4-month discount off his
+sentencing range. It's entirely plausible to believe
+that immigrants in his situation might value the ability
+to stay in the same country with their 4-year-old and
+2-year-old child as much as 4 months in jail.
+But our broader theory is that the violation
+of settled expectations is sufficient, whether or not
+there's reliance. The settled expectation that one has
+of planning one's life in this country and yet having
+relatives abroad one will tend to or care for their
+business, et cetera -- that is sufficient. Just as in
+Landgraf and Hughes Aircraft, there were no legally
+cognizable reliance interests in discriminating or in
+submitting false claims, but changing the penalties is
+enough.
+Fourth, this Court's decision in St. Cyr, I
+believe, strongly helps our case. The first reason is
+that it imposed a disability, a disability on filing in
+the future for discretionary relief, but as a practical
+matter, it's burdening past conduct.
+Secondly, St. Cyr didn't purport to change
+the holdings in Landgraf and Hughes Aircraft that those
+are other ways of showing impermissible retroactivity.
+The logic in St. Cyr is ineluctable that because you are
+burdening a decision, a decision that, as the -- the
+Court and the amici in St. Cyr noted, matters greatly
+and factors into things like the plea bargaining
+calculus, that the retroactivity is especially obvious
+and -- and severe.
+And let me note that St. Cyr was decided under
+this same statute, a privilege, not a right, a privilege
+that Congress can abrogate at any time. That did not
+influence this Court's holding at all. The
+right/privilege distinction is dead in this area of law.
+If there is a privilege under IIRIRA to apply for
+discretionary relief, there is a privilege to not be
+subject to the disability on one's traveling and
+returning.
+Finally, let me talk about the
+criminal/civil line. I believe my brother here
+introduced Smith v. Doe and mentioned some of the sex
+offender cases. I've explained why the criminal cases
+in ex post facto are different, but let me go into some
+more detail as the Court is well familiar with
+Smith v. Doe. That was a civil case that Doe attempted
+to turn into a criminal case under the very demanding
+standard in Kennedy v. Mendoza-Martinez. But that's a
+very uphill fight. As the Court's opinion recognized,
+the court must be very deferential before turning
+something facially civil into criminal because then it's
+categorically forbidden and it comes with the criminal
+procedure protections in the Bill of Rights.
+That's not what we're doing now. We're not
+trying to say this law is forbidden. Smith v. Doe
+involved a law where the Court's opinion said on its
+face the legislature made it retroactive; it says it's
+retroactive. The Federal law SORNA is expressly
+retroactive in section 113(d). IIRIRA is expressly
+retroactive. That's a different inquiry, where you're
+asking, does the Ex Post Facto Clause forbid something
+that's expressly retroactive? Does Mendoza-Martinez
+turn it into a criminal case?
+Versus here, where it's not retroactive.
+All Congress has to do is spell it out. If this Court
+adheres to its previous jurisprudence, the guidance to
+the drafters across the street is clear: Just draft the
+statutes the way you've always been doing it; say
+before, on, or after effective date.
+JUSTICE ALITO: Do you think we have the
+authority to tell Congress how to draft its laws? I
+thought what we were doing was trying to infer what they
+intended.
+MR. BIBAS: Yes, Your Honor.
+JUSTICE ALITO: Do we send them a drafting
+manual? Now, you can do this, but you can only do it if
+you do it -- if you follow the steps that we've
+prescribed. And you've said this over and over. It
+seems to be completely unfounded.
+MR. BIBAS: Your Honor, this Court has said
+that it's important to adhere to its traditional tools
+of statutory construction because it's a settled
+background rule against which Congress legislates, which
+it is aware of.
+JUSTICE SCALIA: And you think Landgraf is
+clear and settled, and you're -- you're over there in
+Congress, and you say, boy, I know how this statute is
+going to come out under Landgraf --
+MR. BIBAS: Yes, Your Honor.
+JUSTICE SCALIA: -- better than I am.
+MR. BIBAS: Let me explain. This Court
+decided Landgraf two decades ago. A few years after
+Landgraf, Congress passed IIRIRA in 1996. IIRIRA
+contains express retroactivity provisions that go
+hand-in-glove with the Landgraf presumption.
+And then Congress passed SORNA, to which my
+brother alludes. SORNA in 2005 likewise in section
+113(d) says, yes, this sex offender registration shall
+apply; the Attorney General can apply it to people with
+pre-SORNA convictions. Congress understands the
+Landgraf presumption. In those statutes and others, it
+has legislated against it. It can continue to do it
+because this Court should continue to use its
+traditional tools of statutory construction.
+JUSTICE SCALIA: Well, that can be explained
+because Congress understands that who knows whether it's
+going to be held to be retroactive or not. If you -- if
+you surely want it to apply, you'd better say so. If
+that's the rule you want us to adopt, that's okay.
+MR. BIBAS: Yes, Your Honor, and a clear
+statement rule has that virtue, as I believe Your Honor
+is well aware.
+For all of these reasons, we ask this Court
+to reverse the judgment below and remand.
+CHIEF JUSTICE ROBERTS: Thank you, counsel,
+counsel.
+The case is submitted.
+(Whereupon, at 12:19 p.m., the case in the
+above-entitled matter was submitted.)
+23:18 address 36:22 allow 25:13 applying 3:12 attorney 1:7
+38:18 34:13 3:21 23:13 26:22 28:23
+21:2 46:8 altering 17:8 9:9,13 16:23 Austria 7:14 9:1
+27:11 addressing alternative 5:10 17:18 18:24 9:15
+37:20 41:25 47:14 23:20 authority 50:14
+adhere 50:24 Altmann 7:14 appropriate automatic 4:21
+52:12 admissibility ambiguity 42:23 appropriately automatically
+11:23 admission 14:5 amended 41:13 area 31:12 32:4 avoid 45:4,5
+32:23 19:2 25:1,4 American 4:8 49:3 aware 41:23
+27:23 32:1 amici 4:7 47:17 argue 44:17 45:23 51:2
+44:1 ample 38:14,16 argument 1:13 a.m 1:14 3:2
+32:15 38:8,25 5:3,9 7:10 B
+45:10,12 advert 14:25 answer 16:1,12 33:21 45:18 34:17,18 35:1
+affirmatively 30:20,20,22 12:17 10:24 14:19,22
+aged 4:5 appeals 20:9,10 arrived 44:6 51:1
+13:1 APPEARAN... 44:3 42:25
+26:1 aging 29:9,17 1:15 articulated 35:5 balance 23:22
+37:18,20 ago 51:10 appears 41:9 Asian 4:8 bank 5:4,7
+40:23 agreement application 24:9 aside 7:24 17:23 bar 18:18 19:5
+45:25 46:1 30:24 33:8 asked 27:10 bargained 45:24
+aimed 39:11 applied 7:25 aspects 14:2 based 3:21
+11:12 21:23 22:2 44:5 13:21 14:10 basic 14:8
+24:16 48:6,16 applies 8:21 assumed 13:18 basis 7:10 26:2,3
+airport 31:19 12:9 17:15 39:21 31:5 42:6
+aliens 24:22 18:12 22:16 attached 6:7 believe 5:22
+19:6 47:17 49:20 40:8 49:14,19 commonplace
+47:21 briefing 18:14 category 18:25 claim 20:21 39:8
+49:9 broadening 6:3 23:19,21 40:20 claims 6:2 48:8 commonsense
+broader 10:14 caught 5:5 class 6:3 15:23
+brother 49:9 36:7 45:11 clauses 10:17 comprehensive
+4:12,20 burdens 28:16 change 6:17 50:10 51:4 20:10
+6:16 7:2 business 48:5 19:21 27:24 52:3 concept 44:1
+9:2,9,14,19 buy 10:9 36:19 28:13 32:11 client 22:9 27:8 concerned 4:10
+37:22 38:25 27:8 47:20 5:17
+12:23 C 48:15 closely 24:19 conclude 19:4
+14:9 C 2:1 3:1 25:4 changed 4:13 codification conclusion
+15:21 calculus 48:22 14:3 19:24 25:9 13:16,22 30:21
+17:23 care 16:9,10 27:6 codify 25:6 concurred 7:15
+32:25 48:4 changing 14:4 cognizable concurrence
+21:11 career 12:15,20 48:8 21:24 48:7 7:22 8:6,7
+22:18,21 17:4 characterizati... Collado-Munoz concurring
+23:12 careers 4:4 32:22 37:1 40:12
+careful 10:19 charge 26:19 colleague 16:1 conduct 6:15
+51:7 cares 15:15 33:1 check 35:23 come 11:24 16:7 8:13,14 11:4
+52:3 carrying 38:1 Chief 3:3,8 5:2 17:16 24:25 12:19 14:15
+31:19 33:5,16 37:18 35:3 42:23 commission 39:6,11,21
+35:10 38:16 45:19 43:21 44:9,17 5:20 31:5 32:4 40:17 41:2,6
+47:15 48:11 44:23 45:7 commit 20:20 41:20 42:2,3,7
+30:8,11 28:15 33:7,12 choose 17:3 46:7 17:10 22:16 Congress 4:12
+42:22 33:14 40:21 choosing 37:10 26:4 31:23 6:16,19 7:2
+41:23 49:11,11 cite 7:11 33:19,23 38:22 10:16,23 11:1
+25:10 27:24 cites 7:12 20:22 46:4 12:6,18 13:2,9
+27:24 categorically civil 17:25 23:3 common 32:22 13:16,22 14:10
+12:10 13:10 6:10,12,23 databases 31:20 32:17
+22:11 15:6 25:20 12:4,25 20:20 date 8:12,15 deportation
+31:12,15,16,21 20:22 22:16 12:11 13:12 32:16
+34:21 51:18 26:1 28:19 15:12 50:12 deported 8:24
+43:12,24 core 35:10 31:6 32:4,24 days 34:18 28:24 38:22
+49:1 correct 33:4 33:2,20,23 dead 49:3 deporting 26:7
+51:1,5 correctly 29:1 38:22 39:6 dealing 19:9 deprivation
+29:21 46:5,7 decades 5:25 10:19
+35:11 23:24 25:11 16:19 31:11 decide 15:1 described 29:22
+7:4,5,6,6 11:21,23 14:6 12:16,20,24 decided 48:24 despite 43:19
+28:13 15:16 16:2 25:19 26:19 51:10 detail 49:13
+36:12 24:17 25:13 30:25 41:3 decides 6:19 deter 22:8
+6:7,18 7:1 47:23 48:3 50:6 decision 13:17 24:24
+20:13,24 course 6:16 criminal/civil 20:23 37:1,5 deterred 7:4
+26:20 36:16 49:9 48:10,19,19 deterrent 11:5
+7:16,19 9:4 cross 34:25 declare 31:4 difference 6:8
+14:19 15:2 31:19 34:2 default 14:19 30:22 32:14
+19:20 20:5,8 18:15 19:8 defeasible 23:2 46:8
+22:12 23:6,9,9 24:4 current 19:16 defendants 8:16,17 10:5
+51:22 29:22 30:2,4 customs 31:18 defense 6:4 13:8 24:7
+12:24 38:15 39:9,25 19:19 21:15,16 definition 12:9 50:3
+17:24,25 41:4,8,17 42:5 21:22,25 23:12 14:4 25:4 43:9 difficult 42:18
+41:3 42:11,18 46:21 28:18 29:7,22 demanding difficulty 44:25
+51:20,21 50:8,23 51:9 43:14 44:10,12 denied 4:23 28:19
+Court's 21:19 48:10,15,18,20 1:19 31:4 23:17
+37:5 39:3 23:14,16 15:10 18:7,7
+49:24 D 1:18 2:6 3:1 23:10 23:19 33:22,24
+30:1 cover 39:21 40:3 damages 5:25 25:25 26:3 42:10,12,13,17
+32:5 covered 3:16 danger 11:8 32:12,15 34:10 43:4 47:9
+8:12 dangerous 11:4 44:22 48:12,12 49:6
+43:5 drafters 50:10 entered 12:10 41:11 42:4 42:7 43:19
+draw 18:4 21:6 entering 46:3 examples 19:2 10:17 13:2,7
+D.C 1:9,19 entirely 13:4 exclusive 16:21 41:19 49:12
+46:22 E entitled 21:8 exists 25:19 factor 20:7 41:8
+earlier 16:22 entry 8:20,22,23 expectation 4:4 24:7 41:7
+18:12 easy 21:25 15:16,20 24:22 6:24 22:14 fairly 25:8
+32:13 effect 13:24 43:25 40:6 48:2 false 6:2 48:8
+49:5 14:18 15:9,13 equitably 35:20 expectations familiar 49:13
+17:12,13 21:20 24:1 5:13,18,19 favor 28:24
+37:14 40:18 21:21 48:22 21:14 22:3,7 feature 25:18
+12:11 13:11 establishing 21:15 51:9 felon 10:5,20
+24:5 effectively 36:6 et 43:3 48:5 49:11 51:23 12:1,5,16
+17:2,18 9:21,23,24 express 14:4 felony 12:9
+31:6 26:9,15 30:7 4:13 9:15 Fernandez-Va...
+32:5,8,9 17:19 38:11 evidence 17:9,15 50:1,2,5 figure 5:3 22:10
+44:10 enactment 17:15 18:4 extended 9:17 41:5 42:19
+24:12,20 44:6 31:6 47:4 extending 25:9 file 6:4
+33:5 encourage 16:4 13:2,7 17:24 extra 20:7 fill 43:7
+35:15 39:3,19,24 face 44:24 49:25 find 34:23
+49:22 38:17 39:6 50:4 32:12 fingers 31:10
+engages 32:19 exacerbates facially 49:19 finish 40:19
+12:16 13:3 16:11 28:22 31:23 41:16
+25:17 17:1 22:8 going 4:9 5:4,7 13:25 14:14,16
+30:21 functional 15:23 11:22,22 12:19 H 15:21 16:15
+36:22 funeral 34:15 14:18 16:6,14 H 1:6 18:1 21:11
+46:19 funerals 4:6 26:11,12 28:2 Hadix 15:22 22:21 23:12
+further 23:8,22 28:3,5 34:18 Hampshire 7:20 33:4 39:2
+46:18 9:11,21,23 51:6,25 hands 11:20 52:3,4
+18:8,9,12,17 6:2 7:11,11 happen 15:11 21:23 22:2
+36:3,6 23:11,14,16,18 9:22 10:22 35:17 48:6,16
+45:13,18 25:2 37:15 11:11 15:15,17 happened 28:10 hypothetical
+48:13 Government's Harisiades idea 35:8 46:23
+Garland 18:15 grace 19:3 heavier 12:25 4:14 12:8,8,12
+general 1:7,19 34:15 41:19 51:25 26:25 30:2
+45:17 51:17 29:9,18 30:16 helpful 25:23 51:11,11
+32:21 46:25 guidelines 21:1 34:9 35:8 47:19,22
+44:5 giving 14:22 21:8,10 22:1 Holder 1:6 3:4 35:23 45:4,9
+46:20 gnawing 36:10 28:22 29:5,6,8 18:17 19:13 immunities 9:5
+14:7 15:8 16:5 30:10,14,23 holdings 21:22 impact 5:23
+48:10 34:14,23 38:23 32:11 36:11,12 home 17:4 impermissible
+31:24 35:2 9:18 10:4,8 knew 12:11 27:6 lawyer 26:18
+inside 11:25 13:14,20 14:7 18:1 23:10 lead 31:25
+27:2 28:2 intend 14:17 15:25 16:23 29:15 31:10 25:14 26:8,12
+30:18 intended 13:16 17:5 18:7,24 33:22 35:4,9 leaving 11:23
+41:8 13:22,23 14:11 19:1,10,15 35:22 36:11 46:22
+50:24 14:12 22:11 20:16,19 21:4 38:21 39:7,12 leeway 13:2
+intent 13:17,21 22:19,22 23:5 51:5 legal 3:13 15:24
+41:6 interests 48:7 27:17 28:1,17 34:3 44:12
+interpret 17:6 30:8,11 31:1,9 L 48:6
+26:2 interpreted 40:3 35:3,13 36:1 5:17,24 7:10 legislated 51:20
+introduced 37:17,25 38:19 7:15 8:3,6 legislates 14:23
+28:3 involve 18:8 40:14,24 41:21 14:19 15:2,22 legislative 14:1
+44:15 22:2 41:24 42:11,22 17:1 21:23 19:3
+irrational 39:14 50:13,18 51:3 51:3,6,10,11 10:18,20
+7:23 8:7 9:25 Justice's 33:17 language 43:22 13:4 41:10
+45:8 law 3:20 4:13,18 lies 35:11
+KAGAN 10:4,8 14:1 18:16 48:3
+January 1:10 24:13 28:1 27:22,25 28:13 limitation 26:6
+judgment 11:11 38:19 40:24 39:19 42:5 11:19
+Judulang 45:18 46:22 49:24 50:1 line-drawing
+23:4 50:9 kept 24:14 38:9 logic 48:18
+47:1 5:16 6:8,22 7:8 kind 33:20 42:5 22:25 42:4,20 longer 12:21
+17:12 meaning 33:17 mother 27:11 O outside 14:6
+33:25 meaningful 28:4,6,9 O 2:1 3:1 outweigh 15:1
+40:15 23:20 movies 38:24 obliged 26:19 outweighed 6:20
+meant 8:13 movingly 47:17 obvious 20:8 override 10:16
+15:18 38:21 47:16 48:22 overrule 21:22
+Mendoza-Ma... names 35:22 odd 26:11 PAGE 2:2
+49:16 narrow 10:19 offender 42:4,20 pages 28:18,25
+51:16
+Miller 1:18 2:6 necessary 20:9 47:2 17:3 21:3 29:9
+17:9 24:18 25:16,22 need 13:4 16:25 20:13 23:2 parent's 16:5
+47:3 26:13 27:1,14 needed 14:3 office 18:17 part 12:3 25:3,5
+20:12,23 37:24 38:2 12:25 14:20 40:2 42:20 particularly
+29:9 39:1,22 40:4,7 15:9,24 22:4 52:2 16:16
+31:2 40:10,15 41:3 30:5 43:9,25 old 43:25 parts 44:4
+36:17 41:23,25 43:11 nexus 11:7 once 16:7 26:10 party 16:5 23:7
+52:12 43:23 44:11,20 nominally 33:8 26:22 37:22 pass 17:8
+46:11,12 non-retroacti... one-way 3:25 passed 4:18 6:10
+38:9 minutes 46:14 note 48:24 operating 17:14 22:15,17 28:8
+misconduct 22:9 noted 12:2,12,24 operative 20:19 37:23 42:14
+25:18 misdemeanor 48:20 21:19 40:12 penalized 47:6
+29:15 41:14 notes 12:25 49:17,24 penalizing 3:14
+31:11 Missouri 18:15 notice 7:3 opposed 29:10 penalties 48:8
+33:25 33:6 notion 45:1 opposing 18:14 penalty 5:23
+35:7 moment 5:13 nullity 18:25 opposite 16:11 16:18,19 18:9
+39:14 months 47:24 number 20:24 oral 1:12 2:2,5 47:8
+40:4,7,7 moral 26:1 24:7 25:4 3:6 24:1 Pennsylvania
+42:8,9 38:22 28:14 31:20 order 16:4 37:12 1:16
+43:24 morning 24:5 41:7 42:21 45:14 people 4:2 6:4
+28:7 outlined 16:24 8:23 11:8,14
+12:20 30:3,10,23 10:17 13:2,7 previous 50:9 14:21
+17:21 31:7 32:11 17:24 23:4 previously protecting 11:25
+29:10,17 44:14,14 45:25 36:13 39:3,19 41:15 protections
+35:16,21 46:1 48:21 39:24 41:19 pre-enactment 49:21
+38:17 plead 20:14,17 49:12 50:4 22:5 23:1,2 protective 11:4
+44:5 20:23 29:4,5,8 postdate 24:20 46:4 16:20 46:20
+46:22 30:14 36:11 postdated 24:11 pre-IIRIRA prove 13:23
+44:25 45:2,2 postdates 8:3 3:14,20,21 30:13 31:11
+pleading 5:21 46:3 51:18 25:8 30:2
+26:7,8
+14:25 20:1 prior 6:13,24 punish 18:22
+pleas 30:6 31:12 44:22 11:15 14:11 22:8 33:18
+31:5,23 31:16 45:19 power 6:17 17:10 37:12,17 punishing 7:5
+33:2 please 3:9 24:4 10:19 19:21 39:11,21 42:7 13:5 39:11
+43:5,19 plenary 19:20 35:11 privilege 7:9 40:23
+12:1,13 15:8 48:13 49:5 33:22 41:6
+20:2,12 22:8 practice 23:16 probably 25:9 purely 19:3
+2:4,10 3:7 pointing 9:11,21 18:3,5 procedural 17:1 41:10
+24:10 points 25:17 premise 13:19 17:25 38:4 46:23
+44:15 46:18 47:17 14:8 20:9 procedure 8:9 purposes 32:14
+policy 34:13,19 prerequisite 38:5 49:21 38:7
+43:18,18,23 prerogative prohibit 35:5 12:18,21
+10:21 11:3,7 presented 13:19 propose 8:1 7:9,13 13:19
+27:2,3,9 possibly 16:18 pretty 42:25 40:21 41:10 41:18 42:1,23
+29:25 post 7:18 10:15 prevent 35:5 prospectively 43:21 45:22
+redefine 43:24 46:6 47:14 23:6,10 37:14 round 3:24
+35:14 reference 20:3 18:12 23:13 50:5,7 51:25 15:3 17:14
+24:25 25:10 removal 37:12 32:14 38:7 Santobello 30:5
+34:3 removed 3:18 48:17,22 51:12 saying 14:4
+29:2,2 regularly 11:2 repeatedly 12:7 reverse 52:7 49:25 51:16
+regulate 8:13 replacing 43:25 right 4:11 5:12 Scalia 7:8 8:5
+16:2,13 Reports 18:16 16:15,24 18:20 16:23 17:5
+33:9,21 24:21 Republic 7:14 28:1,2,11 31:1 40:2,5,9,14
+40:16,22 regulates 8:10 9:1,15 34:23 35:25 41:21,24 51:3
+40:5 45:3 40:17 42:2 required 47:10 38:19 39:1,21 scenario 46:8
+44:2 requires 36:16 48:25 scheme 24:23
+40:22 41:1 rescind 13:16 49:21 scope 10:14
+41:10 reserve 23:22 19:14 49:3 second 5:12
+46:15 related 11:6 respect 12:18 ROBERTS 3:3 Secondly 11:3
+35:9 relevant 7:12 response 16:24 26:5 34:12,17 Security 31:4
+8:9,11,17 18:2 rest 19:13 35:3 44:9,17 see 21:2 29:11
+reliance 5:9 6:5 28:13 32:10 46:10,13 52:8 seeking 24:24
+21:12,16,17,20 6:1,21 15:13 Rosenberg send 35:16
+29:24 43:14 44:10,12 statutory 22:20 52:1
+42:17 16:14 43:8 48:10,15,18,20 stay 11:21 26:9 sweep 10:25
+sitting 29:4 standard 49:16 stays 16:11 T 2:1,1
+47:22 state 10:18,19 STEPHANOS tailored 11:7,9
+5:18 6:5 34:14 35:6 status 34:14 street 50:10 25:1
+12:4 42:3 35:23 strongly 48:11 talk 36:4 43:8
+22:3,7 SORNA 22:25 statute 7:24 8:12 structured 4:2
+50:25
+50:1 8:21,24 10:5 subject 17:21 talked 24:16
+51:14,15 11:17 12:2 37:11 41:15 talking 22:11,12
+47:16 39:20 17:19,20 22:17 subjected 38:3 target 32:24
+sort 39:24 23:6 24:12,20 submitted 52:10 47:2
+51:16 12:15 13:14,20 26:1 28:8 31:3 submitting 48:8 teach 18:20
+33:16 37:17,25 33:15 34:1 subsection 3:10 teaching 18:17
+35:10 39:5,11,19,23 substantial 17:7 50:14
+special 17:21 41:5,9,12 42:2 suffer 6:25 temporal 43:13
+spell 12:13 46:2,19,24 suggest 47:7 term 43:25
+44:18
+square 46:24 22:13 28:16 suppose 19:15 10:14 13:9
+30:1,7 19:19 21:15,16 42:12,19 43:3 35:13 17:2 41:8 47:8
+34:3 42:6 21:22,25 23:12 50:11 51:19 Supreme 1:1,13 Thank 23:24
+45:13 28:18 29:6,22 statute's 12:10 sure 16:9 19:20 46:10,12,17
+47:25 43:3 43:24 44:1 uses 43:9 wants 15:19
+26:8 51:22 turn 49:15 50:6 U.S 18:16 27:8
+34:22 tradeoff 19:25 turning 49:18 warned 7:3
+18:19 13:4 turpitude 26:2 v 1:5 3:4 7:14 38:16
+35:4 traditional 38:23 15:22 18:15 warrant 31:22
+50:24 51:22 two 11:18 25:17 30:5 33:5,13 warrants 31:22
+26:7 42:13 40:25 43:15 41:4 49:10,14 1:19
+27:1 travel 3:14 4:22 51:10 49:16,23 wasn't 23:7
+4:25 5:23 10:1 twofold 44:11 valid 17:7 26:17 36:7
+10:2 15:9 value 47:22 way 3:19 4:10
+32:8,20 32:20 33:1,20 U Vartelas 1:3 3:4 16:16 25:25
+34:19 37:12,20 uncomfortable 47:9 29:2 31:11
+35:12 47:1 16:3,20 Versus 50:7 32:4 37:13
+37:3 traveling 4:19 unconstitutio... vested 8:8 18:20 46:24 50:11
+12:20 33:24 39:13,15,15,16 19:7 ways 29:23
+40:10 49:6 39:18 view 12:19 48:17
+treatment 44:2 uncontroversi... 15:23 wedding 16:6
+42:10,18 trial 31:15 28:15 viewed 9:4 Wednesday
+43:11,23 trials 8:14 underlying 33:14 42:10 1:10
+45:11 tried 31:4 30:25 34:13 violate 39:24 weigh 20:24
+46:7 trigger 15:18 understand 41:18 we'll 3:3 11:23
+51:3 24:13,15 31:24 16:17 25:12,15 violation 8:24 we're 11:14,22
+47:1 understands violence 41:14 22:12 26:11,12
+16:12 30:24 unfairness 6:19 visit 3:17 4:5,7 50:20
+29:2 trip 24:15 25:10 14:25 20:1 27:11 28:4,5,9 who've 21:9
+40:19 27:24 34:6 unfounded 29:8,17 wife 17:4
+36:5,14,15,18 50:22 visiting 30:15 Witte 12:24
+19:21 38:6 44:15 unpack 10:12 want 11:13 30:22 39:2
+24:19 truth 29:14 upheld 42:5 13:10 14:5 writ 25:18
+27:4 try 34:23 uphill 49:17 16:2,10 26:8 written 16:17
+4
+4-day 36:5,13,15
+20:25
+45:2,3,5 5 26:4
+46:14
+26:4 7
+45:2 71 18:15
+1:4 3:4
+8
+18:6 8 45:5
+1:14 3:2
+9
+25:3 922(g) 41:12
+42:20
+34:4 95 36:10
+50:2
+52:11
+1:10
+25:8
+26:1
+27:5
+41:13
+45:2
+47:24
+51:15
+1:10
+28:18
+2:7
+2:4
+12:9
+28:18

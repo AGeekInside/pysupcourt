@@ -1,0 +1,26 @@
+digraph supcourt {
+	node [shape=plaintext]
+	
+	session [
+		label = <
+		<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0"> 
+		<TR> 
+			<TD>Session</TD>
+		</TR> 
+		<TR> 
+			<td>startdate</td>
+		</TR> 
+		</TABLE>>]
+	
+	actor -> justice
+	actor -> speaker
+	speaker -> petitioner
+	session -> case
+	
+	case -> argument
+	case -> result
+	argument -> actor
+	result -> justice
+	argument -> content
+	word_library -> content	
+}

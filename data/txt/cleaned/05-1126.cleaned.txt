@@ -1,0 +1,1695 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - -x
+BELL ATLANTIC :
+CORPORATION, ET AL., :
+Petitioners :
+v. : No. 05-1126
+WILLIAM TWOMBLY, ET AL. :
+- - - - - - - - - - - - - - - - -x
+Washington, D.C.
+Monday, November 27, 2006
+The above-entitled matter came on for
+oral argument before the Supreme Court of the United
+States at 10:03 a.m.
+APPEARANCES:
+MICHAEL KELLOGG, ESQ., Washington, D.C.; on behalf of
+the Petitioners.
+THOMAS O. BARNETT, ESQ., Assistant Attorney General,
+Department of Justice, Washington, D.C.; as
+amicus curiae in support of the Petitioners.
+J. DOUGLAS RICHARDS, ESQ., New York, N.Y.; on behalf
+of the Respondents.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+MICHAEL KELLOGG, ESQ.
+On behalf of the Petitioners 3
+ORAL ARGUMENT OF
+THOMAS O. BARNETT, ESQ.
+As amicus curiae in support of the
+Petitioners 17
+ORAL ARGUMENT OF
+J. DOUGLAS RICHARDS, ESQ.
+On behalf of the Respondents 27
+REBUTTAL ARGUMENT OF
+MICHAEL KELLOGG, ESQ.
+On behalf of Petitioners 56
+P R O C E E D I N G S
+(10:03 a.m.)
+CHIEF JUSTICE ROBERTS: We'll hear
+argument first today in Bell Atlantic Corporation vs.
+Twombly. Mr. Kellogg.
+ORAL ARGUMENT OF MICHAEL KELLOGG
+ON BEHALF OF PETITIONERS
+MR. KELLOGG: Mr. Chief Justice, and may
+it please the Court:
+I think the most important point that I
+can make today is that this is a case about the
+substantive requirements of antitrust law, and just
+as in Dura and in Blue Chip Stamps, the Court
+articulated the substantive requirements for pleading
+a claim under the securities law, and just as in
+Anza, it did so under RICO, so too in Associated
+General Contractors, in Trinko. And in the instant
+case, the Court is faced with the question of what a
+plaintiff needs to plead in order to state a claim
+and show an entitlement to relief under the antitrust
+laws.
+In that regard, I'd like to direct the
+Court's attention to paragraph 51 of the plaintiff's
+complaint in this case, which is at page 27 of the
+joint appendix, and which summarizes the grounds for
+plaintiffs' allegation that there is a contract
+combination or conspiracy in restraint of trade. The
+complaint states, and I quote, "in the absence of any
+meaningful competition among the defendants," and,
+quote, in light of the parallel course of conduct
+that each engaged in to prevent competition, the
+plaintiffs -- the defendants conspired.
+JUSTICE STEVENS: Well, but isn't the next
+sentence, the substance of the sentence is
+"plaintiffs allege upon information and belief that
+defendants have entered into a contract combination
+or conspiracy to prevent competitive entry in their
+respective telephone and/or high speed interstate
+markets, and agreed not to compete with one another
+and otherwise allocated customers and markets to one
+another." Now, does that state a violation of the
+Sherman Act?
+MR. KELLOGG: It does not, Your Honor.
+JUSTICE STEVENS: It does not?
+MR. KELLOGG: It does not state a claim.
+JUSTICE STEVENS: I mean, you could leave
+out everything before plaintiff, the part you quoted,
+that's not part of the declaration in the sentence.
+But the sentence itself alleges a garden variety of
+the violation of the Sherman Act, doesn't it?
+MR. KELLOGG: The sentence recites the
+language of the Sherman Act, that is correct. But
+what this Court's cases indicate and what Rule 8
+requires --
+JUSTICE STEVENS: It's got the language of
+the Sherman Act, a conspiracy to prevent competitive
+entry in their respective telephone and/or high speed
+markets. That's not in the Sherman Act, that's a
+description of the alleged conspiracy in this case.
+MR. KELLOGG: It is true that they have
+described the alleged conspiracy, but what Dura,
+Associated General Contractors, and other cases of
+this Court require is a statement of facts that
+warrants the legal conclusion that the plaintiffs
+wish to --
+JUSTICE GINSBURG: Mr. Kellogg, the
+Federal Rules of Civil Procedure assiduously avoid
+using the word fact throughout. And from 1938 on, it
+has been repeated that it is not necessary to plead
+facts. The index of forms, the appendix of forms
+shows how simple the plain statement of a claim is,
+and you're not required to plead facts. And yet
+that's the central -- seems to be the central thrust
+of your argument.
+MR. KELLOGG: Your Honor, every case of
+this Court dealing with pleading standards has
+indicated that it is not sufficient merely to recite
+a legal conclusion, and claim an entitlement to
+relief therefore. In Dura, for example, the
+plaintiffs claimed proximate cause and loss
+causation, and the Court said --
+JUSTICE STEVENS: But Mr. Kellogg, that's
+not a legal conclusion, it's an allegation of fact
+that there was an agreement to prevent competitive
+entry into respective markets. There are dozens of
+antitrust complaints that are no more specific than
+that.
+MR. KELLOGG: Your Honor, in the context
+in which this claim is made, the allegation of
+agreement or conspiracy is not a statement of fact.
+It is an inference that the plaintiffs seek to draw
+from the facts that they allege in the complaint.
+Context here is everything. In form 9, for example,
+Justice Ginsburg, or in the case of Sherkovitz, you
+had a specific context. You had a time, a place,
+individual participants named, a clear injury in form
+9, a broken leg as a report --
+JUSTICE GINSBURG: But negligently drove.
+It doesn't say whether it went through a stop light.
+Doesn't say whether it was speeding. It doesn't say
+any one of the umpteen ways one could be negligent.
+MR. KELLOGG: That is correct, Justice
+O'Connor, but you have a direct context -- Justice
+Ginsburg, you had a direct context in which an
+eyewitness participant in the event is claiming
+negligence on behalf of the driver of the car. In
+the instant case, we have no injury that's separate
+from the alleged conspiracy, and we have no time,
+place or participants for the alleged conspirators.
+JUSTICE BREYER: But you do have a case --
+anywhere, forget antitrust. Suppose it's a tort
+case, and the following complaint is filed. My foot
+hurts. I've gone to Dr. Smith for 15 years. I claim
+he is negligent. Is that valid?
+MR. KELLOGG: I do not think so, because I
+don't think --
+JUSTICE BREYER: All right. Now, if you
+think that's valid, I understand that you think this
+complaint does just what I said in the field of
+antitrust. But is there any case that you've come
+across which would say a complaint just as I have
+described it --
+MR. KELLOGG: Yes.
+JUSTICE BREYER: Either is valid or is not
+valid. You'd like to find one that says it's not
+valid, so what's your best effort in any field of
+law.
+MR. KELLOGG: I would cite, for example,
+the Court's decision in the Papasan case, where the
+plaintiffs claimed that they were not getting a
+minimally adequate education. That sounds like a
+factual statement. But what the Court expressly said
+in that case is that we do not have to accept legal
+conclusions in the guise of factual allegations.
+JUSTICE KENNEDY: But of course, there the
+legal standard was not clear. And the Dura case, I
+looked at, and perhaps you disagree based on what you
+-- what I have just heard, and I thought Dura was a
+lack of proximate cause. They just didn't show any
+relation between the injury they alleged to have
+suffered, and their own.
+MR. KELLOGG: Well, I think Dura is --
+JUSTICE KENNEDY: And that's the way I
+read Dura.
+MR. KELLOGG: I think Dura is an exact
+analogy. In Dura, they allege proximate cause, they
+allege loss causation. And the Court said, well,
+let's look at their statement of facts, which only
+showed that they had bought at an inflated price.
+And the Court said there was a fatal gap between that
+factual allegation and the legal conclusion that they
+wished to draw.
+JUSTICE BREYER: You can get into trouble
+by alleging too much, I guess, because if you allege
+a lot, you might leave something out. And you say,
+well, what about that one. But suppose we keep it
+very, very minimal. And a person just says, I'm hurt
+and the defendant, I claim, negligently injured me.
+Period. Period.
+MR. KELLOGG: That would not provide --
+JUSTICE BREYER: Well, why not?
+MR. KELLOGG: The grounds upon which the
+claim is based.
+JUSTICE BREYER: So the only thing that's
+missing there are some facts.
+MR. KELLOGG: Some facts indicative that
+the defendant is responsible for the --
+JUSTICE BREYER: All right. So now you're
+saying a complaint has to have facts?
+MR. KELLOGG: Absolutely.
+JUSTICE SOUTER: Well, I thought you were
+also making a different argument. I thought you were
+making the argument that they have, by their
+pleadings, in effect, affirmatively indicated that
+they don't have enough facts to support a general
+allegation. I thought you were saying that because
+of the preface that you began reading, that in view
+simply of the fact that they are not competing, and
+in view of parallel conduct, they have violated the
+Act.
+So I guess my question is, would your
+position be different if there were no allegation
+simply of an absence of competition and parallel
+action if -- would your position be different if they
+had simply alleged, as Justice Stevens emphasized,
+that here were these parties and they had -- they had
+taken some action, not specified, which resulted in
+violation of the Act?
+MR. KELLOGG: Our position would not be
+different. It's the uniform view of the cases that I
+cited, the Courts of Appeals and a requirement of
+Rule -- Rule 8 that you do more than simply parrot
+the words of the cause of action or announce legal
+conclusions. But as you point out, in this case --
+JUSTICE SOUTER: So that would not be good
+enough, but are you saying that this is worse
+because, in effect, they have gone some steps towards
+specification. And the specifications that they have
+made affirmatively show that they don't have enough
+for the agreement.
+MR. KELLOGG: It is certainly true that
+all they have alleged is conduct from which they seek
+to draw an inference of conspiracy. And they have
+made that quite clear, that they have made no direct
+allegation.
+JUSTICE SOUTER: And you're saying that
+inference cannot be drawn from the particular facts
+that they have alleged.
+MR. KELLOGG: That is correct. Our
+position is that as a matter of substantive antitrust
+law, what this Court said in Matsushita is that
+antitrust law limits the range of permissible
+inferences that can be drawn from parallel conduct.
+And if all you have is parallel conduct that's
+consistent, on the one hand, with conspiracy, or on
+the other hand, with ordinary business judgment, you
+cannot draw an inference of the sort that the
+plaintiffs depend upon in this case.
+JUSTICE STEVENS: Of course, that may be
+true on summary judgment, you may be dead right on
+the merits, but are you telling me that an allegation
+that the defendants have agreed not to compete with
+one another is not a statement of fact?
+MR. KELLOGG: I am. I would say that
+that's a -- that's a conclusion --
+JUSTICE STEVENS: Well, what if they said
+they agreed in writing not to compete with one
+another, would that be sufficient? Or if they have
+agreed orally not to compete with one another, would
+that be sufficient?
+MR. KELLOGG: If there were a specific
+context and they said --
+JUSTICE STEVENS: If they said they have
+agreed orally not to compete with one another, would
+that be a statement of fact, an allegation of fact?
+MR. KELLOGG: Yes. Because you require --
+JUSTICE STEVENS: Then why did you leave
+the words orally out? Why is it not a statement,
+allegation of fact?
+MR. KELLOGG: Because the plaintiffs here
+were very careful, in light of Rule 11, not to make
+any direct allegations of conspiracy, not to suggest
+that there was a time and place --
+JUSTICE STEVENS: But that's a direct
+allegation of conspiracy, that very statement.
+MR. KELLOGG: But they make it clear in
+that paragraph that it's an inference.
+JUSTICE STEVENS: They make it fairly
+clear that they may only have the evidence of
+parallel conduct that you describe, and that may not
+be sufficient, and maybe for that reason, you get a
+summary judgment. But how you can say this is not an
+allegation of fact, I find mind-boggling.
+MR. KELLOGG: I'm saying that it's not
+sufficient to state a claim. Just as the allegation
+that there was lost causation in Dura, or that there
+was harm to the union in Associated General
+Contractors or there, that there was harm --
+JUSTICE BREYER: Now you're, that's the
+part precisely which you're following that I don't,
+that I actually don't know, is the extent to which
+you have to put in a complaint, in whatever field of
+law, you can allege a fact. You say the person ran
+over me --
+MR. KELLOGG: Yes.
+JUSTICE BREYER: Or you say, they treated
+me negligently. That's a fact. That means something
+happened there. But suppose you write the complaint
+and there is just no notion that you have a what and
+when, how, under what circumstances. It's just
+totally out of thin air, and the defendant doesn't
+know what, what period of time he is supposed to be
+thinking about, what, what happens to such a
+complaint? There must be some law on it in torts or
+someplace?
+MR. KELLOGG: Well, ordinarily in a
+complaint like that, you could file a 12(e) motion
+and ask for more specificity. Our problem --
+JUSTICE BREYER: Well, why couldn't you do
+the same?
+MR. KELLOGG: Our problem with the current
+complaint is not a lack of specificity, it's quite
+specific. It provides color maps and such. The
+problem is that the facts specifically alleged simply
+don't amount to an antitrust violation because they
+don't support the inference that the plaintiffs ask
+the Court to draw.
+JUSTICE BREYER: Oh, but they're --
+they're using the fact that there was parallel
+behavior as a basis for thinking there was more than
+parallel behavior. They are using it as a basis for
+thinking that once, on some occasion that's relevant,
+there were people meeting in a room and saying things
+to each other. So they are not just saying that it's
+sufficient. They are saying it's evidence that
+something else occurred.
+MR. KELLOGG: That's correct. That's
+exactly what they are saying and what Matsushita and
+the other courses, cases of this Court dealing with
+parallel conduct indicate, is that that's not a fair
+inference from parallel conduct.
+JUSTICE GINSBURG: Wasn't that a summary
+judgment case and hadn't there been discovery before?
+The Matsushita decision?
+MR. KELLOGG: That is correct. But the
+Court announced that as a principle of substantive
+law. They said substantive antitrust law limits the
+range of permissible inferences. We are not
+suggesting that the plaintiffs need the sort of
+specificity or certainly any evidence at the
+pleadings stage. For example --
+JUSTICE SCALIA: They just have to say
+orally, I wish you would reconsider that? Because if
+that's, if that's all you're arguing, I don't see
+anything to be gained by -- by such a holding. It
+doesn't tell you -- you know, this is a suit against
+a number of large corporations, nationwide
+businesses, thousands of employees. And on this
+complaint you have no idea who agreed with whom,
+where, when, any of that.
+I can understand that you're saying that
+does not give us enough notice to prepare a defense.
+But if you say oh, but it would be perfectly all
+right so long as they said orally. I mean -- forget
+about it.
+MR. KELLOGG: I -- I should not agree to
+that. That's simply adding the word orally. It's
+certainly fair when you are talking about a
+nationwide class over a period of 10 years attacking
+an entire industry to suggest that the plaintiffs
+have to give some indication of what it is that the
+defendants have done that is wrong. Some concrete
+basis for the Court to believe there is a reason to
+go forward to the --
+JUSTICE KENNEDY: So in the negligently
+drove case, the plaintiff negligently drove over --
+the defendant negligently drove over the plaintiff,
+if it's not specific as to time and place it must be
+dismissed? If it's specific as to time and place
+it's, it withstands the motion?
+MR. KELLOGG: Well certainly, Form 9 is
+very specific. It gives a specific corner, it gives
+a time, it gives the names of the participants.
+JUSTICE KENNEDY: What if it does say
+within the last 10 years.
+MR. KELLOGG: I don't think that's
+sufficient, Your Honor. But with a -- with a --
+JUSTICE KENNEDY: Do you have a case, do
+you have a case I can look to that tells me that?
+MR. KELLOGG: With a negligence case a
+12(e) motion could then specify the actual time and
+place, but the plaintiffs here have had ample
+opportunity to amend their complaint to supplement.
+If they had any specifics indicating that there was
+such an agreement as opposed to lawyer speculation
+and a desire to engage in expensive discovery they
+would have produced that.
+JUSTICE SCALIA: Did you seek a more
+specific statement?
+MR. KELLOGG: We did not, Your Honor.
+JUSTICE SCALIA: Why not? Why didn't you
+ask when and where was this agreement.
+MR. KELLOGG: Well again the whole way
+this was litigated below by the plaintiffs was that
+they, they acknowledged they had no specifics. They
+simply asked that an inference be drawn from the
+parallel conduct they alleged. And that is our
+central point that you simply cannot infer an
+agreement from this conduct. If the Court has no
+questions, I reserve my time.
+CHIEF JUSTICE ROBERTS: Thank you,
+Mr. Kellogg. Mr. Barnett.
+ORAL ARGUMENT OF THOMAS G. BARNETT,
+ON BEHALF OF THE UNITED STATES, AS AMICUS CURIAE,
+IN SUPPORT OF PETITIONERS
+MR. BARNETT: Mr. Chief Justice, and may
+it please the Court.
+The fundamental concern of the United
+States is that the decision of the Second Circuit can
+be read to hold that a Section 1 Sherman Act
+complaint will survive a motion to dismiss merely by
+alleging parallel action or inaction in attaching the
+bare assertion of an agreement. Such a result fails
+to appreciate that parallel action or inaction is
+ubiquitous in our economy and often reflects
+beneficial competitive forces.
+JUSTICE SCALIA: What do you mean can be
+held, can be thought to hold that? Is there any
+interpretation of what they did.
+MR. BARNETT: Well there are certain
+portions of the decision that talk about a
+plausibility requirement but when it turns to the
+specific area of a Section 1 complaint and a
+complaint alleged on parallel conduct, I agree with
+you, Justice Scalia, that that's the only
+interpretation I can draw from that passage. The
+Court held that if you allege parallel action unless
+there are no set of facts that can be proved, and
+it's always possible to hypothesize an agreement, you
+cannot dismiss that complaint.
+JUSTICE SOUTER: Well, is that really what
+they -- I thought, and correct me if I'm wrong, but I
+thought that the, that the Court spoke of no set of
+facts, only on the assumption that there had been a
+pleading which did raise a plausible, possible
+inference of forbidden conduct, and I thought the
+Court was saying if the, if the plausibility
+criterion has been satisfied, then the only way that
+the defendant can get a dismissal is by showing that
+there is no set of facts which would actually support
+the action. And I'm not sure that that can be done
+at the, at the, at the stage of simply pleading a
+dismissal as opposed to summary judgment or something
+like that. But I thought the Court did not get to
+its no set of facts point until it had first assumed
+that there had been a, a pleading on the basis of
+which a plausible inference of forbidden conduct
+could be drawn. Am I about that?
+MR. BARNETT: Well, Justice Souter, I read
+that passage of the Second Circuit decision as not
+expressly referencing the plausibility requirement.
+There is language saying that the allegation needs to
+be plausible but when you get to this specific
+passage it says that if you allege parallel conduct a
+court cannot dismiss the claim unless there could be
+no set of facts that could be proved. But
+regardless, even if I am, your interpretation is
+potentially permissible interpretation, the
+fundamental concern of the United States is that this
+Court, having the case now, clarify that a Section 1
+Sherman Act complaint should not be able to survive a
+motion to dismiss unless it alleges some facts beyond
+mere generic parallel action.
+JUSTICE SOUTER: So, so that if
+plausibility is the standard this does not meet the
+standard of plausibility, that's your argument?
+MR. BARNETT: Well, we prefer the
+formulation that, from the Court's opinion in Dura
+that says that the facts need to demonstrate some
+reasonably founded expectation that there is an
+unlawful agreement within the meaning of Section 1 of
+the Sherman Act.
+JUSTICE SCALIA: And some parallel action
+would indicate that wouldn't it? I mean, if for
+example they, you have nine companies that change
+their price at the same hour of the same day, 10
+months in a row.
+MR. BARNETT: Absolutely, Justice Scalia.
+I agree.
+JUSTICE SCALIA: So you're, you're not
+saying that parallel action can never create this,
+this kind of --
+MR. BARNETT: That is correct. If all you
+know is that there is parallel action or inaction,
+that in and of itself tells you nothing. Once you
+start to add the facts and circumstances surrounding
+it, particular parallel action can be suspicious
+enough, and the example you give is a good one, that
+demonstrates a reasonably founded expectation for
+believing that discovery may yield evidence showing
+that that parallel price increase at the same time by
+nine different companies was the result of an
+unlawful conspiracy.
+If I can turn to, in -- in deciding
+whether or not there is such a reasonably founded
+expectation, you do need to look to the substantive
+law. Here the issue is the law on agreement under
+Section 1 of the Sherman Act. Some of the questions
+I think I've heard go to this issue. Section 1 law
+specifically limits the kinds of facts that can be
+used to establish an agreement that is cognizable
+under the Sherman Act. In particular, the Court's
+rulings made clear that conscious parallelism which
+some economists might argue is a form of an
+agreement, is not an agreement within the meaning of
+Section 1.
+JUSTICE STEVENS: It's clear it's not
+sufficient to prove it, but is it admissible
+evidence?
+MR. BARNETT: It may be admissible
+evidence but depending on the facts and circumstances
+--
+JUSTICE STEVENS: Should a plaintiffs's
+complaint fail because it includes unnecessary,
+verbose, admissible evidence?
+MR. BARNETT: No. It should fail if it
+fail -- if it does not allege facts that indicate
+reasonable found --
+JUSTICE STEVENS: Is not it an allegation
+that they've agreed not to compete with one another
+an allegation of fact?
+MR. BARNETT: It is a combined question of
+law and fact in our view, because as I said the
+Section 1 law limits the kinds of facts that can be
+used to establish an agreement. If all they have
+alleged is parallel action without more --
+JUSTICE STEVENS: But they have alleged
+more. They have alleged an actual agreement.
+MR. BARNETT: But as paragraph 51 of the
+complaint is, as you were discussing, in some ways
+even worse. Because it specifically relies upon
+parallel action and alleged parallel inaction.
+JUSTICE SCALIA: But what if it didn't? I
+mean, I mean face the question that Justice Stevens
+puts. Suppose you have a complaint that says nothing
+else except that these defendants entered into an
+agreement in -- in restraint of trade.
+MR. BARNETT: And that is not sufficient
+because in our view the complaint needs to allege
+some facts that demonstrate a basis for believing
+there was an unlawful agreement within --
+JUSTICE STEVENS: What if the complaint in
+addition to that alleged that up to a certain date,
+it was unlawful for the companies to compete with one
+another but the law was changed and after that change
+took place they were advised by their lawyers they
+could compete, but they agreed not to. Would that be
+sufficient?
+MR. BARNETT: No. Every business, every
+day fails to enter some new line of business or take
+some potential competitive action. The mere --
+CHIEF JUSTICE ROBERTS: But Justice
+Stevens's question was that the allegation was that
+after that date they agreed not to compete. That
+states -- that states a cause of action under the
+Sherman Act, doesn't it?
+MR. BARNETT: No. I would, with respect,
+Mr. Chief Justice, I would disagree with that. There
+still needs in our view to be some allegation that
+indicates -- a factual allegation that indicates a
+reason for believing there may have been unlawful
+agreement.
+JUSTICE BREYER: Can they say on the 14th
+of January, 2004, we believe that in the city of New
+York, they agreed upon this course of action? That
+would surely be sufficient?
+MR. BARNETT: That may be sufficient
+because it is providing enough facts to give you a
+reason to believe that the plaintiff has a basis for
+--
+JUSTICE BREYER: Well, it's saying, all
+I've done is limited it in time and space. Just as
+you might say on October the 24th, 2004 at the corner
+of 14th and Third Avenue, defendant drove negligently
+and injured me. That's certainly a complaint, isn't
+it?
+MR. BARNETT: Well, and it -- you -- you
+--
+JUSTICE BREYER: Isn't it?
+MR. BARNETT: It needs to allege enough
+specifics --
+JUSTICE BREYER: Well, look, the one I
+just alleged in the tort law is a complaint. I've
+just copied it out of the model complaints.
+MR. BARNETT: I want to be clear --
+JUSTICE BREYER: Am I right or not?
+MR. BARNETT: The facts allege need to be
+specific enough to suggest --
+JUSTICE BREYER: Well, I understand the
+standard.
+MR. BARNETT: Yes.
+JUSTICE BREYER: I want to know how to
+apply the standard and now I take my tort case --
+MR. BARNETT: Yes.
+JUSTICE BREYER: -- which is okay, and now
+I say sometime during the last 10 years he drove
+negligently and injured me. Is that no good?
+MR. BARNETT: In my view that's probably
+insufficient --
+JUSTICE BREYER: And so you're saying that
+this case is like that, when because they don't say
+when they met, they don't say what happened, they
+don't give a time or place.
+If that's, leaving your side parallelism
+out of it, I'm past you on that, all right? I'll
+accept for argument's sake all your point about that.
+Now if you're saying this is too vague, leaving that
+out of it, because it doesn't say time and place of
+the meetings or give any other clue for meetings
+etcetera, what's your best authority ?
+This is an area of law I'm not familiar
+with. I'm looking for cases that will tell me how
+specific a complaint has to be to tie the events down
+to specific ones.
+MR. BARNETT: I believe that this Court's
+decision in Dura Pharmaceutical --
+JUSTICE BREYER: Dura is still the best.
+I think I, did I write that case?
+(Laughter.)
+MR. BARNETT: You did --
+JUSTICE BREYER: I'm not drawing total
+comfort from it.
+(Laughter.)
+JUSTICE BREYER: In fact I'd like
+something in tort law or something that, you know,
+that I get a general idea of what the law is because
+I don't know that antitrust is --
+JUSTICE SCALIA: Mr. Barnett, I thought --
+MR. BARNETT: I thought our brief lists
+cases that go to that point.
+JUSTICE SCALIA: Mr. Barnett I thought you
+had, you had said that you don't need to indicate the
+particular day of the agreement. That it would be
+enough if it was the kind of parallel action that
+suggested an agreement that over nine years they all
+raised the price at the same time. Now that doesn't
+really give the defendant notice of, you know, what
+individuals were responsible for this, when it
+occurred. But you say that would still be adequate?
+MR. BARNETT: Well, it does provide notice
+that -- this is a fairly low threshold. It provides
+some indication. It can be an indication of direct
+evidence. It can be an indication of circumstantial
+evidence. It does focus the litigation, however, by
+providing a, a reason why the court and the defendant
+should be defending themselves against a section 1
+claim.
+My time is up.
+CHIEF JUSTICE ROBERTS: Thank you,
+Mr. Barnett.
+Mr. Richards, we'll hear now from you.
+ORAL ARGUMENT OF J. DOUGLAS RICHARDS
+ON BEHALF OF RESPONDENTS
+MR. RICHARDS: Mr. Chief Justice and may
+it please the Court:
+There are four essential dimensions to the
+problem that's before the Court and on every one of
+those dimensions the guidance that the Solicitor
+General gave in its amicus brief in the Swierkiewicz
+case is 180 degrees opposite the guidance that the
+Solicitor General is providing in its amicus brief in
+this case. The first of those dimensions I'll begin
+with because it's where petitioners began. In their
+brief, the Solicitor General in the Swierkiewicz case
+very clearly said that evidentiary standards cannot
+be made into pleading standards. What they said on
+page 5 was that by requiring pleading of the
+McDonnell Douglas prima facie case from employment
+law the Second Circuit had erroneously conflated the
+fair notice owed the defendant at the outset of the
+litigation with the standards governing the
+plaintiff's present of proof in court. Later at page
+11, they said the court's test confuses pleading ---
+JUSTICE KENNEDY: Now you're reading from
+the Swierkiewicz brief?
+MR. RICHARDS: From the Swierkiewicz
+Solicitor General brief.
+They said that the court test in the
+Second Circuit that was reversed --
+JUSTICE SCALIA: Well, i mean, you know,
+that's shame on them. But we're trying to get this
+case right and, you know, I don't care what position
+they took before. I care about what the right answer
+is, and I find it difficult to believe that you can
+simply allege in a complaint, I was injured by the
+negligence of the defendant in driving an automobile,
+period. Does that satisfy the, the Federal Rules?
+MR. RICHARDS: There's a big difference
+between -- the answer is I don't know, perhaps.
+JUSTICE SCALIA: Perhaps?
+MR. RICHARDS: Perhaps. But that's very
+different from this case and it's different in that
+an automobile accident is something that happens all
+in one moment in time. An antitrust conspiracy like
+the conspiracy alleged --
+JUSTICE SCALIA: The agreement happens at
+one moment in time.
+MR. RICHARDS: Oh, it could happen in many
+moments.
+JUSTICE SCALIA: Meetings of the minds,
+meeting of the minds. I used to each Contracts.
+Meeting of the minds at one moment in time, okay.
+MR. RICHARDS: But what the Second Circuit
+said on this point, and I submit that the Second
+Circuit was correct, was that the complaint does set
+forth the temporal and geographic parameters of the
+alleged illegal activity and the identities of the
+alleged key participants, and I think that's correct.
+CHIEF JUSTICE ROBERTS: But where does it
+set forth agreement?
+MR. RICHARDS: It alleges --
+CHIEF JUSTICE ROBERTS: Temporal,
+geographic, the identities, but where does it set
+forth anything evincing an agreement other than the
+allegation of parallel conduct?
+MR. RICHARDS: It alleges that there was
+an agreement, but it doesn't prove that there was an
+agreement because proving the facts alleged is not a
+plaintiff's burden in the complaint.
+CHIEF JUSTICE ROBERTS: Do you have any,
+is there an allegation of an agreement apart from the
+parallel conduct?
+MR. RICHARDS: Yes.
+CHIEF JUSTICE ROBERTS: And what does that
+consist of?
+MR. RICHARDS: The leading plus factor
+that's generally used in, in the Matsushita context,
+in the Monsanto context, is action that would have
+been against the self-interest of the conspirators in
+the absence of a conspiracy, and this complaint
+alleges very clearly that the conduct of not entering
+into one another's territories and competing among
+the ILECs as a CLEC was contrary to what would have
+been --
+CHIEF JUSTICE ROBERTS: So it states --
+would it state an antitrust violation if had you a
+grocery store on one corner of the block and a pet
+store on the other corner of the block and you say,
+well, the grocery store is not selling pet supplies
+and they could make money if they did, therefore
+that's an antitrust violation?
+MR. RICHARDS: If that conspiracy were
+implausible, if it made no sense.
+CHIEF JUSTICE ROBERTS: That's all the
+facts that are alleged.
+MR. RICHARDS: Right, but the Second
+Circuit standard and the standard we defend is that
+if someone alleges a conspiracy I that just makes no
+sense because it's obvious from the face of the
+complaint that the alleged conspirators aren't in the
+same product market, not in the same geographic
+market or something of that kind, there is no
+conceivable motive for them to enter into the kind of
+conspiracy at hand, the complaint can be dismissed.
+JUSTICE BREYER: If my case, the gasoline,
+oil prices fell, but I happen to know there were four
+gasoline shops near each other, gasoline stations,
+and they didn't cut their prices. Complaint?
+MR. RICHARDS: Yes.
+JUSTICE BREYER: Well, then that's the
+economy, and you can go sue half the firms in this
+economy. Every firm in a concentrated industry
+engages in -- I mean, normally conscious parallelism,
+and I know there are economists who think that that
+should be the case, but I thought the law to date was
+that the Department of Justice is not given by the
+Sherman Act the authority to remake the entire
+American economy. But if we accept your view I guess
+it is.
+MR. RICHARDS: Well, Justice Breyer, in
+the NHL case, the National Hockey League case, which
+is one of the cases that the petitioners relied upon
+for a circuit conflict to get here, what the court
+said is that allegations that defendant's action
+taken independently would be contrary to their
+economic self-interest will ordinarily tend to
+exclude the likelihood --
+JUSTICE BREYER: Ordinarily, if you take
+that sentence and read it for how you're reading, a
+consciously parallel action is a violation of Sherman
+Act section 2, then we have that radical change that
+many have advocated for the last 40 or 50 years, that
+half the economy is in violation, because in any
+concentrated industry, after all, it is in the
+interest of a firm to cut prices and to make a large
+market unless he knows his three competitors will
+also keep prices up. Now, you have to know that or
+you'd cut them. And that's called conscious
+parallelism. And I had always thought that this
+Court had not said that that in and of itself is a
+violation of the Sherman Act.
+MR. RICHARDS: Well, Justice Breyer, we
+don't just allege conscious parallelism. We
+allege --
+JUSTICE BREYER: I know that, but if in
+fact all you have to do in order to bring a
+price-fixing case and get into discovery is to allege
+conscious parallelism and then add without further
+foundation, and we think there was a real agreement
+too, but there's nothing other than the conscious
+parallelism to back it up, now we've got just what I
+said, with the exception you might not win at the end
+of the day. What have you is a ticket to conduct
+discovery. Now, that's what's bothering the
+Department of Justice and so I'd like to know the
+answer to that problem.
+MR. RICHARDS: Well, Justice Breyer, the
+difference between that, a critical difference
+between that scenario and what we have alleged in
+this complaint is that we do allege in great detail
+that not entering into one another's territories
+would have been contrary to the interests of --
+JUSTICE SOUTER: But that does not help
+you with respect to the other claim, the claim that
+there was a conspiracy to prevent upstart competitors
+from coming in. There's no plus factor as I
+understand it alleged there, and I also understand
+that it would have been entirely in the interest of
+each of your defendants to keep the upstarts out and
+that there is no need for them to agree to do that.
+It would be the most natural thing in the world to do
+it. What do you say about that part of your case?
+MR. RICHARDS: As to that aspect of the
+case, paragraph 50 does allege two plus factors, but
+they are essentially allegations of common motive,
+which is a less strong, I'll grant you --
+JUSTICE SOUTER: Yes, but a common, isn't
+the common motive consistent, just as consistent with
+no agreement as with agreement? In other words, they
+didn't have to agree; their common motive was
+operative agreement or not?
+MR. RICHARDS: The important thing as to
+that aspect of the conspiracy is the Continental case
+in this Court, which said that you're not supposed to
+dismember -- it's an inappropriate way to approach a
+conspiracy to dismember it, look at one piece of it
+in isolation, evaluate it as though it's by itself
+and then wipe the slate clean at the end of that
+analysis, and that's essentially what the other side
+is trying to do repeatedly.
+JUSTICE SOUTER: No, what the other side
+is saying is that simply by alleging parallelism when
+it would be in the interest of each of the alleged
+conspirators to do just as you claim they are doing
+in the absence of an agreement, you have not alleged
+something that gets to the threshold of plausibility.
+That's their argument and I, I --
+JUSTICE SCALIA: I think, by the way, that
+that argument applies not just to the keeping out the
+upstart claim, but also to the not entering the other
+alleged conspirator s' fields of monopoly, if you
+want to put it that way, because if I, if I enter
+your field I know that you're going to enter mine.
+It just doesn't pay for me to do it. Yeah, I can
+make money, but I'll lose money. It seems to me
+perfectly natural for companies that have a certain
+geographic area in which they are the, the principal,
+the selected instrument and although they technically
+can enter somebody else's geographic area, they know
+that if they do it they will be subjected to the same
+thing. That is nothing more than conscious
+parallelism.
+JUSTICE SOUTER: You may reply to us
+jointly or severally, however you may want.
+(Laughter.)
+MR. RICHARDS: If I may, I'll try to pose
+a hypothetical that I think addresses Justice
+Souter's question and then, Justice Scalia, I'll try
+to address your question. Justice Souter, a good
+example would be suppose one alleges a conspiracy to
+rob a bank and to steal a number of getaway cars at
+the same time and one comes -- in order to get away,
+so that the conspirators couldn't be found at the
+site of robbing the bank. One could say, well,
+there's a reason to rob the getaway cars totally
+independent of the bank and without a conspiracy.
+Why do they need a conspiracy to steal a car? Why
+isn't that something that they wouldn't individually
+do?
+JUSTICE SOUTER: But the difference
+between that case and this is that the allegation
+with respect to the agreement to procure the getaway
+cars gets to a kind of specificity that is not
+present here. Here the allegation simply is parallel
+conduct to make it hard for the upstarts to get in.
+And at that general level the answer is, of course
+anyone in his right mind would want to make it
+difficult to let the upstarts in. There's no need to
+assume that they might have agreed on some matter of
+detail which is not essential to the scheme. This is
+a general characteristic of competition and
+resistance of competition.
+MR. RICHARDS: I understand, but the point
+I'm trying to make with the hypothetical is that what
+one does if one is just looking at the conspiracy to
+keep CLECs out by itself first, taking the secondary
+aspect of the conspiracy, putting it first and
+analyzing it in isolation, is like taking the getaway
+car theft, analyzing it in isolation, saying, well,
+they have a reason individually to steal the cars, so
+I guess that couldn't --
+JUSTICE STEVENS: Mr. Richards, can I ask
+you this question. Supposing that you were allowed
+to have discovery and each chief executive of the
+defendant companies got on the stand and said: I
+never talked to my, my competitors at all, I never
+seriously considered competing in the other, other
+company's territory for the reasons set forth in the,
+in your opponent's brief on the merits here. We
+never did agree. And you're able to prove the things
+you've alleged in the agreement. Would the, would it
+be appropriate to enter summary judgment against you
+on that testimony if you had no evidence of a
+specific agreement?
+MR. RICHARDS: In the context of summary
+judgment or at trial, we would be required to prove
+what we have now alleged.
+JUSTICE STEVENS: But my question is you
+can prove what you've now alleged factually, but they
+deny the existence of any agreement and they
+explained the reasons for it exactly as the lawyers
+did in this brief. Would you not lose on summary
+judgment?
+MR. RICHARDS: If we don't have proof at
+that point of what we've alleged here, we'd lose --
+JUSTICE SCALIA: After several years --
+JUSTICE STEVENS: Prove what you have
+alleged, in effect, except for the key allegation of
+agreement among the competitors. If you had no other
+evidence of that agreement, would you win.
+MR. RICHARDS: If we had proof that they
+actually acted against what would have been their
+self-interest in the absence of a conspiracy, we
+would satisfy then the Matsushita standard for
+summary judgment.
+JUSTICE GINSBURG: I don't understand
+acting in self interest. I mean, they might just
+decide apart from, you know, if they go into their
+territory they'll come into mine, that investing in
+this wired business isn't the best, the best bet for
+them. Maybe they want to get into the wireless
+business and think that's a better way to spend their
+money.
+MR. BARNETT: Surely it is possible to
+conceive of facts under which they would not have not
+conspired and they would have had a different motive,
+but that's not the legal standard under Conley versus
+Gibson.
+JUSTICE GINSBURG: But I'm questioning
+you. You say you meet the plus factor because they
+were acting against their self- interest, that a
+self-interested player in this league would have gone
+into the other's territory, and I'm questioning that
+by saying that they might have seen this whole area
+as not the best place to invest their money.
+MR. RICHARDS: I understand that. But we
+have alleged that as fact, Justice Ginsburg, and that
+fact and that allegation has to be treated as true
+under conventional pleading standards for purposes of
+a motion to dismiss. If we are unable to prove that
+fact when we get to summary judgment --
+JUSTICE STEVENS: You mean the mere fact
+that you have alleged something is against their
+self-interest is enough to make an issue of fact on
+whether it's against their self-interest?
+MR. RICHARDS: Yes, yes.
+JUSTICE STEVENS: They could have gone on
+the stand, they gave all the reasons in the red
+briefs -- or the blue briefs in this case, that say
+it's not against their self-interest; you'd say that
+would be a jury question?
+MR. RICHARDS: No, not at summary
+judgment. What I'm saying is that at the pleading
+stage to allege that, which is an allegation of fact,
+satisfies pleading standards. Just to allege it with
+testimony on the other side and no evidence to prove
+that allegation on summary judgment --
+JUSTICE STEVENS: Are you suggesting that
+you don't have to prove an actual agreement? You can
+merely prove conduct contrary to self-interest is
+sufficient?
+MR. RICHARDS: Conduct contrary to
+self-interest is a way of inferring actual agreement
+in the absence of direct evidence.
+JUDGE STEVENS: Do you agree you must --
+do you agree that you must prove an actual agreement
+among the defendants?
+MR. RICHARDS: There must be an inference
+of actual agreement, but the inference can be drawn
+from circumstantial evidence, and that's what
+Matsushita is all about.
+CHIEF JUSTICE ROBERTS: So then when we
+get back to the paragraph 51, let me start with your
+statement at the bottom half of that paragraph, that
+plaintiffs allege upon information and belief that
+they have entered into a contract, is a conclusion
+based upon your prior allegations, it's not an
+independent allegation of an agreement. It's saying
+because of this parallel conduct, because we think
+it's contrary to their self interest, therefore, they
+have agreed.
+MR. RICHARDS: Counsel presented it as
+though it's a complete summary of everything, but
+what it says is, and the other facts and market
+circumstances alleged above, and it's preceded by --
+CHIEF JUSTICE ROBERTS: But it's a
+statement of a conclusion based upon your allegations
+that precede it.
+MR. RICHARDS: Correct.
+CHIEF JUSTICE ROBERTS: It's not a
+statement that independently there apart from all of
+this, there's an agreement.
+MR. RICHARDS: Well, it's also an
+independent statement and allegation on information
+and belief, which is permitted under Rule 8, that
+there is agreement.
+JUSTICE ALITO: I guess if you had just
+alleged the last part of paragraph 51, plaintiffs
+have alleged, plaintiffs allege upon information and
+belief, et cetera, without the detail that you
+provided, would that have been sufficient?
+MR. RICHARDS: If you gave no context of
+what kind of a conspiracy you were alleging and what
+kind of scope it had, so that a court could balance
+--
+JUSTICE ALITO: But you omit all the
+allegations about parallel conduct and the other
+allegations that you think provide a basis for
+inferring a conspiracy from the parallel conduct, if
+you omit all that but you just include the last part
+of 51, would that be enough?
+MR. RICHARDS: If there isn't enough in
+the way of facts alleged to permit a court to
+understand what it is you're claiming in general
+terms happening, then you haven't satisfied Rule 8.
+I mean --
+JUSTICE SOUTER: What's the answer to
+Justice Alito's question in this case?
+MR. RICHARDS: Well, in this case we have
+provided, as the Second Circuit --
+JUSTICE KENNEDY: No. His hypothetical is
+all you've done is to allege the final sentence
+without the preceding clause, the five or six lines
+before there's a comma. That's out. All there is is
+the allegation of the conspiracy. Is that enough in
+this case?
+MR. RICHARDS: In this case with the
+allegations of the nature of the conspiracy that
+precede that sentence, it's enough.
+JUSTICE KENNEDY: No. The hypothetical is
+without the preceding clause. Is that enough --
+MR. RICHARDS: That sentence by itself --
+JUSTICE KENNEDY: Is that enough in this
+case for what Justice Alito asked, and I think we are
+interested in the answer that you make given this
+complaint in this case that we are faced with.
+MR. RICHARDS: I think that that would
+satisfy conventional pleading standards under Rule
+8(a). On the other hand, I don't think it would
+satisfy the Second Circuit's standard below, because
+the Second Circuit required enough facts to enable a
+court to wrap its mind around a complainant,
+understanding what it is you claimed happened. You
+don't have to prove your case as a complainant, you
+just have to --
+JUSTICE BREYER: I'd also like a clear
+answer, and I would like to go back to Justice
+Stevens' question because I'm not sure what you're
+thinking there. We have three steel sheet companies
+in the United States, no more. They sell at $10 a
+sheet. One day we have action in the case, a memo to
+the president of the company. He says Mr. President,
+if you cut your prices to $7 you will make even more
+money unless the others go along. And if they get
+there first, you will lose money. So whether they
+cut or not, you'd better cut your prices. Reply from
+the president: But if I don't cut my prices, they
+won't cut theirs, and we are all better off. That's
+your evidence. Do you win?
+MR. RICHARDS: That would depend on the
+vehicle --
+JUSTICE BREYER: There is no depend.
+That's the evidence. Do you win?
+MR. RICHARDS: If that's the evidence, I
+think I win.
+JUSTICE BREYER: All right. And you cite
+Matsushita for that?
+MR. RICHARDS: No. For that I would cite
+Judge Posner's decision.
+JUSTICE BREYER: If you're right, then I
+guess we could engage in this major restructuring of
+the economy, and if that's the law, I'm surprised
+they haven't done it, but maybe they have just been
+recalcitrant.
+MR. RICHARDS: Well, there's no major
+restructuring of the --
+JUSTICE BREYER: Well, because we have
+concentrated industries throughout the economy, I
+guess, or at least we used to, and I suppose that
+that's a perfectly valid way of reasoning for an
+executive in such a company, at least they teach that
+at the schools of government, and people who aren't
+really experienced in these things, but --
+MR. RICHARDS: Well, the way Judge Posner
+explains it in High Fructose is to say that it is
+possible to have an agreement without a moment where
+there's a statement of agreement. The participants
+in a conspiracy can possibly treat what one of them
+does as an offer, which another one can accept by
+following it, to satisfy that way of showing a
+conspiracy.
+JUSTICE BREYER: Okay, fine. Now, let's
+forget my immediate disagreement or not. Let's say I
+agree with you on this. Now we have our example
+right in mind. What other than the parallel to my
+example could one reading this complaint think you
+intend to prove?
+MR. RICHARDS: Well, Your Honor, the
+strongest -- plus factors that, in the absence of
+direct evidence of conspiracy at the outset of a
+case, which private plaintiffs will almost never have
+because people don't conspire in public parks. All a
+plaintiff can have is what are called plus factors
+under Matsushita, and the strongest of those plus
+factors is what has been alleged in great detail in
+this complaint of action against self interest. The
+case law recognizes that --
+CHIEF JUSTICE ROBERTS: But how do you
+tell? I mean, companies get proposals all the time.
+Here's a way you could make more money. You could
+all enter the market in some foreign country. The
+people decide, I mean, life is short and they've got
+certain objectives, and they don't have to do
+everything that an economist might think is in their
+economic self interest. I mean, what is the limiting
+self interest to that?
+MR. RICHARDS: This is different from that
+because this is a situation where when the
+Telecommunications Act was passed in 1996, Congress
+expected that the ILECs would compete in one
+another's territories as CLECs. The defendants
+pledged that they would compete in one another's
+territories at ILECs. They then for years in
+Congress complained that the CLECs who were trying to
+compete with them were given an unfair advantage in
+the terms and conditions on which they were permitted
+to --
+CHIEF JUSTICE ROBERTS: Is it an adequate
+response for the executive to say, I'm a little risk
+averse, I want to see how things work out over the
+next five years. They keep changing the laws, the
+regulatory environment. That's why I didn't jump in
+and compete?
+MR. RICHARDS: If they can prove that
+that's the reason why they didn't jump in and
+compete, then they have a nonconspiratorial reason
+for what they did.
+JUSTICE SOUTER: But if they don't do
+that, is it your argument that simply by behaving
+differently from the way Congress assumed when it
+passed the statute, that raises the plausible
+inference of violation?
+MR. RICHARDS: Within the other facts that
+I was identifying, there is a strong suggestion here
+that competition as a CLEC would have been, in the
+absence of the pattern of conduct that we allege
+here, would have been a profitable endeavor.
+JUSTICE SOUTER: Okay. But is part of the
+plausibility of that inference the fact, in your
+argument, the fact that Congress assumed that would
+happen?
+MR. RICHARDS: That's one factor that I
+point to among several to --
+JUSTICE SOUTER: But I mean, the
+congressional assumption is part of your case, in
+other words?
+MR. RICHARDS: It is.
+JUSTICE SOUTER: Yes.
+MR. RICHARDS: I believe that along with
+other factors such as the constant complaints to
+Congress about how CLECs had the better side of the
+deal than the ILECs, along with the pledges of the
+defendants that they would do, and that they didn't
+do.
+JUSTICE SCALIA: I used to work in the
+field of telecommunications and if the criterion is
+that happens which Congress expected to happen when
+it passed its law, your case is very weak.
+MR. RICHARDS: Well, Your Honor, that -- I
+certainly don't expect that that is the evidence that
+we would be relying on at trial or at summary
+judgment to support our case, but in our motion to
+dismiss we don't have to have the evidence to support
+our case.
+JUSTICE SCALIA: Well, you need what is
+called the plus factor, and I gather that you
+acknowledge that if I disagree with you that this,
+this parallel action seemed to be against the self
+interest of the companies, you no longer have a plus
+factor and you would lose.
+MR. RICHARDS: I don't think that the
+Court, if the Court comes to a conclusion on its own
+that the facts that we have alleged, which is that it
+would have been in their interest to do this in the
+absence of conspiracy, is wrong, then the Court is
+not following conventional pleading standards.
+JUSTICE SCALIA: So all you have to do to
+prove, to establish a plus factor is to say in your
+pleading, and there is a plus factor?
+MR. RICHARDS: Well, you have to say what
+it is.
+JUSTICE SCALIA: You have to say what it
+is, that's all, and even if it's implausible?
+MR. RICHARDS: Well, if it's implausible,
+that might be a different consideration.
+JUSTICE GINSBURG: Mr. Richards, didn't
+the Second Circuit say you don't need a plus factor?
+They said if you did, we think that the plaintiffs
+could show it, but the second sentence is you don't
+need a plus factor.
+MR. RICHARDS: That's correct.
+JUSTICE GINSBURG: And that can be wrong
+or right, but the Second Circuit was very clear that
+Rule 8 wants a plain statement of the claim and no
+plus factor.
+MR. RICHARDS: I agree with that, Your
+Honor, and my contention as to what the law is is
+that we are not required to plead plus factors. But
+the fact remains that we have, and that our factual
+pleading of plus factors has to be treated as true
+for purposes of a --
+JUSTICE ALITO: What if you pled more than
+you had to, and it's clear from what you pled that
+you were drawing an implausible inference? Can't the
+complaint then be dismissed for failure to state a
+claim?
+MR. RICHARDS: No, I don't believe that it
+can be if -- because the Court is not, the correct
+function of the Court under a Rule 12(b)(6) motion is
+not to be decided by whether it believes or is
+persuaded by the allegations in the complaint.
+JUSTICE ALITO: Well, let's take the Form
+9 where you take the form complaint for an automobile
+accident, and suppose what it says is, I was injured
+in an automobile accident at a particular place in
+time. I was hit by a compact car with Massachusetts
+plates. The defendant owns the compact car with
+Massachusetts plates. That's the complaint. The
+Court can't dismiss that for failure to state a claim
+when it's apparent from the face of the claim that
+you're, that the basis for suing the defendant is a
+totally implausible inference?
+MR. RICHARDS: Well, if the allegation is
+also made that the defendant was negligent, then I
+think it clearly satisfies the pleading standard
+under Form 9. I think it would be a more detailed
+complaint than the sample that comprises Form 9 of
+the rules.
+JUSTICE ALITO: Even if it reveals that
+the only basis for identifying this person as the
+defendant is the fact that the person has a
+Massachusetts license plate and a compact car?
+MR. RICHARDS: Yes, because that's more
+than nothing, and the rule in Form 9 contains
+nothing.
+JUSTICE GINSBURG: Well, it contains a
+time and a place. It's quite specific that there was
+an accident and that defendant, defendant of a
+certain name at a certain time and place negligently
+drove. What it doesn't tell you is the details of
+the, of what was negligent, but it certainly is
+specific in time and place and person, which is one
+of the -- one of the concerns, I mean, if you strip
+away everything, it seems that you have a suspicion
+that there may have been a conspiracy and you want to
+use a discovery process to find out whether or not
+that's true. Isn't that essentially what this
+complaint is?
+MR. RICHARDS: That is the situation that
+any plaintiff is going to be in in a horizontal
+conspiracy case in the sense that we don't know for
+certain that there was a conspiracy. We have
+observed market facts which are suggestive of a
+conspiracy and we allege that there was a conspiracy.
+Now under conventional standards, all we would have
+to do is allege that there was a conspiracy and say
+what it was. We wouldn't have to plead a basis to
+infer that we are correct or incorrect because that's
+not the analysis that Rule 12(b)(6) --
+CHIEF JUSTICE ROBERTS: But you don't
+think you have to prove that either? I mean, you
+don't think you have to prove anything more than what
+you've alleged in the complaint about the background
+context, the parallel conduct?
+MR. RICHARDS: If the Court -- if we were
+to prove to the satisfaction of the finder of fact
+that the conduct we have pointed to here was or would
+have been contrary to the interests of the defendants
+in the absence of a conspiracy, we were to prove that
+as distinguished from pleading, we would satisfy
+Matsushita. Now at that stage in the case, it's
+inconceivable that there won't be all kinds of other
+memos and, you know, real world things that will shed
+light on why the defendants internally think they did
+this.
+JUSTICE SCALIA: How much money do you
+think it would have cost the defendants by then to
+assemble all of the documents that you're going to be
+interested in looking at? How many buildings will
+have to be rented to store those documents and how
+many years will be expended in, in gathering all the
+materials?
+MR. RICHARDS: Well, to address that
+concern, which we share, because we don't gain
+anything with Matsushita. At the end of the road in
+the case, we don't gain anything by pursuing a case
+for years in an unnecessarily burdensome way if we
+are not sure that it's going to prevail. So we
+proposed in this case a phased discovery process,
+pursuant to which you would first have discovery into
+conspiracy, and then the Court would have an early
+opportunity for a Matsushita motion and we either
+carry the day at that point or we don't. That's
+discovery.
+JUSTICE GINSBURG: At what point does it
+get characterized as a class action, before this
+discovery or after?
+MR. RICHARDS: It's at the Court's
+discretion when to entertain the motion for class
+certification. In this particular case the
+defendants, a couple of the defendants proposed that
+we include in that phased discovery proposal class
+certification as an additional subject of that first
+phase of discovery, and we would be amenable to that
+as a compromise. But the point, getting back to
+Justice Scalia's point, that discovery as to whether
+there was a conspiracy in this case in order to
+satisfy that first phased analysis, would not need to
+be terribly burdensome and wouldn't necessarily be
+more burdensome than all kinds of other cases. It's
+really a very targeted issue. I think it's actually
+an appropriate way to deal with cases of this kind
+and it's actually a way that the Court has proposed
+dealing with similar issues in the past in the
+Anderson versus Creighton case.
+CHIEF JUSTICE ROBERTS: Well, how would it
+be focused if you're talking about whether it's in
+their economic interest? You would have to say why,
+why didn't you enter into this particular realm of
+competition and they would say, well because we were
+doing other things. We had other areas that we were
+focusing on. And they would have to document all
+that to your satisfaction.
+MR. RICHARDS: We'd -- we would ask for
+production of documents reflecting their thinking
+process about entering into one another's
+territories. And that would be very enlightening.
+And after we get those documents we would have a much
+clearer idea and be able to share with the Court a
+much clearer idea of the entire picture of a kind
+that we can't have at the 12(b)(6) stage.
+Thank you.
+CHIEF JUSTICE ROBERTS: Thank you
+Mr. Richard, Mr. Kellogg, you have four minutes
+remaining.
+REBUTTAL ARGUMENT BY MICHAEL KELLOGG,
+ON BEHALF OF PETITIONERS
+MR. KELLOGG: Thank you. Your Honor.
+I have three quick points that I would
+like to make. First following up on Justice
+Ginsburg's point, the private plaintiffs do not have
+an authority to issue purely investigative
+complaints. The Department of Justice of course can
+issue civil investigative demands, but for private
+plaintiffs the price of admission even to discovery,
+particularly to the sort of massive discovery at
+issue here, is to establish some basis for thinking
+the plaintiff -- the defendants have done something
+wrong. In that regard, in the Trinko case, the
+plaintiffs there specifically alleged that the
+defendants were engaged in actions against self
+interest by not cooperating with new entrants. And
+what the Court did is it went behind that mere
+allegation, looked at the complaint, looked at facts
+concerning the industry, looked at the statute,
+regulatory rulings and said that's ridiculous. Of
+course it is in the self interest of the incumbents
+to not go out of their way to cooperate with new
+entrants to allow them to take business away.
+Now the flip side, the second half of the
+conspiracy that the plaintiffs alleged here is our
+failure to enter new markets. And it's important to
+recognize that they are suggesting we should have
+relied upon a regulatory regime that we were
+successfully challenging in the courts. We got it
+struck down three separate times, and it was simply
+not a viable business opportunity in light of those
+facts and there is no reason to suggest that it was
+anything but in the self interest of the defendants
+to decline to enter these markets. Even conscious
+parallelism is not sufficient to state a claim under
+the antitrust laws. And at best, that is what we
+have here, and as a consequence they failed to state
+a claim.
+If the Court has further questions? I
+have nothing further.
+CHIEF JUSTICE ROBERTS: Thank you,
+Mr. Kellogg. The case is submitted.
+(Whereupon, at 11:02, the case in the
+above-titled matter was submitted.)
+address 36:14 12:10,14,20 allocated 4:15 36:2,4 39:24
+addresses 36:12 22:14,16 23:23 allowed 37:23 argue 21:24
+27:9 47:18 30:16 37:1,4 amend 17:3 argument 1:13
+35:15 22:5,10 40:22 41:18 amicus 1:20 2:7 3:6 5:24 9:22
+41:4 admission 56:20 42:9 43:15 17:24 28:4,6 9:23 17:23
+48:11 advantage 47:15 51:23 57:4 amount 14:10 20:11 27:22
+53:19 advised 23:16 allegations 8:9 ample 17:2 35:17,19 48:4
+affirmatively 34:20 41:17 analysis 35:9 argument's 26:1
+46:4 agree 16:1 18:19 43:18 51:11 analyzing 37:18 asked 17:16
+52:13 38:5 41:5,6 8:21,22 9:4 Anderson 55:15 aspect 34:18
+agreed 4:14 19:24 22:12 announce 10:18 assemble 54:3
+15:19 22:15 25:7 29:5 another's 31:2 assiduously 5:17
+10:5,13 37:9 41:21 34:5,19 40:19 56:1 Associated 3:16
+20:6,17 agreement 6:9 40:20 41:15 answer 29:3,9 5:12 13:7
+24:1 6:15 10:25 42:14 43:12 34:1 37:6 43:7 assume 37:9
+33:1,11 17:5,12,19 48:11 53:4,6 43:25 44:12 assumed 19:15
+18:8,24 20:16 alleged 5:9,11 antitrust 3:12 48:5,15
+18:7,9 27:3,5 29:16 18:19 22:21,22 26:22 29:14 attaching 18:7
+19:11 30:5,9,12,13 22:23 23:2,13 31:6,11 57:22 attacking 16:4
+21:1,4 30:16 33:19 25:3 29:15 Anza 3:16 attention 3:23
+22:21 34:24,24 35:1 30:2,3,13 apart 30:16 39:8 Attorney 1:18
+35:15 37:2 31:15,20 34:4 42:6 authority 26:5
+27:4 38:6,9,15,24 34:12 35:13,15 apparent 51:20 32:12 56:17
+32:19,25 38:25 40:24 35:21 38:6,12 Appeals 10:16 automobile 29:6
+46:21 41:3,6,9,18 38:14,20,23 APPEARAN... 29:13 51:13,15
+54:21 42:7,11 46:1,2 40:2,8 41:25 1:15 Avenue 24:19
+40:24 43:24 51:2,12 57:11 apply 25:13
+alleges 4:24 20:7 appreciate 18:9 B
+57:22 carry 54:18 57:15 clarify 20:5
+better 39:12 37:3,20 23:15 33:1 54:24 55:2
+big 29:8 7:10,12,20 8:4 characteristic clear 6:21 8:11
+18:1 bothering 33:24 16:11,23,24,25 54:21 25:5 44:11
+19:19 bottom 41:14 20:5 25:13,21 chief 3:3,8 17:21 50:18 51:3
+21:3 bought 8:24 26:13 28:5,7,9 18:1 23:22 clearer 56:4,5
+Breyer 7:10,17 28:13 29:2,12 24:3 27:19,24 clearly 28:10
+24:2 7:24 9:3,11,14 31:25 32:10,16 30:4,7,15,19 31:1 51:25
+9:18 13:9,16 32:16 33:17 31:5,14 37:24 CLEC 31:3
+14:4,13 24:8 34:17,19 35:3 41:12 42:1,5 48:10
+26:10,15 24:16,24 25:2 37:1 40:14 46:23 47:18 CLECs 37:16
+27:1 25:6,9,12,15 43:8,9,16,17 53:10 55:16 47:11,14 49:1
+39:14 25:20 26:12,16 43:24 44:1,9 56:8 58:2 clue 26:4
+42:2 32:5,15,23 48:20 49:8,12 circuit 18:4 21:21
+19:16 44:11 45:2,6 54:11,11,14,25 29:23,25 31:17 combination 4:2
+24:14 45:10,17 46:7 55:7,15 56:24 32:18 43:10 4:11
+51:21 brief 26:24 28:4 58:3,4 44:6 50:12,18 combined 22:17
+53:7 28:6,9,20,22 cases 5:3,12 Circuit's 44:5 come 7:20 39:9
+38:4,17 10:15 14:24 circumstances comes 36:17
+3:7 broken 6:22 causation 6:6 circumstantial coming 34:11
+17:24 buildings 54:4 8:22 13:6 27:13 41:10 comma 43:14
+56:12 burden 30:14 cause 6:5 8:14 cite 8:3 45:6,8 common 34:20
+business 11:16 central 5:23,23 civil 5:17 56:19 51:17 52:7
+39:12 57:9,17 certain 18:15 4:20 5:21 6:3 20:20 21:12
+26:10 47:3 52:14,14 9:13 13:5 37:25 44:14
+48:24 C 53:2 19:25 27:17 46:24 49:19
+C 2:1 3:1 certainly 11:1 34:9,9 35:14 company 44:17
+24:6 car 7:6 36:22 52:16 57:21,24 compete 4:14
+careful 12:16 challenging 43:4 47:15,23 48:1
+38:2 concerning 57:5 11:15 12:17,20 copied 25:4 criterion 19:8
+10:8 37:11 conclusion 5:14 30:25 31:12,18 24:18 31:7,8 critical 34:3
+48:10 6:3,8 9:1 11:25 31:24 34:10 Corporation 1:4 curiae 1:20 2:7
+41:16 42:2 35:3,6 36:15 3:4 17:24
+5:6 6:9 conclusions 8:9 37:17 39:3 15:17 customers 4:15
+23:21 10:19 42:18,24 43:15 correct 5:2 7:2 cut 32:3 33:5,8
+34:10 conditions 47:16 46:15 49:25 15:5 19:2 21:3 44:23
+conduct 4:5 10:4 52:20 53:1,2,4 29:25 30:3
+12:25 14:25 54:16 55:7 51:8 53:8 D 3:1
+18:19 19:6,17 conspirator Counsel 41:22 32:10
+6:17 7:12 31:1 33:23 conspirators 7:9 couple 55:1 27:3 33:23
+9:19 37:5 40:25 30:24 31:20 course 4:5 8:10 44:16 54:18
+41:2,19 42:22 35:14 36:18 11:19 24:10 dead 11:20
+15:19 42:24 48:11 conspire 46:17 37:6 56:18 deal 49:2 55:12
+18:6,18 53:14,17 conspired 4:7 57:7 dealing 6:1
+20:6 conflated 28:14 39:16 courses 14:24 14:24 55:14
+23:5,9 conflict 32:18 constant 48:25 court 1:1,13 3:9 decide 39:8 47:2
+24:20 confuses 28:18 contains 52:9,11 3:13,18 5:13 decided 51:10
+26:8 29:5 Congress 47:9 contention 6:1,6 8:7,22,25 deciding 21:14
+30:14,25 47:14 48:5,15 50:22 11:11 14:12,24 decision 8:4
+32:3 49:1,7 context 6:13,18 15:6 16:8 15:4 18:4,16
+44:1 congressional 6:20 7:3,4 12:7 17:19 18:2,22 19:20 26:11
+51:5 48:20 30:22,23 38:10 19:3,7,14,25 45:9
+Conley 39:17 42:17 53:14 20:5 27:15,25 declaration 4:23
+53:13 conscious 21:23 Continental 28:2,17,23 decline 57:20
+32:8 33:8,13 35:3 32:18 33:10 defend 31:17
+48:25 57:20 41:16 43:3 44:7 9:17 13:21
+consciously Contractors 49:22,22,25 16:12 19:9
+consideration 32:20 34:7 57:3,25 51:24 52:6,13
+considered 38:2 53:18 57:15 defendants 4:4,7
+33:4 34:23,23 53:5 21:22 26:10 34:14 41:7
+conspiracy 4:2 cooperate 57:8 28:18 54:23 47:11 49:3
+56:23 46:8 Dura 3:13 5:11 56:1 exclude 32:22
+discovery 15:3 6:4 8:11,13,17 entertain 54:24 executive 37:24
+33:17,24 37:24 13:6 20:13 32:12 56:5 existence 38:15
+23:10 discussing 22:25 early 54:16 6:10 expended 54:6
+35:6 47:5 55:18 47:22 experienced
+32:11 40:5 49:13 21:24 32:9 ESQ 1:16,18,21 explains 45:25
+56:18 51:19 economy 18:10 2:3,6,10,13 expressly 8:7
+45:2 19:13 45:12,18 37:10 extent 13:11
+53:20 effort 8:1 22:20 50:3 face 23:4 31:19
+46:20 56:3 emphasized evaluate 35:7 fact 5:18 6:8,15
+36:25 2:10 27:22 28:13 14:20 15:10 14:14 22:16,18
+dozens 6:10 endeavor 48:12 22:10 27:13,14 40:2,3,6,7,9,19
+29:12,12 Dr 7:13 engage 17:6 38:8,25 40:21 48:14,15 50:24
+47:7 draw 6:16 9:2 45:11 41:4,10 44:24 52:6 53:16
+11:3,17 14:12 engaged 4:6 45:3,4 46:15 factor 30:21
+51:4 enlightening 28:10 50:3,4,12,15
+17:16 19:18 enter 23:20 exact 8:20 factors 34:19
+12:17,19 driver 7:6 36:4 38:7 47:1 38:16 48:25 50:23,25
+41:4 driving 29:6 55:19 57:12,20 example 6:4,18 facts 5:13,20,22
+drove 6:23 entered 4:11 8:3 15:11 6:17 8:23 9:15
+49:17 24:19 25:16 entering 31:1 36:15 46:9,11 11:7 14:9
+20:1,7 focused 55:17 general 1:18 42:12 45:11,19 identifying 48:9
+21:6,20 focusing 55:22 3:17 5:12 9:25 guidance 28:3,5 52:5
+following 7:12 13:7 26:21 guise 8:9 identities 30:2,8
+24:13 13:10 46:5 28:4,6,9,22 ILECs 31:3
+30:13 50:1 56:15 37:6,11 43:4 H 47:10,13 49:2
+39:15 foot 7:12 generally 30:22 half 32:6 33:3 illegal 30:2
+43:3 forbidden 19:6 generic 20:8 41:14 57:10 immediate 46:8
+48:8 19:17 geographic 30:1 hand 11:15,16 implausible
+53:3 forces 18:11 30:8 31:21 31:24 44:4 31:13 50:8,9
+foreign 47:1 36:2,4 happen 29:18 51:4,22
+50:24 15:24 46:8 36:20 37:2,18 49:7 35:2 57:12
+formulation 40:2 50:11,17 hard 37:5 55:2
+forth 30:1,5,9 Ginsburg's hear 3:3 27:21 inconceivable
+forward 16:9 give 15:22 16:6 21:19 incorrect 53:8
+33:19 given 32:11 45:25 independent
+35:23 four 28:1 32:1 16:18 hold 18:5,13 independently
+56:9 go 16:9 21:19 holding 15:15 32:20 42:6
+52:21 57:25 58:1 good 10:20 21:8 horizontal 52:25 9:24
+37:16,17 gap 8:25 great 34:5 46:20 hypothetical individual 6:21
+54:15 garden 4:24 grocery 31:7,9 36:12 37:14 individually
+56:15 gasoline 31:25 grounds 3:25 43:11,20 36:23 37:20
+33:4 57:5 37:18,19 29:20 30:4,7 8:10,18 16:1012:12
+56:17,19,22 32:11,15,23 key 30:3 38:23
+14:11 issues 55:14 33:12,15,25 kind 21:2 27:4
+17:16 34:2,8,22 31:22,23 37:38:8,11 9:1
+41:8,9 J 35:11,18 36:8 42:18,19 55:12
+39:17
+51:4 J 1:21 2:10 36:12,13,14,25 56:5 let's 8:23 46:7,8
+27:22 37:22 38:13,21 kinds 21:20 51:12
+joint 3:25 40:2,7,12,23 55:10 license 52:7
+Judge 41:5 45:9 42:12,21 43:7 15:16 21:4light 4:5 6:24
+53:24
+41:15 11:20 13:2 45:2,6,10,17 29:2,9 32:1,9
+15:3 19:13 46:7,23 47:18 33:7,15,25limited 24:17
+25:17 39:5 40:6,18 49:5,15 50:2,7 39:8 53:1,23
+51:14 40:22 49:12 50:11,17 51:2 knows 33:6 21:20 22:19
+jury 40:16 53:10 54:1,20 L lines 43:13
+6:23 7:2,3,10 K large 15:17 33:5 28:16
+35:13 9:18,21 10:10 47:21 law 3:12,15 8:2 longer 49:19
+41:20 10:20 11:6,19 keeping 35:19 11:11,12 13:13 look 8:23 16:24
+47:5,6 12:1,8,12,19 Kellogg 1:16 2:3 13:24 15:7,7 21:16 25:2
+55:18 12:23 13:9,16 2:13 3:5,6,8 21:17,17,19 35:6
+14:4,13 15:2 4:18,20 5:1,10 22:18,19 23:15 looked 8:12 57:4
+16:23 17:8,11 7:2,15,23 8:3 26:21 28:14 looking 26:7
+18:20 19:1,19 9:12,16,20 46:22 49:8 lose 35:25 38:17
+20:2 23:3,4,12,22 12:15,21 13:4 57:22 loss 6:5 8:22
+23:22 24:3,8 13:15 14:1,6 lawyer 17:5 lost 13:6
+26:19,23 27:1 56:9,11,13 league 32:16 M
+41:24 2:3,13 3:6 necessary 5:19 29:18 17:17 18:7,9
+53:3 56:11 need 15:9 20:14 oil 32:1 18:19,22 19:24
+6:10 57:12 46:10 27:2 34:15 29:22 46:7 21:7,11 22:21
+minds 29:20,21 36:22 37:8 48:13 23:2,2 27:4
+52:7 mind-boggling 55:8 once 14:17 21:5 37:4 41:19
+14:23 minimally 8:6 16:25 29:6 opponent's 38:4 21:23 25:24
+30:22 minutes 56:9 negligent 7:1,14 opportunity 32:8 33:9,13
+41:11 missing 9:15 51:24 52:16 17:3 54:17 33:18,21 35:12
+46:19 model 25:4 negligently 6:23 57:17 36:7 57:21
+54:10,17 moment 29:14 9:8 13:17 opposed 17:5 parameters 30:1
+37:9 moments 29:19 24:19 25:17 opposite 28:5 parrot 10:17
+Monday 1:10 52:14 oral 1:13 2:2,5,9 part 4:22,23
+35:25,25 39:13 38:1,5 46:16 27:22 42:13,25 48:13
+20:19 46:25 54:1 24:9 57:2,8,12 15:13,24 16:2 participant 7:5
+28:25 monopoly 35:21 NHL 32:16 order 3:19 33:16 participants
+39:7 40:7 Monsanto 30:23 nine 20:20 21:12 36:17 55:7 6:21 7:9 16:18
+46:24 months 20:22 27:5 ordinarily 14:1 30:3 46:2
+48:19 motion 14:2 nonconspirato... 32:21,23 particular 11:7
+53:11 16:15 17:1 48:1 ordinary 11:16 21:7,22 27:3
+49:12 51:9 notice 15:22 outset 28:15 55:19
+39:16 number 15:17 O'Connor 7:3 passage 18:21
+N N.Y 1:21 P passed 47:9 48:6
+name 52:14 O page 2:2 3:24 pattern 48:11
+57:3 nationwide obvious 31:19 12:22 22:24 47:2
+natural 34:16 occurred 14:21 42:13 36:1 45:20
+nature 43:18 October 24:18 10:8 11:13,14 13:22 16:4
+plate 52:7 19:5 39:14 profitable 48:12 questions 17:20
+15:8 plausibility possibly 46:3 38:19 39:1 quick 56:14
+18:17 19:7,21 potential 23:21 proposal 55:2 quite 11:4 14:7
+plausible 19:5 43:19 55:1,13 quoted 4:22
+player 39:22 preceding 43:13 30:12 38:5,11 R
+5:22 50:23 precisely 13:10 40:21,24,25 radical 33:1
+2:4,8 6:1 19:5,12,16 prepare 15:22 50:3 53:11,12 raises 48:6
+3:7 17:25 28:11,12,18 present 28:17 53:16,19 ran 13:13
+32:17 40:4,18,20 37:4 proved 18:23 range 11:12
+44:3 50:1,4,25 presented 41:22 20:1 15:8
+pleadings 9:24 44:17,22 27:10 42:23 19:19 32:24
+27:25 5:6 6:9 34:10 provides 14:8 46:11
+16:13,14 plus 30:21 34:11 prices 32:1,3 proving 30:13 realm 55:19
+23:16 34:19 39:20 33:5,7 44:18 proximate 6:5 reason 13:1 16:8
+26:3 46:14,18,19 44:21,22 8:14,21 24:6,14 27:15
+51:15 49:16,19 50:3 price-fixing public 46:17 36:20 37:20
+50:4,12,15,20 33:17 purely 56:17 47:25 48:1
+16:11,12 17:18 19:15 principle 15:6 pursuant 54:15 22:13
+46:18 26:1,25 29:24 prior 41:17 pursuing 54:11 reasonably
+56:23 37:13 38:20 private 46:16 put 13:12 35:22 20:15 21:9,15
+5:14 6:5 55:5,6 56:16 probably 25:18 putting 37:17 reasons 38:3,16
+8:5 11:18 pointed 53:17 problem 14:3,6 40:13
+14:11 points 56:14 14:9 28:2 34:1 Q REBUTTAL
+16:5 17:2 portions 18:16 Procedure 5:17 question 3:18 2:12 56:11
+41:15 pose 36:11 process 52:21 10:6 22:17 recalcitrant
+46:16 position 10:7,9 54:14 56:1 23:4,23 36:13 45:14
+56:16,20 10:14 11:10 procure 37:2 36:14 37:23 recite 6:2
+57:11 29:2 produced 17:7 38:13 40:16 recites 5:1
+30:14 possible 18:24 55:25 39:19,23 46:22
+1:22 2:11 road 54:10 19:24 20:14 sense 31:13,19
+responsible 9:17 ROBERTS 3:3 Scalia 15:12 4:23,24 5:1
+restructuring 31:14 41:12 26:23 27:1 57:16
+57:6,14 resulted 10:12 58:2 49:5,15 50:2,7 29:25 30:5,8
+Richards 1:21 10:17 12:16 scheme 37:10 share 54:9 56:4
+40:1,11,17 s 2:1 3:1 35:21 section 18:5,18 short 47:2
+44:25 45:4,8 53:16 55:23 securities 3:15 showing 19:9
+44:6 47:7,24 48:8 43:5 seek 6:16 11:2 shows 5:21
+48:17,22,24 satisfies 40:20 17:8 side 25:24 35:9
+18:17 50:11,16,21 satisfy 29:7 39:4 selected 36:3 49:1 57:10
+51:7,23 52:8 44:3,5 46:5 self 39:7,21 similar 55:14
+54:8,23 55:24 saying 9:19 10:1 47:5,6 49:18 simply 10:3,8,10
+37:2 31:16 37:7 26:2 35:12 self-interested site 36:19
+6:10 50:18 40:18 41:18 sell 44:15 52:24
+standard 8:11 48:9 49:12,13 tend 32:21
+51:25 subject 55:3 51:14 territories 31:2
+11:6 40:4,20 44:3 submitted 58:3 Supposing territory 38:3
+20:9 50:1 53:5 58:5 37:23 39:9,23
+35:11 start 21:6 41:13 substance 4:9 Supreme 1:1,13 test 28:18,23
+state 3:19 4:16 substantive 3:12 sure 19:11 44:13 testimony 38:8
+48:3,13 4:20 13:5 31:6 3:14 11:10 54:13 40:21
+51:5,19 57:21 15:6,7 21:16 surely 24:11 Thank 17:21
+14:8 8:23 11:23 suffered 8:16 21:6 theirs 44:23
+12:10,13,20 sufficient 6:2 survive 18:6 thin 13:21
+18:18 17:9 41:14 12:3,5 13:1,5 20:6 thing 9:14 34:16
+25:8 42:2,6,9 46:2 14:20 16:22 suspicion 52:19 35:2 36:6
+38:9 50:19 22:3 23:8,18 suspicious 21:7 things 14:18
+states 1:1,14 4:3 24:11,12 41:1 Swierkiewicz 38:5 45:23
+23:1 20:4 23:25,25 suggest 12:17 55:21
+31:5 44:15 16:5 25:8 T think 3:10 7:15
+statute 48:6 57:5 suggested 27:5 take 23:20 25:13 8:17,20 16:21
+37:20 40:23 57:13 57:9 30:3 32:9
+15:10 steps 10:22 suggestive 53:3 32:20 36:12 39:12
+Stevens 4:8,19 suing 51:21 talk 18:16 41:19 42:23
+10:10 11:19 summarizes talking 16:3 45:5 46:11
+40:19 stop 6:24 17:3 tell 15:16 26:7 Third 24:19
+17:23 47:14 view 10:2,4,15 word 5:18 16:2 11:02 58:4
+10:1 turns 18:17 24:4 25:18 12:13 34:24 53:9 56:6
+19:2,3,6 two 34:19 32:13 48:21 12(e) 14:2 17:1
+26:23,24 Twombly 1:7 violated 10:4 work 47:20 49:5 14th 24:8,19
+32:10 3:5 violation 4:16 world 34:16 15 7:13
+4:25 10:13 53:23 17 2:8
+57:16 18:10 48:7 wouldn't 20:19 1996 47:9
+unable 40:5 55:9 2
+13:22 understanding 47:20 52:20 wrong 16:7 19:2 27 1:10 2:11
+44:8 wants 50:19 49:25 50:17 3:24
+21:11 unfair 47:15 warrants 5:14 56:24
+25:23 uniform 10:15 Washington 1:9 3
+27:6,18 union 13:7 1:16,19 X 3 2:4
+United 1:1,13 Wasn't 15:2 x 1:2,8
+18:3 way 8:18 17:13 4
+46:24
+44:15 19:8 35:5,18 Y 40 33:2
+52:12,14
+unlawful 20:16 35:22 39:12 Yeah 35:24
+25:16 5 28:12
+33:2 50 33:2 34:19
+47:13,21 51 3:23 22:24
+54:12 54:12 55:12,13
+41:13 42:13
+51:22 35:20 went 6:24 57:3 8
+we're 29:1 $10 44:15
+50:25 38:20 0 8(a) 44:4
+vague 26:2 44:24 45:3,5 1 9 6:18,22 16:16
+18:5,18 20:5
+40:3 variety 4:24 wireless 39:11 22:1,19 27:16
+52:22 vehicle 45:1 wish 5:15 15:13 10 16:4,20 20:21

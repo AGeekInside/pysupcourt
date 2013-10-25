@@ -1,0 +1,1707 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+PLAINS COMMERCE BANK, :
+Petitioner :
+v. : No. 07-411
+LONG FAMILY LAND AND :
+CATTLE COMPANY, INC., :
+ET AL. :
+- - - - - - - - - - - - - - - - - x
+Washington, D.C.
+Monday, April 14, 2008
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 10:07 a.m.
+APPEARANCES:
+PAUL A. BANKER, ESQ., Minneapolis, Minn.; on behalf
+of the Petitioner.
+DAVID C. FREDERICK, ESQ., Washington, D.C.; on behalf
+of the Respondents.
+CURTIS E. GANNON, ESQ., Assistant to the Solicitor
+General, Department of Justice, Washington, D.C.;
+on behalf of the United States, as amicus curiae,
+supporting the Respondents.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+PAUL A. BANKER, ESQ.
+On behalf of the Petitioner 3
+DAVID C. FREDERICK, ESQ.
+On behalf of the Respondents 25
+CURTIS E. GANNON, ESQ.
+On behalf of the United States, as amicus
+Curiae, supporting the Respondents 44
+REBUTTAL ARGUMENT OF
+PAUL A. BANKER, ESQ.
+On behalf of the Petitioner 55
+P R O C E E D I N G S
+(10:07 a.m.)
+CHIEF JUSTICE ROBERTS: We'll hear argument
+first this morning in Case No. 07-411, Plains Commerce
+Bank versus Long Family Land and Cattle Company.
+Mr. Banker.
+ORAL ARGUMENT OF PAUL A. BANKER
+ON BEHALF OF THE PETITIONER
+MR. BANKER: Mr. Chief Justice, and may it
+please the Court:
+Tribes lack inherent sovereign power over
+nonmembers. This court in the Montana decision
+recognized two narrow exceptions based on the underlying
+principles of protecting tribal self-government and
+controlling internal relations. Neither of those
+exceptions applies here.
+The question today is whether the tribal
+court possessed adjudicatory jurisdiction to hear the
+Longs' discrimination claim against the nonmember bank.
+It did not. There was no qualifying consensual
+relationship here of the qualifying kind. There was --
+adjudication is not another means of regulating
+nonmember defendant conduct.
+JUSTICE SCALIA: We've said that regulation
+does include regulation by adjudication for purposes of
+-- of Federal pre-emption laws. Why would it -- why
+would it be different for -- for Indian law.
+MR. BANKER: Well, I think the reason that
+it would be different for Indian law is the way that it
+bears on the nonmember defendants' rights. The -- if
+you look at what Montana was based on and the underlying
+principles, I think it is important to recognize that
+nonmember defendants in tribal court, finding themselves
+there to adjudicate, that is something that I think was
+contemplated by the second exception, but not the first
+exception.
+The reason that I think that is that in
+carving out two exceptions --
+JUSTICE SCALIA: Yes, I understand, but I'm
+just talking about the first one now. You say it is not
+-- it is not regulation, right, under the first? And
+that's -- that's the only point I'm addressing. Why
+should regulation through a process of adjudication not
+be considered regulation for purposes of our Indian law
+where -- whereas, we have made clear in several cases
+that it does constitute regulation for purposes of
+Federal pre-emption under statutes that pre-empt state
+regulation?
+MR. BANKER: I think that it is different in
+the tribal-law context because in articulating the --
+the first exception when the Court said: Regulate
+nonmember conduct through other means, if the Court had
+meant to say "adjudication," I think the court could
+have articulated that there. And I think it's --
+JUSTICE SCALIA: We could have said the same
+thing about the Congress. Congress just said -- just
+said "regulation," and we interpreted that term to
+include common-law adjudication.
+MR. BANKER: When I look at the -- you know,
+at the -- and compare the language in the first Montana
+exception of regulation to the language in the
+Constitution under the Indian Commerce Clause, I see a
+parallel there between saying that, you know, there are
+certain types of legislative authority that tribes may
+exercise over nonmembers versus exercising the power of
+the courts.
+JUSTICE SOUTER: Well, are you saying that
+the -- that the regulatory authority could be broader
+than the adjudicatory authority?
+MR. BANKER: I think that has been well
+established: That the regulatory --
+JUSTICE GINSBURG: Can you give any example
+of that? I mean, I found that rather surprising your
+brief. The Montana -- a clear case that Montana talks
+about is tax, the imposition of a tax. Well, if a
+jurisdiction has authority to tax, then surely it has
+authority to sue to collect that tax. So I am not aware
+of a case where a State or tribe or nation has authority
+to regulate, to legislate, but lacks authority to
+enforce that regulation. And if you have an example of
+that, I would appreciate being enlightened.
+MR. BANKER: Well, I think that there's a
+tension between what the Court said in the Strate case,
+where it said, presumptively, if there is the power to
+regulate, then there is presumptively the power to
+adjudicate. That, I believe, was called into question
+by the second footnote in the Nevada versus Hicks
+decision, which questioned, in my mind, whether or not
+there was any adjudicatory power at all. And I think
+that is the question that the Court has to determine, is
+whether --
+JUSTICE GINSBURG: What was the regulation
+that was authorized but unenforceable in the courts? I
+don't recall -- Montana -- Hicks having said anything on
+that subject.
+MR. BANKER: Well, there was a -- the footnote
+number 2 in Hicks at least called into question about
+whether or not -- you know, I think it's been made clear
+by the Court's opinions that -- that adjudicatory
+authority is certainly no broader than legislative
+authority. The question raised by the second footnote
+in the Hicks opinion, in my mind, is whether or not
+adjudicatory authority exists at all in the first
+exception.
+CHIEF JUSTICE ROBERTS: Well, what is a tribe
+supposed to do? Let's say there is a gas station on the
+reservation. The tribe has a tax. Anybody doing
+business -- it's, you know, 1 percent of gross proceeds.
+And at the end of the year the gas station owner says,
+well, I'm just not going to pay it. What do they do
+then?
+MR. BANKER: Well, I think that there is a
+difference between situations where there is a clear
+ability to regulate and where you would move to enforce
+that regulation and a situation where you are
+adjudicating, you know, separate claims under the common
+law of the tribe.
+CHIEF JUSTICE ROBERTS: So you think there
+would be -- there would be tribal-court jurisdiction in
+the case I hypothesized?
+MR. BANKER: I don't think so. I think the
+nature of the first exception is a consensual
+relationship. And I think if there is going to be an
+ability to regulate in the first instance, then the
+regulation needs to be clearly consented to.
+CHIEF JUSTICE ROBERTS: So your case, your
+entire case, is based on whether or not there's consent
+to dealing with the tribe by the nonmember?
+MR. BANKER: Well, I think it goes further
+than that. If I could -- you know, in your example of
+the taxation, if there was clear consent to be taxed --
+JUSTICE GINSBURG: Who would consent to be
+taxed? I mean the tax is --
+(Laughter.)
+JUSTICE GINSBURG: It's being imposed. But,
+say, at the gas station, they don't ask you when you
+drive up: Now do you consent to the tax?
+MR. BANKER: Well, but by engaging in commerce
+on the reservation and by, you know -- and this Court
+has addressed it in a number of taxation decisions
+regarding Indian law, the -- there is a quid pro quo for
+--
+JUSTICE GINSBURG: But that's different from
+consent. You can say I don't consent as loudly as you
+like and as often as you like, and you still have to pay
+the tax.
+MR. BANKER: But that -- you know, in the
+taxation context, I think that is the price of doing
+business.
+JUSTICE SOUTER: No, but if that kind of
+implicit consent applies in the tax context, I don't see
+why in theory it doesn't apply in the situation we've
+got here.
+MR. BANKER: Well --
+JUSTICE SOUTER: If somebody is going to do
+business with the tribe, with tribal members, in a way
+that affects the tribe on the reservation, it makes just
+as much sense to say, well, they implicitly consent not
+to discriminate against tribal members because of their
+Indian status.
+MR. BANKER: I think it is, you know, that
+consent under the first Montana exception can't be
+implicit. I think it needs to be explicit.
+JUSTICE SOUTER: Well, I thought it was
+implicit in the tax situation, as you responded to
+Justice Ginsburg's question.
+MR. BANKER: Well, I think we need to be
+specific about the taxation context. You know, I don't
+think that any taxation context would carry with it
+implicit consent.
+JUSTICE SOUTER: All right. Let me take
+another example, the other explicit example from
+Montana, which mentioned taxing and licensing. Are you
+saying that if a -- in any particular activity, say,
+running a filling station or advertising oneself as a
+certified mechanic in the -- at the filling station on
+the reservation, and the tribe says, well, we are going
+to license mechanics to make sure they are competent.
+Are you saying that there has got to be an explicit
+agreement to the licensing in order for the tribe to
+enforce its licensing restriction against somebody who
+goes to work for that gas station?
+MR. BANKER: I mean in that situation, if the
+tribe said, here is the licensing that we are going to
+impose on you for being a mechanic, and the mechanic
+then went to work at that gas station, knowing about
+that licensing requirement, I mean, that is -- that is
+the sort of actual --
+JUSTICE SOUTER: Okay. Then, that's --
+that's implicit consent then, isn't it?
+MR. BANKER: I think it comes --
+JUSTICE SOUTER: He doesn't sign a document
+saying "I consent"; he just goes to work. And your
+answer says, okay, that's enough to catch him on
+licensing. In Justice Ginsburg's example, if they
+started doing business, that's enough to catch them on
+taxation. And if that is so, why isn't tribal dealing
+sufficient in effect to supply an implicit consent not
+to discriminate?
+MR. BANKER: Well, I don't know that I would
+-- I would disagree that -- I would say that those
+examples of consent of the licensing of the taxation are
+much closer to being actual consent. I'm not saying by
+"actual consent" that there needs to be a written
+document that says --
+JUSTICE SCALIA: You don't really mean "actual
+consent" by "actual consent," right?
+(Laughter.)
+MR. BANKER: Well, yes.
+JUSTICE SCALIA: Maybe you should use a
+different term, like "implicit consent," maybe.
+(Laughter.)
+MR. BANKER: The -- I think that there has to
+be a line drawn.
+JUSTICE SOUTER: All right. Why draw the line
+where you want to draw it? We've got a line in which
+the -- I'll put a blank, the "X" consent -- what did we
+want -- whatever adjective we want suffices for taxation
+and it suffices for licensing. Why doesn't it suffice
+for nondiscrimination? Why do we draw the line where
+you want it drawn?
+MR. BANKER: The reason where we would draw
+the line where I want to drawn it is that, you know, the
+discrimination claim that was made here ultimately
+turned out to be based on tribal common law. It arose
+out of this -- the dealings, the contractual dealings,
+between the bank and a nonmember corporation. It is
+important for a nonmember to know where tribal
+jurisdiction attaches or doesn't attach. And it is not
+possible to predict when a common law, tribal -- for an
+outsider to determine when a tribal common-law
+discrimination claim is going to attach as a form of
+regulation --
+JUSTICE SCALIA: Oh, so one of your answers to
+an earlier question suggests the same point that you now
+seem to be making, although I don't -- I don't recall it
+from your brief. Apparently you think that it would be
+different if this antidiscrimination law of the tribe
+had been set forth in a tribal ordinance. Is that
+right? Would you say your client could have been held
+to it if it had been written, rather than simply a -- a
+portion of tribal common law?
+MR. BANKER: If it had been a tribal
+antidiscrimination statute, there would have at least
+been the possibility of notice and the possibility of --
+JUSTICE SCALIA: That's not what I asked.
+That's not what I asked. I asked whether you would
+acknowledge that your client could be bound if it had
+been written.
+MR. BANKER: I think what is required to bind
+a nonmember to tribal law is clear consent, and merely
+knowing about the tribal antidiscrimination --
+JUSTICE SCALIA: Well, that doesn't make any
+difference. We shouldn't place any weight on the fact
+that this was a common-law regulation, rather than
+regulation by a statute or ordinance. You can't have it
+both ways. It either makes a difference or it doesn't
+make a difference.
+MR. BANKER: I -- I think that it does make a
+difference.
+JUSTICE SCALIA: But you just told me it
+didn't.
+MR. BANKER: I think --
+JUSTICE SCALIA: You just told me that even
+if it were written down, you would still need what you
+think is express consent.
+MR. BANKER: I think that that provides the
+clearest guidance for when tribal jurisdiction attaches
+or doesn't.
+JUSTICE GINSBURG: Well, do you recognize
+that the bank was on notice, at least that it was a Federal
+requirement that when you deal with individual Indians
+or what this loan company was, it was an organization of
+Indians -- that's what the Federal law calls it -- there
+is a duty of fair dealing? The Federal law requires
+that. Isn't that so?
+MR. BANKER: That is so, but, you know,
+we're not here to, you know -- the Federal courts don't
+provide a substantive review on the merits. Another
+side to the story about the merits of the
+discrimination.
+JUSTICE GINSBURG: But it's not -- it's not
+uncommon that a State would adopt a Federal standard as
+its -- as its own on a question of civil rights. A
+State might stay, well, we choose to construe our human
+rights law in accord with the Federal -- Federal law?
+MR. BANKER: No. That's, that's not
+uncommon. But I think it's important to focus on the
+background about, out of which this discrimination claim
+arose. And, you, know it began in the first instance
+with the bank, a nonmember, entering into a contract
+with a South Dakota corporation. And the South Dakota
+corporation, the Long Family Land and Cattle Company, is
+not a tribal member, cannot be --
+JUSTICE GINSBURG: But it is an organization
+of Indians?
+MR. BANKER: It is closely held by tribal
+members. And it is organized for the purpose of
+facilitating Bureau of Indian Affairs loan --
+JUSTICE SCALIA: Can a State distinguish
+when it grants a corporation status between non- Indian
+and Indian corporations.
+MR. BANKER: I don't believe so.
+JUSTICE KENNEDY: Can you incorporate under
+tribal law.
+MR. BANKER: You cannot incorporate under
+tribal law.
+JUSTICE SCALIA: Wasn't part of the
+transaction the obtaining of back-up liability on the
+part of the individual Indians who, who owned the
+corporation? Didn't they guarantee the loan?
+MR. BANKER: You have to be specific about
+the loan guarantees and the contracts that we are
+talking about. Before 1996, before the loan contracts
+that are at issue here, there were lending relationships
+and loan guarantees that were made. And after 1996,
+when additional loans were made, there were personal
+guarantees that were made. There was no attempt ever to
+enforce those personal guarantees, but they were part of
+the record.
+JUSTICE SCALIA: No, but it does give the
+whole thing a decided flavor of dealing with, with
+Indians on the reservation. You're dealing with a
+corporation that, that's majority owned or entirely
+owned. Is it majority or entirely?
+MR. BANKER: I believe it is certainly 51
+percent.
+JUSTICE SCALIA: Yes.
+MR. BANKER: There is a question about
+whether it's more.
+JUSTICE SCALIA: And then you get guarantees
+from, on reservation Indians. It smells like dealing
+with Indians on the reservation to me. Of course, this
+certainty that you're -- that you're asking, your client
+could have obtained that certainly by inserting a choice
+of law provision providing that any disputes would be
+resolved somewhere else, couldn't it?
+MR. BANKER: There is no question that this
+whole question would have been avoided had there been a
+choice of forum selection that placed the dispute
+resolution squarely in South Dakota courts. In the
+absence of that, in the silence of that --
+JUSTICE SCALIA: In the absence of that, why
+should we bend over backwards to give something that has
+the smell of dealing with the Indians any other name?
+Your clients can fully protect themselves by a choice of
+forum provision.
+MR. BANKER: I think that in the face of
+silence in the contract, the general rule controls
+rather than its exceptions.
+CHIEF JUSTICE ROBERTS: Well, your clients
+could they fully protect themselves. What if the tribe
+sought to enforce tribal law against them, can they
+bring that claim in State court?
+MR. BANKER: If the tribe or if the tribal
+members sought to enforce that?
+CHIEF JUSTICE ROBERTS: Right. Well, just
+like this and there was a choice of forum provision,
+says, well, you've got to bring this in State court. I
+thought there were restrictions on whether or not tribal
+law can be enforced in State courts.
+MR. BANKER: Well, I think it's the question
+of who the plaintiff is if the Long Family Land and
+Cattle Company, the South Dakota corporation, had had a
+contract with the bank that said your forum for dispute
+resolution is South Dakota courts, and the Long Family
+Land and Cattle Company had commenced an action in South
+Dakota courts, I think the dispute could have been
+resolved there.
+CHIEF JUSTICE ROBERTS: Even if it -- well,
+that's if it's a contract claim. What if it's a
+discrimination or Indian common law claim arising out of
+the contractual relationship?
+MR. BANKER: That's a more difficult
+question. You know, there was -- it isn't part of the
+question presented, but there was a dispute in the
+underlying tribal court about the nature of the
+discrimination claim, whether it rose under Federal law
+or what was its underlying basis. That was resolved in
+favor of it being a tribal law claim.
+As I understand the tribal court of appeals'
+explanation of that on an underlying basis that there is
+little difference between the tribal law claim and the
+underlying Federal discrimination law.
+JUSTICE SCALIA: Is it a contract claim?
+MR. BANKER: Is it a --
+JUSTICE SCALIA: Is it a contract claim?
+Was -- was -- was the claim a claim for discrimination
+in contracting so that it was part of the contract
+claim.
+MR. BANKER: No. I believe that the
+discrimination --
+JUSTICE SCALIA: It's a freestanding tort
+action, is that what it was?
+MR. BANKER: It is a freestanding tort
+action.
+JUSTICE STEVENS: Would the -- would the
+jurisdiction issue be any different if it were a
+contract claim? Supposing your client -- they had
+brought suit against your client claiming a breach of
+contract, would there have been tribal court
+jurisdiction?
+MR. BANKER: Well, we have to look at, you
+know, who were the contracting parties. The contracting
+parties were the bank on the one hand and the Long
+Family Land and Cattle Company on the other. So the
+individual tribal members I don't believe would have had
+a breach of contract.
+JUSTICE STEVENS: Well, we would assume that
+the corporation had a breach of contract claim, could
+they have sued in tribal court?
+MR. BANKER: I don't think that the Long
+Family and Cattle Company appropriately was a plaintiff
+in tribal court to sue on breach of contract.
+JUSTICE GINSBURG: Did they --
+JUSTICE STEVENS: The question isn't whether
+that was an appropriate plaintiff. Do you think the
+tribal court would have had jurisdiction of such a
+contract claim?
+MR. BANKER: I don't think so without some
+sort of consent to hearing that.
+JUSTICE GINSBURG: I thought that the
+bank -- I thought that the Long Company was a plaintiff
+in the tribal court?
+MR. BANKER: The Long Company was a
+plaintiff in the tribal court.
+JUSTICE GINSBURG: And as I understand it,
+the Long Company asserted, along with the individuals,
+contract claims?
+MR. BANKER: That's correct.
+JUSTICE GINSBURG: But the Long Company did
+not make a tort claim?
+MR. BANKER: That's correct.
+JUSTICE GINSBURG: So why isn't this
+judgment, even if you're right about the individuals in
+the tort claim, why isn't this judgment good at least as
+to the contract claim, which are not challenging and
+which runs to the benefit of the Long Company which has
+nothing to do with the tort claim that you are
+challenging?
+MR. BANKER: Because of the way that the
+case was tried. If you look at the general verdict form
+at page 192 -- 191 and 192 in the joint appendix, you'll
+see that the jury -- the tribal court jury was asked
+interrogatories about liability: Liability for
+contract, liability for discrimination.
+When they got to question 6 on page 192, the
+question was asked of the jury if you answered "yes" to
+question four for the other liability questions, four
+being the discrimination claim, then award damages. And
+so the jury awarded $750,000 of undifferentiated
+damages. Whether it was for contract, whether it was
+for tort is not for us to now second-guess. There was a
+general award of damages. And the jury was instructed
+that they could award damages for breach -- for
+discrimination.
+So, you know, that is a feature of how the
+case was tried. It is a feature of the way that the
+jury returned its verdict. And at this point it's
+impossible to know -- the $750,000 that was ultimately
+awarded was far less than what the Longs were asking for
+for breach of contract, and they didn't say they were
+not asking for damages for discrimination in the
+tribal -- in the tribal court.
+So for this Court to say now that there was
+no jurisdiction over the discrimination claim would
+basically invalidate that underlying judgment.
+JUSTICE SOUTER: Mr. Banker, you several
+times have raised a point which seems to me to go to the
+nature of the first exception in Montana on an issue we
+haven't discussed yet, and I want to get clear on it.
+You have emphasized consistently through your argument
+the need for consent whether we call it actual,
+explicit, some kind of consent to at least the
+regulatory jurisdiction upon which a judicial
+jurisdiction is premised. And my understanding is that
+that's not what -- I don't have Montana in front of me,
+but my understanding is that that is not what Montana,
+in effect said with respect to the -- to the first
+exception. As I recall what the court said in Montana
+it was that there may be situations in which a nonmember
+enters into a consensual relationship with the tribe or
+tribal members, and as a result of that consensual
+relationship, it then would be appropriate to recognize
+jurisdiction, for example, to tax regulatory
+jurisdiction.
+My understanding is that the consent that
+Montana was talking about was not a consent to the
+specific jurisdiction whether it be regulatory or
+adjudicatory, but rather consent to some kind of, or a
+consent forming some kind of a relationship that would
+make it appropriate for the tribe to assert regulatory
+jurisdiction. So that the consent does not have to
+relate to jurisdiction as such. Am I -- if that is
+correct, then your argument for consent seems to me to
+miss the point. But maybe I'm missing the point of --
+of Montana. What is your response to that?
+MR. BANKER: Well, what Montana said, the
+actual language of Montana said a tribe may regulate
+through taxation, licensing or other means the
+activities of nonmembers who enter consensual
+relationships with the tribe or its members, through
+commercial dealings, contracts, leases or other
+arrangements.
+JUSTICE GINSBURG: So the consensual
+relationship is what you just said, contracts, leases or
+other commercial. So the consent is to the commercial
+relationship.
+MR. BANKER: Well, I mean, my interpretation
+of that is -- I mean, Montana in its first exception
+meant that the consent was in the consensual
+relationship, then any business dealings with the tribe
+or its members would result in tribal ability to
+regulate, and that hasn't been the case, as this Court
+has, you know, decided --
+JUSTICE SOUTER: But the point of my
+question was do you agree that there -- within the --
+the description of the exception in Montana, that there
+need not be a consent, either to the regulation or to an
+adjudicatory jurisdiction to enforce the regulation?
+MR. BANKER: Not in the actual language of
+Montana, but in reading Strate and in reading Hicks and
+in reading Atkinson Trading Company, that is my
+interpretation of the --
+JUSTICE SOUTER: So you're saying the
+Montana exception has been modified by later cases.
+MR. BANKER: That is correct.
+JUSTICE SOUTER: Okay.
+JUSTICE GINSBURG: Certainly not in Strate,
+which you quoted before as saying if you have
+jurisdiction to regulate, then have you jurisdiction to
+enforce the regulation.
+MR. BANKER: True, but I think Strate is an
+important part of that history.
+JUSTICE ALITO: Well, I thought that your
+argument was that the general principle that was adopted
+in Montana is the tribal jurisdiction extends only to
+those things that are necessary to protect tribal
+self-government or to control internal relations, and
+that merely entering into consensual commercial
+transactions doesn't fall within that, but if one were
+to consent to the jurisdiction of the tribal courts,
+then that would be an additional basis for jurisdiction.
+I thought that was what your argument was.
+MR. BANKER: I believe that's correct.
+JUSTICE SOUTER: But if that's your argument
+what's left of the first exception?
+MR. BANKER: Well, what's left of the first
+exception is certainly a tribal ability to regulate, and
+perhaps that's all.
+JUSTICE SOUTER: So the first -- but as I
+understand it the first exception would have no
+independent application unless the second exception were
+met -- were satisfied, i.e., there was a tribal need
+based on self-government, economic self-protection and
+so on which, which would in effect validate the tribe's
+attempt to regulate, which seems in effect to say that
+everything turns on the second exception, not the first.
+MR. BANKER: Well, I think the first
+exception could still have meaning, in the sense that it
+grants the tribe the ability to regulate. The question
+really is how far does that ability go and how far does
+it stretch. I don't think that it stretches to
+adjudication, and I further don't think it stretches to
+adjudication of nonconsensual tort claims.
+If there are no further questions I'd like
+to reserve the remainder of my time.
+CHIEF JUSTICE ROBERTS: Thank you, Counsel.
+Mr. Frederick.
+ORAL ARGUMENT OF DAVID C. FREDERICK
+ON BEHALF OF THE RESPONDENTS
+MR. FREDERICK: Thank you, Mr. Chief
+Justice, and may it please the Court:
+I'd like to address both standing and the
+merits, but because there are some additional wrinkles
+on the standing question in light of how it was briefed
+in the reply brief, I'd like to make three brief points
+on the merits before addressing standing.
+First, the bank engaged in a seven-year
+business relationship with the Longs, knowing that they
+were Indians and deriving substantial commercial
+benefits from the Longs' tribal status through the BIA
+loan guarantees. Second, the bank has not challenged
+tribal court jurisdiction over the breach of contract
+claim or the bad faith claim, which are the core claims
+in the case.
+JUSTICE GINSBURG: Well, they said they
+don't need to because they said if they win on their
+claim, then their whole case --
+MR. FREDERICK: And I'll address that,
+Justice Ginsburg, on the general verdict point, which is
+there is actually some law of this which I would like to
+describe for the Court my understanding of. My third
+point, though, is that both the district court and the
+Eighth Circuit below found significant that the bank had
+conceded tribal court jurisdiction in its motion for
+summary judgment on its counterclaim, and they found
+that concession to be important to note, and both courts
+below found the Indian character of the Long family
+company to be notable as well. Under this Court's two
+court rule, those fact findings are entitled to
+significant respect.
+Now, as to the standing question Justice
+Ginsburg, let me get to your point on the general
+verdict. This is ultimately a question of tribal
+procedural law, how the tribal court would treat
+vacature of a claim deemed to be an invalid claim.
+CHIEF JUSTICE ROBERTS: Where do I look that
+up in tribal law?
+MR. FREDERICK: Mr. Chief Justice, under
+tribal law number 1, the Cheyenne River Sioux Tribe has
+adopted the Federal Rules of Civil Procedure for
+procedure in the tribal courts, and under Federal Rules
+of Civil Procedure 49, there are provisions for special
+verdicts and general verdicts, and Rule 49(a)(3)
+provides that if no specific objection is made to a fact
+or finding requested by the jury, it is waived. The
+bank here did not make a specific objection to the
+general interrogatory number 6, therefore, they may be
+deemed to have waived their objection to having the
+damages collected.
+CHIEF JUSTICE ROBERTS: I'm sorry; I don't
+understand. I'm looking at joint appendix 191 to 192.
+You have special interrogatories, including number 6 but
+also number 4 and then they have damages. And it's not
+clear whether those damages are based on the finding of
+liability under 4 or 6.
+MR. FREDERICK: That's my point, Mr. Chief
+Justice. In the trial transcript which is contained at
+roughly pages 555 through 562 of the tribal court
+record, there was colloquy on how these special
+interrogatories were to be framed. The bank objected to
+number 4, the discrimination count on the ground that a
+company cannot be discriminated against, only
+individuals can be discriminated against. That
+objection was sustained, and so special interrogatory 4
+was written as you see it in the joint appendix. The
+bank did not object to the general verdict question on
+damages, so the law on Rule 49(a)(3) would be that
+special verdict is deemed to be waived, and now there is
+some --
+JUSTICE GINSBURG: There is no objection --
+JUSTICE SCALIA: Wait. They are, they are
+not objecting to a -- to a general verdict. They are
+objecting to the fact that in their view, one of the
+elements of that -- of that general verdict is based
+upon what they assert is an invalid claim in the -- in
+the Indian court.
+MR. FREDERICK: Precisely so, Justice
+Scalia.
+JUSTICE SCALIA: I don't know that they
+waive that when they when -- when they allow a general
+verdict to go.
+MR. FREDERICK: The way cases say general
+verdicts should be deemed, if there is an invalid claim,
+there are competing views about what to do with that
+when the damages awarded is treated as a general
+verdict. There is a circuit split on the question of
+what you do when there has not been a specific objection
+preserved and there is a general verdict and one invalid
+claim and evidence that supports a valid claim.
+Now recall, they don't challenge the breach
+of contract claim. Our brief points out how the
+evidence supports damages for breach of contract. Now
+Judge Kozinski in the Ninth Circuit in a case called
+McCord v. Maguire 83 F 2d 1271 says that this waiver
+rule means that their ability to challenge the general
+verdict would be waived and they would be forced to live
+with the verdict if evidence supports it. Under that
+rule --
+JUSTICE SCALIA: If evidence supports any
+one of the claims contained in the general rule.
+MR. FREDERICK: That's correct. That's
+correct. The First Circuit in a case called Gillespie
+versus Sears Roebuck, 386 F3d 21 takes the position that
+if you have not filed your objection you have not waived
+it.
+CHIEF JUSTICE ROBERTS: Who wrote that? You
+gave us the benefit of the author of the Ninth Circuit,
+but not the First.
+MR. FREDERICK: Chief Judge -- I was about
+to say that. They are both very fine opinions; they --
+JUSTICE GINSBURG: You're not asking us to
+resolve that circuit split in this case.
+MR. FREDERICK: No. What I'm saying is that
+the tribal court, which would be looking to Federal law
+to resolve the effect of a supposed tainted claim -- if
+you were to conclude that a discrimination complaint is
+a tainted claim -- would have to evaluate what effect
+that has on the final judgment. And because there is a
+circuit conflict on that question, unfortunately, I
+cannot give you a definitive answer as to how the tribal
+court would resolve that.
+My point, though, is that if this Court
+concludes that there is a redressibility problem in this
+case, which we would submit, respectfully, there is, the
+appropriate course would be to vacate and remand for the
+lower courts to certify the question to the tribal court
+of appeals or to make some further inquiry into the law
+to determine how --
+JUSTICE SCALIA: The tribal court of appeals
+would have to be finding Federal law. It wouldn't be
+Indian law; it would be Federal law.
+MR. FREDERICK: It is --
+JUSTICE SCALIA: You say they have adopted
+the Federal rules. So whatever the Federal law -- in
+other words, we would ask them to answer the question
+that you don't want us to answer.
+MR. FREDERICK: No. I've asked you to go
+with the Ninth Circuit Court because that is what I
+think is the court rule. But, Justice Scalia, any time
+a different jurisdiction incorporates some law into its
+own system, it is opining as a matter of Cheyenne River
+Sioux Tribe law. And, as Cohen's Indian law treatise
+points out, tribal courts would not look not only to
+Federal sources but also to State courts, too. The rule
+in South Dakota follows the general verdict rule in
+which --
+CHIEF JUSTICE ROBERTS: And, presumably,
+tribal -- whatever tribal precedent there may be, as
+well.
+MR. FREDERICK: That's correct although we
+have not been able to find precedent --
+CHIEF JUSTICE ROBERTS: Well, neither could
+-- and neither could anybody, right? I mean if anybody
+could find it, you could. It's because it's not
+published anywhere, right?
+MR. FREDERICK: Well, there are published
+decisions. This Court -- this is a question of first
+impression.
+JUSTICE SCALIA: Certainly, your reliance
+upon the Federal rules doesn't impress me as much as it
+did when you first told me about it, because apparently
+the Federal rules mean whatever the tribal courts say
+they mean; is that right?
+MR. FREDERICK: No. I think, Justice
+Scalia, the Court would look at the various sources of
+law --
+JUSTICE SCALIA: And come to its own
+decision as to what they mean.
+MR. FREDERICK: Yes.
+CHIEF JUSTICE ROBERTS: One of the points
+you mentioned earlier is that this is an Indian
+corporation, and that's a concept I don't understand.
+If Justices Scalia and Alito form a corporation, is that
+an Italian corporation?
+(Laughter.)
+MR. FREDERICK: I would like to beg the
+indulgence of the Court in not answering that question
+specifically.
+(Laughter.)
+MR. FREDERICK: My point --
+JUSTICE SCALIA: And do we get special loan
+guarantees?
+(Laughter.)
+CHIEF JUSTICE ROBERTS: I understand the
+concept of a minority-owned or an Indian-owned
+corporation, but the point here is you are trying to say
+that the corporation is a member of the tribe. And I
+just don't know. And I certainly don't think the State,
+when it incorporated this entity, said: You're a
+different type of corporation than every other; you're
+an Indian corporation.
+MR. FREDERICK: Well, to the contrary,
+Mr. Chief Justice. There is a State supreme court case
+on point called Pourier, which we cited in our brief,
+which says that a majority-owned corporation under South
+Dakota State law shall be treated as a member of that
+tribe for the tax purposes that were at issue in that
+case. So --
+CHIEF JUSTICE ROBERTS: How would a normal
+-- I guess a non-Indian or non-Italian or non-Irish --
+corporation dealing with the Long Family Land and Cattle
+Company know that it was an Indian corporation --
+MR. FREDERICK: Well, I --
+CHIEF JUSTICE ROBERTS: -- putting apart the
+particulars in this case?
+MR. FREDERICK: Mr. Chief Justice, let me
+step back and say I'm not here to advocate that there
+can be different racial characteristics of corporations.
+What is anomalous about this case and the way the BIA
+has set up this program is that the BIA establishes
+principles of Indian identity so that it can determine
+whether it satisfies congressional mandates for Indian
+financing.
+CHIEF JUSTICE ROBERTS: Well, I know the BIA
+says that. But if you're a bank and somebody comes in
+and says: I'm a corporation; I would like a loan, is
+the bank supposed to start asking questions about
+whether there are Indian shareholders, and how many, and
+all of that?
+MR. FREDERICK: Banks typically do require
+lots of documentation, Mr. Chief Justice.
+CHIEF JUSTICE ROBERTS: So they should have
+a check box on their loan application that says: Are
+you an Indian?
+MR. FREDERICK: The difference here,
+Mr. Chief Justice, is that the bank required BIA loan
+guarantees as a condition of making the loans.
+CHIEF JUSTICE ROBERTS: I'm asking you
+about: In a general case, let's say they don't require
+BIA loan guarantees. They require, just as in this
+case, collateral.
+MR. FREDERICK: They did not. They required
+more, and that's the important point. The facts
+actually matter.
+CHIEF JUSTICE ROBERTS: Well, I am sure the
+facts here matter. I have a hypothetical question. A
+bank dealing with an Indian-owned corporation, how are
+they supposed to find out, or may they find out, whether
+it's an Indian-owned corporation, particularly when
+under your approach, when they do form that contract,
+they are subjecting themselves to tribal-court
+jurisdiction?
+MR. FREDERICK: I would acknowledge that
+when there are no BIA loan guarantees required, a bank
+may or may not know of the identity of the owners of the
+corporation.
+CHIEF JUSTICE ROBERTS: And do they subject
+themselves to tribal-court jurisdiction because they are
+dealing with, as you call it, an Indian corporation?
+MR. FREDERICK: Without further facts, no.
+Here, though, the bank required the BIA loan. It went
+on to the reservation to scrutinize the collateral. It
+required personal guarantees from the tribal members.
+It got collateral in guarantees on the personal effects
+and chattels.
+It knew that the corporation was doing all
+of its business on tribal trust lands. It went into the
+tribal headquarters to determine that the tribe was
+comfortable with the various loan arrangements. It
+enlisted the assistance of tribal financial officers to
+ensure that the cash flow would be a sufficient --
+CHIEF JUSTICE ROBERTS: So that if the bank
+had two -- two different types of loans, in one
+situation the corporation comes to the bank. It is an
+Indian corporation, if there is such a thing; and the
+bank deals with it, although it doesn't know that. In
+the other situation are the facts, as you suggest here;
+and the -- dealing through the normal, collateral
+consequences and operations of a contract with a bank,
+they want to know the collateral, and all of that, that
+constitutes consent, but a commercial relationship with
+a member does not.
+MR. FREDERICK: I think, in general,
+Mr. Chief Justice, I would agree with that hypothetical.
+But here, if you took away the BIA loan piece, I think
+the facts very strongly point to the bank knowing it was
+engaging in a consensual relationship with Indians
+because it went on tribal trust lands. It involves the
+officers of the tribe for effectuating the loan.
+JUSTICE ALITO: Well, there are many facts
+here that are favorable to your position, but I would
+appreciate it if you could articulate the rule of law
+that you would like us to adopt in this case, the
+general principle that you would like -- the general
+rule that you would like us to adopt.
+MR. FREDERICK: Justice Alito I don't think
+I can improve on the language that's in Montana in its
+first exception, itself, which is that there are
+consensual relations that are licensing of commercial --
+JUSTICE ALITO: Can that be the case: Any
+consensual relationship between a member of the tribe
+and a nonmember is subject to the jurisdiction of the
+tribal courts?
+MR. FREDERICK: No. I think that the Strate
+case imposed a nexus requirement. I think the liability
+has to arise out of that consensual relationship, which
+it clearly does here.
+JUSTICE ALITO: So an Indian goes to a bank
+off the reservation and asks for a loan and gets the
+loan. That contract is subject to the jurisdiction of
+the tribal courts?
+MR. FREDERICK: No. I don't think
+necessarily any loan. I think I answered Mr. Chief
+Justice's question to the effect that any kind of
+general loan of that nature would not necessarily give
+rise to --
+JUSTICE SCALIA: Well, it has to be a known
+-- a known consensual relationship, for one thing.
+Wouldn't you add that requirement.
+MR. FREDERICK: Yes.
+JUSTICE ALITO: All right. So the Indian
+goes to the bank and says: I'm an Indian. Give me a
+loan. The bank gives him a loan. That's subject to the
+jurisdiction of the tribal courts?
+MR. FREDERICK: No. I think, Justice Alito,
+that there are very fine gradations in the facts. And
+we are not asking for an articulation of a general rule
+of the kind of sweeping effect that the Petitioners are
+asking for.
+We are asking for a straightforward
+application of Montana 1 on facts here that developed
+over a substantial number of years.
+JUSTICE ALITO: Well, isn't it necessary for
+there to be some kind of clear notice? Somebody puts an
+ad in the newspaper to sell a used car. Someone shows
+up to purchase the used car. He purchases the used car
+and says: And, by the way, I'm an Indian. That is
+subject to the jurisdiction of the tribal courts?
+MR. FREDERICK: I don't think that
+necessarily would give rise to the kind of consensual
+relationship that Montana was speaking about.
+JUSTICE ALITO: Well, why not? What's
+missing there?
+MR. FREDERICK: I think what's missing is
+the longevity of a relationship, the degree to which the
+cause of action arose out of the answering of that ad.
+I mean one of the features of --
+CHIEF JUSTICE ROBERTS: It's an odd sort of
+basis on which to predicate jurisdiction. We usually --
+when you're dealing with jurisdiction, we usually look
+for a bright-line rule.
+MR. FREDERICK: Well, I think that the
+necessary concomitant of having tribes with their
+elements of sovereignty residing within States and
+within the United States is to have somewhat less
+bright-line features to some of these jurisdictional
+principles. Our submission here is that the facts --
+CHIEF JUSTICE ROBERTS: You said earlier --
+I am sorry. You said earlier that this was a
+straightforward application of Montana?
+MR. FREDERICK: Given the facts that are
+present in this case.
+CHIEF JUSTICE ROBERTS: Yes, given the
+facts. But isn't it true that this would be the first
+case in which we have asserted or allowed Indian tribal
+jurisdiction to be asserted over a nonmember?
+MR. FREDERICK: Yes, it would although the
+court in National Farmers and in Iowa Mutual could have
+disposed of the case simply on a bright-line-rule basis
+but rejected that very notion.
+JUSTICE KENNEDY: Do you think it's inherent
+in Montana exception number 1, that an Indian tribal
+court in the course of adjudicating commercial dealings
+has the capacity to elaborate common law?
+MR. FREDERICK: Yes. And -- and I don't
+think --
+JUSTICE GINSBURG: To elaborate tribal
+common law.
+MR. FREDERICK: That's how I understood your
+--
+JUSTICE KENNEDY: Tribal common law?
+MR. FREDERICK: Yes, that's how I understood
+Justice Kennedy's question. You know, and it is the
+same --
+JUSTICE KENNEDY: And you think that's
+necessary for regulating consensual relationships?
+MR. FREDERICK: I think that, yes, it can
+be. I mean the -- I thought I heard the Petitioner
+acknowledge today that if the discrimination rule had
+been written down, that that would be perfectly fine to
+put everybody on notice. These principles of
+discrimination here are --
+JUSTICE SCALIA: He backed off on that. I
+pressed the point and --
+(Laughter.)
+MR. FREDERICK: Well, my -- my mission here
+is that the bank did not avail itself of any of the
+procedures in Rule 12 to clarify the source of the law,
+to move to dismiss the discrimination claim, to move for
+summary judgment on the discrimination claim.
+CHIEF JUSTICE ROBERTS: What about -- what
+about their point that, under our system, governing is
+based on the consent of the governed, and in this case
+the bank has no role to play in the nature or
+establishment of the court to which they are being
+subjected?
+MR. FREDERICK: Well, in this particular
+case, Your Honor, this bank has availed itself
+purposefully of tribal courts on at least 14 occasions.
+This would be the 15th case. These are set out in the
+tribe's brief, the amicus brief, footnotes 27, 28, and
+29.
+JUSTICE KENNEDY: Well, and I suppose --
+MR. FREDERICK: This is not a stranger to
+the tribal court, Mr. Chief Justice.
+JUSTICE KENNEDY: Well, suppose it were the
+first occasion? I mean, what's the rule? That doesn't
+help me.
+MR. FREDERICK: My point is --
+JUSTICE KENNEDY: In other words, if you go
+-- if you make a mistake 14 times, you're bound to 15?
+That's kind of an estoppel.
+MR. FREDERICK: No, I'm saying that the
+availment of the tribal court is what creates the
+jurisdiction. I'm saying it responds to the point that
+the bank can hardly claim surprise. They know how to
+deal with tribal law and tribal procedures. They could
+have asked the nonmember judge who presided over this
+trial to clarify how the discrimination would be done.
+In the tribal transcript, the colloquy on discrimination
+was rather straightforward as to treating members in a
+fair way as compared to treating nonmembers. These are
+not difficult concepts in the law.
+JUSTICE GINSBURG: Mr. Frederick, before you
+finish, I would like for to you give your best answer to
+a lurking, underlying concern, and that is the the Chief
+Justice brought up the outsider subjected to courts
+where the outsider has no vote. That happens when you
+sued in a State that's not your own, but there is the
+right to remove and also at the end of the line is this
+Court. And I think in the case of the tribal courts,
+neither of those exist. There's no -- you can't remove
+to a State or Federal court, and this Court has no
+review authority over a tribal court's judgment.
+MR. FREDERICK: I have two suggested
+responses to that, Justice Ginsburg. One is that, when
+a tribal court judgment needs to be enforced, it can be
+brought in State court, and South Dakota follows the
+comity rule, which means that it has to satisfy certain
+requirements of fairness, adherence to basic principles,
+and the law before a State -- the State court will
+enforce the tribal court judgment. Under national --
+JUSTICE GINSBURG: Not the same faith and
+credit that it would give to a sister State judgment?
+MR. FREDERICK: That's correct. It's not
+full faith and credit; it's comity. And that comity
+provides for a substantive review while enforcing the
+judgment.
+CHIEF JUSTICE ROBERTS: Well, what if the
+tribal law has certain cultural principles such as
+fairness and equity of a sort that aren't recognized
+under Federal or State law in this type of contractual
+relationship? Does that preclude the State court from
+giving comity or not?
+MR. FREDERICK: The way the South Dakota
+statute is worded, Mr. Chief Justice, unfortunately, I
+can't give you a direct answer to that because it
+involves a panoply of issues whether State law deems the
+final judgment ultimately to be a fair one and -- and,
+importantly, when this Court recognized the
+jurisdictional point as giving rise to Federal
+jurisdiction in National Farmers, I would submit it also
+perhaps created the avenue for the enforcement of
+judgments to be brought in Federal court as well. I
+don't understand why a jurisdictional challenge and a
+challenge to the enforcement of a judgment could not
+give rise to the same Federal question jurisdiction
+recognized in National Farmers.
+So I think there are two avenues to be in
+State or Federal court when enforcing a judgment in
+tribal court that heretofore for have not fully been
+explored, certainly not by any decisions of this Court.
+If the Court has no further questions.
+CHIEF JUSTICE ROBERTS: Thank you,
+Mr. Frederick.
+Mr. Gannon.
+ORAL ARGUMENT OF CURTIS E. GANNON
+ON BEHALF OF THE UNITED STATES,
+AS AMICUS CURIAE,
+SUPPORTING THE RESPONDENTS
+MR. GANNON: Mr. Chief Justice, and may it
+please the court:
+This court's Montana framework confirms that
+Indian tribes can, in some circumstances, exercise
+legitimate authority over nonmembers and nonmember land
+on their reservations. Unlike what has happened in the
+criminal context, the political branches have not acted
+to divest tribes generally of civil jurisdiction over
+nonmembers. Both before and after Montana was decided,
+Congress and this Court have repeatedly articulated the
+firm Federal policy of encouraging tribal
+self-government and have recognized that tribal justice
+systems are an essential part of tribal governments.
+JUSTICE SCALIA: Well, that may be; it
+depends on what you mean by "tribal." I mean, it
+certainly would be rational to say that all disputes
+between members of the tribe can be resolved
+authoritatively by the tribal court, but it's quite a
+different thing to say that a dispute between a
+nonmember of the tribe and a member of the tribe can go
+to the tribal court. It's sort of the analogue to being
+home fried in a foreign State. It's -- is pretty close.
+MR. GANNON: Well, Justice Scalia, that's of
+course true, that there is a difference, but the Montana
+framework recognizes that the political branches have
+not completely divested tribes of their jurisdiction
+over nonmembers in circumstances like this. And --
+CHIEF JUSTICE ROBERTS: Well, you agree with
+your friend Mr. Frederick that Montana did not address
+jurisdiction over a nonmember and that this would be the
+first case in which we'd recognize such jurisdiction?
+MR. GANNON: Well, it did not specifically
+address any previous cases involving jurisdiction over a
+nonmember defendant who is hailed into Federal court.
+JUSTICE SCALIA: Defendant, yes.
+MR. GANNON: But I think it is -- it is the
+case that it clearly recognized a consensual
+relationship that is established before the lawsuit
+begins is what provides for regulatory jurisdiction in
+some of the cases and adjudicatory jurisdiction, as is
+now clear from Strate and the Court's subsequent
+decisions.
+JUSTICE KENNEDY: In your view, does
+jurisdiction follow all regulatory authority? If it's
+within regulatory authority, then is it your position
+that there is necessarily jurisdiction to enforce in a
+tribal court --
+MR. GANNON: Well --
+JUSTICE KENNEDY: -- in civil cases?
+MR. GANNON: Well, in Iowa Mutual, this
+Court did state that tribal courts are best qualified to
+interpret and apply tribal law. And so --
+JUSTICE KENNEDY: In your position, is
+regulatory jurisdiction concomitant with civil judicial
+jurisdiction in the tribal court?
+MR. GANNON: Generally, yes.
+CHIEF JUSTICE ROBERTS: What happens if the
+bank deals with a corporation that is not an Indian
+corporation, and then that -- the shareholders of that
+corporation sell their shares to Indians?
+MR. GANNON: Well --
+CHIEF JUSTICE ROBERTS: Does the bank now
+have a consensual relationship with an Indian
+corporation?
+MR. GANNON: Well, I think, Mr. Chief
+Justice, to expand upon the discussion that you were
+having with Mr. Frederick, that the consensual
+relationship that's necessary to establish jurisdiction
+in the sense of Montana's first exception requires not
+only that there be a consensual relationship with a
+member, and which we do think that implicit in that is
+some knowledge at least objective knowledge that you
+knew you were dealing with a tribal member. And so if
+the conceptual relationship were established and with
+somebody who was not a nonmember who subsequently ended
+up through sales of shares to become a member, we don't
+think that that ex post facto development would effect
+the establishment of the original relationship.
+JUSTICE SCALIA: You would add on the
+reservation? I mean --
+MR. GANNON: Yes, absolutely, Justice
+Scalia. That is something --
+JUSTICE SCALIA: If he walks into some town
+in South Dakota, the mere fact that you know he's an
+Indian -- it has to be on the reservation.
+MR. GANNON: Absolutely, Justice Scalia, and
+that follows directly from the terms in Montana itself
+because Montana says that the exceptions are are about
+instances of, quote, "civil jurisdiction over
+non-Indians on the reservation." And that's an
+important factor.
+CHIEF JUSTICE ROBERTS: Well, but the only
+reason -- the only reason the bank is on the reservation
+is because the land was collateral, right?
+MR. GANNON: The only reason --
+CHIEF JUSTICE ROBERTS: They didn't want to
+buy land on a reservation; they wanted to make a loan
+and get the interest or whatever, and it just turned out
+that the Indians defaulted, and therefore they were left
+with a land on a reservation. Is that consensual?
+MR. GANNON: Well, everything about this
+transaction is related to the reservation. To be sure,
+part of it dealt with the land on the reservation, but
+the rest of the ranch's operations, including places
+where the bank possessed collateral and security
+interest in personal property, were on tribal grazing
+land.
+CHIEF JUSTICE ROBERTS: So if it's a
+different -- the Indian -- the corporation is owned by
+members on the reservation, the collateral they put up
+is off the reservation, is there consensual dealings
+with the corporation then?
+MR. GANNON: Well, the thing that's key
+here, I believe, is that the subject of the contract was
+intimately connected with the reservation itself, and
+that's why it comes within Montana's discussion of civil
+jurisdiction.
+CHIEF JUSTICE ROBERTS: Yes, but the subject
+of the contract is loan to a corporation owned by
+Indians on the reservation. The collateral put up is
+other land that the corporation owns or the individuals
+own off the reservation. Jurisdiction or not.
+MR. GANNON: Without any further facts, no,
+I don't think that would be enough to establish
+jurisdiction. What's important here is that the subject
+of the contract was actually on the reservation, and
+that's why it comes in --
+CHIEF JUSTICE ROBERTS: I guess, what I
+meant, what do you mean by the subject of the contract?
+MR. GANNON: Well, the loan here was for
+specific purposes. It was for -- I mean, there were a
+lot of specific terms in which the bank dictated lots of
+practices on the ranch, and it knew everything about the
+way the operation was being conducted or required
+express approval for individual purchases and things
+like that. And so, this is not an instance where a
+member is engaging in business off the reservation.
+And indeed in Blaze Construction the court
+addressed a case in which there was a member-owned
+corporation that was doing business on a different
+reservation, and the parties conceded there that that
+would not be considered to be a member for purposes of
+Montana -- that was actually a taxation case, but it
+would not be considered a member for purposes of these
+exceptions.
+JUSTICE SCALIA: Am I correct that the
+collateral here, the land, the land that was collateral
+was within the reservation but it was not Indian land.
+MR. GANNON: Well, that's generally correct,
+Justice Scalia. There is a little bit of a dispute in
+the probate proceedings about exactly the status of the
+land. But, yes, this transaction did involve transfer
+of the deed to the bank, and therefore, at that point it
+would have been -- to the extent that that transfer was
+effective, it would have been a nonmember only on the
+reservation.
+JUSTICE SCALIA: And you think that that's
+enough. It doesn't have to -- when you say "on the
+reservation," you include as on the reservation land
+that is no longer owned by Indians but -- but is within
+the reservation boundaries.
+MR. GANNON: The thing that triggers the
+regulation here or the jurisdictional authority of the
+tribe is the consensual relationship with the tribal
+member. And so it's -- it's -- it's not -- this
+isn't -- this isn't like a tort that occurred on a
+particular piece of land while we are asking --
+JUSTICE SCALIA: No, no, wait. You say that
+consensual relationship is not enough. If you enter
+into relationship with Indian in South Dakota on, you
+know -- in the State capital, that isn't enough. It has
+to be on the reservation. You acknowledge that. And
+for purposes of on the reservation, it's enough that
+you're dealing with land that is within the reservation
+even -- even if it is no longer Indian land?
+MR. GANNON: Yes, Justice Scalia. And the
+Montana exception to deal with jurisdiction --
+JUSTICE ALITO: Does "on the land" mean --
+"on the reservation" mean land on the reservation or
+does it extend any further than that?
+MR. GANNON: I -- I -- I can't say --
+JUSTICE ALITO: Let's say an Indian gets an
+auto loan for a vehicle to be used in a business on the
+reservation. Is that on the reservation?
+MR. GANNON: In general, the sale of goods
+off the reservation, unless there is some particularly
+intimate connection with the reservation that -- that
+the parties anticipate at the time, probably isn't going
+to be enough to trigger jurisdiction. And so --
+CHIEF JUSTICE ROBERTS: What about a home
+equity loan for home on the reservation.
+MR. GANNON: For a home that's on the
+reservation?
+CHIEF JUSTICE ROBERTS: Yes.
+MR. GANNON: And it's for remodeling the
+home --
+CHIEF JUSTICE ROBERTS: Whatever home equity
+loans are for.
+MR. GANNON: Yes. I think that that's -- if
+it were going to be used for something completely off
+the reservation, then maybe an argument could be made
+that it doesn't have enough to do with regulating
+activities that are occurring on the reservation.
+CHIEF JUSTICE ROBERTS: Well, they are going
+to add -- add a new wing onto the -- new room on to
+their home.
+MR. GANNON: And that's an example where I
+do think that --
+CHIEF JUSTICE ROBERTS: So if Chase
+Manhattan gets a home equity loan application from
+somebody and they grant the home equity loan, they are
+now subject to being sued in tribal court?
+MR. GANNON: If they know that they are
+dealing with a member and they have not included any
+form selection or choice of law provisions that say that
+they want to be sued and resolve disputes in some other
+forum, then it may well be the case that they will be
+sued in tribal court.
+CHIEF JUSTICE ROBERTS: What if the tribal
+court has a rule that forum selection provisions are not
+enforceable?
+MR. GANNON: Well, I think it's probably
+unlikely that the tribal courts would -- or that the
+tribe would adopt a rule like that, because as a
+pragmatic matter it would make it more difficult for
+their citizens to engage in business relationships if
+they had a categorical ban like that. And so --
+JUSTICE GINSBURG: But then could you go
+into Federal court under what was in farmers and say we
+had no jurisdiction because we had a forum selection
+clause?
+MR. GANNON: I -- if -- if there was a forum
+that would be a question about the nature of the
+underlyng consent. And I do think that, in general,
+forum selection clauses here ought to be enforced. And
+so, it would be relevant to the scope of the consentual
+relationship there.
+CHIEF JUSTICE ROBERTS: Does the judgment
+here that the bank discriminated against the Indian
+corporation because they didn't give them as favorable
+terms as they gave someone who hadn't defaulted on a
+loan impede dealings with Indian corporations by outside
+members -- outside nonmembers?
+MR. GANNON: Well, as was pointed out
+earlier, Mr. Chief Justice, the -- the -- the only
+duties that the bank was exposed to here were a duty not
+to breach contracts and not to discriminate. And the
+only question is the source of those duties.
+CHIEF JUSTICE ROBERTS: What was the basis
+for the finding of discrimination?
+MR. GANNON: It was the -- under --
+according to the jury instruction it was a person or
+entity denied a privilege to a person based solely upon
+that person's race or tribal identity.
+CHIEF JUSTICE ROBERTS: It had nothing to
+do -- the bank's justification had nothing to do with
+the fact that the entity had defaulted earlier?
+MR. GANNON: No, I don't believe so, Your
+Honor. Thank you.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Mr. Banker, you have two minutes remaining.
+REBUTTAL ARGUMENT OF PAUL A. BANKER
+ON BEHALF OF THE PETITIONER
+MR. BANKER: I think when you step back in
+listening to the arguments of opposing counsel, you
+know, what is the other way that tribal courts get --
+that the tribes get jurisdiction over nonmembers? Well,
+Congress can provide it. And if we look at this Bureau
+of Indian Affairs loan guaranty program, which Congress
+authorized, Congress didn't provide jurisdiction over
+nonmembers in implementation of that program.
+So you've got an elaborate loan program and
+it's designed to provide capital to tribes and tribal
+members, and Congress is silent on that.
+Now, in other instances Congress has
+provided authorization for tribal courts and tribes to
+have jurisdiction over nonmembers. Congress is aware of
+this Court's opinion in Montana presumably and the cases
+that follow from it, but in the Bureau of Indian Affairs
+loan guaranty program Congress remained silent. What do
+we infer from that?
+I think it is crucial when you think about
+nonmember defendants in tribal court and whether they
+can have their rights adjudicated there to think about
+the structural problems, the lack of a right to remove,
+the lack of a right to have this Court provide a
+substantive review. There is no --
+JUSTICE KENNEDY: What general principle
+underscores the validity of your point that it's -- is
+it a republican form of government law, Due Process
+Clause? What is the general principle you rely on to
+say we have to look to the structure of these courts?
+If the structure is insufficient, then it violates what
+prohibition in the Constitution?
+MR. BANKER: I think that the -- you know,
+the tribal courts stand outside of the Federal -- of the
+Federal-State relationship. I think it is a question of
+due process. I think it is a question of equal
+protection.
+JUSTICE KENNEDY: Due process for whom? The
+tribal courts aren't governed -- aren't creatures that
+are subject to the Due Process Clause.
+MR. BANKER: Well, that's exactly the point.
+I mean it is the due process right of the nonmember.
+JUSTICE KENNEDY: What is -- what is the
+constitutional prohibition that is a restriction on
+assigning cases to a court that does not follow the Due
+Process Clause if it's an Indian court? It's not the
+same as if we assign this to the American Arbitration
+Association. What's the difference?
+MR. BANKER: I think the difference is the
+constitutional protections of nonmembers do not apply
+down to tribal courts.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+The case is submitted.
+(Whereupon, at 11:08 a.m., the case in the
+above-entitled matter was submitted.)
+24:24 6:24 7:3 22:15 27:23 28:12 assert 22:17 background
+29:17 23:20 46:17 application 25:3 28:22 14:14
+57:19 adopted 24:11 applies 3:16 9:1 assign 57:11 back-up 15:9
+advertising 9:25 57:14 assistance 36:7 ban 54:4
+Affairs 14:24 37:4 Association 12:2 13:21
+35:15 36:21 46:5 19:17 22:9,17 Atkinson 23:23 26:20 27:18
+51:24 agreement 10:5 30:22 attach 12:4,7 28:7,13 34:12
+39:8 32:20 37:2,8 approval 50:12 attempt 15:18 36:11,13,16,23
+38:12,20 39:4 Arbitration author 30:4 41:9,16,20
+allowed 40:2 2:2,10 3:3,7 authority 5:14 50:9 51:5
+22:24 American 57:11 21:22 22:20 5:18,19 6:1,2,3 54:16,23
+amicus 1:23 2:8 24:11,19,21 6:4,25 7:1,3 Banker 1:17 2:3
+anomalous 34:6 arguments authorization 6:7,21 7:12,21
+25:25 30:17 31:7,8 arising 17:22 authorized 6:18 9:11,17 10:8
+46:6,10 answered 20:23 14:15 39:8 auto 52:10 11:13,22 12:18
+answering 32:24 23:4 36:6 availed 41:20 13:17 14:2,12
+answers 12:9 articulated 5:4 avenue 44:10 15:12 16:1,4
+anybody 7:7 articulation 21:4,5 19:12,20,25
+apart 34:1 asked 12:21,22 21:11 29:7 21:18 22:23
+40:10 12:12 32:8 31:9 42:15 a.m 1:15 3:2 24:20,23 25:9
+4:18 30:24 31:1 21:11,13 30:8 56:22 57:5,13
+25:14,15
+11:25 25:5 briefed 26:1 29:4 46:10,17 47:14,17 48:19 13:1 21:21
+41:15 bright-line 47:1 56:5 57:9 48:23 49:10,20 28:1 38:21
+39:13,18 cash 36:8 50:5 52:17,21 46:18
+39:11 broader 5:18 14:18 17:14,17 57:16 client 12:15,23
+55:1 6:25 19:6,13 33:23 choice 16:10,15 16:9 18:24,25
+2:4,6,8,12 business 7:8 24:24 32:6 30:4,9,16 Cohen's 31:14
+25:21 8:24 9:6 10:21 33:10 44:19 31:10 collateral 35:3
+55:15 23:12 26:5 45:18 circumstances 35:24 36:1,15
+16:1 52:10 54:3 certified 10:1 cited 33:16 49:7,12,22
+19:7 buy 48:24 certify 30:23 citizens 54:3 50:24,24
+49:16 challenge 29:12 civil 14:9 27:12 collect 6:2
+C 29:17 44:12,13 27:14 45:10 collected 27:21
+call 21:23 35:21 20:12,15 claim 3:19 11:24 come 32:14
+35:2 capacity 40:11 Chase 53:11 18:13,13,15,24 comfortable
+36:22 capital 51:23 chattels 36:2 19:10,19 20:7 36:6
+6:8 7:20 8:1,2 17:20 25:18,22 30:14 41:11,12 3:4 5:12 8:13
+23:14 26:11,14 28:3 30:3,6 claiming 18:25 23:3,7,7 24:15
+34:2,6 35:1,3 34:1,3,11,18 29:22 common 7:16
+39:24 40:2,6 35:7,19 36:9 42:16 17:22 40:11,15
+26:9 41:15,20,22 36:21 37:25 clause 5:12 54:8 40:18
+54:24 43:3 46:8,14 39:10,20,25 56:18 57:4,10 common-law
+14:18 47:15,19,22 26:9 29:13,14 5:1,2,3 6:8,15 curiae 1:23 2:9
+19:6 49:2,13 51:16 35:12 36:16 8:14 17:4,9 45:1
+51:21 37:22 49:16,21 18:2,6 19:1,11 CURTIS 1:21
+consent 8:2,6,7 50:3,6 19:14,18,24 2:7 44:24
+26:25 8:12,19,19 9:1 contracting 20:1,19 21:14
+33:24 9:8,12,20 18:14 19:4,4 21:15 22:5 D
+23:11,19 24:17 control 24:14 33:15 40:5,10 51:22
+54:11 controls 16:24 43:3,5,5,9,10 21:2,4,5,13
+consentual corporation 44:7,11,17,18 28:14 29:7,14
+50:19,21 33:8,9,12,13 53:14,20,22 dealing 8:3
+47:6 constitutes 36:11,12 47:10 14:3 16:16 35:9,21 36:15
+55:20,21 50:15 correct 20:5,8 42:24 43:3 47:10
+56:1,2,4 construe 14:10 22:20 24:2,20 47:3 53:25 dealt 49:5
+contained 28:4 29:23,24 31:22 55:18 56:3,19 decided 15:22
+contemplated 51:1 court's 6:24 decision 3:12
+8:23 9:1,18,19 count 28:8 56:5 32:4 44:19
+22:7,8 contract 14:16 26:22 creates 42:11 deed 51:5
+16:24 17:15,21 course 16:8 creatures 57:3 deemed 27:7,20
+36:24 18:10,12,14,24 30:22 40:10 credit 43:16,18 28:15 29:5
+19:1,8,10,14 46:1 criminal 45:9 deems 44:5
+39:2 19:19 20:4,12 court 1:1,14 crucial 56:9 defaulted 49:1
+55:9 18:13,17 20:21 effect 10:23 22:4 entitled 27:1 exist 43:4
+21:16 28:8 30:14 38:1,15 55:5,9 expand 47:18
+41:11,12 42:16 effective 51:7 equity 43:23 18:7
+dismiss 41:11 either 13:7 essential 45:15 express 13:16
+disputes 16:11 39:16 establishes 34:7
+30:25 14:25 encouraging estoppel 42:9 face 16:23
+36:5 district 26:19 45:13 ET 1:8 facilitating
+document 10:17 10:6 15:19 evidence 29:11 28:20 48:11
+34:18 46:23 exactly 51:3 factor 48:18
+34:22 doing 7:7 8:23 enforceable 57:5 facts 35:5,8,22
+57:12,13 10:21 36:3 53:23 example 5:22 36:14,23 37:2
+8:18 draw 11:15,16 43:9 54:12 10:20 22:10 39:23 40:1
+12:13 11:20,22 enforcement 53:9 49:25
+31:12 drawn 11:14,21 44:10,13 examples 11:2 fair 13:25 42:19
+34:5 11:23 enforcing 43:19 exception 4:10 44:6
+45:21 drive 8:12 44:17 4:11 5:1,11 7:4 fairness 43:12
+50:17 due 56:17,25 engage 54:3 7:22 9:12 43:23
+54:2 duties 54:23,25 engaging 8:13 23:10,18 24:1 43:15,18
+54:24 E enter 23:1 51:21 exceptions 3:13 33:23
+54:16 3:1 44:24 24:15 16:25 48:15 25:12
+11:24 32:18 39:20,21 entire 8:2 exercise 5:15 44:9,15 54:6
+14:6,14 54:22 55:9 entirely 15:24 45:6 favor 18:5
+18:3,9 economic 25:5 15:25 exercising 5:15 favorable 37:3
+43:10 48:14 44:18 Ginsburg's 9:16 hailed 46:11
+forced 29:18 49:25 52:7 38:2,9 39:2 47:9
+foreign 45:24 F3d 29:25 42:22 43:16 headquarters
+27:12 form 12:7 20:17 44:4,14 54:17 36:5
+30:11 32:20 35:12 G given 39:23,25 hear 3:3,18
+53:17 56:17 G 3:1 gives 38:10 heard 40:25
+43:5,24 forming 22:16 Gannon 1:21 giving 44:1,8 hearing 19:21
+forth 12:14 2:7 44:23,24 go 21:19 25:12 held 12:15 14:22
+46:11 forum 16:15,22 45:3,25 46:9 29:3 31:9 42:7 help 42:5
+56:23 17:8,15 53:19 46:13,25 47:2 45:22 54:5 heretofore
+54:12 48:8,13,22 37:20 38:9 Hicks 6:12,19
+Frederick 1:19 gas 7:6,9 8:11 57:3 Honor 41:20
+28:1 25:22 26:15 general 1:22 government human 14:10
+55:2 27:10 28:3,24 16:24 20:17 56:17 hypothesized
+31:22 32:3,11 27:19 28:13,19 gradations 35:8 36:21
+5:1,10 7:3 35:15,22 36:20 36:20 37:6,6 25:11 35:17 55:6
+9:12 37:8,16,24 38:2,14 52:12 grazing 49:8 impede 54:19
+21:20 38:7,12 39:1,6 54:11 56:15,18 gross 7:8 implementation
+23:10 39:14,23 40:4 generally 45:10 ground 28:8 55:23
+25:1 40:12,16,19,24 47:8 51:1 guarantee 15:11 implicit 9:1,13
+26:4 41:8,19 42:1,6 Gillespie 29:24 guarantees 9:15,20 10:15
+30:5 42:10,21 43:7 Ginsburg 5:22 15:13,16,18,19 10:23 11:11
+37:10 43:17 44:2,22 6:17 8:7,10,18 16:6 26:8 33:4 47:23
+42:4 46:8 46:6 47:19 13:20 14:7,20 34:24 35:2,16 implicitly 9:8
+freestanding 19:15,22 20:2 35:25 36:1 important 4:7
+57:9 full 43:18 42:21 43:8,15 importantly
+individuals 20:3 7:5,18 8:1,7,10 53:21 54:5,15
+indulgence 27:23 28:12 10:17,20 11:6 57:2,7,16
+inquiry 30:24 26:22 30:15 15:8,21 16:3,6
+14:15 50:13 44:6,13,17 18:18,22 19:9 15:4 40:8,18
+56:2 judgments 20:2,6,9 21:18 42:3,7 46:20
+instruction 55:4 judicial 21:25 24:3,4,10,21 57:2,7
+56:20 jurisdiction 26:12,16 27:3 40:20
+49:8 12:4 13:18 28:4,17,18,24 kind 3:21 8:25
+8:16 9:10 24:14 21:16,25 22:1 31:1,5,11,19 38:1,15,21
+15:1,2 interpret 47:4 22:10,11,14,18 31:24 32:6,11 39:2 42:9
+26:24 interpretation 22:19 23:20 32:14,17 33:3 knew 36:3 47:25
+31:3,14 23:9,24 24:6,6,12,17 33:6,15,21 50:10
+33:13,24 interpreted 5:7 24:18 26:9,21 34:1,3,11,18 know 5:9,13
+interrogatories 31:12 35:14,20 34:19,23,25 6:23 7:8,16 8:5
+36:12 20:20 27:24 37:14,22 38:11 35:7,19 36:9 8:14,22 9:11
+38:8,9 28:7 38:25 39:11,12 36:21 37:2,8 9:18 10:25
+40:2,9 interrogatory 40:3 42:12 37:12,20 38:4 11:23 12:3
+47:10,15 27:19 28:11 44:9,14 45:10 38:8,12,20 14:2,3,15
+49:11 intimate 52:14 46:3,7,8,10,16 39:4,10,20,25 17:25 19:4
+51:22 intimately 49:17 46:17,21,23 40:8,14,18,20 21:7,10 23:15
+54:16 invalid 27:7 47:6,7,20 40:22 41:5,13 29:1 33:10,24
+55:21 28:22 29:5,10 48:16 49:19,24 41:25 42:2,3,7 34:11 35:17
+57:10 invalidate 21:17 50:2 52:4,16 42:21,24 43:8 36:13,17 40:20
+14:21 involves 36:25 56:4 44:21 45:3,14 51:23 53:15
+16:7 44:5 jurisdictional 45:16,25 46:5 55:18 56:22
+26:6 involving 46:10 39:18 44:8,12 46:12,20 47:1 knowing 10:11
+47:12 Iowa 40:5 47:2 51:15 47:5,9,14,18 13:2 26:5
+51:12 issue 15:15 jury 20:19,19,23 48:6,8,10,13 36:23
+35:9,11 33:19 55:4 49:20 50:5,23 47:24,24
+52:9 lot 50:9 23:13 35:25
+17:13,17 28:2 37:17 lower 30:23 56:1 name 16:20
+33:23 license 10:3 lurking 42:23 member-owned narrow 3:13
+48:21,24 licensing 9:23 50:16 nation 6:3
+10:5,6,9,12,20 M mentioned 9:23 national 40:5
+11:2,19 22:25 Maguire 29:16 32:18 43:14 44:9,15
+37:11 majority 15:24 mere 48:11 nature 7:22 18:2
+light 26:1 15:25 merely 13:1 21:20 38:2
+22:24 listening 55:17 making 12:11 25:25 26:3 37:25 38:2
+37:9 little 18:8 51:2 34:24 met 25:4 39:2 46:23
+32:22 loan 13:23 14:24 Manhattan Minn 1:17 38:20 39:15
+41:7 15:11,13,14,16 53:12 Minneapolis 40:23 47:20
+8:16 34:13,20,23 31:13 35:6,8 minority-owned 21:23 23:19
+12:5,13 35:2,16,23 54:2 57:19 33:7 25:4 26:13
+13:1,24 36:6,22 37:1 McCord 29:16 minutes 55:13 needs 7:25 9:13
+14:11,11 37:21,22,25 mean 5:23 8:8 missing 22:21 11:4 43:9
+16:11 38:2,10,10 10:8,12 11:6 39:5,6 neither 3:15
+48:24 49:21 23:9,10 31:25 mission 41:8 31:24,25 43:4
+50:7 52:10,18 32:9,10,15 mistake 42:8 Nevada 6:12
+27:6,9 53:12,13 54:19 39:9 40:25 modified 24:1 new 53:7,7
+28:14 55:21,24 56:7 42:4 45:17,17 Monday 1:11 newspaper
+31:2 loans 15:17 48:7 50:6,8 Montana 3:12 38:22
+34:24 36:10 52:5,6 57:6 4:6 5:10,24,24 nexus 37:17
+32:13 52:25 meaning 25:10 6:19 9:12,23 Ninth 29:15
+37:4 Long 1:6 3:5 means 3:22 5:2 21:20 22:2,3,5 30:4 31:10
+14:18 17:13,16 22:25 29:17 22:13,22,23,24 non 15:1
+42:14,20 19:5,12,23,25 43:11 23:10,18,22 nonconsensual
+20:3,6,13 meant 5:3 23:11 24:1,12 37:9 25:15
+47:4 26:24 33:23 50:6 38:18 39:3,22 nondiscrimin...
+56:17 longer 51:12 mechanic 10:1 40:9 45:5,11 11:20
+look 4:6 5:9 19:3 37:13 45:22 47:21 49:18 22:6 37:14
+48:2 officers 36:7 41:19 51:19 policy 45:13 probably 52:15
+56:10 37:1 particularly political 45:9 53:24
+Oh 12:9 35:11 52:13 46:2 probate 51:3
+5:15 23:1 24:3 parties 19:4,5 position 29:25 problems 56:12
+45:7,11 oneself 9:25 50:18 52:15 37:3 46:22 procedural 27:6
+54:20 operation 50:11 PAUL 1:17 2:3 47:5 procedure 27:12
+56:4 operations 2:11 3:7 55:14 possessed 3:18 27:13,14
+36:16 49:6 pay 7:10 8:20 49:7 procedures
+opinion 7:2 56:5 perfectly 41:2 12:20 proceedings
+30:7 personal 15:17 post 48:4 proceeds 7:8
+25:20 44:24 person's 55:6 6:9,10,14 57:4,6,10
+ordinance 12:14 1:18 2:4,12 3:8 pragmatic 54:2 55:21,23,24
+38:21 organized 14:23 piece 36:22 preclude 43:25 property 49:8
+original 48:5 51:19 predicate 39:11 protect 16:21
+27:11,19 56:23 places 49:6 present 39:24 protection 57:1
+28:8 outsider 12:6 Plains 1:3 3:4 presented 18:1 protections
+40:9 42:24,25 plaintiff 17:13 preserved 29:10 57:14
+21:9,19 22:21 pretty 45:24 46:16
+28:11 P 3:1 26:16,19 27:4 pre-empt 4:22 provision 16:11
+29:9 page 2:2 20:18 28:3 30:19 pre-emption 4:1 16:22 17:8
+20:22 33:2,8,16 35:5 4:22 provisions 27:14
+33:19 25:12 17:23 22:7,9 48:7,12,17,20 48:21 56:12,13
+reason 4:3,12 22:16 23:6,8 48:24 49:2,4,5 57:6
+11:22 48:20,20 23:12 26:5 49:12,13,17,22 rights 4:5 14:9
+REBUTTAL 37:18 38:5 50:18,25 51:8 rise 38:3 39:2
+29:12 47:22 48:1,5 52:11,11,13,14 31:13
+recognized 3:13 15:15 23:2 45:8 27:8,22 30:3
+7:1 45:14 46:14 relevant 54:13 residing 39:16 33:6,21 34:1
+12:10 recognizes 46:2 reliance 32:6 resolution 16:16 34:11,19,25
+16:4,13 record 15:20 rely 56:18 17:16 35:7,19 36:9
+17:12,25 28:6 remainder resolve 30:9,12 39:10,20,25
+19:16 redressibility 25:17 30:18 53:18 41:13 43:21
+30:20 remained 56:7 resolved 16:12 44:21 46:5
+25:11 regarding 8:16 remaining 55:13 17:19 18:4 47:9,14 48:19
+27:3,5 regulate 5:1 6:4 remand 30:22 45:19 48:23 49:10,20
+29:8 6:10 7:14,24 remodeling respect 22:4 50:5 52:17,21
+31:7 22:24 23:14 52:22 27:2 52:24 53:6,11
+35:8 24:6,24 25:7 remove 43:2,4 respectfully 53:21 54:15
+40:20 25:11 56:12 30:21 55:1,7,12
+54:10,25 regulating 3:22 repeatedly responded 9:15 57:16
+40:23 53:4 45:12 Respondents Roebuck 29:25
+34:14 4:19,21,23 5:7 56:17 responds 42:12 rose 18:3
+5:11 6:5,17 requested 27:17 response 22:22 roughly 28:5
+21:25 requirement 17:10 39:13 41:1,10
+10:4,18 41:22 South 14:17,17 stay 14:10 36:8
+23:25 seven-year 26:4 16:16 17:14,16 step 34:4 55:16 suggest 36:14
+30:10 shareholders 17:17 31:17 STEVENS suggested 43:7
+34:15 47:11 33:17 43:10 18:22 19:9,16 suggests 12:10
+17:9 48:3 51:22 straightforward summary 26:22
+33:17 shows 38:22 sovereign 3:11 38:17 39:22 41:12
+side 14:5 sovereignty 42:18 supply 10:23
+48:15 sign 10:17 39:16 stranger 42:1 supporting 1:24
+11:6,10 26:20 27:2 special 27:14,24 24:4,8 37:16 supports 29:11
+13:3 silence 16:17,24 28:6,11,15 46:18 29:14,19,21
+14:25 silent 56:1,7 33:3 stretch 25:13 suppose 41:25
+16:3,6 simply 12:16 specific 9:18 stretches 25:13 42:3
+18:10,12 40:6 15:12 22:14 25:14 supposed 7:6
+28:18,25 Sioux 27:11 27:16,18 29:9 strongly 36:23 30:12 34:14
+31:1,5 31:14 50:8,9 structural 56:12 35:10
+32:6,12 sister 43:16 specifically structure 56:19 Supposing
+33:3 situation 7:15 32:25 46:9 56:20 18:24
+41:5 9:2,15 10:8 split 29:8 30:9 subject 6:20 supreme 1:1,14
+46:12 36:11,14 squarely 16:16 35:19 37:14,22 33:15
+situations 7:13 stand 56:23 38:10,25 49:16 sure 10:3 35:7
+51:2,9 22:6 standard 14:8 49:20 50:2,6 49:4
+52:3 smell 16:20 standing 25:24 53:14 57:4 surely 6:1
+25:3,8 26:8 10:6 34:12 14:8,10,25 39:19 system 31:13
+53:13 31:16 33:10,15 44:9 systems 45:15
+28:12 39:21 43:24,25 44:5 subsequent T 2:1,1
+54:7 39:10 43:23 47:3 51:23 subsequently take 9:21
+45:23 States 1:1,14,23 48:2 takes 29:25
+24:14 source 41:10 44:25 38:19 15:14 22:13
+45:14 54:25 station 7:6,9 substantive 14:4 talks 5:24
+8:8,12,21 56:24,25 57:13 28:5 30:11,17 turns 25:8 validity 56:16
+22:10 third 26:18 30:23 31:1,15 two 3:13 4:13 various 32:12
+thought 9:14 31:20,20 32:9 26:25 36:10,10 36:6
+9:18,19 24:10,19 40:25 36:25 37:15,23 55:13 verdict 20:17
+11:2,18 three 26:2 38:11,25 40:2 type 33:12 43:24 21:9 26:16
+50:20 time 25:17 31:11 40:9,14,18 types 5:14 36:10 27:5 28:13,15
+54:18 tort 18:18,20 46:24 47:3,4,7 44:6 versus 3:5 5:15
+55:11,12 21:3 25:15 51:16 53:14,20 14:13 view 28:20
+51:18 53:21,25 55:6 underlying 3:13 46:20
+38:5 transaction 15:9 57:15 underlyng 54:11 vote 42:25
+49:15 49:4 51:4 tribal-court underscores
+transactions 7:19 35:13,20 56:16 W
+transcript 28:4 tribe 6:3 7:5,7 18:6 20:2 25:2 waive 29:2
+5:3,4,20 transfer 51:4,6 10:2,5,9 12:13 33:6 44:12 28:15 29:18
+7:12 treat 27:6 17:2,5 22:7,17 understanding 30:1
+treated 29:7 22:24 23:2,12 22:1,3,12 waiver 29:16
+9:11,13 33:18 25:11 27:11 26:18 walks 48:10
+10:16 treating 42:18 31:14 33:9,19 understood want 11:16,18
+12:12,25 42:19 36:5 37:1,13 40:16,19 11:18,21,23
+treatise 31:14 45:19,22,22 undifferentiat... 21:21 31:8
+16:23 trial 28:4 42:16 51:16 54:1 21:1 36:17 48:23
+19:12 tribal 3:14,17 tribes 3:11 5:14 unenforceable 53:18
+24:8 4:8 9:6,9 10:22 39:15 45:6,10 6:18 wanted 48:24
+11:25 12:3,5,6 46:3 55:19,25 unfortunately Washington
+32:11 12:14,17,18 56:3 30:16 44:3 1:10,19,22
+36:20,22 13:1,2,18 tribe's 25:6 United 1:1,14,23 Wasn't 15:8
+14:19,22 15:5 41:23 2:8 39:17 way 4:4 9:6
+38:12 15:7 17:3,5,10 tried 20:17 21:8 44:25 20:16 21:8
+40:8 18:2,5,6,8 19:1 trigger 52:16 use 11:10 29:4 34:6
+19:7,11,14,18 triggers 51:14 usually 39:11,12 38:24 42:19
+44:16 19:24 20:1,19 true 24:8 40:1 44:2 50:11
+47:17,23 21:14,14 22:8 46:1 V 55:18
+50:1 51:9 23:13 24:12,13 trust 36:4,25 v 1:5 29:16 ways 13:7
+24:17,24 25:4 trying 33:8 vacate 30:22 weight 13:4
+55:16 26:7,9,21 27:5 turned 11:25 vacature 27:7 went 10:11
+27:6,9,11,13 48:25 valid 29:11 35:23 36:4,25
+21 29:25
+3 2:4
+13:15 4
+41:2 4 27:25 28:2,8
+2:9
+2:12
+6 20:22 27:19,24
+1:5 3:4 28:2
+8
+7:8 27:11 83 29:16
+40:9
+1:15 3:2
+57:18
+41:10
+29:16
+1:11 41:21
+42:8
+41:22
+20:18 27:23
+20:18,18,22
+15:14,16

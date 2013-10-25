@@ -1,0 +1,1722 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+SAMSON TAIWO DADA, :
+Petitioner :
+v. : No. 06-1181
+MICHAEL B. MUKASEY, :
+ATTORNEY GENERAL. :
+- - - - - - - - - - - - - - - - - x
+Washington, D.C.
+Monday, January 7, 2008
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 11:06 a.m.
+APPEARANCES:
+CHRISTOPHER J. MEADE, ESQ., New York, N.Y.; on
+Behalf of the Petitioner.
+EDWIN S. KNEEDLER, ESQ., Deputy Solicitor General,
+Department of Justice, Washington, D.C.; on behalf
+the Respondent.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+CHRISTOPHER J. MEADE, ESQ.
+On behalf of the Petitioner 3
+EDWIN S. KNEEDLER, ESQ.
+On behalf of the Respondent 25
+REBUTTAL ARGUMENT OF
+CHRISTOPHER J. MEADE, ESQ.
+On behalf of the Petitioner 53
+P R O C E E D I N G S
+(11:06 a.m.)
+CHIEF JUSTICE ROBERTS: We'll hear argument
+next in case 06-1181, Dada v. Mukasey.
+Mr. Meade.
+ORAL ARGUMENT OF CHRISTOPHER J. MEADE
+ON BEHALF OF THE PETITIONER
+MR. MEADE: Mr. Chief Justice, and may it
+please the Court:
+Congress has provided that certain aliens,
+including those with good moral character, are eligible
+for voluntary departure. Congress has also provided
+that all aliens may file one motion to reopen raising
+new facts within 90 days.
+The question is how to reconcile these two
+provisions. The parties agree on two key points:
+First, the Government agrees that the statute can be
+read to preserve motions to reopen for voluntary
+departure recipients. Second, the Government agrees
+that such aliens can file a motion to reopen; and if the
+immigration official happens to act quickly enough, the
+alien will receive a ruling. But, under the
+Government's view, if the official does not act quickly
+enough, the alien is denied an adjudication.
+JUSTICE GINSBURG: Can we consider that in
+your case, given that the application to reopen was made
+when there were only two days left to run for the
+termination of the voluntary departure time -- in other
+words, it was your delay, not the Government's, that
+made it impossible to decide this in the requisite time?
+MR. MEADE: Yes, Justice Ginsburg, and I
+have two responses, one relating to this particular case
+as well as the cases in general.
+But, as to this particular case, Mr. Dada
+found new counsel, which took a week; and in the
+remaining time he prepared a motion to reopen with 80
+pages of exhibits including affidavits, five letters,
+medical documents, financial records including tax
+returns. And that's why it took an additional
+two-and-a-half weeks to do the motion to reopen.
+But, as a general matter, aliens file at
+different periods during the period. For example, in
+the Eleventh Circuit case of Ugokwe the alien filed with
+30 days left in the period, and the Government, the
+agency, didn't act in time.
+But what happens in the agency is that
+motions to reopen are, in fact, decided relatively
+quickly -- just not quickly enough.
+CHIEF JUSTICE ROBERTS: How many of those
+are -- are granted?
+MR. MEADE: How many --
+CHIEF JUSTICE ROBERTS: What percentage of
+motions to reopen are granted in favor of the alien?
+MR. MEADE: We've looked for that statistic,
+and we have not been able to find the statistic.
+However, there are numerous cases presenting very
+sympathetic facts which show grants of motions to
+reopen.
+CHIEF JUSTICE ROBERTS: So how many -- do
+you know how many are filed on an annual basis?
+MR. MEADE: Yes, I do. As a general matter,
+there are 10,000 motions to reopen filed, but that's for
+all aliens, for all removal proceedings. Since
+voluntary departure is roughly 10 percent of all
+removals, we estimate that'S roughly a thousand motions
+to reopen filed by voluntary departure recipients.
+CHIEF JUSTICE ROBERTS: So there would be no
+reason not to file one of these if you were subject to
+voluntary -- if you elected voluntary departure, and it
+extended your time to stay, right? Seemingly, everybody
+would file one of these if we rule in your favor.
+MR. MEADE: Not necessarily. There are --
+the statute governs when a motion to reopen is proper,
+and the Attorney General determined, even under the
+previous statutory scheme --
+CHIEF JUSTICE ROBERTS: We're dealing with
+people who have already broken the law. So you're
+saying they are likely to follow the statute that says
+only file a motion to reopen under these circumstances?
+MR. MEADE: Well, two responses: First,
+there are sanctions for frivolous filing under the
+immigration proceedings.
+Second, the Attorney General, under the old
+regime that wasn't tightened -- the Attorney General
+concluded that there was no pattern of abuse of motions
+to reopen.
+And, third, going forward, this is not a
+risk because --
+JUSTICE ALITO: If an alien has not been
+diligently pursuing his or her rights, you would argue
+the person was still entitled to equitable tolling if
+the alien files a motion to reopen?
+MR. MEADE: When you say that they're not
+diligently pursuing their rights, I am not clear --
+JUSTICE ALITO: Isn't that generally a
+requirement for equitable tolling: A person has to have
+been diligently pursuing his rights?
+MR. MEADE: Generally, yes.
+JUSTICE ALITO: But you don't advocate the
+adoption of that here. You say if you file a petition
+-- a motion to reopen, you get automatic equitable
+tolling.
+MR. MEADE: Yes. Not necessarily equitable
+tolling, but, yes, automatic tolling under the statute.
+But to show quickly --
+JUSTICE GINSBURG: Why isn't -- why isn't it
+fair to say: You have the short time frame by statute
+to leave the country if you've left in voluntary
+departure. Yet, the Government has provided reopening
+for all aliens. Okay.
+Why isn't it reasonable to say that, by
+asking for reopening when you've gotten permission to
+voluntarily depart within "x" days, you are
+relinquishing your voluntary departure status?
+MR. MEADE: That --
+JUSTICE GINSBURG: Isn't that a perfect
+reconciliation of the two?
+MR. MEADE: Yes, Justice Ginsburg. That's
+the option that the Government is proposing
+prospectively. It is also something that my client
+requested at every stage of the proceedings before the
+Board, before the Fifth Circuit, and the cert petition,
+and in our opening brief. That is one way to reconcile
+the two statutory provisions which the Government is
+proposing on an ongoing basis that will not apply to our
+client.
+JUSTICE GINSBURG: But you raised the
+question, as I remember, when you put it in the cert
+petition. The Government advised against granting on
+that question and limiting it to the question of having
+it -- having it both ways, keeping your voluntary
+departure and moving to reopen.
+MR. MEADE: Yes, that's correct, Justice
+Ginsburg.
+CHIEF JUSTICE ROBERTS: Counsel, another way
+to reconcile the two that I think would be beneficial to
+your client, but I'm not sure it's open to us, is to
+address the Government's view that, when you voluntarily
+depart, your motion to reopen is automatically
+withdrawn. That is, as I gather, set forth only in a
+regulation and not the statute.
+Now, it seems to me that if I were -- if I
+thought it important to reconcile the two, I would be
+much more concerned about that interpretation -- that
+the motion to reopen is automatically withdrawn -- than
+I would suggest we start incorporating equitable tolling
+rules and all of that.
+But, I take it, the vulnerability of that
+regulation is probably beyond -- beyond debate.
+MR. MEADE: Well, that regulation is subject
+to litigation. That would be another way to solve the
+problem as you suggest. It would be --
+JUSTICE SOUTER: But it wasn't directly
+challenged here, was it?
+MR. MEADE: Excuse me?
+JUSTICE SOUTER: That regulation was not
+directly challenged in this case?
+MR. MEADE: It was not directly challenged
+because the Fifth Circuit is one of the circuits that
+says that the motion -- that regulation is valid.
+CHIEF JUSTICE ROBERTS: So if we don't
+address it here, there's going to be another case in a
+year or 18 months where that's going to be raised?
+MR. MEADE: Your Honor, as to voluntary
+departure recipients, this Court can construe the
+statute to avoid the conflict here. And, moving
+forward, the Government has a proposed solution which,
+if adopted, will resolve the question on an ongoing
+basis.
+Some of the examples of the facts that arise
+in motions to reopen are seen in various cases. For
+example, a child newly diagnosed with mental
+disabilities as in the Azarte case in the Ninth Circuit,
+a parent newly diagnosed with health problems as in the
+BIA case of Diaz Mucho --
+CHIEF JUSTICE ROBERTS: Well, in all these
+cases, if you think you have a good case on the motion
+to reopen, all you have to do is give up the benefits
+that you have availed yourself under voluntary
+departure, and then the motion to reopen is not
+automatically withdrawn.
+MR. MEADE: With respect, that's not an
+option to our client. Our client tried to do that, but
+was not permitted.
+CHIEF JUSTICE ROBERTS: No, I mean he -- you
+should not elect voluntary departure in the first place.
+MR. MEADE: Well, the problem is because of
+the very nature of the motion to reopen. A motion to
+reopen, by its very nature, is based on changed
+circumstances, circumstances that were not available at
+the original time of the hearing.
+So a person could enter and accept voluntary
+departure at the time of the hearing and, because of
+circumstances that change, that, by definition, he or
+she could not have known about, is then in a bind when
+he wants to --
+CHIEF JUSTICE ROBERTS: What were those
+circumstances here?
+MR. MEADE: The circumstances here is that
+previous counsel had failed to submit an application and
+supporting evidence. And under the BIA case law that's
+a proper vehicle for a motion to reopen.
+JUSTICE GINSBURG: But it existed? You're
+not saying something that came up later? What was the
+ground that the, in this case, that wasn't brought up by
+the first counsel?
+MR. MEADE: It was a file for adjustment of
+status, an application for adjustment of status and
+supporting documents, as well as the supporting evidence
+showing that this was a bona fide marriage. And the BIA
+has numerous cases which says that a motion to reopen of
+this type is a valid motion to reopen.
+Now, of course, the agency didn't rule on
+whether the facts did or not -- did or did not need a
+motion to reopen. So that question isn't before the
+Court. But the other cases show the various kinds of
+tracks that come up to establish a motion to reopen and
+why it's an important part of the immigration process.
+JUSTICE SOUTER: Mr. Meade, why was your
+client not allowed to withdraw the voluntary departure
+option, withdraw from it?
+MR. MEADE: Justice Souter, that's unclear.
+The agency didn't ask -- didn't answer that in the first
+instance. There has never been a reason given
+throughout the entire litigation, and now there is some
+irony --
+JUSTICE SOUTER: So all we have on the
+record is just an IJ's determination that he would not
+accept it?
+MR. MEADE: Well, it wasn't the IJ. It was
+before the Board. It was presented to the Board, and
+the Board's order only said he is ineligible for this
+relief because he has overstayed the voluntary departure
+period. But there is some irony --
+JUSTICE SOUTER: But at the time he filed,
+he had not overstayed, because he filed on Friday
+afternoon, right?
+MR. MEADE: Yes.
+JUSTICE SOUTER: So -- so maybe the point is
+we didn't have time to rule on it simply because he
+filed it on Friday afternoon and he had to leave on
+Sunday, and therefore, we should not take that as a
+determination that had he filed in time for timely
+action by the court he would have been denied.
+MR. MEADE: The agency has never given a
+reason for why they did not accept the withdrawal,
+although there is some irony in the fact that the
+proposed solution going forward would give aliens
+exactly what my client asked for if the agency --
+JUSTICE ALITO: If the voluntary withdrawal
+had been withdrawn successfully, he would then have been
+subject to the alternate order of removal?
+MR. MEADE: That's correct, Your Honor.
+JUSTICE ALITO: And he could have been
+removed immediately?
+MR. MEADE: That's correct.
+JUSTICE ALITO: And that would have mooted
+the motion to reopen, wouldn't it?
+MR. MEADE: It wouldn't have mooted the
+motion to reopen. Motions to reopen are available to
+all aliens subject to a final order, including criminal
+aliens, including some accused of terrorism.
+JUSTICE ALITO: Would it remain pending once
+he had left the United States?
+MR. MEADE: Not once he had left the United
+States. But all my client wants -- all my client wanted
+at that time was to be placed in the same circumstance
+as all other aliens subject to a final ruling.
+JUSTICE SCALIA: No, but he's not in the
+same circumstance. I mean, he's made his choice. He
+was offered voluntary departure, which had advantages.
+He could arrange his affairs and go when he wanted
+within 60 days. What he gave up was the ability to
+appeal the determination.
+That doesn't seem to me as, as outrageous.
+I mean, it happens all the time. When a criminal
+defendant pleads to a lesser charge, he gives up the
+ability to appeal. And that's what's going on here. He
+has gotten the advantage of a voluntary departure and
+given up the ability to appeal. I don't bleed for him.
+It seems to me it's an option presented
+before him and he took it.
+MR. MEADE: I have three responses, Justice
+Scalia.
+First, I'll agree that the alien can file
+the motion to reopen. The only question is whether it's
+going to be adjudicated in time.
+Second, as for the question of the bargain,
+whether giving up appeals is part of the bargain, all
+parties agree that an alien who accepts voluntary
+departure can continue to appeal to the Board, to the
+courts of appeals. The only, the only adjudicatory
+process that the government says that my client is not
+entitled to now is one motion to reopen.
+JUSTICE SCALIA: Still and all, it's part of
+the deal. Even better. Even better. He hasn't even
+given up all his appeals.
+MR. MEADE: One final --
+JUSTICE SCALIA: It's just, part of the deal
+he gave up this little ability to reopen, and that's --
+that's the choice he made when he accepted voluntary
+departure.
+MR. MEADE: One final response is that in
+the government's proposed regulation, an alien is
+permitted to file a motion to reopen notwithstanding
+having been granted voluntary departure, which indicates
+that the government itself does not think that the
+bargain includes -- or that Congress did not intend the
+bargain to include a waiver of the one motion to reopen
+which all aliens are entitled to file.
+JUSTICE GINSBURG: Going back to the
+question that Justice Alito put to you, that he would
+then be, and you agree this is what you asked for first,
+like any other removable alien. And Justice Alito asked
+you: Well, then he could be removed immediately, is
+that not so? My understanding was, yes, that's so, but
+you can move for a stay of removal when you have a
+reopening pending. Is that true?
+MR. MEADE: Yes. If you have a final order
+of removal, yes, you can file for a stay once you have a
+final order. So my client is in a worse position.
+Because he's under the voluntary departure grant, he
+cannot get the same ability for a stay that those who
+are subject to a final removal. So the irony is --
+JUSTICE KENNEDY: If you say that tolling is
+automatic, which I assume is your position, would it be
+possible under the statutes to say that tolling is not
+automatic but can be permitted in the discretion of the
+hearing officer?
+MR. MEADE: I --
+JUSTICE KENNEDY: Or are we then just
+inventing something that's not in the statute at all?
+MR. MEADE: Well, the problem, Justice
+Kennedy, is that the agency would need to act within the
+short time period. And --
+JUSTICE KENNEDY: No. All it needs to do is
+to say, we'll grant you an extension while we look at
+this.
+MR. MEADE: That's true, Justice Kennedy.
+But that's essentially the same action that would be
+needed to decide the motion to reopen in the first
+place. Motions to reopen are discretionary. They go to
+the same Board member that had decided the original
+appeal. So it does not take much time or effort for the
+agency to be able to decide these, as is reflected by
+the general time periods for adjudication.
+For example, in the Dekoladeno case on the
+Fourth Circuit, the motion was decided in 23 days. In
+the Sidikhouya case out of the Eighth Circuit --
+CHIEF JUSTICE ROBERTS: Well, presumably it
+doesn't take them much time because when someone elects
+voluntary departure they don't have to address it. I
+mean, this would obviously increase the volume of
+motions to reopen. As I said, I don't see know why
+anybody -- why everybody wouldn't file one, because it
+extends their stay.
+MR. MEADE: It's a discretionary
+determination to the single Board member. And the Board
+member could deny the motion to reopen, even when
+there's a prima facie case. All they have to do is look
+to see if it -- in the subset of cases that the agency,
+exercising its own discretion, where they agree that a
+motion to reopen is proper. And all we're asking for in
+this case, not special procedures, not anything added to
+the motion to reopen process, but only the right to have
+--
+JUSTICE BREYER: Is there appeal? I mean,
+what happens? They file a motion to reopen, denied.
+Now, can they appeal that?
+MR. MEADE: Yes.
+JUSTICE BREYER: Okay. And how much time
+does that take?
+MR. MEADE: Well, the denial of a motion to
+reopen, at that point there would be a final order in
+effect.
+JUSTICE BREYER: Right. But how -- do they
+then appeal the motion to -- they appeal the motion --
+the denial of the motion to reopen or how long -- where
+do they go? Do they have -- this is the Board, so they
+go right to the court of appeals?
+MR. MEADE: That's correct.
+JUSTICE BREYER: And how long do those take
+on average?
+MR. MEADE: One difference, though, between
+petitions for review and motions to reopen is that
+petitions for review can be decided from outside the
+country under the 1996 amendments. And motions to
+reopen under the agency's regulations, cannot. So the
+problem is that there is no ability for an alien --
+JUSTICE BREYER: I'm not interested in the
+problem. I'm interested in how much added time it
+actually means. So let's go -- if you win, how much
+additional time in a typical case would the alien have
+before he has to leave?
+MR. MEADE: Petitions for review take
+longer. According to the agency's current regulations,
+they take approximately, I believe, 13 months or so is
+what the --
+JUSTICE BREYER: And then, and then do you
+in addition ask for cert or is it not in addition? Are
+you including that within the 13 months?
+MR. MEADE: Your Honor, I don't have those
+exact statistics.
+JUSTICE BREYER: Or would you just guess on
+the basis of your experience? I'm not holding you to
+it.
+MR. MEADE: There might be cases where alien
+seek cert as well. But for the most part --
+JUSTICE BREYER: All right. What I'm
+wondering here, and this is because I see two contrary
+things, if for to you win it means that you are adding
+an average of, say, 400 days to a stay where Congress
+said we want you to stay no more than 60 days or 120?
+That's pretty hard for me to reconcile, to tell you the
+truth.
+MR. MEADE: Well, one of the answers on that
+question on the petition for review front is exactly
+what the government has proposed in its rule going
+forward, which is that an alien who has voluntary
+departure can file a petition for review, but by doing
+so the voluntary departure grant terminates and they're
+in the same position as other aliens, on the same level
+playing as other aliens. That's the solution being
+proposed by the government going forward, and as to the
+petition for review hypothetical that would also apply.
+That would just put my client in the same position as
+all other aliens, including criminal aliens.
+JUSTICE STEVENS: I'm not sure I understand
+it. Are you asking for automatic tolling just until the
+motion to reopen is decided or until the motion is
+decided and also the appeal process has run?
+MR. MEADE: Just for the motion, just for
+the time that the motion to reopen is decided.
+JUSTICE SCALIA: That's what I thought.
+JUSTICE BREYER: Well then, that's the
+answer to my question.
+JUSTICE SCALIA: But in your discussion with
+Justice Breyer you seemed to be saying that he can hang
+around right through the appeal.
+MR. MEADE: Thank you for the correction,
+Justice Scalia.
+CHIEF JUSTICE ROBERTS: Well, is your
+position that the right to appeal is taken away, just as
+under the current regime the motion to reopen is taken
+away?
+MR. MEADE: No, Chief Justice Roberts. The
+difference is that petitions for review can be
+adjudicated from outside the country, so whether the
+alien is here or abroad he can get an adjudication of
+his motion -- of his petition for review, and that was a
+change under the 1996 act.
+The problem for motions to reopen is that an
+alien cannot receive an adjudication at all. He can't
+stay. He can't go. There's no way for those new facts.
+JUSTICE SCALIA: That's by regulation,
+though, that he can't, he cannot pursue that from out of
+the country.
+MR. MEADE: Yes, that's true. That is
+not -- that is by regulation, although that regulation
+applies to all motions to reopen, not just for the
+subset of motions to reopen or voluntary departure
+recipients.
+JUSTICE KENNEDY: If your client or some
+other client, assuming the government wins in this case,
+leaves within the 60-day period and the petition for
+rehearing is forwarded, can he take all these affidavits
+and apply for an adjustment of status, or is that much
+longer?
+MR. MEADE: No. The problem is that for an
+alien, for many aliens covered by voluntary departure,
+once they leave the country they are subject to various
+unlawful presence bars. So by leaving the country these
+bars are triggered and they cannot get the same relief
+from outside the country.
+JUSTICE KENNEDY: Even with voluntary
+departure?
+MR. MEADE: Even with voluntary departure.
+Leaving the country triggers these bars. Once you're
+outside the country you cannot reapply for admission for
+in some cases up to 10 years, and that precludes the
+ability to leave the country and seek the relief, even
+if you have a marriage to a United States citizen, even
+if there are extreme circumstances in a particular case
+that need to be addressed and that would be addressed
+under a motion to reopen.
+CHIEF JUSTICE ROBERTS: Do you have to argue
+that the -- my understanding is that once the -- let's
+say it's the government's proposed regulation and the
+motion for -- or the voluntary departure is withdrawn to
+enable you to consider the motion to reopen. They can
+proceed with deportation at that time, correct?
+MR. MEADE: Absolutely.
+CHIEF JUSTICE ROBERTS: So you -- you almost
+have to be arguing that the motion to reopen tolls the
+time for deportation as well, right?
+MR. MEADE: No. We just want -- under the,
+under the question -- under the government's proposed
+rule or under the --
+CHIEF JUSTICE ROBERTS: Well, under your
+position, I guess, is what your position is on that.
+MR. MEADE: Right. Well, the tolling
+solution, the tolling construction, would permit tolling
+during the voluntary departure period and during the
+voluntary departure period there is no final order in
+effect. So yes, it would toll the time for leaving the
+country.
+CHIEF JUSTICE ROBERTS: In other words, the
+government cannot enter a deportation order during a
+voluntary departure period.
+MR. MEADE: Yes. That's governed by the
+agency's own regulations that say that there's no -- the
+ultimate order of deportation does not go into effect
+until an overstay of a voluntary departure period.
+One thing that is --
+JUSTICE SCALIA: So I'm not following this.
+I thought the assumption was we're going to be using the
+government's new proposed system, in which the
+acceptance of voluntary departure is eliminated when you
+file a reopening petition, right. So can the government
+then proceed to deport you involuntarily or is that also
+going to be stayed until, until completion of the
+reopening petition?
+MR. MEADE: I'm sorry, Justice Scalia.
+You're absolutely right. I was addressing the tolling
+construction with Mr. Chief Justice. But as to the
+government's proposed rule under the proposed rule and
+what my client asks for, the time -- the alien would be
+automatically subject to a final order and could be
+deported involuntarily so long as the alien did not get
+and obtain a stay of deportation from the agency or the
+court, so yes.
+JUSTICE SCALIA: And that, that involuntary
+deportation would effectively cancel the, the petition
+for reopening, right?
+MR. MEADE: If the agency acted quickly
+enough and involuntarily deported someone within that
+time --
+JUSTICE SCALIA: Why are you willing to
+leave the involuntary deportees in that position,
+whereas you're not willing to leave the voluntary
+deportees in that position, that their reopening
+petition just vanishes? Why is it any fairer for the
+involuntary deportees than for the voluntary? In fact
+it's probably fairer for the voluntary because they made
+their choice.
+MR. MEADE: Your Honor, I agree with you
+that that regulation is problematic, although the Court
+does not need to address it in this case.
+With the court's permission, I would like to
+reserve the balance of my time.
+CHIEF JUSTICE ROBERTS: Thank you,
+Mr. Meade.
+Mr. Kneedler.
+ORAL ARGUMENT OF EDWIN S. KNEEDLER
+ON BEHALF OF THE RESPONDENT
+MR. KNEEDLER: Mr. Chief Justice and may it
+please the Court:
+The filing of a motion to reopen does not
+automatically suspend the obligation of an alien to
+leave the United States within the time that was
+specified in the Board's order granting permission to
+depart voluntarily. The grant of voluntary departure
+reflects an exchange of benefits between the government
+and the alien and Petitioner's automatic tolling rule
+would greatly subvert that reciprocal arrangement by
+giving the alien the unilateral and automatic ability to
+extend the substantive terms of the immigration relief
+the --
+JUSTICE SCALIA: Mr. Kneedler, I think, I
+think that your, your opposing counsel gave a good
+answer to that. I also thought it was a quid pro quo,
+but it's a very strange quid pro quo. I could
+understand the government saying, look, if you accept
+voluntary departure your reopening is dead; you have to
+choose between asking for reopening or voluntary
+departure. But that's not the quid pro quo you're
+saying that the government is adopting. The quid pro
+quo is if you accept voluntary departure you roll the
+dice as to whether your reopening petition will be
+decided in time. It isn't dead. It's still there, but
+you just have to hope that it will be decided before you
+get deported.
+MR. KNEEDLER: Well, let me make one --
+CHIEF JUSTICE ROBERTS: That's a very
+strange statutory quid pro quo, it seems to me.
+MR. KNEEDLER: Let me make one point clear
+at the outset. Petitioner's motion to reopen was not
+dismissed because he was not able to file one. It was
+denied because he was not eligible for the underlying
+substantive relief that he requested in this motion.
+Overstaying a voluntary departure period does not, for
+example, bar an alien from obtaining asylum or
+withholding of removal on a motion to reopen. It's only
+the particular substantive form of relief that he
+requested in his motion to reopen that is at issue, and
+that was denied.
+JUSTICE SOUTER: Well, that may be. But
+Congress passed a statute that grants a statutory right
+to file a motion to reopen no matter what the relief is.
+And the thing that seems strange to me, I guess to carry
+Justice Scalia's question one step further, is what
+seems strange to me is that Congress would have granted
+that right in effect across the board, regardless of
+what the reason for the reopening might be and yet would
+have done so knowing that the, that the time for
+adjudication before the IJ is likely to take longer than
+the period of the, prior to the moment of required
+departure. It sounds as though Congress on your view
+would be -- would have been giving a right to reopen
+that in practical terms in most cases will avail the
+alien absolutely nothing because he'll have to get out
+before there can be an adjudication.
+MR. KNEEDLER: With all respect, that's not
+correct.
+JUSTICE SOUTER: Why?
+MR. KNEEDLER: Again, both prior to 1996 and
+after 1996 Congress specified that an alien who
+overstays the voluntary departure period is ineligible
+for three forms of discretionary relief. Now it's
+voluntary departure, cancellation or removal, or
+adjustment of status. That was true both beforehand and
+afterhand. Before 1996, there was no statutory
+limitation on the time for either a motion to reopen or
+voluntary departure. Congress was concerned about
+abuses on both of those fronts, and what it did in 1996
+was to compress the voluntary departure time for 60 days
+because it was concerned about how long the agency was
+allowing agents -- aliens to remain in the country under
+orders of voluntary departure. And what it did with
+respect to motions to reopen was very modest. It just
+put in statutory form a limitation that the agency had
+put in place pursuant to a statutory directive to place
+time and number limitations on motions to reopen because
+of Congress's concern about abuse.
+JUSTICE SOUTER: Okay, but isn't the
+question in this case whether what Congress did was as
+modest as you say? Because if it is as modest as you
+say, then in at least a substantial category of cases in
+which a motion to reopen will be filed, it will in fact
+be no time in the real world to act on that motion
+before the voluntary departure date. And the question
+is did Congress really intend a right to reopen that is
+as modest as that.
+MR. KNEEDLER: Well --
+JUSTICE SOUTER: And it seems strange that
+it would have.
+MR. KNEEDLER: Two responses to that. With
+respect to the voluntary departure, Congress anticipated
+that the alien was going to leave under the order of
+voluntary departure, not remain here. And prior to
+1996, just to --
+JUSTICE SOUTER: Well, it was -- was the
+regulation -- was the current regulation in place at the
+time of the '96 Act, that the -- that the departure of
+the alien, whatever the term is, waives the motion to --
+MR. KNEEDLER: That regulation has been a
+fundamental part of motions to reopen going back at
+least until the 1960s.
+JUSTICE SOUTER: So, we assume that Congress
+knew that.
+MR. KNEEDLER: Yes. Yes, we do have. And
+that's part of the arrangement. The only thing -- and
+that regulation was repromulgated as part of General
+Motion to Reopen Regulation in 1995.
+JUSTICE SOUTER: Okay, then Congress knew at
+the time of the '96 Act that, if in fact the motion to
+reopen was filed in the normal course, it probably
+couldn't be heard prior to the date at which (a) the
+alien either will overstay and be in trouble for that or
+(b) will have departed and, under the existing
+regulatory regime, have forfeited his right to reopen.
+And it's the strangeness that Congress would want --
+would have wanted to extend the right to reopen to a
+statutory level under these circumstances unless it
+contemplated some kind of a tolling scheme that would
+avoid this sort of Kafka-esque result.
+MR. KNEEDLER: No. Again, if I may, the --
+what Congress had in mind with the deal of granting
+voluntary departure was it greatly constricted the time
+to leave. You have to leave in 60 days, and if you
+don't leave in 60 days, you're not going to get
+voluntary departure adjustment of status or cancellation
+or removal. It didn't affect the eligibility for other
+substantive relief that an alien might file for in a
+motion to reopen, such as asylum, such as if he has new
+evidence going to the ground of removal. But Congress
+was particularly concerned not to allow these three
+forms of discretionary relief to remain available. And
+so I think Congress necessarily would have been
+unconcerned about whether, if an alien did file a motion
+to reopen within that greatly constricted 60-day period
+-- in fact, in this case the Board gave 30 days --
+Congress wasn't concerned about preserving the
+underlying substantive eligibility for those forms of
+discretionary relief, because it made that part of the
+deal, that alien was giving up if he left -- if he
+didn't leave the country, he was giving up that. Those
+were lesser order forms of relief that Congress was
+making available, but it did did not take away, for
+example, the right to apply for asylum or withholding.
+JUSTICE GINSBURG: Mr. Kneedler, why did the
+Government advise this Court not to grant cert on
+question number 1, which was: I want to apply to reopen
+and simultaneously, I want to withdraw my voluntary
+departure and be just like any other removable alien,
+take my chances just like anyone else? The Government
+said don't present that -- Court, don't consider that
+question. Why?
+MR. KNEEDLER: Because that had not been --
+led to widespread litigation in the courts. This
+automatic tolling rule is -- was what we were
+fundamentally concerned about. In fact, we told the
+Court not to take the case at all because the new
+regulations were under consideration. But that
+particular provision -- issue has not generated that
+much litigation. This automatic tolling rule has, and
+more than --
+JUSTICE GINSBURG: And it seems that this
+litigant said, number one, I don't want to take
+advantage of the status of I have to get out, but I can
+do so voluntarily. The first thing I want to do is to
+move to reopen, withdraw my voluntary departure. And
+then the second thing was, if I can't do that, please
+extend my voluntary departure time while I move to
+reopen. It seems that this litigant is being put in a
+bind by not allowing this Court to consider what was the
+alien's first preference, that is, to withdraw the
+voluntary departure.
+MR. KNEEDLER: But the Court rewrote the
+question presented so as not to -- not to address that,
+so I think it's not before the Court right here. But --
+but beyond that, the deal, the arrangement -- the
+Attorney General has a lot of discretion how to
+implement the voluntary departure provision. In fact,
+he has the authority to eliminate voluntary departure
+for additional categories of people who are not eligible
+under the statute itself. So whether to --
+JUSTICE ALITO: What is the basis for the
+rule that an alien can't withdraw, can't seek to
+withdraw a request for voluntary departure?
+MR. KNEEDLER: The regulations do not
+provide for it, and it's inconsistent with the --
+JUSTICE ALITO: There is no regulation that
+prohibits it. Is that right?
+MR. KNEEDLER: As far as I'm aware there is
+no regulation that prohibits it, but the order is a
+grant of voluntary departure, and the Board of
+Immigration Appeals order says you're granted permission
+to depart voluntarily within 30 days; if you do not, the
+following consequences flow from that. Nothing in the
+Board's order would allow the alien to avoid those
+consequences by saying on the 28th day, after all I
+don't want to do that. And this matter of implementing
+the voluntary departure agreement is part of a general
+scheme of a quid pro quo between the alien and the
+United States. The voluntary departure is granted under
+circumstances where the alien doesn't have that option.
+So unilaterally -- allowing the alien unilaterally to do
+that now is not provided for. Now, that doesn't -- that
+doesn't take away from the Attorney General's
+discretionary authority in implementing the Act to
+provide for that, which is what he has proposed in the
+new rule. But this case has to be decided under the --
+under the rules that are now in effect.
+JUSTICE BREYER: I'm having a lot of trouble
+understanding the case, because it's so complicated. If
+you -- could you track it through for a minute? I mean,
+as I understand this, this probably doesn't concern
+people who want to voluntarily depart before their case
+is finished, right? Where they don't reopen because
+there is nothing to reopen?
+MR. KNEEDLER: Right, but the people --
+JUSTICE BREYER: Okay. So we're at a person
+who is before the Board or before the hearing examiner
+and he wants to -- he is now got a final order against
+him.
+MR. KNEEDLER: Yes.
+JUSTICE BREYER: Okay. So now you say to
+him I'll tell you what we'll do to you: You leave, go,
+good-bye, and we'll let you pursue your appeals anyway,
+but from out of the country. That's true? Just tell me
+if I'm getting it right.
+MR. KNEEDLER: Well --
+JUSTICE BREYER: I'm not talking about
+reopening. I'm talking about appeals.
+MR. KNEEDLER: Well, if he -- if he leaves
+the country, I believe he can still appeal to the BIA.
+JUSTICE BREYER: And can you go to court,
+too?
+MR. KNEEDLER: Yes. Justice Breyer, under
+the statutory review provisions, you can -- you can
+petition for review and leave the country and still have
+--
+JUSTICE BREYER: Okay. So no problem. You
+say go, good-bye, and we'll give you some good deals
+here if you'll really go, but you pursue your appeals.
+JUSTICE STEVENS: Does not he lose his right
+to have the motion to reopen ruled upon?
+JUSTICE BREYER: That's what I'm asking, I'm
+getting at.
+MR. KNEEDLER: If I could just correct. I'm
+incorrect that you can have your appeal adjudicated if
+you leave the country. I --
+JUSTICE BREYER: I'm not talking about
+motions to reopen at all.
+MR. KNEEDLER: No, I understand that. The
+appeal from the immigration judge to the Board of
+Immigration Appeals.
+JUSTICE BREYER: Okay. But you can go to
+there? You go to the BIA?
+MR. KNEEDLER: That's where you go after --
+JUSTICE BREYER: Okay. Now, why wouldn't
+you treat --
+JUSTICE SCALIA: I don't understand your
+answer. You said you can or you can't from out of the
+country?
+MR. KNEEDLER: I've been informed that you
+-- that if you leave the country, you cannot pursue.
+JUSTICE BREYER: Cannot. Okay. But you can
+go to the BIA? Leaving the country?
+MR. KNEEDLER: No, you can't -- you can't go
+to the BIA.
+JUSTICE BREYER: You can't go anywhere.
+MR. KNEEDLER: You can't -- you cannot go to
+the BIA.
+JUSTICE BREYER: So you lose all your
+appeals, not just your motion-to-reopen appeals if you
+leave the country?
+MR. KNEEDLER: Your administrative appeals.
+You do not -- the statute has been amended to allow you
+to petition for review in a court if you leave the
+country.
+JUSTICE BREYER: Oh. Okay. So you say --
+MR. KNEEDLER: Yes. Which was a change from
+what was before this Court in Stone. In 1996 Congress
+amended the Act to allow an alien to continue to
+challenge the final removal order after he leaves the
+country in court.
+JUSTICE SOUTER: Yes, but you can't get to
+court if you haven't been to the BIA, right?
+MR. KNEEDLER: I believe -- I believe that's
+true unless --
+JUSTICE SOUTER: And, again, we are talking
+about a short period of time, like 30 days. In
+practical terms there's no way he is going to get
+through the BIA in 30 days. And, therefore, when he
+leaves the country, he cannot then try to get or
+complete his BIA review, and he therefore will have no
+chance to get into court, right?
+MR. KNEEDLER: I think that -- I think that
+would be correct unless -- I don't think this has ever
+come up that I'm aware of, about whether you could go to
+court from an immigration judge's decision where you've
+left the country and therefore can't appeal to the BIA.
+JUSTICE SOUTER: There's no reason to assume
+that you could.
+MR. KNEEDLER: I just don't know the answer
+-- I just don't know the answer to that, because I'm not
+sure that scenario has come up, because usually, if
+somebody wants to contest, they're not going to leave
+the country before they have to, and if you appeal from
+the immigration judge to the Board of Immigration
+Appeals, that suspends the finality of the order of
+removal or the order of voluntary departure that the
+immigration judge has entered. So if you appeal -- if
+you want to stay in the country, all you have to do is
+file an automatic appeal with the Board of Immigration
+Appeals and that suspends the finality of the departure
+time.
+JUSTICE SOUTER: And by doing that you do
+preserve your right to appeal; and you will preserve
+your -- will you also preserve your right to go to court
+if you lose in front of the BIA.
+MR. KNEEDLER: Yes. Yes. You do.
+JUSTICE SOUTER: Okay. We got that
+straight.
+MR. KNEEDLER: Yes. I'm sorry. I'm not --
+JUSTICE SCALIA: So why, if you want to have
+a petition for reopening, why don't you just file an
+appeal and then file a petition for reopening and the
+appeal will enable you to stay in the country until your
+-- your petition for reopening is --
+MR. KNEEDLER: If you appeal to the Board of
+Immigration Appeals, a motion to reopen arises only
+after the Board has issued a final order on your appeal.
+So if you appeal to the Board of Immigration Appeals, if
+the Board rejects your claim on the merit, and
+reinstates the voluntary departure period to allow you
+to enter again --
+JUSTICE SCALIA: You're appealing the
+immigration judge's decision.
+MR. KNEEDLER: Right.
+JUSTICE SCALIA: The immigration judge's
+decision, you're appealing that to the BIA.
+MR. KNEEDLER: Right.
+JUSTICE SCALIA: And that -- that enables
+you to stay in the country --
+MR. KNEEDLER: Yes. Until the --
+JUSTICE SCALIA: And at the same time you
+file a petition to reopen the -- the administrative law
+judge's --
+MR. KNEEDLER: With the immigration judge.
+JUSTICE SCALIA: Yes.
+MR. KNEEDLER: I -- I suppose you could do
+that, but the -- but the appeal -- it would be like a
+motion to reopen in the district court while you've got
+an appeal to the -- to the BIA. I -- I think once the
+appeal goes to the Board -- this case involves motions
+to reopen filed with the Board of Immigration Appeals,
+not with the immigration judge, and so -- the alien here
+conceded his deportability, sought a continuance, and
+that was denied. He had no other substantive grounds of
+relief. He asked for voluntary departure. That was
+granted. He took an appeal to the BIA arguing he should
+have been granted a continuance; the Board affirmed;
+reinstated a 30-day departure period; and then he wanted
+to seek reopening.
+And one question that Justice Breyer asked
+about, what if reopening is denied would the automatic
+tolling rule continue? I suppose the alien could file a
+motion to reconsider the denial of the motion to reopen,
+and if you had an automatic tolling rule, it would -- it
+would last as long as it took the Board to act on the
+motion to reopen, which is -- which 60, 90, 120 days.
+In this past Fiscal Year the Board on motions to reopen
+resolved I think only about 55 percent of those within
+90 days. The Board has a huge backlog, and we're
+talking -- and so we are talking about the very kind of
+abuse of the immigration system that this Court was
+concerned about --
+JUSTICE KENNEDY: May I ask one question?
+And I'm not sure the progression in which Justice Breyer
+was going to begin. I take it that the motion to reopen
+has -- shows new evidence, new factors, new
+circumstances; and that would be unavailable on the
+appeal, because the record hasn't been supplemented. Or
+am I wrong about that?
+MR. KNEEDLER: That -- that's true. It has
+--
+JUSTICE KENNEDY: While you have an appeal
+-- while you have an appeal from what was in the record.
+MR. KNEEDLER: Right, although --
+JUSTICE KENNEDY: If you don't have the
+motion to reopen then the -- then the new material is
+not subject to the appeal, or am I wrong?
+MR. KNEEDLER: No. It's not subject to the
+appeal as such but the Board procedures take account of
+developments that happen while the case is on appeal,
+which is that you can file with the Board while your
+appeal is pending and ask for a motion to remand on the
+ground that new evidence has come up. For example, in
+the case of adjustment of status, where -- the alien's
+wife has filed a petition for immediate relative status
+to let the alien get a visa, if while the case is
+pending on appeal that petition has been granted, then
+-- then it would -- then all the alien has to do is file
+a motion with the Board and say there is new
+information; please remand it back to the immigration
+judge. So a lot of times what has happened is -- maybe
+intervening things have happened but the alien doesn't
+do anything about it during the year that the appeal is
+pending with the Board of Immigration Appeals; then
+there is a final order and the alien rushes in with the
+-- with the new information at that point, where if you
+had only brought it to the attention of the Board while
+the appeal was pending, it could have been remanded.
+JUSTICE BREYER: So your basic is -- don't
+tell me if I'm right if I'm wrong, please. The --
+the -- what I'm thinking your basic problem or position
+is and why you've got into this, is because you think
+any really meritorious case where there should be
+reopening will be pointed out to the Board before there
+is a final order in effect and before voluntary
+departure becomes an issue?
+MR. KNEEDLER: That -- that --
+JUSTICE BREYER: And if we decide against
+you, then you're thinking, well, what will happen in
+every case is after there is a final order, the alien
+will move for a motion to reopen because he will get a
+few extra days.
+MR. KNEEDLER: It's more than a few extra
+days.
+JUSTICE BREYER: He gets a -- several --
+MR. KNEEDLER: It's an automatic tolling
+period.
+JUSTICE BREYER: Have I got it right, what
+your point is?
+MR. KNEEDLER: Yes. That is correct and I
+-- and I think it's fair to say if you're talking about
+changed circumstances or new evidence that arises after
+the IJ has rendered his decision, that's a period that
+might be a year; it might be a year and a half. New
+developments or changed circumstances are far more
+likely to have happened during that period of time than
+they would during a 30-day period of voluntary departure
+that -- that the Board reinstates at the conclusion of
+the appeal.
+So an alien in this position who has been
+granted voluntary departure and knows that a motion to
+reopen may not be a realistic option, if he wants to
+seek adjustment of status or cancellation of removal,
+the solution to that is to be alert and attentive and
+file something with the Board, if there are in fact --
+JUSTICE GINSBURG: Why isn't the solution to
+withdraw, relinquish the voluntary departure?
+MR. KNEEDLER: That would be -- that would
+be one -- as the Attorney General said in his proposed
+regulations, that would be one way to administer the
+program, but the Act does not compel that. The Act does
+not compel --
+CHIEF JUSTICE ROBERTS: If you do that, the
+alien is still subject to deportation, right?
+MR. KNEEDLER: Yes. The alien is still
+subject to deportation.
+JUSTICE GINSBURG: With the provision that
+he can get a stay.
+MR. KNEEDLER: Yes, he could get -- he could
+get a stay of removal, and the same -- same thing is
+true here, if the -- if the alien remains in the
+country, his voluntary departure period expires, he
+could file for a stay of removal with the Board or he
+could file for a stay of removal with the court of
+appeals if he wants to file a petition.
+JUSTICE GINSBURG: But then because he would
+then be back -- if he stays here after the period is
+run, then he has relinquished the voluntary departure.
+He is like any removable --
+MR. KNEEDLER: Right. Right. But -- but
+like any person, he could file a motion for a stay with
+the court of appeals to prevent his deportation.
+JUSTICE GINSBURG: But not to stay -- but he
+would not be hanging on to his voluntary departure.
+That's gone.
+MR. KNEEDLER: No, that -- that is correct.
+JUSTICE SOUTER: Is there any reason he
+could not unilaterally relinquish the voluntary
+departure status as distinct from having to get approval
+from the Board or bureaucrat?
+MR. KNEEDLER: Well, as I say, the way that
+-- the Board's order grants him permission to voluntary
+depart and says the following consequences will attach
+if you do not. Nothing in the Board's order allows him
+to withdraw. It grants him that permission.
+JUSTICE SOUTER: Well, I know it doesn't --
+it doesn't address the issue, and my question is --
+MR. KNEEDLER: Well, I think it probably
+forecloses it.
+JUSTICE SOUTER: Why?
+MR. KNEEDLER: Because it's the -- it's the
+content of the Board's order that -- that says you have
+60 days to depart and if you do not, the following
+consequences attach.
+JUSTICE SOUTER: No, but the Board is
+saying, look, I'm granting your request -- we are
+granting your request for a voluntary departure status
+and there are certain consequences that that status
+carries. He is saying, on my hypothesis, I relinquish
+that status. Why are conditions that attach when he has
+the status an indication that he cannot voluntarily
+relinquish that status without further action by the
+Board?
+MR. KNEEDLER: I -- I -- the statute and
+regulations just don't provide for it.
+JUSTICE BREYER: Well, if they don't provide
+for it, and they don't say you can't do it, why isn't it
+arbitrary not to let him do it? I mean -- what -- if
+it's -- if it's arbitrary --
+MR. KNEEDLER: He -- he requested it at the
+outset. The case has proceeded on the sense that that
+is -- that that is the arrangement, that -- that the
+reciprocal benefits and burdens that the Government and
+the alien have undertaken --
+JUSTICE BREYER: It sounds almost arbitrary
+to say to a person, look, if you think you have some new
+evidence and want to reopen, do it. But Congress wanted
+you to get out of here in respect to this 60 days, so
+you have to give up that. You're not getting those
+benefits. Now, it's a tough bargain, but it seems
+reasonable.
+MR. KNEEDLER: Yes, I --
+JUSTICE BREYER: What I don't see is to say
+once you ask for this you can never get status
+adjustment.
+MR. KNEEDLER: Yes. I'm not standing here
+defending the contrary position as an overarching policy
+matter, because after all the Attorney General's
+proposed regulations provide for that. My --
+JUSTICE BREYER: So why not apply them to
+this person?
+MR. KNEEDLER: As they are now drafted they
+would apply prospectively. But my only point is that
+voluntary departure and motions to reopen are
+administered under the statute and the regulations and
+the BIA orders that are entered under the current
+regulatory framework, which has a different sort of deal
+between the alien and the government in mind, and that
+--
+JUSTICE GINSBURG: Which you say -- you say
+that under the current regime, the voluntary departure
+application, granted, is irrevocable. That's --
+MR. KNEEDLER: I think essentially -- I
+think essentially yes. I --
+JUSTICE GINSBURG: The regulations don't say
+that. The regulations are just blank. It doesn't say
+and if you do this it's irrevocable.
+MR. KNEEDLER: Yes. And I want to qualify
+my answer in a further respect -- that regulations with
+respect to voluntary departure being granted by the
+Board don't say anything like that. But I am informed
+by the executive office of immigration review that if
+the immigration judge grants voluntary departure and the
+alien appeals to the Board, the ordinary course would be
+for the Board to reinstate voluntary departure if it
+rejects the alien's appeal. But if on appeal the alien
+requests that voluntary departure not be reinstated once
+the Board's order is entered, then the Board will omit
+that from its final order of removal.
+But Petitioner here did not request on his
+appeal to the Board that the Board not reinstate a --
+order a voluntary departure if it had affirmed on the
+merits. And so the Board went forward on the assumption
+that the alien had requested voluntary departure,
+entered an order on that assumption, and once it's
+entered, it's a final order that would require some
+amendment of the order, in order to -- in order to be
+changed under the current regime.
+JUSTICE GINSBERG: But the order didn't say
+he couldn't withdraw?
+MR. KNEEDLER: No, it didn't.
+JUSTICE BREYER: So what about this? I'm
+just trying this out. You don't have to respond if you
+don't want to. But you say, look, the AG in his rules
+here, really tried to reconcile the two interests that
+we talked about in our prior conversation. Now
+hypothetically, I suppose you say that was a reasonable
+way of going about this, and we remand for consideration
+about whether this prior situation that you couldn't do
+that was arbitrary, capricious, abuse of discretion, or
+your failure to apply it retroactively to a certain
+class of people was arbitrary, capricious, abusive
+discretion?
+MR. KNEEDLER: I think -- I think if the
+Court wants to get into the question of whether he could
+withdraw it, the proper thing for the Court to do would
+be to reject the Petitioner's argument that there is an
+automatic tolling rule, because that's fundamentally
+inconsistent with Congress' deliberate intention to
+impose a short deadline and not let the agency extend
+that, but to remand to the Board of Immigration Appeals
+for an explanation as to whether he could withdraw his
+request for voluntary departure.
+I don't think the Court should decide that
+question on its own. I think that should be remanded to
+the Board. If in the meantime the Attorney General
+issues regulations that provide for withdrawal of the
+request, maybe because his case would be back before the
+Board, those new regulations could be applied. But
+whether that -- the alien should be allowed to do that
+is fundamentally a question for the Attorney General in
+the first instance.
+JUSTICE KENNEDY: In one of your -- in one
+of your arguments earlier you said the whole idea of
+voluntary departure is to expedite the proceedings and
+so forth. I assume that voluntary departure is never
+elected as an option before the Board rules.
+MR. KNEEDLER: It is --
+JUSTICE KENNEDY: In other words, it -- or
+am I wrong?
+MR. KNEEDLER: No. It was elected before
+the immigration judge. That's where you request it. If
+the immigration judge rejects your arguments against
+removability, grants you voluntary departure --
+JUSTICE KENNEDY: Yes, but the removal -- at
+the outset, you don't elect voluntary departure at the
+outset of the hearing?
+MR. KNEEDLER: You can. And you can get 120
+days of time to depart. You can do that. People who
+don't want to contest the removability at all --
+JUSTICE KENNEDY: No, no, no. I mean in a
+contested case.
+MR. KNEEDLER: Right. In the contested
+cases, you would ask for that at the conclusion of the
+hearing before the immigration judge. That gets
+suspended if you appeal to the BIA because the order is
+not final. It doesn't become final until the Board of
+Immigration Appeals affirms.
+CHIEF JUSTICE ROBERTS: Mr. Kneedler, do you
+know what percentage of these motions to reopen are
+granted?
+MR. KNEEDLER: I do not. I asked that
+question, and I do not know the answer to that.
+I would like to come back to the fundamental
+automatic tolling rule that -- the fundamental
+inconsistency of that automatic tolling rule with what
+Congress did in 1996, because it shortened to 60 days
+the time limit in which an alien can depart.
+It also eliminated a prior exception that
+had been the law that allowed an exception to the
+consequences for somebody who overstayed even the much
+longer voluntary departure period for exceptional
+circumstances. Congress repealed that exception.
+Prior to 1996, the Board in the case we cite
+in our briefs called Matter of Shaar, held that if an
+alien is granted voluntary departure and files a motion
+to reopen, it rejected two arguments. One is that the
+filing of a motion to reopen was itself exceptional
+circumstances that eliminated the deadline. It rejected
+that. It also in an en banc decision rejected the
+automatic tolling rule that Petitioner is arguing for
+here under a situation in which Congress had granted a
+long time for aliens to voluntarily depart.
+We think it defies common sense to suggest
+that when Congress compressed the time to 60 days, it
+meant to at the same time reverse what the Board had
+done in Matter of Shaar and granted an automatic tolling
+rule, not even one under the control of the immigration
+authorities, but an automatic tolling rule as a matter
+of law simply by the unilateral act of filing a motion
+to reopen.
+And the Board in Matter of Shaar addressed
+all of those things. The Board of Immigration Appeals
+has filed, followed Matter of Shaar, in the intervening
+years since 1997 -- and importantly, I would like to
+point this out, too, when Petitioner sought a motion for
+reopening, he relied on a Board decision called
+Villarde, which recognized that in some circumstances an
+alien may file a motion to reopen to try to get
+adjustment of status if there has been intervening
+development with respect to an immediate relative
+petition filed by a spouse.
+The Board adopted that rule in this en banc
+published decision Villarde, but said one of the
+qualifications for being eligible for that relief is
+that you not be barred under Matter of Shaar, which
+means you not be barred by having overstayed your
+voluntary departure period.
+So, in the very procedure that Petitioner
+invoked in this case, there is a published Board
+decision post-1997 that relies on that -- that relies on
+that rationale, and the Board has followed that
+consistently. It is at the very least a reasonable
+interpretation of the act for the Attorney General not
+to allow the undermining of this tightened voluntary
+departure system by providing for reopening.
+I should also point out that this is not
+tolling in the normal sense. Tolling usually arises
+where a person has a claim and there is a statute of
+limitations for filing a claim before a forum.
+Petitioner here was already granted
+voluntary departure. The 60-day time limit is not a
+procedural statute of limitations. It is a limitation
+on substantive immigration relief. And we think it's
+particularly odd that the filing of a procedural motion
+to reopen would have the effect of changing the
+statutorily limited time in which an alien could
+voluntarily depart the United States.
+CHIEF JUSTICE ROBERTS: Thank you,
+Mr. Kneedler.
+Mr. Meade, you have five minutes remaining.
+REBUTTAL ARGUMENT OF CHRISTOPHER J. MEADE
+ON BEHALF OF THE PETITIONER
+MR. MEADE: The government's arguments on
+the statutory interpretation in this case are undermined
+by its own proposed rule for at least five reasons.
+First, their proposed rule makes clear that
+the government agrees that the statute can be read to
+have multiple meanings.
+Second, the proposed rule makes clear that
+Congress did not intend voluntary departure recipients
+to waive the motion to reopen in accepting voluntary
+departure.
+Third, the rule stresses the importance of
+motions to reopen and their importance in bringing
+changed facts to the agency's attention.
+Fourth, the proposed rule turns on
+unilateral action of the alien and permits that
+unilateral action to terminate the voluntary departure
+grant.
+JUSTICE SCALIA: Do you agree with counsel
+for the government as to how long it typically takes for
+these motions to reopen to be disposed of? He said
+something like 55 percent take, what, more than --
+MR. MEADE: My understanding is that the
+time, that the time is actually relatively short, that
+they are generally decided within 90 days. They're
+procedures passed by the -- by regulation which indicate
+that they go to the same Board member. There has been
+streamlining procedures by the agency in the early 2000,
+2001, 2002 period which helped expedite these. And
+actually, the time --
+CHIEF JUSTICE ROBERTS: Do you have any
+estimate about how many more motions to reopen will have
+to be considered if your client prevails in this case?
+MR. MEADE: I do not think that there will
+be many additional motions to reopen, if that happens.
+Certainly, if the government has a -- if the proposed
+rule is adopted, the number of motions to reopen will
+not be affected, because prospectively, the solution --
+the problem will have been solved, and this case we'll
+only be dealing with people in the pipeline, people who
+have already made decisions about whether to file a
+motion to reopen or not.
+So assuming that the government's proposed
+rule is enacted in anything like its proposed form, then
+there will be no problem going forward.
+CHIEF JUSTICE ROBERTS: No, I don't
+understand that, because my -- as I understand it, it
+would in every case grant an effective extension of the
+time which you would have to depart if you had filed a
+motion to reopen.
+MR. MEADE: No, that's not correct, with
+respect. Under the government's proposed rule, the
+alien would be placed in the same position as other
+aliens and would be -- and there would be no additional
+incentive to file a motion to reopen.
+Under the government's proposed rule, the
+period would not toll, the voluntary departure grant
+would expire, and the alien would be placed in the same
+position as otherwise --
+JUSTICE ALITO: Isn't it your position that
+the statute requires tolling?
+MR. MEADE: Our interpretation is the
+statute is subject to multiple interpretations. But the
+one thing that the statute does not permit is the
+solution, the construction that's being proposed by the
+government in this case. The government -- the statute
+would permit tolling. The statute permits reconciling
+the provisions as the government proposes going forward.
+But the one thing that the statute does not permit is
+the government's position in this particular litigation.
+CHIEF JUSTICE ROBERTS: You answered my
+question with respect to the government's proposed
+regulation. But under your position that would allow
+the voluntary departure option to remain open, then
+anyone who exercised that option would want to file a
+motion to reopen because it would extend their time?
+MR. MEADE: The motions to reopen are
+subject to statutory and regulatory limits. Moreover,
+the time period --
+CHIEF JUSTICE ROBERTS: The answer is yes?
+MR. MEADE: I'm saying that there -- aliens
+could choose to do so, but I disagree that there would
+be a -- many additional motions to reopen.
+JUSTICE SCALIA: Your answer is yes, but the
+Attorney General's rule would prevent that -- proposed
+rule would --
+MR. MEADE: Yes. That's part of the answer,
+yes, Justice Scalia.
+But in addition, the length of time of
+adjudication is entirely within the agency's control.
+It can take two days, two weeks, two months, or if it
+takes longer --
+CHIEF JUSTICE ROBERTS: Not if it has 10,000
+of these a year, as you told me in your opening
+argument. I mean, it takes some time to address them.
+You can't say all they have to do is decide them all
+within two days.
+MR. MEADE: No. But the answer is that
+there -- it is within their control, so the length of
+tolling under any tolling rule is not within the control
+of the alien. It's within the control of the agency.
+This Court -- as to your question, Justice
+Alito, on the -- with the regulations with respect to
+withdraw in this case, the agency is silent on that.
+It's unclear to me why the agency -- may I finish --
+it's unclear why the agency did not give my client the
+request he requested, and we ask that this Court either
+grant tolling or interpret the statute consistent with
+the government's proposed rule.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+The case is submitted.
+(Whereupon, at 12:07 p.m., the case in the
+above-entitled matter was submitted.)
+addressed 22:9 11:13,23 12:20 55:14 56:16 41:5,11,16
+18:14 22:9 51:20 12:24 16:9,20 alien's 32:2 41:2 42:22 47:14,14
+25:16 addressing 17:11 24:5,10 47:14 47:19 50:9
+adjudicated 54:13 57:11,14 12:25 13:4,7 38:19
+57:23 35:2 agency's 18:13 32:13,18 55:20 14:17,22 18:5
+27:11 20:24 21:3 agents 28:3 36:5,11 38:13 36:2,2,4 37:13
+48:13 adjudicatory 14:15 15:13 allowed 11:20 39:9 41:12
+25:23 27:21 30:7 agrees 3:17,19 allows 44:17 APPEARAN...
+41:2 43:1 46:8 53:16 alternate 13:2 1:15
+administer 43:8 alien 3:22,24 36:11 10:25 11:8
+21:1 52:6 54:22 25:16 26:17 20:11 25:21 48:14
+29:4,16 adopting 26:2 27:11,17 28:24 35:15 37:7,8 approval 44:12
+36:11 adoption 6:25 29:5,19 30:9 47:7 50:16 approximately
+43:9,9 advantage 14:4 30:15,21 31:5 56:15,19,22 18:22
+52:17 31:20 32:14 33:1,5,7 57:8 arbitrary 45:16
+45:10 advise 31:2 41:6,10,13 anticipated argue 6:15
+advised 8:4 42:3,23 43:12 28:23 22:11
+affairs 13:22 46:21 47:12,14 anyway 34:5 39:14 51:9
+56:24 21:16 52:2 53:5 54:1 16:19 17:17,19 25:4 48:20
+32:11 47:20 aliens 3:10,13 20:18 34:12 arguments
+55:14 affirms 50:11 3:20 4:16 5:13 35:2,7 37:4,11 49:12,21 51:5
+afterhand 27:22 7:10 12:23 37:15,17,21 53:12
+17:2 12:16 15:10 19:22,23 39:5,7,8,14 42:15 52:21
+29:12 19:12 bind 10:20 32:1 burdens 45:21 challenged 9:4,7
+45:20 avoid 9:16 30:1 blank 47:4 bureaucrat 9:8
+39:13 aware 32:20 board 7:22 12:6 chances 31:6
+50:15 37:2 12:6 14:16 C change 10:19
+20:4 a.m 1:14 3:2 18:4 27:3 called 51:3,25 changed 10:14
+34:24 30:17 32:22 cancel 24:8 42:15,18 48:1
+37:5 back 15:11 29:7 38:10,11,12 43:1 character 3:11
+41:8 43:25 39:8,9,15,23 capricious 48:13 charge 14:2
+backlog 40:2 40:24 41:7,12 carries 45:7 5:2,9,17 6:1
+47:21,23 banc 51:8 52:6 43:3,21 44:13 case 3:4 4:1,7,9 10:10,22 16:25
+bargain 14:13 47:12,13,16,19 9:25 10:2 11:1 22:18,24 23:7
+46:3 49:4,7,15 17:10,14 18:18 26:9 43:11
+bars 21:22,23 51:20,21,25 24:23 28:11 54:16 55:6
+6:8,9 32:8 basic 41:17,19 Board's 12:7 39:8 40:23 child 9:22
+43:7 basis 5:10 7:25 25:11 33:1 41:2,4,21 42:3 choice 13:20
+49:4,9 9:19 19:5 44:15,17,25 45:19 49:6 15:1 24:20
+56:20 32:13 47:16 50:5 51:2 choose 25:25
+2:4,6,9 3:7 Breyer 17:17,21 54:18,24 55:8 CHRISTOPH...
+believe 18:22 19:4,9 20:10 57:22 53:10
+20:4 beneficial 8:11 34:3,9,13,15 9:21 10:2 7:22 9:9,23
+31:11 benefits 10:3 34:19,24 35:4 11:11,16 17:11 16:23,24
+37:17 25:13 45:21 35:9,12,19,23 19:7 22:5 circuits 9:9
+42:9 46:3 36:1,8 39:18 27:10 28:13 circumstance
+50:18,19 better 14:21,21 40:7 41:17 50:7 13:17,20
+beyond 8:24,24 42:1,8,11 categories 32:11 circumstances
+10:6 BIA 9:25 11:1 46:13 48:5 cert 7:22 8:3 10:19,23,24
+25:9 11:10 34:12 brief 7:23 18:25 19:8 22:8 29:24
+30:13,24 37:4,23 38:19 broken 6:2 45:6 48:14 51:7 52:1
+Congress's 28:9 54:4 57:20 46:1 50:2,20 Department
+44:16 45:2,6 21:7,21,22,24 dead 25:24 26:5 3:19 4:3 5:14
+10:8,8 consider 3:25 28:3 30:22 51:7 8:7 9:15 10:5
+12:24 22:15 31:7 34:6,12,17 deal 14:21,24 10:11,18 11:20
+14:18 32:1 35:3,16,18,20 30:3,21 32:7 12:8 13:21
+20:1 consideration 36:3,7,13,22 46:20 14:4,16 15:2,6
+24:2 31:14 48:11 37:4,11,16 dealing 6:1 15:22 17:2
+57:16 considered 38:6,22 43:20 54:25 19:20,21 21:11
+41:1 consistent 57:18 29:17 47:12 debate 8:24 22:14 23:3,4,9
+consistently court 1:1,13 3:9 decide 4:5 16:16 23:13,18 25:12
+23:2,25 55:25 32:4,6 34:13 20:5,6,8 26:5,6 29:4 30:4,7
+contemplated 36:24 37:3,22 decision 37:3 32:3,9,10,15
+contest 37:10 48:18,19 49:2 52:14 39:13,16 41:24
+continuance 31:10 defending 46:10 44:12 45:5
+28:2 continue 14:16 covered 21:20 definition 10:19 47:11,13,15,20
+31:12 36:11 39:20 criminal 13:11 Dekoladeno 47:22 49:1,13
+contrary 19:10 14:1 20:2 16:22 49:14,22,24
+50:7 56:25 57:9,10 46:19,24 48:1 denial 17:23 53:19,21 54:2
+15:8 correct 8:8 13:3 Dada 1:3 3:4 4:9 26:14,21 39:12 39:11
+26:23 13:6 18:6 date 28:16 29:18 39:19 deportation
+22:16 27:14 day 33:2 deny 17:9 22:16,20 23:8
+35:1 37:1 days 3:14 4:2,19 depart 7:13 8:14 23:12 24:5,8
+42:13 44:9 7:13 13:23 25:12 32:24 43:12,14 44:5
+55:11 16:23 19:12,13 33:19 44:16 deported 24:4
+36:10 correction 20:15 28:1 30:5,6,17 45:1 50:2,21 24:11 26:7
+EDWIN 1:18 establish 11:17 facie 17:10 38:10 41:13,23
+13:24 23:12 27:3 everybody 5:20 29:16 30:17 finality 37:13,18
+33:14 41:23 17:5 31:12 32:9 financial 4:13
+effectively 24:8 41:1 42:15 facts 3:14 5:7 finished 33:20
+42:18 Eighth 16:24 exact 19:3 21:4 53:24 10:11 11:6,23
+29:19 57:17 19:17 failure 48:14 16:16 31:21
+49:15,19 26:17 30:25 favor 5:3,21 five 4:12 53:9,14
+Eleventh 4:18 examples 9:20 Fifth 7:22 9:9 follow 6:3
+30:19 50:23 51:1 5:18,21 6:4,25 52:15
+32:8 23:18 50:22 exercised 56:10 38:4,5,25 form 26:19 28:6
+51:7 exercising 17:12 39:20 40:24 55:4
+17:7 enable 22:15 existed 11:3 43:22,23 44:4 30:13,19,23
+30:13,20 38:6 existing 29:20 52:2 55:1,15 forth 8:15 49:14
+enables 38:21 expedite 49:13 56:10 forum 52:23
+entire 11:25 extend 25:17 55:9 found 4:10
+entitled 6:16 48:23 56:11 filing 6:6 25:8 53:25
+7:1,3 8:21 extension 16:12 final 13:11,18 46:20
+15:3,19
+34:20,21 35:9 39:14,15 41:5 hypothetical32:17 48:22
+50:17,18 37:22 54:12 51:4,10,15 48:10 incorrect 35:2
+48:21 going 6:12 9:12 granting 8:4 I indicate 54:11
+9:13 12:23 25:11 30:3 idea 49:12 indicates 15:6
+47:7 19:18,24 23:16 grants 5:7 26:23 42:16 ineligible 12:7
+28:24 44:15,18 47:11IJ's 12:3 27:18
+5:11,24 good 3:11 10:2 30:11 41:1 immigration instance 11:24
+16:21 25:20 34:20 grounds 39:12 3:21 6:7 11:18 49:10
+32:8 good-bye 34:5 guess 19:4 22:25 25:17 32:23 intend 15:8
+43:7 49:4 34:20 26:25 35:7,8 37:3,12 28:17 53:19
+52:17 gotten 7:12 14:4 37:12,15,17 intention 48:22
+54:10 government half 42:17 39:2,9,10 40:4 18:16
+56:20 7:9,19,24 8:4 hanging 44:7 47:11 48:24 interpret 57:18
+21:14 23:8,19 happened 41:9 53:2 53:13 55:22
+31:2,6 45:21 happens 3:21 implementing 55:23
+7:6,16,18 54:5,21 56:1,1 17:18 54:20 importance 41:10 51:22
+11:3 56:3 hard 19:14 53:22,23 52:3
+31:1,18 government's health 9:24 important 8:18 inventing 16:7
+3:23 4:4 8:13 hear 3:3 11:18 invoked 52:13
+46:23 15:4 22:13,22 heard 29:18 importantly involuntarily
+23:17 24:1 hearing 10:16 51:23 23:20 24:4,11
+46:2 55:16 56:5,7 33:24 49:25 impossible 4:5 24:7,14,18
+57:19 50:8 incentive 55:15 involves 39:8
+14:5,22 grant 15:22 helped 54:14 includes 15:8 15:24
+27:9 32:22 54:3 Honor 9:14 13:3 13:12 19:1 issue 26:20
+55:8,17 57:18 19:2 24:21 20:2 31:15 41:24
+21:4 15:6 27:2 huge 40:2 50:19 issued 38:10
+34:4,13 32:23 33:6 hypothesis 45:7 inconsistent issues 49:5
+44:10,19,23 know 5:10 17:4 56:5 53:9,10,12
+39:2,10 47:3 48:2,5 knowing 27:5 28:2 39:23 56:22 57:8
+47:11 49:11,17,23 known 10:20 51:11 54:5 mean 10:10
+50:8 50:4,12 53:7 knows 42:24 longer 18:21 13:20 14:1
+56:6,15 L 50:25 57:2 45:16 50:4
+39:1
+4:6,24 57:12,20 38:25 50:23 25:23 45:4,24 meanings 53:17
+6:1,14 51:18 48:7 means 18:17
+7:6,16
+8:2,8,10 Kafka-esque 18:19 21:21 lose 34:22 36:1 meant 51:14
+10:1 30:1 22:6 24:14,15 37:23 medical 4:13
+11:3 keeping 8:6 25:10 28:24 lot 32:8 33:15 member 16:18
+12:2 Kennedy 15:25 30:5,5,6,22 41:9 17:8,9 54:12
+16:6,9,11,14 34:4,17 35:3 mental 9:22
+40:6 35:18 36:3,6 M merit 38:12
+40:15,18 49:11 37:10 making 30:24 meritorious
+49:17,23 50:4 leaves 21:15 marriage 11:10 41:21
+key 3:16 34:11 36:12,22 22:7 merits 47:21
+17:17,21 kind 29:25 40:3 leaving 21:22 material 40:19 MICHAEL 1:6
+kinds 11:16 22:3 23:5 matter 1:12 4:16 mind 30:3 46:21
+20:3,9 Kneedler 1:18 35:20 5:11 26:24 minute 33:17
+2:5 25:3,4,6,19 led 31:10 33:3 46:11 minutes 53:9
+21:5 26:8,11 27:13 left 4:2,19 7:8 51:3,15,17,20 modest 28:5,12
+22:11 27:16 28:19,22 13:14,15 30:21 51:22 52:9 28:12,18
+23:7 29:6,11 30:2 37:4 57:23 moment 27:7
+31:1,9 32:4,16 length 56:24 Meade 1:16 2:3 Monday 1:10
+25:1,6 32:20 33:22 57:9 2:8 3:5,6,8 4:6 months 9:13
+26:9,22 34:2,8,11,15 lesser 14:2 30:23 5:1,4,11,22 6:5 18:22 19:1
+28:10 35:1,6,11,17 letters 4:12 6:18,23 7:3,15 57:1
+29:2,9 35:21,24 36:4 let's 18:17 22:12 7:18 8:8,25 9:5 mooted 13:7,9
+31:1,18 36:9,16,25 level 19:22 9:8,14 10:7,12 moral 3:11
+33:15 37:7,24 38:2,8 29:24 10:24 11:7,19 motion 3:13,20
+34:3,9 38:17,20,23 limit 50:21 11:22 12:5,13 4:11,15 5:23
+39:2,4 40:13 52:25 12:20 13:3,6,9 6:4,17 7:1 8:14
+35:4,9 40:17,21 41:25 limitation 27:23 13:15 14:8,23 8:20 9:10 10:2
+42:6,9,13 43:6 28:6 53:1 15:3,19 16:5,8 10:5,13,13
+43:13,17 44:3 limitations 28:8 16:14 17:7,20 11:2,11,12,15
+44:9,14,21,24 52:23 53:1 17:23 18:6,9 11:17 13:8,10
+45:12,18 46:5 limited 53:5 18:20 19:2,7 14:11,19 15:5
+39:3,18 46:9,15 47:1,6 limiting 8:5 19:16 20:7,15 15:9 16:16,23
+48:4,17 49:16 limits 56:13 20:21 21:8,19 17:9,13,15,18
+42:1,8 49:19 50:1,6 litigant 31:19,25 22:2,17,21 17:23 18:2,2,3
+never 11:24 9:18 P permit 23:2
+22:10,14 12:20 46:7 open 8:12 56:9 P 3:1 55:24 56:2,4
+25:8 49:14 opening 7:23 PAGE 2:2 permits 54:1
+new 1:16 3:14 57:4 pages 4:12 56:2
+27:23 4:10 21:4 opposing 25:20 parent 9:24 permitted 10:9
+29:5 23:17 30:10 option 7:19 10:8 part 11:18 14:14 15:5 16:3
+30:10 31:13 33:13 11:21 14:6 14:20,24 19:8 person 6:16,21
+34:23 40:9,9,9,19 33:7 42:25 29:7,12,13 10:17 33:23
+39:6,21 41:1,7,14 49:15 56:9,10 30:20 33:4 44:4 45:24
+40:8 42:15,17 45:24 oral 1:12 2:2 3:6 56:22 46:14 52:22
+41:7 49:7 25:4 particular 4:7,9 petition 6:25
+44:4 newly 9:22,24 order 12:7 13:2 22:8 26:19 7:22 8:4 19:17
+Ninth 9:23 13:11 15:19,21 31:15 56:5 19:20,25 20:25
+53:3,20 normal 29:17 17:24 23:4,8 particularly 21:15 23:19,22
+52:21 23:12 24:3 30:12 53:3 24:8,17 26:4
+notwithstandi... 25:11 28:24 parties 3:16 34:17 36:6
+5:3,7,12 number 28:8 33:1,25 36:12 passed 26:23 41:3,5 43:23
+6:10 9:21 31:3,19 54:22 37:13,14 38:10 54:11 52:5
+16:17 numerous 5:6 41:13,23 42:3 pattern 6:10 Petitioner 1:4
+18:10,12 11:11 44:15,17,25 pending 13:13 1:17 2:4,9 3:7
+N.Y 1:16 47:16,17,20,23 15:18 40:25 47:18 51:9,24
+29:7 47:24,25,25,25 41:5,12,16 52:12,24 53:11
+39:8,25 O 48:2 50:9 Petitioner's
+50:13 O 2:1 3:1 orders 28:4 33:19,22 48:15 25:14 26:12
+54:6,17 obligation 25:9 46:19 50:2 54:25,25 48:20
+56:12 obtain 24:5 ordinary 47:12 percent 5:14 petitions 18:10
+obtaining 26:17 original 10:16 40:1 54:7 18:11,20 20:22
+odd 53:3 outrageous 50:13 place 10:11
+42:4 office 47:10 outset 26:12 period 4:17,19 29:3
+28:10 29:15 overarching 36:19 38:13 please 3:9 25:7
+34:3,19 46:10 39:16 42:10,16 31:23 41:8,18
+43:20
+30:14 once 13:13,15 52:10 periods 4:17 52:20
+24:23 22:3,12 39:7 26:16 permission 7:12 points 3:16
+19:22 24:22 provision 31:15 really 28:17 18:13,21 23:11
+22:25 problems 9:24 32:9 43:15 34:21 41:21 31:14 32:16
+24:14,16 procedural 53:1 provisions 3:16 48:8 43:8 45:13
+42:23 53:3 7:24 34:16 reapply 22:4 46:12,18 47:3
+55:13,19 procedure 52:12 56:3 reason 5:18 47:4,7 49:5,7
+56:5,8 procedures published 52:7 11:24 12:21 57:13
+23:20 34:5,21 35:18 46:4 48:10 rehearing 21:16
+32:5 20:6 recipients 3:19 reject 48:20
+40:7 52:8 reciprocal 25:15 rejects 38:12
+32:21 question 3:15 recognized 52:1 relating 4:7
+11:2 17:13 11:15 14:11,13 7:23 8:11,18 52:4
+19:18,24 22:13 31:3,8 32:5 reconciling 56:2 relief 12:8 21:23
+24:1,1 33:12 44:20 48:18 39:21 26:15,19,24
+29:18 54:21 55:3,4 quickly 3:21,23 records 4:13 52:8 53:2
+50:22 55:12,16,25 4:23,23 7:5 reflected 16:20 relies 52:14,14
+56:7,20 57:19 24:10 reflects 25:13 relinquish 43:5
+33:5 proposing 7:19 26:1,2,10 33:5 regime 6:9 relinquished
+29:17 prospectively 26:1,3,10 33:5 46:24 48:1 relinquishing
+44:21 7:20 46:16 regulation 8:16 7:14
+16:8 provide 32:17 R 3:1 15:4 21:5,9,9 28:3,25 30:13
+21:2 33:12 45:13,14 raised 8:2 9:13 22:13 24:22 56:9
+34:19 46:12 49:5 raising 3:13 29:3,3,6,13,14 remaining 4:11
+54:24 provided 3:10 rationale 52:15 32:18,21 54:11 53:9
+3:12 7:9 33:9 read 3:18 53:16 56:8 remains 43:19
+48:11,24 39:25 40:8,19 result 30:1 39:20,22 48:21 seek 19:8 22:6
+46:17 50:13 48:14 51:16,17 52:6 43:1
+50:3 54:6,17,20,22 review 18:10,11 55:4,12,16 sense 45:19
+31:5 56:11,12,18 19:25 20:22,25 57:19 set 8:15
+reopening 7:9 34:16,17 36:6 ruled 34:23 Shaar 51:3,15
+15:17,20 23:19,22 24:9 rewrote 32:4 48:7 49:15 short 7:7 16:10
+26:18 24:16 25:24,25 right 5:20 12:12 ruling 3:22 36:19 48:23
+30:8,11 26:4 27:4 17:15 18:1,5 13:18 54:9
+37:14 34:10 38:4,5,7 19:9 20:14,18 run 4:2 20:6 shortened 50:20
+39:17,19 41:22 22:20 23:1,19 44:1 show 5:7 7:5
+49:23 51:25 52:19 23:24 24:9 rushes 41:13 11:16
+29:13 30:25 32:6,19 S 1:18 2:1,5 3:1 Sidikhouya
+4:1,11,15 49:1,6,20 37:21,22 38:17 sanctions 6:6 simply 12:15
+5:3,8,12 57:17 38:20 40:17 saying 6:3 11:4 51:18
+6:4,11 requested 7:21 41:18 42:11 20:13 25:23 simultaneously
+7:1 8:7,14 26:15,20 45:18 43:12 44:3,3 26:2 33:2 45:4 31:4
+9:21 10:3 47:22 57:17 50:6 45:7 56:16 single 17:8
+requests 47:15 rights 6:15,19 says 6:3 9:10 situation 48:12
+require 47:24 6:22 11:11 14:18 51:10
+13:8,10 required 27:7 risk 6:13 32:23 44:16,25 Solicitor 1:18
+14:11,19 requirement Roberts 3:3 4:24 Scalia 13:19 solution 9:17
+15:5,9 6:21 5:2,9,17 6:1 14:9,20,24 12:23 19:23
+17:4 requires 55:21 8:10 9:11 10:1 20:9,12,16 23:2 43:2,4
+requisite 4:5 10:10,22 16:25 21:5 23:15,23 54:23 55:25
+18:3,10 reserve 24:25 20:17,21 22:11 24:7,13 25:19 solve 9:1
+20:5,8 resolve 9:18 22:18,24 23:7 35:14 38:3,15 solved 54:24
+21:2,10 resolved 40:1 25:1 26:9 38:18,21,24 somebody 37:10
+22:10,15 respect 10:7 43:11 50:12 39:3 54:4 50:24
+25:8 27:13 28:5,23 53:7 54:16 56:19,23 sorry 23:23 38:2
+46:1 47:7,8 55:6 56:6,15 Scalia's 27:1 sort 30:1 46:20
+28:5,8 52:4 55:12 57:3,20 scenario 37:9 sought 39:11
+29:7 56:7 57:13 roll 26:3 scheme 5:25 51:24
+respond 48:6 roughly 5:14,15 29:25 33:5 sounds 27:8
+31:3 Respondent rule 5:21 11:13 second 3:19 6:8 45:23
+33:20 1:20 2:6 25:5 12:15 19:18 14:13 31:23 Souter 9:3,6
+34:23 response 15:3 22:23 24:1,1 53:18 11:19,22 12:2
+38:9,25 responses 4:7 25:14 31:11,16 see 17:4,11 12:10,14 26:22
+6:5 14:8 28:22 32:14 33:13 19:10 46:6 27:15 28:10,20
+stayed 23:21 37:9 40:7 41:10 51:21 toll 23:5 55:17
+37:5 stays 43:25 suspend 25:9 think 8:11 10:2 tolling 6:16,21
+44:10 step 27:1 suspended 50:9 15:7 25:19,20 7:2,4,4 8:21
+45:3 STEVENS 20:3 suspends 37:13 30:14 32:6 15:25 16:2
+straight 38:1 system 23:17 41:20 42:14 29:25 31:11,16
+22:7 streamlining take 8:23 12:17 thinking 41:19 57:18
+33:6 54:13 16:19 17:1,22 42:2 tolls 22:19
+stresses 53:22 18:7,20,22 third 6:12 53:22 tough 46:3
+21:17 21:21 24:3 40:8,22 54:7 thousand 5:15 tried 10:8 48:8
+30:7 40:20,21 43:12 57:1 three 14:8 27:19 triggered 21:23
+41:2,3 43:14 55:23 taken 20:18,19 30:12 triggers 22:3
+44:12 56:13 takes 54:5 57:2 tightened 6:9 trouble 29:19
+submit 10:25 57:5 52:18 33:15
+52:3 submitted 57:21 talked 48:9 time 4:3,5,11,20 true 15:18 16:14
+7:4,7 8:16 subset 17:11 35:4 36:18 10:18 12:10,15 34:6 36:17
+16:7 21:11 40:3,3 42:14 12:18 13:17 40:13 43:19
+32:12 substantial tax 4:13 14:1,12 16:10 truth 19:15
+45:12 28:13 tell 19:14 34:4,6 16:19,21 17:1 try 36:22 52:2
+52:22 substantive 41:18 17:21 18:16,18 trying 48:6
+55:21 25:17 26:15,19 term 29:5 20:8 22:16,20 turns 53:25
+56:1 30:9,19 39:12 terminate 54:2 23:5 24:2,12 two 3:15,16 4:2
+57:18 53:2 terminates 24:25 25:10 4:7 6:5 7:17,24
+26:10,23 suggest 8:21 9:2 27:10 36:20 31:24 36:19 two-and-a-half
+28:6,7 51:12 terrorism 13:12 37:19 38:24 4:15
+34:16 Sunday 12:17 Thank 20:15 42:19 50:2,21 type 11:12
+56:13 supplemented 25:1 53:7 51:11,13,14 typical 18:18
+17:6 supporting 11:1 thing 23:14 54:9,9,15 55:9
+21:4 11:9,9 26:25 29:12 56:11,14,24 U
+37:16 suppose 39:4,20 31:21,23 43:18 57:5 Ugokwe 4:18
+43:16 48:10 48:19 55:24 timely 12:18 ultimate 23:12
+Supreme 1:1,13 56:4 times 41:9 unavailable
+sure 8:12 20:3 things 19:11 told 31:12 57:4 40:10
+3:18 4:3 5:14 29:23 39:16 words 4:4 23:7
+7:14 8:6 9:14 wants 10:21 world 28:15 3 2:4
+30:19 11:20 12:8,25 37:10 42:25 wouldn't 13:8,9 32:24 36:19,21
+15:1,6,22 17:2 Washington 1:9 wrong 40:12,20 42:20
+21:20,25 22:2 wasn't 6:9 9:3 4
+33:18 23:13,18 24:15 30:18 x 1:2,8 7:13
+55:7,7 24:18,19 25:12 way 7:23 8:10
+22:12 26:16 27:18,20 43:8 44:14
+54:8 27:24 28:1,4 48:11 41:11 42:17,17
+6
+30:4,7 31:4,22 week 4:10 years 22:5 51:23
+54:1,2 32:10,15,22 went 47:21 0 46:1 50:20
+1:5 3:4
+44:11 38:13 39:13 34:4,5,20 60-day 21:15
+22:7 43:5,20 44:1,7 we're 6:1 17:13 1 31:3
+33:6 44:11,15 45:5 23:16 33:23 10 5:14 22:5 7
+46:17,24 47:8 40:2 10,000 5:12 57:3 7 1:10
+49:14,22,24 31:10 120 19:13 39:24 80 4:11
+51:4 wife 41:3 50:1
+18:22 19:1
+9:13
+29:8
+29:14
+21:21 32:2,14,15
+waiver 15:9 57:14 1997 51:23
+25:12 33:3,19 37:16 22:14 2002 54:14
+32:24 38:3 45:25 withholding 2008 1:10
+45:9 47:6 48:7 50:3 26:18 30:25 23 16:23
+53:6 56:10 wondering 25 2:6

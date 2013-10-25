@@ -1,0 +1,1345 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+DANIEL COLEMAN, :
+Petitioner :
+v. : No. 10-1016
+COURT OF APPEALS OF MARYLAND, :
+ET AL. :
+- - - - - - - - - - - - - - - - - x
+Washington, D.C.
+Wednesday, January 11, 2012
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 10:21 a.m.
+APPEARANCES:
+MICHAEL L. FOREMAN, ESQ., University Park, Pennsylvania;
+for Petitioner.
+JOHN B. HOWARD, JR., ESQ., Deputy Attorney General,
+Baltimore, Maryland; for Respondents.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+MICHAEL L. FOREMAN, ESQ.
+On behalf of the Petitioner 3
+ORAL ARGUMENT OF
+JOHN B. HOWARD, JR., ESQ.
+On behalf of the Respondents 22
+REBUTTAL ARGUMENT OF
+MICHAEL L. FOREMAN, ESQ.
+On behalf of the Petitioner 42
+P R O C E E D I N G S
+(10:21 a.m.)
+CHIEF JUSTICE ROBERTS: We'll hear argument
+first this morning in Case 10-1016, Coleman v. The Court
+of Appeals of Maryland.
+Mr. Foreman.
+ORAL ARGUMENT OF MICHAEL L. FOREMAN
+ON BEHALF OF THE PETITIONER
+MR. FOREMAN: Thank you, Mr. Chief Justice,
+and may it please the Court:
+The propriety of any section 5 legislation
+is judged by in reference to the historical perspective
+that it reflects, and that historical perspective is
+very clear in -- and it's set very clearly by Congress
+and by this Court. It -- it is an unfortunate, long
+history of State-sponsored gender discrimination. And
+those -- that discrimination embodies gender-based
+stereotypes that took a very firm hold in the employment
+area, where women had difficulty obtaining employment
+and holding employment. And this Court in a litany of
+cases recognized these gender-based stereotypes as -- as
+an improper assumption about women's abilities.
+In Frontiero v. Richardson, it rejected this
+issue that women's mission were to be women -- to be
+wives and mothers; Stanton v. Stanton, that women were
+to be the homemaker and men the breadwinner, and --
+JUSTICE KAGAN: Well, Mr. Foreman, I guess
+the question in this case is what this particular
+statutory provision has to do with gender discrimination
+and the history of gender discrimination, whether
+Congress was aiming to eradicate gender discrimination
+through this provision or whether it was trying to do
+something else entirely.
+MR. FOREMAN: And it was directly attempting
+to address these gender-based stereotypes in a couple
+different ways as a practical matter. At that time,
+when an employer saw a woman, they didn't necessarily
+just see a worker. They saw a person that could become
+pregnant, and worked on these gender-based stereotypes,
+that that woman would either become pregnant, would be
+disabled because of pregnancy-related disabilities but,
+in any event, was a least -- least attractive employee.
+And the Family and Medical Leave Act
+addresses that specifically in its purposes section. It
+specifically says that is intended to promote the equal
+opportunity for women and men pursuant to the Equal
+Protection Clause.
+But more specific to the self-care
+provision, Congress made it very clear what they were
+attempting to do. If you move to the "findings"
+section, first, in finding number 6, they address --
+CHIEF JUSTICE ROBERTS: Where -- where are
+you reading from, counsel?
+MR. FOREMAN: I am reading from Appendix A
+to the brief, and it is -- that employment standards
+that apply to one gender only have a serious potential
+for encouraging employers to discriminate against
+employees and applicants of employment who are of that
+gender.
+That's the negative inference argument that
+we make in our brief. But even more to the point, if
+you move to the purpose sections at appendix 2,
+page appendix 2, it specifically is intended to minimize
+the potential for employment discrimination on the basis
+of sex by ensuring generally that leave is available for
+eligible medical reasons, including maternity-related
+disabilities and for compelling family reasons, and to
+ensure equal protection under the law.
+JUSTICE ALITO: Well, following up on
+Justice Kagan's question, I have -- I have difficulty
+seeing how providing 12 weeks of leave for self-care for
+both men and women affects the incentive of an employer
+who we will assume has an inclination to discriminate
+against women based on the possibility that a woman
+applicant for employment may become pregnant. I just
+don't see how that would affect the incentives of -- of
+an employer in that situation.
+MR. FOREMAN: The rationale of Congress at
+that point was that they could have addressed this issue
+several different ways. They -- and they passed (A),
+(B), and (C) -- the birth of the child, the adoption of
+the child, and the Family and Medical Leave Act --
+against -- again, addressing gender-based stereotypes.
+JUSTICE ALITO: Well, (A) is not at issue,
+right?
+Okay. So, we're just dealing with (D),
+which concerns a serious health condition. So, you have
+an employer who is willing to discriminate on the basis
+of gender. The employer has two applicants for
+employment, a man and a woman, and the employer says,
+well, if I hire the man, he might take 12 weeks of leave
+for a serious medical condition, and if I hire the
+woman, she might take 12 weeks of leave for a serious
+medical condition which might be something that either
+men or women could get, or it also could be a sickness
+related to pregnancy.
+So, there still is -- there still would be
+an incentive for this hypothetical employer to
+discriminate against the woman.
+MR. FOREMAN: But one of the things Congress
+tried to do is to take that incentive away.
+JUSTICE ALITO: How does it do that? That's
+what I'm -- I understand that, and it's a worthy
+objective. I just don't understand how giving both men
+and women 12 weeks of leave for self-care affects the
+incentive.
+MR. FOREMAN: It affects the incentive by
+providing -- it becomes the equal opportunity employer.
+It evens the -- the ground. And the way it would do it
+is an employer, if you just have (A) through (C), can
+look at an employee and, based upon gender stereotypes,
+would make the assumption that the women, because of
+historically the role they were required to play, would
+be taking all the leave under (A) and (B) and (C). And
+so, why would I even hire that woman in the first place?
+JUSTICE KAGAN: But women don't get sick
+less often than men, do they?
+MR. FOREMAN: No, absolutely.
+JUSTICE KAGAN: So, you're just adding
+something to both sides of the balance, and it doesn't
+affect the employer's incentive. The employer still --
+the -- the hypothetical discriminatory employer would
+still say, well, women are going to be caregivers more
+often; so, I'm -- I'm going to not hire that person.
+MR. FOREMAN: But under (A), (B), and (C)
+after the Family and Medical Leave, an employer would
+look and say both men can take these now. And I think
+we need to step back --
+JUSTICE KAGAN: And that's why (A), (B), and
+(C) go to the problem, but what does (D) have to do with
+it? If you assume that both men and women get sick at
+an approximately equal rate -- maybe you don't assume
+that -- but if you do, it doesn't seem to factor into
+the employer's incentives in any way.
+MR. FOREMAN: There is nothing in the record
+that demonstrates that there's a differential rate
+between the self-care rates for men and women. But the
+perception was that women, because of pregnancy, because
+of pregnancy-related disabilities, would in fact take
+more leave. And so that I would look at a woman as an
+employer and say she will become pregnant, she will take
+leave, she will be disabled. However, with (D) now, but
+the man can take a -- a disability leave on the same
+basis.
+And the hope of Congress was not that it
+would happen immediately, but by the -- what would
+happen is, with the application of family and medical
+leave, at some point men would be taking (A), (B), and
+(C), and, in fact, women and men would be taking family
+and medical self-care leave. I just --
+JUSTICE GINSBURG: Mr. Foreman, I think
+everyone has been trying to get you to focus on the
+health care sickness leave alone, and in the -- in the
+portions of the Act that this Court upheld, the Congress
+said there is this close association of women with
+children; we think it's going to be good for everybody
+if fathers recognize their responsibility for elderly
+parents, sick children, sick spouse. So, we -- we can
+see the rationale, trying to change the stereotype,
+trying to open up caregiving for both sexes.
+But you have answered the question that
+women and men get sick; there's no -- there's no
+disproportion. So, how do you tie that, just -- just
+that part of the Act, where there -- there isn't the
+obvious association of women with childbearing? So, we
+extend the benefit to men so they'll be associated with
+child care. There isn't that same link here, is there?
+MR. FOREMAN: I think it is the same linkage
+trying to address -- it's addressing a difference there,
+but it's addressing the linkage that women will in fact
+take pregnancy-based leave or pregnancy-based
+disabilities and, therefore, are less attractive, less
+-- employees, and that's what self-care was intended to
+do.
+JUSTICE KAGAN: So, you're saying -- let me
+just make sure I understand. You're saying that the --
+that Congress is thinking that an employer actually does
+think that women take more sick leave because women get
+pregnant. And just as Congress was thinking about the
+employer who thought women are going to take more family
+leave, you think Congress was thinking about the
+employer who thinks women are also going to take more
+sick leave because of pregnancy?
+MR. FOREMAN: Absolutely, Your Honor. And
+in response to Justice Alito's question -- and I'm sorry
+if I gave a confusing response. There are two separate
+ways of addressing that.
+You can look at self-care as a stand-alone
+provision, without (A), (B), and (C). Congress passed
+just self-care. In that case it would be responding to
+exactly that type of gender stereotype, and 12 weeks
+would be a congruent and proportional response.
+The other way to look at it is that's not
+the way Congress passed the bill. They passed it as a
+comprehensive response with (A), (B), and (C), and hence
+(D) then becomes a bit of an equalizer to take away this
+negative incentive that only women would take (A), (B),
+and (C).
+So, there's two separate ways that this
+Court can get to the same conclusion, and that
+conclusion is that this is a congruent and proportional
+response to gender-based discrimination.
+JUSTICE KAGAN: Do you have any evidence
+that Congress in fact was thinking about either of these
+two things? Is there anything in the record that
+suggests either of those two theories?
+MR. FOREMAN: Yes, there -- there is, Your
+Honor, and let me -- let me take the negative inference
+first, because I think looking at the statute as a
+comprehensive makes sense -- is it was introduced -- and
+I'm reading from page 43. It's referenced on page 43 of
+our brief, that starting in 1987, National Women's
+Political Caucus testified, quote: "My primary purpose
+is to stress that parental and medical leave are
+inseparable. In the words of the old song, 'You can't
+have one without the other.'"
+And the point she then later on to explain
+was parental leave without medical leave would encourage
+discrimination against women of child-bearing age, who
+constitute approximately 73 percent of all women in the
+workforce. Employers would tend to hire men, who are
+much less likely to make this claim.
+Fast forward to 1993 at the time of the
+passage of -- and this would be on page 42 of our merits
+brief: "A law providing special protection to women or
+any defined group, in addition to being inequitable,
+runs the risk of causing discrimination." The FML
+addresses this by addressing the needs of all workers,
+avoids this risk. The FMLA is based on the guarantees
+of equal protection. So, it addresses that aspect of --
+it addresses that aspect.
+JUSTICE SOTOMAYOR: Counselor, I -- I take
+your argument, but if you look at the legislative
+record, the reports, the findings, et cetera, and the
+statements repeatedly by many congresspeople, there
+appears to be -- have been a dual motive for this
+provision. They were, in fact, engaged in the question
+of discrimination against pregnant women. That was
+recognized in Hibbs, and that's clear.
+But with respect to this particular
+provision, they were also concerned about economic
+effect that -- that happened to everyone, men and women,
+who became disabled. And so, they appear to have had
+dual motivation. Part of the bill was gender-related;
+part of the bill seemed to be disability-related.
+What do -- how do we judge that kind of
+bill, where Congress may have been expanding the
+benefits it's giving to people, not solely because of
+gender discrimination, but because of this desire to
+address disability discrimination?
+MR. FOREMAN: Justice Sotomayor, I -- I
+think the way you judge it is rely on what Congress's
+expressed findings and provisions are. And to the
+extent this Court makes a determination that the FMLA is
+responsive to gender-based discrimination, then how
+Congress chose to address that is congruent and
+proportional.
+The fact that Congress may also have had
+other motives, that there was a concern with -- with
+families and that families are -- benefit should not be
+used to undermine the fact that Congress indeed was
+acting pursuant to one of its broadest powers, section 5
+of the Fourteenth Amendment, and, therefore, that their
+-- their considered judgment is a congruent and
+proportional response.
+Part of -- part of the findings is clearly
+reflective of a fact that this covered both governmental
+employers and private industry. So, there was reference
+to Commerce Clause type of -- of analysis, which my
+colleagues raised repeatedly in their brief. But the
+court -- the Congress needed to do that because they
+were regulating private employment but, at the same
+time, recognized to the extent that we are -- are going
+to regulate State-based conduct.
+JUSTICE ALITO: Well, with respect to the
+Commerce Clause, could I ask you this: If we were to
+disagree with you on the Fourteenth Amendment and hold
+that it -- that Congress didn't validly abrogate State
+sovereign immunity with respect to subsection (D), would
+your client still be able to seek reinstatement or other
+injunctive relief?
+MR. FOREMAN: Justice Alito, I think what
+you're -- and you'll clearly correct me if I am wrong,
+but I think what you are responding to, is there an Ex
+parte Young action here that would be made -- able to be
+made consistent with the Commerce Clause, under the
+Commerce Clause?
+And the answer is -- and I know that both
+Justice Kennedy and Justice Rehnquist, I think, in one
+of his dissents, pointed out in the Family and Medical
+Leave Act that the employee may not be left out in the
+dark because there is an Ex parte Young claim.
+A couple points on that --
+JUSTICE ALITO: Here the district court
+completely dismissed your FMLA claim, not just insofar
+as you sought damages. I -- I think you also sought
+reinstatement and other equitable relief, but the
+district court dismissed it completely.
+MR. FOREMAN: That's right.
+JUSTICE ALITO: But you're not contesting
+that, are you?
+MR. FOREMAN: We're not contesting it
+consistent with any Ex parte Young claim. What the
+district court did was say the claim is totally
+dismissed based upon Eleventh Amendment immunity.
+But if I could try to respond to your
+question more specifically, this Court has never as a
+Court held that Ex parte Young type of action is
+available in this type of claim. Assuming that it --
+JUSTICE KENNEDY: Because this is for money
+damages.
+MR. FOREMAN: Pardon?
+JUSTICE KENNEDY: Because this is for money
+damages. Ex parte Young was just injunctive relief.
+The Eleventh Amendment primarily protects the treasuries
+of the State against money damages.
+MR. FOREMAN: Correct.
+JUSTICE KENNEDY: It's not Ex parte Young.
+MR. FOREMAN: Correct. But as -- as you
+pointed out in your dissent in Hibbs, that Ex parte
+Young may be available, but one of the concerns we have
+is, again, that the Court -- as a majority, the Court
+has never held that. I believe that is in fact the
+correct interpretation of the law, that it would be
+available for injunctive relief. However, the Court has
+never defined the parameters of what an Ex parte Young
+action really gives a plaintiff, and that becomes very
+important in this case.
+JUSTICE ALITO: You said "in this case."
+That's basically what I'm asking. If we were to
+disagree with you on the Fourteenth Amendment, are you
+asking us simply -- would we then simply affirm the
+Fourth Circuit? Or would we have to -- would we have to
+make some accommodation for the possibility that the
+dismissal of your claim, insofar as you sought
+injunctive relief, may have been improper?
+MR. FOREMAN: I think you would have to make
+that accommodation, but, with respect, Your Honor, I
+think that would be an incorrect approach. And here's
+-- here's the reason why in Ex parte Young, a perfect
+example --
+JUSTICE ALITO: I am really trying to be a
+little bit helpful to you. And I --
+(Laughter.)
+MR. FOREMAN: And apparently I missed that,
+and I apologize.
+JUSTICE ALITO: Okay.
+JUSTICE GINSBURG: What relief did you ask
+for? Damages, we know, and the -- you have to overcome
+the Eleventh Amendment. Injunctive relief, you don't,
+but did you ask for it?
+MR. FOREMAN: In the complaint itself, it
+does not ask for injunctive relief pursuant to the
+Family and Medical Leave Act.
+JUSTICE ALITO: I thought you --
+MR. FOREMAN: There were combined claims --
+JUSTICE ALITO: I thought you did, but maybe
+I'm reading your complaint more generously than you read
+it yourself.
+JUSTICE GINSBURG: Well, you --
+JUSTICE KAGAN: I'd go with Justice Alito
+here.
+MR. FOREMAN: If that's your reading of it,
+we will certainly accept your reading.
+(Laughter.)
+JUSTICE GINSBURG: You must have asked for
+such other and further relief.
+MR. FOREMAN: But, again, back to the Ex
+parte Young, in the case Nelson v. The University of
+Tennessee -- Texas, a -- the case that dealt with --
+exactly with this issue of abrogation of Eleventh
+Amendment immunity, and they found that there was valid
+abrogation of Eleventh Amendment immunity, the State of
+Texas -- then the court was required to address the Ex
+parte Young issue. And the State of Texas argued that
+reinstatement is not an appropriate remedy under Ex
+parte Young and that -- while the Fifth Circuit
+ultimately rejected that, that is an argument that
+employees would have to face: What are the parameters
+of Ex parte Young? And, more importantly, that is not
+the remedy that Congress in their considered judgment
+believed was the appropriate remedy to address
+gender-based discrimination.
+JUSTICE GINSBURG: Well, Congress must have
+thought that giving the woman back her job was an
+important part. I mean, I thought the whole idea is she
+wasn't supposed to be fired. So, I think that the --
+the relief, the non-monetary relief, is certainly
+important.
+MR. FOREMAN: It is extremely important, but
+Congress did not stop there. Congress decided it needed
+to take one step further and there needed to be monetary
+relief. And I think Mr. Coleman's case illustrates
+exactly why.
+Here Mr. Coleman exercised his rights that
+were supposedly guaranteed him under the Family and
+Medical Leave Act, and indeed under a State law, and the
+State of Maryland fired him, and he is out of work. And
+what is the disincentive for the State to not do the
+same thing the next time if the only thing that you can
+get is possibly injunctive relief prohibiting them from
+doing that in the future and maybe reinstatement 2 or 3
+years down the line? Employees at that point cannot put
+their lives on hold. They have a duty to go out and try
+to mitigate, try to find another job.
+What's an employer to do? And Congress said
+there needs to be more. We passed Title VII to try to
+address gender-based discrimination, the Pregnancy
+Discrimination Act, but there were still voids. And the
+Family and Medical Leave Act attempts to fill those
+voids, and one of those voids is try to provide a
+monetary incentive so that the State of Maryland and
+private employers will in fact comply with the law.
+JUSTICE GINSBURG: When you -- when you --
+JUSTICE SOTOMAYOR: Can I go -- I'm sorry.
+JUSTICE GINSBURG: When you say you're
+concerned about a disincentive to hire women, but the
+Pregnancy Discrimination Act makes that unlawful. So,
+if an employer decides I don't want to hire women of
+child-bearing age, that is an out-and-out violation of
+the Pregnancy Discrimination Act, isn't it?
+MR. FOREMAN: That is, Your Honor, but the
+Pregnancy Discrimination Act did not fill the other gap
+which the Family and Medical --
+JUSTICE GINSBURG: But you're relying on the
+incentive -- the disincentive to hire women of
+child-bearing age. The law protects the woman of child-
+bearing age by saying, Employer, you can't refuse to
+hire her, promote her, and all the rest because of
+pregnancy.
+MR. FOREMAN: It -- well, what the Pregnancy
+Discrimination Act provided was that you needed to treat
+pregnancy-related disabilities as you would other
+short-term disabilities. So, if an employer decided not
+to provide --
+JUSTICE GINSBURG: I'm just asking you
+about -- your -- your argument rests on an employer
+acting unlawfully, you see. He won't hire -- we have to
+give them medical leave, to everyone, because otherwise
+the employer won't hire women. And that's -- the
+question I'm asking is, you are assuming that the
+employer will break the law by refusing to hire women
+that -- of child-bearing age?
+MR. FOREMAN: I don't want to make that
+assumption in my incentive argument. I was using Mr.
+Coleman as an example of why Congress could have made a
+determination that monetary relief would be appropriate
+in the Family and Medical Leave Act.
+JUSTICE GINSBURG: But I -- your argument to
+a large extent depends -- or you say Congress did this
+because they wanted to eliminate or at least reduce one
+kind of discrimination against women in the job market.
+MR. FOREMAN: Yes.
+JUSTICE GINSBURG: And that -- that
+discrimination was refusing to hire women of child-
+bearing age. Well, they couldn't do it out and out
+because that would be a violation of the law. So, is
+Congress having in mind discrimination that is under --
+under the radar screen, that it's going to go on even
+though it's unlawful?
+MR. FOREMAN: I -- I don't think that was
+Congress's intent, and that that's not what was
+reflected. I think, again, they were trying to address
+it on two separate levels: one, the gender-based
+discrimination, the gender stereotype that women simply
+become less attractive; and in the broader statute, to
+prevent the negative inference so that all -- that
+ultimately where we would get in society is the ability
+to take pregnancy-related leave, other leave, would not
+be viewed as a negative inference running against women,
+and, therefore, women ultimately would become a
+nonissue.
+And I see the light's on. So, if I could
+reserve the balance of my time.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Mr. Howard.
+ORAL ARGUMENT OF JOHN B. HOWARD, JR.,
+ON BEHALF OF THE RESPONDENTS
+MR. HOWARD: Thank you, Mr. Chief Justice,
+and may it please the Court:
+In order to affirm in this case, the Court
+need go no further than to distinguish Hibbs, and we
+think Hibbs is readily distinguishable. And I'd like to
+highlight four principal --
+JUSTICE GINSBURG: Need go no further? I'm
+sorry. I -- I didn't --
+MR. HOWARD: I'm sorry, Justice Ginsburg.
+Need go no further than simply to distinguish Hibbs.
+And we think there are at least four distinctions that
+we'd like -- I'd like to highlight today. The first is
+one that's -- Justice Kagan, your question goes to,
+which is subsections (A), (B), and (C) are all related
+in some fashion to women's roles with respect to work
+and family. Subsection (D) really does not speak to
+that purpose.
+And I think my second sort of distinction I
+would point to --
+JUSTICE KAGAN: If I could just --
+MR. HOWARD: Yes.
+JUSTICE KAGAN: -- stop you there, Mr.
+Howard, for a second, as I took from Mr. Foreman
+something that I hadn't understood from his briefs --
+maybe I just missed it -- which is that he's making a
+kind of analogous argument, that, just as in the -- in
+the prior provisions of the Act, employers thought of
+women as caregivers and the response of Congress was to
+provide a gender-neutral leave benefit that had both --
+that both women and men were eligible for.
+So here, employers think of women as needing
+more medical leave because of pregnancy, and the
+response of Congress is to provide gender-neutral sick
+leave. So, what is your response to that argument?
+MR. HOWARD: Congress, Justice Kagan, did
+not I think take that stereotype or perception that Mr.
+Foreman referred to into account. And I'd specifically
+point the Court to page 21 of our brief, where we cite
+some Bureau of Labor Statistics studies indicating that
+men and women at the time took roughly the same amount
+of sick leave. In fact, Mr. Foreman has conceded as
+much. And that same study projects that men and women
+will take roughly the same amount of time after the
+enactment of the FMLA --
+JUSTICE SOTOMAYOR: But there certainly
+was -- there was certainly much conversation and
+testimony that, whether they in fact took the same
+amount of leave time or not, that women who were
+pregnant or were perceived as capable of getting
+pregnant were hired less frequently because,
+subjectively, the employers thought that they were more
+likely to take the time.
+So, frankly, for years there was questions
+about whether law firms were hiring young -- not hiring
+young women because they feared they would leave in the
+middle of a big case or something else. We all know
+those stories. So, it is sort of common knowledge in
+many ways, but there was plenty of testimony related to
+that.
+So, assume that that was Congress's
+perception, because it was supported by the record or as
+much of the record as Hibbs recognized as adequate.
+Where does that leave your argument?
+MR. HOWARD: Well, I would make a couple of
+points in response to that, Justice Sotomayor. First,
+the Pregnancy Discrimination Act was already in place.
+And so, to the extent there were perceptions that
+employers might discriminate based on pregnancy
+disabilities, that would be unlawful under Title VII as
+amended by the Pregnancy Discrimination Act.
+And the fact that -- and you are quite right
+that there is a fair amount of discussion in the
+legislative record, although I think it's less of a
+predominant theme than the concern for job security for
+working families, but there certainly is discussion
+about pregnancy discrimination and pregnancy disability
+as a type of illness.
+But we again would note that this is valid
+Commerce Clause legislation. And so, to the extent that
+kind of discrimination was occurring and leave was being
+denied or women were suffering adverse consequences in
+the workplace as a result of pregnancy discrimination,
+they could enforce the 12 weeks through a Title VII
+action.
+JUSTICE GINSBURG: They couldn't -- the
+Pregnancy Discrimination Act says that you have to treat
+pregnancy like any other disability. So, if they're not
+giving anybody any leave for anything, they don't have
+to give any leave; not 12 weeks, not 1 day. And that's
+what -- that's the gap that this legislation fills. It
+says, yes, you do have to provide leave for women who
+have disabling conditions, including pregnancy, but then
+you have to give that to men as well. You can't reserve
+that for the one sex. So, it was the gap in the
+Pregnancy Discrimination Act that this -- this was
+referring to.
+MR. HOWARD: Yes, I agree, Justice Ginsburg,
+but the gap that existed was the absence of a guaranteed
+period of leave. In other words, it was the absence of
+a substantive entitlement, and so -- to a certain amount
+of leave. And, in effect, the gap that was being filled
+served as prophylaxis for Title VII but not for
+constitutional violations. Now --
+JUSTICE ALITO: Assume for the sake of
+argument that for the -- the applicants for particular
+provisions -- particular positions, I should say --
+where the applicants are typically of a certain age, men
+tend to take less sick leave than women, because women
+also take sick leave for pregnancy-related illnesses.
+So, giving everybody 12 weeks eliminates the -- the
+possibility that women -- women who will be -- want to
+take additional -- will want to take more sick leave
+will be fired because they exceed the amount of sick
+leave allowed by the employer for everybody. Now, isn't
+that connected to eliminating discrimination in
+employment?
+MR. HOWARD: Justice Alito, I think that one
+could argue that that is connected with eliminating
+pregnancy disability discrimination. It's also
+connected to the purposes of (A), (B), and (C). I think
+that the principal reason why employers do view
+potential hires as -- when they're women, as likely to
+take a lot of time off I think goes more to the family
+caretaking provisions, and I think that's largely
+reflected in the record.
+JUSTICE ALITO: Well, I don't think -- I
+have difficulty with the incentives argument either --
+honestly, either as to (D) or as to (C). But I'm just
+talking about the -- an argument based on consequences.
+If an employer says you get 2 weeks of sick leave,
+period; after that, if you can't come back, you're
+fired -- that may -- at least for applicants within a
+certain age range, that may have a much more severe or a
+more severe impact on women than on men.
+MR. HOWARD: Yes, Justice Alito, and I
+think what --
+JUSTICE ALITO: What would the answer to
+that be, that that's not intentional discrimination?
+MR. HOWARD: That would certainly be part of
+the answer, and what I was going to say was that what
+you are describing is a disproportionate impact on women
+as a result of assumptions concerning pregnancy
+disability. And, of course, if States were engaging in
+this kind of conduct or if there were a disproportionate
+impact, that would not state an equal protection
+violation under Washington v. --
+JUSTICE BREYER: Why are you separating four
+things? I mean, I've heard, it seems to me, three
+separate rationales. One, the easiest, is in (D)
+itself. Sometimes a woman could have a miscarriage, and
+of course she has to stay home. And that isn't covered
+by (A), (B), or (C). So, we cover it in (D), you know.
+And then we put the men in too because we don't want to
+make this incentive just to not hire women. That's one.
+The second one was the one Justice Ginsburg
+brought up, that there is a gap in the pregnancy law
+which won't work unless you have to give people some
+medical leave. So, here it is, (D).
+And the third one, which I think was related
+to what Justice Alito just said, is when -- you have to
+read it together to understand the third one. You get
+12 weeks all together. All right? Now, that means,
+once you put in (D), this Act will have less of a bad
+effect. The bad effect of the Act is if you protect the
+women, then the -- the employers say, well, we're not
+going to hire women, perfect; we have to give them 12
+leaves; we'd have to give the men -- terrible, it's a
+terrible disincentive.
+But then they worked out how to lessen the
+disincentive. And the way you do that, you say 12 weeks
+overall. And now look what happens. A woman wants to
+take, say, 12 weeks to look after her family, and she
+gets separately sick, 4 more weeks. But how many does
+she get? Answer: Twelve, right? Twelve. You could
+answer that part.
+(Laughter.)
+JUSTICE BREYER: Now let's think of the man.
+Let's think of the man. The man would like to look
+after the family, say, for 6 weeks. And he gets sick 4
+weeks. How many weeks have we got?
+MR. HOWARD: Ten.
+JUSTICE BREYER: Ten. Thank you.
+(Laughter.)
+JUSTICE BREYER: All right.
+MR. HOWARD: I like these questions.
+JUSTICE BREYER: So -- perfect.
+So, now the employer is sitting -- and it
+will work with other numbers. I don't rely on those
+alone.
+(Laughter.)
+MR. HOWARD: Right.
+JUSTICE BREYER: But now look what happens.
+Without this Act, he's got a woman who is going to be
+out of there -- I mean, with the Act -- see, unless we
+put in four -- unless we put in the fourth part of it,
+we have a woman who's gone for 12 weeks and a man who's
+gone maybe for 6 but maybe for zero, okay? Maybe for 6.
+With the Act, the woman's gone for 12, the man's gone
+for 10. You see?
+And so, the comparison there -- and it will
+work with whatever numbers you want. The comparison
+there is very different. And the comparison doesn't --
+doesn't totally erase the problem with the woman, but it
+may reduce it to a size where the Act itself will no
+longer act as such a disincentive to hiring a woman.
+We have three different rationales. All of
+them are related to a serious problem, which is the
+problem of discrimination against women because the
+employers think they'll be home more. And so, you see
+the conclusion I'm drawing? Yes, okay. So -- so, where
+are we?
+MR. HOWARD: Well, let me speak first to the
+second one, the concern about the gap. The gap that is
+filled by the 12 weeks is -- is a -- is to provide a
+substantive entitlement. And when it permits a claim, a
+damages claim enforceable against a State treasury, it
+provides an entirely -- it requires a different
+justification than simply to fill a gap with a
+substantive entitlement. It becomes --
+JUSTICE GINSBURG: The idea is it's part of
+one package. I think that's what Justice Breyer was
+getting at. But just suppose that Congress wanted to
+improve conditions for the -- in the job market for
+women, which I think it's fair to say was the motivating
+force behind this Act, and they also wanted to protect
+families so that sick children, sick spouses are
+attended to.
+Now, what leave policy would say, okay, to
+do that, we will have leave when a spouse is sick, a
+child is sick, a parent is sick, but not when the worker
+herself is sick? Without -- it's all part of one
+package which is designed to increase job security for
+women and increase protection for their families. So, I
+don't think you can slice off (D) from the other three.
+MR. HOWARD: Justice Ginsburg, I think you
+can separate (D) on the same analysis that this Court
+applied in Tennessee v. Lane, in contrast to the Garrett
+case. In Lane, of course, different sections of the
+same Antidiscrimination Act required different
+analysis -- analyses and reference to different parts of
+the record. There was a single over-arching purpose, to
+prevent discrimination against persons with
+disabilities, but the operation and effect of the
+particular claim requires a different analysis. As
+Justice Stevens said, the Court is not required to
+evaluate statutes as an undifferentiated whole.
+JUSTICE BREYER: No, it doesn't have to, of
+course. But the whole point of the question that I was
+asking was, sure, what helps you by doing it separately
+is it helps your case. But if we look at what Congress
+was trying to do, they were trying to do it as a whole.
+That's my point that I want you to answer. And they're
+trying to do it as a whole because, no matter what
+numbers I use, if I look at it without (D) -- is it (D)?
+Yes, (D). If I look at it without (D), the ratio will
+disfavor the woman. And if I look at it with (D),
+suddenly the ratio from the point of view of the
+employer of the disadvantage of hiring a woman over --
+over hiring a man -- it goes way down. And that helps
+women.
+And that is why, I think -- reading this and
+listening, a major reason why they put in (D) as part of
+the other, because working with that 12-week limitation
+and the whole rest of the statute, we now have a statute
+that doesn't defeat itself. We now have a statute that
+actually can achieve the end of leading employers to not
+discriminate against women. Not perfectly, but there's
+a big improvement.
+And that's the -- that's the argument I'm
+making. You have to read it as a whole to see that.
+And that's what I -- I wonder if there's an answer to
+that. Of course, I'm at the moment thinking there isn't
+an answer to it, but I asked the question because I want
+to hear what you say.
+MR. HOWARD: Well, with respect to the
+ratio, I think the premise of that point is that women
+will take more leave for serious health conditions than
+men. And I don't think that's borne out. And, you
+know, Mr. Foreman has recognized as much. So, I don't
+think the ratio really changes.
+JUSTICE ALITO: Well, what if Congress had
+added three additional subsections here and said that an
+employer has to provide 12 weeks of unpaid leave so that
+an employee can go to a health spa, 12 weeks of unpaid
+leave for -- so that the employee can travel, 12 weeks
+of unpaid leave so that the employee can take an
+educational course?
+Now, that -- those could be taken advantage
+of by either men and women. It makes both men and women
+increasingly unattractive as employees and, therefore,
+reduces the any special disincentive that might have
+been created by (A), (B), and (C).
+Now, on that same logic, would those be --
+would those be provisions that further the elimination
+of discrimination based on gender?
+MR. HOWARD: I -- I think even if one
+accepted the premise, and we don't, that women take more
+leave for health conditions, that would further dilute
+the ratio, to have available all those types of leave.
+Now, I thought, for example, one could imagine --
+JUSTICE SOTOMAYOR: I thought Justice Alito
+was trying to help you.
+JUSTICE BREYER: He was.
+JUSTICE SOTOMAYOR: He was.
+JUSTICE BREYER: He was -- he's absolutely
+right, and that's why this isn't a health spa thing,
+(D). This is -- in fact, has two independent reasons,
+that all -- the miscarriage reason and the Pregnancy Act
+reason. And so, it isn't just saying go to a health
+spa.
+But I mean, I don't want to put arguments in
+your mouth, which I just have, which you wouldn't like
+there anyway, because -- but I would appreciate your
+going on with this discussion in respect to what
+Justice Alito and I have been talking about, and I'd be
+interested in what you think.
+MR. HOWARD: Yes.
+JUSTICE SOTOMAYOR: And I'm working from a
+different proposition than you are in response to this
+question. I don't think that the actual amount of time
+that men and women take is relevant. The question is:
+What is the employer's perception, and did Congress have
+a valid basis, as Justice Kagan pointed out earlier, to
+believe that employers thought women took more time?
+MR. HOWARD: I -- I think that if -- even if
+that were correct, and -- and I don't think it is
+because I think the overwhelming themes in the
+legislative record as a whole really were a concern for
+working families, whether single-income, double-income,
+and the concern that if a breadwinner falls ill, the
+family's going to have severe financial insecurity. And
+then there was also concern against discrimination
+against persons with illness.
+But I think that one thing I'd like to
+emphasize is that your -- your suggestion, Justice
+Sotomayor, and -- and really almost all of the
+discussion here today, I think, explains why this is
+good social policy. We support it. But I don't think
+that we've really gotten anywhere near the necessary
+predicate of unconstitutional State conduct when the
+constitutional right is defined with some precision.
+And I -- and I think one has to define this
+right as -- as disability. And I think also the
+protections that the Pregnancy Discrimination Act
+already had in place, when added with the substantive --
+to the substantive entitlement, as a matter of Commerce
+Clause legislation, to this leave --
+JUSTICE ALITO: Well, if the State of
+Maryland thinks this is good social policy, why is it
+asserting its sovereign immunity?
+MR. HOWARD: Well, that's a good question,
+and I think we're here mainly on -- we need to defend
+this on principle.
+As, Justice Kennedy, you've pointed out in a
+number of your opinions, the exercise of the section 5
+power alters the Federal-State --
+JUSTICE ALITO: But you can waive. Can't
+you waive your -- your Eleventh Amendment immunity?
+MR. HOWARD: We could, I believe.
+That's this Court's --
+CHIEF JUSTICE ROBERTS: Well, you can
+provide this, the kind of relief that's sought here,
+without waiving immunity, right? It's a matter of
+legislation.
+MR. HOWARD: Yes, I think that's right, and
+there --
+CHIEF JUSTICE ROBERTS: Could I just get
+back to the discussion before about how (D) relates to
+the others?
+MR. HOWARD: Yes.
+CHIEF JUSTICE ROBERTS: Who do you think
+benefits most from subsection (E), men or women? That's
+the one about armed services obligations at the time the
+law was passed.
+MR. HOWARD: I assume -- and I haven't
+studied the history of that, but I assume that, just
+based on the demographics of the military, it's like --
+likely that there are more men in -- in service deployed
+and that more women and wives benefit from that
+provision.
+JUSTICE GINSBURG: Was that -- that wasn't
+part of the original Act, was it?
+MR. HOWARD: No, it was not.
+JUSTICE GINSBURG: And so, it was -- that
+was -- the concern was a discrete concern for veterans.
+MR. HOWARD: Yes, and --
+JUSTICE GINSBURG: In that part.
+MR. HOWARD: And we have not --
+JUSTICE GINSBURG: It wasn't part of the
+package that was the Family/Medical Leave Act.
+MR. HOWARD: No. And we are not suggesting
+that. We haven't raised that as a point in our briefs
+or here today.
+JUSTICE KAGAN: And, Mr. Howard, I -- I do
+think that the point about the package is that if you
+look at (D) alone, when you abstract it from everything
+else, you have a good point, that it seems to be related
+to economic security, which is not a section 5 issue;
+that it seems to be related to discrimination against
+sick people, which would also put us in a different
+legal universe.
+But when you look at (D) as passed at the
+same moment on the basis of the same record as (A), (B),
+and (C), with the overwhelming purpose of Congress being
+to protect women from discrimination in the workplace
+because of unfair stereotypical -- views about what
+women do as workers, then (D) assumes a different kind
+of aura.
+And you can talk about a number of theories
+for that, but I guess I would just ask for your -- your
+reaction to that, that (D) is just part of a package
+which was about telling employers: Get rid of your old
+stereotypes. Don't act on your old stereotypes. Employ
+women.
+MR. HOWARD: Well, I -- I would respond in
+part -- and I'm going to accept your proposition that I
+should discuss these provisions as part of a single
+package. But from the standpoint of States, subsection
+(D) provides a separate claim, a separate basis to sue
+States, and we think that claim is incongruent and
+disproportionate to any conceivable unconstitutional
+conduct that it might prohibit.
+And I think this is borne out in the case
+law. We've surveyed the 40 Federal cases that we could
+find under subsection (D). Only two involve
+pregnancy-related disabilities. Only one of them
+alludes in passing to headaches arising from pregnancy
+along with other stress-related conditions. But -- but
+all of the others really have to do with men and women
+benefiting from this leave for -- to care for a serious
+health condition.
+So, I -- I would really emphasize, in
+response to your question, that one could look at it as
+a package, but from the standpoint of States, it's a
+separate and independent claim, and it's an
+extraordinarily broad one. And it is not necessary, not
+simply because Pregnancy Discrimination Act claims are
+available, but, Justice Alito, there are Ex parte Young
+claims available.
+In -- in response to your question, in this
+case at the Joint Appendix pages 3 to 12, the amended
+complaint reveals that injunctive relief was sought,
+albeit -- and on page 12 is the prayer for relief.
+It's -- it's not clear whether that relief is sought
+under Title VII or FMLA or both. But the reason why I
+don't think -- the claim fails separate and apart from
+any sovereign immunity argument. Of course, Ex parte
+Young is not -- does not protect on that ground.
+JUSTICE GINSBURG: But there's some focus in
+the legislative history particularly on the -- the
+family that has a single parent -- much more often a
+woman, not a man -- and the devastating impact on that
+family of the woman getting sick, the sole breadwinner
+getting sick. So, that was certainly an -- a problem
+for families with -- with only one breadwinner. And
+Congress was focusing on those women and wanting to have
+job security for them. That wasn't the only group of
+women, but certainly that -- that affected the -- this
+Act as it came out, didn't it?
+MR. HOWARD: Yes. There is discussion in
+the record of the disproportionate impact that you say.
+But what -- what is left out -- well, it -- it is found
+in other parts of the record that -- the relevant --
+JUSTICE SCALIA: You're talking about the
+legislative record here?
+MR. HOWARD: Yes. The -- I'm sorry, yes.
+The record of -- before Congress.
+The relevant comparison, we think, is not --
+JUSTICE SCALIA: Is that a closed record?
+Is that a closed record, the way a record of a case is?
+MR. HOWARD: I -- I am not sure I understand
+the question.
+JUSTICE SCALIA: I just find it a strange
+expression to talk about "in the record" --
+MR. HOWARD: Oh, I --
+JUSTICE SCALIA: -- when what you're talking
+about is legislative history.
+MR. HOWARD: I misspoke. I do mean the
+legislative history.
+The -- the relevant comparison we think is
+not between single-parent families who were
+predominantly women, but between working families where
+it could be two parents with a single income, man or
+woman; it could be a family with two incomes, but
+neither one can be lost. So -- and in any event, I
+think we're talking now about a disproportionate impact,
+which -- which would not state a -- an Equal Protection
+violation.
+JUSTICE GINSBURG: There's a question of how
+Congress would do it. If they -- if they provided only
+for the woman who's the single head of the family, then
+that would be vulnerable under equal protection because
+they didn't provide it for men.
+MR. HOWARD: I think one would need to find,
+as this Court's cases have emphasized, a widespread
+pattern of unconstitutional conduct in the part of
+States. And I think the circumstances, Justice
+Ginsburg, that you've described, do not flow from
+unconstitutional State action. They have their roots in
+other socioeconomic causes. So --
+JUSTICE GINSBURG: So, the leave is a remedy
+for the problem. I think there's really not much
+disagreement about the problem, that there is gender
+discrimination in the job market.
+MR. HOWARD: Yes.
+JUSTICE GINSBURG: And then the question is
+how do we remedy that?
+MR. HOWARD: Well, I -- I don't think by
+providing the -- the very sweeping remedy of (D), which
+-- I see that my light's on. May I --
+CHIEF JUSTICE ROBERTS: You can finish your
+sentence.
+MR. HOWARD: We think that the remedy in (D)
+may cover the types of concerns you referred to, but
+I -- I would emphasize this is a disproportionate,
+incongruent remedy. It subjects States to far more
+suits for unrelated health conditions than the Eleventh
+Amendment should permit.
+Thank you, Mr. Chief Justice.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Mr. Foreman, you have 4 minutes remaining.
+REBUTTAL ARGUMENT OF MICHAEL L. FOREMAN
+ON BEHALF OF THE PETITIONER
+MR. FOREMAN: This is not responsive to
+disability-based discrimination. The findings and the
+purpose of the Family/Medical Leave Act make it clear
+that it is responsive to gender-based discrimination.
+Hibbs, in fact, found that the FMLA was in
+response to gender-based discrimination. In making that
+finding, they did not differentiate between the
+different leave provisions. And, indeed, if you move to
+Tennessee v. Lane, where Justice Rehnquist dissented,
+drawing distinctions between disability-based
+discrimination and sex-based discrimination, stated that
+the task of identifying the constitutional right at
+issue in the Family and Medical Leave Act was an "easy"
+one. And that was his word, "easy." It's responsive to
+gender-based discrimination.
+Chief Justice Roberts, I think your question
+about the military leave portion of the FMLA illustrates
+that -- what Congress was doing here when they added
+that almost 10 years later, they did not simply try to
+pigeonhole it into -- this is section 5 legislation. In
+the circuits at that time, there was considerable debate
+as to whether that could be justified as proper
+abrogation of immunity --
+CHIEF JUSTICE ROBERTS: Do you think it
+would be --
+MR. FOREMAN: I'm sorry.
+CHIEF JUSTICE ROBERTS: Do you think it
+would be -- how would this case come out if we were
+dealing with -- with subsection (E)? Do you think that
+should be treated separately than the prior ones?
+MR. FOREMAN: Yes, it should, because --
+CHIEF JUSTICE ROBERTS: How?
+MR. FOREMAN: -- it was passed pursuant to a
+different constitutional power, and they provided in
+fact a different remedy, recognizing that the -- the
+Commerce Clause could not -- that Commerce Clause was
+the appropriate way to deal with this, and they provided
+a right of action by the United States in order to
+provide damages.
+CHIEF JUSTICE ROBERTS: If -- if we think
+that you should look at these provisions separately,
+where with respect to (D) -- and I'm looking at one of
+our prior precedents -- has Congress unequivocally
+declared its intent to abrogate sovereign immunity?
+MR. FOREMAN: As to --
+CHIEF JUSTICE ROBERTS: Unequivocally. Not
+on the basis of implications from -- from how the other
+provisions work. But if you do look at (D), is there
+any place where Congress unequivocally declared its
+intent to abrogate State sovereign immunity?
+MR. FOREMAN: Well, I -- I think it -- yes,
+Your Honor. It's in -- they provide that the State is
+an employer for purposes of coverage of the Family and
+Medical Leave Act. And if you go to 29 U.S.C. 2005,
+where it says a public entity is covered by the Family
+and Medical Leave Act, then -- that damages are
+available. It -- it specifically includes "State."
+In terms of my colleague's attempt to
+distance this case from Hibbs, in all due respect, we
+think that Hibbs did the heavy lifting here. It is the
+same legislative purpose. It is the same constitutional
+right. It is the same statutory scheme. As this
+Court --
+CHIEF JUSTICE ROBERTS: Well, but your --
+the answer you gave to my request depends entirely on a
+conclusion that (D) is linked to (A), (B), and (C)
+because, otherwise, you don't have the argument that
+it's precisely relief with respect to a discrimination
+under the Fourteenth Amendment.
+MR. FOREMAN: But you do, Your Honor, and
+that's the -- that's the discussions we had earlier,
+that it's response to gender-based discrimination, the
+stereotypes that pregnant women will take leave. And
+so, we think (D) would stand alone. But as the
+discussion today indicated, we think the appropriate way
+is to treat this as a comprehensive whole responsive to
+gender-based discrimination and do as you did in Hibbs,
+find that it is a congruent, proportional response to
+gender-based discrimination.
+Thank you.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+The case is submitted.
+(Whereupon, at 11:22 a.m., the case in the
+above-entitled matter was submitted.)
+46:10 21:13 31:14,18,22 45:18 38:6 45:17
+45:1 addresses 4:19 27:15,18 29:2 34:14 18:10 27:9
+43:24 addressing 6:8 33:1 45:16 armed 37:1 bad 28:16,17
+34:8 adequate 24:15 31:17 asking 16:5,7 Baltimore 1:19
+adverse 25:9 apart 39:24 asserting 36:3 24:21 27:7
+age 11:19 19:20 16:20 9:15 basis 5:14 6:13
+14:16 aiming 4:6 1:15 assumes 38:10 21:6
+18:22 AL 1:7 appears 12:11 assuming 15:9 behalf 2:4,7,10
+albeit 39:21 appendix 5:4,12 20:16 3:8 22:3 43:1
+20:7,23 Alito 5:19 6:9 5:13 39:19 assumption 3:22 believe 15:23
+24:19,23 7:2 13:25 14:7 applicant 5:25 7:12 20:20 35:2 36:12
+28:16 14:19,25 16:4 applicants 5:8 assumptions believed 18:7
+29:21,22 16:17,22 17:5 6:14 26:8,10 27:20 benefit 9:16
+31:3 17:7,11 26:7 27:10 attempt 45:9 13:10 23:7
+34:11 26:20 27:4,13 application 8:22 attempting 4:9 37:7
+37:10,18 27:15 28:13 applied 31:15 4:25 benefiting 39:8
+39:15 33:9 34:4,18 apply 5:6 attempts 19:10 benefits 12:23
+43:4,14 36:1,10 39:16 appreciate attended 31:5 36:25
+Alito's 10:10 34:16 Attorney 1:18 big 24:9 32:21
+alludes 39:5 appropriate 9:22 21:16 12:20,22
+16:2 amended 24:23 44:13 46:1 available 5:15 bit 10:21 16:18
+42:2 39:19 approximately 15:9,21,25 borne 33:6 39:1
+Amendment 8:7 11:20 34:2 39:16,17 breadwinner
+43:19 16:25 17:22,23 argued 17:25 a.m 1:14 3:2 Breyer 27:25
+13:20 21:25 22:4 colleague's 45:9 8:20 9:4 10:2,4 couple 4:10
+36:14,20,24 combined 17:6 10:6,14,19 14:18 24:17
+43:17,25 44:3 Commerce 13:6,8,11,21 28:4 31:16
+30:3,4,5 40:21 33:9 34:25 13:21 14:19,23
+8:5 child-bearing complaint 17:2 44:19,25 22:5,6 23:16
+10:14,20 11:19 19:20 17:8 39:20 congresspeople 31:14,23 45:14
+22:17 20:2,18 completely 12:10 Court's 36:13
+27:6 chose 13:6 14:20,23 Congress's 13:2 41:23
+33:20 Circuit 16:8 comply 19:13 21:12 24:13 cover 28:5 42:17
+45:17 18:2 comprehensive congruent 10:17 coverage 45:4
+cite 23:16 conceivable 26:21,23
+16:3,4 30:18,19 31:22 35:6,8,10 43:22 14:4 22:19
+18:18 38:22,23 39:13 37:13,13 considered 27:6 28:2,5,11
+24:9 39:24 concerned 12:16 13:14 18:6 28:16 31:12,14
+32:3 claims 17:6 19:17 consistent 14:11 32:7,7,8,8,9,15
+40:23 39:15,17 concerning 15:3 34:10 36:21
+45:10 Clause 4:22 27:20 constitute 11:20 37:24 38:5,10
+13:19 14:1,11 concerns 6:12 constitutional 38:14,22 39:3
+35:25 44:12,12 conclusion 43:13 44:10 44:24 45:17,25
+13:16 14:8 conditions 25:20 conversation DANIEL 1:3
+23:23,24 close 9:5 39:6 42:20 correct 14:8 day 25:17
+27:17 closed 40:22,23 conduct 13:24 15:17,19,24 deal 44:13
+Coleman 1:3 3:4 27:22 35:18 35:4 dealing 6:11
+disability-based 20:1 28:21,23 effect 12:17 26:4 38:15
+12:20 dismissed 14:20 11:4,6 27:5,6 employment
+35:19 32:11 27:19,22 38:24 17:21,23 36:11 23:22
+16:6 42:18 eligible 5:16 encouraging 5:7
+42:6 dissented 43:10 eliminate 21:1 enforceable
+5:23 6:13,24 distinction 26:18,21 engaging 27:21
+12:2,13,24,25 22:13 35:13 39:10 entitlement 26:3
+20:22 21:15 24:19,23 15:4 Employ 38:16 5:18 7:8 8:7
+30:5,9,20 31:20 33:23 35:7 employees 5:8 equitable 14:22
+35:10,22 38:2 drawing 30:13 9:23 18:4 19:3 eradicate 4:6
+38:3,10 38:8 39:15 43:11 33:18 erase 30:6
+44:10,11 42:7 43:3,5,7 dual 12:11,19 employer 4:12 ESQ 1:16,18 2:3
+46:5 D.C 1:9 7:21,22 8:1,16 evaluate 31:24
+27:5 7:22 E 19:19 20:3,9 event 4:17 41:13
+8:14 9:22 35:15 36:21 45:22 33:11 45:4 Ex 14:9,17 15:3
+24:22 40:13 46:1 easiest 28:2 employers 5:7 15:8,14,18,20
+39:4 discussions easy 43:14,15 11:21 13:18 16:1,15 17:18
+25:4,15 disfavor 32:9 38:1 24:4,21 26:24 39:16,25
+27:21 disincentive educational 28:18 30:12 exactly 10:16
+18:19 45:4,6 10:9 11:7 13:1 13:5 18:8 19:8 13:17
+34:3 Family/Medical 15:12,17,19 43:16 45:23 group 12:1
+feared 24:8 23:19 33:7 General 1:18
+24:20 filled 26:4 30:17 four 22:9,14 18:9 19:14,16 headaches 39:5
+fills 25:18 27:25 29:23 19:25 20:11,24 health 6:12 9:3
+find 19:5 39:3 13:13 14:2 25:13,25 28:8 34:12 39:9
+12:12 finish 42:14 Frontiero 3:23 25:21 28:10,19 help 34:5
+fired 18:12,23 further 17:17 28:20 helpful 16:18
+19:13 26:16 27:10 18:17 22:7,10 gives 16:2 helps 32:2,3,12
+24:24 firm 3:18 22:13 33:22 giving 7:4 12:23 Hibbs 12:14
+43:6 firms 24:7 34:1 18:10 25:16 15:20 22:7,8
+first 3:4 5:1 7:15 future 19:2 26:13 22:13 24:15
+25:3 13:4 14:20 28:9 30:16,16 goes 22:16 27:1 7:15,24 11:21
+35:7 23:22 39:23 30:21 32:12 19:17,19 20:1
+41:9,10 43:6,18 Garrett 31:15 going 7:23,24 20:4,13,15,17
+8:1,22,24 focusing 40:9 4:5,6 5:6,9 13:23 21:9 hired 24:3
+14:15 following 5:19 6:14 7:11 27:18 28:19 hires 26:25
+18:21 force 31:3 10:16 12:24 29:21 34:17 hiring 24:7,7
+20:23 Foreman 1:16 21:15 33:23 35:9 38:19 30:8 32:11,12
+27:1 2:3,9 3:6,7,9 42:6 good 9:6 35:16 historical 3:12
+29:7 4:2,9 5:4 6:3 gender-based 36:2,4 37:25 3:13
+41:12 6:25 7:7,18,25 3:17,21 4:10 gotten 35:17 historically 7:13
+43:14 8:10 9:1,18 4:14 6:8 11:2 governmental history 3:16 4:5
+40:3 41:5 44:20 45:1 inseparable 21:25 22:4,10 L
+impact 27:12,19 11:15 22:12,16,23,25 L 1:16 2:3,9 3:7
+41:14 16:10 25:13,25 26:7 Labor 23:17
+19:22 18:5 27:16 31:23,25 33:9 17:15 29:4,11
+improper 3:22 interested 34:19 34:4,4,6,7,8,18 29:18
+22:1,2,4,12 improvement introduced 36:20,24 37:9 19:13 20:2,17
+23:1,13 32:21 11:10 37:12,15,17,22 21:7 24:7 28:9
+25:25 incentive 5:22 involve 39:3 39:16 40:2,17 37:2 39:2
+27:13,17 6:23 7:1,6,7,21 issue 3:24 6:4,9 40:22 41:1,4 leading 32:19
+10:22 19:12 17:21,25 38:1 41:17,25 42:4 leave 4:18 5:15
+31:13 20:1,20 28:7 43:14 42:9,14,22,23 5:21 6:7,16,18
+34:20 incentives 6:1 43:10,17,25 7:5,14 8:1,15
+36:4,12 8:9 27:5 J 44:3,8,16,22 8:17,18,23,25
+37:3 inclination 5:23 January 1:10 45:15 46:7 9:3,21 10:3,6,8
+includes 45:8 job 18:10 19:5 justification 11:14,18,18
+38:18 including 5:16 21:2 25:2 31:1 30:21 14:16 17:4
+25:20 31:10 40:10 justified 43:23 18:22 19:10
+42:8 income 41:11 42:7 20:14,23 21:19
+incomes 41:12 JOHN 1:18 2:6 K
+23:7,10
+7:22 38:23 42:19 Joint 39:19 7:19 8:4 9:25 24:8,16 25:8
+33:18 18:6 Kagan's 5:20 33:5,11,13,14
+indicated 46:1 7:2,16,19 8:4 36:7 42:4 43:4,9,14
+inequitable 12:1 13:25 14:7,14 27:22 36:15 leaves 28:20
+injunctive 14:6 16:4,17,22,23 16:24 24:9 legislation 3:11
+17:22,23 16:25 17:3 17:11,16 18:9 knowledge 36:17 43:21
+19:1 39:20 19:14,15,16,25 24:10 legislative 12:8
+43:24 insecurity 35:9 20:11,24 21:4 25:1 35:6 40:3
+41:5,7 maternity-rel... monetary 18:17 objective 7:4 41:11
+5:16 19:12 20:22 obligations 37:1 Park 1:16
+41:6 motivation 29:25 30:13 37:10,15,17
+12:8 9:12,16 11:21 39:14 original 37:10 40:16
+29:6 12:17 23:8,18 need 8:3 22:7,10 out-and-out passage 11:24
+32:3,7,8 23:20 25:21 22:13 36:5 19:20 passed 6:5 10:14
+37:24 26:10 27:12 41:22 overall 28:24 10:19,19 19:7
+39:11 28:6,20 33:6 needed 13:21 overcome 16:24 37:2 38:5 44:9
+33:17,17 34:24 18:16,17 20:7 overwhelming passing 39:5
+39:7 41:21 needs 12:3 19:7 over-arching Pennsylvania
+3:7 42:25 21:17,20 P 28:10 38:3
+43:7 minimize 5:13 nonissue 21:22 page 2:2 5:13 34:25
+29:5,6,6 miscarriage 18:13 23:16 39:21 24:20
+32:12 28:3 34:11 note 25:6 pages 39:19 perfect 16:15
+41:11 missed 16:20 number 5:1 36:8 parameters 16:1 28:19 29:14
+42:7 misspoke 41:6 30:4 32:7 parent 31:8 40:4 permit 42:21
+3:5 18:23 moment 32:25 O 11:18 person 4:13 7:24
+36:2 38:6 O 2:1 3:1 parents 9:8 persons 31:20
+25:2 10:17 11:1 34:14 38:3 2:8 42:25
+41:10 proposition Q recognized 3:21
+2:4,10 3:8 8:13 10:8 19:8 propriety 3:11 5:20 9:11 24:15 33:7
+19:18,21,23 protect 28:17 10:10 12:12 recognizing
+24:19,21,23 protection 4:22 22:16 32:1 record 8:10 11:5
+44:25 25:15,20,23 12:5 27:23 36:4 39:11,18 25:1 27:3
+11:17 pregnancy-rel... provide 19:11 quote 11:13 reduces 33:19
+22:22 4:16 8:14 20:8 20:10 23:7,11 reference 3:12
+32:1,5 21:19 26:12 25:19 30:17 R 13:18 31:18
+33:4 39:4 33:11 36:15 R 3:1 referenced
+pregnant 4:14 41:21 44:15 radar 21:9 11:11
+35:1 10:4 12:13 provided 20:7 37:20 42:17
+24:2,3 45:24 41:18 44:10,13 range 27:11 referring 25:24
+prevent 21:17 38:22 rates 8:12 27:3
+36:2 primarily 15:15 7:8 11:25 33:4,8 34:2 reflects 3:13
+26:14 44:19 23:5 26:9 27:2 32:23 Rehnquist 14:14
+problem 8:5 public 45:6 11:11 17:8,13 14:5,22 18:1
+40:7 42:5,6 11:13 22:20 really 16:2,17 rejected 3:23
+20:4 pursuant 4:21 26:24 32:15 37:25 38:2
+16:11 result 25:10 43:21 sickness 6:20 specifically 4:19
+17:3 27:20 sections 5:12 9:3 4:20 5:13 15:7
+18:13,13 reveals 39:20 31:16 sides 7:20 23:15 45:8
+19:1 Richardson security 25:2 simply 16:7,7 spouse 9:8 31:7
+36:15 3:23 31:10 38:1 21:15 22:13 spouses 31:4
+rid 38:15 40:10 30:21 39:15 stand 45:25
+right 6:10 14:24 see 4:13 6:1 9:9 43:20 standards 5:5
+44:14 45:13 seek 14:5 35:7 Stanton 3:25,25
+44:11 rights 18:20 self-care 4:23 single-parent starting 11:12
+13:20 Roberts 3:3 5:2 8:25 9:23 sitting 29:15 17:23,25 18:22
+31:17,23 44:8,16,22 separate 10:11 social 35:16 36:2 41:15 42:2
+role 7:13 28:2 31:14 socioeconomic stated 43:12
+roots 42:2 39:24 sole 40:6 12:10
+14:4 23:21 32:2 44:6,17 song 11:15 27:21 38:21,23
+22:18 running 21:20 separating sorry 10:10 39:12 41:25
+34:17 runs 12:2 27:25 19:15 22:11,12 42:19 44:14
+45:10,19 serious 5:6 6:12 40:19 44:2 State-based
+S 2:1 3:1 33:5 39:8 Sotomayor 12:7 State-sponsored
+2:7 22:3 saw 4:12,13 service 37:6 23:23 24:18 Statistics 23:17
+14:9 20:3 34:12 set 3:14 35:14 21:16 32:17,17
+25:14,19 27:8 35:9 16:10 36:15 statutes 31:24
+13:15 45:6 sex 5:15 25:22 39:20,22 statutory 4:4
+SCALIA 40:17 sexes 9:10 sovereign 14:4 45:13
+34:22 40:22 41:1,4 sex-based 43:12 36:3 39:25 stay 28:4
+43:7 scheme 45:13 short-term 20:9 44:20 45:1 step 8:3 18:17
+46:4 screen 21:9 sick 7:16 8:6 9:8 spa 33:12 34:9 stereotype 9:9
+23:1 28:8 23:11,19 26:11 speak 22:19 23:14
+46:2 section 3:11 27:8 29:1,7 special 11:25 3:21 4:10,14
+T 2:1,1 16:12,14 18:12 travel 33:13 University 1:16
+24:5 26:11,12 30:12,24 31:2 try 15:6 19:4,5,7 33:14
+taken 33:16 35:16,20,21 34:5
+34:18 40:17 39:1,24 40:21 10:24 11:5,6 17:19 27:24
+36:25 task 43:13 42:5,11,16 39:3 41:11,12 valid 17:22 25:6
+39:3 telling 38:15 43:17,25 44:3 type 10:16 13:19 35:1
+Ten 29:9,10 44:5,16 45:2 15:8,9 25:5 validly 14:3
+33:10 Tennessee 17:20 thinking 10:2,4 typically 26:10 view 26:24
+35:23 32:25 U viewed 21:20
+terrible 28:20 thinks 10:7 36:2 ultimately 18:3 views 38:9
+Texas 17:20,24 24:4 34:3,4 35:18 38:24 21:7 27:24
+Thank 3:9 21:25 three 28:1 30:9 undermine violations 26:6
+want 19:19
+thing 18:25,25 37:1 43:22 unequivocally
+35:12 28:6 30:4 32:5
+39:23 unfortunate 33:1 34:14
+wanted 21:1
+10:3,6 wanting 40:9
+13:2 14:7 46:1 44:14
+20:17 21:2,5 43:20 36:8 38:1
+40:10 23:6,8,9,18,20 15:3,8,14,18
+13:2 26:11,11,14,14 17:19,25 18:2 6 5:1 29:7,25,25
+32:12 26:25 27:12,19 18:5 24:7,8
+44:13 28:7,18,19 39:16 40:1 7
+30:11 31:2,11 73 11:20
+24:11 33:17,17,25 zero 29:25
+36:25 37:7 1
+7:5 10:16 39:7 40:9,11 10 30:2 43:20
+26:13 41:10 45:24 10-1016 1:5 3:4
+28:15,23 women's 3:22 10:21 1:14 3:2
+29:1,7,8 3:24 11:12 11 1:10
+30:17 22:18 11:22 46:9
+wonder 32:24 12 5:21 6:16,18
+36:5 26:2 28:15,19,23,25
+work 18:23 29:24 30:1,17
+44:24 12-week 32:16
+6:15,18 31:8 2
+7:15 8:15 workers 12:3 2 5:12,13 19:2
+20:2 38:10 27:8
+29:21 workforce 11:21 2005 45:5
+30:6,8 working 25:3 2012 1:10
+40:5,6 32:16 34:21 21 23:16
+35:7 41:10 22 2:7
+4:21 5:22 worthy 7:3
+6:20 7:5 wouldn't 34:15 3 2:4 19:2 39:19
+8:6 wrong 14:8 4
+9:5 4 29:1,7 42:24
+X
+42 2:10 11:24
+43 11:11,11

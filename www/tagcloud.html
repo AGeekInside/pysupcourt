@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<script src="js/d3/d3.v3.js"></script>
+<script src="js/d3-cloud/d3.layout.cloud.js"></script>
+<script src="js/11-9307-speakers_tag.js"></script>
+<script src="js/tagcloud.js"></script>
+<body>
+
+<table id="tag_table">
+	<tr id="tag_row">
+		<td id="speaker_0">
+			<div id="test"></div>
+		</td>
+		<td id="speaker_1">
+			<div id="speaker_1_chart"></div>
+		</td>
+	</tr>
+</table>
+<script>
+	var w = 500
+	var h = 500
+	
+	var speaker_0_item = d3.select("#speaker_0")
+	
+	d3.select("body").select("#test")
+		.data(speakers_names)
+		.enter()
+  	  .append("td")
+		.text(function(d) {
+			return d;
+		});
+
+	var fill = d3.scale.category20(); // need to sort out what this is
+	speaker_0_words = createTagcloud(words_speaker_0, count_speaker_0,w,h)
+	draw(speaker_0_words,"#speaker_0.chart")
+
+	var fill = d3.scale.category20(); // need to sort out what this is  
+	speaker_1_words = createTagcloud(words_speaker_1, count_speaker_1,w,h)
+	draw(speaker_1_words,"speaker_1")
+
+</script>
+
+</body>

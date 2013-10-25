@@ -1,0 +1,1763 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+VIRGINIA, :
+Petitioner :
+v. : No. 06-1082
+DAVID LEE MOORE. :
+- - - - - - - - - - - - - - - - - x
+Washington, D.C.
+Monday, January 14, 2008
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 10:03 a.m.
+APPEARANCES:
+STEPHEN B. McCULLOUGH, ESQ., Deputy State Solicitor
+General, Richmond, Va; on behalf of the Petitioner.
+MICHAEL R. DREEBEN, ESQ., Deputy Solicitor General,
+Department of Justice, Washington, D.C.; on behalf of
+the United States, as amicus curiae, supporting the
+Petitioner.
+THOMAS C. GOLDSTEIN, ESQ., Washington, D.C.; on behalf
+of the Respondent.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+STEPHEN B. McCULLOUGH, ESQ.
+On behalf of the Petitioner 3
+MICHAEL R. DREEBEN, ESQ.,
+On behalf of the United States,
+supporting the Petitioner 17
+THOMAS C. GOLDSTEIN, ESQ.
+On behalf of the Respondent 26
+REBUTTAL ARGUMENT OF
+STEPHEN B. McCULLOUGH, ESQ.
+On behalf of the Petitioner 55
+P R O C E E D I N G S
+(10:03 a.m.)
+CHIEF JUSTICE ROBERTS: We'll hear argument
+first today in 06-1082, Virginia v. Moore.
+Mr. McCullough.
+ORAL ARGUMENT OF STEPHEN B. McCULLOUGH
+ON BEHALF OF THE PETITIONER
+MR. McCULLOUGH: Mr. Chief Justice, and may
+it please the Court:
+This Court has again and again held that an
+arrest is constitutionally reasonable if the officers
+have probable cause to believe a suspect has committed a
+crime. The Court has found that this standard
+represents the best compromise between the needs of the
+citizens and the duty of the government to combat crime.
+While the States are free to build additional procedures
+on this constitutional bedrock, when they do so these
+additional procedures are matters of State law. They do
+not change the constitutional standard.
+The Court below erred in substituting this
+clear, established, uniform, time-tested standard for a
+standard that has none of those virtues.
+First, it is undeniable that if State law
+can raise the constitutional bar, that it will lead to
+widespread differences on the exact same facts, on the
+exact same crime, not only across State lines, but also
+within a particular jurisdiction.
+CHIEF JUSTICE ROBERTS: Mr. McCullough --
+JUSTICE GINSBURG: If this officer had
+complied with the State law, that is he had issued a
+summons, then you agree that the exclusionary rule would
+apply if he went ahead and searched.
+MR. McCULLOUGH: That's correct. If he had
+issued a summons, Knowles would apply and the evidence
+would be excluded.
+JUSTICE GINSBURG: So would you explain the
+logic to saying that when the police violate State law,
+then the evidence can come in; but when they comply with
+State law, it can't.
+MR. McCULLOUGH: Your Honor, the rationale
+of Knowles was that the officer did not engage in any
+extended contact with the suspect and that there was no
+need to gather evidence.
+But where from a constitutional sense there
+is a full-fledged arrest, then the particular rationale
+of Knowles doesn't apply; and I don't think the -- we're
+asking the Court to embrace violations of State law;
+we're asking the Court to recognize that when a State
+goes above and beyond what the Constitution requires,
+that the remedies for those violations should be left to
+the States.
+And Virginia has provided a number of those
+remedies; but here the officer did make a full custodial
+arrest.
+JUSTICE BREYER: Did you -- excuse me,
+sorry, General.
+JUSTICE STEVENS: Well, you say he made a
+custodial arrest. Did he search the defendant at the
+time of the arrest?
+MR. McCULLOUGH: No. There was a
+miscommunication between the officers --
+JUSTICE STEVENS: And did he search him at
+the place of the arrest?
+MR. McCULLOUGH: No.
+JUSTICE STEVENS: Well, how can this be
+incident to an arrest?
+MR. McCULLOUGH: Your Honor, the fact of the
+arrest was uncontested, and the law doesn't require --
+JUSTICE STEVENS: But the search is
+unrelated to the arrest, as I understand the facts.
+MR. McCULLOUGH: No, Your Honor.
+JUSTICE STEVENS: It took place later in a
+different place.
+MR. McCULLOUGH: Justice Stevens, the search
+was related to the arrest. What happened at the scene
+was the officer made a pat-down and assumed the other
+officer had conducted the search. When they got to the
+hotel, they realized there had been a mix-up. But he
+had not yet been taken to the station and booked and so
+the rationale supporting the search incident to the
+arrest is present.
+JUSTICE STEVENS: Well, why is it present if
+he's not -- he searched when he wasn't arrested? I
+don't understand. Could they wait a week and do it?
+MR. McCULLOUGH: The arrest did not cease at
+that point, Your Honor. In United States v. Edwards,
+the Court recognized that at times the search will not
+proceed immediately upon arrest.
+JUSTICE STEVENS: It's an ongoing arrest, is
+it?
+MR. McCULLOUGH: Well, it's an arrest --
+JUSTICE STEVENS: Incident to an ongoing
+arrest? That's kind of a new concept.
+MR. McCULLOUGH: It's an arrest until he is
+released or denied bail. But I would also add that the
+timing issue was simply not raised below. And so
+there's no reason at this juncture to raise an issue
+that the litigants chose not to --
+JUSTICE SCALIA: Mr. McCullough, the
+proposition that you're arguing, does it apply at the
+Federal level as well? Suppose -- suppose I think that
+my neighbor next door is growing marijuana and I have
+probable cause to believe that, all right?
+So I go in and search his house; and sure
+enough, there is marijuana. And I bring it to the
+police's attention, and they eventually arrest him.
+Is that lawful search?
+MR. McCULLOUGH: If there is State action --
+JUSTICE SCALIA: I'm a State actor, I guess.
+You know --
+(Laughter.)
+MR. McCULLOUGH: If you have State actors --
+JUSTICE SCALIA: You know, a Supreme Court
+Justice should not be --
+(Laughter.)
+JUSTICE SCALIA: -- should not be living
+next door to somebody growing marijuana. It doesn't
+seem right.
+MR. McCULLOUGH: That's not a smart
+neighbor.
+(Laughter.)
+MR. McCULLOUGH: If you have State action
+and you enter into someone's home, then the Constitution
+affords a heightened level of protection. But --
+JUSTICE SCALIA: Don't dance around. Is it
+-- is it rendered an unreasonable search by the fact
+that I'm not a law enforcement officer at all?
+MR. McCULLOUGH: I don't think the fact
+of -- no. The fact that --
+JUSTICE SCALIA: So any Federal employee can
+go crashing around conducting searches and seizures?
+MR. McCULLOUGH: So long --
+JUSTICE SCALIA: So long as he has probable
+cause?
+MR. McCULLOUGH: That's correct.
+JUSTICE SCALIA: That's fantastic.
+(Laughter.)
+JUSTICE SCALIA: Do you really think that?
+MR. McCULLOUGH: I think if there is State
+action, it doesn't matter that you're wearing a badge or
+that you've gone through the police academy.
+JUSTICE SCALIA: Or that you are an
+administrative law judge at the, you know, Bureau of
+Customs? It doesn't matter?
+MR. McCULLOUGH: I think that's right. That
+if you have -- if the State --
+JUSTICE SCALIA: What about a janitor?
+You're a janitor, a federally employed janitor.
+MR. McCULLOUGH: Your Honor --
+JUSTICE SCALIA: His neighbor is growing
+marijuana, and he's just as offended as a Supreme Court
+Justice would be. Can he conduct a search?
+MR. McCULLOUGH: I think if he's doing it on
+behalf of the State, the answer is yes.
+JUSTICE SCALIA: Wow.
+MR. McCULLOUGH: But in terms of the
+Federal-State distinction, Your Honor, I think what
+we're advocating for is the uniform standard that this
+Court has embraced before, that there should not be a
+difference between a Federal officer on a State facility
+who is authorized under the Assimilated Crimes Act to
+arrest for Virginia laws and a Virginia officer who is a
+hundred feet away with making an unconstitutional arrest
+under the holding below when --
+JUSTICE GINSBURG: Would you agree that
+there was no probable cause to arrest, given the State
+statute?
+MR. McCULLOUGH: Your Honor --
+JUSTICE GINSBURG: You're talking about
+probable cause to believe that he committed an offense.
+MR. McCULLOUGH: That's right.
+JUSTICE GINSBURG: But was there probable
+cause to arrest?
+MR. McCULLOUGH: Well, the State court found
+there was no -- none of the exceptions in the statute
+applied. But when the Court has used the term "probable
+cause to arrest," it has never required a two-step
+analysis of, first, probable cause to believe a crime
+had been committed, and then probable cause to arrest.
+It's always been, in this Court's cases, a single
+inquiry: Has there been probable cause?
+JUSTICE GINSBURG: Could he -- could this
+officer have gotten a warrant to arrest Moore? Could he
+-- is it -- oh, there's an offense going on under
+Virginia law, I'm going to check with -- call in to see
+if I can get a warrant. Could he have gotten a warrant?
+MR. McCULLOUGH: Well, under the facts of
+this case he could have, but it would have caused a
+prolonged detention of the suspect.
+JUSTICE GINSBURG: How could he -- how could
+he have gotten a warrant to arrest when it's
+a nonarrestable offense?
+MR. McCULLOUGH: Well --
+JUSTICE GINSBURG: He couldn't -- would a
+judge have told this police officer -- they have a
+call-in procedure, call the judge. You want to -- you
+need to issue a warrant to arrest him for driving with a
+suspended license, but that's not an arrestable offense.
+MR. McCULLOUGH: Your Honor, it is an
+arrestable offense under certain circumstances. And so
+the officer is left with each arrest to make a
+discretionary call.
+JUSTICE GINSBURG: Did these officers think
+this -- those circumstances exist?
+MR. McCULLOUGH: The officers did not --
+their only testimony was it was their prerogative. And
+unfortunately they did not then unpack that explanation
+to say why they thought one of the exceptions applied.
+What the State argued below and the State
+court rejected was that he was alone in a car with this
+large angry dog. There was no passenger that he could
+switch places with, and so if they write him a summons,
+logically, what is he going to do? He doesn't live
+anywhere nearby. As soon as they leave the scene, he's
+going to get right back in his car and drive away.
+Now the State court rejected that, but that
+illustrates the fact that under this statute the
+officers have to make discretionary calls as to when
+these exceptions apply. Is the defendant --
+JUSTICE SCALIA: Maybe we could say that in
+this, in these unique circumstances, where the officers
+could not let the fellow drive off without a license, it
+was not unreasonable to arrest him, but in some other
+situation where they had no arrest authority it would
+be.
+MR. McCULLOUGH: Your --
+JUSTICE SCALIA: I mean, you know, let's
+assume that the stop was not based on some, some
+deficiency in his license or some deficiency in the
+car -- I don't know what else it could be -- like, he
+had been going too fast, okay? And it's just a
+misdemeanor. He was five miles over the speed limit.
+Now, in that situation you couldn't say, as
+you've said here, gee, if they just let him go, he'd
+still be driving without a license; they had to arrest
+him; they had no choice. In that situation, he wouldn't
+necessarily be going above the speed limit. Would that
+be -- why couldn't you say it was reasonable here, but
+it wouldn't be reasonable there?
+MR. McCULLOUGH: Well, what we're asking the
+Court to do is to let the States regulate this arrest
+authority.
+JUSTICE SCALIA: If that's the argument
+you're making, then don't bring forward the argument
+that they couldn't let him go because he'd be in
+violation of the law. If you want us to make that
+narrow a holding, I guess we can. Is that what you want
+us to do?
+MR. McCULLOUGH: All we're asking the Court
+to do is to affirm the probable cause standard that has
+-- without any further balancing, that the balancing has
+occurred when --
+JUSTICE SCALIA: No, you're asking us to
+balance. You're asking us to say, after all, in this
+case if they hadn't arrested he would have been
+violating the law as soon as they let him go.
+MR. McCULLOUGH: No, I'm simply explain --
+what I was trying to so was to explain that as a matter
+of state law these officers have to make these
+discretionary calls. If that then becomes the
+constitutional standard, that instead of a simple
+probable cause finding you have to get into every
+discretionary call by the officer, that it -- it
+turns actually --
+JUSTICE SCALIA: You say this was not
+unlawful under Virginia law, then, because of the factor
+you brought forth?
+MR. McCULLOUGH: No, Your Honor. That was
+adversely litigated against us in the State court.
+JUSTICE SCALIA: Well, I don't know what
+you're talking about a discretionary call. It wasn't a
+discretionary call. He couldn't arrest the person.
+MR. McCULLOUGH: Well -- but the problem is,
+if the standard then becomes a two-step probable cause,
+where we have to figure out as a matter of
+constitutional law whether the officer guessed right in
+terms of one of these exceptions, then every
+discretionary judgment in the field becomes the occasion
+for constitutional --
+CHIEF JUSTICE ROBERTS: But suppose it works
+the other way. If Virginia has a law saying you can
+arrest anybody you want on our highways, but, you know,
+here's what the offenses are, the officers did not have
+probable cause to think a crime had been committed, but
+it was they had probable cause to arrest, I suppose
+under the Respondent's theory that would be all right.
+MR. McCULLOUGH: It -- I mean, it certainly
+would flow from that. So I think, given the
+multitude --
+JUSTICE STEVENS: Let me ask this question:
+You would argue it doesn't matter whether it violated
+State or Federal law; it's a question of Federal law on
+probable cause. But does the character of the crime for
+which the person is being arrested have any relevance to
+the question whether the search is reasonable? For
+example, supposing he is arrested for a tax offense;
+could you go ahead and search him incident to that
+arrest?
+MR. McCULLOUGH: The search incident to
+arrest is a bright-line rule, Your Honor, that this
+Court has promulgated in Robinson.
+JUSTICE STEVENS: The answer is yes, they
+could search?
+MR. McCULLOUGH: I'm sorry. Yes, the answer
+is yes, that if a crime has been committed the
+bright-line rule permits the officer to search the
+suspect for officer safety as well as --
+JUSTICE STEVENS: Even though the rationale
+for the search incident to arrest doesn't apply?
+MR. McCULLOUGH: What the -- yes, because
+what the Court said in Robinson was: We're not
+interested in delving into case-by-case litigation as to
+how dangerous this person was and how -- and whether
+there was a likelihood of evidence being found --
+JUSTICE ALITO: Why would the rationale not
+apply in that situation? Are you accepting the
+proposition that anybody who's arrested for a tax
+offense is not a danger to the arresting officer?
+Haven't there been some pretty dangerous people arrested
+over the years for tax offenses?
+(Laughter.)
+MR. McCULLOUGH: I agree with that. I'm
+arguing that it's a bright-line rule and that if someone
+is arrested for a crime, tax or otherwise, it's not the
+nature of the crime --
+JUSTICE SOUTER: No, but you're also
+arguing, as I understand it, that the -- that the
+search, even in the case of the tax arrest, does fall
+within the rationale of search incident to an arrest
+because one of those two rationales is officer safety.
+Isn't that your point?
+MR. McCULLOUGH: Yes.
+JUSTICE SOUTER: Okay. So you reject the
+premise of the question then? The premise of the
+question was that the search incident to the arrest in
+the tax case is outside the rationale of searches
+incident to an arrest; and your position is it's not
+outside it.
+MR. McCULLOUGH: That's correct.
+JUSTICE SOUTER: Okay.
+MR. McCULLOUGH: This Court has crafted a
+bright-line rule -- it has not distinguished between
+types of offenses; it doesn't have to be a violent
+offense; it could be a white-collar offense -- that
+across the board there is virtue to having this
+bright-line rule that permits the officer to search
+incident to a lawful arrest. And in Robinson the Court
+noted that a lawful arrest is a -- that it met a
+constitutionally lawful arrest, one made with probable
+cause. This arrest was made with probable cause. The
+search incident to the arrest was lawful.
+I would ask the Court if I could keep my
+remaining time.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Mr. Dreeben?
+ORAL ARGUMENT OF MICHAEL R. DREEBEN
+ON BEHALF OF THE UNITED STATES,
+AS AMICUS CURIAE,
+SUPPORTING THE PETITIONER
+MR. DREEBEN: Thank you, Mr. Chief Justice,
+and may it please the Court:
+The States and the Federal Government may
+for a variety of reasons enact restrictions on officer
+authority that exceed the requirements of the Fourth
+Amendment as this Court has articulated them.
+When such State law or Federal law
+extra-constitutional restrictions are violated, it is a
+matter for the government that enacted them to determine
+what remedy appropriately flows from that violation.
+JUSTICE SCALIA: Does the person making the
+arrest at least have to have some arrest authority?
+MR. DREEBEN: This Court has never --
+JUSTICE SCALIA: Or will a janitor do the
+job? A janitor at the Justice Department becomes imbued
+with the mission of the Department and he goes around
+arresting people or searching people.
+MR. DREEBEN: Well, certainly,
+Justice Scalia, such an individual wouldn't have
+positive law authority to engage in an arrest.
+JUSTICE SCALIA: Just as this person here
+didn't have positive law authority to engage in an
+arrest.
+MR. DREEBEN: The question would then be
+whether that means that it's automatically a
+constitutional violation. I think in some situations
+even a governmental official can act in a private
+capacity by acting outside the boundaries of that
+individual's responsibility.
+JUSTICE SCALIA: Yes, but he was purporting
+to act in an official capacity. And he did, indeed,
+give the marijuana to the officials at the Justice
+Department.
+MR. DREEBEN: And if you assume that the
+Court would have two options. It could either
+federalize some sort of an amorphous requirement that
+there must be law enforcement authority in an official
+in order for that official to engage in Fourth Amendment
+activity, or it could hold that, what I think is the
+more reasonable approach, which is that the bedrock
+requirements of the Fourth Amendment protect against
+arbitrariness, and the crucial one here is the existence
+of probable cause based on the facts to believe that the
+individual has violated a law.
+If that criteria is met, it is not
+constitutionally unreasonable, absent where an
+extraordinary intrusion for the individual's liberty or
+privacy interests to be compromised. It may be the most
+flagrant violation of departmental regulations in the
+world, and in that case the department that has those
+regulations can take action, just as here Virginia says
+if you violate the arrestable offense rule under
+Virginia law, the consequence is not to exclude
+evidence. Virginia will not exclude evidence under its
+own State law for a violation of this provision.
+But it does say under State law that a
+person can resist an unlawful arrest, The officer can be
+sued for engaging in an unlawful arrest under State law,
+and that the officer can be fired or disciplined. And
+those are the sanctions that the State has chosen to do.
+Now, what the Virginia Supreme Court has
+done is come along and say, even though you do not
+intend this rule to trigger the exclusionary rule under
+Virginia law, you have no choice. As a matter of
+Federal constitutional law, if Virginia decides to
+exceed the constitutional minimum as this Court
+announced in Atwater and place additional restrictions
+on the arrest authority, it must pay a constitutional
+price of having the evidence excluded if that rule is
+violated.
+At the outset, it's clear that imposing such
+a Fourth Amendment rule would do nothing other than
+discourage the States from providing additional
+restrictions as a matter of their own State's law that
+may serve to protect citizen privacy interests above the
+floor that this Court has identified as required by the
+Fourth Amendment.
+JUSTICE GINSBURG: If you're right,
+Mr. Dreeben, then the Court gave a false signal when it
+GVR'd in Lovelace, in the Lovelace case, the person who
+was drinking in public, it GVR'd in light of Knowles.
+MR. DREEBEN: I don't know that it gave a
+false signal, Justice Ginsburg, but a GVR doesn't
+indicate this Court's disposition of the merits once all
+of the arguments are presented to it. And, admittedly,
+I think neither side is able to point to a case that
+squarely addressed and conclusively resolved the issue
+that's before this Court.
+What the Court has done, I think, under
+related issues under Fourth Amendment law is announce
+pretty clearly that the fact that a State has either
+renounced an interest in taking a particular law
+enforcement action that it could otherwise
+constitutionally take or positively prohibited a law
+enforcement action does not mean that the action is
+unconstitutional.
+As long ago as the Cooper v. California
+case, the Court dealt with the situation where an
+officer was not authorized to undertake an inventory
+search, and the California courts treat it as a
+violation of their own law.
+This Court said it was still a reasonable
+search under the Fourth Amendment; and unless
+Respondent -- excuse me, unless -- well, Respondent
+concludes that there should be a different Fourth
+Amendment rule for searches than procedures, Cooper
+stands for the proposition that a violation of State law
+does not ipso facto equate to a violation of the Federal
+Constitution.
+JUSTICE KENNEDY: If we rule for Respondent
+in this case, would we have to reexamine the holding in
+California v. Greenwood?
+MR. DREEBEN: Yes, Justice Kennedy.
+California v. Greenwood is the next case in the line
+where the Court recognized that California had made it
+illegal to conduct garbage searches. And you could make
+the same argument that Respondent is making here today:
+That California had renounced any interest in conducting
+garbage searches, therefore there's nothing on the State
+side of the line to balance against the individual's
+invasion of privacy, and therefore the State should
+lose. And this Court held precisely the opposite in
+California v. Greenwood, finding that it was
+constitutionally reasonable to engage in the garbage
+search because there was no federally recognized
+expectation of privacy, even though the State had
+decided to go further and grant an additional layer of
+protection to its citizens.
+JUSTICE GINSBURG: There could not have been
+a warrant -- a grant-- a judge could not have given a
+warrant for arrest on these charges.
+MR. DREEBEN: I'm venturing a little bit
+outside of my expertise under State law, but I think
+that that's correct. Because State law provided that
+this was not an arrestable offense unless one of the
+exceptions to the offense existed.
+And I should note that one of the offenses
+here -- excuse me -- one of the exceptions here is that
+a court of general jurisdiction could have entered an
+exemption from the arrestable offense rule and then
+officers within that jurisdiction would have been
+constitutionally and under State law --
+JUSTICE GINSBURG: How often and under what
+circumstances is that Virginia -- Virginia law rule? I
+mean, when does a general district court give permission
+for a custodial arrest in a certain class of cases?
+MR. DREEBEN: I know that it has done it. I
+don't know that there are any restrictions on when it
+would do it. The point, I think, of giving the general
+courts the authority to do this is that these kinds of
+laws are not necessarily enacted, as Respondent posits,
+to be supplementary protection for privacy. They do not
+necessarily represent a judgment that law enforcement
+officers should never bring people in for minor traffic
+misdemeanors. They may represent a judgment that law
+enforcement officers should be out on the beat policing
+more important crimes and it's a waste of social
+resources and scarce police resources to have them
+bringing people downtown for these kinds of offenses.
+In a particular jurisdiction, law
+enforcement may make a case that actually it's important
+enough to deter various traffic violations and to ensure
+that the individuals show up, that officers should have
+plenary authority to make arrests.
+JUSTICE KENNEDY: I should know this, but do
+we defer to State law in determining the lawfulness of
+the time before arraignment in the context of
+confessions, the McNabb-Mallory rule?
+MR. DREEBEN: The McNabb-Mallory rule --
+JUSTICE KENNEDY: Which is Federal.
+MR. DREEBEN: -- is uniquely Federal. The
+closest analog -- and this may be what Your Honor has in
+mind -- is that in the County of Riverside case the
+Court set a 48-hour outside limit for when you have to
+bring an arrested individual before a magistrate for a
+probable cause hearing. Under Respondent's position --
+JUSTICE KENNEDY: Well, was there any
+indication in that case that if the State had a shorter
+period, they would --
+MR. DREEBEN: No, and that's precisely, I
+think, the point. All of the rules that this Court has
+announced under the Fourth Amendment, the search
+incident to arrest rule, which is triggered as a
+bright-line rule without regard to whether the specifics
+of the case support it, under Respondent's theory
+Virginia could overrule that by saying officers shall
+not conduct a search incident to arrest without a
+specific exigency in that case. States could overrule
+within their own jurisdictions the Federal rule that
+this Court announced in Riverside. It could say that
+individuals have to be brought before a magistrate
+within 12 hours or they have to be released. And under
+Respondent's theory that you absorb State law into the
+reasonableness inquiry, this Court's Federal court
+decision would be overruled. And most directly here,
+Atwater would be overruled with respect to
+non-arrestable offenses if Respondent's position is
+correct that when the State has said that we don't want
+to undertake an arrest for a minor offense, therefore,
+there's no longer any State interest in undertaking the
+arrest.
+The reality is that this Court has balanced
+as a matter of Fourth Amendment law what is
+constitutionally necessary as a uniform Federal matter
+to protect people against arbitrary law enforcement
+action, and it's drawn the line at probable cause. And
+as this Court said in Whren, absent rare circumstances
+when probable cause exists, a search or seizure is
+reasonable.
+And the kind of rare circumstances that the
+Court gave the example of in Whren were heightened
+intrusions on individual privacy or liberties such as
+surgery to remove evidence or an unannounced entry into
+a home. We don't have anything like that here and the
+standard Federal rule should govern.
+CHIEF JUSTICE ROBERTS: Thank you, Mr.
+Dreeben.
+Mr. Goldstein.
+ORAL ARGUMENT OF THOMAS C. GOLDSTEIN
+ON BEHALF OF THE RESPONDENT
+MR. GOLDSTEIN: Mr. Chief Justice, and may
+it please the Court:
+The notion that the proud men who framed the
+Constitution would believe it reasonable to go out and
+arrest someone for a non-arrestable offense and not only
+do that, but having committed that trespass at common
+law, to further search them, is I think an extreme
+proposition and one that they would not have accepted.
+JUSTICE SCALIA: But you think they would
+accept arresting somebody for not wearing a seat belt?
+MR. GOLDSTEIN: Your Honor, I do --
+JUSTICE SCALIA: It seems to me we've
+crossed that bridge with Atwater.
+MR. GOLDSTEIN: No, Your Honor, I disagree,
+for the reason that -- and there are obviously -- I'm
+not here to tell the Court what its own precedents mean.
+But Atwater makes quite clear that at common law this
+was something that was subject to legislate ive
+override, and that's what was reasonable at common law
+when the Constitution was framed. And that is,
+legislatures sometimes said that you could arrest and
+sometimes said that you couldn't.
+But two things were undisputable, I think,
+and that is when you did arrest illegally that was
+unreasonable --
+JUSTICE BREYER: The particular illegal
+arrest here, to bring this down to earth a little bit,
+is I take it they arrested him because he had a
+suspended -- he was driving without a good license?
+MR. GOLDSTEIN: Yes.
+JUSTICE BREYER: Okay. So that Virginia law
+says if you stop somebody, arrest him -- if you stop
+somebody, you know he doesn't have a license to drive,
+you can arrest him if you think he's going to continue
+driving? Can't you?
+MR. GOLDSTEIN: Yes.
+JUSTICE BREYER: Okay. So the policemen
+here, according to you and I guess the Virginia court,
+made a misjudgment. He thought this guy might still
+drive somewhere or he might have thought it or a
+policeman in similar circumstances might have thought
+it.
+So Virginia says if, in fact, policemen, you
+stop somebody for suspended -- for driving without a
+license, and you make a mistake, you arrest him, we
+don't think that's a big deal, because who knows if he's
+going to continue to drive. We don't even suspend. We
+don't even suspend. We don't even suppress the
+evidence. That's Virginia.
+So if Virginia isn't going to suppress the
+evidence because they think it's not a big deal to make,
+for the policeman to make a mistake as to whether a
+person who's driving without a license will keep driving
+once the policeman goes away, why do you think Thomas
+Jefferson and everybody else thought that that was such
+a big deal that the evidence had to be suppressed?
+MR. GOLDSTEIN: For a few reasons. First,
+Virginia does take this quite seriously. The officer
+can be fired for violating the statute. That's no small
+thing.
+The second is I wouldn't assume that
+Virginia believes and the Virginia legislature believed
+that the evidence would not be suppressed, because for
+reasons that I'll explain in a minute the Virginia
+legislature was triggering a long line of its court
+cases that say if you arrest someone for a
+non-arrestable offense, the Fourth Amendment is
+violated, and the application of the exclusionary rule
+has never been questioned in that context.
+CHIEF JUSTICE ROBERTS: Well, I thought it's
+questioned in your footnote 13 in your brief. You seem
+to suggest that the exclusionary rule is not at issue in
+this case.
+MR. GOLDSTEIN: That's right. I don't
+question its application, but neither does Virginia,
+Your Honor.
+CHIEF JUSTICE ROBERTS: So - so we should
+write an opinion saying we're not saying that it was
+correct to -- we're not saying that it was correct to
+exclude the evidence in this case?
+MR. GOLDSTEIN: That's -- I think that
+that's right. That also happened in California v.
+Greenwood, you may recall, Mr. Chief Justice, where
+there was some discussion at oral argument about would
+we believe the exclusionary rule should be applied here.
+That question had not been preserved. That case is on
+remand in the California Supreme Court.
+JUSTICE BREYER: What is the difference
+between this and Whren? That is, in Whren the arrest
+violated a D.C. regulation that says a plainclothes
+officer cannot approach a car except in immediate cases
+of immediate danger. And in Whren we said that isn't
+such a big deal and we don't think the Fourth Amendment
+turns on that kind of triviality.
+All right. If it doesn't turn on that kind
+of arrest procedure triviality, is how we characterized
+it there, how is this any any different?
+MR. GOLDSTEIN: Whren is different in
+several different ways. The first is that that was a
+challenge to the stop, not the search incident to
+arrest. The claim was that the officers under a local
+D.C. Government regulation did not have the power to
+make a traffic stop because there was a local regulation
+that said if you're not in uniform and if you're not in
+a police car, a marked car, you shouldn't make those
+traffic stops.
+So, it's different on a couple of different
+actions. The nature of the constitutional challenge,
+the nature of the law that's being evoked, the local
+regulation rather than legislation, I think, are the
+principal ones.
+Here we're dealing with something quite
+fundamental, and I haven't gotten to this
+Court's precedents applying the common law rule that I
+described at the beginning, so if I could do and then
+compare Whren. Post -- define the common law, every
+since Weeks, which is the first case of this Court to
+recognize the search incident arrest exception, all the
+way through Di Re, Miller, Johnson, Ker, DeFillippo,
+those are five cases that confront the question in this
+case, I believe that genuinely confront it; is not
+dictum, it is holding.
+Those cases confront the question: Can you
+have a constitutional search incident to an illegal
+arrest? Illegal there not being unconstitutional, but a
+violation of State law.
+JUSTICE ALITO: Well, why do you draw a
+distinction between something that's prohibited by a
+statute, something that's prohibited by a local ordnance
+or let's say it's a directive of the police department?
+And if it's -- if the arrest is contrary to any of those
+things, it's unlawful under State law, is it not?
+MR. GOLDSTEIN: The court hasn't ever
+confronted that question. The places -- the line of
+cases that I described were one of two things, Positive
+State legislation enacted by the legislature or common
+law. It has never dealt with the locality question.
+Whren suggests that maybe a local police regulation is
+too variable. We would win under either rule.
+The -- I think the core reason you would
+draw the line at legislation is because this -- the
+Fourth Amendment is not just an instrumental thing
+designed to do good. It is, as designed, to apply
+common law concepts of reasonableness, which was the
+foundation --
+JUSTICE ALITO: I thought it was your
+argument that if the arrest is unlawful under State law
+it's an unreasonable search, an unreasonable arrest
+under the Fourth Amendment?
+MR. GOLDSTEIN: That's right. And your
+question, Justice Alito, is designed to test what I mean
+by unlawful in terms of what sources -- the State
+constitution, legislation, local police practices.
+JUSTICE SCALIA: No. It's designed to test
+whether you really mean unlawful under State law.
+Either you don't mean it, because something that
+violates a municipal ordnance is unlawful under State
+law, and yet you would not apply your test. So you
+could express your test differently, unlawful under
+State statutory law.
+MR. GOLDSTEIN: If I have conveyed that
+impression, I am sorry. I did not intend to. Our rule
+is that if it's unlawful. All I'm saying is the Court
+could conclude that local police regulations, for
+example, are too variable to -- and Whren calls them
+"trivialities," so we won't pick them up.
+CHIEF JUSTICE ROBERTS: No, it says the laws
+of the 50 States are pretty variable on this question as
+well.
+MR. GOLDSTEIN: As are the laws of whether
+it's a crime at all, as are under Indianapolis v. Edmund
+and lots of other cases where the court --
+CHIEF JUSTICE ROBERTS: Do we have to look
+at both of those varieties? Let's say the State has a
+rule that, yes, you can arrest people in a way that we
+would say you can't, but you don't have to have probable
+cause. You just have to -- they're just arrestable.
+MR. GOLDSTEIN: No, as Justice Ginsburg
+suggests, you have to have probable cases to arrest.
+Cases like Berkemer, Seth --
+CHIEF JUSTICE ROBERTS: -- is probable cause
+to arrest. The State has a law that says you can arrest
+in these circumstances whether or not you have probable
+cause to believe that a crime has been committed.
+MR. GOLDSTEIN: I'm sorry. By that phrase I
+mean there is a constitutional component. Part of the
+constitutional floor is that you have to have sufficient
+cause. That's a guarantee of the Fourth Amendment.
+This Court's cases make clear you can't go below --
+CHIEF JUSTICE ROBERTS: I thought you were
+telling us it has to be sufficient cause to arrest, not
+sufficient cause to believe that a crime has been
+committed.
+MR. GOLDSTEIN: That is necessary but not a
+sufficient condition, Mr. Chief Justice. There's
+obviously a -- the constitutional floor includes the
+element of the -- the degree of proof that's required by
+this Court precedents.
+CHIEF JUSTICE ROBERTS: So it is, as your
+friends on the other side put it, you are advocating a
+two-step process. There has to be probable cause to
+arrest and there has to be probable cause to believe a
+crime has been committed?
+MR. GOLDSTEIN: I view those as the same
+thing. We may be just having --
+CHIEF JUSTICE ROBERTS: No, they're
+different here. They had probable cause to believe a
+crime has been committed, but you say they didn't have
+probable cause to arrest because State law makes it
+illegal.
+MR. GOLDSTEIN: In that sense, absolutely.
+I just wanted to make sure I understood the terminology.
+That's correct.
+But let me make quite clear that we are
+discussing in the first half hour and the second half
+hour I think two slightly different things. The first
+half hour focused on the constitutionality of the arrest
+vel non, which is at issue in Atwater, for example, and
+at issue -- not even in Whren, which is just a traffic
+stop.
+I am focusing on the somewhat different
+point. There is a line of cases that deals with the
+constitutionality of the search incident to arrest and
+it says because at common law you could not search
+someone pursuant to an arrest that was a trespass, the
+search itself is unconstitutional. So if at the time of
+the framing a Federal officer, a Federal marshal, at the
+time of the framing had the power to arrest them for
+State law offenses, as they still do under the OLC
+opinions.
+If a Federal marshal had gone up to someone
+who's committing a completely trivial offense, Atwater
+recognizes there are offenses at common law that are not
+arrestable. That would be a trespass and to search the
+person incident to that arrest would have violated the
+Fourth Amendment, we believe. It would have been
+unreasonable. When Mapp applies the Fourth Amendment to
+the States, it would have been --
+CHIEF JUSTICE ROBERTS: What if the State
+makes a trivial offense arrestable, as in Atwater?
+You're suggesting in that situation the common law rule
+we have doesn't apply. It's a trivial offense, but it's
+made arrestable and therefore it doesn't violate the
+Fourth Amendment to search incident to that arrest.
+MR. GOLDSTEIN: That's right. At common law
+and under the Fourth Amendment, that's right. You look
+to the positive source of authority, which is State law
+authority to arrest or a common law authority to arrest.
+That would not be unconstitutional. That -- that rule
+also make sense as a question of the structure of our
+democracy. Remember, it puts in the hands of the
+legislature, which can be held responsible for the
+decision to make a trivial offense --
+CHIEF JUSTICE ROBERTS: Well, what if
+the legislature -- this was the hypothetical Mr. Dreeben
+posed. What if the legislature says yes, you can arrest
+for this offense but you cannot search incident to the
+arrest, because we think that's too much of an intrusion
+given the fact that it's a relatively trivial offense?
+In that case, would our doctrine saying under the Fourth
+Amendment you can search incident to a valid arrest be
+reversed preempted, preempted by the State law?
+MR. GOLDSTEIN: No. There are times --
+CHIEF JUSTICE ROBERTS: So the State can
+define the circumstances under which you can have an
+arrest, but the State can't define and limit the
+consequences of the arrest?
+MR. GOLDSTEIN: That's right. That is --
+there are traditions that are rooted in the common law,
+that the search incident to arrest here was pursuant to
+a trespass at common law that was completely
+unreasonable.
+JUSTICE SOUTER: But isn't -- isn't the
+difficulty with that argument that we -- we have
+rejected the, in effect, the trespass rationale; and
+what you're telling us now, it seems to me, based on in
+effect trespass concepts, is that so far as the Fourth
+Amendment is concerned an arrest may constitutionally be
+made, but the officer following that arrest may not take
+the step of determining whether the individual arrested
+has on his person anything that can be used to hurt the
+officer like a knife or a gun?
+And why should be we draw what seems to
+me -- if we scrap, as we have done, the trespass
+analogy, why should we make what seems to me at least an
+irrational distinction of saying the Fourth Amendment
+says it's okay to arrest but it's not okay to protect
+yourself after you have arrested? Why should we accept
+such a rule?
+MR. GOLDSTEIN: This is I think the hardest
+question for us, and so if I could have the time to give
+you a couple of answers. The first is remember your
+instrumental point is that the officer has the person,
+they need to protect themselves. We know that is not
+itself -- and I'm going to give you a couple of
+answers -- that is not itself to make the search
+constitutional because everyone agrees that if the
+arrest was unconstitutional, then the search,
+notwithstanding the exigencies that exist under Chimel
+and like cases all the way back, exist. So it's not
+enough that the officer has to protect himself. The
+reason --
+JUSTICE SOUTER: Right. But we're starting
+with a different premise.
+MR. GOLDSTEIN: I --
+JUSTICE SOUTER: We're starting with a
+constitutional premise.
+MR. GOLDSTEIN: Yes. I understand this.
+Justice Souter, I understand. I was just trying to get
+to your -- what I think is the greatest sort of logical
+force: The officer need to protect himself.
+Now, to get to the harder case, which is
+yours, and that is accept that the arrest is
+constitutional. We of course don't do that. We believe
+that there isn't a sufficient interest to make it
+reasonable, but you posit otherwise. The reason is
+given by Justice Powell's concurrence in Robinson, which
+is the fundamental search and seizure arrest case, and
+he says when the person is lawfully arrested they have
+engaged in conduct that they know can subject them to
+arrest, they have a reduced expectation of privacy. So
+while it's the case that the governmental interest
+remains the same -- protect the officer, find the
+evidence -- the other side of the Fourth Amendment
+balance is fundamentally different, because when a
+person has engaged in conduct which they know does not
+subject them to arrest they do not have a reduced
+expectation of privacy.
+This individual had every reason to believe
+dating back to the traditions of common law, to positive
+State law, that they would not be searched incident to
+arrest.
+JUSTICE SOUTER: If that -- if that logic is
+sound and that logic depends on Justice Powell's use of
+the word unlawfully, then it seems to me the -- the only
+way to arrest an irrational system would to be conclude
+that, in fact, the arrest is not constitutionally
+lawful. Because on -- on your logic, you're still left
+with the problem that I raised; and a constitutional
+arrest in which the officer does not violate the Fourth
+Amendment by apprehending the person, and yet the
+officer is disabled from protecting himself, if we're
+going to have a sensible rule, we've either got to say
+the Fourth Amendment allows him to make the search
+incident and protect himself, or we've got to have a
+rule that says the Fourth Amendment doesn't allow him to
+make the search -- make the arrest in the first place.
+Otherwise we've got a crazy system.
+MR. GOLDSTEIN: Can I just correct one
+thing? And that is it does not depend on Justice
+Powell's use of the word unlawful. I believe to rule
+against us, Justice Souter, that you will have to
+overrule the line of cases from Di Re to DeFillipo.
+Those are on point. Now you may decide --
+JUSTICE KENNEDY: Don't you think we have
+to, if not overrule, at least back away from the holding
+in California versus Greenwood?
+MR. GOLDSTEIN: No, Justice Kennedy, and
+that's why I focused so much on searches incident to
+arrest. There are times when State law is incorporated
+into the Fourth Amendment, and everybody agrees that
+regulatory searches are; inventory searches are, there
+are times when it isn't. And California v Greenwood is
+not one and there's a logical reason for it. And that
+is that the premise of when you were deciding in a -- in
+a trash search, this Court's document looked at two
+things. The first is, is there a reasonable expectation
+of privacy, and if there is do we balance the interest?
+California v Greenwood says there was no reasonable
+expectation of privacy because that's evaluated as a
+societal matter. I'm focusing on a very narrow question
+that doesn't disturb any other doctrines.
+JUSTICE SCALIA: What about Cooper -- Cooper
+v California?
+MR. GOLDSTEIN: I think Cooper v California
+is a very good case for us, because Cooper and all its
+progeny say that State law has to authorize and
+determine the validity of the inventory search. If you
+violate the State regulations on when you conduct an
+inventory search, you violated the Fourth Amendment.
+JUSTICE BREYER: Can we go back for a
+second? Because, the reason I asked my question is I
+was thinking about this very differently, and I just
+want to have an answer, and I want your best thinking on
+this. My thought is that the answer to the question of
+whether it violates the Fourth Amendment when a State --
+when a person is arrested in violation of State law, the
+answer is: it depends. Sometimes yes, sometimes no.
+Obviously, if there is no probable cause or if there
+wasn't a crime at all, as just defined, the answer is
+yes; but then I look at Whren and it says if all that
+was at stake was a kind of arrest procedure State law,
+herein -- there embodied in a rule, the answer is no.
+So I look at this one. And this one it seems to me
+there is probable cause; it is a crime; moreover, it is
+a crime for which the State permits arrest where the
+officer subjectively thinks he's likely to keep driving.
+So it seems to me that's maybe much more close to what
+we had in Whren.
+Now I want you to say -- I want your
+comments on what I -- it's hypothetical, my statement,
+because I want to get your reaction to that point of
+view. I'm not saying I hold it. But I'm putting it
+forward so that I can get your reaction and argument.
+MR. GOLDSTEIN: Well, I think it is a
+terribly difficult rule to administer when you try to
+decide, well if this is a law that sometimes allows
+arrest and sometimes does not. It is an infinitely more
+administrable rule on our side, where we say to the
+police officers, you have the power to arrest or not and
+that's what determines --
+JUSTICE KENNEDY: I think it is much easier
+to administer, to have a uniform Federal standard,
+rather than whether or not an officer can arrest in one
+county for something and not in another county whether
+he has to have a badge or not. Those are the kind of
+trivialities we talked about in Whren.
+MR. GOLDSTEIN: Well, Justice Kennedy,
+remember, we have one standard for an officer on the
+street, and that is, look -- do, if you're allowed to
+arrest, you can arrest, and that's what will determine
+the constitutionality of the search incident to arrest.
+The Government posits two different standards that
+govern the officer's conduct: a Federal one and State
+one.
+But let me also get to your point, Justice
+Kennedy, that you are worried that are all kinds of
+these State laws. There's -- you know, are you out of
+your jurisdiction , are you wearing a uniform? What we
+think that the common law was concerned with, and this
+line -- this Court's court line of cases from Di Re to
+DeFillipo is a more fundamental judgment. It's like the
+judgment whether it's a crime at all. The police power
+of the State is most fundamentally, is this a crime, can
+we arrest for it, someone for it, so that we will hold
+them? And those are the judgments: is its arrestable
+or not? And not these other little things that --
+JUSTICE STEVENS: But under that analysis,
+it seems to you we rely on the citizen's expectation of
+privacy as the justification. And I think
+Justice Kennedy makes a rather strong response to that,
+because it's unrealistic to assume that a citizen in
+certain counties in Virginia had such an expectation but
+did not in other counties, because most citizens don't
+know the sophisticated aspects of the Virginia law.
+MR. GOLDSTEIN: This is a very -- just as a
+court note, there's no other State that has one of these
+statutes. Just in terms of your thinking about whether
+this is a common practice, we haven't been able to find
+any others, and even in Virginia, it's only to a small
+body of offenses. But even taking as a given --
+Justice Stevens, I think doctrinally, as Justice Powell
+says in Robinson, the notion is that people go out into
+the world and engage in conduct, and we expect them to
+know the law. Sometimes that's an unreasonable
+expectation, but it's the only premise that this Court
+--
+CHIEF JUSTICE ROBERTS: Counsel, can I get
+back to your discussion of Cooper? In Cooper, you said
+that if it violates the State law for an inventory
+search, then you can't search incident to that. But
+that's because it is then not an inventory search. Here
+there's no doubt that this was an arrest, whether it
+complied with State law or not.
+MR. GOLDSTEIN: Chief Justice Roberts, I do
+disagree. Post-Cooper, in South Dakota v. Opperman,
+even if the police officers label it an inventory search
+-- the person says, oh, we were just trying to keep
+track of everything, so nobody doubts they were really
+inventorying things -- the Court has said it's the --
+the practice is, the State practice is --
+CHIEF JUSTICE ROBERTS: No, but just -- it
+gets to -- I mean, if you don't follow the State rules,
+it doesn't comply with the rules for an inventory
+search. But here you're saying if don't -- you're not
+saying if you don't follow the State rules, it's not an
+arrest. It's not a lawful arrest. But that's a
+different question than whether or not it is an arrest.
+Our precedents say if it's an arrest, you can search
+incident to the arrest.
+MR. GOLDSTEIN: Mr. Chief Justice, I
+disagree. This Court has said many times, and indeed
+squarely held in Johnson, where the evidence was
+suppressed, that it has to be an arrest that is lawful
+under State law.
+JUSTICE SCALIA: Mr. Goldstein, can I bring
+you back to Cooper v. California?
+MR. GOLDSTEIN: Yes.
+JUSTICE SCALIA: Which you say is a good
+case for you. I don't see how you can say that. This
+was a case of a car impounded. The State court had said
+that there was no authority to search the car, simply
+because it was impounded, and we said the question here
+is not whether the search was authorized by State law;
+the question is rather whether the search was a
+reasonable one under the Fourth Amendment.
+Just as a search authorized by State law may
+be an unreasonable one under that amendment, so may a
+search not expressly authorized by State law be
+justified as a constitutional reasonable one. And you
+think that helps your case?
+MR. GOLDSTEIN: Not -- I don't think that
+language is relevant for the following reason: What the
+Court said in Cooper was that the seizure of the car,
+which is analogous to the arrest here, right? They
+seized my client's person; they seized the car. The
+Court said because the seizure of the car was lawful
+under State law, then the search incident to was. And
+let me just read to you from Coolidge versus --
+JUSTICE SCALIA: Even though the State law
+did not authorize it.
+MR. GOLDSTEIN: The State law did not speak
+to it either way, but -- it didn't speak to it either
+way.
+JUSTICE SCALIA: They were assume ing, in
+that passage, that the State law did not authorize it,
+or otherwise the passage makes no sense.
+MR. GOLDSTEIN: Justice Scalia, I disagree.
+In any event, post-Cooper, South Dakota v. Opperman, as
+the conversation between the Chief Justice and I was
+just explaining, is perfectly clear that the inventory
+search has to be authorized pursuant to State
+regulation. If after Cooper this is perfectly settled,
+there really isn't --
+CHIEF JUSTICE ROBERTS: Counsel, if we
+assume, contrary to your footnote 13, that the
+exclusionary rule is implicated in this case, could you
+explain why, under the Federal Constitution, there
+should be imposed on the State an exclusionary rule for
+a violation of State law when State law does not impose
+an exclusionary rule for the violation of its law?
+MR. GOLDSTEIN: Assuming the Court decides
+that the question was not waived because it wasn't
+briefed, the reason is that this Court's exclusionary
+rule precedents look to something else, and that is:
+Did the evidence follow directly from the
+unconstitutional conduct? And here it did.
+CHIEF JUSTICE ROBERTS: Well, I guess the
+question would be: Why doesn't our jurisprudence on
+whether there's an arrest also look to something else,
+rather than whether it's permitted or violated under
+State law? In other words, the State doesn't -- the
+State law does not provide for the exclusionary rule,
+but we say the Fourth Amendment does.
+Under -- this is not a valid arrest under
+State law, but your brothers say under the Fourth
+Amendment it is because there's probable cause to
+believe a crime has been committed.
+MR. GOLDSTEIN: Mr. Chief Justice, I think
+that illustrates the point I am willing to accept, and
+that is there are times that State law is relevant under
+this Court's doctrines; there are times it isn't. Welsh
+v. Wisconsin, for example, is another example where the
+Court looks squarely to the State law of whether and how
+serious the offense is. My point is that there is a
+very particular doctrine that is in play here that deals
+with searches incident to arrest.
+JUSTICE ALITO: What if Virginia has a
+statute that said it's unlawful to arrest for a traffic
+violation, but that it is lawful under Virginia law for
+an officer to conduct a search incident to any arrest,
+whether it's lawful under Virginia law or not? Would we
+follow that latter Virginia law?
+MR. GOLDSTEIN: I don't know. That is the
+true answer, because no State has such a law. It would
+depend, I think, on whether the arrest itself satisfied
+constitutional --
+JUSTICE ALITO: What is the difference
+between that law and in effect what Virginia has in
+place? They say the arrest is unlawful, but they don't
+provide for the exclusion of evidence that's obtained as
+a result of that arrest under Virginia law.
+MR. GOLDSTEIN: The reason is I think the
+one -- that the Court has never looked to the State law
+remedies in Di Re, Miller, Johnson, Ker, and DeFillippo,
+and that it looks to what the common law would look to,
+which is: Is the arrest legal or not?
+I also would repeat what I said to Justice
+Breyer, and that is I would not assume that Virginia
+believes that the exclusionary rule wouldn't apply
+because those precedents trigger the Fourth Amendment.
+But, Justice Breyer, I do want to come back
+to your question about, okay, Whren. The important
+differences are: Remember Whren didn't just say that
+things about whether people can be arrested are
+trivialities. It's at the core of the Fourth Amendment.
+The Court would never say that arrest is a triviality.
+What it's talking about is what concerned
+Justice Kennedy, and that is the kind of rule in Whren,
+which is the guy had to be in a police uniform and
+driving around in a marked police cruiser, which could
+vary from jurisdiction to jurisdiction, the Court felt
+that was more of a triviality. This is a much more
+fundamental statement --
+JUSTICE KENNEDY: And both arrests are
+illegal, but you're saying that there's a difference.
+So your bright-line rule now seems to evaporate.
+MR. GOLDSTEIN: Justice Kennedy, I don't --
+JUSTICE KENNEDY: I mean I'm assuming that
+your answer to my question about the badge or the wrong
+county and so forth would not result in suppression.
+Correct me if I have misinterpreted your argument.
+MR. GOLDSTEIN: We have proposed two
+alternative rules. Fundamentally, that's right. And
+that is --
+JUSTICE KENNEDY: What's right?
+MR. GOLDSTEIN: I'm sorry. You're right:
+On our core condition, the evidence would not be
+suppressed. The reason is that we think the most
+fundamental State judgment here is whether this offense
+is arrestable. Alternatively, the Court could apply a
+rule that just says State officers, if they're allowed
+to arrest lawfully, then that will generate a
+constitutional search incident to arrest. We would win
+under either either rule.
+I think the core of our case is a much
+simpler rule that simply says if the State has decided
+this thing is not arrestable, it obviously doesn't have
+an interest in the arrest that would outweigh the
+individual's expectation of privacy -- remember search
+incident to arrest is an exigency. There is no --
+JUSTICE KENNEDY: But then if you -- do you
+accept the proposition then, in some of these minor
+cases, the arrest might be valid, then you're whole
+argument about the Framers and the trespass and so forth
+is wrong.
+MR. GOLDSTEIN: To -- that's correct. If we
+are going to follow the common law and the rule that is
+articulated, I think, in every single
+search-incident-to-arrest case, that it has to be a
+lawful arrest, that's right. It will take up all of
+State arrest law. I'm not trying to hide from that
+fact. But the Court has never had a problem with that.
+In all of those cases all through time, it has never had
+any problem with administerability or anything else with
+a rule that simply says to the police officer: If
+you're allowed to arrest him, arrest him; if you're not,
+you're not, and you can't search him constitutionally.
+That is --
+CHIEF JUSTICE ROBERTS: I think your friend
+agreed that the cases didn't establish whether our
+references to probable cause meant to probable cause to
+arrest or probable cause to believe that a crime had
+been committed. You don't agree with that? Do you
+think that the cases foreclose their position?
+MR. GOLDSTEIN: I do when it comes to the
+search-incident-to-arrest cases. I think two things.
+This is my understanding of the Court's precedents. The
+Court has said if you have probable cause, you can
+arrest. In every case that it has said that, it has
+been lawful at State law to arrest -- to arrest. So the
+Court has confronted this question when it comes to the
+constitutionality of the arrest vel non.
+There is a second line of cases that deals
+specifically with this search-incident-to-arrest
+doctrine, and in every one of those, it has both said it
+has to be a lawful arrest. And then in five separate
+cases, it has explained what it meant by a "lawful
+arrest." And it can't be dictum. The evidence in
+Johnson versus the United States was suppressed. It has
+to have been the holding of the court.
+We think that that is a sensible rule for
+two reasons: It is what Framers meant. It cannot be
+the case that a Federal marshal, at the time of the
+framing, could go and just arrest somebody for a
+completely trivial offense -- that was a trespass -- and
+then search them. And, second, Justice Powell's
+concurrence in Robinson makes a lot of sense. But if
+you engage in constitutional --
+JUSTICE ALITO: In Johnson, the search was
+illegal because they illegally entered the hotel room.
+Isn't that right? So it didn't matter what happened
+after that point.
+MR. GOLDSTEIN: That is not what the Court
+said. The Court was quite clear on this, Justice Alito.
+I just don't think there's two ways about it. It was
+quite on all five of these cases.
+I'm not saying the Court couldn't have
+decided the case otherwise. That's true. I think the
+Court could have had a different rationale, but the
+point is it didn't. All of these cases cite each other.
+It's a uniform line of authority. It's not an accident.
+It's not --
+JUSTICE KENNEDY: The Court simply said
+we're going to use our Federal supervisory power and
+incorporate the State law of arrest. If we don't have
+another body of law, we're going to do it. It didn't
+say it was required to by the Constitution. That's not
+the way I read Di Re.
+MR. GOLDSTEIN: Well, then -- I don't know
+how you pronounce it either, but I do know that Johnson,
+Ker, and DeFillippo are cases that are against the
+State. They are not supervisory authority cases.
+JUSTICE KENNEDY: Then you have three cases,
+not five.
+MR. GOLDSTEIN: Well, I disagree.
+JUSTICE BREYER: Putting cases aside for the
+moment --
+MR. GOLDSTEIN: Yes.
+JUSTICE BREYER: I mean if we reach this
+question, you must have lost on the first question. I
+mean you win -- if you win on the first question, you
+win.
+If you -- all right. If you have lost on
+the first question, this is not an unreasonable search
+-- arrest, rather, under the Fourth Amendment.
+And, moreover, it's not enough of a big
+deal, so the State makes it suppressible. Otherwise, a
+-- and so now we're talking about minor things under
+State law that is secondary at the least.
+And there, when the policeman make a mistake
+about that, the reason we let him search is he might be
+hurt, the policeman. There's danger involved.
+And so I don't see why at the moment that
+rationale wouldn't apply just as strongly with a reason
+for it being unlawful under State but not Federal law is
+a violation of one of these subsidiary rules whether he,
+you know, thought the guy was going to keep driving
+under the suspended license or, you know, might be risky
+or might not show up.
+MR. GOLDSTEIN: May I? There is no claim of
+good faith here which could be raised to a Fourth
+Amendment argument in a later case. There's absolutely
+no mistake. And we don't want to encourage officers to
+conduct illegal arrests and search people.
+CHIEF JUSTICE ROBERTS: You can finish your
+answer.
+MR. GOLDSTEIN: That's it.
+CHIEF JUSTICE ROBERTS: All right. Thank
+you, Mr. Goldstein.
+Mr. McCullough, you have four minutes
+remaining.
+REBUTTAL ARGUMENT OF STEPHEN B. McCULLOUGH
+ON BEHALF OF PETITIONER
+MR. McCULLOUGH: Thank you.
+First, when counsel says that this is some
+kind of a unique Virginia statute, that's wrong. The
+brief filed by the ABA shows that all but nine States
+have enacted provisions that are similar, that involve
+restrictions on their officers' authority, and each of
+those has exceptions, and so on and so forth.
+So it is not a unique situation. You have
+clear rules. Why would you trade them in for a morass?
+An arrest is constitutional if the officers have
+probable cause to believe a crime has been committed.
+JUSTICE GINSBURG: Any crime at all?
+MR. McCULLOUGH: I'm sorry?
+JUSTICE GINSBURG: Any crime at all;
+jaywalking, for example?
+MR. McCULLOUGH: That's -- that's correct.
+JUSTICE SOUTER: We would never know about
+it if the -- if the misdemeanor, or jaywalking offense,
+was not committed in the officer's presence.
+MR. McCULLOUGH: That's right. In the case
+--
+JUSTICE SOUTER: That's not a problem for
+you here, but that is a limitation on what we have held.
+MR. McCULLOUGH: That's correct. In
+Atwater, a jaywalking arrest is constitutionally
+permissible. Atwater did not reach the in-the-presence
+question, and it is not presented here because the
+offense occurred in the officer's presence. So --
+JUSTICE SCALIA: Mr. McCullough, what is
+here, for some reason the Commonwealth did not cite
+Cooper v. California, which I can't understand unless
+you agree with your friend that it has been overruled by
+later cases.
+MR. McCULLOUGH: No. I think -- we relied
+on Greenwood, and so I --
+JUSTICE SCALIA: I understand. Why didn't
+you cite Cooper v. California?
+MR. McCULLOUGH: I don't have an explanation
+for that. We certainly think it strongly -- as the
+United States points out in their brief, that it
+strongly supports our position.
+And as the lower courts have noted when
+facing a similar argument, you've already held that when
+it comes to a search, that under Greenwood and Cooper,
+that State-law considerations aren't going to be what
+the constitutional inquiry turns on.
+Why would you have this incongruity where
+that's true in Greenwood and Cooper with a search of a
+residence or an automobile but then you have a different
+rule when it comes to an arrest? The States have been
+handling this problem, but it's an issue of State law.
+And the State here has never held, going
+back to 1924, that a violation of State law rises to the
+level of a constitutional arrest and -- or, excuse me --
+that -- let me restate that.
+That a violation of State law warrants the
+exclusionary rule at the State level. So when the
+legislature enacted this, they contemplated that
+specific set of remedies.
+So, at the end of the day, we just ask the
+Court to adhere to its jurisprudence; that the arrest is
+constitutional because it is made with probable cause.
+There was a violation of state law, but it wasn't a
+constitutional problem.
+And so we would ask the Court to reverse the
+judgment below.
+JUSTICE GINSBURG: Mr. McCullough, there is
+one thing that I was curious about. It is this Virginia
+law that allows the custodial arrest pursuant to an
+order of a general district court.
+MR. McCULLOUGH: Yes.
+JUSTICE GINSBURG: When is that used?
+MR. McCULLOUGH: That is used with some
+frequency, and we certainly saw an increase in the wake
+of the Moore decision. I can't go county by county and
+city by city, but it has common currency.
+And one example is Portsmouth evidently,
+although it is not clear -- we have gotten conflicting
+answers. When Mr. Moore was arrested, there is no such
+order. But a few miles down the road the City of
+Virginia Beach does have such an order.
+And this just shows the complexities the
+Court would be stepping in where, if Mr. Moore is
+arrested in Portsmouth for the exact same crime on the
+exact same facts, it is unconstitutional under Moore's
+rule.
+But he goes a few miles down the road to the
+City of Virginia Beach, and the arrest is perfectly
+constitutional because the district court has entered
+such an order. And it just doesn't make sense, as the
+Court noted in Whren, for constitutional provisions to
+be so variable.
+JUSTICE GINSBURG: What would be the basis
+of a -- can a district court enter such an order just
+because it thinks it's a good idea? Are there any
+grounds in --
+MR. McCULLOUGH: The statute -- I see my
+time has expired. The statute at issue, 46.2-936, does
+not really lay out particular criteria. So it is -- and
+the issue hasn't been litigated in the Virginia courts
+as to the criteria that's required. But it seems to be
+broad discretion by the general district judge.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+The case is submitted.
+(Whereupon, at 11:05 a.m., the case in the
+above-entitled matter was submitted.)
+59:19 56:20 41:17,19,22 5:4,8,9,13,16 arrestable 10:23
+agrees 38:1 55:6 6:10,13,14,16 22:19,24 33:6
+ahead 4:7 14:22 37:25 58:17 9:12,13,16,23 43:15 50:15,22
+38:17 53:4 1:14 14:7,10,23,25 24:9 27:7 37:9
+51:2 allow 39:25 application 15:9 16:3,4,10 37:17 38:23
+alternative 50:8 apply 4:7,9,21 22:15 23:5 arrests 23:23
+19:10 amendment 32:12 35:21 27:3,6,11,13 17:15 51:8
+25:15 17:15 18:22,25 49:9 50:15 27:24 28:20 aside 54:1
+20:1,7 36:15 37:7,15 appropriately 36:2,2,10,12 9:11
+39:3,20,23,25 17:19 36:15,20,21,24 assume 12:3
+49:10,15 54:10 argue 14:16 39:19 40:1,14 assumed 6:1
+amicus 1:19 arguing 6:25 42:14,18,25,25 50:3
+amorphous argument 1:12 45:6,6,7,8,9,13 Atwater 20:1
+analog 24:6 12:18,19 17:6 48:11,13,15,20 34:22 35:11,19
+analogy 37:14 29:13 32:1 49:16 50:17,18 authority 11:24
+angry 11:11 57:6 51:22 52:4,5,5 23:9,23 36:1,2
+55:19 34:6,11 35:15 21:9,21,23,24 12:25 13:12,24 36:19
+40:5 48:2 29:16 40:11,17 16:25,25 19:2 56:25
+45:23 believed 28:16 45:16 56:19,25 33:6,10,13,17 43:21
+47:1 believes 28:16 call 10:10,21 33:20,21 34:5 citizens 3:15
+belt 26:14 13:22 41:18,24 48:1 citizen's 43:18
+best 3:14 41:13 32:19 52:3 55:24 59:1
+big 27:25 28:5 capacity 18:12 caused 10:13 class 23:5
+29:22 18:15 cease 6:10 clear 3:21 20:5
+55:12 board 16:20 30:9,9 45:20 certainly 14:12 53:4 55:22
+40:10 booked 6:4 46:11 58:12 clearly 20:25
+44:13 boundaries case 10:13 13:5 challenge 30:4 client's 46:10
+49:11 18:12 16:3,11 19:9 30:12 close 42:2
+Breyer 5:5 27:5 20:14,20 21:7 change 3:19 closest 24:6
+50:4 41:10 49:8,11 24:7,12,19,22 characterized come 4:13 19:21
+39:4 brief 28:25 38:16,22 39:1 check 10:10 52:6 57:7,13
+55:17 57:3 41:5 45:19,20 Chief 3:3,8 4:3 comments 42:5
+50:1 59:17,18 33:19,24 34:3 34:12 48:2
+27:6 45:15 30:24 31:2,14 44:19 45:1,10 committing
+brothers 47:25 43:10 51:3,13 55:5,8 59:16 26:21,23 30:18
+2:4,6,9,12 build 3:16 53:10,21,22,23 19:23 36:2,23,25
+9:4 17:7 Bureau 8:18 54:1 56:21 chose 6:23 39:9 43:9 44:3
+55:13 case-by-case chosen 19:19 49:5 51:7
+10:3 19:2 C 1:21 2:1,8 3:1 cause 3:12 7:3 10:25 11:4,21 Commonwealth
+29:14 26:3 8:9 9:16,20,23 23:3 25:16,19 56:18
+33:13,21 California 21:6 10:2,3,4,6 27:20 33:12 compare 30:20
+36:25 36:21 56:19,25 57:7 52:15 53:3,4,7 15:13,19
+considerations 57:11 53:9,13 57:24 dating 39:9
+constitution 50:12,20 59:4,7 day 57:23
+21:18 26:8,24 16:14 22:18 57:5 59:13 28:10 29:22
+53:17 34:17 40:3 20:18 25:3 dealing 30:16
+3:17,19,24 56:12 40:20 43:10 52:8
+14:1,4 18:10 44:12 47:4 52:2 decide 40:8
+30:12 31:3 counties 43:22 crashing 8:6 decided 22:11
+39:18 46:4 42:19,19 50:5 4:1 10:3 14:9 47:11
+49:17 52:23 55:23 couple 30:11 15:25 32:25 decision 25:4
+58:2 59:2,4 course 38:18 34:12 41:19,24 defendant 5:8
+43:1 52:7 4:22,23 6:12 55:24,25 56:2 deficiency 12:4
+52:22 3:11 16:24 10:1 11:10,16 crimes 9:11 DeFillipo 40:7
+23:1 25:13 15:1,11 16:16 criteria 19:4 DeFillippo
+24:21 51:17 56:13 17:15,22 18:19 crossed 26:17 53:21
+39:5 contact 4:17 19:20,25 20:10 crucial 19:1 define 30:20
+43:3 44:8 contemplated 20:13,22,23 cruiser 49:20 36:19,20
+48:15 57:21 21:7,11,24 curiae 1:19 17:8 defined 41:19
+context 24:1 22:6,23 23:4 curious 58:6 degree 34:1
+28:1 26:6,20 27:17 23:5 58:7 denied 6:20
+conversation 32:17 33:1 D 18:17 19:9
+31:2 conveyed 32:15 44:1,10,24 Dakota 44:20 departmental
+52:6 Cooper 21:6,15 46:11 47:11 dance 7:25 depend 40:4
+44:13,13 45:16 49:21 50:15 29:21 54:17 depends 39:13
+13:13,21,22 E event 46:23 expect 44:8
+discussion 29:13 easier 42:16 40:15 39:7 40:21,24
+32:5,8 disposition Edwards 6:11 4:18 15:14 50:24
+42:25 distinguished 20:25 31:18 39:3 45:12 13:7,8 28:18
+district 23:4 46:17,17 50:19 50:12 52:13 explained 52:12
+37:9 disturb 41:1 element 34:1 evoked 30:13 46:25
+49:4 doctrine 36:14 embrace 4:22 58:22,23 11:7 57:1
+48:10 52:10 embraced 9:9 example 14:21 express 32:13
+48:6 employee 8:5 34:22 48:7,7 extended 4:17
+48:22 dog 11:11 enacted 17:18 exceed 17:14 19:6
+doing 9:3 23:10 31:15 19:25 extra-constitu...
+doubt 44:17 encourage 55:3 exceptions 9:25 extreme 26:11
+30:1,2,3 downtown 23:18 22:20,22 55:20 F
+21:2,4
+34:11 draw 31:6,20 23:12,15,20 exclude 19:12 facility 9:10
+38:8 37:12 25:14 19:13 29:9 facing 57:6
+43:2 45:7 drawn 25:15 engage 4:16 excluded 4:10 fact 5:17 8:1,3,4
+57:12 Dreeben 1:17 18:4,6,22 22:8 20:3 11:17 20:25
+41:12 17:22 18:2,8 engaged 38:24 exclusionary 4:6 39:16 51:12
+drinking 20:15 entered 22:23 excuse 5:5 21:13 58:23
+45:11 driving 10:22 equate 21:17 22:24 false 20:13,17
+53:25 12:10 27:8,14 erred 3:20 exigencies 38:3 fantastic 8:11
+42:1 49:20 2:3,5,8,11 50:25 fast 12:6
+13:10 29:19 30:6 evaporate 50:1 exists 25:17 21:17 24:4,5
+25:3,13 foreclose 51:24 G 3:1 34:8,15 35:24 half 34:19,19,21
+35:6,6 forth 13:17 50:5 garbage 21:25 36:17,22 37:19 handling 57:14
+42:17 51:4 55:20 22:3,8 38:9,12 40:3 hands 36:5
+47:7 forward 12:19 gather 4:18 40:12 41:4 happened 5:25
+53:14 42:8 gee 12:9 42:9,22 43:25 29:11 53:1
+found 3:13 9:24 general 1:16,17 44:19 45:10,15 harder 38:16
+31:24 59:15 48:3,18 49:2 hearing 24:10
+Fourth 17:14 genuinely 30:25 51:25 53:3,19 25:20
+39:3,19,23,25 give 18:16 23:4 govern 25:24 holding 9:14
+49:10,15 54:10 22:14 36:13 3:15 17:12,18 52:15
+30:3,21 framed 26:7,24 giving 23:8 governmental Honor 4:15 5:17
+37:21 Framers 51:4 go 7:4 8:6 12:9 18:11 39:1 5:21 6:11 8:24
+54:5,6 52:17 12:20 13:6 grant 22:11,14 9:7,18 10:24
+55:15 framing 35:6,7 14:22 22:11 greatest 38:14 13:18 14:25
+53:6,24 free 3:16 41:10 44:7 21:21,23 22:7 29:5
+56:20 28:8 58:25 57:7,11 34:21
+fundamental 28:1,4 37:24 guarantee 33:17 hurt 37:10 54:17
+43:11 49:23 53:14,16 54:22 27:17 47:17 36:9 42:5
+48:17 fundamentally Goldstein 1:21 gun 37:11 I
+39:4 43:13 2:8 26:2,3,5,15 guy 27:18 49:19 idea 59:8
+further 13:1 28:11 29:3,10 GVR 20:17 illegal 21:25
+32:4,15,24 34:14 49:25
+individuals 8:23 17:23,24 26:5,13,16 42:20 49:18
+individual's jaywalking 56:3 28:24 29:6,12 kinds 23:9,18
+infinitely 42:12 job 17:24 33:7,10,19,24 know 7:10,13
+inquiry 10:6 45:12 49:4 36:8,18 37:2 13:20 14:7
+49:12 31:21 37:22 10:21 22:14 40:6,9,12 41:2 37:23 38:24
+38:19 39:1 58:4 46:14,19,22,24 Knowles 4:9,16
+interested 15:12 43:15 48:12,22 49:7 knows 27:25
+14:22 20:9 jurisdiction 4:2 50:2,3,10 51:1 L
+15:9 intrusion 19:6 22:23,25 23:19 51:19 52:21,24 label 44:21
+36:12 43:8 49:21,21 53:4,13,23 language 46:7
+24:17,21 intrusions 25:21 jurisdictions 54:1,4 55:5,8 large 11:11
+31:3 invasion 22:5 24:23 55:25 56:2,5 Laughter 7:11
+inventory 21:8 jurisprudence 56:10,17,24 7:15,21 8:12
+40:16 41:7,9 47:18 57:24 58:5,10 59:6 15:21
+40:13 44:14,16,21 Justice 1:18 3:3 59:16 law 3:18,23 4:5
+44:15 45:3 46:25 3:8 4:3,4,11 justification 4:12,14,22
+46:12 inventorying 5:5,7,12,15,19 43:19 5:18 8:2,18
+50:18 44:24 5:22,24 6:7,14 justified 46:4 10:10 12:21
+involve 55:18 6:17,24 7:9,13 13:6,9,16 14:1
+56:14 8:22,25 9:2,5 42:1 44:22 18:6,21 19:3
+irrational 37:15 10:7,15,19 Kennedy 21:19 19:23,24 20:8
+issue 6:21,22 12:18 13:3,15 24:4,11 40:9 21:10,16 22:17
+57:14 59:11,13 16:8,15 17:4 49:24 50:2,3 25:2,12,14
+24:9 21:22 22:13 53:21 31:16,23 32:1
+37:9 J 23:2,24 24:4 kind 6:18 25:19 32:9,12,14
+34:13 26:25 looks 48:8 49:5 58:5,9,11 10:8 58:13,17
+let's 12:2 31:9 lose 22:6 59:10 58:21
+36:1,2 33:3 lost 54:5,8 McNabb-Mall... Moore's 58:23
+level 7:1,24 lot 52:22 24:2,3 morass 55:22
+40:14 57:17,20 lots 33:1 mean 12:2 14:12 multitude 14:14
+liberties 25:21 Lovelace 20:14 21:4 23:4 municipal 32:11
+43:9,24 liberty 19:6 20:14 26:20 32:5,9
+license 10:23 lower 57:5 32:10 33:15 N
+46:1 11:22 12:4,10 45:2 50:3 54:4 N 2:1,1 3:1
+27:8,12,24 M 54:6 narrow 12:22
+47:9,9 28:7 54:23 magistrate 24:9 means 18:9 40:25
+light 20:15 24:25 meant 51:21 nature 15:25
+likelihood 15:14 making 9:13 52:12,17 30:12,13
+limit 12:7,12 12:19 17:20 men 26:7 nearby 11:14
+51:7 24:8 36:20 22:1 merits 20:18 necessarily
+52:5 limitation 56:11 Mapp 35:16 met 16:23 19:4 12:12 23:10,12
+54:14 line 21:23 22:4 marijuana 7:2,5 MICHAEL 1:17 necessary 25:13
+57:14,16 25:15 28:19 7:17 9:1 18:16 2:5 17:6 33:23
+58:1,7 31:13,20 35:1 marked 30:9 miles 12:7 58:18 need 4:18 10:22
+17:1 52:8 53:11 marshal 35:6,10 Miller 30:23 needs 3:14
+45:6,13 lines 4:1 52:18 49:4 neighbor 7:2,20
+48:14,16 litigants 6:23 matter 1:11 8:15 mind 24:7 8:25
+52:5,11 litigated 13:19 8:19 13:8,25 minimum 19:25 neither 20:20
+59:13 14:16 17:18 minor 23:13 29:4
+little 22:16 27:6 25:12,13 40:25 54:13 23:13 28:23
+live 11:13 matters 3:18 minutes 55:10 51:12,13 56:5
+43:7 local 30:5,7,13 1:15 2:3,11 3:5 5:11 new 6:18
+40:18 9:3,6,18,21,24 misjudgment 28:21
+32:7 longer 25:9 13:23 14:12,24 28:6 54:15 notion 26:7 44:7
+31:15 41:20,23 42:24 16:7,14,16 mix-up 6:3 38:3
+47:14,19 49:5 55:10,12,14 moment 54:2,18 number 5:2
+looked 40:20 56:1,4,8,12,17 Monday 1:9
+41:18 official 18:11,15 pat-down 6:1 points 57:3 preempted
+18:21,22 pay 20:2 police 4:12 8:16 36:16,16
+okay 12:6 16:8 23:18 25:14 32:7,18 42:14 44:10
+OLC 35:8 perfectly 46:25 policeman 27:20 presence 56:7
+15:18 once 20:18 28:8 47:2 59:1 28:6,8 54:15 56:16
+19:11 ones 30:15 period 24:13 54:17 present 6:6,7
+ongoing 6:14,17 permissible policemen 27:16 presented 20:19
+26:9 opinion 29:7 56:14 27:22 56:15
+35:11,19 opinions 35:9 permission 23:4 police's 7:6 preserved 29:15
+36:7,11 Opperman permits 15:6 policing 23:15 pretty 15:19
+48:9 44:20 46:23 16:21 41:25 Portsmouth 20:25 32:22
+52:20 opposite 22:6 permitted 47:20 58:15,22 price 20:3
+options 18:19 person 13:22 posed 36:10 principal 30:15
+16:18 17:6 26:3 17:20 18:5 position 16:12 20:9 22:5,10
+23:18 29:13 19:16 20:14 24:10 25:6 23:11 25:21
+35:8,12 order 18:22 58:8 28:7 35:14 51:24 57:4 38:25 39:7
+58:18,19 59:3 37:10,22 38:23 positive 18:4,6 40:22,24 43:19
+6:1,2 8:2 ordnance 31:8 44:22 46:10 39:9 private 18:11
+10:8 32:11 Petitioner 1:4 positively 21:3 probable 3:12
+11:1 outset 20:5 1:16,20 2:4,7 posits 23:10 7:3 8:8 9:16,20
+14:1 outside 16:11,13 2:12 3:7 17:9 43:2 9:22 10:1,3,4,6
+16:5 18:12 22:17 55:13 Post 30:20 12:25 13:12,24
+17:13 24:8 phrase 33:14 Post-Cooper 14:9,10,18
+21:8 outweigh 50:23 pick 32:20 44:20 46:23 16:24,25 19:2
+29:20 override 26:23 place 5:13,22,23 Powell 44:6 24:10 25:15,17
+37:8,11 overrule 24:20 20:1 40:1 Powell's 38:21 33:5,8,10,12
+38:5,15 24:22 40:7,10 48:24 39:13 40:5 34:5,6,11,13
+overruled 25:4,5 places 11:12 52:21 41:18,24 48:1
+56:20 31:13 power 30:6 35:7 51:21,21,22
+51:15 plainclothes 42:14 43:12 52:3 55:24
+11:3,5,18 P 3:1 play 48:10 practice 44:3,25 problem 13:23
+13:9 PAGE 2:2 please 3:9 17:11 44:25 39:18 51:12,14
+22:25 Part 33:15 26:6 practices 32:7 56:10 57:14
+particular 4:2 plenary 23:23 precedents 58:2
+30:5 4:20 21:1 point 6:11 16:6 26:20 30:18 procedure 10:21
+44:21 23:19 27:5 20:20 23:8 34:2 45:8 29:25 41:21
+55:3,19 48:10 59:12 24:15 35:1 47:14 49:10 procedures 3:16
+passage 46:20 37:22 40:8 52:2 3:18 21:15
+45:22,24 47:12 25:3 31:23 remember 36:5 9:21 11:15
+54:5,6,9 56:15 REBUTTAL remove 25:22 32:4 35:24,25
+28:23,25 recall 29:12 renounced 21:1 46:9 50:8,10
+21:16 21:24 22:9 23:14 rises 57:16
+51:2 R recognizes represents 3:14 risky 54:23
+25:14 17:6 reduced 38:25 required 10:2 24:24
+38:5 raise 3:24 6:22 39:6 20:10 34:1 road 58:18,25
+39:2,24 raised 6:21 reexamine 53:17 59:14 Roberts 3:3 4:3
+23:11 rationale 4:15 regard 24:18 requirements 29:6 32:21
+37:4 53:9 30:6,7,14 residence 57:12 36:8,18 44:12
+rationales 16:5 regulations 19:8 resolved 20:21 47:4,17 51:19
+53:18 40:16 Respondent 38:21 44:7
+really 8:13 32:9 11:16 37:4 23:10 26:4 rooted 36:23
+47:1 59:12 20:24 14:11 24:10,19 15:6,23 16:17
+reason 6:22 relatively 36:13 25:2,6 16:21 19:11,22
+46:7 47:13 relevant 46:7 responsible 36:6 24:18,23 25:24
+50:13 48:5 restate 57:18 28:22 29:1,14
+16:9 12:13,14 14:20 remaining 17:3 20:8 23:7 35:20 36:3
+18:8 18:24 21:11 55:11 55:19 37:18 39:22,25
+30:24 22:8 25:18 remains 39:2 result 49:1 50:5 40:5 41:22
+47:6 5:24 6:2,5,12 separate 52:11 sound 39:13 44:14,18,25
+7:4,7 8:1 9:2 serious 48:9 source 36:1 45:2,5,14,20
+50:1 14:20,22,24 seriously 28:12 sources 32:6 45:23 46:1,3
+15:3,6,9 16:3,4 serve 20:9 Souter 16:1,8,15 46:12,14,16,20
+52:16 16:10,21 17:1 set 24:8 57:22 37:2 38:7,10 47:1,8,9,9,21
+58:24 21:9,12 22:9 Seth 33:9 38:13 39:12 47:21,22,25
+50:8 26:11 30:4,22 shorter 24:12 South 44:20 50:14,16,21
+55:22 31:3 32:2 35:2 show 23:22 46:23 51:11 52:5
+54:24 speak 46:16,17 53:15,22 54:12
+29:7,7,8 46:12 47:1 55:18 57:6 stake 41:21 6:11 12:16
+36:14 48:15 50:18,24 simple 13:11 standard 3:13 17:7,12 20:7
+42:7 51:17 52:21,24 simpler 50:21 3:19,21,22 9:8 24:22 32:22
+49:25 54:9,16 55:4 simply 6:21 13:7 12:25 13:11,24 35:17 52:14
+57:7,11 45:21 50:21 25:24 42:17,23 55:17 57:3,13
+29:19 39:10 single 10:5 51:8 stands 21:16 State-law 57:8
+33:11 searches 8:6 situation 11:24 starting 38:7,10 station 6:4
+36:10 16:11 21:15,25 12:8,11 15:16 state 1:15 3:18 statute 9:17,25
+38:23 22:3 40:13,16 21:7 35:20 3:23 4:1,5,12 11:17 28:13
+40:23 40:16 48:11 55:21 4:14,22,23 7:8 31:8 48:13
+44:7,22 searching 18:1 situations 18:10 7:9,12,22 8:14 55:16 59:10,11
+51:15 search-incide... slightly 34:20 8:21 9:4,10,16 statutes 44:2
+51:9 52:1,9 small 28:13 44:4 9:24 11:9,9,16 statutory 32:14
+8:5 second 28:15 social 23:16 17:16 19:14,15 STEPHEN 1:15
+34:19 41:11 societal 40:25 19:17,19 20:25 2:3,11 3:6
+9:5 52:8,21 Solicitor 1:15,17 21:16 22:3,5 55:12
+12:2,18 secondary 54:14 somebody 7:17 22:10,17,18 stepping 58:21
+see 10:10 45:19 26:14 27:11,12 23:1,25 24:12 Stevens 5:7,12
+18:3 54:18 59:10 27:23 52:19 25:2,7,9 31:5 5:15,19,22,24
+26:13 seized 46:10,10 someone's 7:23 31:11,15 32:1 6:7,14,17
+32:8 seizure 25:17 somewhat 34:25 32:6,9,11,14 14:15 15:2,8
+45:15,18 38:22 46:8,11 soon 11:14 13:6 33:3,11 34:13 43:17 44:6
+seizures 8:6 sophisticated 35:8,18 36:1 stop 12:3 27:11
+sense 4:19 34:15 43:24 36:16,18,20 27:11,23 30:4
+suspect 3:12 44:24 49:14 39:9 5:18
+39:6 suspend 28:1,2 8:3,13,14,20 48:13 6:9 16:2 38:12
+10:23 27:8,23 14:13 18:10,23 treat 21:9 understanding
+switch 11:12 23:8 24:15 35:4,13 36:25 understood
+40:2 27:13,25 28:5 52:20 undertake 21:8
+T 30:14 31:19 49:10 undertaking
+27:7 28:12 40:9 41:4 42:9 trivial 35:11,19 27:2
+37:8 51:10 42:16 43:9,19 35:21 36:7,13 unfortunately
+talking 9:19 50:13,20 51:8 42:21 49:15 9:8 25:13 30:8
+54:13 52:16 53:5,8 29:25 49:16,22 49:19 53:11
+15:20,24 16:3 thinking 41:12 57:11 55:16,21
+tell 26:20 thinks 42:1 59:8 trying 13:8 United 1:1,12,19
+37:5 2:8 26:3 28:8 51:11 52:14 57:3
+6:5 17:9 34:16 28:9,24 31:25 29:23 57:9 32:1,6,9,11,13
+terribly 42:10 three 53:23 34:20 40:20 unlawfully
+45:13 25:25 55:8,14 52:18 59:11 13:24 34:5 43:21
+52:14 59:16 times 6:12 36:17 types 16:18 unreasonable
+24:19 25:2 48:5,6 U 27:4 32:2,2
+31:21 34:9 timing 6:21 25:22 44:9 46:2 54:9
+9:1 19:20 58:6 told 10:20 9:13 21:5 31:4 use 39:13 40:5
+things 27:2 track 44:23 35:5 36:3 38:2 53:14
+19:13,20,23,24 15:11 29:7,8 14 1:9
+29:11 23:3,3 24:20 30:16 38:7,10 17 2:7
+40:17,23 27:10,17,22 39:21 53:14,16 1924 57:16
+44:20 28:3,4,12,16 54:13
+29:4 we've 26:16 2
+46:23
+56:19,25 43:22,24 44:4 39:22,24 40:2 2008 1:9
+58:6,19 Whren 25:16,20 3
+51:3 3 2:4
+59:5 virtues 3:22 32:19 34:23
+59:11
+52:14 25:7 41:13,13 Wisconsin 48:7
+35:22 wanted 34:16 works 14:5
+41:8 warrant 10:8,11 world 19:9 44:8
+19:3 22:14,15 wouldn't 12:11
+28:22 warrants 57:19 12:14 18:3
+35:14 Washington 1:8 28:15 49:9
+47:20 1:18,21 54:19
+44:14 41:19 47:12 write 11:12 29:7
+waste 23:16 55:16
+38:4 X
+18:10
+21:10 39:15 46:17,18 x 1:2,7
+31:5 53:18
+47:9,10 years 15:20
+54:21 wearing 8:15
+58:1 26:14 43:8
+23:21 Weeks 30:21
+1:13 3:2
+9:12,12 We'll 3:3
+59:18

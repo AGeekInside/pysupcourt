@@ -1,0 +1,1789 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+UNITED STATES, :
+Petitioner :
+v. : No. 08-769
+ROBERT J. STEVENS. :
+- - - - - - - - - - - - - - - - - x
+Washington, D.C.
+Tuesday, October 6, 2009
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 10:03 a.m.
+APPEARANCES:
+NEAL K. KATYAL, ESQ., Deputy Solicitor General,
+Department of Justice, Washington, D.C.; on behalf of
+the Petitioner.
+PATRICIA A. MILLETT, ESQ., Washington, D.C.; on behalf
+of the Respondent.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+NEAL K. KATYAL, ESQ.
+On behalf of the Petitioner 3
+PATRICIA A. MILLETT, ESQ.
+On behalf of the Respondent 27
+REBUTTAL ARGUMENT OF
+NEAL K. KATYAL, ESQ.
+On behalf of the Petitioner 55
+P R O C E E D I N G S
+(10:03 a.m.)
+CHIEF JUSTICE ROBERTS: We will hear, first,
+this morning, Case 08-769, United States v. Stevens.
+Mr. Katyal.
+ORAL ARGUMENT OF NEAL K. KATYAL
+ON BEHALF OF THE PETITIONER
+MR. KATYAL: Thank you, Mr. Chief Justice,
+and may it please the Court:
+Ten years ago, in Section 48 of Title 18,
+Congress crafted a narrowly targeted restriction against
+certain depictions of actual animal cruelty. Yet the
+Third Circuit struck the statute down on its face
+without even attempting to apply substantial overbreadth
+analysis. The statute has four critical features and,
+just as the Court last year in United States v. Williams
+began with statutory construction, analysis should begin
+there.
+First, like the statute at issue in the
+United States v. Ferber, this statute only reaches
+depictions of cruelty to actual living beings --
+animals, not simulated ones or the written word.
+Second, the statute only applies to
+commercial messages, ones that Congress found drove the
+market for animal cruelty.
+Third, the statute examines the work as a
+whole --
+JUSTICE SOTOMAYOR: What record do you have
+of that fact?
+MR. KATYAL: Before Congress?
+JUSTICE SOTOMAYOR: Yes.
+MR. KATYAL: Before Congress -- Congress had
+a bunch of testimony that showed that there were
+extensive -- there was a robust market in animal cruelty
+videos, largely focusing on crush videos -- 2 to 3,000
+crush videos that were in -- that were -- that were
+being sold at the time.
+JUSTICE SOTOMAYOR: That I understand, but
+crush videos is only one species of cruelty to animals.
+What evidence was there that, for example, dog fighting
+had as large and robust a market or that hunting videos
+in those States in which hunting was illegal had a
+robust market, et cetera?
+MR. KATYAL: Well, hunting we think is
+excluded, and I could talk about that in a moment, from
+the reach of the act. Congress spoke in general terms,
+and I don't think that Mr. Stevens's statement at page
+13 of his merits brief, which is to the effect that
+Congress repeatedly disavowed any attempt to regulate
+animal fighting -- dog fighting -- I don't think that is
+correct and the record does not support that.
+Congress spoke in general terms. They had a
+for-profit commercial market about animal cruelty, and
+the statute dealt with it in general terms. And they
+reasoned that by -- by punishing the sale of these
+videotapes, they would get at the underlying clandestine
+market --
+JUSTICE SCALIA: What do you mean by a
+"for-profit commercial market"? You mean anything that
+is sold, right?
+MR. KATYAL: That is -- that is correct.
+JUSTICE SCALIA: Okay.
+MR. KATYAL: Yes.
+And the Third Circuit's decision in this
+case struck down the statute with respect to crush
+videos, with respect to the sale of video -- the
+creation of dog fighting videotapes, because, remember,
+the statute, Section 48, doesn't just encompass the --
+the sale of videotapes. It also encompasses the
+creation of dog fighting videotapes. And, yet, the --
+the Third Circuit struck that down as well. That, I
+think, was a fundamental error under this Court's
+principles, most particularly, United States v.
+Williams, which says that the statute should only be
+struck down if there is a substantial -- if there is
+substantial overbreadth and only if it is a last resort
+of the Court, not the first.
+CHIEF JUSTICE ROBERTS: What would you -- if
+you could do it in one sentence, what is your test for
+determining which categories of speech are unprotected
+by the First Amendment?
+MR. KATYAL: In one sentence, if -- if -- if
+Congress sees a compelling interest in regulating the
+means of production and does not target the underlying
+content, they can -- they can regulate a depiction, so
+long as it leaves alternative mechanisms for that
+expression in -- in place, and that is I think what
+Ferber --
+JUSTICE KENNEDY: Okay. And what case --
+what case do you have for that proposition?
+MR. KATYAL: United States v. Ferber -- New
+York v. Ferber. In Ferber, the Court -- the Court
+dealt, as modified or as glossed by your decision in
+Free Speech Coalition, because what Ferber and Free
+Speech Coalition together say is that Congress was
+not -- or the legislature, was not targeting the
+contents of a depiction; rather, it was trying to get at
+and dry up the underlying market, child exploitation in
+that case.
+JUSTICE GINSBURG: Mr. Katyal, the Court
+summarily dealt with a case some years ago, American
+Booksellers v. Hudnut, where cities attempted to make
+not even a criminal offense, but the subject of a civil
+suit, a violent depiction -- depictions of women as
+sexual objects enjoying pain and humiliation and
+degradation.
+The Seventh Circuit said that that was a
+blatant violation of the First Amendment, to go after
+purveyors who show these women in the shocking,
+degrading photographs, and I believe we summarily
+affirmed.
+MR. KATYAL: And this case is fundamentally
+different from all of those because here Congress is not
+aiming at the underlying communicative impact. It's not
+saying, as it was in the --
+JUSTICE SCALIA: Well, of course it is. I
+mean, you can't separate the means from the end and say,
+since its end is simply to prevent the -- the activity,
+the means, which is to prevent the communication, is
+okay. It is targeting the communication of videos that
+depict this conduct.
+MR. KATYAL: Quite to the contrary, Justice
+Scalia. The bona fides of this statute are evident
+right on its face, because the very same depictions that
+Mr. Stevens or anyone else swept up under the statute
+wants to portray, they can -- they can do it, so long as
+they use simulated or images.
+CHIEF JUSTICE ROBERTS: Well, but to say
+that they are not concerned with the content, I -- I
+think is contradicted by the exceptions. You have to
+look at the content and make a decision, is this bona
+fide scientific, journalistic, educational, historical?
+So you have to look at the content to determine whether
+or not the speech is prohibited.
+MR. KATYAL: I don't think so, for two
+reasons. I think what Congress is dealing with with the
+exemptions clause in this statute was just reflecting
+the underlying nature of the market that they saw in
+1999, a for-profit commercial market in cruelty.
+And so they exempted educational depictions,
+religious, and so on, because that wasn't what was
+driving the underlying market for crush videos --
+CHIEF JUSTICE ROBERTS: How can you tell
+these aren't political videos? You do have, with
+organizations, PETA and others, depictions of the same
+sort of animal cruelty that is used to generate support
+for efforts to prohibit it. Why aren't these videos the
+exact opposite, you know, efforts to legalize it, and,
+in each case, it would fall under the political
+exemption?
+MR. KATYAL: And often they will fall under
+that exemption. My point is that Congress carved a
+broad exemption in Section 48 precisely to make sure
+that expressive messages aren't swept up.
+JUSTICE SOTOMAYOR: Could you -- could you
+tell me what the difference is between these video and
+David Roma's documentary on pit bulls? I mean, David
+Roma's documentary had much, much more footage on the
+actual animal cruelty than the films at issue here,
+greater sections of the film, and more explicit.
+In this film, the -- the Respondent didn't
+let the video show the actual tearing of the jaw. David
+Roma's did much more than that, showed much more than
+that. So isn't -- doesn't there have to be a judgment
+inherent in this statute?
+MR. KATYAL: The line will sometimes be
+difficult to draw, just as its difficult to draw in
+child pornography --
+JUSTICE SOTOMAYOR: But it's not in child
+pornography because, there, Congress says the very
+act -- it doesn't matter how artistic it is. That very
+act of child pornography is illegal.
+MR. KATYAL: Quite to the contrary, Justice
+Sotomayor. In this -- this Court approved, in Osborne
+v. Ohio, a statute that's on child pornography, that had
+the following exemption: For a, quote, "bona fide
+artistic, educational, religious, governmental,
+judicial, or other purpose by or to a physician,
+psychologist, sociologist, persons pursuing bona fide
+research studies, a judge or other persons having a
+proper interest in the material or performance."
+And this Court pointed to that exemptions
+clause to make the statute constitutional at two -- at
+two pages in that opinion. And so this Court has
+already gone down the path of saying these decisions are
+tough to make on a case-by-case basis, but nonetheless
+the legislature should have a freer hand to act when it
+is regulating, not the expressive message, but targeting
+the underlying content, the -- targeting the underlying
+production, not the content.
+JUSTICE SCALIA: Child -- child pornography
+is obscenity as far as I am concerned, and it has been
+treated as part of that same traditional classification
+which there has always been permission for the
+government to prohibit. This is something quite
+different.
+I mean, you know, what if -- what if I -- I
+am an aficionado of bullfights and I think, contrary to
+the animal cruelty people, I think it -- they enoble
+both beast and man, and I want to persuade people that
+bullfights are terrific and we should have them.
+I would -- I would not be able to -- to
+market videos showing people how exciting a bullfight
+is. Right? I would be able to talk and say, oh, you
+should really allow bullfights, but I cannot make the
+most significant point that I want to make, get people
+to watch it.
+MR. KATYAL: I want to answer your
+hypothetical, but if I could just have 20 seconds or so
+to -- to respond more generally to all of these
+hypotheticals which I think are going to reoccur in the
+course of our conversation.
+We believe that Section 48 will have
+as-applied constitutional challenges that will be
+inferred from case to case. But what this Court has
+said is that, in your decision, Justice Scalia, in
+United States v. Williams, is that we should be careful
+about that endless stream of fanciful hypotheticals
+precisely because the test under substantial
+overbreadth, which knocks an entire act of Congress out
+on its face, is that there must be a realistic danger
+that the statute will be applied in -- in the manner the
+hypothetical suggests.
+With respect to your bullfighting
+hypothetical, there is no realistic danger.
+We have had ten years of experience under the statute.
+Congress itself said -- the legislative history, which I
+know will not be of relevance to you but may to others
+on the Court -- they explicitly exempted Spanish
+bullfighting and said that is the paradigmatic case of
+what is educational and artistic and the like.
+JUSTICE BREYER: What if I made --
+JUSTICE SCALIA: Well, wait. Wait. I don't
+understand that. Any depiction of bullfighting is
+educational?
+MR. KATYAL: Spanish depictions of
+bullfighting --
+JUSTICE SCALIA: And that is true because
+Congress said so?
+MR. KATYAL: Well, that is true because it
+is educational, and -- and a prosecutor would bear the
+burden of proof.
+JUSTICE SCALIA: Well, I guess a dogfight is
+educational, too.
+MR. KATYAL: And some dogfights certainly
+are, which is my answer to Justice Sotomayor's question.
+JUSTICE BREYER: Well, look what you have
+done, and this is what is bothering me. You take these
+words, which are a little vague, some of them, "serious
+religious, political, scientific, educational,
+journalistic, historical, or artistic value," and you
+say that's a standard that a judge or prosecutor will
+apply. And people have to understand it because they
+have to know what to do to avoid the risk of being
+prosecuted.
+Now, as I have gotten out of these briefs,
+you then require people to apply that standard, not
+simply to the crush videos or to the dogfighting, but
+also to, as Justice Scalia pointed out, bullfighting,
+sheep hunting, bear hunting, deer hunting, fox hunting,
+humane slaughter, and for, I think somewhere I found,
+the stuffing geese for pate de fois gras.
+All right, so there is a whole long -- quail
+hunting. There's a whole long list in here of things
+that people might want to do. They won't know if it
+falls within this exemption. Nobody in every State
+wants to forbid these things. Sometimes they are,
+sometimes they are not. They won't know whether or not
+they can make this particular film, picture, or other.
+That's the overbreadth argument. And I would like to
+hear your response.
+MR. KATYAL: We have had ten years of
+experience, Justice Breyer, under the statute, and we
+haven't seen those things being chilled. Indeed,
+Respondents --
+JUSTICE KENNEDY: Can you give me an example
+of a case where we said a statute which might otherwise
+be overbroad is not overbroad because prosecutors have
+been restrained? Can you give me one case where we've
+said that?
+MR. KATYAL: Last year in United States v.
+Williams, an opinion that virtually every member of this
+Court joined, including you, Justice Kennedy, this Court
+said that it would look to the experience, the
+post-Ferber experience, in prosecuting cases to decide
+whether or not a -- two terms in the statute, "promotes"
+and "presents," were vague and would raise the --
+JUSTICE KENNEDY: But that was a case where
+we knew what the content was. The content was not
+subject to an -- to an overbreadth challenge. The
+content was not.
+MR. KATYAL: Well, actually, Justice
+Kennedy, the reason that came up in the case is because
+there were hypotheticals being advanced such as
+police -- a man who wants to call the police that says
+that child pornography arrived in my -- in the mail and
+so on. And what the Court said is that even though the
+words in the statute, just as the words in this statute,
+could be read broadly or narrowly --
+JUSTICE KENNEDY: Well, but that -- that
+went to intent. It seems to me that -- let me tell you
+what I think your framework is and if it is wrong, tell
+me that it is wrong. This statute without the
+exceptions clause would be wildly overbroad. So you say
+it's not overly broad because of the exception or the
+savings clause. I will call it the exceptions. But it
+seems to me that the exceptions must be then tested as
+to whether or not they are vague.
+MR. KATYAL: We do think that the --
+JUSTICE KENNEDY: And you have you to show
+that they are not vague.
+MR. KATYAL: We do think that the exceptions
+clause does some of the constitutional work to exclude
+some of the hypotheticals like bullfighting and the
+like. We do think the statute itself has a number of
+restrictions built into it on its face to --
+JUSTICE GINSBURG: But what is a -- what is
+"and the like"? How about cockfighting? What is the
+difference between -- perhaps I missed something a few
+moments ago -- between bullfighting, cockfighting,
+dogfighting? You say dogfighting is included, but
+bullfighting -- and I don't know where you put
+cockfighting.
+MR. KATYAL: Dogfighting and cockfighting
+are illegal in all 50 States and therefore would be
+swept up. Some certain depictions of dogfighting and
+cockfighting would be swept up, not all.
+JUSTICE GINSBURG: But what about
+bullfighting? Isn't that illegal in --
+MR. KATYAL: It may or may not be. There
+aren't, at least, specific statutes generally dealing
+with it, but --
+JUSTICE STEVENS: What about hunting with a
+bow -- What about hunting with a bow and arrow out of
+season?
+MR. KATYAL: Okay. So --
+(Laughter.)
+MR. KATYAL: In hunting, as well as --
+JUSTICE GINSBURG: Can we -- have we
+finished with the category of fights?
+MR. KATYAL: So let me just, to Justice
+Ginsburg's question. Not all dogfighting videos are
+swept up by Section 48. There may be educational
+videos, along the lines that Justice Sotomayor said,
+raised which are not swept up. Bullfighting is the same
+basic thing. It's not that there is a categorical -- a
+categorical exemption on bullfighting; it is rather that
+there are certain ones that are educational and not,
+just like in child pornography.
+JUSTICE GINSBURG: What's the --
+JUSTICE SCALIA: So noneducational
+bullfighting would be prohibited? If I market this just
+because I think, boy, bullfighting is really exciting?
+MR. KATYAL: If it meets the other terms in
+the statute, right. So commercial and things like that.
+JUSTICE SCALIA: Okay. It is covered.
+MR. KATYAL: Now, with respect to hunting,
+hunting is generally not considered animal cruelty. And
+it doesn't --
+JUSTICE STEVENS: No, but hunting with a bow
+and arrow, and some depictions of hunting are pretty --
+are pretty gruesome.
+MR. KATYAL: That's correct. And to the
+extent that it is something that resembles the terms of
+the statute, the language of which is "maimed,
+mutilated, tortured, wounded, or killed" --
+JUSTICE SCALIA: "Or killed." How do you
+limit "killed" to cruel -- you say in your brief that
+it's noscitur ex sociis. But that's a doctrine that
+says when you have a string of words, one of which has
+various meanings, which meaning it has depends upon the
+words with which it is associated. So if you speak of
+staples, staples -- what, thumb tacks, nails, and other
+fasteners, "nails" obviously doesn't mean toenails. It
+means a nail that is a fastener, the word "nail" having
+various meanings.
+"Kill" has one meaning, which is kill. And
+you can -- you cannot limit that meaning just because in
+addition to killing you also prohibit torturing and
+other things. Do you have a single case where -- where
+that doctrine is used not to give meaning to an
+ambiguous word, but to limit the meaning of a word which
+on its face is absolutely clear?
+MR. KATYAL: Yes, sir, Your Honor. I do.
+JUSTICE SCALIA: What is that?
+MR. KATYAL: That is the decision you wrote
+last year in United States v. Williams, which interprets
+the words "promotes and presents," which you yourself in
+the opinion said are capable of a wide variety of
+meanings.
+JUSTICE SCALIA: Exactly.
+MR. KATYAL: And -- and here the word "kill"
+in context is a term that the statute --
+JUSTICE SCALIA: No, it's not susceptible to
+a wide -- that's my whole point. It means kill.
+MR. KATYAL: It means killed in the context
+of a statute that is defining the words "animal
+cruelty," and this Court has consistently said that the
+definition that is being defined by the legislature --
+JUSTICE SCALIA: Some people think eating an
+animal is animal cruelty. These people don't eat meat
+because it is the product of killing animals.
+MR. KATYAL: And the legislature under no
+way, shape, or form was targeting that.
+JUSTICE SCALIA: Well, it shouldn't have
+said that, then.
+MR. KATYAL: Well, I think that it basically
+did say that by using the words "animal cruelty" in the
+statute. Now, if there's a disagreement about that --
+JUSTICE SCALIA: You don't have a single
+case in which a -- an absolutely clear word like "kill"
+is given a more narrow meaning because of other words
+that are different from that word.
+MR. KATYAL: Justice Scalia, in Leocal, this
+Court defined the term "crime of violence," which the
+INA had -- that the INA interpreted wrongly.
+JUSTICE BREYER: So you want to say "cruelly
+kill"?
+MR. KATYAL: That's --
+JUSTICE BREYER: Now, "cruelly kill" is not
+exactly crystal clear. And therefore my question is
+why, given the need for you to save this statute to read
+so many words that are so general, those contained here
+that I've read, cruelly kill, cruelly wound as opposed
+to just wound or kill. You are doing that in order to
+prevent chilling people who are engaging in activities
+that aren't intended to be covered by this statute.
+Why not do a simpler thing? Rather than let
+the public guess as to what these words mean, ask
+Congress to write a statute that actually aims at those
+frightful things that it was trying to prohibit. Now,
+that can be done. I don't know why they couldn't do it.
+MR. KATYAL: And it could have been done in
+Williams. It could have been done in the child
+pornography cases, which also have vague terms. But
+what this Court has said is that using the substantial
+overbreadth doctrine to do that leaves gaping holes in
+place. If we followed your invitation, Justice Breyer,
+we would leave crush videos unprotected.
+JUSTICE BREYER: Why? Why? You say a crush
+video, my description that I read of it, you would have
+a strong case. I'm not saying you would win, I don't
+have to decide that. But you have a very strong case.
+So you say to Congress, write a statute that focuses on
+that. You are worried about dog fighting, write a
+statute that focuses on that, and moreover, talks about
+something unlawful in every state. I am not giving
+Congress advice, though I seem to be.
+(Laughter.)
+JUSTICE BREYER: I'm just saying why -- why
+can't you here write a statute that does not force the
+courts into the work of interpreting these very vague
+words to prevent the statute from being held
+unconstitutional?
+MR. KATYAL: Well, here I think we should
+give Congress some credit, because what it actually did
+in the exemption clause was borrow this Court's own
+jurisprudence from the obscenity context on exceptions
+like literary, artistic, political and scientific. It
+had found that --
+CHIEF JUSTICE ROBERTS: Counsel, would
+this -- would a statute like this apply to humans be
+constitutional? You can't depict videos of, say,
+violent muggings or things of that sort?
+MR. KATYAL: Well, I think it would be
+complicated because Congress would have to find that by
+targeting the underlying videos but leaving alternative
+simulated mugging videos in place, somehow it would have
+reduced the market for muggings or something like that.
+I think that's very hard. And it goes to Justice
+Ginsburg's question about whether this statute is aimed
+at the communicative of impact, which we don't think it
+is, or it is aimed at just reducing the first order
+problem which is --
+JUSTICE SCALIA: But the first order problem
+occurs in states where it is not illegal. These videos
+are taken in states where bullfighting or dog fighting
+or cock fighting is entirely legal. So, I don't know
+how you distinguish a -- a movie which many people think
+that violence in movie brutalizes people and causes
+violence in people's action.
+Why couldn't Congress, persuaded by these
+people say, you know, you can't have -- cannot depict
+torture? You know, these horror films that come out
+around Halloween, you can't depict that anymore. What
+is the difference between that and what you have done
+here?
+MR. KATYAL: So dog fighting is illegal in
+all 50 states along with crush videos. I don't think
+that -- there may be --
+JUSTICE GINSBURG: But it isn't -- it
+isn't -- illegal in Japan, and part of the video here
+were dog fights in Japan; legal where it occurred, no
+different from bull fighting.
+MR. KATYAL: Right. This Court has dealt
+with that in footnote 19 of Ferber in which it said that
+just because something is legal somewhere else, it's
+often very hard to figure out where the underlying
+material is made. It doesn't have a GPS component.
+JUSTICE GINSBURG: But that wasn't --
+JUSTICE ALITO: Justice Scalia spoke about
+the aficionada of Spanish bullfighting. Suppose that I
+am an aficionado of the sort gladiatorial contests that
+used to take place in ancient Rome, and suppose that
+some -- Rome or some other place decides that it wants
+to make money by staging these things and selling videos
+of them or broadcasting them live around the world. Do
+you have any doubt that that could be prohibitive?
+MR. KATYAL: This is -- I'm sorry if I'm not
+following the hypothetical. This is historical --
+JUSTICE ALITO: A gladiatorial contests
+where the gladiators fight to the death.
+MR. KATYAL: Right.
+JUSTICE ALITO: Do you have any doubt that
+that could be prohibited?
+MR. KATYAL: Well, it sounds like it would
+fall under the historical exemption, at least in the
+hypothetical as you have raised it. So, it wouldn't be
+prohibited by section 48 --
+JUSTICE SCALIA: Who knows.
+JUSTICE ALITO: No, no, not under this
+statute, under a different statute.
+MR. KATYAL: Well, I think that -- I think
+that there again, it would raise some First Amendment
+interest in suppressing historical -- historical
+information.
+Now, Justice Scalia, you said who knows. I
+think the answer to that is that this statute places the
+burden of proof on the government in order to -- in
+order to prove that there is no historical or
+educational value.
+JUSTICE SCALIA: If you dress up like an
+ancient Roman, the whole thing is of historical
+interest?
+(Laughter.)
+JUSTICE SCALIA: Is that it?
+MR. KATYAL: Justice Scalia, I do think that
+is the Court's own jurisprudence with respect to, for
+example, obscenity and child pornography, both of which
+this Court has accepted precisely those types of
+exceptions.
+JUSTICE SCALIA: A different category. That
+is traditional First Amendment law that obscenity is not
+protected. And child pornography, as far as I am
+concerned, and I think as far as the Court is concerned
+is obscenity.
+MR. KATYAL: Well, I don't believe the Court
+has actually read child pornography to be obscenity.
+The rationale of Ferber --
+JUSTICE GINSBURG: Mr. Katyal, there is
+something quite different between Ferber, because the
+abuse of a child is occurring at the very time. As I
+understand it, Mr. Stevens was not a promoter of dog
+fights. He was just filming them. And so the -- the --
+the simultaneous abuse of the child, it occurs only
+because the picture is being taken. The dog fight goes
+on whether Mr. Stevens is there with his camera or not.
+MR. KATYAL: Let me say two things about
+that. First Mr. Stevens, of course, even in the Japan
+videos you mentioned, he sent his dogs to Japan to -- to
+fight. And this statute encompasses real time
+transmissions of --
+JUSTICE GINSBURG: Where it was legal for
+him to do that.
+MR. KATYAL: It was, just -- again, like
+child pornography and the like. The second --
+JUSTICE GINSBURG: It even -- what I would
+like you to confront is that the very taking of the
+picture is the offense. That's the abuse of the child.
+The abuse of the dog and the promotion of the fight is
+separate from the filming of it.
+MR. KATYAL: I agree with that. And I don't
+think that's what underlay either this Court's Ferber
+decision or the free speech coalition. The move that
+Ferber makes is to say that the legislature can target
+the underlying loaded production, so long as it leaves
+alternative mechanisms for that same exact message to be
+spoken. And this statute does that. Mr. Stevens can
+produce the exact same message, just as long as he
+doesn't involve the torture or mutilation to an actual
+living animal. And to compare this --
+JUSTICE SCALIA: His message is that getting
+animals to fight is fun. That's his message.
+MR. KATYAL: And Congress hasn't stamped
+that out.
+JUSTICE SCALIA: To say he -- you know, he
+can convey that message in some other way, how else does
+he do it?
+MR. KATYAL: With simulated messages, the
+written word. He has written an entire book about that.
+He has a whole variety --
+JUSTICE SCALIA: Simulated dog fights would
+be okay under this statute?
+MR. KATYAL: Simulate -- absolutely. This
+statute leaves that in place, Justice Scalia. That's
+the key to understanding why this statute is not like
+the traditional statutes that come before this Court in
+which the government asserts some paternalistic interest
+and says viewers can't see this because of the offense
+of the message.
+This statute has nothing to do with the
+offense of the message. It has to do with trying to dry
+up an underlying market for animal cruelty.
+If the there are no questions, I would like
+to reserve the balance of my time.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Ms. Millett.
+ORAL ARGUMENT OF PATRICIA A. MILLETT
+ON BEHALF OF THE RESPONDENT
+MS. MILLETT: Mr. Chief Justice, and may it
+please the Court:
+It is not the exact same message, if you are
+forced in a popular debate that is going around this
+country now about the treatment of animals. To require
+one side to engage -- to use simulated images, which is
+exactly what the government's reply brief at page 3
+insists upon, while those who want to ban conduct are
+allowed to use real images. That puts the government's
+censorial thumb on the scale of public debate.
+JUSTICE ALITO: What about crush videos,
+which apparently were the focus of Congress's attention
+when it drafted these? Now, I suppose by an analogy to
+what Justice Scalia just said about the message of dog
+fighting videos, the people who produce crush videos
+think they have a message, and the message is that this
+is -- this is sexually exciting or it's exciting in some
+way to see a woman in high heeled shoes crushing a
+little animal to death.
+Do you think that is constitutionally
+protected?
+MS. MILLETT: I think -- I think there's
+a -- that a properly drawn law could very well, at least
+in my humble opinion, this Court would have to decide,
+survive strict scrutiny.
+There is also, I suppose, some argument
+whether it would fit into -- you wouldn't need strict
+scrutiny, you would fit it into an unprotected category
+of speech like obscenity or it would be the production
+issue that would -- like you have in Ferber.
+But what -- beyond that I do think we need
+to keep in mind a couple of things --
+JUSTICE ALITO: You are not -- you are not
+even willing to say that that could be prohibited?
+MS. MILLETT: No, no. I think -- I'm saying
+that there are three alternative ways in which to get to
+it. My first if one is that not this statute, but under
+a properly drawn statute --
+JUSTICE ALITO: Under a properly drawn
+statute --
+MS. MILLETT: -- that might survive
+scrutiny. I'm not sure you would --
+JUSTICE ALITO: Might. I would really like
+you to tell me whether it would; whether you are willing
+to concede. Because we are trying to determine whether
+this is overly broad. And this is the category of
+activity that Congress particularly targeted. So to me
+at least it's important to know whether at least as
+applied to what Congress principally had in mind, the
+statute could -- could pass constitutional muster. If
+it were, you know, as applied.
+MS. MILLETT: I don't -- I don't want to,
+say this statute, because I don't think this statute --
+but if the statute said, this -- I think this Court
+disagree -- it disagrees with me sometimes -- but I
+think this could pass constitutional muster. A statute
+that says the patently offensive intentional torture and
+killing of an animal for -- designed to appeal to the
+prurient interest for the purpose of producing the
+image, I think that would satisfy -- I think it would
+satisfy strict scrutiny. The Court might also decide
+that it's close enough to obscenity or it's like the
+Ferber production rationale. That's my position; there
+are sort of three ways it could be analyzed, a statute
+like that.
+That's not this statute and I don't think we
+can say that this statute, because Congress has the
+authority to reach something, that when it throws a
+blanket net as wide as this one has that this means this
+statute is the mechanism, a lawful mechanism for getting
+--
+JUSTICE KENNEDY: I have one more -- one
+more question along the lines of Justice Alito. Forget
+this statute. Under a properly drawn statute, suppose
+that bull-fighting or pitbull-fighting is unlawful in
+every State. Could a theater have a live broadcast of a
+pitbull fight in Japan and charge ten dollars? And
+let's add the hypothetical fact that a lot of the
+revenue goes back to Japan and promotes more
+bull-fighting. Could a properly drawn statute prohibit
+that? And then perhaps Justice Scalia, Alito, has a
+follow-up question on his own hypothetical. Could a
+properly drawn statute prohibit that, that speech?
+MS. MILLETT: A properly drawn statute with
+the requisite congressional findings or record of a need
+to attack -- it sound to me like this is a need to
+attack production. As in child pornography, the fact
+that the image taking is legal overseas does not mean
+that it can't be prohibited here. And if you had the
+type of record of a statute that says we want to stop
+the production; it's not the content, it is the
+production, as this Court explained in Free Speech
+Coalition for Child Pornography.
+But that is a statute that then wouldn't
+have -- either you would have to decide which things are
+in and out -- if you started saying animal cruelty
+production, but we we'll let the bullfights in but the
+pitbull fights out and the cock fights, then you'd have
+problems.
+JUSTICE KENNEDY: We are asking whether or
+not that specific instance could be prohibited under a
+properly drawn statute, just like Justice Alito's
+hypothetical was under a properly drawn statute you
+could prohibit the conduct, the speech broadcast in that
+conduct.
+MS. MILLETT: The theory -- I mean,
+ultimately this Court would have to decide whether
+Ferber is limited to an obscenity that's historically
+unprotected by the First Amendment.
+JUSTICE KENNEDY: So your answer to my
+hypothetical is yes it could be prohibited under a
+properly drawn statute?
+MS. MILLETT: If this Court -- two things.
+It would have to be a very, very narrowly drawn statute,
+I think going to the production theory like Ferber; and
+the question I think before this Court would be, given
+the nature of the harm that presumably would be found,
+the nature of the market, the synergistic effect, where
+the -- I am assuming the findings here would be that the
+crime and the image are one and the same, inextricably
+intertwined -- then maybe, although I still think it
+would be a bit harder because we are dealing with the
+First Amendment here. We don't make it up as we go
+along. At the time that the First Amendment was written
+dog-fighting was legal in this country.
+JUSTICE BREYER: But the point -- the point
+I guess is when you say yes to this, what you are
+thinking is that, just as real obscenity when depicted
+does nothing communicative but rather appeals to the
+instinct of lust, so Congress could find a category of
+things that do not communicate, but appeal to the
+instinct of sadism; and that is true when other
+creatures are killed for the pleasure of the people who
+want to see them killed.
+Now, that's what you are saying. Now -- and
+I think maybe that's true. We don't have to decide
+that, perhaps. But the government says that is this
+statute, that is this statute read in light of its basic
+intent, and it is up to the Court to interpret it so as
+it achieves that objective. And you say that's not
+possible. Why not?
+MS. MILLETT: Two things. First of all,
+there is interpreting and then there is alchemy, and I
+think this statute requires alchemy. This is Reno
+versus --
+JUSTICE SCALIA: Requires?
+MS. MILLETT: Alchemy, alchemy.
+JUSTICE SCALIA: Oh.
+MS. MILLETT: There's construction of --
+JUSTICE SCALIA: It's such an unusual word.
+I haven't heard it in a legal argument in a long time.
+MS. MILLETT: We don't often get statutes
+that are so far off base that we're going, I think in my
+opinion, so far beyond construing ambiguity and doing
+instead what was asked of this Court and the Court
+declined in Reno v. ACLU, and that is to write the
+statute for Congress.
+The ambiguity, as, Justice Scalia, you
+explained -- you would have to excise this statute in
+and out, sever so many things. I don't know what you'd
+have left unless it's the statute I posited to Justice
+Alito, which might have a couple of words that overlap
+with this statute. But that is not statutory
+construction. This Court's job is not to write the
+statute for Congress.
+And also keep in mind, in the past this
+Court consistently under the First Amendment has
+required, not just the right words, but a record from
+Congress. In the First Amendment area we can't just
+posit the problems; we have to really have confidence
+that --
+JUSTICE GINSBURG: Does this -- would this
+record support any ban? I mean, there was a real
+concentration on crush videos. So there is that. Is
+there anything else in the current record other than the
+crush videos?
+MS. MILLETT: No, there is not. And in fact
+they spent their time, as we said in our brief -- and
+this is perfectly accurate. Members of Congress, to the
+extent they discussed other things, kept saying in the
+floor debates: That's not in; bull-fighting's not in;
+dog-fighting's not in; hunting's not in; these things
+are not in. So they mentioned them in the context of
+saying these are not in.
+CHIEF JUSTICE ROBERTS: Counsel, I think --
+I think Ferber analytically is the hard case for you,
+because the Court in Ferber did said -- and I am quoting
+from page 763: "The evil to be restricted so
+overwhelmingly outweighs the expressive interest at
+stake." That was their articulation of the test. Now,
+why shouldn't we apply that test to this statute?
+MS. MILLETT: I don't think that is a legal
+test that is adopted under the First Amendment. I think
+that is a description of the types of categories that by
+history and tradition had been outside the First
+Amendment and the rationale for why Ferber came in,
+which was, yes, there's overlap, but I think it actually
+bridges the world of obscenity and virtual incitement
+because you have the crime and the image one and the
+same wrapped up together.
+There is in this instance -- there are about
+five different ways that this is different from child
+pornography. The first is that there has never been any
+finding, any assertion, even by the government, that
+creating the image is the primary or sole motive for
+creating these images. It's not if you lock Mr. Stevens
+up -- if you throw away every dog-fighting video in the
+country tomorrow, dog-fighting will continue. It -- no
+one thinks that it will go away.
+JUSTICE GINSBURG: I think the government
+does. It says that is how you dry up the market.
+MS. MILLETT: But you don't dry up the
+market by having a sweeping value exception like they
+have here. If Congress wants to dry up the market, what
+Ferber says is there's two things that have to happen:
+One, you've got to prove causation. You can't simply
+say, we got a problem, let's go first to the speech and
+cut that off as our first prosecutorial tool when we are
+not even ready to make the crime itself a felony, but we
+will make the speech a felony.
+You've got to prove causation, that these
+images cause the harm, they are one and the same with
+the harm as they are with child pornography. You also
+have got to prove that Congress is acting in an
+evenhanded way. It is not leaving, as Justice Scalia
+said, appreciable damage to the interests that its
+asserting uncovered by its many, many exceptions.
+JUSTICE STEVENS: May I ask you a question
+about your view of the breadth of the statute. I didn't
+yet really get an answer out of your opponent. Do you
+think the statute would prohibited depictions of hunting
+if it involved killing in the District of Columbia,
+because hunting as I understand it is not allowed in the
+District of Columbia, it's prohibited. Does that mean
+that any depictions of hunting that show the killing and
+cruelty are prohibited by this statute?
+MS. MILLETT: Well, they are prohibited
+subject to the value police and the value trial like we
+had here, which I think is antithetical to the First
+Amendment. It's a very different rule under the
+obscenity statute. So it would all depend on whether a
+jury decided that that had serious value, which was
+defined as significant and great import in this
+particular case. That would decide whether --
+JUSTICE SCALIA: It's just not significant
+value; significant artistic, educational. What are the
+others? Scientific?
+MS. MILLETT: Scientific, social, artistic,
+journalistic --
+JUSTICE SCALIA: Strictly entertainment
+value doesn't count, does it?
+MS. MILLETT: No, it does not.
+JUSTICE SCALIA: And most of the hunting
+videos I have seen people watch for the entertainment.
+They like to see a hunt.
+MS. MILLETT: I think that's exactly right
+and that's what the Safari Club and the NRA have told
+us.
+CHIEF JUSTICE ROBERTS: Well, I mean, but
+this definition or these exceptions are not drawn out of
+thin air. They are drawn from Miller, and the Court in
+Miller recognized that they were significant in causing
+the restriction of obscenity to pass constitutional
+muster.
+MS. MILLETT: First of all, this is about
+-- this is Miller doubled -- there's a lot more here
+-- categories here. But it's a very different role
+that value plays under Miller in obscenity. First of
+all, this Court made quite clear again in Reno v. ACLU
+that Miller only works if you have all three prongs.
+You can't just use the serious value prong to take
+care of your constitutional problem. Second, you were
+dealing in an area that by history and tradition is
+unprotected speech. Milller --
+JUSTICE ALITO: But in determining whether
+this is over -- overly broad, do we -- do we think of all
+of the hypotheticals that we possibly can think of that
+might fall within this statute: somebody hunting in the
+District of Columbia, somebody producing fois gras with
+a goose and say, "Well, we've thought of a lot of
+hypothetical situations where this statute might apply
+and therefore it's overly broad"? Or do we look at
+what's going on in the real world?
+MS. MILLETT: I think what you do is you
+look at text of the statute, and then you ask yourself,
+how much of a strain is it to come up with a factual
+pattern that will fit into it? In Williams you had to
+first of all read the --
+JUSTICE ALITO: So we really think of all
+the hypotheticals. That's how you think we determine
+the constitutionality of this under the overbreadth
+doctrine?
+MS. MILLETT: I think at some level Congress
+has a job to write with a scalpel and not a buzz saw in
+the First Amendment area, and the only way to ensure
+that happens is to look at the text and say, does this
+text fit the purpose, does it fit what the Constitution
+will allow? And when the --
+JUSTICE ALITO: If it's the fact that during
+the ten years when this statute has been in effect there
+has been no decrease in hunting videos and hunting shows
+on TV, and all of the rest -- the only perceptible
+change in the real world is that these -- is that the
+market for crush videos dried up, at least until the
+Third Circuit's decision, does that have any relevance?
+MS. MILLETT: I don't -- I don't think it
+does for this reason. People -- and this gets a little
+bit to Justice Kennedy's vagueness concern. People have
+a right to know how to -- outside the courtroom how to
+conform their conduct to the law. If I got a call from
+the general counsel of Outdoor Channel or someone making
+hunting videos and they said, "Does this fall within
+this statute," I wouldn't have to come up with a
+strained factual scenario. I would say yeah, it falls
+squarely in, subject to a prosecutor or jury anywhere
+where you market in this country, deciding that it has
+serious -- one of the adjectives -- value. I would have
+to say that to that person, and that would be accurate
+legal advice.
+JUSTICE SCALIA: It could be that the reason
+hunting videos are still out there is that the producers
+were quite confident that this Court would not allow
+them to be prohibited on the base of a statute such as
+this.
+MS. MILLETT: One would hope, and I think
+quite frankly the NRA has been quite honest when it
+recently said you know, this -- this is not an actively
+enforced statute. People were shocked to learn -- to
+become aware of it.
+Now maybe everyone's supposed to know the
+existence of laws, but I think the reality is that once
+people looked at what this said, they became very, very,
+very concerned, and I think when you're talking about a
+criminal prohibition here -- this is not a civil suit,
+this is criminal prohibition with severe penalties. The
+penalties for speech are higher than most animal cruelty
+statutes. And the whole point of the criminal law is to
+deter conduct and to make people stay wide of the
+margins here, wide of the borders.
+CHIEF JUSTICE ROBERTS: I --
+MS. MILLETT: You can't do that in the First
+Amendment.
+CHIEF JUSTICE ROBERTS: I understood your
+answers to Justice Alito to acknowledge that there would
+be situations where this statute could be
+constitutionally applied, or as you put it, you could
+draft a statute.
+MS. MILLETT: Not this statute.
+CHIEF JUSTICE ROBERTS: Not this statute.
+But --
+MS. MILLETT: That's different. I think
+that's very different.
+CHIEF JUSTICE ROBERTS: But if in fact there
+were situations where we thought a narrowly drafted
+statute could be applied to particular instances,
+perhaps the crush videos, perhaps others, why isn't that
+enough to say that this statute is valid on its face and
+then we will consider as-applied challenges?
+MS. MILLETT: I think in the First
+Amendment -- I'm not talking -- if I heard you right we
+were not talking about this statute. If you have
+another statute --
+CHIEF JUSTICE ROBERTS: I guess I am just
+trying to get at what your understanding of what the
+test is for overbreadth in this area. How much of an
+area of constitutional application is necessary before
+you decide that a statute is not unconstitutional on its
+face, but will consider as-applied challenges?
+MS. MILLETT: Right. And this Court has
+been clear that the overbreadth has to be both
+quantitative and qualitative. It hasn't set a
+particular ratio. I think this one is easy. We are
+talking about 2,000 crush videos and tens if not
+hundreds of thousands of other images that are captured
+by this statute. I think normally when this Court says
+it wants to -- to apply overbreadth, it has been dealing
+with situations for the most part in two contexts. One
+where Congress has already regulated in an area that is
+unprotected under the First Amendment, unprotected in
+the sense that they are allowed to ban, regulate
+heavily. They are already there, and the question is
+did they draw the margins too broad?
+That is not this case. We are dealing in an
+area that was never until December 1999 barred by
+anybody, never considered to be outside the conception
+of the First Amendment's freedom of speech. The other
+scenario where we see substantial overbreadth is when
+Congress is regulating conduct.
+JUSTICE ALITO: Well, isn't that -- isn't
+that due to changes in technology? Before people could
+show -- could watch videos at home, this sort of thing
+would -- would be very difficult.
+MS. MILLETT: This covers photographs, so
+this would go back as far as photographs. I'm not sure
+it wouldn't cover a sketch artist or a hieroglyphic, for
+all I know. All it requires is that it be a depiction
+in some form.
+JUSTICE ALITO: And is there -- in the real
+world is there a market for sketches of dog fights?
+MS. MILLETT: I don't know if there's a
+market --
+JUSTICE ALITO: People get a thrill from
+seeing that?
+MS. MILLETT: With respect, I can't answer
+that. I'm not -- I don't know if there is a market for
+dog fighting videos. There is a few, but it depends on
+what you mean by a market. Will somebody buy something?
+I guess somebody in this world will buy anything.
+JUSTICE GINSBURG: Is there any indication
+that there has been any dry-up of the market for dog
+fights as a result of this statute?
+MS. MILLETT: There --
+JUSTICE GINSBURG: Justice Alito suggested
+that until the Third Circuit's decision, that there were
+fewer crush videos produced. But with respect to dog
+fights, animal fights, is there any indication that
+there has been -- there have been fewer animal fights as
+a result of this statute?
+MS. MILLETT: None whatsoever, and in fact
+what we've seen is robust enforcement, and we cite the
+article in our case, we have seen robust enforcement;
+there was just an arrest a few weeks ago for I think a
+couple hundred people involved in dog fighting rings.
+So the dog fighting rings are going on unabated and they
+are getting found and discovered and prosecuted
+successfully, and in fact the images sometimes help with
+the prosecution.
+This is a place, when we start talking we
+are going to take something outside the First Amendment,
+one of the other things that unifies the categories of
+speech outside the First Amendment is a judgment that
+more speech doesn't work. This is an area where we know
+speech works powerfully. Speech about these ugly images
+produced this statute. It informed people. Unlike
+children and child pornography, people need to see
+images to understand what's going on with animals, and
+to make these important decisions and engage in these
+important debates that our society is having.
+JUSTICE KENNEDY: Suppose an argument --
+excuse me.
+Suppose an argument had been made to the
+Court in Ferber, that, you know, it's really good for
+people to see molestation of children because then they
+will be outraged and they will enforce the statute more.
+I just can't see the Court accepting that argument for a
+single -- for a minute.
+MS. MILLETT: I -- I agree. I --
+JUSTICE KENNEDY: But that's the argument
+you are making.
+MS. MILLETT: No, no, I think it's -- I
+think it's -- I'm trying to point out that this is in
+fact a contrast.
+First of all -- a contrast between the two
+situations between dealing with the subject, a very
+topical subject that --
+JUSTICE KENNEDY: Well, it seems to me that
+we ought -- if there is a significant chance that
+Congress can affect an illegal market, an illegal
+activity by a statutory regulation we ought to defer to
+Congress on that ground. I think you still have speech
+arguments.
+MS. MILLETT: I --
+JUSTICE KENNEDY: On this economic
+causation, I think we have to defer to Congress largely.
+JUSTICE SCALIA: I really think you should
+focus, not on the educational value for -- to make
+people hate bull fighting and things, but on quite the
+opposite, it seems to me. On the right under the First
+Amendment of people who like bull fighting, who like dog
+fighting, who like cock fighting, to present their side
+of -- of the debate.
+And unless it's a subject like obscenity,
+which from the beginning has not been considered
+protected speech, it seems to me that side of the debate
+is entitled to make its point as -- as forcefully as
+possible. That's it seems to me what the problem is
+here. Not --
+MS. MILLETT: I think that is 100 percent
+right.
+JUSTICE ALITO: Well, if that's 100 percent,
+then what about people who --who like to see human
+sacrifices? Suppose that is legally taking place
+someplace in the world. I mean, people here would
+probably love to see it. Live, pay per view, you know,
+on the human sacrifice channel.
+(Laughter. )
+JUSTICE ALITO: They have a point of view
+they want to express. That's okay?
+MS. MILLETT: The problem with this statute
+is that presumably that statute would be even-handed and
+would it not say if the sacrifices were religious, or
+journalistic, or historic. Or --
+JUSTICE SCALIA: You can create a lot of
+First Amendment horribles. What about -- what about a
+new Adolf Hitler? Can we censor any depiction of that
+new Adolf Hitler and the horrible things that he is
+proposing, including extermination of a race? Is that
+proscribable under the First Amendment? Is that any
+less horrible than the human sacrifice contemplation?
+MS. MILLETT: No, Justice Scalia. Again, I
+agree, because what the First Amendment says is we
+allow --
+CHIEF JUSTICE ROBERTS: I'm sorry; you agree
+you can prohibit it, or not?
+MS. MILLETT: I agree that, just because
+something is repulsive, incredibly offensive or maybe
+even involves some harm to people does not mean that --
+depictions of it that do not cause that harm, that are
+not integrally tied to it, that are not the purpose and
+animating motivation for that harm cannot be proscribed.
+JUSTICE KENNEDY: What was your answer to
+Justice Alito's hypothetical about human sacrifice?
+MS. MILLETT: The -- if -- at a minimum,
+Congress has got to be evenhanded. The point there is
+that you are trying to say we are concerned about the
+creation for purposes of the image. We are concerned
+about what the government calls the "snuff video
+situation."
+This whole reason that this is created is
+for purposes of creating the image. If you establish
+the causation -- and I don't think we -- the Court does
+just defer to Congress on these things.
+It looks carefully at factual records in --
+as it has in the child pornography are under the First
+Amendment, Justice Kennedy. If Congress proves the
+causation and shows that it is -- it's the least
+restrictive means -- compelling and least restrictive
+means, the strict scrutiny that Congress -- the
+government never wanted this statute to march through.
+JUSTICE ALITO: And what if there is no
+chance of drawing up the activity? Suppose you have the
+ethnic cleansing channel on cable TV, and there is no --
+this is taking place in a country that's beyond our
+power to influence. Congress couldn't prohibit that?
+MS. MILLETT: The -- the fact that conduct
+is repulsive or offensive does not mean we automatically
+ban the speech. You would have to have -- it would have
+to follow this Court's patterns, either it would be an
+even-handed ban on production, under the Ferber theory,
+or you would have to establish if those images were
+never within the constraints.
+JUSTICE BREYER: I think what -- I think
+what's going on is -- is not -- your conflating two
+things. One is you are trying to produce education
+about something that has no communicative value.
+In so far as you are trying to make an
+argument or educate, of course, it is protected, but the
+government, here, is saying I think the statute is
+intended to forbid a different thing entirely, and it's
+hard to draw a line.
+Maybe it's impossible; but promoting a thing
+which communicates nothing, but appeals to people's
+worst instinct, that is not to advocate it or not to
+advocate it.
+It is to try to make money out of it, and
+that's what they think, I believe, the statute is aimed
+at.
+MS. MILLETT: Well --
+JUSTICE BREYER: So that's why they have the
+journalistic exception.
+MS. MILLETT: The -- when it comes to
+promoting illegal conduct, we have the Brandenburg Test,
+and, if you are close enough to be inciting it, to be
+causing it -- which I think is where Ferber, largely,
+is. They are just intertwined. That's one thing. But
+if it's not -- just because we have the really
+disgusting, despicable channel doesn't mean that we
+automatically ban it. Maybe it will be educational.
+Maybe we will learn from it.
+I think Congress is going to have to show,
+before it goes to speech as its first tool of repression
+to attack conduct with, very specialized, narrow
+circumstances.
+JUSTICE BREYER: We are going to advertise a
+drug that is known to kill people.
+MS. MILLETT: That is commercial --
+JUSTICE BREYER: We are advertising --
+MS. MILLETT: That is commercial speech.
+The fact that you want to get paid for speaking does not
+make it commercial speech.
+Samuel Johnson, himself, said that no one
+but a blockhead ever wrote, except for money. I don't
+necessarily agree with that, but it is -- it would be a
+shock to him, to Thomas Payne, who sold his tracks of
+"Common Sense," that the First Amendment would go all --
+leap all the way from commercial speech and say, just
+because you are doing it for money, you need to make a
+buck.
+Your Honor --
+JUSTICE SCALIA: I would have thought that
+your response to Justice Breyer's comment about catering
+to people's worst instincts in the area of the First
+Amendment, at least, would have been that it's not up to
+the government to decide what are people's worst
+instincts.
+If -- if the First Amendment means anything,
+that's what it means.
+MS. MILLETT: Well, it means --
+JUSTICE SCALIA: It's not up to the
+government to tell us what our worst instincts are --
+MS. MILLETT: It means --
+JUSTICE SCALIA: Except for those areas that
+have traditionally been outside the area of -- of
+protected speech, and -- and once you allow this one,
+what other -- what other base instincts do people have,
+besides this one?
+One can contemplate a lot of other areas,
+where government could say, You are appealing to
+people's worst instincts, and, therefore, the -- the
+movies cannot be made.
+MS. MILLETT: I agree, Justice Scalia. The
+answer to that instance is more speech under the First
+Amendment. The answer --
+CHIEF JUSTICE ROBERTS: So I'm sorry. I'm
+still looking for your answer to Justice Alito's
+hypotheticals.
+Can Congress ban the human sacrifice channel
+or not?
+MS. MILLETT: I -- the -- I think -- I -- I
+will start by saying -- no. Let's start and see.
+Maybe -- maybe it won't work, but I think --
+CHIEF JUSTICE ROBERTS: You are unwilling --
+you are unwilling to say that Congress can pass a law,
+even-handed, straightforward, you cannot have a human
+sacrifice channel.
+MS. MILLETT: If it did, it would have to be
+even-handed and have narrow tailoring, but the problem
+is --
+JUSTICE SOTOMAYOR: What do you mean by
+"even-handed," please? I'm not -- you are using those
+words. What do you mean about "even-handed and narrowly
+tailored"?
+MS. MILLETT: When -- when the attack --
+Justice Sotomayor, when the attack is on the
+production -- if it -- I don't mean to be -- I want to
+be direct in answering.
+It depends on two things. If the theory is
+we don't like the content, we don't want people to see
+the content, I don't think Congress can do it. I think
+the answer is more --
+JUSTICE GINSBURG: So that goes with snuff
+movies -- snuff movies. I don't know if they really
+exist, but they have been described.
+MS. MILLETT: No one has ever found one,
+but the point I'm trying to get -- there are two
+theories --
+JUSTICE SCALIA: Adolf Hitler, can we keep
+him off the screen, too?
+MS. MILLETT: It's a dangerous proposition.
+That's what the First Amendment says we won't do. There
+is -- so if it's just that we don't like the content,
+outside obscenity, we -- Congress doesn't get to ban it.
+The answer is more speech.
+If you have got --
+CHIEF JUSTICE ROBERTS: So we don't like --
+we don't like human sacrifice, and so Congress passes a
+law saying you cannot have a channel that shows human
+sacrifice -- real human sacrifice. You think that is
+unconstitutional?
+MS. MILLETT: I think, if the point is that
+we don't like the could content, we don't -- we want to
+protect people from these images, the First Amendment
+says a lot about that.
+If it's a different -- snuff video, because,
+like child pornography, like I said, it's not the
+content that we are concerned about, where obscenity is
+a pure content baseline.
+It is -- we got to stop -- we can't stop the
+conduct. The conduct and the speech are inextricably
+intertwined. The only way we can stop human sacrifice
+is to stop the image because the sacrifice is solely
+for the image.
+CHIEF JUSTICE ROBERTS: Well, right, but, I
+mean, the hypothetical is we can't do anything about it.
+It is beyond our reach to stop the human sacrifice
+taking place wherever in the world, so that that
+argument -- the Ferber argument is off the table.
+In that situation, you think it's
+unconstitutional for Congress to pass a law saying there
+can be no human sacrifice channel.
+MS. MILLETT: I -- I think the fact that --
+I think it would be a lot harder under the First
+Amendment to say why Congress is doing that.
+If it's not something -- if it's not conduct
+it has any authority to regulate, I don't -- then the
+only compelling interest is -- I'm trying -- I mean, I
+don't want to watch this channel, and people should
+fight with their wallets and their votes and not support
+these things, but -- I'm sorry.
+May I finish?
+CHIEF JUSTICE ROBERTS: No. Go ahead.
+MS. MILLETT: But, under the First
+Amendment, if the only rationale Congress is giving is
+we are here to shield your eyes for you, we will make
+this censorial decision, it has got to find some basis
+to think that was never freedom of the speech under the
+First Amendment, in the way that obscenity was.
+You don't get to make it up as you go along.
+We are interpreting a constitution.
+CHIEF JUSTICE ROBERTS: Thank you, Counsel.
+Mr. Katyal, you have three minutes
+remaining.
+REBUTTAL ARGUMENT OF NEAL K. KATYAL
+ON BEHALF OF THE PETITIONER
+MR. KATYAL: There is one analytic move
+Congress made in Section 48, which is simple and
+obvious, and it explains why both the human sacrifice
+channel is constitutional, as well as Section 48 itself.
+That is the logic of Ferber. When Congress
+tries to dry up a market for underlying cruelty by
+targeting depictions and leaves alternative mechanisms
+for that expression in place, the legislature has
+latitude.
+When the statute is not aimed at the
+communicative impact of the message, like the Hitler
+video, but, rather, is aimed at reducing underlying acts
+of exploitation, that is an area which Congress has
+great leeway.
+JUSTICE SCALIA: I don't understand. Are
+you saying, since there is no human sacrifice in this
+country and no market to be dried up, the videos would
+be okay?
+MR. KATYAL: I'm saying that, if Congress
+identified a market and if a video -- if the snuff video
+market was driving, somehow, people to get killed,
+Congress would be fully within its power to regulate it.
+JUSTICE SCALIA: Yeah; but we don't have any
+human sacrifice. Nobody's doing that stuff. So you
+could not proscribe the human sacrifice channel.
+MR. KATYAL: That's precisely correct, but,
+here, Congress did find an overwhelming market in animal
+cruelty, and the State attorney's general that filed a
+brief before you saying that Section 48 is a success
+story, that it dried up 3,000 crush videos, that it has
+reduced the market for animal --
+JUSTICE GINSBURG: How many prosecutions
+have there been for crush videos?
+MR. KATYAL: There -- there haven't been any
+prosecutions for crush videos, and I think the reason is
+because the market dried up very quickly after the
+enactment of Section 48.
+CHIEF JUSTICE ROBERTS: Did I just
+understand you to agree with your colleague on the other
+side, that Congress could not ban the human sacrifice
+channel because there would be no connection between
+drying up the underlying activity?
+MR. KATYAL: Oh, no. If there is an
+underlying argument --
+CHIEF JUSTICE ROBERTS: No. I'm saying there
+is no connection. We can't reach the activity where it
+is taking place.
+MR. KATYAL: I think that does start to
+reach into questions about obscenity and expressive
+impact on viewers, which is not before this Court.
+Congress is not resting its judgment here on something
+saying these images are repulsive and can't be seen.
+Rather, it is saying --
+CHIEF JUSTICE ROBERTS: So if Congress is --
+and we will give you sufficient rebuttal time.
+So, if Congress is saying, Look, we just
+don't like what -- is being shown on the human sacrifice
+channel, we don't want people to see it, they can't do
+that?
+MR. KATYAL: Again, that raises a whole
+different set of questions under obscenity and
+expressive impact that isn't before the Court here.
+Now, if I could return to, Justice Stevens,
+you had he wasn't clear on the position on hunting. I
+want to be very clear on this.
+Hunting, like the other hypotheticals, is
+not covered by section 48 for two reasons: First, the
+statute -- the statute's term "animal cruelty" should be
+defined to encompass torture, mutilation and the like,
+and not simple acts of ordinary hunting, most of which,
+by the way, are legal anyway under animal cruelty.
+JUSTICE SCALIA: How about the statute's
+term, "kill" --
+MR. KATAYAL: And again --
+JUSTICE SCALIA: -- what should that be
+interpreted to mean?
+MR. KATYAL: And again, Justice Scalia, as I
+said before, I think that comes within a definition of
+animal cruelty. That's the term being defined. And
+just as this Court has defined, for example, crimes of
+violence to exclude certain things that otherwise would
+be within the statute, such as drunk driving offenses in
+the context of the IMA, a similar result is possible
+here, particularly because of the doctrine of
+constitutional avoidance.
+And, so, we are saying that if this Court
+were to write an opinion that made clear that these
+things are outside of the purview of section 48, there
+would be no chilling effect, and you wouldn't have to --
+JUSTICE STEVENS: Wait, I want to just be
+sure I understand you. Even if the hunting depiction is
+very offensive and cruel and all the rest, and that the
+cruelty to the animal using bow and arrows or knives or
+something, you say it's not -- and even if it's illegal
+in this particular jurisdiction, you say the statute
+still does not apply at all?
+MR. KATYAL: It would have to be for a
+reason of animal cruelty or something like torture,
+mutilation and the like. So there may be certain
+hunting examples that fall within it --
+JUSTICE STEVENS: But the hunting would
+never qualify, because the hunter's motive is benign; is
+that what you are saying?
+MR. KATYAL: No, it has nothing to do with
+the motive, it has to do with what happens to the
+animal. And, so, there could be images of hunting which
+are not really hunting, like the images in this case.
+JUSTICE SCALIA: If you shoot a little low
+and wound the animal, that is cruelty even though you
+didn't intend that.
+MR. KATYAL: Justice Scalia, with all due
+respect, I think the images in this case and what
+Congress was getting at was not shooting a little low.
+These are the most horrific images that you can imagine
+of cruelty to living animals. And that's what
+Congress --
+JUSTICE SCALIA: But what about your
+response to Justice Stevens on the hunting matter? I
+understand Congress wasn't directed at --
+MR. KATYAL: And my point if those -- if
+there are those cases at the area -- at the gray areas,
+that is perfect for as applied challenge, but it's not
+what this Court -- this Court shouldn't be blessing the
+Third Circuit's decision to in toto invalidate an entire
+statute which has produced -- which has produced 3,000
+crush videos and the like.
+CHIEF JUSTICE ROBERTS: Thank you, counsel,
+both counsel, for very able presentation. The case is
+submitted.
+(Whereupon, at 11:06 a.m., the case in the
+above-entitled matter was submitted.)
+ago 3:10 7:1 Amendment's 1:14 associated 17:22
+60:19 agree 25:22 45:6 American 7:1 41:25 as-applied 11:14
+26:19 50:17 51:20 analysis 3:15,17 29:8,10 41:5 attack 30:20,21
+ahead 54:25 analytically applies 3:23 attempt 4:24
+aims 20:5 24:8 42:10 59:9 attorney's 56:16
+33:6,6 9:9 10:24 17:8 approved 9:24 automatically
+23:21 27:20 26:6 27:3 28:3 39:4 41:24,25 avoid 13:4
+11:20 30:7,15 33:21 40:20 43:25 51:1,12 56:1 aware 40:13
+48:14 animals 3:22 argument 1:12 B
+45:18 47:21 51:24 27:14 44:20 27:8 28:10 balance 27:5
+57:5,9 allow 11:5 39:7 60:3 33:10 44:23,25 ban 27:17 34:7
+26:5 allowed 27:18 12:21 24:3 57:7 53:11 57:3
+ambiguity 33:13 answering 52:20 arrow 16:9 basic 16:21
+24:18 31:18 anymore 22:10 34:24 13:10
+35:2,5 36:24 apparently artistic 9:21 began 3:17
+42:13 44:13,15 appeal 29:17 21:9 37:5,7 behalf 1:16,18
+24:22 46:3 case-by-case 52:6 53:14 16:2
+bullfight 11:3 10:11 54:7,25 55:9 colleague 57:2
+48:17 12:12 13:9 categories 6:5 child 6:23 9:18 come 22:9 26:22
+15:14,20,22 35:3 38:1 9:19,22,25 38:20 39:22
+bull-fighting 36:5 45:23 44:19 48:8 50:14,20
+59:6 buy 43:16,17 censorial 27:19 Circuit 3:13 7:19,20
+C 16:1,23 58:19 39:14 43:23 32:13 49:4
+19:17,20 call 14:20 15:6 cetera 4:18 50:7 compelling 6:8
+39:19 challenge 14:15 cite 44:4 48:11 54:20
+49:1,18 calls 48:1 60:10 cities 7:2 complicated
+camera 25:7 challenges 11:14 civil 7:3 40:18 21:16
+34:12 careful 11:17 change 39:12 clause 8:12 10:8 concentration
+carefully 48:7 changes 42:24 15:4,6,13 21:7 34:8
+38:10,16 6:14,15,24 7:1 50:1 52:1,9 19:21 38:3 concern 39:17
+7:12 8:24 53:16 54:14,21 42:4 58:2,3,25 concerned 8:4
+14:2,4,13,18 57:4,21 49:22 40:17 47:24,25
+20:17,18 34:20 Chief 3:3,8 6:3 coalition 6:19,20 conduct 7:21
+38:6 41:25 39:25 48:17 crimes 58:18 December 42:18
+4:5,7,7,21 48:25 Court 1:1,12 3:9 cruelty 3:12,21 decides 23:5
+5:2 6:8,20 construction 3:16 6:2,17,17 3:25 4:9,14 5:3deciding 39:25
+8:11 9:2 3:17 33:8,23 6:25 9:24 10:7 8:14,21 9:9 decision 5:14
+11:20 construing 10:9 11:15 10:24 17:8 6:18 8:6 11:16
+20:5 33:13 12:4 14:8,8,22 18:23 19:1,8 18:11 25:24
+21:6 contained 19:23 18:23 19:15 27:3 31:5 39:14 43:23
+22:7 contemplate 20:11 22:20 36:20 40:20 55:4 60:12
+29:6,8 51:16 24:15,20,22 55:19 56:16 decisions 10:10
+32:14 contemplation 26:22 27:11 58:6,9,17 59:6 44:21
+34:3 47:8 28:8 29:13,20 59:11,22 60:3 declined 33:15
+35:23 content 6:10 8:4 31:1,16,22,25 crush 4:10,11,14 decrease 39:10
+39:2 8:6,8 10:14,15 32:23 33:14,14 5:15 8:17 13:8 deer 13:10
+45:17 14:14,14,16 34:1,21 37:20 20:14,15 22:14 defer 45:18,23
+47:23 30:25 52:22,23 38:3 40:6 42:3 27:20,24 34:8 48:6
+53:10,20,25 42:9 45:1,4 34:10 39:13 defined 18:24
+52:1,7,23 54:1 48:5 57:13,25 41:15 42:7 19:15 37:2
+54:13 contents 6:22 58:18,24 60:11 43:24 56:18,21 58:7,17,18
+55:2,15 contests 23:3,11 60:11 56:23 60:14 defining 18:22
+56:1,7 context 18:18,21 courtroom crushing 28:2 definition 18:24
+57:3 21:8 34:17 39:18 crystal 19:21 37:19 58:16
+58:21 courts 21:2 current 34:9 degradation 7:6
+contexts 42:11 Court's 5:22 cut 36:2 degrading 7:10
+contradicted 8:5 25:23 33:23 D 1:16
+9:23 10:23 cover 43:4 damage 36:10 depends 17:21
+45:12 20:2 58:5 dangerous 53:8 depict 7:21
+11:12 crafted 3:11 de 13:12 depicted 32:12
+46:7 correct 5:1,11 created 48:3 16:6 32:6 38:7 6:22 7:4 12:9
+34:1 counsel 21:11 35:15 48:4 dealt 5:4 6:18 depictions 3:12
+55:8 39:20 55:9 47:25 death 23:12 28:3 8:15,20 12:11
+11:14 count 37:10 credit 21:6 46:5,8 36:15,19 47:17
+21:13 country 27:14 crime 19:15 debates 34:15 55:20
+37:22 32:9 35:17 32:4 35:8 36:3 44:22 Deputy 1:15
+35:3 15:21,21,24 educate 49:6 46:24 48:23 explicitly 12:4
+38:24 32:9 35:16,17 16:18,23 24:6 evident 7:23 55:21
+34:16 50:2 ex 17:19 10:13 34:23
+22:11 33:13 50:21 39:9 59:2 26:4 27:12 extensive 4:9
+19:13 dollars 30:11 either 25:23 19:21 27:16 34:14
+23:22 doubled 37:25 31:4 48:22 37:15 extermination
+25:1 doubt 23:8,14 enactment examines 4:1 47:6
+36:24
+41:10,11 drafted 27:22 encompass 5:18 14:1 24:14
+53:23 41:13 58:7 58:18 F
+draw 9:17,17 encompasses examples 59:13 face 3:13 7:24
+drawing 48:15 endless 11:18 35:22 49:19 18:8 41:16
+37:19,20 engage 27:15 excise 33:18 45:11 48:19
+38:13 drunk 58:20 entire 11:20 12:4 fanciful 11:18
+20:12 35:20,21,23 entirely 22:3 9:2,3 10:1 24:20 33:12,13
+58:22 55:19 49:8 13:16 16:22 43:3 49:5
+dry-up 43:19 error 5:22 exemptions 8:12 fasteners 17:24
+20:20 D.C 1:8,16,18 2:5,8 exist 53:2
+E 48:24 experience 12:1 6:13,16,17,17
+27:23 E 2:1 3:1,1 et 4:18 13:23 14:9,10 6:19 22:21
+easy 42:6 ethnic 48:16 explained 31:1
+25:1,23
+46:3
+31:17,24 46:2 47:3,7,10 fundamentally good 45:1 hieroglyphic
+35:5 48:8 50:5,19 7:12 goose 38:14 43:4
+45:1 51:1,5,21 53:9 gotten 13:6 high 28:2
+49:23 53:21 54:16 G government higher 40:20
+55:18 55:1,6 58:5 G 3:1 10:20 24:4 historic 47:1
+26:8 focus 27:21 19:23 39:20 governmental historically
+54:22 45:25 56:16 10:2 31:17
+5:17,20 focusing 4:10 16:6 17:8 27:16,18 35:4 38:7
+22:2,3 fois 13:12 38:13 generate 8:21 GPS 22:24 Hitler 47:4,5
+27:24 follow 48:22 getting 26:7 gras 13:12 38:13 53:6 55:24
+44:7,8 followed 20:13 30:4 44:9 60:1 gray 60:9 holes 20:12
+following 10:1 GINSBURG great 37:2 56:2 home 42:25
+25:4 follow-up 30:16 16:3,14,25 ground 45:19 Honor 18:9
+31:7,7 footage 9:8 22:16,25 24:25 gruesome 17:12 50:23
+footnote 22:21 25:13,17 34:6 guess 12:18 20:4 hope 40:9
+forbid 13:17 35:19 43:18,22 32:11 41:22 horrible 47:5,8
+forcefully 46:9 give 14:1,4 18:6 Halloween Hudnut 7:2
+56:15 8:14 giving 20:22 happens 39:5 54:4,9,14
+32:1 44:9 53:3 23:3,11 22:23 34:20 humane 13:11
+21:23,25 frankly 40:10 35:18 36:1 harm 32:1 36:6 hundred 44:7
+24:18 free 6:19,19 43:3 50:19 36:7 47:16,17 hundreds 42:8
+28:21 25:24 31:1 54:25 55:7 47:19 hunt 37:14
+32:7,8 freedom 42:20 goes 21:20 25:6 hate 46:1 hunter's 59:15
+34:1,3 55:5 30:13 50:5 hear 3:3 13:21 hunting 4:16,17
+36:1 freer 10:12 52:25 heard 33:10 4:19 13:10,10
+37:24 frightful 20:6 going 11:11 41:19 13:10,10,14
+39:4 fully 56:10 27:13 31:24 heavily 42:15 16:8,9,13 17:7
+41:18 fun 26:8 33:12 38:17 heeled 28:2 17:8,10,11
+44:13 fundamental 44:8,13,20 held 21:3 36:15,17,19
+45:12 5:22 49:2 50:4,8 help 44:10 37:12 38:12
+included 15:21 involved 36:16 23:20,21 24:2 15:9,12,24
+58:2,4,8 including 14:8 44:7 24:7,11,12,17 16:5,11,13,16
+47:6 involves 47:16 24:25 25:13,17 17:4,7,13 18:9
+60:6 incredibly 47:15 issue 3:19 9:9 26:7,11,17,20 18:11,17,21
+inextricably J 30:6,7,15 31:9 22:13,20 23:9
+30:12 32:4 54:3 J 1:6 31:11,19 32:10 23:13,16,23
+31:12,20 inferred 11:15 Japan 22:17,18 33:5,7,9,17,20 24:12,22,25
+47:21 influence 48:18 25:9,10 30:11 34:6,19 35:19 25:8,15,22
+information 30:13 36:9,12 37:4,9 26:9,14,19
+14:19 informed 44:18 job 33:23 39:3 38:23 39:8,17 56:7,14,22
+38:11,24 inherent 9:15 Johnson 50:15 40:4,24 41:2,3 57:6,11,23
+58:4 insists 27:17 joined 14:8 41:8,12,22 58:15 59:10,17
+16:4 49:12 judgment 9:14 46:21 47:2,9 14:1,8,13,18
+instincts 51:1,4 44:15 57:14 47:12,20,21 14:25 15:10
+49:21 51:9,14,18 judicial 10:3 48:9,14 49:1 30:6 31:9,19
+integrally 47:18 jurisdiction 49:18 50:8,11 44:23 45:7,15
+32:4 49:8 21:8 24:13 52:6,13,18,25 Kennedy's
+47:25 intent 15:1 jury 37:1 39:24 53:6,14 54:7 39:17
+54:5,6 32:23 Justice 1:16 3:3 54:25 55:9 kept 34:14
+35:15 29:16 5:8,12 6:3,14 57:1,8,17 58:1 kill 18:2,2,17,20
+42:8 interest 6:8 10:6 6:25 7:16,22 58:10,13,15 19:11,18,20,24
+23:25 24:9 8:3,18 9:5,19 59:3,14,21,24 19:25 50:9
+53:21 26:23 29:18 9:23 10:16 60:5,6,15 58:11
+59:19,20 34:23 54:20 11:16 12:7,8 killed 17:16,17
+60:2 interests 36:10 12:13,18,21,22 K 17:18 18:21
+55:24 19:16 58:14 15:10,17 16:3 KATAYAL 29:17 36:16,19
+interpreting 16:8,14,16,19 58:12 knew 14:14
+intertwined 18:16,19,25 4:7,19 5:11,13 know 8:23 10:22
+54:4 19:20 20:13,15 7:22 8:10 9:1 13:18 15:22
+43:5 level 39:2 4:16,18 5:3,7,9 26:2,4,7,8,12 59:15,18
+44:16 light 32:22 6:23 8:13,14 26:25 27:2,12 move 25:24
+46:18 limit 17:18 18:3 8:17 11:3 17:2 27:23,25,25 55:14
+18:7 21:19 27:3 55:24 movie 22:4,5
+lines 16:19 30:7 43:8,10,14,16 Miller 37:20,21 mugging 21:18
+49:23 live 23:7 30:10 matter 1:11 9:21 33:1,6,8,11 mutilation 26:5
+24:10 60:3 9:7 10:22 37:15,24 38:18 N
+loaded 26:1 17:24 20:4 39:2,15 40:9 N 2:1,1 3:1
+40:21 logic 55:18 34:7 36:18 41:18 42:3 nails 17:23,24
+53:16 long 6:11 8:1 37:18 43:16 43:2,9,13,21 narrow 19:12
+13:13,14 26:1 46:17 47:16 44:3 45:6,9,21 50:6 52:11
+26:1,20 looks 48:7 meanings 17:21 53:19 54:15 2:8 3:6 55:12
+lot 30:12 37:25 18:1,15 55:1 necessarily
+51:16 53:22 7:19 17:25 mind 28:16 29:8 necessary 41:25
+30:22 lust 32:14 meat 19:1 minutes 55:10 50:21
+33:10 mechanism 30:4 missed 15:19 net 30:3
+40:3 58:9 M 30:4 modified 6:18 never 35:12
+18:24 man 10:25 14:20 member 14:7 money 23:6 Nobody's 56:12
+25:25 manner 11:22 Members 34:13 49:14 50:16,21 noneducational
+march 48:13 mentioned morning 3:4 17:1
+market 3:25 4:9 message 10:13 motive 35:14 NRA 37:16
+46:2 particular 13:19 performance 10:16 14:21
+42:6 59:8 permission 24:14,19,23
+24:14,18 8:20 54:13 PETA 8:20 posit 34:4
+28:13 Osborne 9:24 passes 53:15 Petitioner 1:4 posited 33:20
+31:17 ought 45:16,18 pate 13:12 1:17 2:4,9 3:7 position 29:22
+35:7 Outdoor 39:20 patently 29:16 55:13 58:2
+37:22 outraged 45:3 paternalistic photographs possible 32:25
+46:6 outside 35:4 26:23 7:10 43:2,3 46:10 58:21
+55:6 39:18 42:19 path 10:10 physician 10:3 possibly 38:11
+44:13,15 51:12 PATRICIA 1:18 picture 13:19 post-Ferber
+26:24 42:21 people 10:24,25 21:18 23:4,5 56:14
+overbroad 14:3 11:3,6 13:3,7 26:20 44:12 present 46:4
+48:20 35:6 22:5,8 27:24 57:10 presents 14:12
+overly 15:5 29:5 32:17 37:13 places 24:3 18:13
+overseas 30:22 40:16,22 42:24 please 3:9 27:11 32:1 46:24
+16:11 overwhelmingly 46:1,3,15,17 point 9:2 11:6 20:1 21:3
+26:18 34:23 47:16 50:9 18:20 32:10,10 primary 35:14
+56:6 51:14 52:22 40:21 45:10 principally 29:8
+P 3:1 56:9 57:21 53:4,19 60:8 probably 46:18
+27:16 34:22 49:11 51:1,3 13:9 21:25 36:1
+18:14 paid 50:13 percent 46:12 36:22 52:11
+33:13 pain 7:5 46:14 political 8:19,24 problems 31:8
+paradigmatic perceptible 12:25 21:9 34:4
+60:13,13 47:19 question 12:21 reason 14:18 requisite 30:19
+prosecuting 31:25 36:12 59:11 reserve 27:5
+26:1 44:11 57:12,24 58:5 11:24 17:7
+29:22 prosecutions quickly 56:24 rebuttal 2:7 24:13 43:13,24
+31:1 56:20,23 quite 7:22 9:23 55:12 57:18 59:25
+48:23 prosecutor 10:20 25:1 recognized respond 11:10
+12:16 13:2 38:3 40:6,10 37:21 Respondent
+18:4 prosecutorial quote 10:1 30:19,24 34:2 27:9
+30:14,17 36:2 quoting 34:21 34:7,9 Respondents
+47:13 prosecutors records 48:7 13:25
+14:3 R reduced 21:19 response 13:21
+23:15,19 protected 24:19 race 47:6 reducing 21:23 rest 39:11 59:5
+30:23 28:5 46:8 49:6 raise 14:12 55:25 resting 57:14
+36:15 51:13 23:24 reflecting 8:12 restrained 14:4
+prove 24:5 raised 16:20 regulate 4:24 restricted 34:22
+35:25 36:5,8 23:18 6:10 42:14 restriction 3:11
+prurient 29:18 ratio 42:6 regulated 42:12 restrictions
+30:13 27:19 reach 4:21 30:2 relevance 12:3 result 43:20
+pure 54:1 reaches 3:20 religious 8:16 return 58:1
+29:18 39:6 19:22,24 20:16 46:25 right 5:10 7:24
+30:8 purview 59:1 38:17 39:12 repeatedly 4:24 46:2,13 54:7
+put 15:22 41:5 43:7 53:17 reply 27:16 rings 44:7,8
+puts 27:18 realistic 11:21 repression 50:5 risk 13:4
+quail 13:13 really 11:5 17:3 require 13:7 6:3 8:3,18
+qualitative 42:5 36:14 38:23 required 34:2 34:19 37:18
+52:6 7:16,23 10:16 44:4,5 57:15 8:2 21:18 specific 16:6
+54:7,25 11:16 12:8,13 sees 6:8 26:14,17 27:15 31:10
+57:1,8,17 12:18 13:9 selling 23:6 simultaneous speech 6:5,19,20
+17:1,6,17 sense 42:14 25:5 8:9 25:24
+19:5,10,14 sent 25:10 19:10 45:5 31:1,13 36:1,4
+36:9 set 42:5 57:24 45:13 51:13,21 53:12
+52:1,9 51:20 53:6 sexual 7:5 snuff 48:1 52:25 23:1
+56:3,11 58:10 sexually 28:1 53:1,23 56:8 spoken 26:3
+58:13,15 59:21 shape 19:4 social 37:7 squarely 39:24
+56:4,12 59:24 60:5 sheep 13:10 society 44:22 staging 23:6
+57:3,20 scalpel 39:3 shield 55:3 sociis 17:19 stake 34:24
+42:21 shocked 40:12 sold 4:12 5:10 standard 13:2,7
+20:17,25 seconds 11:9 shown 57:20 sort 8:21 21:14 3:4,16,20 4:17
+31:5 section 3:10 shows 39:10 23:3 29:23 5:23 6:16
+34:14,18 5:18 9:3 11:13 48:10 53:16 42:25 11:17 14:6
+52:4 16:18 23:19 side 27:15 46:4 Sotomayor 4:3,6 15:25 18:12
+54:13 55:15,17 56:17 46:8 57:3 4:13 9:5,19,24 22:1,2,14
+57:8 56:25 58:5 significant 11:6 16:19 52:13,18 statute 3:13,15
+59:1 37:2,4,5,21 Sotomayor's 3:19,20,23 4:1
+59:16 sections 9:10 45:16 12:21 5:4,15,18,24
+17:20 32:18 37:14 simple 55:15 sounds 23:16 9:15,25 10:8
+29:16 42:21 44:19 58:8 Spanish 12:4,11 11:22 12:1
+32:21 45:2,4 46:15 simpler 20:3 23:2 13:23 14:2,11
+42:9 46:18 52:4,22 simply 7:18 13:8 speak 17:22 14:23,23 15:3
+53:9,22 57:21 35:25 speaking 50:13 15:15 17:5,15
+21:1 strict 28:9,11 T theory 31:15,24 54:12,15,16
+29:20 48:12 T 2:1,1 48:23 52:21 55:5 56:23
+24:3 Strictly 37:9 table 54:11 thin 37:20 57:11 58:16
+26:3,18 string 17:20 tacks 17:23 thing 16:21 20:3 59:25
+27:1 strong 20:17,18 tailored 52:16 24:8 42:25 thinking 32:12
+struck 3:13 5:15 tailoring 52:11 49:8,10,24 thinks 35:18
+5:21,25 take 12:23 23:4 things 13:14,17 Third 3:13 4:1
+studies 10:5 38:5 44:13 13:24 17:5 5:14,21 39:14
+stuff 56:12 taken 22:2 25:6 18:5 20:6 43:23 60:12
+stuffing 13:12 talk 4:20 11:4 21:14 23:6 Thomas 50:18
+subject 7:3 talking 40:17 25:8 28:16 thought 38:14
+32:22,22 14:15 36:22 41:19,20 42:7 31:4,22 32:15 41:13 50:24
+39:24 45:13,14 44:12 33:1,19 34:14 thousands 42:8
+34:25 46:6 talks 20:21 34:16 35:24 three 28:20
+submitted 60:17 target 6:9 25:25 44:14 46:1 29:23 38:4
+60:19 targeted 3:11 47:5 48:6 49:3 55:10
+40:7 substantial 3:14 29:6 52:21 54:23 thrill 43:11
+41:4,6,7 5:25 6:1 11:19 targeting 6:21 58:19 59:1 throw 35:16
+20:11 42:21 7:20 10:13,14 think 4:19,22,25 throws 30:2
+42:1,9 success 56:17 19:4 21:17 5:22 6:12 8:5 thumb 17:23
+44:2,18 successfully 55:20 8:10,11 10:23 27:19
+46:23,24 44:10 tearing 9:12 10:24 11:11 tied 47:18
+49:7,15 sufficient 57:18 technology 13:11 15:2,9 time 4:12 25:2
+58:6,20 suggested 43:22 42:24 15:12,15 17:3 25:11 27:5
+60:13 suggests 11:23 tell 8:18 9:6 15:1 18:25 19:7 32:8 33:10
+33:11 summarily 7:1 ten 3:10 12:1 22:4,14 23:23 Title 3:10
+7:10 13:22 30:11 23:23 24:3,12 toenails 17:24
+45:18 suppose 23:2,4 term 18:18 28:15,19 29:12 tool 36:2 50:5
+16:8 46:16 48:15 terms 4:21 5:2,4 32:5,20 33:3 26:5 29:16
+25:3,7,9 supposed 40:14 14:11 17:4,14 33:12 34:19,20 58:7 59:11
+35:15 suppressing 20:10 35:1,2,6,19 tortured 17:16
+58:1 23:25 terrific 11:1 36:15,23 37:15 torturing 18:4
+60:6 Supreme 1:1,12 test 6:4 11:19 38:10,11,18,23 toto 60:12
+survive 28:9,25 tested 15:7 41:10,18 42:6 tradition 35:4
+sweeping 35:22 Thank 3:8 27:6 46:12 48:5 10:18 24:18
+understanding 5:16 7:20 8:17 60:7 43:8,17 46:17
+6:16 11:17 27:20,24,24 50:20 54:4 28:11 31:3
+29:4 30:9 40:5 41:15 29:23 35:11 wound 19:24,25
+45:10 unprotected 6:5 42:7,25 43:15 weeks 44:6 59:22
+49:3,5 20:14 28:12 43:24 56:5,18 went 15:1 wounded 17:16
+54:20 31:18 38:8 56:21,23 60:14 we'll 31:6 wrapped 35:9
+25:8 use 8:2 27:15,18 46:18,21 whatsoever 44:3 written 3:22
+33:1 38:5 viewers 26:24 wide 18:14,20 26:15,15 32:8
+42:11 57:13 30:3 40:22,23 wrong 15:2,3
+49:2 V violation 7:8 wildly 15:4 wrongly 19:16
+53:4 v 1:5 3:4,16,20 violence 19:15 Williams 3:16 wrote 18:11
+5:23 6:16,17 22:5,6 58:19 5:24 11:17 50:16
+38:3 virtually 14:7 willing 28:18 x 1:2,7
+42:1 value 13:1 24:6 want 10:25 11:6 18:7,7,17 18:12
+54:13 35:22 36:22,22 11:8 13:15 19:11,13 26:15 years 3:10 7:1
+38:5 40:1 29:11 30:24 words 12:24 39:9
+7:14 26:16 53:20 54:21 0
+10:14 various 17:21 57:21 58:3 08-769 1:5 3:4
+21:3
+21:17 18:1 59:3 33:21 34:2 1
+26:1 versus 33:4 wanted 48:13 52:15 10:03 1:13 3:2
+55:19,25 video 5:16 9:6 wants 8:1 13:17 work 4:1 15:13 100 46:12,14
+9:12 20:16 14:20 23:5 21:2 44:16 11:06 60:18
+13:3 25:3 48:1 53:23 Washington 1:8 works 38:4 18 3:10
+44:20 55:25 56:8,8 1:16,18 44:17 19 22:21
+57:2 59:4 videos 4:10,10 wasn't 8:16 world 23:7 35:7 1999 8:14 42:18
+4:10
+42:7
+11:9
+1:9
+2:6
+2:4 27:16
+4:10 56:18
+3:10 5:18 9:3
+16:18
+55:15,17
+58:5
+15:25 22:14
+2:9
+1:9
+34:22

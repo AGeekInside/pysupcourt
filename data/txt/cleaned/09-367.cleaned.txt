@@ -1,0 +1,1786 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+BRIAN RUSSELL DOLAN, :
+Petitioner, : No. 09-367
+v. :
+UNITED STATES. :
+- - - - - - - - - - - - - - - - - x
+Washington, D.C.
+Tuesday, April 20, 2010
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 10:11 a.m.
+APPEARANCES:
+PAMELA S. KARLAN, ESQ., Stanford, California; on behalf
+of the Petitioner.
+TOBY J. HEYTENS, ESQ., Assistant to the Solicitor
+General, Department of Justice, Washington, D.C.; on
+behalf of the Respondent.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+PAMELA S. KARLAN, ESQ.
+On behalf of the Petitioner 3
+ORAL ARGUMENT OF
+TOBY J. HEYTENS, ESQ.
+On behalf of the Respondent 28
+REBUTTAL ARGUMENT OF
+PAMELA S. KARLAN, ESQ.
+On behalf of the Petitioner 55
+P R O C E E D I N G S
+(10:11 a.m.)
+CHIEF JUSTICE ROBERTS: We will hear
+argument first this morning in Case 09-367, Dolan v.
+United States.
+Ms. Karlan.
+ORAL ARGUMENT OF PAMELA S. KARLAN
+ON BEHALF OF THE PETITIONER
+MS. KARLAN: Thank you, Mr. Chief Justice,
+and may it please the Court:
+The Mandatory Victim Restitution Act makes
+restitution a mandatory part of a defendant's sentence
+for certain crimes, and it sets out two paths by which a
+district court can meet its responsibilities.
+First, section 3663A(a)(1) authorizes
+district courts to impose restitution when sentencing a
+defendant; that is, at the same time that they impose
+terms of imprisonment, fines, probation, or the like.
+Second, section 3664(d)(5) of the Act allows final
+determination of the amount of restitution to occur
+during a period not to exceed 90 days.
+Once those periods and the general deadlines
+for correcting or appealing a sentence have passed, a
+court's judgment is final, even if it fails to order
+restitution. In this, the Mandatory Victim Restitution
+Act is like all other mandatory sentencing provisions,
+and as this Court confirmed 2 years ago in Greenlaw v.
+United States, when a court fails to impose a mandatory
+sentence, that error can be corrected only by following
+what this Court called the dispositive direction
+regarding sentencing errors.
+JUSTICE SOTOMAYOR: Excuse me. Is your
+argument that if the district court -- for whatever
+reason, unlikely as it may be -- starts a hearing the
+day after the rest of the sentence was imposed and has
+to continue that hearing for 91 days before it can
+render a judgment --
+MS. KARLAN: No.
+JUSTICE SOTOMAYOR: -- that it's now barred
+from entering that judgment?
+MS. KARLAN: No. If I understand your
+question correctly, the district court has imposed
+sentence on day one announcing imprisonment. Any time
+during the next 90 days, it has a power to set a date
+and make final determination of the restitution amount.
+Once that 90-day period has run -- in this case, on
+October 28th, because the sentencing occurred on
+July 30th -- the district court loses the authority to
+impose restitution.
+JUSTICE SCALIA: And the sentence is not
+final until then?
+MS. KARLAN: That's our position.
+JUSTICE SCALIA: And -- and what if -- what
+if the court does set a date for additional sentencing?
+Then it's not final until then, right?
+MS. KARLAN: No, Justice Scalia. It would
+be that once a court has started the sentencing process,
+it has 90 days within which to complete that process, if
+it announces at the initial sentencing that it intends
+to hold open the sentence for final determination of
+restitution.
+JUSTICE SOTOMAYOR: I -- I'm not sure I
+understood your response to my question. It must impose
+that restitution order, complete all its proceedings
+within the 90-day period?
+MS. KARLAN: Yes, that's correct.
+JUSTICE SOTOMAYOR: So it can't hold a
+hearing over from the 90th day to the 91st day?
+MS. KARLAN: No, it cannot do that. And if
+it were to do that in a case where restitution were
+mandatory, the sentence would become final, the
+government would file an appeal, and that appeal would
+certainly succeed, because it's plain error not to have
+to imposed the restitution.
+JUSTICE ALITO: Your position is that if the
+court puts off the order of restitution for 90 days,
+during that period, the defendant cannot take an appeal?
+MS. KARLAN: If the court has announced at
+the initial sentencing that it intends to do so, no, then
+it cannot.
+JUSTICE ALITO: Isn't that dramatically
+contrary to the way criminal appeals have been handled
+for a long time? There's a very short period of time
+for a defendant to file a notice of appeal in a criminal
+case, and you're saying that that is dramatically
+extended by the possibility of -- of restitution later
+on or by the fact that the restitution order will be
+entered later?
+MS. KARLAN: No, Justice Alito. What I'm
+saying is that a defendant can only appeal from a final
+sentence, and until the restitutionary term is imposed
+within the time period allowed by the MVRA, there is not
+a final sentence. Then he has from the time that
+restitution is --
+JUSTICE ALITO: Yes, I understand that. But
+you're saying the defendant is -- the defendant is
+incarcerated, let's say; is convicted, is sentenced to
+prison. The defendant wants to take a quick appeal.
+The defendant thinks he's going to win on appeal. And
+you're saying, well, no, you have to wait 90 days
+before you can file your notice of appeal?
+MS. KARLAN: I believe that's correct,
+because he has to have a final judgment before he can
+appeal.
+JUSTICE SCALIA: Well, what -- what do you
+do about the further provision that at any time later,
+if the government -- or the victim finds additional
+basis for restitution, so long as after discovering it,
+within 60 days after that, the victim can come to the
+court and ask for restitution? What does that do?
+Does that --
+MS. KARLAN: Well --
+JUSTICE SCALIA: I mean, doesn't that
+necessarily mean that there are indeed two final
+judgments? That -- that one has to be -- has to go up
+on its own, doesn't it?
+MS. KARLAN: That's correct, but section
+3664(o) of the statute says that the initial restitution
+amount constitutes a final judgment, even though there
+can be amendment after it's been entered.
+JUSTICE SCALIA: Where is that?
+MS. KARLAN: In our brief, it's on page --
+JUSTICE SCALIA: Oh. Oh -- "a sentence that
+imposes an order" --
+MS. KARLAN: It's on page --
+JUSTICE SCALIA: -- "is a final judgment,
+notwithstanding the fact that" --
+MS. KARLAN: Yes, petition appendix 60a.
+JUSTICE SCALIA: Got you.
+MS. KARLAN: So that's why that has to be in
+there, because otherwise the defendant really would be
+in the position that Justice Alito --
+JUSTICE SOTOMAYOR: Is there any circuit
+court who has addressed this issue of when an appeal is
+timely, in a situation in which a restitution order has
+not been entered at the initial sentencing?
+MS. KARLAN: Not in precisely that way.
+There are a couple of cases that are -- that kind of
+circle around that.
+So for example, Kapelushnik, which we cite
+in our petition for certiorari and in our brief as the
+wisest way of thinking about this, held that once the
+90 days has lapsed, the judgment is final by operation
+of law.
+There's an opinion by Judge Posner in the
+Seventh Circuit that's not on restitution but on a
+related issue, which says that if you have several
+components to the sentence, until that last component is
+entered, the time for filing an appeal under F.R.A.P. 4
+does not begin to run. And that's --
+CHIEF JUSTICE ROBERTS: In this -- when the
+judge did not enter a date for restitution, did you
+object to that?
+MS. KARLAN: We were not required to do so,
+so we did not.
+CHIEF JUSTICE ROBERTS: Well, why not? It
+seems that that's when the violation occurred. The
+statute said the court shall set a date if they're not
+ready to calculate the restitution, and he didn't do
+that.
+MS. KARLAN: Well, that's correct,
+Mr. Chief Justice, but the statute doesn't say when he
+has to set the date. The statute simply says the date
+has to be set so that final restitution will occur
+during the period -- and here I quote again from the
+statute -- "not to exceed 90 days." So he can set that
+date once he gets the information from --
+CHIEF JUSTICE ROBERTS: Well, I thought it
+says -- maybe I am misreading it. It says the court --
+this is at sentencing. When sentencing -- you look at
+the previous provision -- what is it? 3663A(a)(1) --
+MS. KARLAN: Yes.
+CHIEF JUSTICE ROBERTS: -- talks about what
+you do when sentencing it.
+MS. KARLAN: Right.
+CHIEF JUSTICE ROBERTS: And the statute
+says, "the court shall set a date for the final
+determination" ... "not to exceed 90 days." And he didn't.
+MS. KARLAN: That's correct, he did not set
+it. But the statute -- I'm now looking at petition
+appendix 55a, which is where section 3664(d)(5) of the
+Act is set out. It says, "The court shall set a date
+for the final determination of the victim's losses, not
+to exceed 90 days after sentencing."
+The 90 days modifies the final
+determination. It doesn't modify the setting of the
+date. So within that 90-day period, I think
+that what was --
+CHIEF JUSTICE ROBERTS: No, I think that's
+right. I -- I agree with you that.
+MS. KARLAN: Yes.
+CHIEF JUSTICE ROBERTS: In other words, the
+final determination -- the date for the -- the final
+determination can't exceed 90 days --
+MS. KARLAN: Right.
+CHIEF JUSTICE ROBERTS: -- but that doesn't
+mean that the provision saying the court shall set a date
+can wait -- that he can wait 89 days to do that.
+MS. KARLAN: No, I think it would be very
+unwise for a district court to do that, but the court
+can't really set the date until it receives the
+information that it hopes to receive from the probation
+office or from the victim. So that --
+CHIEF JUSTICE ROBERTS: No, no, no --
+JUSTICE GINSBURG: It can say 90 days. It
+can say 90 days.
+MS. KARLAN: It -- it could, yes. Or it
+could say, as the district court did here, I'm going to
+hold open the date. But it can only hold open that date
+until the point at which it actually imposes the
+restitution, within the 90 days.
+JUSTICE GINSBURG: This is a -- this is, in
+one respect, Ms. Karlan, a technical argument, is it
+not? Because it's true that this defendant, from the
+probation officer's report, knew within the 90 days what
+restitution was going to be recommended.
+MS. KARLAN: Yes. He knew within the
+90 days what the government's claim was going to be, but
+the court did not hold the hearing and did not impose
+the judgment. And so the August 8th judgment became
+final by operation of law on October 28th, because that
+was 90 days after the July 30th sentencing.
+At that point, the government could have
+filed an appeal in this case, and, quite frankly, they
+would have won. As it was --
+JUSTICE ALITO: How is your position -- how
+is your position consistent with the thrust of the
+victims' rights legislation that Congress has enacted in
+recent years, including the statute that's before us
+here?
+Now, in this case, the victim -- the
+victim's medical bills were paid by the United States.
+But that isn't always going to be the case, and
+sometimes victims are going to have a lot of lost
+income. So you have the victim, like the victim here,
+who is beaten to a pulp by a defendant and loses a
+substantial amount of future income as a result, and you
+say that if the judge makes a mistake, it's just too bad
+for the victim. The victim gets nothing because the
+judge waited too long.
+MS. KARLAN: No, I don't --
+JUSTICE ALITO: Do you think that's what
+Congress had in mind?
+MS. KARLAN: I don't say that, and I don't
+think that's what Congress had in mind. First, what
+Congress had in mind was to strike the balance it struck
+in this statute, which was to give victims the right to
+receive restitution as part of a criminal sentence, as
+long as it was done within 90 days of sentencing.
+Second, the government can appeal if a court
+doesn't follow the rules.
+Third --
+JUSTICE ALITO: Yes, but wasn't -- wasn't
+the whole thrust of the victims' rights legislation that
+up to that point, Congress thought prosecutors were not
+sufficiently attending to the rights and the interests
+of victims? They were doing their own prosecutorial
+thing, but they weren't involving victims, making sure
+they knew about court proceedings, and so forth.
+And you're saying, well, if the court makes
+a mistake and the prosecution falls down in its
+responsibility, the person who suffers is the victim who
+gets victimized again.
+MS. KARLAN: No, that's not what I'm saying.
+What I'm saying is Congress struck a balance. They
+wanted to give restitution to victims. They also wanted
+final sentencing for defendants. Congress struck that
+balance by giving a 90-day extension. It didn't provide --
+JUSTICE KENNEDY: Well, you're not
+really -- you're not really answering Justice Alito's
+question. He says he understands that, as I understand
+the question. We understand that argument.
+But it doesn't address the fact that the net
+result of your argument is (a) unfair to the victim and
+(b) inconsistent with the whole design and thrust of the
+Victims Act.
+MS. KARLAN: It's --
+JUSTICE KENNEDY: And you, it seems to me,
+have to say: So be it; the technical rule prevails.
+That's too bad.
+I mean, that's your argument, it seems
+to me.
+MS. KARLAN: No, my argument is Congress
+struck that balance, and in some cases, yes, too bad --
+JUSTICE SCALIA: Of course, the same thing
+would happen if the trial judge makes a mistake of law
+which causes the -- the defendant to be acquitted, so
+that he not only escapes the liability to the victim, he
+escapes any -- any criminal punishment. It happens all
+the time. The judge makes a mistake; society pays for
+it.
+MS. KARLAN: That's correct, and Congress
+here has said 90 days. And they meant it. If they had
+meant to say, at any time, a victim can receive
+restitution, they would have said that.
+JUSTICE BREYER: But Congress says -- to
+paraphrase and not get it accurate -- that the
+Department of Transportation shall enact a rule
+governing tire safety within 9 months from the
+effective date of this legislation. And the Department
+of Transportation fails to do that. It doesn't
+promulgate its law for 18 months. Is that law invalid?
+The rule?
+MS. KARLAN: No, generally, under this --
+JUSTICE BREYER: Of course, it isn't.
+MS. KARLAN: Because that's --
+JUSTICE BREYER: So how is this different?
+MS. KARLAN: Well, this is a criminal
+sentencing statute which is different than a civil
+agency action.
+JUSTICE BREYER: I understand that point.
+I'm just asking what's a relevant difference?
+MS. KARLAN: That is the incredibly relevant
+difference, for the following reason --
+JUSTICE BREYER: Because?
+MS. KARLAN: -- that finality in sentencing
+is important, because otherwise a defendant cannot even
+appeal his conviction.
+JUSTICE BREYER: Why couldn't he?
+MS. KARLAN: Because he --
+JUSTICE BREYER: You just read us the
+provision.
+MS. KARLAN: It's not a final --
+JUSTICE BREYER: The judge enters a -- an
+order, a final order. And that final judgment, as was
+true here, says: I haven't decided restitution yet. He
+can appeal. Then what it says is when you get around to
+the restitution, then enter another judgment, and you'll
+appeal that, as happens precisely in the case of
+the 60 days -- you know, that extra stuff that Justice
+Scalia was referring to. That's a possible
+interpretation of the Federal Rules of Appellate
+Procedure. I don't see, you know, the appeals thing. I
+don't see anything -- I don't have in front of me the
+language on filing an appeal, but I can't think of
+anything that's contrary.
+MS. KARLAN: What's contrary to that is
+that the Federal courts of appeals only have
+jurisdiction to decide cases that come up, in criminal
+cases, on final judgment or under the collateral order.
+JUSTICE BREYER: That's right.
+MS. KARLAN: This is not --
+JUSTICE BREYER: It's a final judgment, and
+because there is another provision that says an order of
+restitution is itself a final judgment.
+MS. KARLAN: No. With all respect,
+Justice Breyer, there is no provision that says an order
+of restitution --
+JUSTICE BREYER: You read it to us. I mean
+the one you read to us.
+MS. KARLAN: No. That says --
+JUSTICE BREYER: What?
+MS. KARLAN: -- that a sentence that
+includes a term of restitution can be a final judgment,
+even though that 60-day provision to which
+Justice Scalia pointed is on the books.
+But you can't have a final judgment in a
+criminal case that involves several different components
+of a sentence until those aspects of the sentence have
+actually been imposed.
+JUSTICE ALITO: Well, why isn't the --
+MS. KARLAN: Justice Scalia, I believe, was
+referring to the 60-day provision.
+JUSTICE BREYER: Yes, the same problem.
+MS. KARLAN: The 60-day provision is
+specifically immunized from the final judgment rule by
+section 3664(o) of the statute. The 90-day provision is
+not. So until a defendant -- perhaps I could -- perhaps
+I could use a slightly different example, which is:
+Suppose a defendant is supposed to be a sentenced to a
+fine, a mandatory fine --
+JUTICE BREYER: I see.
+MS. KARLAN: -- and a mandatory prison sentence.
+If you sentence him to the mandatory prison sentence and
+say I still need to calculate the fine -- there is no
+final judgment. He cannot appeal that sentence.
+JUSTICE ALITO: But isn't there a difference
+between those two situations? A fine is a criminal
+penalty. It goes -- it -- the prosecution is brought in
+the same of the sovereign. The fine goes to the
+sovereign. It's a traditional criminal penalty.
+Restitution is not a traditional criminal
+penalty. It's much like, arguably, attorneys' fees in a
+civil case. It is -- it is like -- it is really a -- a
+benefit for the victim. It is not something that inures
+to the benefit of the sovereign.
+And so why doesn't it make sense to view
+that judgment of restitution as a separate judgment,
+just as the award of an attorney's fees is a separate
+final appealable order in a civil case?
+MS. KARLAN: Well, because this judgment of
+restitution is not a civil judgment. It is part of the
+defendant's criminal punishment, and, therefore, it is
+not like attorneys' fees, something that's separate.
+As we point out in our reply brief, in order
+to calculate the amount of imprisonment, in order to
+calculate the fine, the Federal criminal sentencing
+provisions -- and I should note that section 3664(a)
+appears in Title 18 in the section under miscellaneous
+sentencing provisions, not civil provisions. All of
+those things interact. And so you can't calculate one
+of those without knowing all of them.
+JUSTICE GINSBURG: But, functionally, isn't
+it a substitute for the remedy that the victim of a
+crime might have? Wasn't what Congress was trying to do
+was to spare the victim the necessity of suing the
+defendant and having his kind of civil restitution
+tacked onto the criminal proceeding?
+MS. KARLAN: That's certainly Congress's
+purpose, but they did it within the context of
+sentencing. So, for example, Justice Ginsburg, if this
+really were a civil penalty, defendants would not be
+entitled to the assistance of counsel in challenging the
+amount of restitution, because the Sixth Amendment would
+not apply. The dates for filing an appeal would be
+different. There would be a jurisdictional bar that
+doesn't exist in criminal cases.
+This Court said several times that
+restitution under these kinds of circumstances -- in
+Hughey, under the predecessor to this Act, and in Kelly
+v. Robinson -- is a penal statute. Justice Sotomayor in
+her opinion for the Second Circuit in Varrone said this
+is a penal statute.
+So there is no question here that this is a
+substitute for a civil remedy or a supplement for a
+civil remedy, but it is a criminal punishment. And
+Congress has said that you have to order it at
+sentencing or within 90 days, or else it is error that
+can be corrected through Rule 35 or by appeal, but not
+otherwise.
+JUSTICE SCALIA: Now, what -- what can the
+defendant do within that 90 days? He has to wait
+90 days before he appeals the sentence that he has been
+given; is that right?
+MS. KARLAN: That's correct. There is not a
+final judgment in his case.
+JUSTICE SCALIA: That's 3 months that --
+that he has to sit on his hands.
+MS. KARLAN: That's correct.
+JUSTICE BREYER: Where does it say that?
+MS. KARLAN: Well, the final judgment rule
+says that.
+JUSTICE BREYER: Well, this is a court-made
+rule of what counts as a final judgment.
+MS. KARLAN: Right. And -- and --
+JUSTICE BREYER: All right. Is there
+anything in the decisions of this Court interpreting
+that rule? I mean, you could have collateral orders. You
+could have all kinds of things. And doesn't it boil down
+to the same question?
+I mean, I agree with you that if Congress
+wanted to make a 90-day deadline, you really have to do
+it, and you can't restitute thereafter. All right.
+That's one thing. But if they didn't, why didn't they
+equally intend the judgment without the restitution
+order to be a final judgment?
+MS. KARLAN: Well --
+JUSTICE BREYER: And then later on, just as
+in (o), if the judge does impose an order of restitution,
+then of course, that's appealable, and that's a different
+judgment. Is there -- what in the law prevents the --
+that interpretation?
+MS. KARLAN: I think two things prevent that
+interpretation.
+JUSTICE BREYER: Yes.
+MS. KARLAN: One is this Court's precedent,
+and let me talk about that. And two is a proper reading
+of section 3664(o). So I'll turn first to the
+precedent and then to 3664(o).
+JUSTICE BREYER: So you have precedent.
+MS. KARLAN: So the precedent is, for
+example, this Court said in Parr v. United States, which
+is cited on page 12 of the reply brief, among other
+places, that "a judgment or decision is final for purpose
+of appeal only when it terminates the litigation between the
+parties on the merits of the case, and leaves nothing to
+be done but to enforce by execution what has been determined."
+Until restitution has been determined, a
+case does not fit within Parr. Parr is, I believe, an
+interpretation of 1291, 28 U.S.C. 1291, which is the
+provision that gives the courts of appeals jurisdiction.
+CHIEF JUSTICE ROBERTS: So you can -- under
+your view, you can change the amount of jail time up to
+the point at which you have to set the restitution. The
+judge says: I'm going to sentence you to 3 years, and
+I'm going to figure out the restitution.
+He looks, and the restitution turns out to
+be a lot more than he thought. So he says: Well, I'm
+only going to give you 2 years. Or it's less, and he
+says: I'm going to give you 4 years.
+Because the judgment is still open, he can
+do that?
+MS. KARLAN: I believe, Your Honor, that he
+can. And the reason for that is the sentencing statute
+itself -- 18 U.S.C. section 3553, I believe it is --
+talks about how a court, in sentencing a defendant, is
+supposed to be considering all of these penalties and
+how they interact with one another.
+So if a defendant can make restitution to a
+victim by, for example, being put on community release
+or probation rather than serving time in prison, a court
+can take that into account in setting the sentence.
+JUSTICE SCALIA: Must take it into account --
+MS. KARLAN: Yes.
+JUSTICE SCALIA: -- if you read 3553 the way
+it's written.
+MS. KARLAN: Yes, I think they must take it
+into account. Now, whether -- how they'll actually
+strike that balance is --
+JUSTICE GINSBURG: Is there no -- is there
+no possibility that a judge could say: I want to make
+this analogous to 54(b) under the civil rules; that is,
+I don't want to delay the time that the defendant can
+appeal from the -- from the -- from the sentence. So
+this order is final, and 3 months later, I'll take up
+the question of restitution when all the information is
+in. The court is prevented from doing that?
+MS. KARLAN: I'm unaware of any criminal
+rules analogue to Rule 54(b) in the civil context, because
+in general, as I understand the way this Court's
+precedents have worked, there have been what might look
+like interlocutory appeals in criminal cases, but they've
+always involved collateral issues.
+And the problem here, for the reason that
+Justice Scalia just pointed to, is restitution and the
+amount of imprisonment are not collateral to one
+another; that is, they may interact. And a fine
+certainly isn't, because the statute itself says you
+can't impose a fine to the extent that it will impair
+restitution. So if --
+JUSTICE GINSBURG: So the judge -- but the
+judge could say -- once she thinks she needs -- that
+they need time for more information: I'm going to
+defer the whole sentencing. So, Defendant, you'll have to
+wait 3 months to find out how much time you're going to
+serve. That would be all right. You could use the
+90-day period to extend the time for imposing the
+sentence.
+Well, in effect, you're saying the sentence
+isn't final, so she could change it any time within the
+90 days?
+MS. KARLAN: There's a slight complication
+there, but I think the answer to your question is yes;
+that is, the judge could delay the entire sentencing
+under Federal Rule of Criminal Procedure 32.
+Look, we're not saying that you couldn't
+get restitution in a case like this. We're simply
+saying that you have to follow the rules.
+JUSTICE BREYER: All right. Well, what about
+that as a possible answer? If we accept -- the -- the judge,
+of course, could say to the defendant: I'm not going to
+sentence you; I'm not going to put that sentence -- I'm
+not going to sentence you at all --
+MS. KARLAN: That's correct.
+JUSTICE BREYER: -- for 100 days.
+MS. KARLAN: That's correct.
+JUSTICE BREYER: And your remedy, then,
+might be to ask for mandamus, if that was too long a
+period?
+MS. KARLAN: It -- it might be. I --
+JUSTICE BREYER: And -- and -- so why
+wouldn't that be similar here? If the judge is going to
+go after the 90 days, he'd have the power to do it,
+but it would be like a continuance, and he'd have to
+exercise that reasonably.
+MS. KARLAN: Because you have to follow the
+rules as laid down.
+JUSTICE BREYER: No, no. I know. You're
+interpreting it literally, and --
+MS. KARLAN: Yes. Yes.
+JUSTICE BREYER: -- and that's --
+MS. KARLAN: -- that is, there are many
+mechanisms for ensuring that a victim --
+JUSTICE BREYER: But I mean, if I thought,
+for argument's sake --
+MS. KARLAN: You can't --
+JUSTICE BREYER: -- that Congress doesn't care about
+whether it's after 90 days -- it was just to sort of
+speed things up -- on that assumption, wouldn't you
+still have a remedy, because it would be like the
+unreasonable continuance?
+MS. KARLAN: That's correct.
+JUSTICE BREYER: That is correct? I've got
+it?
+MS. KARLAN: If -- if you -- you can't have
+a continuance from the 90 days. You can have a
+continuance --
+JUSTICE BREYER: No, no. I'm thinking of --
+MS. KARLAN: -- of sentencing itself.
+JUSTICE BREYER: I'm thinking of the
+general problems --
+MS. KARLAN: Yes.
+JUSTICE BREYER: -- of continuances for
+sentencing.
+MS. KARLAN: Yes, that's correct.
+JUSTICE BREYER: And your argument is that
+90 days is long enough?
+MS. KARLAN: That's correct.
+JUSTICE BREYER: Okay. I've got it.
+MS. KARLAN: And I'd like to reserve the
+remainder --
+JUSTICE STEVENS: May I ask you one
+question?
+JUSTICE SCALIA: I -- I have a question going
+just to that. It seems to me that if 3553, as -- as I said
+-- maybe you shouldn't have agreed -- requires the
+sentencing court to consider the totality of the
+sentence it's imposing, including the restitution,
+that would mean that the judge cannot impose a sentence
+before the expiration of the 90 days; that is, has to
+wait until the restitutionary issue is resolved to
+impose the incarceration part of the sentence. No?
+MS. KARLAN: I think the way that the
+statute is written contemplates that the judge will do
+the regular sentencing at which he imposes these other
+terms, but may keep it open for 90 days.
+JUSTICE STEVENS: May I ask this question
+before you sit down? Are you aware -- maybe you cite
+them in the briefs and I didn't catch it -- of any cases
+in which the courts -- a court of appeals has
+dismissed an appeal because it was taken before the --
+the civil remedy had been imposed?
+MS. KARLAN: I'm not aware of a case that
+does that directly under the Mandatory Victims
+Restitution Act.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Mr. Heytens.
+ORAL ARGUMENT OF TOBY J. HEYTENS
+ON BEHALF OF THE RESPONDENT
+MR. HEYTENS: Thank you, Mr. Chief Justice,
+and may it please the Court:
+To begin by addressing the question just
+raised by Justice Stevens, the government agrees that we
+are not aware of any cases that directly confront this
+finality question. There are, however, at least four
+cases in the courts of appeals where one of two things
+happened: Either the defendant took an appeal from the
+original term of his imprisonment, then later took an
+appeal from the order of restitution and the appeals
+were consolidated. That happened, among other things,
+in the Cheal case, which is the First Circuit decision
+cited in our brief. There are at least two other
+circuit court cases that do that as well.
+JUSTICE SCALIA: Was it within the 90 days?
+MR. HEYTENS: No. It --
+JUSTICE SCALIA: The restitution sentence
+was after the 90 days?
+MR. HEYTENS: That's correct,
+Justice Scalia. Now --
+JUSTICE STEVENS: In those -- in those -- in
+that case, or any of those four cases, did they discuss
+the problem of whether there was -- both appeals were
+proper?
+MR. HEYTENS: Justice Stevens, I'm not
+aware of any case that squarely --
+JUSTICE STEVENS: They just went ahead and
+consolidated?
+MR. HEYTENS: That's correct, Justice
+Stevens. I'm not aware of any case that directly
+confronts this issue. Now --
+JUSTICE SOTOMAYOR: Under your view of
+things, however, that's fortuity that the underlying
+conviction was still in the appeal process, because
+there is no statute of limitations under your reading.
+A victim could come 1, 2, 5, 10, 15, 20, or 100 years
+later and say: I'm entitled to restitution.
+MR. HEYTENS: The statute --
+JUSTICE SOTOMAYOR: And absent prejudice to
+the defendant, that would be okay?
+MR. HEYTENS: Absent prejudice or some sort
+of double jeopardy problem, that's correct. The
+statute, by its terms, says as long as the victim comes
+forward within 60 days of the discovery of his losses,
+(d)(5) expressly says that the victim can do that. So I
+think this --
+JUSTICE SOTOMAYOR: I'm sorry, that's
+60 days after the restitution order has been issued. Am
+I --
+MR. HEYTENS: I believe that's incorrect,
+Your Honor. The provision that we're referring to,
+subsection (d)(5), is reproduced on page 6A of the
+appendix to the government's brief. It's the, I
+believe, second sentence of (d)(5) that we're
+discussing right now that states: "If the victim
+subsequently discovers further losses, the victim shall
+have 60 days after the discovery of those losses in
+which to petition the court for an amended restitution
+order."
+JUSTICE SOTOMAYOR: That 60 days says after
+there has been an -- a restitution order. I'm positing
+the situation where the victim comes 10 years later.
+MR. HEYTENS: That's correct.
+JUSTICE SOTOMAYOR: That says there's no
+restitution order. It's the initial action. And
+you're saying that's okay? It's an endless statute?
+MR. HEYTENS: It is -- it is certainly not
+okay, Your Honor. Congress has directed that this
+determination must be made and that it must be made
+within 90 days. And Federal district courts are
+required to comply with that obligation.
+But what Congress has not done is to specify
+a consequence that occurs in the situation where the --
+JUSTICE SCALIA: But it -- it -- it's sort
+of a ridiculous consequence that 5 years later, and
+the judge who tried the original case is dead.
+I think it's bad enough to have the issue of
+whether this victim suffered $100,000 damages
+decided by the judge, if that's what you're going to be
+sentenced to, but at least it's being decided by the
+judge who tried the case. And under your proposal, it
+can be decided by some other judge who is just -- just
+pulled in, because the -- the trial judge has -- has
+been deceased. That doesn't seem to me to make any
+sense at all.
+MR. HEYTENS: Your Honor, I don't think it
+is our proposal. Congress has not specified -- Congress
+has certainly required this to be done within 90 days.
+That meant Congress wanted it to be done within 90 days.
+But Congress has not specified a consequence for --
+CHIEF JUSTICE ROBERTS: Well, the
+consequence is the usual consequence when trial courts
+make errors, which is to appeal.
+MR. HEYTENS: Your Honor, I think this Court
+said in Montalvo-Murillo what the consequence is in this
+category of cases, which is when a trial court fails to
+comply with a mandatory time limitation for doing
+something that the court is required to do, the remedy
+is -- unless Congress provides otherwise, such as it
+does in the Speedy Trial Act, the remedy is not a loss
+of the power on the part of the court to act.
+JUSTICE SCALIA: Doesn't the statute
+establish time limits for filing an appeal?
+MR. HEYTENS: The statute does, Your Honor.
+JUSTICE SCALIA: Does it -- does it state a
+remedy for it? I don't think so. But if you don't
+comply with the time limit, you're too late; you can't
+file the appeal.
+MR. HEYTENS: Justice Scalia --
+JUSTICE SCALIA: Same thing here.
+MR. HEYTENS: There's a critical difference
+between a statute of limitations for filing a notice of
+appeal and what's happening here that's illustrated by
+the example given by Judge Gorsuch in his opinion for
+the courts of appeals.
+There can be two kinds of time limits. The
+first kind can say, if you want to do something -- you're
+not required to do it -- but if you want to do it,
+you have to do it within a certain time. That's what a
+statute of limitations is.
+The second kind of time limit is to say you
+must do something and you must do it within a second --
+within a certain amount of time. This case is the
+second category, just as the statute at issue in
+Montalvo-Murillo was in the second category of cases, and
+just as --
+JUSTICE SOTOMAYOR: Except that that was a
+bail question, where there's not issues of finality at
+play, and bail is a question that repeats itself
+throughout the proceedings. Defendants are denied bail
+and then make a different showing of other
+resources or less danger or whatever, and they get out.
+And vice versa, defendants are out and are put in.
+That's it. There are no finality questions there.
+What do you do in this situation when you're
+dealing with a criminal sentence where there are
+finality rules?
+And I'm going to tie that back to my starting
+point, which is I'm looking in your brief for the
+precedent and/or legal basis for us to treat restitution
+as not part of the final judgment in this criminal
+action. What -- what other examples do we have in the
+criminal context?
+MR. HEYTENS: We cited the things we cite in
+our brief. There is, however, also a statute; I
+apologize to the Court, it is not cited in our brief,
+but it is section 18 U.S.C. section 3582(b). That
+provision is captioned Imposition of a Sentence of
+Imprisonment. Subsection (b) -- subsection (b) of that
+provision says Effect of Finality of the Judgment. It
+then says, "Notwithstanding the fact that a sentence of
+imprisonment can subsequently be" modified or altered in
+certain ways, and then this is the critical language: "a
+judgment of conviction that includes such a sentence
+constitutes a final judgment for all other purposes."
+In this case there was a judgment of
+conviction. It was entered on July 3, 2007. And that
+judgment of conviction imposed a sentence of
+imprisonment on Mr. Dolan.
+JUSTICE BREYER: Okay, now suppose -- now
+we're getting to exactly the point where I thought your
+co-counsel, your sister counsel had a good point that I
+wasn't -- hadn't thought through, and that is what
+happens now in -- on day -- we're finished the
+trial. The sentencing is over. They got the
+presentence report, and the judge enters -- suppose he
+entered a judgment but didn't say anything about
+restitution, because he says: I'd like to give you a
+chance to appeal this. And I'm not going to deal with
+restitution for a month when the victim recovers -- all
+within the 90 days.
+Can the defendant appeal that piece of
+paper?
+MR. HEYTENS: Yes.
+JUSTICE BREYER: The answer is because of
+this provision?
+MR. HEYTENS: We think because of that
+provision and because of general principles of law.
+JUSTICE BREYER: Whoa, whoa. What about
+what the -- what -- what you just heard quoted,
+forgetting this particular sentence in the code, was that
+a judgment isn't final -- you can only appeal a final
+judgment until all the parts that are there, and the
+restitution is part of it. And so until it's final, you
+can't appeal it. That's what -- that's what the case
+Parr, which it quoted. What is -- what is your response
+to that?
+MR. HEYTENS: That certainly establishes the
+general rule that this Court has said repeatedly --
+JUSTICE BREYER: Yes.
+MR. HEYTENS: -- that the jurisdiction of the
+Federal courts is established by Congress.
+JUSTICE KENNEDY: Well, I just want to make
+clear where we are. Justice Breyer said, can the
+defendant appeal? You said yes. Suppose he said, must
+the defendant appeal?
+MR. HEYTENS: The defendant in our view is
+required to appeal --
+JUSTICE KENNEDY: Must?
+MR. HEYTENS: Once the district court enters
+a judgment that imposes a sentence of imprisonment, if
+the defendant wishes to appeal that sentence of
+imprisonment he has 14 days to do so following the entry
+of the judgment, yes, which is the normal rule in
+Federal criminal cases.
+JUSTICE GINSBURG: And if he misses --
+JUSTICE KENNEDY: Even though -- even though
+he says the restitution shall be held in abeyance
+pending receipt of information?
+MR. HEYTENS: Well, to the extent that he
+has an objection to the district court's -- it depends
+on the precise circumstances of the case, Justice
+Kennedy. To the extent what he says is, I think the
+district court needs to, when it imposes the sentence of
+restitution, take into account the other aspects of the
+sentence, at that time the issues become interrelated.
+JUSTICE SCALIA: Let me see if I understand
+this. He has 14 days to appeal that. And if he doesn't
+do that, then later within the 90 days or even after the
+90 days, a sentence of restitution is imposed, he can --
+he can appeal that sentence of restitution, right?
+MR. HEYTENS: Absolutely.
+JUSTICE SCALIA: On the same grounds on
+which he would have appealed the -- the sentence of
+imprisonment, right?
+MR. HEYTENS: Well, it -- to the extent --
+JUSTICE SCALIA: If -- if it's an error in
+the trial, he claims: I was innocent.
+MR. HEYTENS: No, Justice Scalia.
+JUSTICE SCALIA: No?
+MR. HEYTENS: To the -- his time for
+appealing from the judgment of conviction runs from the
+entry of the judgment of conviction, which is
+contemporaneous with the imposition of the sentence of
+imprisonment. If he wants to appeal that, he needs to do
+that like any other --
+JUSTICE BREYER: Well, I suppose it's no -- no
+imprisonment; it's supervised release. Now what
+happens?
+MR. HEYTENS: If it's -- if the judge imposes a
+sentence of supervised release, I am not aware if there
+is a specific statute.
+JUSTICE BREYER: Yes, but I mean, what's
+bothering me about this, and I'm not aware -- but you're
+quoting a sentence that wasn't in your brief and what I
+hadn't taken in at all is the extent to which this is
+inextricably mixed up with the rules of appeals, which are
+very important.
+So unless I have in my own mind how -- how
+this all fits together, I -- I don't know how to decide
+this case. I don't want to say something in here that's
+going to muck up the -- the rules of appealing from a
+criminal case.
+Now, what you've told me is I'm supposed to say
+that within 14 days of a -- of a judgment imposing imprisonment,
+he has to appeal, but of course if it's supervised release,
+he doesn't, or I'm not sure.
+MR. HEYTENS: Justice Breyer, first and
+foremost, the Court doesn't need to say anything about
+any of these issues.
+JUSTICE BREYER: Why not?
+MR. HEYTENS: For one very simple reason:
+The only thing that this defendant has ever attempted to
+appeal at any point is the order of restitution. He
+never attempted to appeal from his guilty plea.
+JUSTICE BREYER: Yes, but if -- but I have
+to be able to write my reasons, and in doing that I have
+to respond to the argument of the other side, which is
+that the strongest reason for thinking Congress intended
+this to be final and not beyond 90 days is that if you
+don't do that, you muck up the rules of appeal. Now,
+explain to me why that isn't so.
+MR. HEYTENS: A couple of reasons, Your
+Honor: First of all, I think it's actually one of the
+strongest arguments against their position, because it
+creates the unlikely scenario where it will be
+routinely -- we know that Congress has authorized these
+determinations to be made up to 90 days after the
+imposition of sentence. So their rule would create the
+situation where it would be completely consistent with
+Congress's intent to routinely create a situation where
+a Federal criminal defendant has to wait 3 months after
+sentencing until he can appeal.
+JUSTICE BREYER: Which is just what you say
+he has to do if the sentence is supervised release.
+MR. HEYTENS: What I'm saying, Justice
+Breyer, is I -- I -- I know there is a statute that
+governs imprisonment. I believe there is a similar
+statute that governs a sentence of probation.
+JUSTICE SCALIA: What was that statute on
+imprisonment?
+MR. HEYTENS: 18 U.S.C. 3582(b), Justice
+Scalia. I know there is a statute that governs that.
+We also know there is a statute governing a term of
+restitution itself. That's the provision cited, 3664(o),
+which is reproduced at 11a of the appendix to our
+brief --
+JUSTICE SCALIA: I've got it.
+MR. HEYTENS: -- which is the rules
+governing finality with regard to an order imposing
+restitution.
+JUSTICE GINSBURG: Mr. Heytens, one problem
+with the -- we have said that notice of appeal -- that
+that time limit is jurisdictional, which means if the
+defendant misses that deadline, no appeal. And we're
+leaving this in a nebulous state if the judge says,
+within -- this is -- this is a judgment of conviction
+and sentence, but I'm still thinking about the
+restitution.
+The defendant has to know at that point,
+must I appeal that first judgment? Because if I don't,
+I'll never be able to appeal it.
+But on your reading, the defendant can't
+wait. When the judge imposes a sentence, the defendant
+must meet the time clock for notice of appeal from the
+sentence.
+MR. HEYTENS: That's correct,
+Justice Ginsburg. In our view, the defendant -- when
+the judgment of conviction was imposed on this case,
+which imposed a sentence of imprisonment on Mr. Dolan,
+the time for appealing the judgment of conviction and
+the term of imprisonment began to run.
+If I could go back to Justice Breyer's
+question --
+JUSTICE GINSBURG: But that -- that would
+mean even if the judge says, I'm going to impose the
+restitution order 10 days from now, defendant's time
+clock for notice of appeal would begin at -- at the time
+the sentence is imposed, not 10 days later when
+restitution is --
+MR. HEYTENS: That's correct. He files a
+notice of appeal when the judgment of conviction
+is entered, and then 10 days later he can file a second
+notice of appeal, and courts of appeal can consolidate
+that case in the ordinary course.
+You don't -- to answer Justice Breyer's very
+specific question about the supervised released, I have
+been advised that a district court cannot impose a term
+of supervised release unless it also imposes a sentence
+of imprisonment. So that particular hypothetical that
+Justice Breyer raised wouldn't arise. The court
+can't just --
+CHIEF JUSTICE ROBERTS: Counsel, let's --
+let's suppose there's no 3664(d)(5), and we're back to
+just 363(a)(1), which says when sentencing a defendant,
+the court shall order restitution. What if the
+judge doesn't -- is that mandatory? It has to be when
+sentencing the defendant?
+MR. HEYTENS: I don't think so, Your Honor.
+I think what --
+CHIEF JUSTICE ROBERTS: So you think even
+without 3664(d)(5), the judge can say: I know it says
+when I'm sentencing I've got to order restitution.
+But 2 months later, he can do it?
+MR. HEYTENS: Mr. Chief Justice, let me
+amend my answer slightly. He -- the judge is required
+to do it when sentencing --
+CHIEF JUSTICE ROBERTS: Yes, but nothing
+happens if he doesn't. Is that --
+MR. HEYTENS: Well, the question then
+becomes one of a remedy. The court is required to do it,
+and the question becomes what is the remedy when the
+court does not. And what the Court said in
+Montalvo-Murillo is that we presume that Federal
+district courts will comply with the law, and that it is
+inappropriate in situations where Congress doesn't
+specify a remedy for courts to impose their own remedy.
+That was exactly the situation in Montalvo-Murillo.
+JUSTICE BREYER: Why don't we go back to my
+hypothetical --
+MR. HEYTENS: Sure.
+JUSTICE BREYER: -- and just substitute the
+word "fine" for "supervised release."
+MR. HEYTENS: Justice Breyer, I'm -- I'm fairly
+certain there is a statute that addresses the finality
+when it comes to a sentence that imposes a term of a
+fine, which is similar to the statute that addresses
+finality of a judgment of conviction that imposes only
+a term of imprisonment.
+JUSTICE BREYER: I'm not -- I'm not an
+expert in this area, as you can see. And -- and I need
+to have a place to go to look so that I can see that
+these things, in your view, all work out, and you're
+not creating some odd appellate system. Do you have any
+suggestions for me as to what I could go and read and
+look at that would help me?
+MR. HEYTENS: Justice Breyer, to address
+your very specific fine question, there is in fact a
+statute that addresses that as well. That is 18 U.S.C.
+3572(c). It's structured very similarly to the -- the
+section regarding judgments of imprisonment that I
+quoted to the Court earlier, and Congress has addressed
+that. It says: "Notwithstanding the fact that a
+sentence to pay a fine can subsequently be altered in
+various respects, a judgment that includes such a
+sentence is a final judgment for all other" --
+JUSTICE BREYER: Can the (o) -- you
+remember -- you know what I'm referring to by (o)?
+MR. HEYTENS: Yes, Justice Breyer.
+JUSTICE BREYER: All right. Can that be
+read to refer to initial -- an initial judgment of
+restitution as well as an amended judgment?
+MR. HEYTENS: Absolutely, Justice Breyer.
+That's exactly what the First Circuit said in the Cheal
+case, which is cited in our brief. The First Circuit in
+that case addressed an initial judgment that said,
+similarly, somewhat, to the judgment in this one -- the
+original judgment, if you recall, in this case says the
+Mandatory Victims Restitution Act is applicable;
+however, the court does not have sufficient information
+to calculate restitution at this time. What the First
+Circuit reasoned in Cheal is that that can be
+interpreted as a judgment imposing a restitution
+obligation, which is thus final under subsection (o).
+If you conclude that, you don't need to look at any
+other statute to resolve --
+JUSTICE SCALIA: Even though there's no
+amount given?
+MR. HEYTENS: Yes, Justice Scalia. Because
+the one thing we know for certain is that even if it had
+stated an amount, the fact that the amount can be amended
+later doesn't deprive the judgment of finality.
+JUSTICE STEVENS: May I ask this --
+JUSTICE SCALIA: Simply because when you
+state an amount, that amount can be amended later, that
+leads to the conclusion that you need not even state an
+amount? Do you do the same thing for imprisonment? You
+say: I'm going to send you to prison; I'm not sure how
+many years, but I'm going to send you to prison. Is
+that appealable right away?
+MR. HEYTENS: Well, Justice Scalia, the
+district court is not permitted to do any of this.
+Congress has required the district court to set the
+amount --
+JUSTICE SCALIA: I understand that, but
+district courts don't always do what they are supposed
+to. And it seems to me a very strange result that
+you're --
+MR. HEYTENS: It's true that, regrettably,
+district courts sometimes don't do what they are
+supposed to. What this Court has said, most notably in
+Montalvo-Murillo, is that we should assume that they
+will, and that it's inappropriate for courts to craft
+legal rules that are based on the presumption that they
+are going to violate their legal obligations.
+JUSTICE STEVENS: May I ask this
+hypothetical? Supposing the defendant fails to appeal
+when he's sentenced, and then 90 days later, they impose
+a restitution order and he appeals from that. May he
+raise the issues about guilt and innocence and error in
+the trial in that appeal?
+MR. HEYTENS: Justice Stevens, just to make
+sure I understand -- I want to make sure I understand
+the hypothetical -- it's that the district court
+sentences him, enters a judgment of conviction, and then
+90 days later imposes an order of restitution?
+JUSTICE STEVENS: Correct.
+MR. HEYTENS: Okay. In that situation, no.
+It is the government's view that he has -- the time for
+appealing the judgment of conviction and the sentence of
+imprisonment has run.
+JUSTICE STEVENS: But he -- he can appeal
+just the restitution order.
+MR. HEYTENS: Just the restitution order, in
+that situation, yes. Now, if he has appealed them both,
+they can be consolidated, which has been done in several
+cases in the courts --
+JUSTICE STEVENS: No, I understand that.
+MR. HEYTENS: -- in the circuit court of
+appeals.
+JUSTICE KENNEDY: You attach no significance
+to the fact that in this case the judge said: I shall
+order restitution? It's the same as if he said nothing
+at all about restitution, so far as you are concerned?
+MR. HEYTENS: We think this makes it an
+easier case, in terms of it establishes that there is no
+conceivable prejudice to Mr. Dolan as a result of the
+delay in this case.
+JUSTICE STEVENS: Let me ask you this
+question: If we conclude there's a hole in the statute
+that Congress has to amend, is it more likely that
+Congress will cure the statute if we rule for you or if
+we rule against you? It's pretty clear, the answer to
+that, isn't it?
+MR. HEYTENS: Yes, Justice Stevens. I think
+Montalvo-Murillo supplies the answer to that.
+Montalvo-Murillo says, where Congress does not supply a
+remedy for violation of a statutory time obligation, it
+is inappropriate for courts to invent their own in order
+to coerce district courts into complying --
+JUSTICE GINSBURG: So this then becomes a
+goal, not a time line -- a deadline?
+MR. HEYTENS: I think -- at some point, it
+becomes a debate over precise wording, Justice Ginsburg.
+I think it is a deadline. I think Congress intended for
+district courts to do this. I think district courts who
+have sworn an oath to uphold the Constitution and laws
+of the United States are required to do it.
+The question is: What is the remedy in the
+rare, regrettable situation where they do not do it? And --
+CHIEF JUSTICE ROBERTS: So a -- a defendant
+who is sentenced to a week in prison, and he decides,
+that's no big deal, I'm not going to appeal, and then
+finds out, you know, 90 days later he has got to pay a
+million dollars in restitution, is just out of luck,
+right?
+MR. HEYTENS: Well, that would be -- yes.
+That would be our view, Mr. Chief Justice. Now, what I
+would say is, it is, first of all, our view that the Court
+doesn't need to resolve any of this. But, second of all,
+one of the reasons is there is another way the Court
+could resolve this, which is to follow the approach the
+Court took in its decision in Corey v. United States,
+which is cited in the blue brief.
+Now, Corey involved a statute. It's
+presentence -- it's pre-Federal sentencing guidelines.
+It involves a statute that said if, at the time of the
+sentencing, the district court feels like it needs more
+information to decide how long to send the defendant to
+jail for, it may commit the defendant to the discretion
+of the Attorney General for a period of either 3 to
+6 months; get, essentially, a PSR, before there were
+PSRs; and then make a determination then.
+The Court in Corey faced the question: When
+the district court does that -- it says, I'm going to
+give you to the Attorney General, and we'll come back in
+6 months and decide what your sentence will be -- when
+does the defendant have to appeal? That was the
+question before the Court in Corey.
+What the Court said in Corey is that the
+defendant may appeal either at the time he is committed
+to the discretion of the Attorney General or at the time
+the district court imposes the final sentence. The
+reason the Court said that -- this is the language
+that's cited in the blue brief -- is the Court said it
+would be extraordinary to tell a Federal criminal
+defendant that he might have to wait up to 6 months in
+order to take a notice of appeal from his judgment of
+conviction.
+JUSTICE BREYER: Look, you straightened me
+out, from your point of view. But now you've mixed me
+up again.
+(Laughter.)
+MR. HEYTENS: Sorry. I didn't realize,
+Justice Breyer.
+JUSTICE BREYER: Because I think you said
+that the defendant is just out of luck. But, previously,
+you had said that (o) applies, so I thought what you
+were saying was that the sentence of imprisonment is
+immediately appealable and must be appealed within
+14 days because of that 3582.
+MR. HEYTENS: That's our --
+JUSTICE BREYER: And then you said (o)
+applies, and (o) says that a sentence that imposes an
+order of restitution is a final judgment. So if (o)
+applies, when, 8 months later or 20 months later,
+that restitution is made final and embodied in another
+judgment, that is a final judgment which can't be
+appealed.
+So if you're right about (o) applying, then
+the answer to the question is, no, he is not out of
+luck. Now, don't just agree with me because I seem to
+be on your side in this question.
+(Laughter.)
+MR. HEYTENS: No --
+JUSTICE BREYER: I've got to figure this
+out.
+MR. HEYTENS: I apologize, Justice Breyer.
+The government's position is that at the time the
+judgment of conviction and the sentence of imprisonment
+are entered, that is the time at which the defendant has
+to appeal and, in our view, he may appeal. Later, when
+the sentence of restitution is imposed, that is when
+he appeals that.
+What I was suggesting is that, to the extent
+the Court has any concern about that, the alternative
+way of resolving this issue would be the same way the
+Court approached the issue in Corey, and you could say
+that the defendant could appeal at either time.
+Now, we think that would be incorrect, but
+it would be open to the Court to do so to -- or to leave
+the issue open in order to resolve this case. Because
+as I said before, this defendant never attempted to
+appeal his judgment of conviction or his original term
+of imprisonment. So it's not, in this case, necessary
+to decide what exactly would have happened had he
+attempted to do so.
+JUSTICE SCALIA: This criminal judgment of
+restitution -- I assume it's the judge who finds that the
+victim suffered so much money?
+MR. HEYTENS: That's correct,
+Justice Scalia.
+JUSTICE SCALIA: Does he find that beyond a
+reasonable doubt?
+MR. HEYTENS: No, Justice Scalia. The
+burden --
+JUSTICE SCALIA: Just more likely than not?
+MR. HEYTENS: That's correct.
+JUSTICE SCALIA: And it's a criminal --
+it's a criminal judgment?
+MR. HEYTENS: That's what Congress has
+provided. And in this Court's decision in Oregon v.
+Ice, the Court, admittedly in dictum, stated that
+restitution determinations are a category of
+determinations that have been historically made by the
+court, not by the jury. And regardless of what anyone
+thinks is the answer to that question, it is certainly
+not within the question presented. It has not been
+raised at any point by the Petitioner in this case.
+JUSTICE KENNEDY: I suppose that an answer to
+the Chief Justice's concern about the 1-week sentence and
+-- and he's not concerned -- is that all criminal
+defendants know that an adjudication of guilt is
+preclusive of later issues with -- with respect to civil
+-- civil liability, and they take their chances.
+But that -- that points up a difference
+between this case and Montalvo-Murillo. In this case,
+finality is central to the system, and that wasn't --
+that's not really -- wasn't really true in Montalvo.
+MR. HEYTENS: That's certainly correct,
+Justice Kennedy. That was by its terms a bail
+determination, which by its nature is not a final
+determination in the sense that a criminal statute is,
+though the Court's language doesn't really suggest that
+that would make any difference. And I would say that
+some of the other cases in this same line of cases,
+including some of the ones Justice Breyer mentioned, did
+raise finality concerns. There was a very strong
+finality concern raised in the Peabody Coal case. There
+were finality concerns raised in Brock, that Congress
+had said this needs to be done, and once it's done, it
+needs to be done. And so, there are -- some of the
+cases in this same line have also involved finality,
+admittedly not in the criminal context.
+But I think the -- the most important thing
+that the Court said in -- the two most important things
+that the Court said in Montalvo-Murillo, as are relevant
+here, is that, first, when Congress doesn't specify a
+remedy -- and Congress has not specified a remedy in
+this case -- it's inappropriate for courts to impose
+their own.
+The second thing that the Court said is that
+we should presume that Federal district courts are going
+to comply with legal obligations, and we shouldn't make
+rules based on the assumption that they won't.
+And third is that when courts do impose
+remedies, they shouldn't make -- impose a remedy where
+there's a profound lack of fit between the violation that
+occurred and the remedy that the defendant is asking
+them to impose.
+Let me give you an example on that. The
+general rule in Federal criminal litigation is that the
+Federal district court is supposed to impose sentence
+without unnecessary delay. Now, say the district court
+violates that obligation. It takes too long to impose a
+sentence. I think it would be extraordinary to suggest
+that the remedy of a district court's unnecessary delay
+in sentencing the defendant means the defendant should
+get off scot-free.
+The remedy is to tell the district court you
+have taken too long to impose the sentence; impose the
+sentence forthwith.
+The same thing is true here. Congress has
+told the district court you need to impose restitution
+in every case where the defendant is convicted of a
+crime of violence.
+CHIEF JUSTICE ROBERTS: So, your argument is
+"not to exceed 90 days" means the same thing as "without
+undue delay"?
+MR. HEYTENS: We don't think it means the
+same thing, Mr. Chief Justice. What we think it means
+is the violation should have the same consequences. The
+violation is to say if you don't do what you are
+supposed to, the remedy is to do it immediately. The
+remedy isn't to say you don't have to do it anymore.
+If there are no further questions, the
+government urges that the judgment of the court below be
+affirmed.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Ms. Karlan, you have 4 minutes.
+REBUTTAL ARGUMENT OF PAMELA S. KARLAN
+ON BEHALF OF THE PETITIONER
+MS. KARLAN: I have three points -- excuse
+me -- to make: The first goes to what the remedy is
+here and what the error is here. The error here
+occurred when the district court did not impose
+restitution. The government should have filed a timely
+appeal under Rule 4. They had 30 days to do so. The
+government did not appeal the failure to make
+restitution.
+That error is not before this Court now.
+What's before this Court is a second judgment.
+JUSTICE SOTOMAYOR: They couldn't do that
+until the end of the 90 days. If the judge has 90 days
+to order restitution, that's a vicious cycle argument.
+MS. KARLAN: No, Justice Sotomayor, because
+had the -- had the government on October 28 looked and
+said, there's no restitution order in this case, they
+could have filed an appeal then under Rule 4, and they
+would have won. They didn't do so.
+Second --
+JUSTICE GINSBURG: Well, that's rather
+theoretical because if that -- I mean, the -- the judge
+surely would have acted before he could process an
+appeal.
+MS. KARLAN: Well, he lacks actually the --
+the power to do that. Once the appeal is taken, he
+can't do that. And may I just say that here I think the
+critical rule to understand is one sentence, one appeal.
+So turning first --
+JUSTICE SOTOMAYOR: But that's not true. I
+don't know if you've had time to look at 3582 or 35 --
+MS. KARLAN: Yes, I have.
+JUSTICE SOTOMAYOR: Those do appear to say
+that once there's a term of imprisonment, that that
+constitutes a final judgment.
+MS. KARLAN: But they do so in the context
+of Section 3553(a), which is cited on page 6 of the
+yellow brief, which says "the court shall impose a
+sentence."
+Now, the different components can each be
+added together. But there is one sentence in a criminal
+case on a particular charge, and that sentence can
+include restitution, it can include a fine, it can
+include imprisonment. That doesn't make it three
+sentences. And only when all of those have been imposed
+is there a final judgment. Until then, the judgment --
+JUSTICE ALITO: It can also include
+forfeiture. What's -- what is the rule for forfeiture?
+MS. KARLAN: I don't know the rule for
+forfeiture. I do know the rule for all of the other criminal
+proceedings, which is 3582(b), to which the government
+refers; 3572(c) for fines; 3562(b) for community
+release; and 3664(o) for restitution. All of those have
+to make one sentence, and then there is one appeal.
+Under our rule, which I think comports with
+the plain language of the statute, we know when an
+appeal takes place, and there will be one appeal. Under
+the government's rule --
+JUSTICE ALITO: What is the difference -- in
+response to the last argument that your opponent made,
+what is the difference between the provision here and
+Rule 32(b)(1) of the criminal rules, the court must
+impose sentence without unnecessary delay?
+MS. KARLAN: There, the question is, did it
+do it without unnecessary delay? Here the question is,
+did it do it within 90 days? When it didn't, the
+government had to appeal. The government did not do
+that.
+JUSTICE ALITO: So if the -- I didn't
+understand the answer. If the sentence is not imposed
+without unnecessary delay, the consequence is that there
+can be no sentence?
+MS. KARLAN: No. This Court has never
+decided what the rule means there. But this is a
+statute. And if I could turn to the question of what
+the statute --
+JUSTICE SCALIA: Before you do that, tell me
+what the government appeal would consist of. The 90 days
+has expired --
+MS. KARLAN: And the judgment of August 8th
+became final.
+JUSTICE SCALIA: And you -- you tell
+me the court -- the court has no ability to impose
+restitution after 90 days.
+MS. KARLAN: That's right. The --
+JUSTICE SCALIA: What's the use of appealing?
+MS. KARLAN: Because on appeal you say the
+court erred, and it imposed an illegal sentence --
+JUSTICE SCALIA: And the appellate court says
+too bad --
+MS. KARLAN: No --
+JUSTICE SCALIA -- 90 days are up.
+MS. KARLAN: No, Justice Scalia. In the
+same way that if a court failed to impose a mandatory minimum
+sentence and there was a final judgment, the government
+could appeal. And the fact that the initial sentence
+didn't do that doesn't mean anything at that point.
+JUSTICE SCALIA: There is no time limit on
+the mandatory minimum.
+MS. KARLAN: But the -- but -- but, Your
+Honor, if the government appeals an illegal sentence,
+that sentence can be corrected and the new mandate from
+the court of appeals saying you erred in not imposing
+mandatory restitution starts the 90-day clock again.
+Now, this is --
+JUSTICE BREYER: Could you go back to --
+could you go back to Justice Alito's question,
+because --
+MS. KARLAN: Yes.
+JUSTICE BREYER: -- that was exactly the
+same thing. I think what he may be saying, though, is
+it makes more sense to read these statutes as saying
+imprisonment or community -- or community service, a
+form of supervised release, or fines -- I don't know
+about forfeiture -- can be appealed as separate final
+judgments, because then you don't have to wait for
+90 days.
+MS. KARLAN: No.
+JUSTICE BREYER: And if you read it that
+way, it's fairer to the defendant, and you don't have to
+worry about the restitution appeal because of (o).
+Now, what blocks the reading -- what blocks
+the reading I just gave?
+MS. KARLAN: The principle that there must
+be one sentence that determines each of the punishments
+for a particular crime.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+The case is submitted.
+(Whereupon, at 11:08 a.m., the case in the
+above-entitled matter was submitted.)
+60:15 allowed 6:17 35:14,24,25 approach 48:16 60:14
+43:23 38:19,25 39:12 April 1:9 b 13:25 34:3,3
+47:10 41:13,13 46:1 argument 1:12 49:5 59:16,17
+14:1 7:20 19:14 55:17,18 56:3 14:8 26:21 52:25
+27:25 amount 3:20 56:9,11,13 28:3 38:22 balance 12:21
+44:13 4:20 7:19 57:14,17,17 54:21 55:10,24 13:15,18 14:9
+33:21 24:1 33:2 appealable argument's barred 4:14
+analogous 23:12 appealed 37:3 54:3 basis 7:8 33:19
+and/or 33:19 59:25 36:19 began 41:1
+44:10 announces 5:9 37:11 38:6 Assistant 1:17 2:4,7,10 3:8
+4:18 58:21 51:18 believe 7:2
+42:10 47:12,15 22:6 23:22 attach 46:25 39:17
+58:5 29:2 32:19 38:19 51:12,16 beyond 38:24
+6:2,9,15,23,24 appears 18:24 attorney's 18:14 boil 20:24
+8:7 12:1 19:15 20:4 39:25 authorizes 3:15 15:19,21,24
+22:1,4 24:22 10:1,14,17,21 22:25 57:12 consequences
+27:23 28:16 11:4 22:7 28:1 59:23,23 55:1
+29:1,5,9 31:5 28:5 31:20 complete 5:8,14 consider 27:7
+25:5,7 31:10 33:2 41:22 42:5,9 completely 39:9 considering
+34:10 35:14 42:12 48:5,12 complication 22:22
+36:16 38:5,7 52:15 54:21,25 24:17 consist 58:13
+40:23 41:14 55:8 60:12 comply 30:25 consistent 12:2
+35:4,8 44:9,10,12 circle 8:14 32:1,11 42:19 39:9
+37:16 47:1,5,7 51:11 circuit 8:8,21 53:23 consolidate
+38:12,15 51:14 52:13,21 19:22 28:16,18 complying 47:19 41:13
+39:13,16 52:21 53:8,19 44:8,9,16 component 8:23 consolidated
+42:23 54:19 56:2 46:23 components 28:15 29:7
+57:2 60:13,14 circumstances 8:23 17:8 46:20
+cases 8:13 14:9 19:19 36:16 56:25 constitutes 7:19
+16:14,15 19:17 cite 8:15 27:18 comports 57:15 34:9 56:20
+23:22 27:19 33:23 conceivable 47:6 Constitution
+59:16,20 28:9,11,18 cited 21:23 concern 51:5 48:1
+29:1 31:25 28:17 33:23,25 52:15 53:8 contemplates
+21:23 catch 27:19 civil 15:9 18:9 conclude 44:19 context 19:10
+30:7 category 31:25 18:15,17,25 47:9 23:19 33:22
+33:3,4 52:8 19:7,12,25 conclusion 45:5 53:13 56:21
+40:1 causes 14:12 20:1 23:12,19 confirmed 4:2 continuance
+48:18 central 52:22 27:22 52:18,19 confront 28:9 25:14 26:6,11
+56:23 certain 3:13 claim 11:18 confronts 29:10 26:12
+24:3 59:14 19:5 20:2 21:1 16:11,12
+18:21,22 challenging collateral 16:15 35:21 38:23 29:13 34:8,11
+44:15 19:13 20:23 23:23 39:6 42:20 34:12 37:11,12
+6:10 44:8,16 committed consequence correct 5:16 7:2
+12:6,8 Chief 3:3,9 9:1,6 49:10 31:2,4,19,21 7:17 9:11 10:4
+17:8 18:9 9:12,18,23 community 31:21,24 58:6 14:17 20:10,14
+20:11
+26:7,8 54:14,18 55:6 cycle 55:24 49:6 51:15 3:20 4:20 5:10
+28:23 55:15,20,21 decided 16:1 10:3,8,11,18
+30:17 56:23 57:22 D 31:8,9,11 58:9 10:19 30:23
+41:10 58:8,18,18,23 d 3:1 29:24 30:6 decides 48:6 49:2 53:1,2
+51:20 58:24 59:4,13 30:8 decision 21:24 determinations
+courts 3:16 damages 31:7 28:16 48:17 39:7 52:8,9
+59:12 27:20 28:11 date 4:19 5:4 9:2 decisions 20:22 22:3
+34:16 45:15,19,22 14:25 11:14 12:11 didn't 49:23
+55:8 46:21 47:18,19 dates 19:15 14:12 15:17 difference 15:12
+47:25,25 53:19 day 4:10,18 5:18 17:18,20 19:7 15:14 18:2
+21:10 36:15 52:6 7:9 8:18 9:16 29:19 35:1,24 17:8,19 19:16
+38:10 53:3 54:11 10:3,9,10,19 35:25 36:1,6 21:10 33:10
+court-made 10:23 11:5,6 38:17 39:11 56:25
+4:2,3,5 co-counsel 34:16 12:24 14:18 40:22 41:24 direction 4:5
+5:4,7 craft 45:22 16:5 20:3,7,8 42:2 46:1 48:5 directly 27:24
+7:10 8:9 create 39:8,10 24:16 25:5,13 48:23,24 49:7 28:9 29:9
+10:2,7 creates 39:5 26:3,11,22 49:10,16 50:1 discovering 7:8
+creating 43:13 27:10,16 28:19 50:25 51:8,12 discovers 30:10
+12:25 crime 19:5 54:20 28:22 29:23 54:3,12,12,19 discovery 29:23
+19:18 60:11 30:2,11,14,24 60:5 30:11
+21:22 crimes 3:13 31:17,18 34:25 defendants discretion 48:24
+23:1,17 criminal 6:7,9 36:7,22,23,24 13:17 19:12 49:11
+28:6 12:23 14:14 38:9,24 39:7 33:9,12 52:17 discuss 29:1
+30:12 15:8 16:14 41:6,8,12 46:2 defendant's discussing 30:9
+32:2 17:8 18:3,6,7 46:10 48:8 3:12 18:18 dismissed 27:21
+33:25 18:18,22 19:8 50:5 54:22 41:6 dispositive 4:5
+36:4,18 19:17 20:1 55:17,23,23 defer 24:9 district 3:14,16
+41:17,20 23:18,22 24:20 58:1,13,19 delay 23:13 4:8,17,23
+42:15,17 33:15,20,22 59:2 60:2 24:19 47:7 10:25 11:8
+43:21 36:9 38:7 dead 31:5 54:8,11,23 30:24 36:4,15
+45:11,12 39:11 49:15 deadline 21:2 57:23,25 58:6 36:18 41:17
+46:8,23 51:17 52:3,4 40:9 47:21,24 denied 33:9 42:19 45:11,12
+52:16 53:2,13 deadlines 3:22 Department 45:15,19 46:8
+54:6 57:1,10 deal 34:23 48:7 1:18 14:23,25 47:19,25,25
+51:5 57:22 dealing 33:15 depends 36:15 48:22 49:4,12
+52:7 critical 32:15 debate 47:23 deprive 45:1 53:22 54:7,8
+53:15,16 34:7 56:13 deceased 31:13 design 13:25 54:11,14,18
+54:7,8 cure 47:11 decide 16:14 determination 55:15
+48:23
+38:21 ESQ 1:15,17 2:3 46:1 33:16 34:4 F.R.A.P 8:24
+40:24 essentially 49:1 fairer 60:5 45:1 52:22 G
+establish 32:7 fairly 43:3 53:7,8,9,12 G 3:1
+exactly 34:15 30:24 35:21 18:3,5,22 24:2 54:6
+59:20 42:18 49:15 43:23 57:3 getting 34:15
+49:10 54:22 filed 11:24 55:16 40:15 44:8,9 22:14,15 34:22
+excuse 4:7 55:12 56:3 44:15 48:13 49:5 54:5
+8:11,24 extend 24:12 10:8,10,18,18 15:14 36:7 goal 47:21
+41:12 extended 6:11 11:21 13:17 foremost 38:13 goes 18:4,5
+extension 13:18 15:23,25,25 forfeiture 57:8,8 55:13
+36:4 37:25 51:4 18:15 20:11,16 form 59:24 12:9 22:10,11
+extra 16:5 20:19 21:6,24 forth 13:9 22:14,15 24:8
+35:11,11,13 forward 29:23 31:8 33:17
+13:23 34:5 53:1 56:20 functionally 53:22
+37:6 46:4 47:1 59:6 59:5,25 further 7:6 Gorsuch 32:18
+failed 59:4 finality 15:16 30:10 55:5 governing 14:24
+7:7 11:23 40:6,21 41:10 58:18 59:4 13:25 31:6 33:3 51:6
+28:8 42:3,9,14,25 imposed 4:10,17 incorrect 30:4 51:7,11
+43:3,16 44:3,7 5:24 6:16 51:9 issued 30:2
+57:11 44:23 45:10,18 17:10 27:22 incredibly 15:13 issues 23:23
+59:5 46:6,12,18,23 34:12 36:24 inextricably 33:7 36:20
+47:4,14,22 40:23,24 41:8 38:1 38:14 46:4
+30:7 50:6,19,22 58:23 9:17 11:2 it's 14:2 27:8
+50:23 51:20,24 52:2 imposes 7:24 23:16 24:8 37:19 45:22
+52:5,24 54:24 11:10 27:15 36:13 44:14 53:10,19
+historically 52:9 40:18 41:18 initial 5:9 6:4 I'll 21:18 23:15
+32:8 imposition 34:2 intend 21:5
+51:15 41:19 42:24 34:13 36:5,7 22:23 24:2 12:13,15 14:11
+38:9 39:17,20 interlocutory 21:9 22:10
+34:18 Ice 52:7 43:8,20 45:6 interpretation 24:19,25 25:12
+42:13 illegal 58:23 46:15 50:3,24 16:7 21:12,14 27:9,14 31:5,8
+11:19 50:4 55:3 42:20 45:22 interpreting 41:5 42:1,6,10
+28:2,3,5,20 important 15:17 incarceration inures 18:10 4:12,15 7:3,19
+29:4,8 38:2 53:14,15 27:12 invalid 15:2 8:1,18 11:20
+30:4 impose 3:16,17 include 57:3,3,4 invent 47:18 11:20 15:25
+31:15 4:3,24 5:13 57:7 involved 23:23 16:3,15,18,20
+32:8,13 11:19 21:9 includes 17:4 48:19 53:12 17:4,7,16 18:1
+33:23 24:4 27:9,12 34:8 43:24 involves 17:8 18:13,13,16,17
+41:5,17 42:21 including 12:4 48:21 20:11,16,19
+37:1 46:2 53:19,25 27:8 53:6 involving 13:8 21:5,6,11,24
+54:1,4,7,9,15 income 12:10,12 issue 8:9,22 22:16 33:20
+39:2 54:15,18 55:15 34:4,8,9,10,12
+35:11,12 24:6,24 25:5,7 2:9 3:6,7,9 44:2,24 48:8 26:22 29:22
+37:11 25:11,18,21,24 4:13,16 5:2,6 52:17 56:16 48:23 54:9,15
+38:9 26:2,8,13,15 5:16,19 6:3,14 57:9,10,16 look 9:20 23:21
+26:18,21,24 7:2,12,17,22 59:24 24:21 43:11,15
+43:7,24 27:2,4,17 28:1 7:25 8:3,5,12 knowing 19:2 44:19 49:19
+44:5,6 28:5,8,19,21 9:4,11,22,25 56:16
+28:24,25 29:4 10:4,16,20,24 L looked 56:1
+46:9,14 29:6,8,11,18 11:7,13,17 lack 54:2 looking 10:5
+50:9,12 30:1,14,18 12:16,19 13:14 lacks 56:10 33:18
+51:13 31:3,20 32:6,9 14:2,8,17 15:4 laid 25:17 looks 22:12
+52:4 32:13,14 33:6 15:6,8,13,16 language 16:10 loses 4:23 12:11
+56:20 34:14 35:4,8 15:20,23 16:12 34:7 49:13 loss 32:4
+58:15 35:19,22,23 16:17,21 17:1 53:3 57:16 losses 10:8 29:23
+36:3,10,11,16 17:3,12,15,23 lapsed 8:18 30:10,11
+60:1 37:9,16,22 20:10,14,16,20 Laughter 49:22 lot 12:9 22:13
+39:13,15,19,21 22:18 23:4,7 law 8:19 11:21 50:16
+22:6 41:4,15,20,22 25:4,6,10,16 21:11 35:7 M
+42:5,9,12,23 25:20,22 26:1 42:19 making 13:8
+40:8 44:1,3,4,7,21 26:20,23,25 leads 45:5 mandate 59:12
+4:7,14,25 46:6,11,16,22 56:10,17,21 leaving 40:10 5:21 17:21,23
+46:25 47:8,14 57:9,24 58:8 legal 33:19 17:24 27:24
+7:5 47:20,23 48:5 58:15,20,22 45:23,24 53:23 32:1 42:1
+8:1 48:12 49:19,24 59:1,3,10,19 legislation 12:3 44:13 59:4,9
+9:1,6 49:25 50:7,20 60:3,9 13:4 14:25 59:14
+50:22 51:17,21 keep 27:16 let's 6:22 41:22 matter 1:11
+51:22,24 52:1 Kelly 19:20 41:23 60:15
+12:1 52:3,14,25 Kennedy 13:19 liability 14:13 mean 7:13,14
+13:3,19 53:6 54:21,25 14:3 35:22 52:19 10:22 14:6
+14:3,10 55:8,22,25 36:3,11,17 limit 32:11,25 16:24 20:23
+15:5,7 56:6,15,18 46:25 52:14,25 40:8 59:8 21:1 25:24
+57:7,19 58:4 kind 8:13 19:7 limitation 32:1 27:9 37:22
+16:5,16 58:12,17,21,24 32:21,25 limitations 41:5 56:7 59:7
+59:2,3,8,16,17 kinds 19:19 29:14 32:16,24 means 40:8
+59:20 60:4,12 20:24 32:20 limits 32:7,20 54:12,22,24,25
+18:2 Justice's 52:15 knew 11:15,17 line 47:21 53:5 58:9
+JUTICE 17:22 13:9 53:12 meant 14:18,19
+know 16:5,8 literally 25:19 31:18
+21:8,15 K 25:18 38:4 litigation 21:25 mechanisms
+22:7 Kapelushnik 39:6,16,22,23 54:6 25:23
+8:15 40:14 42:6 long 6:8 7:8 medical 12:7
+38:3 net 13:23 22:16 27:16 particular 35:10 55:12
+new 59:12 opinion 8:20 parts 35:12 50:23
+note 18:23 oral 1:11 2:2,5 pay 43:23 48:8 23:11
+14:11,15 32:16 40:7,19 order 3:24 5:14 Peabody 53:8 24:25
+49:17 8:10 15:25,25 penalties 22:22 25:13 32:5
+33:4 50:7,8,9,14 41:6,25 42:7 24:12 25:9 precise 36:16
+45:21 60:6 46:3,10,17,18 48:25 47:23
+52:21 oath 48:1 47:2,18 49:17 periods 3:22 precisely 8:12
+object 9:3 50:9 51:11 permitted 45:11 16:4
+20:12 44:18 47:17 ordinary 41:14 10:5 30:12 19:20
+24:10 54:9 Oregon 52:6 Petitioner 1:4,16 prejudice 29:18
+42:8 obligations original 28:13 2:4,10 3:8 29:20 47:6
+45:24 53:23 31:5 44:12 52:13 55:11 presented 52:12
+occur 3:20 9:14 51:13 piece 35:1 presentence
+43:10 once 3:22 4:21 Parr 21:22 22:4 47:22 49:20 pre-Federal
+45:5 5:7 8:17 9:17 22:4 35:15
+PSRs 49:2 43:14 44:5 37:17,20 38:10 response 5:13
+23:1 14:14 18:18 60:7,8 released 41:16 responsibility
+48:6 20:1 ready 9:9 relevant 15:12 13:12
+23:1 60:10 really 8:6 11:1 remainder 27:1 restitute 21:3
+purpose 19:10 13:20,20 18:9 remedies 54:1 restitution 3:11
+29:2,21 purposes 34:9 52:23,23 53:3 20:1 25:7 26:5 3:25 4:20,24
+put 22:25 25:2 reason 4:9 15:14 27:22 32:2,4 5:11,14,20,24
+reasonable 48:3 53:18,18 8:21 9:2,9,14
+13:9 33:9 5:13 13:21,22 25:15 remember 44:2 16:1,3,20,23
+19:24 20:25 reasoned 44:16 render 4:12 17:4 18:7,13
+56:8 27:3,4,17 28:7 39:2 48:15 35:18 19:19 21:5,9
+47:9 48:3 49:3 receipt 36:13 report 11:15 27:25 28:14,21
+52:11,12 57:24 12:23 14:19 reproduced 30:6 30:15,19 33:19
+18:4 59:17 recommended required 9:4 36:12,19,24,25
+55:5 recovers 34:24 32:2,22 36:2 40:5,13 41:6,9
+quite 11:24 referring 16:6 48:2 44:6,13,15,17
+10:22 regarding 4:6 resolved 27:11 54:18 55:16,19
+16:19,22 43:20 resolving 51:6 55:24 56:2
+R 3:1 regardless 52:10 resources 33:11 57:3,13 58:19
+30:5 34:2 raise 46:4 53:7 regrettable 48:4 respect 11:13 59:14 60:6
+35:5,7 raised 28:8 regrettably 16:21 52:18 restitutionary
+57:21 41:20 52:13 45:18 respects 43:24 6:16 27:11
+rare 48:4 related 8:22 Respondent 13:24 45:16
+23:5
+12:22 saying 6:10,15 55:21 56:5 57:5 33:14 39:9,10
+20:9,20 6:21,25 10:22 section 3:15,19 sentencing 3:16 42:22 46:12,19
+21:3 13:10,14,15 7:17 10:6 4:1,6,22 5:4,7 48:4
+30:9 24:14,21,23 17:17 18:23,24 5:9 6:4 8:11 situations 18:3
+37:4 30:20 39:15 21:18 22:20 9:20,20,24 42:20
+45:9 50:3 59:13,21 34:1,1 43:20 10:9 11:22 Sixth 19:14
+50:14 59:22 56:22 12:24 13:17 slight 24:17
+says 7:18 8:22 see 16:8,9 17:22 15:9,16 18:22 slightly 17:19
+10:2,7 13:21 send 45:7,8 20:3 22:19,21 society 14:15
+16:19,22 17:1 sense 18:12 26:19 27:7,15 somewhat 44:11
+20:17 22:10,13 31:14 53:2 34:19 39:12 sorry 30:1 49:23
+22:7 28:1 22:15 24:3 59:22 41:24 42:2,7 sort 26:3 29:20
+41:22 29:22,24 30:14 sentence 3:12,23 42:11 48:20,22 31:3
+48:5 30:18 34:4,5 4:4,10,18,25 54:12 Sotomayor 4:7
+55:8 34:22 36:12,17 5:10,21 6:16 separate 18:13 4:14 5:12,17
+40:10 41:5,24 6:18 7:23 8:23 18:14,19 59:25 8:8 19:21
+49:4 50:8 18:1 20:8 serving 23:1 55:22,25 56:15
+17:16 Scalia 4:25 5:3,6 24:13,14 25:2 9:13,14,16 sovereign 18:5,6
+7:5,13,21,23 25:2,3 27:8,9 10:2,4,7,7,22 18:11
+24:20 8:1,4 14:10 27:12 28:21 11:1 22:9 spare 19:6
+36:8 16:6 17:6,12 30:8 33:15 45:12 specific 37:21
+47:11,12 20:6,12 23:3,5 34:2,5,8,12 sets 3:13 41:16 43:17
+55:17 23:25 27:4 35:10 36:5,6 setting 10:11 specifically
+57:8,9 28:19,21,24 36:18,20,24,25 23:2 17:16
+31:3 32:6,9,13 37:3,13,20,24 Seventh 8:21 specified 31:16
+32:14 36:21 39:8,14,18 short 6:8 31:19 53:18
+24:23 39:19,22 40:2 41:8,18 43:5 side 38:22 50:17 42:21 53:17
+33:16 44:21,23 45:3 43:23,25 46:14 significance speed 26:4
+40:3 45:10,14 51:17 49:6,12 50:3,8 46:25 Speedy 32:4
+53:24 51:21,22,24 50:24 51:2 similar 25:12 squarely 29:5
+52:1,3 58:12 52:15 54:7,10 39:17 43:6 Stanford 1:15
+46:15 59:2,3,8 56:24 57:1,2 44:11 starting 33:17
+55:10
+4:3 12:7 substantial 36:19 49:17 20:24 21:13 56:16 59:8
+30:9 12:12 52:19 26:4 28:11,15 timely 8:10
+substitute 19:4 taken 27:21 29:12 33:23 55:16
+succeed 5:23 56:11 think 10:12,14 tire 14:24
+12:4,22 suffered 31:7 takes 54:9 57:17 10:24 12:17,20 Title 18:24
+17:17 51:19 talk 21:17 16:10 21:13 TOBY 1:17 2:6
+22:19 suffers 13:12 talks 9:23 22:21 23:7 24:18 28:3
+27:14 sufficient 44:14 technical 11:13 27:13 29:25 told 38:8 54:18
+sufficiently 13:6 14:4 31:6,15,23 totality 27:7
+32:6,8 suggest 53:3 tell 49:15 54:14 32:10 35:6 traditional 18:6
+33:3 54:10 58:12,17 36:17 39:3 18:7
+37:21 suggesting 51:4 term 6:16 17:4 42:3,4,5 47:4 Transportation
+suggestions 28:13 39:23 47:14,22,24,24 14:23 15:1
+43:4,6 43:14 41:1,17 43:5,8 47:25 49:25 treat 33:19
+44:20 suing 19:6 51:13 56:19 51:9 53:14 trial 14:11 31:12
+48:19 supervised terminates 54:10,24,25 31:21,25 32:4
+53:2 37:17,20 38:10 21:25 56:12 57:15 34:19 37:7
+58:10,11 39:14 41:16,18 terms 3:18 27:16 59:21 46:5
+29:4,6 supplies 47:15 28:5 55:8 thinks 6:24 24:7 54:17 56:15
+45:2,25 supply 47:16 60:12 52:11 trying 19:5
+suppose 17:20 that's 8:21 12:4 third 13:2 53:25 Tuesday 1:9
+34:14,20 35:24 12:17 15:6 thought 9:18 turn 21:18 58:10
+52:14 19:9 32:17 25:24 34:15,17 turns 22:12
+45:15,20 54:7 theoretical 56:7 thrust 12:2 13:4 28:11,17 32:20
+Supreme 1:1,12 41:23 44:21 time 3:17 4:18 U
+14:9 38:11 42:25 56:19 8:24 14:15,19 underlying
+surely 56:8 they're 9:8 24:8,10,12,15 understand 4:16
+52:22 16:8 21:4 36:20 37:10 36:21 45:14
+44:18 T 44:24 45:6 41:6,7 44:15 56:13 58:5
+34:6 tacked 19:8 54:22,25 59:21 48:21 49:10,11 13:21
+4:3 12:7 49:20 51:1 won 11:25 56:4 11:08 60:14 17:17 21:18,19
+48:2,17 violate 45:24 word 43:2 12 21:23 39:24 57:13
+57:23 violation 9:7 words 10:17 14 36:7,22 38:9 4
+58:6 47:17 54:2 work 43:12 50:5 4 8:24 22:15
+violence 54:20 worry 60:6 18 15:2 18:24
+24:10 27:11 27:14 2 4:2 22:14 55 2:10
+39:21 waited 12:15 x 1:2,7 50:10
+35:22 Y 2010 1:9 56:22
+21:22 21:2 31:18 29:15 30:16 29:23 30:2,11
+52:6 wants 6:23 31:4 45:8 3 30:14
+30:20 30th 4:23 11:22 8 50:10
+32:21 32 24:20 8th 11:20 58:15
+11:3 12:6 way 6:7 8:12,17
+37:23 32(b)(1) 57:22 89 10:23
+23:5,20 27:13
+14:13 48:15 51:6,6 43:12 50:14 35 20:4 56:16 9
+18:10 59:4 60:5 you've 38:8 3553 22:20 23:5
+14:24
+22:25 ways 34:7 56:16 27:5
+3:21 4:19 5:8
+29:15,22 week 48:6 3553(a) 56:22
+30:9,10 went 29:6 3562(b) 57:12
+31:7 weren't 13:8 3572(c) 43:19
+11:5,6
+51:19 we'll 49:5 57:12
+11:11,15,18,22
+1:4 3:4 12:24 14:18
+24:16
+13:4,7,8 34:18 40:9 1 39:21 57:11
+26:3,11
+14:1 41:23 363(a)(1) 41:24
+29:15 26:22 27:10,16
+44:13 what's 15:12 3663A(a)(1)
+52:15 28:19,22 30:24
+29:15 30:16 31:17,18 34:25
+55:21 57:8 3664(a) 18:23
+36:23,24 38:24
+46:2,10
+54:22
+58:1
+59:2
+5:18
+4:21 5:15
+13:18
+21:2
+59:14
+4:11
+5:18

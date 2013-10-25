@@ -1,0 +1,1945 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+ADRIAN MONCRIEFFE, :
+Petitioner : No. 11-702
+v. :
+ERIC H. HOLDER, JR., ATTORNEY :
+GENERAL :
+- - - - - - - - - - - - - - - - - x
+Washington, D.C.
+Wednesday, October 10, 2012
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 10:02 a.m.
+APPEARANCES:
+THOMAS C. GOLDSTEIN, ESQ., Washington, D.C.; on
+behalf of Petitioner.
+PRATIK A. SHAH, ESQ., Assistant to the Solicitor
+General, Department of Justice, Washington, D.C.;
+on behalf of Respondent.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+THOMAS C. GOLDSTEIN, ESQ.
+On behalf of the Petitioner 3
+ORAL ARGUMENT OF
+PRATIK A. SHAH, ESQ.
+On behalf of the Respondent 31
+REBUTTAL ARGUMENT OF
+THOMAS C. GOLDSTEIN, ESQ.
+On behalf of the Petitioner 61
+P R O C E E D I N G S
+(10:02 a.m.)
+CHIEF JUSTICE ROBERTS: We'll hear argument
+first this morning in Case 11-702, Moncrieffe v. Holder.
+Mr. Goldstein.
+ORAL ARGUMENT OF THOMAS C. GOLDSTEIN
+ON BEHALF OF THE PETITIONER
+MR. GOLDSTEIN: Mr. Chief Justice, thank you
+very much. May it please the Court:
+Today's undercard is an immigration case.
+Adrian Moncrieffe was convicted of possession with
+intent to distribute marijuana, under Georgia law, the
+question in the case is whether he was thereby convicted
+of a controlled substances offense, which is a
+deportable offense, but also an aggravated felony of
+illicit trafficking in drugs, which would mean that the
+Attorney General has no discretion to cancel his
+removal.
+Now, everyone agrees that, under the Georgia
+statute, there is going to be some conduct that would be
+a Federal felony, but it's also undisputed that the
+Georgia statute regularly involves prosecutions that
+would be Federal misdemeanors. So --
+JUSTICE SOTOMAYOR: Excuse me. You use that
+word, "regularly." Do you have statistics on that?
+Were they provided in the briefs?
+MR. GOLDSTEIN: They were not. We do not --
+we attempted very hard to collect them. This is the
+information I can give you about Federal and State
+prosecutions of marijuana cases in the United States.
+In the State system, the most recent
+available data -- it was published by the Department of
+Justice in 2006, but we have no reason to believe that
+it's changed materially -- in 2006, there were roughly
+750,000 prosecutions in the States for marijuana
+offenses.
+By contrast, in the Federal system, we have
+data from 2010. And we have two different kinds of data
+here that's a little bit more granular, and that is, for
+prosecutions under 841(b)(1), which is the trafficking
+provision, there were 6,200 cases.
+For prosecutions under 841(b)(4) -- which is
+the provision we say you ought to look at here -- and
+844 -- which is the possession provision -- combined,
+there were only 93 prosecutions in 2010.
+And what we think that illustrates is that
+there is a massive amount of activity in the States
+doing things that show that this -- and this case is
+perfectly commonplace, we think. It's consistent with
+the other cases that we've seen published by the BIA.
+Adrian Moncrieffe possessed --
+JUSTICE KENNEDY: It's -- it's a massive
+amount of conduct that -- that the statute contemplates?
+The statutory scheme -- I just didn't hear. I just
+didn't hear.
+MR. GOLDSTEIN: Yeah. I apologize. Yes,
+Justice Kennedy, that's right.
+The Georgia statute, which just refers to
+possession with intent to distribute, contemplates both
+social sharing of marijuana -- this case, for example,
+1.3 grams of marijuana, which is less than --
+JUSTICE GINSBURG: When you -- now, Mr.
+Goldstein, when you say, "this case," is there any proof
+in the record that there was a small amount and no -- no
+remuneration?
+MR. GOLDSTEIN: Yes, Justice Ginsburg,
+although this is -- we believe the case is proceeding
+under the categorical approach, the answer to your
+question is yes.
+So let me take you to two places. One is
+going to be at the back of the blue brief, where we have
+the chemist's report, so page 19. This is from the --
+the record in the immigration proceedings.
+And on page 19 of the appendix to our blue
+brief -- we just agreed because there was so little
+record material, that we wouldn't have a joint appendix
+in the case. We just published it at the end of our
+brief -- it says, "Material weight less than 1 ounce.
+Approximate weight is 1.3 grams."
+And for those of us who've been fortunate
+enough not to experience the drug laws a lot, that's
+less than half the weight of this penny. So it's -- I
+think everybody agrees, a small amount.
+Now, on the question of no remuneration,
+what I have to offer you is the Georgia statute --
+JUSTICE SCALIA: Excuse me. I don't
+understand.
+MR. GOLDSTEIN: Sorry.
+JUSTICE SCALIA: Material weight says less
+than 1 ounce --
+MR. GOLDSTEIN: Yes.
+JUSTICE SCALIA: -- parentheses,
+"Approximate weight is 1" -- 1 -- oh, I see, 1.3 grams.
+MR. GOLDSTEIN: Yeah. 1.3 grams. 1.3.
+That's -- that's very, very, very, very little.
+So then, on the question of remuneration --
+and I should just step back and explain, the reason
+we're talking about this is that the Federal misdemeanor
+provision, 841(b)(4), says that it's not a felony, and
+thus, it wouldn't be an aggravated felony, if it's a
+small amount and no remuneration. And Justice Ginsburg
+asked about the -- what's in the record about that.
+Now, there isn't record evidence about no
+remuneration, but there is one significant fact. And to
+know that fact, you have to look at the Georgia statute,
+which is also at the end of our brief. It's on page 9
+of our appendix.
+This is the statute he was prosecuted under.
+It's the second provision, Section 16-13-30(j)(1). And
+I'll just read it. "It is unlawful for any person to
+possess, have under his control, manufacture, deliver,
+distribute, dispense, administer, purchase, sell" --
+sell -- "or possess with intent to distribute
+marijuana."
+And he was not charged with and he was not
+convicted of selling. And so we think that should
+negative any indication -- any implication that he might
+have gotten remuneration for this.
+JUSTICE SOTOMAYOR: You -- we are discussing
+the categorical approach, but let's assume he had pled
+guilty. And in his allocution, he had admitted to not a
+smaller amount or to remuneration. Would -- would an
+immigration judge, under the argument you're making
+today, have to ignore that allocution? Or would he be
+able to apply the modified approach and find this
+gentleman an aggravated felon?
+MR. GOLDSTEIN: Under our rule, the plea
+colloquy is irrelevant, but we would win under a rule in
+which it was relevant.
+So, to start with the former, we say that
+the categorical rule applies. There's no -- the only
+reason that you would look at the modified categorical
+approach here is to know that it was a possession with
+intent to distribute conviction, rather than a sale
+conviction, but that evidence would still come in. It
+would be highly relevant. It's the basis that this
+Court explained in Carachuri-Rosendo, that the
+immigration judge would deny cancellation of removal.
+Right?
+That factor would still be highly relevant.
+The Attorney General would exercise his discretion in
+such a case. Now --
+JUSTICE SOTOMAYOR: That's the issue with
+this case. None of these immigrants are being let out
+automatically. They are still felons subject to
+removal. The only issue is whether --
+MR. GOLDSTEIN: Oh, this -- you said still
+felons. We --
+JUSTICE SOTOMAYOR: Well -- they're --
+MR. GOLDSTEIN: But that's exactly right.
+JUSTICE SOTOMAYOR: -- they're still subject
+to removal --
+MR. GOLDSTEIN: Right.
+JUSTICE SOTOMAYOR: -- either way.
+MR. GOLDSTEIN: So -- you know, lawyers
+often try and avoid the strength of the other side's
+case. And so let me just confront what I think is a big
+argument of theirs.
+They say our position is underinclusive
+because the Georgia statute does include conduct that
+would be a felony. You just gave an example of it.
+But our point is that our underinclusivity
+is a problem, but it's not a big problem, it's not as
+big as their problem, because, as this Court explained
+in Carachuri-Rosendo, the offense still is removable,
+and the Attorney General will just deny cancellation of
+removal.
+Now, the reason they have a much bigger
+practical problem is that their rule is overinclusive.
+It treats, as felonies, some convictions that should be
+misdemeanors.
+JUSTICE BREYER: I -- I see that. There's
+something I really don't understand in these cases
+because the other cases, our precedent's been around a
+long time, so I would have guessed that, under that
+precedent in these other statutes, the obvious thing to
+do -- the obvious puzzle here is not the Federal
+statute, it's the State statute, what is this thing he
+was convicted of about?
+So you'd pick up the phone, and you'd phone,
+at random, four U.S. attorneys -- not U.S. attorneys,
+but four State attorneys --
+MR. GOLDSTEIN: Okay.
+JUSTICE BREYER: -- who work with the
+statute in Georgia, and say, now, look, the indictment
+here says possession with intent to distribute, and I
+can show from the documents that it's a tiny amount.
+Now, is it your policy, if he was selling it, to charge
+under the sell? Is it your policy if he's not selling
+it to charge under intent to distribute? Is it totally
+random whether you say sell or intent to distribute?
+What's your policy? Okay?
+Then we get some answers. Then we'd have an
+idea whether what you're saying is right. Now, you
+could do that, but they could do it, too. Anyone could
+do it. And then we'd have some actual facts about
+whether this charge -- really, it corresponds to the
+misdemeanor or the felony in the Federal statute.
+So why -- I'm not -- I mean, that isn't a
+brain -- that isn't -- doesn't require -- it's not
+rocket science, okay? So why has no one done it?
+MR. GOLDSTEIN: Because I don't think
+anybody would believe me if I went to an immigration
+judge and I said, judge, I promise, I promise that the
+fact that this isn't a possession with intent to
+distribute case means that there are never cases in --
+JUSTICE BREYER: You don't have to say,
+"never." The question is what kind of a statute is this
+State statute?
+MR. GOLDSTEIN: Right. We -- I think --
+JUSTICE BREYER: And the kind of statute
+that it is, is a statute that is used to prosecute
+people --
+MR. GOLDSTEIN: Yes. Yes.
+JUSTICE BREYER: -- with small amounts when
+they don't sell.
+MR. GOLDSTEIN: Right.
+JUSTICE BREYER: If your version of what
+that felon intends to distribute --
+MR. GOLDSTEIN: Yes.
+JUSTICE BREYER: The distinction there is
+really picked up by the district attorneys.
+And if it's not, then they may be right,
+because -- because then intent to distribute may well
+often include, as it does under Federal law, people who
+sell stuff.
+MR. GOLDSTEIN: We have not read this
+Court's cases to suggest that we call the State
+attorneys. We have read the Court's cases to engage in
+ordinary statutory construction, and sell means sell --
+JUSTICE BREYER: Okay. Okay. You didn't.
+In any words, nobody did it.
+So my other question --
+MR. GOLDSTEIN: Yeah.
+JUSTICE BREYER: -- which is the only other
+one I really have, aside from making that suggestion.
+But here, what happened to this person?
+MR. GOLDSTEIN: Yes.
+JUSTICE BREYER: He was -- was he sentenced
+under 16-13-2(a)? That is, was he sentenced to
+probation? Which would be evidence in your favor, I
+think.
+MR. GOLDSTEIN: Yes.
+JUSTICE BREYER: But was he, or wasn't he?
+MR. GOLDSTEIN: Yes.
+JUSTICE BREYER: All right. If he was, what
+it says in this provision is that the Court may without
+entering a judgment of guilt. So there was no judgment
+of guilt.
+MR. GOLDSTEIN: Yes.
+JUSTICE BREYER: And it says, if he
+completes it, he then is discharged without court
+adjudication of guilt.
+MR. GOLDSTEIN: Yes.
+JUSTICE BREYER: And -- and shall not be
+deemed a conviction, it says for purposes of this code.
+MR. GOLDSTEIN: Yes.
+JUSTICE BREYER: Well, why are we saying he
+was convicted of anything?
+MR. GOLDSTEIN: Sure. Because the
+government's position is -- and the Eleventh Circuit has
+agreed with it -- and just to -- just to make sure
+everyone is on the same page, and that is, the Federal
+statute is triggered by a conviction.
+Justice Breyer has just made the point that,
+as a matter of State law, he was not even convicted
+because he got first offender treatment here, which is a
+point in our favor. It does show that it was a small
+and non-serious offense.
+The reason is that there is a Federal
+definition of convicted that's independent of the State
+definition of convicted.
+CHIEF JUSTICE ROBERTS: And that question's
+not before us today.
+MR. GOLDSTEIN: That's exactly right.
+CHIEF JUSTICE ROBERTS: Okay. Well, isn't
+the reason we don't look at the particular facts and
+particular case and don't depose four district
+attorneys, is that the Court has adopted a categorical
+approach precisely to avoid that type of inquiry in --
+whatever it is, 750,000 cases?
+MR. GOLDSTEIN: Yes. That's correct. And
+it's an even stronger point in our favor because worse
+than interviewing four district attorneys is having a
+fact-bound inquiry into every one of these immigration
+cases. Remember --
+CHIEF JUSTICE ROBERTS: No, no, I'm sorry.
+We don't need that because we've adopted a categorical
+approach.
+MR. GOLDSTEIN: Yeah.
+CHIEF JUSTICE ROBERTS: 841(b)(1)(D) lists
+the elements and conviction in -- Georgia, right?
+MR. GOLDSTEIN: Yes.
+CHIEF JUSTICE ROBERTS: Conviction in
+Georgia under their provision satisfies -- has each of
+those elements. And under our categorical approach,
+that's the end of the inquiry.
+MR. GOLDSTEIN: That is one way of looking
+at it. We disagree, for reasons I'll explain. I will
+note in our favor that the Attorney General doesn't even
+defend that position anymore.
+Remember, that they do not argue that you
+can just look at the conviction. They want to have the
+fact-bound inquiry into every one of these cases. And
+the reason is that, if you apply the categorical
+approach to --
+CHIEF JUSTICE ROBERTS: They want to do that
+at the tail end, right?
+MR. GOLDSTEIN: No, they want to do it in --
+in every single case at the beginning.
+So I can just make clear everybody's
+position. There really --
+JUSTICE KENNEDY: Again, I didn't hear.
+MR. GOLDSTEIN: Sorry.
+JUSTICE KENNEDY: They want to do it in
+every --
+MR. GOLDSTEIN: In every case at the
+beginning. So I'll --
+JUSTICE KENNEDY: At the -- at the beginning
+of the State prosecution?
+MR. GOLDSTEIN: No, in the middle -- at the
+beginning of the immigration proceedings.
+JUSTICE KENNEDY: All right.
+MR. GOLDSTEIN: So let me --
+CHIEF JUSTICE ROBERTS: Before you get on --
+I didn't understand that to be their position at all. I
+mean, I suppose we -- I certainly will ask them because
+they're probably better able to articulate their
+position, but --
+MR. GOLDSTEIN: Yes. So let me explain.
+CHIEF JUSTICE ROBERTS: Go ahead.
+MR. GOLDSTEIN: So our position is it is a
+controlled substances offense, and you take account of
+the seriousness of the offense in cancellation. Their
+position is that it is presumptively, but only
+presumptively, an aggravated felony. And in every
+single immigration proceeding, when you have a case like
+this, the noncitizen can come forward with fact-found
+evidence, not limited to the record of conviction --
+JUSTICE GINSBURG: Mr. Goldstein, it's
+because they are trying to mirror the Federal statute,
+which makes the small amount and no remuneration, makes
+that like an affirmative defense. The burden is on the
+defendant to show those two things, to get out from
+under the main statute.
+MR. GOLDSTEIN: That's correct.
+JUSTICE GINSBURG: So what the Government is
+suggesting is as close to the Federal statute as you can
+get.
+MR. GOLDSTEIN: Well, let me just say first,
+I do want to make -- just want to focus on what the
+parties' positions are. And they do have this
+fact-found inquiry in every one, so I do want to turn to
+what I think is probably their second best argument. I
+was talking about the underinclusiveness as the first
+one.
+Their second one is they want to draw an
+analogy between this and what would happen in a criminal
+case. So they say, take the conviction and imagine that
+the conviction is all the facts that you had in a
+Federal criminal prosecution, and then you would have a
+burden on the defendant to -- to prove that he was
+subject to the misdemeanor.
+We have several points about that. The
+first is this is not a Federal criminal prosecution.
+The Federal statute involved is the Immigration and
+Naturalization Act, and it tells you that you are
+supposed to look at the conviction itself and determine
+whether it corresponds to a Federal felony.
+This further proceeding doesn't exist, and
+it's exactly the argument that was rejected in
+Carachuri-Rosendo. And let me talk about why --
+JUSTICE GINSBURG: You said Carachuri. That
+case involved, in -- in order to hold for the
+government, you would have to go outside the record of
+the State conviction. You'd have to add something that
+wasn't in the State conviction.
+And it's the same thing here. To get to
+where you want to go, you have to add something that
+isn't in the State conviction.
+MR. GOLDSTEIN: No, we disagree. What the
+Court said in -- I agree with the beginning of how you
+characterize the Carachuri case. What the Court said is
+we don't go beyond the -- the conviction itself.
+We -- And it's true that, in that case, the
+government wanted to go beyond the record to go up. But
+here, what they're saying is that you should go beyond
+the record to figure out if you should go down. And
+what the Court said is, no, you look at the conviction
+itself.
+JUSTICE SCALIA: What -- what is the
+conviction?
+MR. GOLDSTEIN: Okay.
+JUSTICE SCALIA: What does the conviction
+mean? You say the categorical approach.
+MR. GOLDSTEIN: Yes.
+JUSTICE SCALIA: Is -- is it the categorical
+statute under which you have been convicted or, as you
+seem to be saying, the indictment?
+MR. GOLDSTEIN: It is what you are convicted
+of. So here, he was convicted of possession with intent
+to distribute. The other side's argument is, well, if I
+had just possession with intent to distribute, that
+would be a Federal felony. So we acknowledge the
+strength of that point. But our --
+JUSTICE SCALIA: Is he convicted of that?
+Or is he convicted of violating Georgia Code 16-13,
+whatever it is?
+MR. GOLDSTEIN: As I was -- I mentioned very
+briefly to Justice Sotomayor, when you have a divisible
+statute like this, that includes possession with intent
+to distribute, sell, possess, all of those things, you
+use the modified categorical approach to figure out
+which one applies.
+And so we know he was convicted of
+possession with intent to distribute, and that's common
+ground between the parties. It's not the whole statute.
+It's just the --
+JUSTICE KAGAN: Well, Mr. Goldstein,
+assuming he was convicted of that, as you suggest, you
+have an underinclusiveness problem. The Government has
+an overinclusiveness problem.
+MR. GOLDSTEIN: Yes. Yes.
+JUSTICE KAGAN: If you assume that this
+statute covers and is regularly used to cover both sets
+of people, both people with these very minor offenses
+and people with much more major offenses --
+MR. GOLDSTEIN: Yes.
+JUSTICE KAGAN: -- the at least apparent
+attractiveness of the government's position is that
+they've tried to cure their overinclusiveness problem.
+And they have done it by sticking on -- and -- you know,
+one can ask where this comes from in the statute --
+MR. GOLDSTEIN: I hope we will.
+JUSTICE KAGAN: -- but they have done it by
+sticking on something that attempts to address their
+overinclusiveness problem, so that people who are really
+misdemeanants get classified as misdemeanants, and
+people who are really aggravated felons get classified
+that way.
+And you have no similar cure for your
+underinclusiveness problem. So why shouldn't we go with
+their problem, which at least attempts to solve this
+problem?
+MR. GOLDSTEIN: Well, two reasons. First,
+they don't have a real solution; and, second, Congress
+solved our problem.
+And this is what Carachuri-Rosendo says, and
+that is when you have an underinclusiveness problem just
+like ours, the statute fixes it because the statute
+treats the conviction as a controlled substances
+offense. The statute provides the backstop. You don't
+have to make one up, which, I -- I suggest to you, is
+the difficulty with their position.
+JUSTICE GINSBURG: I don't follow --
+MR. GOLDSTEIN: Okay.
+JUSTICE GINSBURG: -- your answer because I
+think you have to concede that, under your view, a lot
+of people who are convicted under the Georgia statute
+who had a significant quantity, which they intended to
+distribute --
+MR. GOLDSTEIN: Yes.
+JUSTICE GINSBURG: -- for remuneration --
+MR. GOLDSTEIN: Yes.
+JUSTICE GINSBURG: -- many of those people
+would -- under your view of the statute, many of those
+people would -- would not have committed an aggravated
+felony.
+MR. GOLDSTEIN: I agree with --
+JUSTICE GINSBURG: So you have that --
+MR. GOLDSTEIN: That is our problem. I
+agree with that problem.
+JUSTICE GINSBURG: -- a large
+underinclusiveness problem, which you haven't solved.
+MR. GOLDSTEIN: Okay. That's the part we
+disagree with, Justice Ginsburg. Maybe I can just read
+to you what this Court said about this exact issue in
+Carachuri-Rosendo.
+It said that, when you have a very -- this
+very underinclusiveness problem, it is solved by the
+statute because the attorney -- all that happens under
+our rule -- it's still a deportable offense, and the
+Attorney General denies cancellation of removal.
+So if could just read, very briefly -- and
+this is from the Supreme Court Reporter, at page 2589.
+"We note that whether a noncitizen has committed an
+aggravated felony is relevant, inter alia, to the type
+of relief he may obtain from a removal order, but not to
+whether he is, in fact, removable.
+"In other words, to the extent that our
+rejection of the government's broad understanding of the
+scope of aggravated felony may have any practical effect
+on policing our Nation's borders, it is a limited one.
+Carachuri-Rosendo and others in his position may now
+seek cancellation of removal and thereby avoid the harsh
+consequence of mandatory removal, but he will not avoid
+the fact that his conviction makes him" --
+JUSTICE GINSBURG: But all that follows
+from, in Carachuri, the government wanted to go outside
+the record.
+MR. GOLDSTEIN: No, Justice Ginsburg, it
+does not. I promise you it does not.
+The upshot of our position is that
+Mr. Moncrieffe has committed a controlled substances
+offense, and anyone else in his position has committed
+one. And if there is a serious drug amount, the
+Attorney General will deny him cancellation of removal.
+I have --
+JUSTICE KAGAN: Do you think that the
+Attorney General could just issue some kind of directive
+telling all administrative law judges and officials to
+deny cancellation of removal to anybody who commits
+these kinds of offenses?
+MR. GOLDSTEIN: We -- it's an interesting
+question that I have puzzled about at length. I think
+the answer is no for a very particular reason, however,
+and that is the Attorney General has no such categorical
+rules.
+We think it's a point in our favor that the
+Attorney General, in the application starting with
+212(c) before the 1996 Act, which is discussed in St. --
+this Court's decision in St. Cyr, through the present
+has instead applied a holistic look at all of the
+circumstances.
+What he certainly can do is direct the
+immigration judges to place special weight -- and this
+was the rule before 1996, by the way. If you had a
+serious offense, you had to show special equities that
+would justify your not being removed from the country.
+And so we think that's the most likely outcome.
+A per se categorical rule would be very
+unlike what we understand the Attorney General to do in
+any other circumstance.
+JUSTICE KENNEDY: Would it -- would it be
+permissible -- I had the same question. Would it be
+permissible --
+MR. GOLDSTEIN: I think --
+JUSTICE KENNEDY: Or would you be back up
+here saying that this violates the statute?
+MR. GOLDSTEIN: Well, we think we would win,
+so I wouldn't be back for this client. But I think
+there would be a substantial argument that it would be
+arbitrary and capricious because it would be so unlike
+anything the Attorney General does in other
+circumstances.
+But they would have --
+CHIEF JUSTICE ROBERTS: I'm sorry. Could
+you remind me what the "it" is that you're talking
+about?
+MR. GOLDSTEIN: Yes. Yes.
+CHIEF JUSTICE ROBERTS: It's an order from
+the Attorney General --
+MR. GOLDSTEIN: Yes.
+CHIEF JUSTICE ROBERTS: -- to the
+immigration judges --
+MR. GOLDSTEIN: Yes.
+CHIEF JUSTICE ROBERTS: -- to?
+MR. GOLDSTEIN: To treat all of these cases
+as barring cancellation of removal. To get us on the
+back end, as it were, and that is --
+JUSTICE KAGAN: To do the exact same
+thing --
+MR. GOLDSTEIN: Yes. To get --
+JUSTICE KAGAN: -- but through --
+MR. GOLDSTEIN: Right.
+JUSTICE KAGAN: -- an Attorney General
+directive.
+MR. GOLDSTEIN: And I think our argument
+that it's arbitrary would be supported by the fact that
+this Court would have ruled that he couldn't do the
+identical thing on the front end. But it's an open
+question, and it's not presented here.
+I had said that there were two flaws in
+the -- sort of their characterization of the over and
+underinclusiveness problem. The second one is they
+don't have a real solution. This is a big problem.
+Under these State convictions in which the
+amount of drugs and whether there was remuneration are
+irrelevant, it's going to be extremely difficult for
+uncounseled noncitizens who are in jail, who don't have
+access to tools of communication, to prove to an
+immigration judge this fact-bound inquiry, which they
+are inserting into every single case, that their offense
+actually corresponds to a misdemeanor.
+So while you say that they have provided the
+solution, I don't know where it comes from in the
+statute, but we think it is not a practical solution.
+And that problem is even worse in the many contexts that
+are not just straight removal.
+We said in our opening brief, and the
+government's response ignores, that there are many cases
+in which immigration officials have to make these
+decisions about whether it's an aggravated felony much
+more on the fly, without the opportunity to call
+everybody in and --
+JUSTICE KENNEDY: Do you have any
+statistics -- if you take the whole universe of
+convictions under the Georgia statute, what percentage
+of them are for these minor offenses and what are for
+the major? Do we have any handle on that at all?
+MR. GOLDSTEIN: We don't. We tried. I'm
+sorry. We were unable to do it. The Department of
+Justice has better relationships with prosecutors, and
+so maybe it -- it will have that information for you.
+But, I can say -- it's possible.
+But I can say that the -- it is absolutely
+commonplace, from looking at the case law, for the
+States to tackle this small social sharing of a couple
+of marijuana cigarettes. This is -- that's the
+distinction between 93 prosecutions under -- or
+convictions under (b)(4) and possession in the -- in the
+Federal system and 750,000 in the States. Federal
+prosecutors leave these to the States.
+Which brings me back to my other answer to
+Justice Ginsburg's pointing out the government's
+argument about a parallel between this and a Federal
+criminal prosecution.
+And the reason they want to do that, Justice
+Ginsburg, is that in a Federal -- actual Federal
+criminal prosecution, the burden of proof never matters,
+including because Federal prosecutors almost never bring
+these cases.
+So here's what we tried to do: This
+statute, (b)(4), was enacted in 1970, some 42 years ago.
+We tried to identify one case in 42 years in which the
+burden of proof in the Federal case made any difference
+at all, and we were unable to. And I would be really
+interested to know if my friend is able to identify one
+case in 42 years, which it actually made a difference.
+And the reason is, in an actual Federal
+prosecution, the FBI agent would come in and say, here
+are the drugs, and they were trying to sell it to an
+undercover officer. It's never the case that it
+actually -- the defendant is in a position of trying to
+prove that it was a misdemeanor.
+But what they are trying to do is to take
+that rule, which is derived from Apprendi, that there is
+a burden of proof so that the government doesn't have to
+indict that it wasn't a (b)(4) offense, and take the
+silence of the State record, where these facts are
+completely irrelevant, the quantity and remuneration,
+and transpose them into the Federal system and take
+great advantage of the fact that the record is silent.
+JUSTICE SOTOMAYOR: Mr. Goldstein, there are
+at least 93 cases, all right? So --
+MR. GOLDSTEIN: Yes.
+JUSTICE SOTOMAYOR: And I don't know and I'm
+not going to ask you to prove to me how the burden of
+proof was met or not met in those. But let me give you
+a different hypothetical.
+MR. GOLDSTEIN: Sure.
+JUSTICE SOTOMAYOR: Let's assume Georgia has
+the Federal statute, but in -- differently than the
+Federal statute, it has a sale-distribution provision,
+and it has a small amount, no remuneration statute.
+MR. GOLDSTEIN: Yeah.
+JUSTICE SOTOMAYOR: What would happen in
+those States?
+MR. GOLDSTEIN: There are about 15 of those
+States, and in those States, if you weren't convicted
+under the small one, then you would infer it wasn't a
+small amount and no remuneration, and the person would
+have committed an aggravated felony.
+Our issue arises only when you have a
+situation in which the State is prosecuting people under
+the statute that would be a Federal misdemeanor. If the
+State --
+CHIEF JUSTICE ROBERTS: I'm sorry. Go
+ahead.
+MR. GOLDSTEIN: No. If the State has a
+different system, as a material number of States do, in
+which they track the Federal system, and they have a
+small provision or a remuneration provision -- which
+another nine States have a remuneration provision -- in
+those situations, if you have a conviction that isn't
+under that social sharing provision, it's an aggravated
+felony.
+CHIEF JUSTICE ROBERTS: Your use of the
+statistics, I think, assumes that Georgia and other
+States are prosecuting every case that comes before them
+because that's how you get -- you know, of these 750,000
+nationwide, so much more than must involve tiny amounts.
+But, of course, perhaps they don't prosecute
+the cases involving tiny amounts, so that most of those
+cases, or some percentage of them, may in fact also
+involve the serious type of conduct addressed by the
+Federal statute.
+MR. GOLDSTEIN: Well, I have one really good
+example of a prosecution for a small amount. It's this
+case.
+And we don't deny that there are --
+Mr. Chief Justice, please do not misunderstand me to be
+arguing that every Georgia conviction or that 80 or
+90 percent of them are the small ones. What I'm trying
+to tell you is that a lot of them are just like this
+one, and I think the data bears that out.
+And the question before you is, under a
+categorical approach, is it fair to presume that they're
+all felonies? Is it fair to presume that what Congress
+recognized here is that there would be a correspondence
+between a conviction under this statute and the Federal
+aggravated felony of illicit trafficking in drugs, to
+strip the Attorney General of the United States of any
+opportunity whatsoever to consider the circumstances of
+the case?
+We think that is not the best reading of the
+statute.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Mr. Shah.
+ORAL ARGUMENT OF PRATIK A. SHAH
+ON BEHALF OF THE RESPONDENT
+MR. SHAH: Mr. Chief Justice and may it
+please the Court:
+Petitioner's proposed rule would confer a
+free pass from aggravated felony treatment to criminal
+aliens convicted under a majority of State laws that
+require neither remuneration nor more than a small
+amount.
+JUSTICE SOTOMAYOR: What's the free pass?
+The free pass is mandatory as opposed to discretionary
+deportation, correct? So the free pass is that --
+MR. SHAH: The free pass is that you would
+never have an aggravated felony for this conviction
+under any State that did not make an element of the
+State offense to disprove -- no remuneration or more
+than a small amount.
+JUSTICE SOTOMAYOR: But those convicted
+individuals would still be subject to deportation.
+MR. SHAH: Yes, Your Honor, they would still
+be subject --
+JUSTICE SOTOMAYOR: And nothing would stop
+the INS judge from considering the amount of drugs,
+correct, that the individual actually was involved in,
+and that could be introduced through hearsay -- through
+almost any document, correct?
+MR. SHAH: Your Honor, you're talking about
+the discretionary cancellation of removal proceeding?
+JUSTICE SOTOMAYOR: Yes.
+MR. SHAH: It's true, Your Honor, that could
+come in there. But Congress specifically enacted this
+aggravated felony provision to take away that discretion
+from the Attorney General. The motivating factor
+behind --
+JUSTICE SOTOMAYOR: Well, do you -- do you
+suggest that the immigration judges don't know that and
+that they wouldn't weigh that desire heavily in a case
+in which a -- the convicted individual is proven to have
+sold the larger amount? You still think they are going
+to cancel?
+MR. SHAH: What -- Your Honor, what Congress
+said when it passed this very provision was that
+immigration judges were granting too much discretionary
+relief to this very class of criminal aliens, and that
+is why it implemented this aggravated felony.
+Now, Petitioner says it's not going to have
+a big deal on immigration -- big impact on immigration
+policy for the reason that you suggest, the Attorney
+General can do it at the back end. But that --
+CHIEF JUSTICE ROBERTS: Well, will you pause
+right there. I don't -- you just made the argument that
+your position on Castro-Rodriguez is wrong. You say
+Congress took away the Attorney General's discretion.
+Then you come back and say, well, we're going to
+exercise that discretion under -- under
+Castro-Rodriguez, and this Petitioner in particular can
+take advantage of it.
+MR. SHAH: Well, Your Honor, it's not an
+exercise of discretion under Castro-Rodriguez. We, at
+the tail end, have an inquiry that, I think, mirrors the
+CSA scheme.
+Remember that this aggravated felony
+provision in the INA incorporates by reference the CSA
+scheme. What the CSA scheme provides is, as a default
+matter, any conviction for possession with intent to
+distribute marijuana will be a felony. But the CSA
+scheme also provides a narrow mitigating exception for
+those who distribute just a small amount socially.
+What our scheme does is that --
+CHIEF JUSTICE ROBERTS: Is that -- is the
+authority for that Castro-Rodriguez?
+MR. SHAH: I'm sorry?
+CHIEF JUSTICE ROBERTS: Is the authority for
+that the decision in Castro-Rodriguez?
+MR. SHAH: To -- to have that secondary
+proceeding?
+CHIEF JUSTICE ROBERTS: Right.
+MR. SHAH: Well, I think it comes from the
+statute, the INA, which incorporates the CSA scheme.
+Because many of the State provisions don't offer that
+same affirmative mitigating exception that the Federal
+scheme does, what Castro-Rodriguez does is it looks to
+the INA, which incorporates the CSA, and then provides a
+similar mechanism in immigration court.
+But it's not an unprecedented inquiry. The
+Board has been doing similar inquiries for at least a
+quarter of a century.
+JUSTICE KAGAN: Well, Mr. Shah, the Board
+may have been doing these inquiries, but I just don't
+understand the statutory argument because the way the
+statute -- the way your own statutory argument runs is
+that if the conviction -- the State conviction, was a
+conviction for possession with intent to distribute,
+then those are the elements of a Federal -- of a Federal
+felony.
+And so the person -- and an aggravated
+felony. So you say, under the elements approach, this
+person has committed an aggravated felony. And the
+statutory directive is that, when a person has committed
+an aggravated, felony, he is deportable, and there is no
+exercise of discretion that can come into play.
+And so your whole back-end process, which
+says, oh, well, maybe not, maybe he's not automatically
+deportable, it doesn't come from the statute, and it
+seems to run into the statutory language, which says an
+aggravated felon must be deported, the end.
+MR. SHAH: Your Honor, I agree. The
+government could have taken the hard-line approach that
+it's game over under the categorical inquiry because the
+elements --
+JUSTICE KAGAN: Well, that's what the
+statute says, and that's what your own statutory
+analysis says.
+MR. SHAH: Your Honor, I don't think it's
+inconsistent with the statutory scheme. In fact, I
+think it's consistent.
+And here's one way to think about it:
+This -- this particular aggravated felony is a little
+bit complicated because it incorporates by reference, in
+two different levels, the CSA. Congress -- let's assume
+Congress rewrote the aggravated felony definition to
+eliminate the incorporation by reference.
+I think what the equivalent -- the
+functionally identical formulation would be -- the
+definition of the aggravated felony is, "any
+distribution of a controlled substance, unless the
+defendant shows that it involved a small amount of
+marijuana for no remuneration."
+That would incorporate both the presumptive
+felony provision, any distribution of controlled
+substance -- you have the same two elements -- and then
+it would add in the proviso that it's in the CSA
+mitigating exception. Functionally identical.
+Aggravated felony is, "any distribution of a
+controlled substance, unless the defendant shows that it
+was a small quantity for remuneration."
+CHIEF JUSTICE ROBERTS: This is --
+MR. SHAH: What our inquiry does is --
+CHIEF JUSTICE ROBERTS: Go ahead. I'm
+sorry.
+MR. SHAH: Sorry. What our inquiry does is
+allow the board to get to that second part of the
+definition, the "unless" clause, and that mirrors
+exactly other aggravated felony provisions in the INA.
+JUSTICE KENNEDY: But you've answered
+Justice Kagan's question by -- she said, doesn't your
+own interpretation of this statute require the opposite
+result and -- or the -- the harsh result?
+And you say, well, suppose Congress wrote a
+statute this way. But that wasn't her question. The
+question is --
+MR. SHAH: Your Honor, I'm not positing --
+JUSTICE KENNEDY: You -- you said that
+Congress could write a new statute. Of course, Congress
+could write a new statute, but what about this one?
+MR. SHAH: I'm not positing a new statute.
+I was simply taking out the incorporation by reference,
+so we could look at it in a different way. I think it's
+functionally identical to the provision at issue here.
+And I think it's --
+JUSTICE KAGAN: No, I'll just read you,
+Mr. Shah, this sentence from your brief -- and I could
+read you a thousand of these in your brief. "Because
+Petitioner's Georgia conviction necessarily established
+that he knowingly possessed marijuana with the specific
+intent to distribute it, that conviction constitutes an
+aggravated felony."
+Well, if that conviction constitutes an
+aggravated felony, he has to be deported, and there is
+no exercise of discretion that this statute allows.
+MR. SHAH: Well, Your Honor, I -- I would
+say that it presumptively creates the aggravated felony,
+and it's because of that --
+JUSTICE KAGAN: Well, now, you've just put
+in words into your brief.
+MR. SHAH: Well, well --
+JUSTICE KAGAN: -- and -- and really, truly,
+you say this 10 or 15 times.
+MR. SHAH: Well, Your Honor, the heading to
+the brief says, "presumptively," and so I didn't use
+that word every time, but I think the point is that it
+would be the -- the aggravated felony has that unless
+clause.
+And if you look at other aggravated felony
+provisions in the INA, such as the one reproduced on the
+top of page 34 of the government's brief, it defines an
+aggravated felony as certain document fraud crimes, and
+then it has a clause that says, "unless" -- "unless the
+alien has affirmatively shown that the alien committed
+the offense for the purpose of assisting, abetting or,
+abating only the alien's spouse, child, or parent to
+violate a provision of the INA."
+So you could say ball game over, once you
+have shown the document fraud crime under the
+categorical approach. But the INA specifically has a
+provision that says, unless the alien can show that he
+committed the offense for the purpose of assisting and
+abetting --
+CHIEF JUSTICE ROBERTS: But this is -- this
+is a new position for the government. My understanding
+is that you -- your clients were on the other side of
+this position in Castro-Rodriguez itself; is that not
+correct?
+MR. SHAH: Well, Your Honor, I don't think
+that we categorically deny that you could have this sort
+of proceeding. And in the op to this case -- I know
+Petitioner says this is a new position in this case.
+Pages 13 through 16 of our op embrace Castro-Rodriguez
+as the right way to do it. I think it's --
+CHIEF JUSTICE ROBERTS: But that was a
+change in the government's position, wasn't it?
+MR. SHAH: Your Honor, I can say that the --
+the government did dispute the particular facts in
+Castro-Rodriguez. I can't say that they categorically
+rejected the availability of that sort of inquiry. And
+that sort of inquiry is not new.
+If you look at the Grijalva decision, which
+is discussed on -- in footnote 23 of our brief on page
+36, that was a precursor to the controlled substance
+ground of removability that is currently in effect. And
+so if you look at the language of that precursor
+provision, essentially, it said any aliens deportable
+for a drug offense, unless that drug offense involves
+simple possession of marijuana of 30 grams or less.
+CHIEF JUSTICE ROBERTS: So what does -- in a
+case in which the Attorney General can cancel removal,
+putting aside this case, what are the sort of things he
+looks at in deciding whether or not to cancel removal?
+MR. SHAH: It's a balance of equities.
+After, assuming that the -- the alien has established
+the three eligibility criteria set forth, it will be a
+balance. It's a favorable exercise of discretion. It's
+a balance of the equities.
+CHIEF JUSTICE ROBERTS: So one of the
+things, presumably, is the amount of drugs involved,
+whether they were for intent to distribute for
+remuneration -- all the sorts of things that you say he
+can consider under the provision that says he does not
+have the authority to cancel removal.
+MR. SHAH: Your Honor, those are the sorts
+of factors that might be open to consideration, but what
+Congress did is it took away the ability for the
+Attorney General to exercise that discretion. That was
+the main purpose of this very aggravated felony
+provision.
+Now, Justice Sotomayor, if I can go to
+your --
+JUSTICE SOTOMAYOR: Each time you get -- you
+say that, you get back into the hole that Justice Kagan
+has been asking you to climb out of. If -- if Congress'
+intent was to bar discretion, then I'm not quite sure
+how you get to your alternative to get out of your --
+MR. SHAH: Your Honor --
+JUSTICE SOTOMAYOR: -- overinclusiveness
+argument.
+MR. SHAH: Your Honor, this will bar
+discretion in the vast majority of cases, and here's
+why. -if I could go back to the data question that you
+asked, Justice Sotomayor, we do have Federal data, and I
+interpret the data a little bit differently than my
+colleague.
+What data we have is that, over the last
+decade, there have been over 60,000 convictions under --
+under Section 841(a), for crimes involving something
+more than possession of marijuana. 60,000. There have
+been, in those 10 years, exactly 20 that have been
+sentenced under Section 841(b)(4).
+My colleague combines 844(a), which is a
+possession offense, but if you isolate out of the data
+only those who qualify for the mitigating exception,
+those who are charged with distribution of marijuana,
+but only have a small amount of remuneration, you have
+20 out of over 60,000.
+I think this is a fairly atypical case. To
+the extent this Petitioner --
+JUSTICE GINSBURG: Do -- do you agree with
+Mr. Goldstein when he says, in reality, it's not an
+affirmative defense, that the defendant never has to
+prove the amount?
+MR. SHAH: I -- I don't agree with that
+because if it were, in fact, the case that the
+government had to disprove the -- the small amount and,
+more importantly, the remuneration element, that would
+be a very different statute. Every court of appeals and
+lots of the Federal --
+JUSTICE SOTOMAYOR: I'm sorry, counselor.
+I -- the government can do it very easily. If you have
+less than an ounce of marijuana and nothing else from
+which you can infer an intent to sell or distribute, and
+you have no proof that this individual's engaged in drug
+trafficking, what more does a defendant have to show?
+MR. SHAH: Oh, I --
+JUSTICE SOTOMAYOR: How does it raise his
+burden of proof?
+MR. SHAH: I'm not saying it -- the
+defendant has to show more. I believe Justice -- I
+thought Justice Ginsburg's question is what would the
+government have to show to disprove it. And I think --
+JUSTICE SOTOMAYOR: I -- I guess my point is
+that one, which is don't the facts that the government
+have either show it or not show it in virtually every
+instance?
+MR. SHAH: I think it's a very different
+question. If you put the burden on the government to
+show that, in fact, no remuneration was involved, the
+government would have to meet its burden in a criminal
+case to show beyond a reasonable doubt that there was no
+remuneration at all. That is going to change the result
+in a large number of cases where there is a relative --
+it's going to be the universe of cases where there is a
+relatively small amount of drugs involved.
+JUSTICE SOTOMAYOR: It would be less than an
+ounce.
+MR. SHAH: Right. But in -- and in that
+universe of cases, in fact, the presumption is probably
+going to be that it's not for a distribution or
+remuneration.
+JUSTICE SOTOMAYOR: Can I go back to your
+substantive argument?
+MR. SHAH: Yes.
+JUSTICE SOTOMAYOR: All right. This is a --
+you are right. It's an unusually crafted statute. And
+really, what the issue is, generally, what you have with
+lesser included offenses is you have a base offense and
+then an enhancement that goes up. You commit the base
+offense --
+MR. SHAH: Yes.
+JUSTICE SOTOMAYOR: -- of burglary, but if
+you did it with an explosive or you did it with a
+dangerous weapon, it goes up.
+MR. SHAH: That's exactly right.
+JUSTICE SOTOMAYOR: And applying the
+categorical approach is relatively easy there because
+either the State offense includes the addition or it
+doesn't.
+This is sort of in reverse. You've got a
+statute with the same elements that can be either a
+misdemeanor or a felony. And you're saying it can be
+either under the CSA, but we have to assume it's the
+greater because --
+MR. SHAH: Your Honor --
+JUSTICE SOTOMAYOR: -- of Apprendi, because
+of -- of --
+MR. SHAH: I -- I think it's because of the
+proper interpretation of the statute. Apprendi might
+have influenced that interpretation of the statute, but
+every court of appeals that has interpreted this statute
+has said that the -- the default punishment, is this
+punishable up to 5 years --
+JUSTICE SOTOMAYOR: But that's under
+Apprendi.
+MR. SHAH: Well, both before and after
+Apprendi, Your Honor, this statute was interpreted the
+same way. Apprendi didn't change anything because there
+were no sentencing factors or elements --
+JUSTICE SOTOMAYOR: That's the point.
+MR. SHAH: -- to get to the 5-year --
+JUSTICE SOTOMAYOR: Didn't we -- didn't we
+talk about the categorical approach in footnote 3 of our
+case in Carachuri?
+MR. SHAH: Uh-huh.
+JUSTICE SOTOMAYOR: Where we said that, in
+talking about the generic Federal offense, whether it's
+a felony or not, that we can't look at just strictly the
+elements of the crime, but we have to also look at the
+sentencing factors because, when we're talking about
+what constitutes a misdemeanor or a felony under Federal
+law, we have to look at both.
+MR. SHAH: Well, Your Honor, what Carachuri
+involved was something very different. It involved a
+recidivism factor, an aggravating factor. When you are
+talking about an aggravating factor, Apprendi
+jurisprudence has treated those somewhat equivalent to
+an element because it raises the statutory maximum. And
+so when you are trying to decide whether something is
+punishable as a felony, it's natural to look at the
+aggravating factor.
+The other thing I would say about Carachuri
+is that it's easily distinguishable on the grounds that
+Justice Ginsburg raised. It -- the government's
+argument in Carachuri was much more difficult. The
+government was trying to rely on a recidivism factor
+that was not part of the predicate conviction. And it
+was trying to rely on that factor to elevate what was
+otherwise a misdemeanor under both State and Federal law
+to a felony.
+Here, the predicate conviction itself has
+all the elements that are required for a Federal felony
+under the CSA, namely possession of marijuana and a
+specific intent to distribute it.
+JUSTICE SOTOMAYOR: But the same elements
+would go to the misdemeanor. Really, the issue for me
+is it could be one or both. And when do we tell the
+immigration judge that he can, should, or should not --
+MR. SHAH: I think there are --
+JUSTICE SOTOMAYOR: -- choose between the
+two?
+MR. SHAH: I think there are -- I think
+there are two ways, Your Honor, that -- two different
+lines of reasoning that show that the government's
+approach to the categorical part of the inquiry is -- is
+the right approach and not Petitioner's approach. The
+first is --
+JUSTICE SOTOMAYOR: However you do it, the
+misdemeanor still has the same three elements.
+MR. SHAH: Well, here's -- here's how --
+JUSTICE SOTOMAYOR: So how do we choose
+between it being a misdemeanor or a felony?
+MR. SHAH: Right. I think here -- here are
+the two ways you get there. First is by looking at how
+this Court has consistently formulated the categorical
+inquiry. Starting with Taylor, pre-Apprendi case,
+compare the elements of the predicate offense to the
+those of the generic offense.
+Fast forward past Apprendi through all of
+the more recent cases, Lopez and not -- still the same
+inquiry, focusing on the elements of the predicate and
+the elements of the generic.
+If that is not enough for you,
+Justice Sotomayor, if there is still some uncertainty as
+to when you have mitigating factors, like in this case,
+and the question is, well, does the predicate conviction
+have to affirmatively negate those narrow mitigating
+criteria, then this Court can look, if it wants to go to
+first principles, look at this Court's decision in
+Nijhawan.
+There, it had a different aggravating
+felony, certain fraud and deceit offenses which resulted
+in a $10,000 loss to the victim. What the Court said,
+look, fraud and deceit, those are clearly elements, we
+are going to apply the categorical approach to -- to
+figure out whether those elements are satisfied. But
+the $10,000 loss factor, we're not sure. We're not sure
+whether the predicate offense has to affirmatively
+establish it or not.
+And so what the Court did is it did a survey
+of the 50 States. It looked at the 50 States. And it
+turns out that, in a vast majority of those States, the
+predicate conviction will never establish that $10,000
+loss factor. And so you're going to have a vastly
+underinclusive aggravated felony.
+And that's something that Congress -- that
+Congress could not have intended. The Court said
+Congress would not have intended its aggravated felony
+provision to apply in such a limited and haphazard
+manner.
+I submit that's exactly what you have here
+on pages 26 to 30 of our brief. And Petitioner does not
+take issue with a single one of the statutes that we
+cite. And we go through all 50 of them. We show that,
+in a clear majority of the States, the predicate
+conviction will not establish that there is remuneration
+or more than a small amount.
+Congress cannot --
+JUSTICE KAGAN: Mr. Shah, I think the
+problem with your main argument is that it leads you to
+a result that you don't want to accept because your main
+argument is all we've done in our past cases -- and I
+can argue with this, but your argument is all we've done
+is compare the elements.
+But if all we do is compare the elements,
+then we don't get to your discretionary scheme in which
+we also admit evidence of -- of the case-specific nature
+of the offense.
+I mean, so your arguments all go towards a
+very purist solution. And then you say, oh, no, that's
+a crazy solution. It's a crazy solution because we
+would wind up saying that misdemeanants, like this
+person, like people who are actually convicted under
+(b)(4) who are clearly misdemeanants, would wind up as
+aggravated felons and -- and must be deported.
+MR. SHAH: Well, well, first, Your Honor, I
+am glad that we have an agreement on the first part of
+the categorical inquiry because I think that is the main
+part of the inquiry that this -- that would establish --
+JUSTICE KAGAN: I don't think we really have
+an agreement --
+MR. SHAH: Okay.
+JUSTICE KAGAN: -- because it seems to me
+that Carachuri actually says we don't just look to
+elements. But if we were just to look to elements in
+the way you're arguing for, we wouldn't get the result
+that you're arguing for.
+MR. SHAH: Again, Your Honor, I think you
+have to look at this particular aggravated felony, which
+I think is structured similar to other aggravated
+felonies in the INA.
+If you look at the aggravated felony in the
+INA that's on page -- top of page 34 of our brief, and
+that -- that is the one about document fraud crimes, it
+says the alien -- then, if the alien then shows that
+that document fraud crime was perpetrated in order to
+help a family member, then no more aggravated felony.
+How does the alien make that showing? He
+comes into immigration court -- after it's already been
+established that you have the predicate document fraud
+felony, he comes into immigration court. He has to
+bring forth evidence on his own that shows that it
+satisfied this familial exception to that document fraud
+aggravated felony. I think the --
+CHIEF JUSTICE ROBERTS: And the whole
+point -- the whole point is that there is no similar
+provision in the statute at issue in this case, right?
+MR. SHAH: I think the point is that there
+is a similar provision. In the -- the INA here
+incorporates the CSA to define the aggravated felony.
+The CSA says it's a felony if you have possession plus
+intent to distribute, unless the defendant shows -- and
+this is how it has been interpreted by every court of
+appeals that has interpreted the CSA -- unless the
+defendant shows it was only a small amount for no
+remuneration.
+That is an identical formulation to some of
+the other aggravated felonies in the provision. And how
+those other aggravated felony provisions have been
+interpreted is to allow the alien to come into
+immigration court to show the exception.
+We are not aware of a single court decision
+that has ever interpreted any similar provision in any
+of the other aggravated felony provision to require the
+predicate conviction to affirmatively negate it.
+And that's exactly what Petitioner's main
+submission is, that this predicate conviction has to
+affirmatively negate the possibility of a narrow
+mitigating exception. That is --
+JUSTICE KAGAN: I don't think that that is
+quite right, Mr. Shah, because if you read this statute,
+what it most looks like is that Congress is simply
+classifying two different kinds of conduct.
+Congress has the -- the social sharing
+conduct, and that's in one section. And the everything
+else, the more dangerous conduct, is in another section.
+And so it's not something where it's like,
+oh, you're trying to get them to negate a specific -- a
+point. Congress has created two separate sections,
+two -- and one is a felony, and one is a misdemeanor.
+And that's the -- the real way to understand this
+statute.
+And then the categorical approach suggests,
+well, in that case, we accept the underinclusion, rather
+than the overinclusion.
+MR. SHAH: Well, Your Honor, I disagree with
+that characterization of that statute. Every court of
+appeals that has considered this statute has rejected
+the argument that we have two separate offenses and that
+the -- that the government, in order to get to the
+higher offense, the -- the default felony provision,
+that the government would have to treat as elements
+the -- the mitigating criteria of remuneration and small
+amount. Every court of appeals has rejected that.
+If this statute were drawn as you suggest,
+and it were elements of a crime, that is, you had two
+separate offenses, one is possession with intent to
+distribute a small amount for no remuneration, or it
+could just say possession with intent to distribute
+marijuana, if that was one distinct offense that was a
+misdemeanor, and then Congress created a second offense
+that says, in cases where there is more than a small
+amount, in which there is remuneration, then you get a
+five-year maximum instead of a one-year maximum, that is
+effectively making, as an element, the government to
+disprove both the possibility of no remuneration and
+more than a small amount.
+If that was the statutory scheme that were
+at issue, I would agree with you, Petitioner would
+prevail under the categorical approach. That's not
+the -- that's not the statutory scheme here.
+They do not disagree with that. They --
+they agree that every court of appeals that has
+interpreted this has interpreted it as one offense and
+that those mitigating criteria are just that, they are
+mitigating exceptions and not offense elements.
+I think the other point I would make, Your
+Honor, is that --
+JUSTICE KAGAN: I guess I don't understand,
+Mr. Shah. That seems just a question of labeling to me.
+I mean, why should we -- why should we accept that
+labeling, rather than, look, what Congress did here was
+to say that certain kinds of offenses are felonies
+deserving of grave punishment, and other kinds of
+offenses are misdemeanors deserving of less than a year
+in prison, and -- and we see those -- those categories
+of conduct differently.
+And if you are saying that if Congress
+had -- had said two separate offenses, then the
+categorical approach means that Mr. Goldstein's client
+wins, I guess I just don't get what in this statute
+suggests something different from that.
+MR. SHAH: Two things, Your Honor. One is I
+don't think it's a matter of labeling because Congress
+knows that these labels actually have big consequences.
+If you made those mitigating criteria elements, that
+would be a very different statute, which the government
+in every case would have to show beyond a reasonable
+doubt that it's more -- more than a small quantity.
+That may not be difficult; but in cases
+where there is a small quantity, it may, in fact, be
+difficult to disprove --
+JUSTICE SOTOMAYOR: Counsel --
+JUSTICE SCALIA: Counsel, I thought that
+when Congress enacted this provision, there was not the
+distinction between elements and sentencing factors that
+we now have, that the statute was enacted, in other
+words, before Apprendi.
+MR. SHAH: Your Honor, this statute was
+enacted before Apprendi, but Apprendi doesn't change the
+interpretation of this statute. This statute -- in the
+relevant criteria.
+This statute was interpreted -- interpreted
+both the same before and after Apprendi, with respect to
+the default provision, because the default provision
+doesn't require any factors or elements at all to get to
+the felony provision.
+JUSTICE SCALIA: That may be, but it
+certainly goes to your argument that Congress had in
+mind some distinction between elements and sentencing
+factors.
+MR. SHAH: Well, I think what Congress had
+in mind is that those mitigating criteria would not be
+treated as elements.
+And, Justice Kagan, to get back to your
+question, how do we know? Well, we can look at what --
+the inquiry that the Court did in Nijhawan. It would
+not be -- it would not be consistent with Congressional
+intent to assume that Congress intended that this
+aggravated felony provision would not have any effect in
+the clear majority of States that do not make either
+remuneration or more than a small quantity an element of
+the offense.
+That is what Nijhawan was about. It was
+trying to figure out, did Congress intend this
+particular piece of the aggravated felony description to
+be subject to the categorical approach or not? That is,
+did it require the predicate conviction to establish or
+negate it? And the right way to look at that is to look
+at the State of the State laws.
+And here, we know that, in a clear majority
+of States, they do not require remuneration, they do not
+require more than a small amount. You will never get an
+aggravated felony conviction out of a majority of
+States. Congress could not have intended that result.
+That's what Nijhawan stands for.
+JUSTICE KENNEDY: If you do not -- if you do
+not prevail in this case, can you simply solve this
+problem in the discretionary removal proceedings?
+MR. SHAH: Your Honor, I think that's --
+JUSTICE KENNEDY: You just say we're going
+to -- we're going to order you removed, unless you bring
+in evidence that this was a minor amount, period.
+MR. SHAH: Your Honor, I -- I think that
+that -- I think that's an open question. That's one
+that has not come up yet. I think
+Congress specifically --
+JUSTICE KENNEDY: Well, don't you think
+it's -- it's, under the law and under administrative
+practice, that it's an option available to you?
+MR. SHAH: It may -- it may be -- be an
+option open to the Attorney General to do that. The
+Attorney General would have to issue an order to that
+ground. I imagine it would be challenged and we'd have
+to litigate it. But what we do know is that Congress
+didn't want those sort of discretionary determinations
+made. Congress knew that all of these areas --
+JUSTICE SOTOMAYOR: Counsel, under the --
+under the -- do you have the same answer as
+Mr. Goldstein, that the modified categorical approach
+wouldn't permit the immigration judge to look at the
+plea allocution to determine the amount?
+MR. SHAH: I think the modified categorical
+approach would allow -- would allow --
+JUSTICE SOTOMAYOR: So that in -- in many of
+these cases that we're talking about, it is possible
+that the plea allocution itself would set out the
+amounts that the alien sold or show that he sold
+something --
+MR. SHAH: Yes, Your Honor, I think --
+JUSTICE SOTOMAYOR: -- and that would take
+care of this issue of how many people are escaping
+automatic removal?
+MR. SHAH: I think if the -- the plea
+agreement or plea colloquy set forth the amount and it
+was more than a small amount, I think the modified --
+our position would be that the modified categorical
+approach would allow you to reach that.
+Petitioner's and his amici's argument are
+essentially that the plea agreements aren't going to say
+that in a large majority of these cases, for the simple
+reason that a -- that a vast majority of the States
+don't make more than a small quantity an element of the
+crime, and so it's going to be irrelevant. But that
+simply shows --
+JUSTICE SOTOMAYOR: But the vast majority --
+the vast majority, in my experience, do -- do say
+whether the crime was for sale or distribution.
+MR. SHAH: And if that's the case, then the
+government would agree that, if we were to lose this
+case, we could then look at -- look at that evidence
+to -- to show -- to disprove more than a small amount,
+something that's not an element in any of the State
+crimes.
+JUSTICE GINSBURG: Are there any other
+consequences? We've been talking only about
+dispensation from removal. But are there any other
+consequences that matter?
+MR. SHAH: Yes, Your Honor, there -- there
+are other consequences that matter. For example, a
+person who's not -- a person is not only removable and
+not only deprived of cancellation relief. There --
+those who are aggravated felons are just essentially
+deprived of all forms of discretionary relief, except
+for Convention Against Torture relief and withholding of
+removal.
+It also has implications beyond the
+immigration context. At the same time that Congress
+enacted this aggravated felony provision, it made it a
+sentencing enhancement provision in -- in criminal
+prosecutions for illegal reentry. And so in any illegal
+reentry prosecution, if the defendant is also -- has a
+prior conviction for marijuana distribution, they would
+be subject to a significant sentencing enhancement under
+both the guidelines and Section 1326, the Illegal
+Reentry Statute.
+If Petitioner's rule were to prevail in a
+significant number of those cases, in any State in which
+it did not have those relevant elements, that sentencing
+enhancement would no longer have operative effect.
+So, Your Honor, it's not simply the case, as
+Petitioner would like to say, that the only thing here
+is -- is a difference between removability and
+cancellation of removal relief that the Attorney General
+can fix on his own. There are other ancillary
+consequences. And I think the criminal -- the
+consequence of the criminal prosecution is a significant
+one.
+CHIEF JUSTICE ROBERTS: Does that -- does
+the Castro-Rodriguez proceeding take care of those
+additional consequences?
+MR. SHAH: If -- if I may respond, Your
+Honor?
+CHIEF JUSTICE ROBERTS: Sure. Oh, yes.
+MR. SHAH: Thank you.
+I don't -- I think what -- we haven't had
+any criminal cases where the -- where an alien has come
+in and tried to make the argument. I imagine, if
+Petitioner prevails, it will be made in every single one
+of those 1326 reentry prosecutions.
+I think, if the Court were to accept the
+Government's submission, both on the threshold
+categorical inquiry and on the tail-end fact-specific
+inquiry, I think a defendant would probably be able to
+have the opportunity to try to make that showing in the
+Federal sentencing proceeding as well.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Mr. Goldstein, you have three minutes
+remaining.
+REBUTTAL ARGUMENT OF THOMAS C. GOLDSTEIN
+ON BEHALF OF THE PETITIONER
+MR. GOLDSTEIN: Mr. Chief Justice, I told
+you I was going to acknowledge the strengths of the
+other side's case. And I want to just recognize that
+you can conceivably read the statute their way. But the
+question is, if you actually adopt their statutory
+construction argument and you say we're going to look at
+the elements and it's an aggravated felony, we're
+comparing two different ways of reading it.
+And they admit that their way of reading the
+statute comes up with an answer that Congress couldn't
+possibly have intended by treating all these
+misdemeanants as aggravated felons.
+Now, their solution is to add a whole
+'nother proceeding that isn't in the statute. Another
+solution is just to recognize their reading is wrong.
+If it produces this ridiculous result that Congress
+couldn't have intended, and our reading is perfectly
+sensible and not only do you have the solution of the
+removal proceedings, but also Justice Kennedy's
+suggestion of the Attorney General's ability to issue an
+order, Justice Sotomayor's solution of being able to
+look at the plea allocution, questions that aren't
+presented here, but lots of ways of addressing any
+adverse consequences of our rule.
+What in statutory construction allows us
+just to add this procedure that --
+JUSTICE BREYER: But it's the word
+"punishable," I think.
+MR. SHAH: Well, "punishable" is a good
+word --
+JUSTICE BREYER: So you're thinking, under
+Georgia law, this is punishable as a felony only if it
+wasn't a small amount used for personal use, you see,
+and therefore, they go into the hearing.
+It's not punishable as an 841 felony, unless
+those two things are absent, and therefore, they have
+the hearing to find out. And the word "punishable"
+doesn't appear in the statutes, the other ones that
+we've construed. That's what I thought they were doing.
+MR. GOLDSTEIN: Okay. But I don't think
+that's actually what they're doing because Mr. Shah did
+not deny Justice Kagan's questions about, yeah, it would
+produce this ridiculous result, and so we're going to
+add this other proceeding.
+When they say -- what they do with
+punishable is they say look at only the elements of the
+Federal offense. And that's how they say that any
+Georgia conviction, even though, Justice Ginsburg, lots
+of these convictions will just be equivalents to Federal
+misdemeanors because they are the equivalent of --
+because they involve possession with intent to
+distribute, those are the only elements of the offense,
+then they're all punishable as felonies, even if they
+would be a misdemeanor.
+So I don't think punishable helps them. And
+they don't seem to argue on the basis of punishable. So
+my base point to you is that why, in choosing between
+these two readings, we have strengths, they have
+strengths. Their argument starts from the proposition
+that theirs produces a result that Congress couldn't
+have intended.
+And, Mr. Chief Justice, they did start out
+with the hardcore position. I can give you the example.
+It's our case. Remember, even though this is 1.3 grams,
+even though he was not convicted of selling, they
+ordered him mandatorily deportable without an inquiry
+into the underlying facts. They recognize that can't be
+right. And so they are trying to tack something on to
+the statute that doesn't appear in the statute.
+The last point that I want to address is
+actually a very small one. And that's about
+Justice Thomas' dissent in the Lopez case on whether you
+should look to the State definition of whether this is a
+felony or instead, the Federal one, because the
+government cites it in a footnote in their brief.
+And we would only say that the government is
+not relying on the Lopez dissent. It invokes Lopez
+repeatedly in the Federal courts. And so this is a
+situation in which the Court's decision in Lopez should
+take hold as a matter of statutory -- stare decisis, and
+what matters here is the Federal treatment of it.
+When you don't know if the Georgia
+conviction is a felony or a misdemeanor under Federal
+law, you don't know which one it is, what the
+categorical rule says is that the State conviction
+doesn't necessarily establish it's a Federal offense,
+the Federal felony here, and therefore, you don't treat
+it that way.
+The -- the arguments that my friend ended
+with -- ended with about, hey, this is going to be
+applied in Federal sentencing and lots of other
+contexts, makes it worse, not better. How in the world
+are we going to have these others Castro-Rodriguez
+proceedings, these other intermediate proceedings about
+determining the facts of the offense in Federal
+sentencing? It gets vastly more complicated.
+Our rule addresses the core concern of
+Congress. It gets the right people deported. Their
+rule, because it's overinclusive, there will be
+noncitizens who can't prove their offense was a
+misdemeanor, and they shouldn't be removed.
+Thank you.
+CHIEF JUSTICE ROBERTS: Thank you, counsel,
+counsel.
+The case is submitted.
+(Whereupon, at 11:03 a.m., the case in the
+above-entitled matter was submitted.)
+16:18 34:15 aliens 31:16 appear 63:4 33:10 34:24,25
+affirmatively alien's 38:25 APPEARAN... 46:15 49:15,17
+61:9 52:5,8 7:24 58:2,7 appendix 5:24 55:24 58:19
+agent 28:6 62:13 6:1 7:7 61:3,15,22
+65:23 6:25 8:1 16:11 58:4,4,18 23:20 arguments
+54:11 31:2,15,23 41:11 19:14 aside 12:11
+32:16 33:4,21 amici's 58:19 apply 7:25 15:5 40:11
+61:18 38:16,18,21 23:6 26:3 29:5 45:1,4,10,12 assisting 38:24
+28:5 51:9,15,23,24 36:11 40:19 approach 5:18 36:4 44:23
+63:10 56:24 59:18,24 43:20 49:12 14:5,14,21 assumes 30:4
+48:11 58:16 59:7 44:17 45:18 attempts 20:11
+42:10,14 53:24 analogy 17:8 56:17 57:25 14:25 22:6,8
+agreed 5:25 ancillary 60:15 Approximate 24:7,19 25:2
+57:14 50:11 58:15 27:14 57:24 25:19 40:10 41:2
+58:20 answered 37:4 argue 15:2 62:11
+alien 38:23,23 apologize 5:6 2:2,5,8 3:3,6 20:5
+BIA 4:25 23:12 25:9 33:11,15,18 34:4,7,11
+35:12 54:25 capricious 24:18 60:20 65:9 51:10 60:19,24
+bit 4:14 36:3 17:23 18:8 7:20 8:6,7 14:4 65:19
+blue 5:21,24 46:3,12,15 18:20,22 19:13 choose 47:5,16
+37:1 Carachuri-Ro... 30:23 35:18 cigarettes 27:9
+Breyer 9:22 22:3,19 48:15 50:8 24:8
+11:7,11 care 58:12 60:20 52:23 53:25 circumstances
+12:21 13:1,5,8 5:17 6:2 8:17 61:8 65:1 cite 49:9
+25:10 brief 5:21,25 6:3 14:3 15:10,17 39:14,23 class 33:3
+33:8,13 7:6 26:15 16:12 17:9,24 categories 54:16 classified 20:13
+44:2 37:21,22 38:9 18:8,10 26:8 century 34:21 20:14
+38:14,20 40:2 27:7,25 28:1,4 certain 38:21 classifying
+22:9 40:11 42:8,15 challenged clear 15:11
+broad 22:16 59:6 60:11 changed 4:9 54:20
+43:3,13,15 9:23,24 11:6 18:8 code 13:6 19:7
+burglary 44:12 12:3,4 14:6,11 charge 10:13,15 colleague 41:20
+3:7 C 26:16 27:22 charged 7:15 collect 4:3
+61:16 C 1:16 2:1,3,9 28:20 30:9,10 42:5 colloquy 8:3
+43:5 call 12:3 26:19 43:24 47:25 Chief 3:3,8 combined 4:19
+40:23 60:8 61:2 15:25 16:6 28:6 32:15
+43:16 8:13 9:16 16:9 49:22 29:18 30:3,17 51:25 57:11
+59:23 62:1,7 31:16 32:2,22 48:20 49:2 decade 41:22
+30:5 Congressional conviction 8:9 52:2 53:2,9 decide 46:9
+51:4,6 56:8 8:10 13:6,14 54:3 56:7 61:6deciding 40:12
+consequence 14:17,19 15:3 courts 64:19 decision 23:22
+22:11 59:15 60:16,21 21:1 22:22 cover 19:25 decisis 64:21
+29:13 62:15 29:25 30:18 covers 19:25 deemed 13:6
+38:23 consider 31:4 31:1,23 33:24 crafted 44:6 default 33:23
+40:22 35:1,1,2 37:23 crazy 50:1,1 45:7 53:6
+27:7 considered 53:3 48:23 49:11 creates 38:6 defendant 16:19
+32:7 56:24 60:3 45:24 51:1 36:11,19 42:12
+35:25 56:8 65:1 59:3 51:17,20 60:2
+47:20 26:2,23 27:11 41:23 50:24 defense 16:18
+37:25 38:2 core 65:13 criminal 17:8,11define 51:15
+65:12 12:5 61:22 32:8,10 39:12 43:15 59:25 13:22 36:5,9
+contemplates corresponds 48:8 53:8 54:5denies 22:8
+30:11 contexts 26:13 counsel 31:8 33:23,25 34:13 39:14 63:8
+65:8 55:8,9 57:23 34:17 36:4,16 Department
+contrast 4:12 61:12 65:19,20 44:23 46:23 1:19 4:7 27:2
+32:15,25 36:10,14,19 course 30:8 Cyr 23:22 deportation
+36:4,5 40:3 37:13 31:21 32:3
+Convention court 1:1,13 3:9 D deported 35:15
+49:1,2,3 59:20 8:12 9:14 D 3:1 38:3 50:5
+52:12,14 convicted 3:11 12:22 13:2 dangerous 65:14
+53:16 3:13 7:16 10:4 14:4 18:7,8,14 44:14 52:16 depose 14:3
+13:9,16,21,22 22:2,10 25:20 data 4:7,13,13 deprived 59:17
+56:2 18:23,25 19:1 31:13 34:18 30:21 41:17,18 59:19
+19:6,7,15,20 42:18 45:6 41:19,21 42:3 derived 28:12
+21:9 29:10 47:20 48:8,13 deal 33:6 description
+dispense 7:12 D.C 1:9,16,19 46:7 63:16 explain 6:22
+42:16 43:7 E 63:15 explained 8:12
+dispute 39:22 46:13 ESQ 1:16,18 2:3 extent 22:15
+distinct 53:15 effect 22:17 40:4 essentially 40:6 extremely 26:4
+11:21 27:10 effectively 53:20 establish 48:19 F
+60:13 distinguishable 44:18,21,23 50:9 56:18 22:14,22 25:19
+29:21 distribute 3:12 element 31:24 established 35:24 42:15
+37:17 5:9 7:12,13 8:9 42:17 46:8 37:23 40:14 43:14,24 55:6
+43:12 10:11,15,16 53:20 56:12 51:5 factor 8:15
+47:8 11:6,19,24 58:23 59:8 everybody 6:8 32:17 46:5,5,6
+52:13 19:2,3,12,16 elements 14:17 26:20 46:11,16,18
+55:2 21:11 33:25 14:21 35:3,6 everybody's 48:17,24
+34:2 35:2 35:19 36:15 15:11 factors 40:25
+54:17 42:23 46:24 46:22,25 47:14 8:10 12:16 55:11,21 56:1
+55:5,7 63:18 48:14,16 49:19 51:7 57:8 59:6 17:10 28:15
+35:8 59:3 60:3 56:4 60:9 37:3 41:25 14:10 15:4
+22:1 53:1 14:3,9 elevate 46:18 52:6 fact-found
+divisible 19:10 Eleventh 13:11 example 5:10 16:13 17:3
+32:16 50:24 51:1,5,8 embrace 39:17 exception 34:1 fair 30:23,24
+documents enacted 27:24 34:15 36:17 fairly 42:8
+38:4 10:12 32:15 55:10,12 42:4 51:8 52:1 familial 51:8
+41:2,10 doing 4:23 34:20 55:15 59:24 52:9 family 51:2
+34:23 63:5,7 ended 65:5,6 exceptions 54:6 Fast 47:24
+32:12 55:4 engaged 42:24 6:11 13:18 14:8,25
+49:21 draw 17:7 enhancement exercise 8:16 23:19
+59:19 drawn 53:10 44:9 59:25 33:14,18 35:10 favorable 40:16
+40:7,7 42:24 entering 12:23 41:2 Federal 3:21,23
+40:19 43:20 equivalent 36:7 59:2 13:13,20 16:16
+56:15 23:7,10,17,20 48:15,24 57:6 13:11 20:5
+28:1
+29:3,4 first 3:4 13:17 25:16 31:3 61:18,22 63:9 27:15 38:20
+30:12 16:25 17:5,15 32:17 33:8 65:6,9 39:20 46:14
+34:15 20:20 47:12,19 40:10 41:2 Goldstein 1:16 47:9 61:7
+41:18
+50:6,7 57:17,18 60:14 2:3,9 3:5,6,8 grams 5:11 6:4
+45:22 five-year 53:19 generally 44:7 4:2 5:6,13,16 6:18,19 40:8
+fix 60:15 General's 33:12 6:13,16,19 8:2 64:5
+63:13,15 fixes 20:25 62:11 8:22,25 9:3,5 granting 33:2
+flaws 25:23 generic 45:22 10:8 11:2,10 granular 4:14
+fly 26:19 47:23 48:2 11:14,17,20 grave 54:14
+focusing 48:1 Georgia 3:12,19 12:20,25 13:4 greater 44:24
+50:21 follows 22:23 7:5 9:10 10:10 14:7,15,18,23 ground 19:17
+54:13 footnote 40:2 14:17,20 19:7 15:9,14,17,21 40:4 57:19
+45:18 64:16 21:9 26:23 15:24 16:5,7 grounds 46:13
+50:5 forms 59:19 37:23 62:23 18:6,18,21,25 54:21
+62:3 formulated 63:14 64:23 19:9,19,23 guessed 9:25
+9:11 formulation 5:16 7:1 16:15 21:12,14,19,21 guilt 12:23,24
+16:11 36:8 51:22 16:22 17:23 21:25 23:1,14 13:3
+19:4 forth 40:15 51:7 21:5,7,13,15 24:12,15,25 guilty 7:21
+22:12,17 58:15 21:20,23 22:1 25:3,6,8,13,15
+29:13 fortunate 6:5 22:23 23:1 25:18 27:1 H
+31:2,15 forward 16:13 27:19 42:10 28:19,21 29:1 H 1:6
+32:16 47:24 46:14 59:10 29:6,9,20
+36:2 14:9 Ginsburg's 57:25 61:13,15
+38:1,3,6 48:12,14 50:24 give 4:4 28:24 Goldstein's 29:7
+51:1,5,8 64:4 54:20 happened 12:12
+44:22 free 31:15,19,20 glad 50:7 good 30:13 happens 22:6
+46:1,10 31:21,22 go 16:6 17:25 62:20 hard 4:3
+47:17 friend 28:3 65:5 18:4,9,11,11 gotten 7:18
+49:3
+51:2 functionally 22:24 29:18 16:22 17:25
+37:18 36:23 41:5,17 18:11 19:21 37:7
+52:4,20 further 17:20 44:2 47:1 48:8 22:24 28:13 heading 38:13
+55:22 49:9,24 62:25 35:17 39:9,22 hear 3:3 5:4,5
+G goes 44:9,14 42:16,21 43:7 15:13
+61:23 G 3:1 55:24 43:9,13,15 hearing 62:25
+63:1 game 35:18 39:2 going 3:20 5:21 46:16 53:5,7
+65:3
+48:16 14:25 22:8 43:17,19,25 government's help 51:2
+33:17 59:22 50:8,9 56:7 40:7 22:1,23 23:1,9
+37:11 importantly 61:8,9 64:7 involving 30:9 24:9,13,22
+39:13 42:17 INS 32:7 41:23 25:1,4,7,11,14
+40:24 INA 33:22 34:13 inserting 26:8 irrelevant 8:3 25:16 26:21
+44:25 34:17 37:3 instance 43:11 26:4 28:16 27:3,15,18
+46:3 38:19 39:1,4 intend 56:15 58:24 28:19,22 29:2
+50:6,18 50:21,23 51:14 intended 21:10 isolate 42:3 29:7,18 30:3
+54:8,23 include 9:10 49:2,3 56:9,25 issue 8:18,21 30:17 31:8,12
+57:5,9 11:25 62:2,8 64:2 22:2 23:10 31:19 32:2,6
+59:14 included 44:8 intends 11:19 29:14 37:18 32:13,19 33:9
+includes 19:11 intent 3:12 5:9 44:7 47:1 49:8 34:4,7,11,22
+inconsistent 11:24 19:1,3 62:11 38:8,11 39:8
+19:11,16 33:24 39:19 40:9,18
+37:18 33:22 34:13,17 51:17 53:12,14 JR 1:6 44:2,5,12,16
+36:3 51:15 56:9 63:17 judge 7:23 8:13 45:1,9,15,17
+36:6 37:16 interested 28:3 32:7 47:3 58:1 47:5,13,16
+61:3 individual 32:8 37:6 45:4,5 46:7 59:10 60:19,24
+individuals 32:3 interpreted 45:6 3:8,24 4:8 5:2 62:12,18,22
+5:23 7:23 42:24 51:25 52:3 6:14,17 7:1,19 64:13 65:19
+11:3 infer 29:11 54:4,4 55:18 8:18,24 9:1,4 justify 24:4
+15:22 42:23 55:18 9:22 10:9 11:7
+17:16 influenced 45:5 interviewing 11:11,15,18,21 K
+25:5 26:7 information 4:4 14:9 12:6,10,14,19 Kagan 19:19,24
+32:20 27:4 introduced 32:9 12:21 13:1,5,8 20:4,10 23:9
+leads 49:15 49:15,16 50:8 mentioned 19:9 Nation's 22:18
+35:20 leave 27:13 52:6 met 28:24,24 natural 46:10
+38:8,11 length 23:15 major 20:2 middle 15:21 Naturalization
+49:14 lesser 44:8 26:25 mind 55:25 56:3 17:17
+52:10 let's 7:20 29:2 majority 31:16 minor 20:1 nature 49:22
+56:5 36:4 41:16 48:22 26:24 57:8 necessarily
+limited 16:14 56:24 58:21,22 mirror 16:16 need 14:13
+lines 47:9 making 7:23 37:2 52:8,18 56:19
+26:21 lists 14:16 12:11 53:20 misdemeanants negative 7:17
+57:2,6 litigate 57:20 mandatorily 20:13,13 50:2 neither 31:17
+little 4:14 5:25 64:7 50:4 62:3 never 11:6,8
+41:19 22:21 31:20 6:23 10:23 31:23 42:12
+longer 60:10 manufacture 28:10 29:16 new 37:13,14,15
+54:13,14 10:10 14:2 marijuana 3:12 47:1,14,17 Nijhawan 48:10
+20:7 37:17 38:18 33:25 36:12 65:17 noncitizen 16:13
+28:3,22 40:1,5 45:23 37:24 40:8 misdemeanors 22:11
+32:20 45:24 46:2,10 41:24 42:5,22 3:23 9:21 noncitizens 26:5
+56:6,21 48:8,9,14 46:23 53:15 54:15 63:16 65:16
+64:23,25 50:14,15,19,22 60:3 misunderstand non-serious
+56:19 58:1 material 6:1,3 mitigating 34:1 note 14:25 22:11
+63:12 materially 4:9 42:4 48:5,7 number 29:21
+looking 14:23 54:24 59:13,15 modified 7:25 O
+40:12 52:12 64:22 58:17 obvious 10:1,2
+58:21 64:13,18,18,20 53:19,19 3:4,11 5:1 23:4 offender 13:17
+23:11 lot 6:6 21:8 49:24 54:11 32:17 16:8,9 21:2
+46:2,19 30:20 means 11:6 12:5 22:7 23:5 24:3
+62:23 lots 42:19 62:14 54:20 N 26:8 28:14
+63:14 65:7 mechanism N 2:1,1 3:1 31:25 38:24
+M meet 43:15 48:7 52:8 42:3 44:8,10
+48:18 42:22 43:22 62:8 policy 10:13,14 presented 25:22
+53:6,15 outcome 24:5 period 57:8 10:17 33:7 62:14
+54:4,6 outside 17:25 permissible positing 37:11 presumably
+63:13,18 22:24 24:10,11 37:15 40:19
+overinclusion permit 58:1 position 9:9 presume 30:23
+23:13 overinclusive 51:1 16:1,4,7,10 presumption
+44:8 9:19 65:15 person 7:10 20:5 21:4 43:24
+53:4,12 overinclusive... 12:12 29:12 22:19 23:3,5 presumptive
+19:22 20:6,12 35:5,7,8 50:3 28:9 33:11 36:13
+P 3:1 1:17 2:4,10 3:7 possess 7:11,13 prevail 53:25
+43:1 7:6 13:13 42:9 49:7 possessed 5:1 prevails 61:4
+52:18 22:10 38:20 53:24 60:12 37:24 pre-Apprendi
+40:2 50:23,23 61:4,16 possession 3:11 47:21
+12:6,6 parallel 27:16 31:14 37:23 10:11 11:5 prior 60:3
+18:18 parent 38:25 47:11 52:6 19:1,3,11,16 prison 54:16
+50:12 parentheses 58:19 60:7 27:11 33:24 probably 16:3
+6:17 phone 10:5,5 35:2 40:8 17:4 43:24
+57:10,17 33:15 36:2 play 35:10 possible 27:5 20:17,18,19,22
+31:4 19:17 please 3:9 30:17 22:17 26:12 49:15 57:4
+pass 31:15,19,20 31:13 practice 57:15 procedure 62:17
+31:10 people 11:13,25 19:5 23:19 precisely 14:5 61:11 62:5
+25:1 21:9,15,17 45:15 51:11,11 40:5 proceedings
+53:5 57:7 29:15 50:3 51:13 52:19 predicate 46:17 5:23 15:22
+62:12 58:12 65:14 54:7 63:23 46:21 47:22 57:4 62:10
+37:3 38:19 raised 46:14 reference 33:22 31:17,25 36:12
+proviso 36:16 random 10:6,16 refers 5:8 42:6,17 43:14
+6:2 read 7:10 12:2,4 3:25 19:25 49:11 51:21
+43:3 punishable 45:8 22:1,9 37:20 rejected 17:21 53:8,13,18,21
+punishment 61:24,25 62:6 27:3 report 5:22
+purchase 7:12 readings 63:24 relatively 43:20 reproduced
+30:5 39:6 41:3 reality 42:11 8:15 22:12 31:17 37:6
+17:11,15 put 38:8 43:13 10:22 11:22 relief 22:13 33:3 56:18,22,23
+28:6 putting 40:11 12:11 15:12 59:17,19,20 required 46:22
+60:2,17 puzzle 10:2 20:12,14 28:2 60:14 respect 55:19
+4:5,10,15 44:7 47:1 relying 64:18 Respondent
+27:10 Q 50:10 remaining 61:14 1:20 2:7 31:11
+61:5 qualify 42:4 reason 4:8 6:22 Remember response 26:16
+28:16 36:20 14:2 15:5 33:21 64:5 43:17 49:16
+28:10,23 58:23 28:5 33:7 removability 62:7 63:9 64:1
+65:16 quarter 34:21 58:22 40:4 60:13 resulted 48:12
+11:8 12:8 reasoning 47:9 removal 3:18 ridiculous 62:7
+34:1,17 25:22 30:22 20:20 22:8,13,20,21 right 5:7 8:14,25
+6:24 41:17 43:6,13 2:8 61:15 26:14 32:12 11:10,17,23
+12:22 48:6 54:10 recidivism 46:5 40:10,12,23 12:21 13:25
+29:4,23 56:6 57:10 46:16 57:4 58:13 14:17 15:8,23
+30:1 61:21 recognize 61:19 59:12,21 60:14 25:15 28:20
+33:1,22 questions 62:13 62:6 64:8 62:10 33:10 34:11
+37:18 63:8 recognized removed 24:4 39:18 43:23
+40:6,22 question's 13:23 30:25 57:7 65:17 44:5,6,15
+49:4 quite 41:10 record 5:14,23 remuneration 47:11,18 51:12
+52:11 6:1 7:2,3 16:14 5:15 6:9,21 7:1 52:11 56:19
+53:6 17:25 18:11,13 7:4,18,22 64:9 65:14
+R 22:25 28:15,18 16:17 21:13 ROBERTS 3:3
+59:24,25 R 3:1 reentry 60:1,2,6 26:3 28:16 13:23 14:1,12
+16:6 scheme 5:4 33:17 34:6,9 34:18,20 50:20 42:20
+25:1,4,7 33:20,23,23 34:12,22 35:16 51:11,14 52:3 sort 25:24 39:14
+30:3 34:1,3,13,16 35:23 36:22,25 simple 40:8 39:24,25 40:11
+33:9 34:4 35:24 49:21 37:11,15,21 58:21 44:20 57:21
+36:21 53:23 54:1 38:5,10,13 simply 37:16 sorts 40:21,24
+39:8,19 science 11:1 39:13,21 40:13 52:12 57:3 Sotomayor 3:24
+51:10 scope 22:17 40:24 41:12,15 58:25 60:11 7:19 8:18,24
+61:12 se 24:6 42:14 43:1,4 single 15:10 9:1,4 19:10
+second 7:9 17:4 43:12,23 44:4 16:12 26:8 28:19,22 29:2
+24:2,6 secondary 34:9 47:18 49:14 situations 29:25 42:20 43:2,8
+31:14 section 7:9 50:6,12,18 small 5:14 6:8 43:21 44:2,5
+62:15 41:23 42:1 51:13 52:11 7:1 11:15 44:12,16 45:1
+52:15,16 60:5 53:1 54:10,23 13:18 16:17 45:9,15,17,21
+selling 7:16 13:18 16:19 56:23 58:16,23 specifically
+sensible 62:9 42:25 43:5,7 64:12 57:12
+18:12,24 12:15 42:1 55:3 58:8 59:7 30:1 52:14 stands 57:1
+43:4 sentencing showing 51:3 socially 34:2 stare 64:21
+50:2 45:14,25 55:11 61:10 sold 32:23 58:8 start 8:5 64:3
+55:25 59:25 shown 38:23 58:8 starting 23:20
+12:22 65:7,12 shows 36:11,19 solution 20:21 starts 63:25
+20:23 separate 52:19 50:25 51:7,17 26:1,11,12 State 4:4,6 10:3
+35:12,14 53:4,12 54:19 51:20 58:25 49:25 50:1,1 10:7 11:9 12:3
+38:14 serious 23:6 side 39:10 62:4,6,9,12 13:16,21 15:20
+39:5,16 24:3 30:11 side's 9:6 19:2 solve 20:18 57:3 18:1,2,5 26:2
+42:11 seriousness 16:9 61:19 solved 20:22 28:15 29:15,17
+51:16 set 40:15 58:7 significant 7:4 21:24 22:5 29:20 31:16,24
+65:1 58:15 21:10 60:4,8 somewhat 46:7 31:25 34:14
+18:16 Shah 1:18 2:6 silence 28:15 15:14 24:22 46:19 56:20,20
+19:6 31:9,10,12,22 silent 28:18 27:2 29:18 59:8 60:8
+32:4,11,14,25 similar 20:16 34:6 36:24,25 64:14 65:1
+27:8 straight 26:14 27:12 28:17 36:1,7 37:17 31:15 64:22
+29:8 strength 9:6 29:21,22 37:19 38:15 treats 9:20 21:1
+19:5 39:13,18 42:8 tried 20:6 27:1
+31:3 strengths 61:18 T 43:7,12 45:3 27:23,25 61:3
+63:24,25 T 2:1,1 47:4,7,7,18 triggered 13:14
+56:11,22 strictly 45:23 tack 64:9 49:14 50:8,10 true 18:10 32:14
+58:22 strip 31:3 tackle 27:8 50:18,20 51:9 truly 38:11
+30:4 structured tail-end 61:8 54:7,24 56:2 trying 16:16
+6:10 7:5 stuff 12:1 17:9 26:22 57:13 58:3,10 30:19 46:9,16
+9:10 10:3,3 subject 8:20 9:1 28:11,14,17 58:14,16 60:16 46:18 52:18
+11:8 17:13 32:3,5 32:16 33:16 61:1,6,9 62:19 56:15 64:9
+56:17 60:4 49:8 58:11 63:6,21 turn 17:3
+16:16,20 submission 52:7 60:20 64:21 thinking 62:22 turns 48:22
+17:16 61:7 taken 35:17 Thomas 1:16 two 4:13 5:20
+19:11,17 submit 49:6 talk 17:22 45:18 2:3,9 3:6 61:15 16:19 20:20
+20:8,25 submitted 65:21 talking 6:23 64:13 25:23 36:4,15
+21:2,9 65:23 17:5 24:23 thought 43:6 47:6,8,8,19
+22:6 substance 36:10 32:11 45:22,25 55:9 63:5 52:13,19,20
+26:12,23 36:15,19 40:3 46:6 58:6 thousand 37:22 53:4,11 54:19
+29:3,4,5 substances 3:14 59:11 three 40:15 54:23 61:24
+30:12 16:8 21:1 23:4 Taylor 47:21 47:14 61:13 63:2,24
+34:13 substantial tell 30:20 47:2 threshold 61:7 type 14:5 22:12
+35:13,21 24:17 telling 23:11 time 9:25 38:15 30:11
+substantive 44:3 tells 17:17 41:7 59:23
+38:4 suggest 12:3 thank 3:8 31:8 times 38:12 U
+44:6,21 19:20 21:3 60:25 61:12 tiny 10:12 30:7 Uh-huh 45:20
+32:20 33:7 65:18,19 30:9 unable 27:2 28:2
+52:11,22 53:10 theirs 9:8 64:1 today 7:24 13:24 uncertainty
+suggesting thing 10:1,3 Today's 3:10 48:4
+55:2,12 16:23 18:3 25:12,21 told 61:17 uncounseled
+suggestion 46:12 60:12 tools 26:6 26:5
+61:20 12:11 62:11 things 4:23 top 38:20 50:23 undercard 3:10
+64:10 suggests 52:23 16:19 19:12 Torture 59:20 undercover 28:8
+54:22 40:11,19,21 totally 10:15 underinclusion
+63:4 suppose 16:2 think 4:21,24 trafficking 3:16 underinclusive
+34:24,25 supposed 17:18 11:2,10 12:17 42:25 underinclusiv...
+Supreme 1:1,13 17:4 21:8 23:9 transpose 28:17 17:5 19:21
+53:23 22:10 23:15,19 24:5 treat 25:8 53:7 20:17,24 21:24
+61:21 sure 13:10,12 24:12,15,16 65:3 22:5 25:25
+64:21 29:1 41:10 25:18 26:12 treated 46:7 underinclusivi...
+16:1 24:7 29:11 37:9 wrong 33:11 2589 22:10
+52:21 39:20 62:24 62:6 26 49:7
+way 9:4 14:23 wrote 37:8
+39:9 34:24,25 36:1 X 3 2:4 45:18
+31:3 52:21 56:19 Y 34 38:20 50:23
+ways 47:8,19 12:9 14:15
+Wednesday years 27:24,25 50:4
+38:14 6:14,18 24:1
+went 11:3
+50 48:21,21 49:9
+59:1,2 61:22,23 63:9 10 1:10 38:12 61 2:10
+49:17,18 59:11 7
+1:14 3:2
+1:4 3:4
+65:22
+39:17
+29:9 38:12
+39:17
+19:7
+16-13-2(a) 12:15 841(a) 41:23
+18:4 words 12:7 7:9
+5:22,24 14:16
+49:16 22:15 38:9 841(b)(4) 4:17
+61:19 1970 27:24
+1996 23:21 24:2 6:24 42:1
+work 10:9 844 4:19
+worse 14:8 20 41:25 42:7
+4:8,9
+4:13,20
+24:16 32:21 90 30:19
+1:10
+23:21

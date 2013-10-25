@@ -1,0 +1,1630 @@
+==2002 term opinions==
+{| align=center cellpadding="0" cellspacing="1" border="1" style="border-collapse:collapse;" width=825
+|-  
+! bgcolor=#DDDDDD |Case name
+! bgcolor=#DDDDDD |Argued
+! bgcolor=#DDDDDD |Decided
+| bgcolor=#DDDDDD align=center width=50px| <small>Rehnquist
+| bgcolor=#DDDDDD align=center width=50px| <small>Stevens
+| bgcolor=#DDDDDD align=center width=50px| <small>O'Connor
+| bgcolor=#DDDDDD align=center width=50px| <small>Scalia
+| bgcolor=#DDDDDD align=center width=50px| <small>Kennedy
+| bgcolor=#DDDDDD align=center width=50px| <small>Souter
+| bgcolor=#DDDDDD align=center width=50px| <small>Thomas
+| bgcolor=#DDDDDD align=center width=50px| <small>Ginsburg
+| bgcolor=#DDDDDD align=center width=50px| <small>Breyer
+|-
+|<small>''Ford Motor Co. v. McCauley'',<ref>The Court in ''Ford Motor Co.'' dismissed ''[[certiorari]]'' as improvidently granted.</ref> 537 U.S. 1
+|<small>October 7, 2002
+|<small>October 15, 2002
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Early v. Packer]]'', 537 U.S. 3
+|<small>
+|<small>November 4, 2002
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[INS v. Ventura]]'', 537 U.S. 12
+|<small>
+|<small>November 4, 2002
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Woodford v. Visciotti]]'', 537 U.S. 19
+|<small>
+|<small>November 4, 2002
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Syngenta Crop Protection, Inc. v. Henson]]'', 537 U.S. 28
+|<small>October 15, 2002
+|<small>November 5, 2002
+| bgcolor="#00CD00" |<br><br><!--rehnquist-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" |<!--stevens joined the majority-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#00B2EE" |<!--stevens filed a concurrence-->
+|}
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Yellow Transportation, Inc. v. Michigan]]'', 537 U.S. 36
+|<small>October 7, 2002
+|<small>November 5, 2002
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#00B2EE" |<!--stevens-->
+| bgcolor="#00CD00" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Sprietsma v. Mercury Marine]]'', 537 U.S. 51
+|<small>October 15, 2002
+|<small>December 3, 2002
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#00CD00" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[United States v. Bean]]'', 537 U.S. 71
+|<small>October 16, 2002
+|<small>December 10, 2002
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#00CD00" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Howsam v. Dean Witter Reynolds, Inc.]]'', 537 U.S. 79
+|<small>October 9, 2002
+|<small>December 10, 2002
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="white" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="00B2EE" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#00CD00" |<!--breyer-->
+|-
+|<small>''Abdur'Rahman v. Bell'',<ref>The Court in ''Abdur'Rahman'' dismissed ''certiorari'' as improvidently granted.</ref> 537 U.S. 88
+|<small>November 6, 2002
+|<small>December 10, 2002
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="red" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''Borden Ranch Partnership v. Army Corps of Engineers'',<ref>The decision in ''Borden Ranch'' merely stated that the lower court's judgment was affirmed by an equally divided Court.</ref> 537 U.S. 99
+|<small>
+|<small>December 16, 2002
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="white" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Sattazahn v. Pennsylvania]]'', 537 U.S. 101
+|<small>November 4, 2002
+|<small>January 14, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#EE9572" |<!--stevens-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" align=center|*<!--o'connor joined the majority in part-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#00B2EE" |<!--o'connor filed a concurrence-->
+|}
+| bgcolor="#00CD00" align=center|*<!--scalia-->
+| bgcolor="#93DB70" align=center|*<!--kennedy-->
+| bgcolor="#EE9572" |<!--souter-->
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="red" |<!--ginsburg-->
+| bgcolor="#EE9572" |<!--breyer-->
+|-
+|<small>''[[Pierce County v. Guillen]]'', 537 U.S. 129
+|<small>November 4, 2002
+|<small>January 14, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#00CD00" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Barnhart v. Peabody Coal Co.]]'', 537 U.S. 149
+|<small>October 8, 2002
+|<small>January 15, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="#EE9572" align=center|1<!--o'connor-->
+| bgcolor="red" align=center|1<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#00CD00" |<!--souter-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=33% align=center bgcolor="#EE9572" align=center|1<!--thomas joined scalia's dissent-->
+| width=1% bgcolor=gray |<br><br>
+| width=33% align=center bgcolor="red" align=center|2<!--thomas filed a dissent-->
+|}
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Eldred v. Ashcroft]]'', 537 U.S. 186
+|<small>October 9, 2002
+|<small>January 15, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="red" align=center|1<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="#00CD00" |<!--ginsburg-->
+| bgcolor="red" align=center|2<!--breyer-->
+|-
+|<small>''[[United States v. Jimenez Recio]]'', 537 U.S. 270
+|<small>November 12, 2002
+|<small>January 21, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#B23AEE" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#00CD00" |<!--breyer-->
+|-
+|<small>''[[Meyer v. Holley]]'', 537 U.S. 280
+|<small>December 3, 2002
+|<small>January 22, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#00CD00" |<!--breyer-->
+|-
+|<small>''[[FCC v. NextWave Personal Communications, Inc.]]'', 537 U.S. 293
+|<small>October 8, 2002
+|<small>January 27, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" align=center|*<!--stevens joined the majority in part-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#00B2EE" |<!--stevens filed a concurrence-->
+|}
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#00CD00" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="red" |<!--breyer-->
+|-
+|<small>''[[Miller-El v. Cockrell]]'', 537 U.S. 322
+|<small>October 16, 2002
+|<small>February 25, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" |<!--scalia joined the majority-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#00B2EE" |<!--scalia filed a concurrence-->
+|}
+| bgcolor="#00CD00" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="red" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Washington State Dept. of Social and Health Servs. v. Guardianship Estate of Keffeler|Washington State Dept. of Social and Health Servs. v. Keffeler]]'', 537 U.S. 371
+|<small>December 3, 2002
+|<small>February 25, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#00CD00" |<!--souter-->
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Scheidler v. National Organization for Women (2003)|Scheidler v. National Organization for Women, Inc.]]'', 537 U.S. 393
+|<small>December 4, 2002
+|<small>February 26, 2003
+| bgcolor="#00CD00" |<br><br><!--rehnquist-->
+| bgcolor="red" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#93DB70" |<!--thomas-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" |<!--ginsburg joined the majority-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#00B2EE" |<!--ginsburg filed a concurrence-->
+|}
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" |<!--breyer joined the majority-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#79CDCD" |<!--breyer joined ginsburg's concurrence-->
+|}
+|-
+|<small>''[[Moseley v. V Secret Catalogue, Inc.]]'', 537 U.S. 418
+|<small>November 12, 2002
+|<small>March 4, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#00CD00" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#93DB70" align=center|*<!--scalia-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" |<!--kennedy joined the majority-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#00B2EE" |<!--kennedy filed a concurrence-->
+|}
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Boeing Co. v. United States]]'', 537 U.S. 437
+|<small>December 9, 2002
+|<small>March 4, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#00CD00" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#EE9572" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="red" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[United States v. White Mountain Apache Tribe]]'', 537 U.S. 465
+|<small>December 2, 2002
+|<small>March 4, 2003
+| bgcolor="#EE9572" |<br><br><!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#EE9572" |<!--scalia-->
+| bgcolor="#EE9572" |<!--kennedy-->
+| bgcolor="#00CD00" |<!--souter-->
+| bgcolor="red" |<!--thomas-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" |<!--ginsburg joined the majority-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#00B2EE" |<!--ginsburg filed a concurrence-->
+|}
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" |<!--breyer joined the majority-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#79CDCD" |<!--breyer joined ginsburg's concurrence-->
+|}
+|-
+|<small>''[[United States v. Navajo Nation]]'', 537 U.S. 488
+|<small>December 2, 2002
+|<small>March 4, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#EE9572" |<!--stevens-->
+| bgcolor="#EE9572" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="red" |<!--souter-->
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="#00CD00" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Clay v. United States]]'', 537 U.S. 522
+|<small>January 13, 2003
+|<small>March 4, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="#00CD00" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Connecticut Dept. of Public Safety v. Doe]]'', 538 U.S. 1
+|<small>November 13, 2002
+|<small>March 5, 2003
+| bgcolor="#00CD00" |<br><br><!--rehnquist-->
+| bgcolor="#00B2EE" align=center|1<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" |<!--scalia joined the majority-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#00B2EE" align=center|2<!--scalia filed a concurrence-->
+|}
+| bgcolor="#93DB70" |<!--kennedy-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" |<!--souter joined the majority-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#00B2EE" align=center|3<!--souter filed a concurrence-->
+|}
+| bgcolor="#93DB70" |<!--thomas-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" |<!--ginsburg joined the majority-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#79CDCD" align=center|3<!--ginsburg joined souter's concurrence-->
+|}
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Ewing v. California]]'', 538 U.S. 11
+|<small>November 5, 2002
+|<small>March 5, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="red" align=center|1<!--stevens filed a dissent-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#EE9572" align=center|2<!--stevens joined breyer's dissent-->
+|}
+| bgcolor="#00CD00" align=center|*<!--o'connor-->
+| bgcolor="#00B2EE" align=center|1<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#EE9572" align=center|1<!--souter joined stevens' dissent-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#EE9572" align=center|2<!--souter joined breyer's dissent-->
+|}
+| bgcolor="#00B2EE" align=center|2<!--thomas-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#EE9572" align=center|1<!--ginsburg joined stevens' dissent-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#EE9572" align=center|2<!--ginsburg joined breyer's dissent-->
+|}
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#EE9572" align=center|1<!--breyer joined stevens' dissent-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="red" align=center|2<!--breyer filed a dissent-->
+|}
+|-
+|<small>''[[Lockyer v. Andrade]]'', 538 U.S. 63
+|<small>November 5, 2002
+|<small>March 5, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#EE9572" |<!--stevens-->
+| bgcolor="#00CD00" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="red" |<!--souter-->
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="#EE9572" |<!--ginsburg-->
+| bgcolor="#EE9572" |<!--breyer-->
+|-
+|<small>''[[Smith v. Doe]]'', 538 U.S. 84
+|<small>November 13, 2002
+|<small>March 5, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="red" align=center|1<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#00CD00" |<!--kennedy-->
+| bgcolor="#00B2EE" align=center|1<!--souter-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" |<!--thomas joined the majority-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#00B2EE" align=center|2<!--thomas filed a concurrence-->
+|}
+| bgcolor="red" align=center|2<!--ginsburg-->
+| bgcolor="#EE9572" align=center|2<!--breyer-->
+|-
+|<small>''[[Cook County v. United States ex rel Chandler]]'', 538 U.S. 119
+|<small>January 14, 2003
+|<small>March 10, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#00CD00" |<!--souter-->
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Norfolk & Western R. Co. v. Ayers]]'', 538 U.S. 135
+|<small>November 6, 2002
+|<small>March 10, 2003
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" align=center|*<!--rehnquist joined the majority in part-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#CC99CC" align=center|1<!--rehnquist joined kennedy's concurrence/dissent-->
+|}
+| bgcolor="#93DB70" |<!--stevens-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" align=center|*<!--o'connor joined the majority in part-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#CC99CC" align=center|1<!--o'connor joined kennedy's concurrence/dissent-->
+|}
+| bgcolor="#93DB70" |<!--scalia-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" align=center|*<!--kennedy joined the majority in part-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#B23AEE" align=center|1<!--kennedy filed a concurrence/dissent-->
+|}
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="#00CD00" |<!--ginsburg-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=32% bgcolor="#93DB70" align=center|*<!--breyer joined the majority in part-->
+| width=1% bgcolor=gray |<br><br>
+| width=33% bgcolor="#CC99CC" align=center|1<!--breyer joined kennedy's concurrence/dissent-->
+| width=1% bgcolor=gray |<br><br>
+| width=33% bgcolor="#B23AEE" align=center|2<!--breyer filed a concurrence/dissent-->
+|}
+|-
+|<small>''[[Cuyahoga Falls v. Buckeye Community Hope Foundation]]'', 538 U.S. 188
+|<small>January 21, 2003
+|<small>March 25, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="#00CD00" |<!--o'connor-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" |<!--scalia joined the majority-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#00B2EE" |<!--scalia filed a concurrence-->
+|}
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" |<!--thomas joined the majority-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#79CDCD" |<!--thomas joined scalia's concurrence-->
+|}
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Woodford v. Garceau]]'', 538 U.S. 202
+|<small>January 21, 2003
+|<small>March 25, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="#00B2EE" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="red" |<!--souter-->
+| bgcolor="#00CD00" |<!--thomas-->
+| bgcolor="#EE9572" |<!--ginsburg-->
+| bgcolor="#EE9572" |<!--breyer-->
+|-
+|<small>''[[Brown v. Legal Foundation of Washington]]'', 538 U.S. 216
+|<small>December 9, 2002
+|<small>March 26, 2003
+| bgcolor="#EE9572" align=center|1<!--rehnquist-->
+| bgcolor="#00CD00" |<br><br><!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="red" align=center|1<!--scalia-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=33% align=center bgcolor="#EE9572" align=center|1<!--kennedy joined scalia's dissent-->
+| width=1% bgcolor=gray |<br><br>
+| width=33% align=center bgcolor="red" align=center|2<!--kennedy filed a dissent-->
+|}
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#EE9572" align=center|1<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Branch v. Smith]]'', 538 U.S. 254
+|<small>December 10, 2002
+|<small>March 31, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=33% bgcolor="#93DB70" align=center|*<!--stevens joined the majority in part-->
+| width=1% bgcolor=gray |<br><br>
+| width=33% bgcolor="#00B2EE" align=center|1<!--stevens filed a concurrence-->
+| width=1% bgcolor=gray |<br><br>
+| width=32% bgcolor="#79CDCD" align=center|2*<!--stevens joined kennedy's concurrence in part-->
+|}
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" align=center|*<!--o'connor joined the majority in part-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#B23AEE" align=center|<!--o'connor filed a concurrence/dissent-->
+|}
+| bgcolor="#00CD00" align=center|*<!--scalia-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" |<!--kennedy joined the majority in full-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#00B2EE" align=center|2<!--kennedy filed a concurrence-->
+|}
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=33% bgcolor="#93DB70" align=center|*<!--souter joined the majority in part-->
+| width=1% bgcolor=gray |<br><br>
+| width=33% bgcolor="#79CDCD" align=center|1<!--souter joined stevens' concurrence in part-->
+| width=1% bgcolor=gray |<br><br>
+| width=34% bgcolor="#79CDCD" align=center|2*<!--souter joined kennedy's concurrence in part-->
+|}
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=49% bgcolor="#93DB70" align=center|*<!--thomas joined the majority in part-->
+| width=1% bgcolor=gray |<br><br>
+| width=50% bgcolor="#CC99CC" align=center|*<!--thomas joined o'connor's concurrence/dissent-->
+|}
+| bgcolor="#93DB70" |<!--ginsburg-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=33% bgcolor="#93DB70" align=center|*<!--breyer joined the majority in part-->
+| width=1% bgcolor=gray |<br><br>
+| width=33% bgcolor="#79CDCD" align=center|1<!--souter joined stevens' concurrence-->
+| width=1% bgcolor=gray |<br><br>
+| width=34% bgcolor="#79CDCD" align=center|2*<!--breyer joined kennedy's concurrence in part-->
+|}
+|-
+|<small>''[[Archer v. Warner]]'', 538 U.S. 314
+|<small>January 13, 2003
+|<small>March 31, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#EE9572" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="red" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#00CD00" |<!--breyer-->
+|-
+|<small>''[[Kentucky Assn. of Health Plans, Inc. v. Miller]]'', 538 U.S. 329
+|<small>January 14, 2003
+|<small>April 2, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#00CD00" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Virginia v. Black]]'', 538 U.S. 343
+|<small>December 11, 2002
+|<small>April 7, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" |<!--stevens joined the plurality-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#00B2EE" |<!--stevens filed a concurrence-->
+|}
+| bgcolor="#00CD00" align=center|*<!--o'connor-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" align=center|*<!--scalia joined the plurality in part-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#B23AEE" align=center|1<!--scalia filed a concurrence/dissent-->
+|}
+| bgcolor="#CC99CC" align=center|2<!--kennedy-->
+| bgcolor="#B23AEE" align=center|2<!--souter-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#CC99CC" align=center|1*<!--thomas joined scalia's concurrence/dissent in part-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="red" |<!--thomas filed a dissent-->
+|}
+| bgcolor="#CC99CC" align=center|2<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[PacifiCare Health Systems, Inc. v. Book]]'', 538 U.S. 401
+|<small>February 24, 2003
+|<small>April 7, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#00CD00" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="white" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[State Farm Mut. Automobile Ins. Co. v. Campbell]]'', 538 U.S. 408
+|<small>December 11, 2002
+|<small>April 7, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="red" align=center|1<!--scalia-->
+| bgcolor="#00CD00" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="red" align=center|2<!--thomas-->
+| bgcolor="red" align=center|3<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Clackamas Gastroenterology Associates, P.C. v. Wells]]'', 538 U.S. 440
+|<small>February 25, 2003
+|<small>April 22, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#00CD00" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="red" |<!--ginsburg-->
+| bgcolor="#EE9572" |<!--breyer-->
+|-
+|<small>''[[Jinks v. Richland County]]'', 538 U.S. 456
+|<small>March 5, 2003
+|<small>April 22, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#00CD00" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" |<!--souter joined the majority-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#00B2EE" |<!--souter filed a concurrence-->
+|}
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Dole Food Co. v. Patrickson]]'', 538 U.S. 468
+|<small>January 22, 2003
+|<small>April, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" align=center|*<!--o'connor joined the majority in part-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#CC99CC" |<!--o'connor joined breyer's concurrence/dissent-->
+|}
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#00CD00" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" align=center|*<!--breyer joined the majority in part-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#B23AEE" |<!--breyer filed a concurrence/dissent-->
+|}
+|-
+|<small>''[[Franchise Tax Bd. of Cal. v. Hyatt]]'', 538 U.S. 488
+|<small>February 24, 2003
+|<small>April 23, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="#00CD00" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Massaro v. United States]]'', 538 U.S. 500
+|<small>February 25, 2003
+|<small>April 23, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#00CD00" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Demore v. Kim]]'', 538 U.S. 510
+|<small>January 15, 2003
+|<small>April 29, 2003
+| bgcolor="#00CD00" |<br><br><!--rehnquist-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" align=center|*<!--stevens joined the majority in part-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#CC99CC" align=center|1<!--stevens joined souter's concurrence/dissent-->
+|}
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" align=center|*<!--o'connor joined the majority in part-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#00B2EE" align=center|1<!--o'connor filed a concurrence-->
+|}
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" align=center|*<!--scalia-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#79CDCD" align=center|1<!--scalia joined o'connor's concurrence-->
+|}
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" |<!--kennedy-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#00B2EE" align=center|2<!--kennedy filed a concurrence-->
+|}
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" align=center|*<!--souter joined the majority in part-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#B23AEE" align=center|1<!--souter filed a concurrence/dissent-->
+|}
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" align=center|*<!--thomas joined the majority in part-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#79CDCD" align=center|1<!--thomas joined o'connor's concurrence-->
+|}
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" align=center|*<!--ginsburg joined the majority in part-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#CC99CC" align=center|1<!--ginsburg joined souter's concurrence/dissent-->
+|}
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" align=center|*<!--breyer-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#B23AEE" align=center|2<!--breyer filed a concurrence/dissent-->
+|}
+|-
+|<small>''[[Roell v. Withrow]]'', 538 U.S. 580
+|<small>February 26, 2003
+|<small>April 29, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#EE9572" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#EE9572" |<!--scalia-->
+| bgcolor="#EE9572" |<!--kennedy-->
+| bgcolor="#00CD00" |<!--souter-->
+| bgcolor="red" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Illinois ex rel. Madigan v. Telemarketing Assoc., Inc.]]'', 538 U.S. 600
+|<small>March 3, 2003
+|<small>May 5, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" |<!--scalia-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#00B2EE"|<!--scalia filed a concurrence-->
+|}
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" |<!--kennedy-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#79CDCD" |<!--thomas joined scalia's concurrence-->
+|}
+| bgcolor="#00CD00" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Kaupp v. Texas]]'', 538 U.S. 626
+|<small>
+|<small>May 5, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Price v. Vincent]]'', 538 U.S. 634
+|<small>April 21, 2003
+|<small>May 19, 2003
+| bgcolor="#00CD00" |<br><br><!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Pharmaceutical Research and Mfrs. of America v. Walsh]]'', 538 U.S. 644
+|<small>January 22, 2003
+|<small>May 19, 2003
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" align=center|*<!--rehnquist joined the majority in part-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#CC99CC" align=center|<!--rehnquist joined o'connor's concurrence/dissent-->
+|}
+| bgcolor="#00CD00" align=center|*<!--stevens-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" align=center|*<!--o'connor joined the majority in part-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#B23AEE" |<!--o'connor filed a concurrence/dissent-->
+|}
+| bgcolor="#00B2EE" align=center|1<!--scalia-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" align=center|*<!--kennedy joined the majority in part-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#CC99CC" |<!--kennedy joined o'connor's concurrence/dissent-->
+|}
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#00B2EE" align=center|2<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" align=center|*<!--breyer joined the majority in part-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#00B2EE" align=center|3<!--breyer filed a concurrence-->
+|}
+|-
+|<small>''[[Breuer v. Jim's Concrete of Brevard, Inc.]]'', 538 U.S. 691
+|<small>April 2, 2003
+|<small>May 19, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#00CD00" |<!--souter-->
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Inyo County v. Pauite-Shoshone Indians of Bishop Community of Bishop Colony|Inyo County v. Pauite-Shoshone Indians]]'', 538 U.S. 701
+|<small>March 31, 2003
+|<small>May 19, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#00B2EE" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="#00CD00" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Los Angeles v. David]]'', 538 U.S. 715
+|<small>
+|<small>May 19, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Nevada Dept. of Human Resources v. Hibbs]]'', 538 U.S. 721
+|<small>January 15, 2003
+|<small>May 27, 2003
+| bgcolor="#00CD00" |<br><br><!--rehnquist-->
+| bgcolor="#00B2EE" align=center|1<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="red" align=center|1<!--scalia filed a dissent-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#EE9572" align=center|2<!--scalia joined kennedy's dissent-->
+|}
+| bgcolor="red" align=center|2<!--kennedy-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" |<!--souter joined the majority-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#00B2EE" align=center|2<!--souter filed a concurrence-->
+|}
+| bgcolor="#EE9572" align=center|2<!--thomas-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" |<!--ginsburg joined the majority-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#79CDCD" align=center|2<!--ginsburg joined souter's concurrence-->
+|}
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=50% bgcolor="#93DB70" |<!--breyer joined the majority-->
+| width=1% bgcolor=gray |<br><br>
+| width=49% bgcolor="#79CDCD" align=center|2<!--breyer joined souter's concurrence-->
+|}
+|-
+|<small>''[[Chavez v. Martinez]]'', 538 U.S. 760
+|<small>December 4, 2002
+|<small>May 27, 2003
+| bgcolor="#93DB70" align=center|1<!--rehnquist-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=33% bgcolor="#93DB70" align=center|2*<!--stevens joined souter's opinion for the court in part-->
+| width=1% bgcolor=gray |<br><br>
+| width=33% bgcolor="#B23AEE" align=center|1<!--stevens filed a concurrence/dissent-->
+| width=1% bgcolor=gray |<br><br>
+| width=34% bgcolor="#CC99CC" align=center|2<!--stevens joined kennedy's concurrence/dissent-->
+|}
+| bgcolor="#93DB70" align=center|1*<!--o'connor-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=49% bgcolor="#93DB70" align=center|1*<!--scalia joined thomas' opinion for the court in part-->
+| width=1% bgcolor=gray |<br><br>
+| width=50% bgcolor="#00B2EE" |<!--scalia filed a concurrence-->
+|}
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=49% bgcolor="#93DB70" align=center|2*<!--kennedy-->
+| width=1% bgcolor=gray |<br><br>
+| width=50% bgcolor="#B23AEE" align=center|2<!--kennedy filed a concurrence/dissent-->
+|}
+| bgcolor="#00CD00" align=center|2*<!--souter-->
+| bgcolor="#00CD00" align=center|1*<!--thomas-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=33% bgcolor="#93DB70" align=center|2*<!--ginsburg-->
+| width=1% bgcolor=gray |<br><br>
+| width=33% bgcolor="#CC99CC" align=center|2*<!--ginsburg joined kennedy's concurrence/dissent in part-->
+| width=1% bgcolor=gray |<br><br>
+| width=34% bgcolor="#B23AEE" align=center|3<!--ginsburg filed a concurrence/dissent-->
+|}
+| bgcolor="#93DB70" align=center|2<!--breyer-->
+|-
+|<small>''[[National Park Hospitality Assn. v. Department of Interior]]'', 538 U.S. 803
+|<small>March 4, 2003
+|<small>May 27, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#00B2EE" |<!--stevens-->
+| bgcolor="#EE9572" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#00CD00" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="red" |<!--breyer-->
+|-
+|<small>''[[Black & Decker Disability Plan v. Nord]]'', 538 U.S. 822
+|<small>April 28, 2003
+|<small>May 27, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="#00CD00" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Bunkley v. Florida]]'', 538 U.S. 835
+|<small>
+|<small>May 27, 2003
+| bgcolor="red" |<br><br><!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#EE9572" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#EE9572" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Beneficial National Bank v. Anderson]]'', 539 U.S. 1
+|<small>April 30, 2003
+|<small>June 2, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#00CD00" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="red" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#EE9572" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Dastar Corp. v. Twentieth Century Fox Film Corp.]]'', 539 U.S. 23
+|<small>April 2, 2003
+|<small>June 2, 2003
+| bgcolor="#93DB70" |<!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#00CD00" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="white" |<!--breyer-->
+|-
+|<small>''[[Entergy La., Inc. v. Louisiana Pub. Serv. Comm'n]]'', 539 U.S. 39
+|<small>April 2, 2003
+|<small>June 2, 2003
+| bgcolor="#93DB70" |<!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#00CD00" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Citizens Bank v. Alafabco, Inc.]]'', 539 U.S. 52
+|<small>
+|<small>June 2, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Hillside Dairy, Inc. v. Lyons]]'', 539 U.S. 59
+|<small>April 22, 2003
+|<small>June 9, 2003
+| bgcolor="#93DB70" |<!--rehnquist-->
+| bgcolor="#00CD00" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=33% align=center bgcolor="#93DB70" |*<!--thomas joined the majority in part-->
+| width=1% bgcolor=gray |<br><br>
+| width=33% align=center bgcolor="#B23AEE" |<!--thomas filed a partial concurrence/dissent-->
+|}
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Nguyen v. United States]]'', 539 U.S. 69
+|<small>March 24, 2003
+|<small>June 9, 2003
+| bgcolor="red" |<BR><BR><!--rehnquist-->
+| bgcolor="#00CD00" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#EE9572" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="#EE9572" |<!--ginsburg-->
+| bgcolor="#EE9572" |<!--breyer-->
+|-
+|<small>''[[Desert Palace, Inc. v. Costa]]'', 539 U.S. 90
+|<small>April 23, 2003
+|<small>June 9, 2003
+| bgcolor="#93DB70" |<!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=33% align=center bgcolor="#93DB70" |<!--o'connor joined the majority-->
+| width=1% bgcolor=gray |<br><br>
+| width=33% align=center bgcolor="#00B2EE" |<!--o'connor filed a concurrence-->
+|}
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#00CD00" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Fitzgerald v. Racing Association of Central Iowa]]'', 539 U.S. 103
+|<small>April 29, 2003
+|<small>June 9, 2003
+| bgcolor="#93DB70" |<!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#00CD00" |<!--breyer-->
+|-
+|<small>''Dow Chemical Co. v. Stephenson'',<ref>''Dow Chemical'' was a summary decision that vacated and remanded the lower court in part for further consideration in light of ''[[Syngenta Crop Protection, Inc. v. Henson]]'', 537 U.S. 28 (2002); the decision noted that the judgment was otherwise affirmed by an equally divided Court.</ref> 539 U.S. 111
+|<small>February 26, 2003
+|<small>June 9, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="white" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Virginia v. Hicks]]'', 539 U.S. 113
+|<small>April 30, 2003
+|<small>June 16, 2003
+| bgcolor="#93DB70" |<!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#00CD00" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=33% align=center bgcolor="#93DB70" |<!--souter joined the majority-->
+| width=1% bgcolor=gray |<br><br>
+| width=33% align=center bgcolor="#00B2EE" |<!--souter filed a concurrence-->
+|}
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=33% align=center bgcolor="#93DB70" |<!--breyer joined the majority-->
+| width=1% bgcolor=gray |<br><br>
+| width=33% align=center bgcolor="#79CDCD" |<!--breyer joined souter's concurrence-->
+|}
+|-
+|<small>''[[Overton v. Bazzetta]]'', 539 U.S. 126
+|<small>March 26, 2003
+|<small>June 16, 2003
+| bgcolor="#93DB70" |<!--rehnquist-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=49% bgcolor="#93DB70" |<!--stevens joined the majority...-->
+| width=1% bgcolor=gray |<br><br>
+| width=50% bgcolor="#00B2EE" align=center|1<!--...and stevens also wrote a concurrence-->
+|}
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#72CDCD" align=center |2<!--scalia-->
+| bgcolor="#00CD00" |<!--kennedy-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=49% bgcolor="#93DB70" |<br><br><!--souter joined the majority...-->
+| width=1% bgcolor=gray |<br><br>
+| width=50% bgcolor="#72CDCD" align=center|1<!--...and souter also joined stevens' concurrence-->
+|}
+| bgcolor="#00B2EE" align=center |2<!--thomas-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=49% bgcolor="#93DB70" |<br><br><!--breyer joined the majority...-->
+| width=1% bgcolor=gray |<br><br>
+| width=50% bgcolor="#79CDCD" align=center |1<!--...and breyer also joined stevens' concurrence-->
+|}
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=49% bgcolor="#93DB70" |<br><br><!--breyer joined the majority...-->
+| width=1% bgcolor=gray |<br><br>
+| width=50% bgcolor="#72CDCD" align=center |1<!--...and breyer also joined stevens' concurrence-->
+|}
+|-
+|<small>''[[Federal Election Commission v. Beaumont]]'', 539 U.S. 146
+|<small>March 25, 2003
+|<small>June 16, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#EE9572" |<!--scalia-->
+| bgcolor="#00B2EE" |<!--kennedy-->
+| bgcolor="#00CD00" |<!--souter-->
+| bgcolor="red" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Sell v. United States]]'', 539 U.S. 166
+|<small>March 3, 2003
+|<small>June 16, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="#EE9572" |<!--o'connor-->
+| bgcolor="red" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#EE9572" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#00CD00" |<!--breyer-->
+|-
+|<small>''[[United States v. American Library Association, Inc.]]'', 539 U.S. 194
+|<small>March 5, 2003
+|<small>June 23, 2003
+| bgcolor="#00CD00" align=center|*<!--rehnquist-->
+| bgcolor="red" align=center|1<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#00B2EE" align=center|1<!--kennedy-->
+| bgcolor="red" align=center|2<!--souter-->
+| bgcolor="#93DB70" |<!--thomas-->
+| bgcolor="#EE9572" align=center|2<!--ginsburg-->
+| bgcolor="#00B2EE" align=center|2<!--breyer-->
+|-
+|<small>''[[Gratz v. Bollinger]]'', 539 U.S. 244
+|<small>April 1, 2003
+|<small>June 23, 2003
+| bgcolor="#00CD00" |<br><br><!--rehnquist-->
+| bgcolor="red" align=center |1<!--stevens-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=49% bgcolor="#93DB70" |<br><br><!--o'connor joined the majority...-->
+| width=1% bgcolor=gray |<br><br>
+| width=50% bgcolor="#00B2EE" align=center |1<!--...and o'connor also wrote a concurrence-->
+|}
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=32% bgcolor="#EE9572" align=center|1<!--souter joined stevens' dissent...-->
+| width=1% bgcolor=gray |<br><br>
+| width=32% bgcolor="red" align=center |2<!--...and souter also wrote a dissent-->
+| width=1% bgcolor=gray |<br><br>
+| width=33% bgcolor="#EE9572" align=center |3<!--...and souter also joined ginsburg's dissent-->
+|}
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=49% bgcolor="#93DB70" |<br><br><!--thomas joined the majority...-->
+| width=1% bgcolor=gray |<br><br>
+| width=50% bgcolor="#00B2EE" align=center |2<!--...and thomas also wrote a concurrence-->
+|}
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=49% bgcolor="#EE9572" align=center |2*<!--ginsburg joined souter's dissent in part-->
+| width=1% bgcolor=gray |<br><br>
+| width=50% bgcolor="red" align=center |3<!--ginsburg filed a dissent-->
+|}
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=34% bgcolor="#72CDCD" align=center |1*<!--breyer joined o'connor's concurrence in part-->
+| width=1% bgcolor=gray |<br><br>
+| width=33% bgcolor="#00B2EE" align=center |3<!--breyer filed a concurrence...-->
+| width=1% bgcolor=gray |<br><br>
+| width=33% bgcolor="#EE9572" align=center |3*<!--breyer joined ginsburg's dissent in part-->
+|}
+|-
+|<small>''[[Grutter v. Bollinger]]'', 539 U.S. 306
+|<small>April 1, 2003
+|<small>June 23, 2003
+| bgcolor="red" align=center|1<!--rehnquist filed a dissent-->
+| bgcolor="#93DB70" align=center|<!--stevens-->
+| bgcolor="#00CD00" |<!--o'connor-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=24% bgcolor="#93DB70" align=center|*<!--scalia joined the majority in part-->
+| width=1% bgcolor=gray |<br><br>
+| width=24% bgcolor="#B23AEE" align=center|1<!--scalia filed a concurrence/dissent-->
+| width=1% bgcolor=gray |<br><br>
+| width=24% bgcolor="#CC99CC" align=center|2*<!--scalia joined thomas' concurrence/dissent in part-->
+| width=1% bgcolor=gray |<br><br>
+| width=25% bgcolor="#EE9572" align=center|1<!--scalia joined rehnquist's dissent-->
+|}
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=49% bgcolor="#EE9572" align=center|1<!--kennedy joined rehnquist's dissent-->
+| width=1% bgcolor=gray |<br><br>
+| width=50% bgcolor="red" align=center|2<!--kennedy filed a dissent-->
+|}
+| bgcolor="#93DB70" align=center|<!--souter-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=24% bgcolor="#93DB70" align=center|*<!--thomas joined the majority in part-->
+| width=1% bgcolor=gray |<br><br>
+| width=24% bgcolor="#CC99CC" align=center|1<!--thomas joined scalia's concurrence/dissent-->
+| width=1% bgcolor=gray |<br><br>
+| width=24% bgcolor="#B23AEE" align=center|2<!--thomas filed a concurrence/dissent-->
+| width=1% bgcolor=gray |<br><br>
+| width=25% bgcolor="#EE9572" align=center|1<!--thomas joined rehnquist's dissent-->
+|}
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=49% bgcolor="#93DB70" |<!--ginsburg-->
+| width=1% bgcolor=gray |<br><br>
+| width=50% bgcolor="#00B2EE"|<!--ginsburg filed a concurrence-->
+|}
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=49% bgcolor="#93DB70" |<!--breyer joined the majority-->
+| width=1% bgcolor=gray |<br><br>
+| width=50% bgcolor="#72CDCD"|<!--breyer joined ginsburg's concurrence-->
+|}
+|-
+|<small>''[[American Insurance Association v. Garamendi]]'', 539 U.S. 296
+|<small>April 23, 2003
+|<small>June 23, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#EE9572" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#EE9572" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#00CD00" |<!--souter-->
+| bgcolor="#EE9572" |<!--thomas-->
+| bgcolor="red" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Green Tree Financial Corp. v. Bazzle]]'', 539 U.S. 444
+|<small>April 22, 2003
+|<small>June 23, 2003
+| bgcolor="red" align=center|1<!--rehnquist-->
+| bgcolor="#B23AEE" |<BR><BR><!--stevens-->
+| bgcolor="#EE9572" align=center|1<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="#EE9572" align=center|1<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="red" align=center|2<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#00CD00" align=center|*<!--breyer-->
+|-
+|<small>''[[Georgia v. Ashcroft]]'', 539 U.S. 461
+|<small>April 29, 2003
+|<small>June 26, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#EE9572" |<!--stevens-->
+| bgcolor="#00CD00" |<!--o'connor-->
+| bgcolor="93DB70" |<!--scalia-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=49% bgcolor="#93DB70" |<br><br><!--kennedy joined the majority...-->
+| width=1% bgcolor=gray |<br><br>
+| width=50% bgcolor="#00B2EE" align=center |1<!--...and kennedy also wrote a concurrence-->
+|}
+| bgcolor="red" |<!--souter-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=49% bgcolor="#93DB70" |<br><br><!--thomas joined the majority...-->
+| width=1% bgcolor=gray |<br><br>
+| width=50% bgcolor="#00B2EE" align=center |2<!--...and thomas also wrote a concurrence-->
+|}
+| bgcolor="#EE9572" |<!--ginsburg-->
+| bgcolor="#EE9572" |<!--breyer-->
+|-
+|<small>''[[Wiggins v. Smith]]'', 539 U.S. 510
+|<small>March 24, 2003
+|<small>June 26, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="#00CD00" |<!--o'connor-->
+| bgcolor="red" |<!--scalia-->
+| bgcolor="#93DB70" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#EE9572" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Lawrence v. Texas]]'', 539 U.S. 558
+|<small>March 26, 2003
+|<small>June 26, 2003
+| bgcolor="#EE9572" align=center|1<!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="#00B2EE" |<!--o'connor-->
+| bgcolor="red" align=center|1<!--scalia-->
+| bgcolor="#00CD00" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=49% bgcolor="#EE9572" align=center|1<!--thomas joined scalia's dissent...-->
+| width=1% bgcolor=gray |<br><br>
+| width=50% bgcolor="red" align=center |2<!--...and thomas also wrote a dissent-->
+|}
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#93DB70" |<!--breyer-->
+|-
+|<small>''[[Stogner v. California]]'', 539 U.S. 607
+|<small>March 31, 2003
+|<small>June 26, 2003
+| bgcolor="#EE9572" |<br><br><!--rehnquist-->
+| bgcolor="#93DB70" |<!--stevens-->
+| bgcolor="#93DB70" |<!--o'connor-->
+| bgcolor="#EE9572" |<!--scalia-->
+| bgcolor="red" |<!--kennedy-->
+| bgcolor="#93DB70" |<!--souter-->
+| bgcolor="#EE9572" |<!--thomas-->
+| bgcolor="#93DB70" |<!--ginsburg-->
+| bgcolor="#00CD00" |<!--breyer-->
+|-
+|<small>''[[Nike, Inc. v. Kasky]]'', 539 U.S. 654
+|<small>April 23, 2003
+|<small>June 26, 2003
+| bgcolor="#93DB70" |<br><br><!--rehnquist-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=33% align=center bgcolor="#93DB70"|<!--stevens joined in the per curiam decision-->
+| width=1% bgcolor=gray |<br><br>
+| width=33% align=center bgcolor="#00B2EE"|<!--stevens filed a concurrence-->
+|}
+| bgcolor="#EE9572" align=center|2<!--o'connor-->
+| bgcolor="#93DB70" |<!--scalia-->
+| bgcolor="red" align=center|1<!--kennedy-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=33% align=center bgcolor="#93DB70"|<!--souter joined in the per curiam decision-->
+| width=1% bgcolor=gray |<br><br>
+| width=33% align=center bgcolor="#79CDCD" align=center|*<!--souter joined stevens' concurrence in part-->
+|}
+| bgcolor="#93DB70" |<!--thomas-->
+|
+{| cellpadding="0" cellspacing="0" border="0" align="center" width=100%
+|-
+| width=33% align=center bgcolor="#93DB70"|<!--ginsburg joined in the per curiam decision-->
+| width=1% bgcolor=gray |<br><br>
+| width=33% align=center bgcolor="#79CDCD"|<!--ginsburg joined stevens' concurrence-->
+|}
+| bgcolor="red" align=center|2<!--breyer-->
+|-  
+! bgcolor=#DDDDDD |Case name
+! bgcolor=#DDDDDD |Argued
+! bgcolor=#DDDDDD |Decided
+| bgcolor=#DDDDDD align=center width=50px| <small>Rehnquist
+| bgcolor=#DDDDDD align=center width=50px| <small>Stevens
+| bgcolor=#DDDDDD align=center width=50px| <small>O'Connor
+| bgcolor=#DDDDDD align=center width=50px| <small>Scalia
+| bgcolor=#DDDDDD align=center width=50px| <small>Kennedy
+| bgcolor=#DDDDDD align=center width=50px| <small>Souter
+| bgcolor=#DDDDDD align=center width=50px| <small>Thomas
+| bgcolor=#DDDDDD align=center width=50px| <small>Ginsburg
+| bgcolor=#DDDDDD align=center width=50px| <small>Breyer
+|}

@@ -1,0 +1,26 @@
+The idea is to try and train a classifier to predict the outcome
+of a given trial, based off the hearing transcript.  
+
+Classes to predict: 
+	Outcome of the case
+	Actual vote outcome
+	Vote for each individual justice
+
+Potential features:
+	Number of questions asked (total or per judge)
+	Number of words spoken (by lawyers, judges or total)
+	Bag of words of questions or responses?
+
+
+To do:
+
+Created a script to run pdftotext on all the transcripts
+	Need to sort out the error pdf files
+	
+Create a simple script create parsable text files
+
+Create a transcript parser
+
+Parse transcripts and store information
+
+Create conversation flow graphs for each transcript

@@ -1,0 +1,1669 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+GRAHAM COUNTY SOIL AND :
+WATER CONSERVATION :
+DISTRICT, ET AL., :
+Petitioners :
+v. : No. 08-304
+UNITED STATES, EX REL. :
+KAREN T. WILSON. :
+- - - - - - - - - - - - - - - - - x
+Washington, D.C.
+Monday, November 30, 2009
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 10:03 a.m.
+APPEARANCES:
+CHRISTOPHER G. BROWNING, JR., ESQ., Solicitor
+General, Raleigh, N.C.; on behalf of the Petitioners.
+MARK T. HURT, ESQ., Abingdon, Va.; on behalf of the
+Respondent.
+DOUGLAS HALLWARD-DRIEMEIER, ESQ., Assistant to the
+Solicitor General, Department of Justice, Washington,
+D.C.; on behalf of the United States, as amicus
+curiae, supporting the Respondent.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+CHRISTOPHER G. BROWNING, JR., ESQ.
+On behalf of the Petitioners 3
+MARK T. HURT, ESQ.
+On behalf of the Respondent 22
+DOUGLAS HALLWARD-DRIEMEIER, ESQ.
+On behalf of the United States, as amicus
+curiae, supporting the Respondent 35
+REBUTTAL ARGUMENT OF
+CHRISTOPHER G. BROWNING, JR., ESQ.
+On behalf of the Petitioners 49
+P R O C E E D I N G S
+(10:03 a.m.)
+CHIEF JUSTICE ROBERTS: We'll hear argument
+first this morning in Case 08-304, Graham County Soil
+and Water Conservation District v. The United States, ex
+rel. Wilson.
+Mr. Browning.
+ORAL ARGUMENT OF CHRISTOPHER G. BROWNING, JR.
+ON BEHALF OF THE PETITIONERS
+MR. BROWNING: Mr. Chief Justice, and may it
+please the Court:
+The issue in this case is whether the word
+"administrative" as used in the public disclosure bar of
+the False Claims Act includes State audits and reports
+or is limited to Federal sources.
+If this Court were to hold that a relator
+can simply copy a State report or a State criminal
+indictment and then proceed with a qui tam action, there
+will be a proliferation of opportunistic qui tam actions
+brought under this statute.
+Such construction of the statute would have
+a devastating effect upon States, local governments, and
+the Federal fisc.
+Much of the work of State government
+involves cooperative Federal and State programs. States
+have been an effective partner in fighting against fraud
+and abuse with respect to those programs. For example,
+many States have turned to computerized software to
+identify irregularities in connection with Medicaid
+billings. California has implemented a process of
+analyzing both its Medicare and its Medicaid databases
+in order to identify doctors who bill in excess of
+24 hours in a given day.
+Under the decision below, that investigatory
+work can simply be copied by a qui tam plaintiff and an
+action brought based upon that public report. The
+result is --
+JUSTICE SCALIA: But under your proposal a
+State that itself is guilty of fraud can, in effect,
+immunize -- if not immunize itself, at least render the
+information unusable by conducting a hearing.
+MR. BROWNING: Well, Your Honor, the
+government certainly argues that it would result in
+State and local governments immunizing themselves from
+qui tam liability.
+With respect to States, the Fourth Circuit's
+decision expressly includes reports of the State
+government. States, of course, are not liable under the
+qui tam provisions, as a result of this Court's decision
+in Vermont Department of Natural Resources v. United
+States ex rel. Stevens.
+JUSTICE GINSBURG: And it's also the
+original source, if -- if the relator is the original
+source of the information.
+MR. BROWNING: Yes -- yes, Justice Ginsburg,
+that -- even if there is a State report that a -- that
+a -- is in the public domain, a local government could
+still be sued under that document, if -- in spite of
+that document, by either the United States or a qui tam
+plaintiff that stands as an original source. So --
+JUSTICE GINSBURG: But what about the
+argument that Congress wanted to, in its most recent
+provisions, wanted to expand qui tam availability and
+this would -- if you would -- if you include State and
+local reports, that will shrink the availability?
+MR. BROWNING: Your Honor, there is no
+question that Congress looked at the pre-1986 public
+disclosure bar, the provisions that existed between 1943
+and 1986, and during that time frame an action, a qui
+tam action, would be barred if it was based upon
+information that was available to the -- the Federal
+Government.
+Congress decided that that cut off too many
+qui tam actions, and as a result it reached a
+compromise. Many members of Congress wanted to totally
+eliminate the government knowledge bar. On the other
+hand, the United States Department of Justice at the
+time was arguing that the existing bar should remain in
+effect as a result of abusive and frivolous qui tam
+actions and their concern with respect to that. So a
+compromise was reached in which the bar was completely
+changed. It was changed to allow for a -- for an
+original source to bring the qui tam action, essentially
+a relief valve that addressed Congress's concerns with
+respect to cases such as United States ex rel.
+Wisconsin v. Dean.
+It also in the 1986 amendments set out
+specific sources of information and directly identified
+the type of public information that a qui tam action can
+be based upon. That list, of course, includes many
+sources that might or might not be readily available to
+the United States Government. For example, it includes
+reports by a news media. A -- an obscure article in a
+weekly publication of limited circulation does not
+realistically put the government on notice of a
+particular fraud.
+The same can be true -- said with regard to
+an action filed in Federal court, a private action
+between civil litigants based upon diversity
+jurisdiction. If that -- if there is a summary judgment
+motion filed in that case and there are a number of
+depositions, one of which might indicate fraud, that are
+filed in that summary judgment motion and the case
+settles, that -- there will never be -- that summary
+judgment motion wouldn't be reviewed by the Federal
+district court judge. But still, there is no question
+that the filing of that document with the Federal court
+would constitute a public disclosure under the first
+clause of the public disclosure bar.
+JUSTICE SCALIA: It would be a -- would it
+be a civil hearing? A deposition -- you would consider
+a deposition to be a civil hearing?
+MR. BROWNING: Your Honor, I am referring to
+a deposition that is actually filed with the court in
+connection with the summary judgment motion and the case
+then settles. Generally, the -- the courts have --
+JUSTICE SCALIA: What -- what provision
+would it come under?
+MR. BROWNING: Justice Scalia, the phrase
+"criminal, civil, or administrative hearing." The
+courts have consistently read that word "hearing" as --
+as including all courts' proceedings, not simply the
+hearing itself, documents that are filed with the
+clerk's office --
+JUSTICE SCALIA: Documents are -- documents
+are a hearing?
+MR. BROWNING: Your Honor, the -- if
+Congress had meant to limit that word "hearing" to
+literally in-person oral arguments or in-person
+testimony, it -- the result would be that a criminal
+indictment could be copied by a qui tam plaintiff and an
+action brought based upon that.
+That, of course, was this Court's decision
+in United States ex rel. Marcus v. Hess. The -- it is
+clear from the congressional history that Congress
+wanted to change that result by -- so Congress used the
+word "hearing" that obviously meant more than -- than
+simply --
+JUSTICE SCALIA: Meant more than hearing?
+MR. BROWNING: Yes, Your Honor, and that's
+the part of the problem, is --
+JUSTICE SCALIA: That's an argument that
+doesn't go very far with me. I mean, "hearing" means
+hearing.
+MR. BROWNING: Your Honor, the -- the
+problem is -- is that Congress really did not speak very
+clearly at all with respect to the False Claims Act, and
+so we're -- we're left with this mess of trying to
+figure out exactly what Congress intended.
+The phrase --
+JUSTICE ALITO: In your view, must an
+administrative report be a report that is generated by
+some government unit? Could it be a report by the
+administration of a university, for example?
+MR. BROWNING: Justice Alito, the
+Petitioners would not read that phrase as -- that
+broadly. When the Congress has used the word
+"administrative hearing," that would appear to indicate
+action by the government.
+And, under any of the dictionary definitions
+of "administration," clearly a State administrative
+proceeding, a State administrative report, would fall
+within the scope of the dictionary definition. We don't
+believe the Court needs to read that language as
+including private hospitals, private universities.
+JUSTICE ALITO: But I'm not sure why.
+You -- if -- unless "administrative" is informed by the
+other adjectives in that prepositional phrase, "in a
+congressional, administrative, or Government Accounting
+Office," presumably GAO, "report," it -- unless that is
+the -- you know, unless it's informed by those other
+references, and that's why it has to be governmental,
+I'm not sure how you limit "administrative" to
+governmental reports.
+MR. BROWNING: Well, Your Honor, the public
+disclosure bar uses the phrase "administrative hearing"
+twice, and it's referring to Black's Law Dictionary. It
+defines "administrative hearing" as, essentially, a
+hearing conducted by an administrative agency.
+JUSTICE GINSBURG: When you say "twice," you
+mean in the first clause that says "in a criminal,
+civil, or administrative hearing"?
+MR. BROWNING: Yes, Your Honor. And then in
+the second clause it proceeds to use the phrase
+"congressional, administrative, Government Accounting
+Office hearing, audit, investigation, or report."
+JUSTICE GINSBURG: But there is a redundancy
+there if the statute means what you say it does; it says
+"administrative hearing" in both the first clause and
+the second clause.
+MR. BROWNING: Yes, Your Honor, there is a
+redundancy based upon Petitioner's construction of the
+statute. But Congress was not particularly concerned
+about redundancy in the False Claims Act. For example,
+again it uses the phrase "congressional, administrative,
+or GAO."
+GAO, of course, is a body that reports to
+Congress. Its head is appointed by the President. So
+under any definition GAO would either be congressional
+or administrative, so there is a redundancy there.
+There's also --
+JUSTICE SCALIA: Well, I think there would
+be a good lawsuit as to whether "congressional report"
+includes a GAO report. I think that's a lawsuit. I
+don't think it's at all as clear as you suggest.
+MR. BROWNING: Well, Justice Scalia, let me
+also point out that there is a redundancy in connection
+with the use of "audit, report, or investigation."
+Essentially, Congress is using the same word to mean
+essentially the same thing in that clause as well.
+But yes, our reading does result in a
+redundancy in the statute. Of course, the government
+reads this entire clause as being limited to Federal
+proceedings. They would urge a redundancy in the
+statute as well. But what's more important is this
+Court has consistently said that it will not read the
+same phrase as having a different meaning in the same
+sentence.
+Yes, Congress has created a redundancy, but
+that is no more egregious than the fact that it used the
+phrase "Government Accounting Office" to refer to what
+was clearly the General Accounting Office.
+JUSTICE SCALIA: Yes, well, that argument
+does not scare the government. I think the government
+would like to read "administrative hearing" in the
+first -- in the first phrase as being limited to Federal
+administrative hearing as well.
+MR. BROWNING: Yes, Justice Scalia. That is
+their argument today. Of course, just 11 months ago in
+United States ex rel. Poteet v. Medtronic, the
+government argued in the Sixth Circuit that a qui tam
+action should be dismissed based upon a State court
+complaint. They convinced the Sixth Circuit to accept
+that position and dismissed that complaint on January 14
+of this year.
+JUSTICE SCALIA: And that was on -- on the
+basis of the first, the first phrase rather than the
+second?
+MR. BROWNING: Yes, Your Honor, based upon
+the first clause of the statute.
+JUSTICE GINSBURG: Is this particular audit
+report we are talking about, this is the audit report
+was done by an independent accountant? Is that --
+MR. BROWNING: Yes, Your Honor. There are
+two audit reports -- I'm sorry, there are two reports.
+The key one is the report that identifies or asserts
+that this work at issue should have been sent out by
+bid. That was prepared by an accounting firm for Graham
+County, North Carolina, the same auditor that was
+engaged by the county to comply with the Single Audit
+Act --
+JUSTICE GINSBURG: Is that -- is that audit
+on file with the Department of Agriculture?
+MR. BROWNING: Your Honor, I would have to
+go beyond the record, but yes, we have conducted a --
+submitted a Public Information Act request, and
+essentially a week after the document was transmitted to
+Graham County it was transmitted to the United States
+Department of Agriculture.
+JUSTICE BREYER: The arguments in this case,
+my initial reading of them, are more balanced than any I
+can remember, really. For each one, there is a
+counterargument and I'm somewhat left up in the air.
+So if -- since we have to decide it, it
+should -- should I take this into account: That if the
+Respondents are right, you are absolutely correct that
+there will be a lot of people, perhaps, who get rewards
+at the Federal Government's expense who shouldn't have
+them. No question. They front-run the government.
+They read the report, run in court fast, before it's in
+the newspaper.
+But if you are right, then they are going to
+have to assign people to look at these obscure
+administrative reports that didn't even get in the
+newspaper. So they want to do that, they don't have
+people to do it, and they say these people are
+performing a service of sorts by reading them, the
+reports, for them and telling them about it. And there
+it is, balanced.
+But they are the ones who suffer. You see,
+they suffer both ways. They suffer if people don't tell
+them; they suffer if in fact too many people are getting
+unjustified rewards because the money comes from the
+Federal Government, the 10 percent, 25 percent. So if
+they're the ones who suffer, should I not pay special
+attention to their views as to how the balance works
+out?
+MR. BROWNING: Well, Your Honor, Justice
+Breyer, first of all, the government hasn't been
+consistent. As we pointed out in United States ex rel.
+Poteet, they have taken the exact opposite position with
+regard to clause 1 in the first circuit.
+But the real issue here and what should
+concern the Court is the fact that there will be a
+tremendous number of opportunistic qui tam plaintiffs
+that arise. If someone can simply go to an ongoing
+State or local government investigation, copy it, and
+bring it --
+JUSTICE BREYER: As you can tell, I have
+taken that point in.
+MR. BROWNING: Yes.
+JUSTICE BREYER: So my question wasn't that.
+My question was, Should I or should I not give them a
+little expertise weight on the grounds that they are the
+ones who know it best, that they are the victims?
+MR. BROWNING: Well, I would suggest that
+the weight that should be given is to the partners of
+the Federal government, States and local governments
+that are in the trenches administering these programs,
+that will have tremendous difficulty if there is a rash
+of qui tam actions that are brought that disrupt ongoing
+Medicaid and other investigations.
+JUSTICE SOTOMAYOR: How will that happen?
+Meaning, how will they know, A, that the investigation
+is occurring; and second, what can they do under Federal
+or State law to require the disclose of ongoing
+investigative materials?
+I don't know -- mind you, I haven't studied
+them -- but the ones that I am familiar with never
+permit the public -- none of the Freedom of Information
+Act-type legislation, never permit the disclosure of
+ongoing investigative material. So I am a little bit
+confused by how that would happen.
+MR. BROWNING: Justice Sotomayor, there are
+going to be some exceptions to many States' Public
+Information Act requests, things such as attorney-client
+communications, in some cases criminal investigations.
+But for most States there will not be any sort of
+prohibition against a plaintiff's attorney filing a
+Public Information Act request saying, print out -- give
+us a copy of all printouts that show disparities and
+irregularities with regard to Medicaid billings.
+Moreover, most States are -- by law are
+required to receive complaints concerning the State's
+Medicaid program. Those are generally processed by the
+State's system integrity program. And those reports are
+going to be readily available to Public Information Act
+requests.
+Essentially, what this Court should be
+worried about are State employees who know where the
+documents can be located. You can simply copy the
+document, bring a qui tam action, and produce a windfall
+for yourself, potentially disrupting the State
+investigation. And if Congress really wanted to do
+that, if they wanted to create this rash of ill-advised
+qui tam actions, this flood that's about to fall upon
+the States, Congress should have written a little bit
+more clearly before doing so. It isn't consistent with
+the language of the statute or with congressional
+intent.
+Throughout the legislative history it is
+clear that what Congress was intending to do was to have
+access to true insiders, the whistleblowers, to obtain
+information that would be confidential, that would not
+otherwise be available to the Federal Government.
+JUSTICE SOTOMAYOR: But Congress obviously
+wanted more than that, because if Congress's intent was
+the one that you are announcing then it should have just
+permitted original sources to sue. But that's not the
+choice it made. It broadened the scope of qui tam
+actions to include more sources or more reward for
+individuals who don't have original information.
+MR. BROWNING: Yes, Your Honor, it -- it
+added the original source provision, and it identified
+certainly sources of information and said, you cannot
+bring an action based upon those specific sources.
+JUSTICE STEVENS: May I --
+MR. BROWNING: Those include --
+JUSTICE STEVENS: May I ask this question:
+Is the fact that they've included the news media
+consistent with your view?
+MR. BROWNING: Yes, Your Honor.
+JUSTICE STEVENS: That seems to be a much
+more open source of information than you're raising.
+MR. BROWNING: Exactly. The government
+argues that the False Claims Act is exclusively Federal,
+the public disclosure bar should therefore be read as
+exclusively Federal. But the existence of this category
+of news media indicates that Congress did not intend the
+public disclosure bar to be exclusively Federal sources.
+There -- there -- under the government's
+theory that all of this fall -- the entire public
+disclosure bar should be read as limited to Federal
+sources, the only news media that would be able to -- to
+fall within the scope of the public disclosure bar would
+be the Voice of America, which is the only Federal news
+media currently in existence, to my knowledge.
+JUSTICE SCALIA: Stars and Stripes, maybe.
+MR. BROWNING: Yes, Your Honor. Thank you,
+Justice Scalia.
+CHIEF JUSTICE ROBERTS: Well, but that's not
+terribly persuasive. In the statute there are separate
+provisions, they talk about disclosures "in criminal,
+civil or administrative hearings," "in a congressional
+administrative or Government Accounting Office report,
+or from the news media." Simply because you want to
+limit "administrative" or not limit "administrative"
+does not mean that the other side's view requires news
+media to be modified by "Federal."
+MR. BROWNING: Mr. Chief Justice, two points
+I would like to make in response is: First, these
+clauses -- and there are three clauses, the first one
+beginning with "in" and the third one beginning with
+"from" -- they do not serve different purposes. Rather,
+they serve to identify the sources that Congress did not
+want to give rise to a qui tam action. So this list has
+to be read as a whole.
+The second point I would like to make is
+throughout --
+JUSTICE SCALIA: We should stop calling them
+clauses. They are really phrases.
+MR. BROWNING: Yes, Your Honor.
+With respect to these three phrases, the --
+throughout the legislative history, the year and a half
+that the False Claims Act was being debated, there were
+only two clauses that began with --
+JUSTICE SCALIA: Phrases.
+MR. BROWNING: -- the preposition "in" --
+phrases.
+(Laughter.)
+MR. BROWNING: -- that began with the
+preposition "in" and then "from" in connection with
+"news media." It was only on October 3, 1986, that
+the -- when it was -- the provision was finally enacted
+by the Senate, that this second "in" was added before
+the second clause.
+So, Congress undoubtedly did not intend to
+make this 11th-hour change and have some substantive
+change to the statute. Rather, it should best be read
+as a last-minute insert to make the clause, the three
+clauses as a whole, read and flow much better than they
+did prior to that time.
+JUSTICE KENNEDY: Can you tell me just as a
+practical matter, suppose -- suppose the county says,
+you know, we found out that we were defrauded by this
+contractor, and it sues the contractor. But its suit
+doesn't cover really all of the damages, only half of
+it. Can a qui tam action then be commenced for the
+portion that the county isn't seeking? I mean, how does
+that work?
+MR. BROWNING: Your Honor, if there has been
+a public disclosure --
+JUSTICE KENNEDY: Which there would be if
+there's a complaint filed by the county --
+MR. BROWNING: Yes.
+JUSTICE KENNEDY: -- against the contractor.
+MR. BROWNING: Essentially what the lower
+courts have done is they would allowed a qui tam action
+to go with regard to a completely different claim. But
+if it were simply the fact that the public disclosure
+covered a portion of the time period but not all of
+it --
+JUSTICE KENNEDY: Depends on the identity of
+the claim?
+MR. BROWNING: Yes. Yes.
+JUSTICE KENNEDY: And -- and suppose in
+their race to the courthouse, the qui tam plaintiff
+files on Monday and the county files on Tuesday?
+MR. BROWNING: Under -- under that scenario,
+if the qui tam action is filed before the public
+disclosure, then the qui tam action would not be bourne.
+-
+If there are no further questions, I'd
+like --
+JUSTICE STEVENS: May I, just one -- one
+quick question. I -- I -- I just want to be sure I
+understood. Do you draw any distinction between the
+preposition "in" and the preposition "from"?
+MR. BROWNING: No, Your Honor. I think it
+is -- as Justice Alito pointed out when he served on the
+Third Circuit, that some of these prepositions are very
+awkward indeed.
+JUSTICE SCALIA: Part of the random nature
+of the whole provision, right?
+MR. BROWNING: Yes, Justice Scalia.
+If there are no further questions, I would
+like to reserve the remainder of my time for rebuttal.
+CHIEF JUSTICE ROBERTS: Thank you counsel.
+Mr. Hurt.
+ORAL ARGUMENT OF MARK T. HURT
+ON BEHALF OF THE RESPONDENT
+MR. HURT: Mr. Chief Justice, and may it
+please the Court:
+The decision of the Fourth Circuit is
+correct because the text of the False Claims Act compels
+the result, and the purpose -- and also the purposes of
+the 1986 amendments to the Act. As the Fourth Circuit
+noted, Congress grouped the disclosure sources in
+paragraph (a) of the public disclosure bar into three
+distinct categories. In CATEGORY 2, the term
+"administrative" which is at issue here is sandwiched
+between the terms "congressional" --
+JUSTICE GINSBURG: Let's begin at the
+beginning, and that is with the first phrase with the,
+what is it, "civil, criminal, administrative hearing."
+Do you as the government -- do you agree with the
+government that you have to insert "Federal" there, too?
+Or does that phrase --
+MR. HURT: No.
+JUSTICE GINSBURG: -- include States?
+MR. HURT: No, the -- the text of category 2
+compels the result here, although we do believe that the
+better view of category 1 is that it is also Federal as
+well, and the context -- the overall context --
+JUSTICE GINSBURG: Suppose -- suppose it
+isn't? Suppose the general "civil, criminal,
+administrative" is read to mean -- include State. Why
+shouldn't the second, if it we are picking Latin
+phrases, be read in pari materia?
+MR. HURT: Because each of those categories
+is distinct, not only grammatically, but as far as
+function. The first category is clearly adjudicative in
+nature. The second is non-adjudicative. And the third
+category is -- is news media and stands on its own.
+JUSTICE SCALIA: Why -- why should we read
+the second category back to alter the meaning of the
+first, rather than reading the first phrase forward to
+alter the meaning of the second? It -- it is absolutely
+clear when you read this, "in a criminal, civil, or
+administrative hearing"; there is no limitation to
+Federal on that. And you acknowledge that the criminal
+and civil apply to -- to State civil and criminal
+proceedings, right? So when you read that phrase,
+"administrative" simply means, obviously means State
+administrative.
+Now, why shouldn't I read that forward and
+say, well, since it means State there, it must mean
+State in the next one, in a congressional,
+administrative, or GAO report.
+MR. HURT: The argument for category 2 is
+less compelling, we agree. The argument for category 1
+is most compelling because these categories are distinct
+and should be looked at as separate units for that
+purpose. You have category 2 as non-adjudicative, and
+category 1 is adjudicative. And so you have -- you have
+distinction there.
+If you were looking at the three categories
+and, for instance, you don't say category 3 and say
+category 3 is nongovernmental, so therefore we should
+construe category 2 to include private administrative
+reports.
+JUSTICE BREYER: The question is, what sense
+does that make? I mean -- and I thought you said that
+the category 1, which is the criminal proceeding, civil
+or administrative proceeding, I thought you said it does
+not apply to State proceedings in your view. You said
+that was the better view.
+MR. HURT: Yes.
+JUSTICE BREYER: What's the state of the law
+on that? I thought it was virtually -- what is the
+state of the law?
+JUSTICE SCALIA: You say that just as to
+administrative. Don't you acknowledge that the criminal
+and civil apply to State criminal and civil?
+MR. HURT: No.
+JUSTICE SCALIA: You want the whole thing to
+be just Federal?
+MR. HURT: No, we think the better view is
+that the whole category is --
+JUSTICE SCALIA: The whole category?
+MR. HURT: -- exclusively Federal.
+JUSTICE BREYER: I think you'd have to say
+that. But -- but now, what is the state of law on that?
+MR. HURT: The -- the court of appeals have
+basically gone the other way, but they have looked at it
+in a very superficial matter and have not really
+directly addressed the issue.
+JUSTICE BREYER: What are we supposed to do?
+I mean, to me it makes no sense. We are only talking
+about things that don't get into the newspapers. So --
+and the purpose of the Federal Government's reading of
+this would be, look, we don't have people to go send
+around to every -- read every State report. We just
+don't have that personnel. So we rely on these
+whistleblowers and we know some will be unjustified. I
+would think the same thing would be absolutely true of
+State criminal proceedings that don't get into the
+newspaper. There are probably 50 -- several
+thousands -- thousands and thousands.
+So how to read these differently is a
+problem for me. And I think that's on your side of it.
+But we are back to Justice Scalia's question, which to
+me is the -- is the question here.
+MR. HURT: Well, the False Claims Act in
+sections, the pertinent sections 3729 and 3730, refers
+to the Federal Government many times but never with the
+modifier "Federal." They do it through context. And in
+fact --
+JUSTICE BREYER: Is there any history, which
+I pay attention to -- is there any legislative history
+or anything else that you can point to, to me that's
+important, showing that that first criminal hearing
+means just Federal?
+MR. HURT: Yes, the -- the legislative
+history shows throughout -- beginning with the House and
+Senate bills and going forward that these -- the earlier
+version shows these were exclusively Federal.
+JUSTICE BREYER: And they meant criminal
+hearing. Criminal hearing meant Federal criminal
+hearing, not State.
+MR. HURT: Exactly, and you have references
+--
+JUSTICE BREYER: You say "exactly." I was
+looking for the backup for that.
+MR. HURT: Yes. The legislative history is
+clear on that point, and in fact if you look at the
+Senate bill that was passed August 11, you have the
+final version of paragraph (A), and then you -- which
+was enacted in law, and paragraph (B) was somewhat
+different, but it had the phrase "government or news
+media," "disclosures to government or news media." It's
+clearly referencing back to paragraph (A) and
+categorizing those sources as either sources of capital
+"G" government, the Federal Government, or the news
+media.
+And the changes -- the subsequent changes to
+paragraph (B) give no indication that Congress's
+background understanding of that changed. There is no
+indication of that. And of course you have the Senate
+sponsors of the bill making the same statements that
+this was clearly Federal.
+JUSTICE GINSBURG: Why -- what was the
+reason for that be, given that there are so many joint
+Federal-State grant programs, like the one that's
+involved here? Why wouldn't a State report be as much
+of a public disclosure as a Federal report? I mean, we
+are told that this particular report was filed with the
+U.S. Department of Agriculture.
+MR. HURT: Because it gives no -- a report
+produced by a State or a local government -- and again,
+their argument is not just State but every little local
+entity producing these reports fall under the
+category 2, according to them. Simply the fact that a
+local or State official might be producing this report
+gives no indication that the Federal Government is
+focusing on it or looking at it. And in fact --
+JUSTICE ALITO: You think the Federal
+Government is focusing on everything that is disclosed
+in every civil proceeding that occurs in Federal court?
+MR. HURT: No, but Congress was selecting
+general categories and as a general category the Federal
+proceedings they thought were more likely to put the
+government on notice --
+JUSTICE SCALIA: News media, they are likely
+to be keeping track of all local newspapers as well?
+MR. HURT: Well, I think that as a general
+category it was reasonable for Congress to assume that
+the news media disclosures would be disseminated in
+general to the general public and would put pressure on
+the government to take action, and the government would
+pay attention to that in general.
+JUSTICE SCALIA: I mean, they could have
+said "national news media." It didn't say "national
+news media." It said "news media."
+MR. HURT: It said "news media."
+JUSTICE SCALIA: It includes a local radio
+station, a local community newspaper, right? All of
+that is included.
+MR. HURT: Congress was drawing the lines --
+JUSTICE SCALIA: And yet, State proceedings,
+which are excluded, right?
+MR. HURT: Yes.
+JUSTICE SCALIA: Even state supreme court
+cases and so forth. It seems strange to me.
+MR. HURT: Well, under, under -- this Court
+recognized in Cook County that the 1986 amendments
+abolished the government knowledge rule and allowed the
+qui tam relators to bring cases even where the
+government, Federal Government, had possession of
+information about the fraud.
+What we are doing here is not even -- we are
+not even sure the government has possession of these
+reports. A lot of these reports are just sitting in
+file cabinets all around the country in these little
+administrative office buildings.
+JUSTICE STEVENS: Mr. Hurt, let me just give
+you what's really troubling me about this case. You
+have two citizens of a small town. One of them goes to
+the hearing and gets all this information, the other one
+doesn't go to the hearing and reads about it in the
+newspaper. The latter is a permissible plaintiff, the
+former is not; is that correct?
+MR. HURT: Correct.
+JUSTICE STEVENS: Does that make any sense?
+MR. HURT: It does, because Congress drew
+it -- picked it as a general category. They were
+thinking probably most likely The New York Times or
+newspapers that have actual investigative reporting
+resources, and that was what they had in mind.
+Here you have a whole --
+JUSTICE SCALIA: That doesn't show that it
+makes sense. It just shows that Congress wasn't
+thinking clearly. There's as difference between the
+two.
+MR. HURT: One of the huge problems with
+Petitioners' position is it's going to sweep into
+category 2 an enormous number of reports and audits that
+the Federal Government is likely to never see, never
+come across, and you need these concerned citizens to
+go -- you want the citizens to go and look at these.
+CHIEF JUSTICE ROBERTS: Counsel, are you
+sure that -- your argument is that this is sandwiched
+between two Federal descriptions? Are you sure
+"congressional" is limited to Federal Congress? The
+first definition in Black's Dictionary is "a formal
+meeting of delegates." And I don't know -- maybe I
+should -- I don't know if all 50 States refer to their
+legislature by some term other than "Congress."
+MR. HURT: The Petitioners have not pointed
+to an example of a State congress. I think it's
+generally conceded that that would be Federal. And
+also, when you look at GAO, that's clearly a Federal
+entity there as well.
+JUSTICE KENNEDY: I'd like to go back to
+Justice Ginsburg's very first question. I want you to
+assume that in category 1 it means State or Federal.
+Maybe you disagree, maybe you don't. I want you to
+assume that. If we assume that, does it make any sense
+to confine category 2 to Federal only?
+MR. HURT: Yes --
+JUSTICE KENNEDY: And what's the
+practical -- your answer was, well, that's because -- I
+want to know the practical rationale for that, the
+practical reasons why that should make sense.
+MR. HURT: Because reports and audits are
+just a totally -- a category that is much -- many
+magnitudes greater than the number of criminal, civil,
+and administrative hearings. You are going to have
+millions of documents all over this country in file
+cabinets that are generated by local and State
+governments that there is no possibility the vast
+majority of those would ever come across the attention
+of the Federal Government. And so you want concerned
+citizens to be looking through, monitoring their local
+governments, digging up these reports and bringing
+lawsuits based on those. The Federal Government's
+simply not going to do it.
+JUSTICE SCALIA: Which decision of ours do
+you think would prompt Congress to go back and do this
+right? I mean, do you think that finding the way the
+government wants us to find will produce a revision of
+this really terrible text so that it makes sense; or do
+you think that finding for the other side, giving the
+government some incentive to get this fixed, would
+likely produce a proper amendment? What do you think?
+I think the latter, to tell you the truth.
+MR. HURT: Well, unfortunately we have to
+deal with the statute as it is. And, you know, the --
+our position uses all the clues in the statute to
+construe it. The other side construes it in a crude
+manner and says, let's treat it like a laundry list,
+let's not use any of the grammatical clues in construing
+this language, and also let's construe it in a way that
+ignores what Congress did in 1986, which was to abolish
+the government knowledge part. This is a reimposition
+of that bar.
+JUSTICE ALITO: Suppose that the second
+phrase said "in a congressional, news media, or GAO
+report." Would you read "news media" to be
+governmental?
+MR. HURT: No, I would not.
+JUSTICE ALITO: What's the difference
+between that and the way it's phrased now?
+MR. HURT: Because it is -- Congress did put
+it in a separate category, so --
+JUSTICE ALITO: No, no. Right now we have
+"in a congressional, administrative, or Government
+Accounting Office report." And you say you have to read
+"administrative" in light of "congressional" and "GAO."
+But what if it said "in a congressional, news media, or
+Government Accounting Office report"?
+MR. HURT: I think that --
+JUSTICE ALITO: Why wouldn't you make the
+same argument with relation to "news media"?
+MR. HURT: I think the contextual clues
+would be less compelling there in that situation, and
+you would have --
+JUSTICE ALITO: Why is that?
+MR. HURT: Because you would have a category
+that would have a mixture of exclusively Federal and
+nonfederal. Here you have a category that you can't
+construe consistently as exclusively Federal, given the
+contextual clues in there. So as it is drafted now, if
+you look at all the clues you do have distinct
+categories that can be construed each on its own merits.
+JUSTICE GINSBURG: This audit report is
+required by Federal law, isn't it?
+MR. HURT: Yes, as are many reports,
+Medicaid reports by private recipients, today. This
+report was only done because the local government was a
+recipient of Federal money, no different from any
+private recipient, a not-for-profit. So there was no
+real distinction there. It was not really a
+governmental report, in the truest sense of the word, as
+it should be construed or regarded for purposes of the
+public disclosure bar.
+And that's -- that shows the real -- one of
+the real problems of going down to the -- to the local
+and State level. You get all of these problems where
+the recipient is generating the reports rather than the
+-- the administrator versus the recipient. You get all
+those problems going down to this level, the local and
+State governments, and it shows the real problem with
+that.
+Again, this is the -- the overall statute is
+Federal, it's to recover the Federal Government's money.
+The statute has a strict dichotomy between the Federal
+Government and everyone else. If the States or local
+governments are going to be qui tam relators, they bring
+it as a private person. Thank you.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Mr. Hallward-Driemeier?
+ORAL ARGUMENT OF DOUGLAS HALLWARD-DRIEMEIER,
+ON BEHALF OF UNITED STATES, AS AMICUS CURIAE,
+SUPPORTING THE RESPONDENT
+MR. HALLWARD-DRIEMEIER: Mr. Chief Justice,
+and may it please the Court:
+As I think the discussion this morning
+illustrates, the Federal nature of the second category,
+the phrase that is directly at issue in this case, is
+self-evident from the text. The terms congressional and
+GAO are Federal and under the doctrine or canon of
+construction noscitur a sociis --
+JUSTICE GINSBURG: Let me go back to the
+other Latin phrase. If you begin at the beginning and
+you begin with a phrase that you have no reason to say
+is modified by Federal, "civil, criminal or
+administrative proceeding," why shouldn't that drive the
+statute, what's in the first phrase?
+MR. HALLWARD-DRIEMEIER: Well, Your Honor, I
+-- I want to start by making clear that we disagree that
+that's a better interpretation of the first clause, but
+I will take it as the premise.
+JUSTICE GINSBURG: Well, it's a lot hard to
+say you have to put a caret mark and say -- vidi --
+means Federal civil, criminal and administrative
+hearings.
+MR. HALLWARD-DRIEMEIER: It -- it may indeed
+be harder to do that. We think that it is warranted in
+light of the policy that motivated Congress and in light
+of other references to Federal administrative, civil and
+criminal hearings in the statute. But even if those
+reasons which we think justify limiting the first
+category to Federal proceedings -- the Court were to
+disagree with that, that would not justify disregarding
+the clear indications of the Federal limitations on the
+second clause. And there is no policy --
+CHIEF JUSTICE ROBERTS: Well -- I didn't
+mean to interrupt. Clear limitations, you really have
+only one, right? I mean you have no argument construing
+administrative in a Federal way other than it is
+sandwiched between two other Federal --
+MR. HALLWARD-DRIEMEIER: Well, Your Honor, I
+think that -- that again, as Justice Alito's question at
+the very beginning of the argument illustrated, the
+literal language of the word administrative would
+encompass hearings conducted by private hospitals or
+universities as well. Now Petitioner es hewed that
+interpretation --
+CHIEF JUSTICE ROBERTS: Well, we would just
+-- we would just take the sections from your brief today
+and say well no, you have got to read it in the context
+in which it appears and this is all Federal, which means
+it's all governmental.
+MR. HALLWARD-DRIEMEIER: That's -- that's
+right, Your Honor, and governmental in a particular
+nature, of a particular nature, the Federal Government.
+As is the Court's decision in Cook County made clear,
+municipal governmental entities are with respect to the
+False Claims Act the same as private corporations. The
+-- the Court recognized that municipalities are the
+recipients of many Federal dollars. In that case the
+local governmental entity whose conduct is at issue was
+a county hospital. And -- and county hospitals receive
+funds under the same programs that private hospitals --
+JUSTICE BREYER: I just want to get your
+expertise on this, because you have probably read the
+legislative history of the 1986 amendment. All right,
+am I right in thinking this? If I go back and read
+it -- which I will -- I will discover, not once in this
+entire 1986 history anywhere, House, Senate or
+conference, does the word State appear in any relevant
+context?
+MR. HALLWARD-DRIEMEIER: No.
+JUSTICE BREYER: I'm not right. Okay. So
+when it appears --
+MR. HALLWARD-DRIEMEIER: Well, I guess it
+depends on what you mean by the relevant context.
+JUSTICE BREYER: What I'm -- the relevant
+context has to do in my mind at the moment primarily in
+respect to the first clause, "criminal, civil, or
+administrative proceeding." Is there any indication
+that those were meant to apply -- any indication that
+those were meant to apply to State as opposed to
+uniquely Federal, criminal, civil, or administrative
+proceedings?
+MR. HALLWARD-DRIEMEIER: No, Your Honor, it
+is -- it is clear from the legislative --
+JUSTICE BREYER: Yeah. Clear from the
+record -- clear that --
+MR. HALLWARD-DRIEMEIER: That it was Federal
+proceedings that Congress had in mind. And -- and if
+you would take --
+JUSTICE BREYER: And the word hearing --
+MR. HALLWARD-DRIEMEIER: If you would look
+on page 19 of the --
+JUSTICE SCALIA: Could you be more specific
+when you say that Congress had in mind? Just so I know
+what you are talking about?
+MR. HALLWARD-DRIEMEIER: I'm sorry, Your
+Honor.
+JUSTICE SCALIA: The committee that reported
+the bill.
+MR. HALLWARD-DRIEMEIER: I'm -- that's
+right. That's right, Your Honor.
+JUSTICE SCALIA: In both houses or just one
+house?
+MR. HALLWARD-DRIEMEIER: Well, we have the
+-- the committee report and the bill that was recorded
+by the House which states specifically at that point,
+the public disclosure bar referenced information which
+the Government, capital G, disclosed the basis of
+allegations in a prior administrative civil proceeding.
+That was the House.
+JUSTICE SCALIA: The House.
+CHIEF JUSTICE ROBERTS: Well -- well, North
+Carolina has got a government, too.
+MR. HALLWARD-DRIEMEIER: Excuse me?
+CHIEF JUSTICE ROBERTS: North Carolina has a
+government, too.
+MR. HALLWARD-DRIEMEIER: Well, as we note,
+Your Honor, the statute uses the term "Government" with
+a capital G throughout to refer to the Federal
+Government.
+CHIEF JUSTICE ROBERTS: Same rule for
+Congress?
+MR. HALLWARD-DRIEMEIER: Excuse me?
+CHIEF JUSTICE ROBERTS: Same rule for
+congressional?
+MR. HALLWARD-DRIEMEIER: Well, congressional
+-- the -- the term congressional is frequently used
+without a capital, but State legislatures are not
+referred to as congresses. And that is one of the
+anomalies that petitioners simply cannot explain: why
+Congress would have thought that an administrative
+report issued by a local school board should give rise
+to the bar, but a report or a hearing conducted by a
+State legislature would not.
+JUSTICE GINSBURG: There was an explanation
+for it in the opposing brief, that Congress in -- what
+was it -- 1986 didn't think that the legislature was
+generating reports, audits, as distinguished from
+administrative agencies.
+MR. HALLWARD-DRIEMEIER: Well -- well, Your
+Honor, it is of course a -- a truism, that -- that
+programs are administered by the executive branch more
+than the legislative branch, but that is no reason to
+think that Congress would have meant to exclude, if
+those State legislatures did conduct a hearing with
+respect to fraud by the State, exclude that as a public
+disclosure. The reason that Congress didn't include
+State legislative reports is because it didn't include
+State reports at all. It was --
+JUSTICE GINSBURG: Well that -- that doesn't
+follow like the night the day. It could be, as it was
+explained, they didn't include State legislatures
+because they didn't think they would be generating
+relevant material.
+MR. HALLWARD-DRIEMEIER: Well, Your Honor, I
+-- I think that it is more likely as -- as the
+development and progress of the clause reflects, that
+Congress was focused on what does the government know
+and what does the disclosure show about the whether the
+government is already or is likely to focus on the
+fraud.
+JUSTICE SCALIA: Is the Justice Department
+seeking to get this -- this piece of -- of statutory
+text clarified? I mean, you do have some operation over
+there that proposes to Congress amendments of those
+provisions that are not working out well. Is there --
+is there any effort to get this clarified?
+MR. HALLWARD-DRIEMEIER: There -- I -- there
+are currently under consideration bills or, and as I
+understand it, they are not, there are other bills that
+are in contemplation that would revise the language of
+the statute, but -- but would not necessarily focus on
+this. There are a number of other issues connected --
+JUSTICE SCALIA: Could it make it worse?
+(Laughter.)
+MR. HALLWARD-DRIEMEIER: I -- I don't know.
+But of course --
+JUSTICE GINSBURG: I think the question was
+has the Department of Justice, recognizing that there's
+a circuit split this very question recommended that
+Congress amend the statute in this particular --
+MR. HALLWARD-DRIEMEIER: I -- I don't
+believe that as of yet the department has taken a
+specific position on -- on the legislation that is
+contemplated in this particular ambiguity.
+JUSTICE BREYER: There is one ambiguity
+whether this clause, the first -- what we call first and
+second refers to State as well as Federal. If the
+debate took place in a context where everyone's just
+thinking of Federal, it's not surprising they didn't put
+in the word Federal. They don't think of everything.
+All right. Now, that's my question.
+You started with the House. The House to me
+does think just of Federal. The Senate's ambiguous on
+that point --
+MR. HALLWARD-DRIEMEIER: The Senate --
+JUSTICE BREYER: -- and the conference is
+yet more ambiguous on that point. So is there
+anything -- when I look at the conference and the Senate
+versions, I'm going to say, gee, they did -- sorry, they
+did actually think of Federal and State, too, and it's
+sort of mixed up? Or am I going to see that that
+context there is Federal?
+MR. HALLWARD-DRIEMEIER: The context is --
+is Federal. References to States in connection with the
+act that Congress has thought about it are treating
+States like other private qui tam relators.
+They Petitioner referred to the Dean case,
+and, in fact, that was something that the -- the
+legislative history refers to, but what was offensive
+about the decision in the Dean case was that Wisconsin
+had been the original source of the information, but had
+been barred because it had provided that information to
+the government.
+And, under the government knowledge bar,
+they had been precluded, so -- so Wisconsin would have
+been taken care of under the original source provision,
+but it doesn't reflect a view that States have a
+particular distinctive role.
+In fact, as this Court's decision in Cook
+County reflects, municipalities are treated just like
+any private corporation for purposes of the act. They
+can be defendants, they could be plaintiffs, qui tam
+relators, but there is no reason to construe the statute
+in a way that would allow a local government,
+technically, to shield itself from qui tam suits by
+disclosing the facts that would be the underlying
+information support of the fraud claim in, perhaps, a
+report that was intended to -- to whitewash the
+situation --
+JUSTICE GINSBURG: Do you think that the --
+when a -- when State employees want to immunize
+themselves from fraud, they are going to say, okay, we
+will disclose it where anybody --a prosecutor could pick
+it up, but we will take care of the qui tam obligation.
+MR. HALLWARD-DRIEMEIER: Well, Your Honor, I
+think it's important to note that, in order to be a
+public disclosure -- the second category at the very
+least -- all that needs to have happened is that
+information be disclosed to -- to one additional person.
+That -- and that makes a lot of sense when
+we are talking about disclosures of the government --
+Federal government's own reports because, if the Federal
+government is already investigating and pursuing the
+fraud, one other person that finds out about it and then
+files a qui tam action on the basis of the government's
+own effort is precisely the situation that Congress
+sought to preclude.
+But it doesn't make any senses when we are
+talking about a disclosure to an individual by a State
+or local --
+JUSTICE GINSBURG: But there's lots of
+disclosures -- there's lots of disclosures in Federal
+reports that the government isn't pursuing.
+MR. HALLWARD-DRIEMEIER: Well, we think that
+the -- the disclosures -- the allegations in the types
+of reports, audits, investigations, that are referenced
+in the clause are the type that would evidence that the
+government is pursuing them.
+And -- but where a State -- perhaps a local
+school board discloses facts that might give rise to an
+allegation of fraud in a hearing where there was only
+one or two members of the public in attendance, there is
+no reason to think that that information is going to be
+brought to the Federal government's attention.
+The purpose of the bar is to balance --
+Congress was seeking to balance two rules. One is to
+encourage qui tam relators to bring information and
+bring suit where the information was unlikely to be
+something that the government -- Federal government was
+focusing on.
+Where the Federal government was able to
+protect itself and bring this suit on its own, then
+there's no reason for the Federal government to have to
+share its recovery.
+JUSTICE SOTOMAYOR: But why can't it -- why
+can't it protect itself if these reports are in its
+possession? How are they any more in the -- or less in
+the government's possession than articles in the news
+media, than State, criminal, civil, and administrative
+hearings?
+You, yourself, make it very clear that the
+government -- it isn't keeping track of all of those
+other sources.
+MR. HALLWARD-DRIEMEIER: Well, Your Honor,
+Petitioners' reference to this audit being in the
+possession of the government -- it's happenstance that
+this particular report, the Crisp & Hughes report, was
+sent to the Federal government official.
+But the vast majority of State and local
+governmental investigations, audits, and reports, are
+not going to be given to the Federal government, and
+even though they are -- they cite the Single Audit Act,
+which is only a very narrow subset of audits that States
+or local governments perform -- do not actually disclose
+the allegations of the fraud.
+In order to get to the actual information of
+the fraud, the -- first of all, it would have to be
+brought to the attention of the relevant Federal agency.
+Usually, the cognizant agency is the one that has the
+most money at stake, but the fraud may have to do with a
+different Federal program, so it has to be brought to
+the attention of the program whose interests are
+actually at stake.
+They have to go beyond the report that is --
+that is publicly available in the clearinghouse website,
+which tells you virtually nothing, to an underlying
+report which is itself, generally, fairly vague, and all
+Petitioners say is that the working papers of the
+auditor are available to the government, not even in the
+government's possession, they are available to the
+government if it requests it.
+The government has to drill down many levels
+before it necessarily is going to know about that fraud.
+JUSTICE SOTOMAYOR: Isn't that argument
+suggesting that the court didn't even need to reach this
+issue, even assuming that the State administrative
+reports are included in the bar?
+MR. HALLWARD-DRIEMEIER: No -- no, Your
+Honor, I don't think so.
+JUSTICE SOTOMAYOR: Well, aren't you arguing
+that what was in this audit report wasn't sufficient to
+show the fraud? That's not your argument?
+MR. HALLWARD-DRIEMEIER: No -- again, this
+report here did have information that was indicative of
+fraud, and this report --
+JUSTICE SOTOMAYOR: In which way?
+MR. HALLWARD-DRIEMEIER: Excuse me?
+JUSTICE SOTOMAYOR: Which way? All it said
+was that this person wasn't chosen by bidding. But
+aren't there situations in which non-bids are permitted?
+MR. HALLWARD-DRIEMEIER: There -- there were
+multiple allegations. One of the allegations underlying
+the relator's claim is that the government -- the county
+certified that certain procedures were followed that
+would have included a requirement that it be bid out,
+and that it was not.
+Another was that certain work was paid for
+or billed for, but wasn't performed or was not performed
+well, so there were -- there were different allegations,
+and where that would be disclosed to a single person,
+that would constitute a public disclosure, at least with
+respect to Federal --
+JUSTICE SCALIA: Of course, the Attorney
+General can always bring suit, right? I mean, all we
+are arguing about is whether this information that is in
+the in the State and local thing could be the basis of a
+qui tam suit.
+MR. HALLWARD-DRIEMEIER: But only if we --
+JUSTICE SCALIA: If the government finds out
+about it, the Attorney General could always bring suit,
+right?
+MR. HALLWARD-DRIEMEIER: And what is at
+issue here is whether the Federal government is ever
+going to learn of the fraud.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Mr. Browning, you have six minutes.
+REBUTTAL ARGUMENT OF CHRISTOPHER G. BROWNING, JR.
+ON BEHALF OF THE PETITIONERS
+MR. BROWNING: Thank you, Mr. Chief Justice.
+Justice Breyer, if I could first turn to
+your comments or your questions about legislative
+history; here, I think the legislative history tells us
+very little because of the many changes in the Senate
+version and the House version, and unfortunately, there
+was not a conference committee report, so we won't know
+the nature of the compromise.
+At most, the legislative history helps us to
+show what Congress was generally concerned about, and
+throughout the original committee, the Senate and House
+report, there is a concern about qui tam actions based
+upon public information.
+JUSTICE BREYER: Now, I agree with you about
+that. I think it's the silence, though, that might cut
+against you.
+MR. BROWNING: Well --
+JUSTICE BREYER: And the reason that it's --
+it's basically silence -- the reason I am thinking that
+cuts against you is because of this sorting of the
+context where they are focusing on Federal.
+And, if everybody is working in that
+context, then nothing said about State means they are
+just assuming it's all applying to Federal.
+Now, what I'm looking for, you might be able
+to put your finger on, is something that shows that my
+last statement is not right.
+MR. BROWNING: Yes, Justice Breyer, that the
+government assumes and repeats throughout its brief that
+the False Claims Act is exclusively Federal in nature;
+therefore, you read all of its terms as essentially
+being -- being Federal.
+That, of course, does not answer what
+Congress intended with the public disclosure bar --
+JUSTICE SCALIA: When we say everybody's
+working in a certain context, how -- how many people is
+everybody? What percentage of the House and of the
+Senate were involved in these committees that were
+drafting these bills and that issued the committee
+report?
+MR. BROWNING: Yes, Justice Scalia, your
+point is well-taken, that this would only be --
+JUSTICE BREYER: I think in the -- it was --
+it probably came out in governmental affairs in the
+Senate, which I think had 17 members at the time.
+MR. BROWNING: Yes.
+Continuing with your -- your question, if I
+could, Justice Breyer, that there is nothing to indicate
+that the public disclosure bar should be exclusively
+Federal.
+It, of course, includes news media, which is
+not Federal. It also includes criminal, civil, or
+administrative hearings. But moreover, there are many
+aspects of the False Claims Act that are not exclusively
+Federal in nature.
+The very change that we are talking about --
+the -- the change to the public disclosure bar was a
+result of a push by the National Association of Attorney
+Generals to actually change the public disclosure bar to
+make sure that States could bring qui tam actions.
+That is why the public disclosure bar
+includes an original source provision.
+CHIEF JUSTICE ROBERTS: To -- to follow up,
+I think it was a question that Justice Breyer asked
+earlier. Do you have any tie-breaker on your side?
+I mean, if we do decide the arguments are
+pretty much in equipoise, the suggestion was that the
+Federal government is both the beneficiary and the loser
+in the qui tam actions, from the sense they lose a
+percentage of recovery, and so we ought to let them
+strike the balance.
+What argument do you have on your side?
+MR. BROWNING: Your Honor, again, that our
+concern from the perspective of the States -- and it's a
+concern shared by local governments -- is the reading
+that Respondents advocate will produce a flood of qui
+tam --
+CHIEF JUSTICE ROBERTS: That's the same --
+that's one of the arguments that, I think, is balanced
+on the other side. For example, is -- do -- have we
+ever said -- and this is an unusual statute, of course,
+with a private Attorney General and all that.
+Have we -- does -- is there any authority
+for the idea that we should read it restrictively
+because of that?
+MR. BROWNING: Your Honor, it does give rise
+to a -- a false claim will, of course, give rise to
+criminal liability. Moreover, it is a case dealing
+with --
+CHIEF JUSTICE ROBERTS: Have we ever -- have
+we ever said that that's a basis for reading the act
+restrictively?
+MR. BROWNING: Your Honor, there is some
+older authority to that affect. The specific case -- I
+apologize. The name escapes me.
+JUSTICE SCALIA: But what your claim is --
+is that the government -- the Federal government is not
+the only person harmed?
+MR. BROWNING: Yes.
+JUSTICE SCALIA: And, therefore -- you know,
+we should listen to them, so long as they don't -- they
+want to come out this way, you are saying the State and
+local governments --
+MR. BROWNING: Absolutely, Justice Scalia.
+JUSTICE SCALIA: -- are significantly
+harmed.
+MR. BROWNING: We are -- we are partners --
+JUSTICE SCALIA: Which the Federal
+government doesn't care about, right?
+MR. BROWNING: The Federal government has, I
+think, taken a very short-sighted view because these
+sort of qui tam actions will be very disruptive to what
+the Federal government's partners are actually doing in
+the trenches in administering these programs.
+Moreover, the Federal False Claims Act -- it
+is clear that it is not exclusively Federal. When it
+was amended in 1986, Congress changed Section 3732(b),
+which allowed pendent State claims to be brought, so a
+State, if there is a Federal false claims action, could
+intervene to protect the State's portions of the -- the
+monies that are at issue.
+Moreover, in Section 3733(l)(7)(A), the
+civil investigative demand provisions, Congress
+expressly viewed the word "administrative" to include,
+not only Federal administrative proceedings, but State
+administrative proceedings as well.
+JUSTICE BREYER: So your point here is -- I
+will put it in cash terms, is the Federal government,
+who will pay a lot of qui tam lawyers some percent to go
+and look through all these State criminal hearings and
+State reports and all these things that didn't get into
+the newspaper and to bring cases, so it may be cheaper
+to pay them then it would be to hire staff to do that.
+Now, your point is that they get a little
+over-enthusiastic sometimes, and they can bring actions
+that maybe not be so well-justified, and the -- the
+Federal government is going to have to hire people to
+sort those out anyway, and so would the States in that
+kind of mess.
+Is that your point?
+MR. BROWNING: Yes. They will be very
+enthusiastic if they can simply take a State report
+showing Medicaid fraud and bring a qui tam action. That
+will be very disruptive to states and to local
+governments.
+Thank you, Your Honor.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+The case is submitted.
+(Whereupon, at 11:04 a.m., the case in the
+above-entitled matter was submitted.)
+19:25 Alito 9:1,5,16 appointed 10:23 47:24
+55:23 adjectives 9:18 Alito's 37:4 48:10 49:10 47:5,8
+26:1 23:12 24:10 allegations 2:2,10 3:3,8 authority 53:6
+administered 39:23 45:20 5:12 8:17 53:17
+3:13 7:20 9:2,8 ambiguity 42:24 52:20 awkward 21:22
+11:21,22 9:23 10:1,3,4,7 ambiguous 43:8 13:10 52:14 55:22
+18:20 10:10,14,20,25 43:12 53:2
+12:2 amend 42:20 article 6:18 B
+25:3 18:22,22 22:16 amendment asked 52:12 back 23:16 26:7
+13:1,6 23:24,25 24:4 amendments asserts 12:21 32:14 35:24
+18:1 24:15,20 25:3 6:12 22:12 assign 13:23 38:4
+22:10,12 29:25 32:3 29:16 42:4 Assistant 1:22 background
+37:20 33:17,19 36:3 America 18:11 Association 52:6 27:18
+44:11 36:11,16 37:1 amicus 1:24 2:8 assume 28:22 backup 27:4
+51:3 52:2 37:6 38:17,20 35:14 31:16,18,18 balance 14:11
+54:13 39:23 40:20 analyzing 4:6 assumes 51:2 46:5,6 52:19
+6:8,14 48:6 52:1 17:8 50:22 14:4 53:2
+8:7 9:9 54:22,23,24 anomalies 40:19 attendance 46:2 bar 3:13 5:18
+16:17 administrator answer 31:22 attention 14:11 6:1,3,6 7:9
+19:6 35:1 51:6 26:15 29:1 10:1 18:2,5,8
+21:10 advocate 52:24 anybody 44:23 32:7 46:4 18:10 22:14
+28:25 affairs 51:17 anyway 55:11 47:13,17 33:6 34:21
+54:17 affect 53:17 apologize 53:18 attorney 16:4 39:21 40:22
+agencies 41:3 appeals 25:14 49:8,15 52:6 44:4 46:5 48:7
+6:5 15:11 47:13,14 APPEARAN... attorney-client 52:9
+17:11 ago 12:4 1:17 16:1 barred 5:20
+52:8,17 agree 22:21 24:6 appears 37:13 audit 10:11 11:8 44:2
+55:8 50:12 38:11 12:16,17,20,25 based 4:11 5:20
+12:7,14 27:3 38:1,10 California 4:5 cheaper 55:5 41:21 43:1
+32:11 38:14,24 39:4 call 43:1 Chief 3:3,10 45:22
+42:25 43:11 calling 19:10 18:16,25 22:3 clauses 19:2,2
+51:1,16,21 capital 27:13 35:11,16 36:23 clear 8:10 11:5
+45:10 brief 37:11 care 44:6,24 40:10,13 49:20 27:6 36:6,21
+53:14 40:25 51:2 54:7 49:24 52:11 36:24 37:18
+22:19 29:18 35:9 40:2,4 chosen 48:19 clearinghouse
+35:25 46:7,8,12 49:9 case 3:4,12 7:1,3 CHRISTOPH... 47:20
+49:15 52:8 7:15 13:10 1:18 2:3,11 3:8 clearly 8:22 9:11
+2:4,6,8,12 bringing 32:10 37:22 43:22,25 circuit 12:6,8 23:12 27:12,21
+22:6 35:14 broadened 53:11,17 55:21 14:17 21:21 30:18 31:12
+17:10 55:22 22:9,12 42:19 clerk's 7:24
+42:22 brought 3:20 29:14,18 55:5 circulation 6:19 33:25 34:8,9
+46:4 47:13,16 categories 22:15 citizens 30:3,24 come 7:18 30:24
+25:8 2:3,11 3:7,8,10 categorizing 7:12,20 10:7 commenced
+4:17 5:5,16 27:13 18:19 22:20 20:13
+8:20 9:5,25 22:15 23:1,3 24:19 25:4,4 committee
+15:1,6,24 25:9,10 28:8 46:19 51:25 51:11
+51:12 20:20,22 21:5 34:4,6 35:19 53:10,19 compelling 24:6
+50:15 51:1,14 49:2 51:9 19:15 22:10 23:2
+53:9,16,22 17:15 51:3 52:2 12:9 20:19
+15:2 C 2:1 3:1 27:18 54:15 11:13 12:15 compromise
+25:12 cabinets 29:24 changes 27:16 14:17 20:1,5 5:25 6:6 50:6
+26:14,23 32:5 27:16 50:3 36:7,22 38:16 computerized
+24:3 31:4 33:8 20:11,11,21 7:22 20:23 defines 10:3
+50:10 40:16 37:18 44:9 cover 20:12 definitions 9:10
+Congress's 6:9 cooperative covered 21:1 defrauded 20:10
+32:8 connected 42:12 copied 4:10 8:6 created 11:19 demand 54:21
+connection 4:4 copy 3:17 14:22 criminal 3:17 department
+1:4 3:5 corporations 23:21,22 24:19 depends 21:3
+37:7 consideration correct 13:16 26:23,24,24 deposition 7:11
+42:8 22:10 30:7,8 32:2 36:2,11 7:12,14
+50:5 consistently 49:20 55:20 53:11 55:3 31:3
+34:7 13:13 crude 32:25 development
+8:3,10 3:21 10:17 12:24,25 13:8 42:8 9:13 10:2 31:5
+9:7 35:23 20:9,14,19 cut 5:23 50:13 difference 30:18
+11:9 construe 24:15 21:8 29:16 cuts 50:18 33:12
+16:19,22 32:25 33:3 37:18,24,24 different 11:17
+18:4 34:7 44:13 44:10 48:23 D 19:4 20:24
+20:2 construed 34:10 course 4:23 6:15 D 3:1 27:10 34:16
+28:15,22 34:20 8:8 10:22 damages 20:12 47:16 49:4
+30:10,17 construes 32:25 11:12 12:4 databases 4:6 differently 26:5
+construing 33:2 27:19 41:5 day 4:8 41:15 difficulty 15:10
+33:4,14 36:25 42:16 49:8 deal 32:23 digging 32:10
+39:2,8 contemplated 51:6,24 53:4 dealing 53:11 directly 6:13
+42:24 53:10 Dean 6:11 43:22 25:17 35:20
+contemplation court 1:1,15 43:25 disagree 31:17
+43:20 42:10 3:11,16 6:23 debate 43:3 36:6,20
+46:6 context 23:4,4 7:6,7,14 9:14 debated 19:15 disclose 15:16
+51:7 26:12 37:12 11:16 12:7 decide 13:14 44:23 47:9
+38:8,13,15 13:20 14:19 52:14 disclosed 28:13
+50:19,21 51:9 25:14 28:14 decision 4:9,22 49:5
+9:19 33:25 34:8 36:19 37:21 32:13 37:18 disclosing 44:16
+Continuing 48:5 43:25 44:9 disclosure 3:13
+16:24 51:20 courthouse 21:7 defendants 5:18 7:8,9 10:1
+22:17 contractor courts 7:16,21 44:12 15:21 18:2,5,8
+20:17,25 DOUGLAS ET 1:5 20:25 26:13 52:16 53:20
+22:13,14 1:22 2:7 35:13 everybody 27:6 28:8,11 54:6,8,11,13
+34:21 drafted 34:8 50:20 51:10 43:23 44:9 54:14,17,23
+41:11,23 drafting 51:12 everybody's facts 44:16 55:1,10
+49:6 draw 21:17 51:8 45:25 Federal-State
+52:5,7 drawing 29:9 everyone's 43:3 fairly 47:22 27:24
+drew 30:10 evidence 45:22 fall 9:12 16:21 fighting 4:1
+27:11 drive 36:3 6:10 8:9 12:5 false 3:14 8:22 file 13:3 29:24
+45:6,17 D.C 1:11,24 14:15 10:19 18:1 32:4
+exact 14:16 19:15 22:10 filed 6:23 7:1,3
+6:4 exceptions fast 13:20 final 27:8
+egregious 11:20 exclude 41:8,10 7:5,7 11:13 finding 32:15,18
+27:13 exclusively 18:1 14:9 15:8,15 finger 50:24
+employees 16:15 26:22 34:5,7 18:11,24 22:22 first 3:4 7:8 10:6
+24:7 enacted 19:24 54:14 25:11,21 26:11 12:12,12,15
+27:9 Excuse 40:3,12 26:12,18,22,24 14:14,17 19:1
+24:11 encourage 46:7 executive 41:6 28:10,12,14,16 23:12,17,17
+engaged 12:25 existed 5:18 29:19 30:23 26:17 31:5,15
+55:15 existing 6:3 32:11 34:5,7 47:12 49:25
+18:7 38:6 expense 13:18 35:6,7,19,22 fixed 32:19
+13:7 16:17 es 37:8 explanation 40:8 43:2,4,5,8 42:11
+16:16 ESQ 1:18,20,22 expressly 4:22 45:7,7,17 46:4 focusing 28:11
+2:3,5,7,11 54:22 46:9,11,13 28:13 46:10
+54:11 10:3 11:9,10 F 49:7,18 50:19 follow 41:15
+26:21 getting 14:7 22:21,22 26:11 guilty 4:14 hewed 37:8
+12:16 13:2 28:25,25 29:17 half 19:14 20:12 17:1 19:14
+7:2 29:20 35:24 36:9 32:19 33:5,17 35:13,16 36:5 43:24 50:2,2,7
+44:17 40:24 41:14 33:21 34:15 36:13 37:3,15 hold 3:16
+45:9 42:17 44:20 35:8 37:17 38:9,12,22 Honor 4:17 5:16
+47:10,12 45:16 39:22 40:2,5,7 39:1,5,10,14 7:13 8:2,15,20
+48:3,12 Ginsburg's 40:9 41:22,24 39:18 40:3,6 9:25 10:8,16
+49:19 31:15 44:3,4,14 45:6 40:12,15 41:4 12:14,19 13:4
+give 15:3 16:5 45:8,18,23 41:19 42:7,15 14:13 17:13,22
+45:25 53:9,10 47:24 48:1,2 46:24 48:8,13 36:5 37:3,16
+go 8:18 13:5 9:22,24 33:10 happenstance hospital 37:24
+20:24 34:19 37:14,16 47:1 hospitals 9:15
+27:14 32:14 35:24 governments harmed 53:21 house 26:20
+40:8 38:4 47:19 3:22 4:19 15:8 54:4 38:6 39:17,20
+55:2 32:6,10 35:3,9 head 10:23 39:24,25 43:7
+11:4 going 13:22 54:1 55:18 hearing 4:16 51:10
+31:12 15:25 16:12 government's 7:11,12,20,21 houses 39:16
+35:22 26:21 30:21 13:18 18:6 7:23 8:1,3,12 huge 30:20
+23:6 43:16 44:22 46:4,18 47:25 10:14 11:25 22:4,5,7,24
+46:3 47:6 48:3 54:11 12:2 22:20 23:1,10 24:5
+29:1 49:19 55:10 Graham 1:3 3:4 23:20 26:17,24 24:23 25:5,8
+49:9,15 good 11:3 12:23 13:8 26:24,25 30:4 25:11,14 26:9
+government grammatical 30:5 39:4 26:19 27:1,5
+31:11 5:7,22 6:1,17 grammatically 46:1 29:5,9,12,15
+50:8 6:20 9:3,9,19 23:11 hearings 18:19 30:1,8,10,20
+33:11,14 36:21 15:17,22 30:13 25:2,6,10,12 53:23
+34:4 indicative 48:14 54:21 25:18 26:7,14 knowledge 6:1
+indictment 3:18 investigatory 26:23 27:3,22 18:12 29:17
+4:9 28:12,19 29:2 33:5 44:4
+information in-person 8:4,4 32:13 33:7,12 16:24 33:3
+15:20 16:1,5 issue 3:12 12:22 35:24 36:9,23 Latin 23:8 35:25
+44:21 50:11 issues 42:12 42:13,17,18,25 34:12
+9:21 J 45:16 46:15 lawsuits 32:11
+insert 20:5 joint 27:23 49:8,14,20,24 learn 49:19
+45:1 insiders 17:3 3:8 49:22 51:1,8,14,16 legislation 15:21
+22:25 intend 18:4 20:2 7:3,5,15 54:2,3,6,25 19:14 26:15,19
+24:15 intended 8:24 jurisdiction 55:20 27:5 38:3,23
+44:18 51:7 6:25 justify 36:18,20 41:7,12 43:24
+intending 17:2 Justice 1:23 3:3 50:1,2,7
+48:7,25 17:7 5:11 6:2 7:10 KAREN 1:9 40:23 41:1
+6:15,17 interpretation 8:14,17 9:1,5 46:22 40:17 41:9,16
+29:6 36:7 37:9 9:16 10:5,12 KENNEDY let's 22:18 33:1
+52:10 interrupt 36:24 11:2,6,23 12:3 20:8,18,21 33:2,3
+investigating 13:10 14:13,24 31:21 levels 48:2
+investigation 17:6,17,19,23 kind 55:12 53:11
+14:22 15:14 19:10,17 20:8 15:14,18 16:15 light 33:19
+28:10 15:12 16:2 21:25 22:3,7 32:23 39:8 18:22,22
+45:21 47:5 22:18,25 23:5 41:22 42:15 limitation 23:20
+magnitudes Medtronic 12:5 42:11 48:3 13:23
+11:13 majority 32:7 members 5:25 needs 9:14 45:3 obviously 8:12
+18:8 31:4 47:4 46:2 51:18 never 7:4 15:19 17:6 23:24
+Marcus 8:9 mind 15:18 news 6:18 17:20 offensive 43:24
+28:6 materials 15:17 modified 18:24 33:9,20,24 47:3
+50:3 matter 1:14 20:9 36:2 46:18 51:24 okay 38:10
+25:16 55:23 modifier 26:12 newspaper 44:22
+14:22
+18:23 Monday 1:12 29:7 30:6 55:5 once 38:5
+28:5,6,9 20:14 23:7 21:8 newspapers ones 14:5,10
+29:6,7 24:2,18 25:19 money 14:8 25:20 28:20 15:5,19
+34:15
+29:2 34:16 35:6 30:13 ongoing 14:21
+35:2,8 32:15 36:24,25 47:15 night 41:15 15:11,16,22
+40:21 38:13 42:3 monies 54:19 nonfederal 34:6 open 17:24
+45:15,24 49:9 52:14 monitoring 32:9 nongovernme... operation 42:3
+49:11 meaning 11:17 months 12:4 24:14 opportunistic
+54:1 15:14 23:16,18 morning 3:4 non-adjudicat... 3:19 14:20
+means 8:18 35:18 23:13 24:9 opposed 38:19
+30:25 37:13 50:21 multiple 48:22 noscitur 35:23 8:4 22:5 35:13
+34:9 meant 8:3,12,14 municipal 37:19 note 40:6 45:1 order 4:7 45:1
+43:13 26:23,24 38:18 municipalities noted 22:13 47:11
+38:19 41:8 37:21 44:10 notice 6:20 original 5:3,3,10
+17:20 18:4,9 N not-for-profit 44:1,6 50:9
+28:11 19:23 23:14 name 53:18 November 1:12 ought 52:18
+50:23 27:11,11,15 narrow 47:8 number 7:1 overall 23:4
+45:5 55:2 51:24 nature 21:23
+55:16 51:3 52:3 obligation 44:24 page 2:2 39:6
+27:8,9 petitioners 1:6 possession 29:19 proceed 3:18 5:7,17 6:14 7:8
+1:19 2:4,12 3:9 29:22 46:17,18 proceeding 9:12 7:9 9:25 13:6
+47:23 49:23 Poteet 12:5 39:23 18:10 20:17,25
+28:2 10:17 potentially 7:22 11:14 28:1,24 34:21
+42:20 phrase 7:19 8:25 16:18 23:23 24:21 39:21 41:10
+44:8 9:6,18 10:1,9 practical 20:9 26:2 28:17 45:2 46:2 49:6
+10:20 11:17,21 31:22,23,24 29:10 36:19 50:11 51:7,22
+22:23 23:17,23 preclude 45:12 54:23,24 publication 6:19
+36:4 prepared 12:23 processed 16:10 24:9 25:21
+55:2,6 19:13,17,19 21:18 produced 28:5 22:11 34:20
+picked 30:11 prepositions program 16:10 45:18,23
+51:9 picking 23:8 21:21 16:11 47:16,17 push 52:6
+piece 42:2 President 10:23 programs 3:25 put 6:20 28:17
+plaintiff 4:10 presumably 37:25 41:6 36:10 43:4
+52:18 30:6 pretty 52:15 progress 41:21
+plaintiff's 16:4 print 16:5 3:19 7:6 13:19 15:2
+43:9,12 51:15 37:7,20,25 44:23 52:12
+48:19 pointed 14:15 53:5 54:18 22:1 50:1
+53:21 21:20 31:9 probably 26:3 provided 44:2 qui 3:18,19 4:10
+portion 20:14 problem 8:16,21 21:24 44:6 6:14 8:6 12:6
+portions 54:18 problems 30:20 provisions 4:24 16:17,21 17:10
+reason 27:23 reflect 44:7 4:22 5:15 6:18 rewards 13:17
+35:9 36:1 41:7,11 reflects 41:21 9:24 10:22 14:8
+44:12,15 44:13 46:3,13 44:10 12:20,20 13:24 right 13:16,22
+45:10 50:16,17 regard 6:22 14:3 16:11 21:24 23:23
+49:12 reasonable 14:17 16:7 24:16 28:7 29:7,11 32:15
+52:8,17 28:22 20:24 29:23,23 30:22 33:16 36:25
+54:10 reasons 31:24 regarded 34:20 31:25 32:10 37:16 38:3,4
+36:18 reimposition 34:13,14,25 38:10 39:15,15
+49:22 rel 1:8 3:6 5:1 45:7,18,21 50:25 54:7
+13:20 record 13:5 rely 25:24 reserve 22:2 rules 46:6
+19:7 38:25 remain 6:3 resources 4:25 run 13:20
+23:7,9 recorded 39:19 remainder 22:2 30:14
+recover 35:6 remember respect 4:2,21 S
+25:23 recovery 46:14 13:12 6:5,10 8:22 S 2:1 3:1
+33:9,18 52:18 render 4:15 19:13 37:19 sandwiched
+38:2,4 redundancy repeats 51:2 38:16 41:10 22:16 31:2
+53:7 10:12,17,19,25 report 3:17 4:11 49:7 37:2
+refer 11:21 31:7 9:20 10:11 1:21,25 2:6,9 53:25
+14:2 reference 46:25 12:17,21 13:20 Respondents 20:9 33:1
+25:21 referenced 18:20 24:4 13:16 52:24 Scalia 4:13 7:10
+53:14 39:21 45:21 25:23 27:25 response 19:1 7:17,19,25
+35:3 43:19 34:15,19 39:19 result 4:12,18 18:13,15 19:10
+27:12 47:2,2,19,22 8:5,11 11:11 23:15 25:2,6
+16:19 43:22 50:5,10 51:13 52:6 29:2,6,10,13
+20:12 referring 7:13 55:15 reviewed 7:5 30:16 32:13
+30:2 10:2 reported 39:12 revise 42:10 39:7,12,16,25
+34:18 refers 26:10 reporting 30:13 revision 32:16 42:1,13 49:8
+43:2,24 reports 3:14 reward 17:11 49:14 51:8,14
+54:2 settles 7:4,16 54:10 55:11 35:3 38:7,19 55:21,23
+show 16:6 30:16 48:16,18 49:11 50:21 sued 5:8
+50:8 source 5:3,4,10 54:23 55:3,4 suffer 14:5,6,6,7
+15:15 55:16 44:1,6 52:10 statement 50:25 sufficient 48:11
+20:1 shows 26:20,22 sources 3:15 statements suggest 11:5
+34:22 6:13,16 17:9 27:20 15:6
+35:19 35:3 50:24 17:11,15,16 states 1:1,8,15 suggesting 48:5
+43:2 shrink 5:15 18:5,9 19:5 1:24 2:8 3:5,22 suggestion
+side 26:6 32:18 22:13 27:13,13 3:25 4:3,21,23 52:15
+37:11 side's 18:23 special 14:10 14:15 15:8,25 49:15
+54:3 17:16 39:7 22:25 31:7 summary 6:25
+46:6 simply 3:17 4:10 specifically 43:19,21 44:7 superficial
+18:21 20:25 split 42:19 State's 16:9,11 supporting 1:25
+27:7,19 32:12 40:19 staff 55:6 station 29:7 suppose 20:9,9
+43:10,13 55:15 stake 47:15,18 statute 3:20,21 21:6 23:5,5,6
+51:11 single 12:25 stands 5:10 10:13,18 11:12 33:7
+47:7 49:5 23:14 11:15 12:15 supposed 25:18
+30:9,17 situations 48:20 state 3:14,17,17 40:7 42:11,20 21:16 29:22
+32:17 six 49:21 3:24,25 4:14 44:13 53:4 31:2,3 52:8
+45:5 Sixth 12:6,8 4:19,22 5:6,14 statutory 42:2 surprising 43:4
+small 30:3 9:11,12 12:7 Stevens 5:1 sweep 30:21
+33:15 somewhat 13:13 25:1,4,13,23 strict 35:7 22:5
+44:6 think 11:2,4,5 tremendous wants 32:16
+11:24 21:19 14:20 15:10 25:25 warranted
+39:9 32:14,15,18,20 troubling 30:2 urge 11:14 1:11,23
+52:4 32:21 33:22,25 true 6:22 17:3 use 10:9 11:8wasn't 15:2
+5:9 37:4 41:1,8,17 truest 34:19 uses 10:1,20 49:3
+6:4 41:20 42:17 truism 41:5 32:24 40:7 Water 1:4 3:5
+8:6 12:6 43:5,8,15 truth 32:21 Usually 47:14way 25:15 32:15
+15:11 44:20 45:1,19 trying 8:23 U.S 28:3 33:3,13 37:1
+17:10 46:3 48:9 50:2 Tuesday 21:8 44:14 48:16,18
+20:13,23 50:13 51:16,18 turn 49:25 V 53:25
+52:12 53:2 turned 4:3 v 1:7 3:5 4:25 ways 14:6
+35:9 54:9 twice 10:2,5 6:11 8:9 12:5 website 47:20
+44:12,15 thinking 30:12 two 12:20,20 Va 1:20 week 13:7
+45:10 30:18 38:4 18:25 19:16 vague 47:22 weekly 6:19
+49:12 43:4 50:17 30:3,19 31:3 valve 6:9 weight 15:4,7
+52:8,17 third 19:3 21:21 37:2 46:2,6 vast 32:6 47:4 well-justified
+54:10 23:13 type 6:14 45:22 Vermont 4:25 55:9
+thought 24:18 types 45:20 version 26:22 well-taken
+40:20 43:20 U versions 43:14 We'll 3:3
+26:4,4 44:16 47:21 victims 15:5 whistleblowers
+tie-breaker 27:18 24:21,22 25:8 Wilson 1:9 3:6
+51:4 time 5:19 6:3 21:17 viewed 54:22 Wisconsin 6:11
+20:7 21:1 22:2 undoubtedly views 14:11 43:25 44:5
+35:21 37:11 unit 9:3 W 54:22
+told 28:2 United 1:1,8,15 want 13:25 work 3:24 4:10
+35:10,11 town 30:3 4:25 5:9 6:2,10 21:16 25:6 49:2
+55:19 track 28:20 6:17 8:9 12:5 30:25 31:15,17 working 42:5
+46:22 13:8 14:15 31:23 32:8 47:23 50:20
+49:11 treat 33:1 universities 9:15 wanted 5:12,13 worried 16:15
+33:23 3730 26:10
+1:7 3:4
+14:17 23:3
+14:9
+1:16 3:2
+12:4 27:7
+20:3
+55:22
+12:9
+51:18
+39:6
+5:18
+5:19 6:12
+22:12
+33:4
+41:1
+22:15 23:1
+28:8
+31:19
+1:12
+2:6
+4:8
+14:9
+2:4 19:23
+1:12
+2:9

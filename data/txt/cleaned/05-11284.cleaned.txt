@@ -1,0 +1,1483 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+JALIL ABDUL-KABIR, FKA :
+CALVIN COLE, :
+Petitioner :
+v. : No. 05-11284
+NATHANIEL QUARTERMAN, :
+DIRECTOR, TEXAS :
+DEPARTMENT OF CRIMINAL :
+JUSTICE, CORRECTIONAL :
+INSTITUTIONS DIVISION; :
+and :
+BRENT RAY BREWER, :
+Petitioner :
+v. : No. 05-11287
+NATHANIEL QUARTERMAN, :
+DIRECTOR, TEXAS :
+DEPARTMENT OF CRIMINAL :
+JUSTICE, CORRECTIONAL :
+INSTITUTIONS DIVISION. :
+- - - - - - - - - - - - - - - - - x
+Washington, D.C.
+Wednesday, January 17, 2006
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 11:10 a.m.
+APPEARANCES:
+ROBERT C. OWEN, ESQ., Austin, Tex.; on behalf of the
+Petitioners.
+EDWARD L. MARSHALL, ESQ., Assistant Attorney General,
+Austin, Tex.; on behalf of the Respondent.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+ROBERT C. OWEN, ESQ.
+On behalf of the Petitioners 4
+ORAL ARGUMENT OF
+EDWARD L. MARSHALL, ESQ.
+On behalf of the Respondent 21
+REBUTTAL ARGUMENT OF
+ROBERT C. OWEN, ESQ.
+On behalf of the Petitioners 44
+P R O C E E D I N G S
+(11:10 a.m.)
+CHIEF JUSTICE ROBERTS: We'll hear argument
+next in 05-11284, Abdul-Kabir vs. Quarterman, and
+05-11287, Brewer versus Quarterman.
+Mr. Owen.
+ORAL ARGUMENT OF ROBERT C. OWEN
+ON BEHALF OF PETITIONERS
+MR. OWEN: Mr. Chief Justice, and may it
+please the Court:
+When this Court granted review in mid
+October in these consolidated cases, the cases
+exemplified the Fifth Circuit's settled approach to
+reviewing claims of error under this Court's 1989
+decision in Penry v. Lynaugh. In both cases the court
+below failed to take seriously the requirement that
+capital jurors have a meaningful basis for giving effect
+to the relevant mitigating qualities of a defendant's
+evidence, and in both cases the court below found as a
+factual matter, both against common sense and this
+Court's holdings, that reasonable jurors would regard
+evidence that a defendant had experienced significant
+mistreatment or abuse as a child or had mental
+impairments as an adult as reasons to find him less
+dangerous rather than more dangerous.
+But those opinions, however incorrect, no
+longer represent the Fifth Circuit's view of Penry. In
+mid December the Fifth Circuit decided in its en banc
+decision in Nelson vs. Quarterman to take a sharp turn
+away from its prior treatment of Penry claims and to
+follow instead this Court's guidance in Tennard and
+Smith. Under such circumstances, where the assumption
+that we imagine underlay this Court's decision to grant
+review in this case has been so profoundly changed by an
+intervening decision of the court below, we respectfully
+suggested by motion that the Court return these cases,
+vacate the judgments, return them to the Fifth Circuit
+for further consideration in light of the new opinion in
+Nelson.
+JUSTICE GINSBURG: Why, when we are told
+that, that the State will surely challenge Nelson in
+this Court, and we already have the issue before us, so
+all that you would achieve is delay, just substituting
+the Nelson case for this one?
+MR. OWEN: I don't believe, Your Honor,
+that, that all that would be accomplished by that would
+be certainly not just delay. I think that if the Court
+chooses to wait for the State's cert petition in Nelson,
+the Court could certainly put our cases aside and hold
+them awaiting Nelson -- Nelson's cert petition should be
+filed by mid March -- and then could make its judgment
+about whether to grant cert in Nelson or not.
+If it granted cert in Nelson it could decide
+the three cases together; if it found Nelson raised no
+questions that were worthy of review, it could either
+proceed to decide these cases or send them back to the
+Fifth Circuit. I think that the State's decision,
+though, Your Honor, is based on a, a misreading of
+Nelson. I think that the State has suggested to the
+Court that Nelson is in the State's phrase a narrow
+fact-based decision and I think that's not, I think
+that's not a fair characterization of the Nelson --
+JUSTICE KENNEDY: Well, why can't we just
+read Nelson and then say in these cases whether or not
+it's correct?
+MR. OWEN: I think the main reason, Your
+Honor, is that these cases aren't Nelson, and that
+Nelson if it presents issues that are worthy of the
+Court's consideration, that would be the better vehicle,
+rather than trying to use in effect these cases to
+decide issues that are presented by a different set of
+facts.
+JUSTICE STEVENS: If these cases aren't
+Nelson that's a reason why we should decide these cases;
+it seems to me.
+MR. OWEN: Well, Your Honor, I am, I am
+confident that if the Court chooses to proceed on the
+merits of this case that we will prevail on the merits,
+until it finds --
+JUSTICE STEVENS: Well, why don't you try to
+convince us of that?
+MR. OWEN: Then let me turn, let me turn to
+our, our merits, Your Honor.
+The issue before the Court in this case as
+we said is whether the jury instructions gave the jurors
+a meaningful basis for considering the relevant
+mitigating qualities of these two Defendants' mitigating
+evidence. In Mr. Brewer's case that included the fact
+that he was hospitalized for treatment for a major
+episode of depression about three months before the
+murder, and the fact that the evidence indicated he had
+suffered serious abuse, serious physical and emotional
+abuse from his father as a teenager. In Mr. Cole's case
+the evidence indicated that as a result of neglect and
+deprivation that he suffered as a child, he had himself
+emotional problems, fragmented personality, chronic
+depression, enormous need for nurturance, a lot of
+emotional turmoil and problems that continued into
+adulthood.
+And in addition to that, the expert who
+testified at Mr. Cole's trial indicated that he had been
+given a set of generally accepted neuropsychological
+tests and that on those tests he had scored below normal
+and on some of them very far below normal, under the
+fifth percentile. And as a result that he probably
+suffers from some sort of central nervous dysfunction
+which limits his impulse control. We respectfully
+suggest that under this Court's decision in Penry, those
+are all the kinds of facts about these two Defendants
+that could reasonably support a juror in concluding that
+a life sentence rather than the death penalty was an
+appropriate sentence.
+But because the jurors were never asked
+whether the mitigating evidence reduced the Defendant's
+culpability in such a way as to call for a life
+sentence, the resulting death sentences are unreliable.
+The jurors are asked only two questions as the Court
+well knows. But just to review, under the pre-1991
+Texas statute jurors were only asked two questions: Was
+the crime committed deliberately and is the Defendant
+likely to pose a continuing threat to society? And
+those instructions alone as has been mentioned earlier
+this morning, don't mention mitigating evidence; the
+verdict form doesn't mention mitigating evidence; and so
+this Court has held repeatedly that whether that two
+question format satisfies the Eighth Amendment's
+individualized sentencing requirement is a matter of the
+evidence that's presented in a particular case, how it's
+argued to the jury, and what are the jurors told about
+the meaning of their instruction.
+And we believe that in this case, throughout
+the trial -- in both of these cases, excuse me --
+throughout the trials the jurors were emphatically told
+that they were not entitled in deciding the future
+dangers test question to engage in any sort of broad
+inquiry into these Defendants' moral culpability.
+Instead, the prosecutors in both cases made very clear
+to the jurors during jury selection that in answering
+the future dangerousness question you must put to one
+side your opinion about whether the Defendant's
+background, for example, calls for a particular sentence
+and answer the question solely on, as the prosecutor put
+it, the basis of the facts. And we feel that the
+evidence in this case very strongly would have supported
+the inference that these, both of these Defendants were
+likely to be dangerous --
+CHIEF JUSTICE ROBERTS: How would you
+compare that evidence with the evidence in Penry itself?
+MR. OWEN: I think, Your Honor --
+CHIEF JUSTICE ROBERTS: These are closer
+cases than Penry, I think. You'd have to concede that,
+wouldn't you?
+MR. OWEN: I think they are different cases,
+Your Honor, I'm not willing to concede that they are
+closer cases. I think that in, in the juror's mind, the
+only conclusion that could be drawn from the evidence in
+these cases is that the Defendants are likely to be
+dangerous in the future. That is exactly the same
+conclusion that would have been compelled by the
+evidence in Penry. I think that --
+JUSTICE GINSBURG: How does that, if the
+evidence, suppose we think the evidence is weaker, it's
+still evidence of childhood abuse and mental disorder of
+some kind, and those are relevant mitigating factors.
+MR. OWEN: Absolutely. Absolutely, Your
+Honor,.
+JUSTICE GINSBURG: So you -- if your case is
+less strong than maybe the jury will decide it the other
+way. But it doesn't mean that those factors are not
+mitigating factors.
+MR. OWEN: I couldn't agree more, Your
+Honor. I think it's very clearly settled by Tennard and
+other cases going back to 1976 that facts like a
+deprived or abused background or mental impairment are
+certainly mitigating. And with further response to your
+--
+JUSTICE SCALIA: Tennard, Tennard was
+decided after the State decision here, wasn't it?
+MR. OWEN: This Court's decision in Tennard
+postdates the State court decisions in both of these
+cases. Yes, Your Honor.
+JUSTICE SCALIA: And where is -- this is an
+AEDPA case, isn't it?
+MR. OWEN: Yes, Your Honor.
+JUSTICE SCALIA: So we're, we're asking
+whether this State court made an unreasonable decision
+at the time, and at the time regardless of what the
+Fifth Circuit has now said, at the time under Johnson,
+and -- and there is another earlier case, we said that
+you didn't have to give full mitigating effects; as long
+as there was some manner in which mitigating effect
+could be given that was enough.
+MR. OWEN: The Court has been consistent --
+JUSTICE SCALIA: So I think Tennard is
+utterly irrelevant even if it is right.
+MR. OWEN: I, I -- I don't agree. And
+here's why, Your Honor. Tennard was itself both a
+habeas case and a case governed by the antiterrorism
+act, like these two cases. And so in Tennard the Court
+was called on to decide not squarely the question of
+whether the State court decision in that case had been
+objectively unreasonable, but whether a reasonable
+jurist could have found it to be objectively
+unreasonable such that a certificate of appealability
+was warranted.
+Mr. Tennard's case was decided by the State
+court in 1997, so I think it is immanent in this Court's
+ruling in Tennard that at least as of 1997, it was
+apparent that a, a low IQ score alone implicated the
+concerns of Penry.
+JUSTICE SCALIA: Did Tennard purport to
+overrule Smith, even when it came down? It simply, it
+simply quoted language of the Justice O'Connor's
+concurrence in an earlier case. It certainly didn't
+purport to overrule Smith?
+MR. OWEN: I, I see where Your Honor is --
+JUSTICE SCALIA: I'm sorry, Johnson, not
+Smith.
+MR. OWEN: Yes. And I, and I -- no, it
+didn't purport to overrule Johnson. And the reason why
+is this: I think the concept that ties this Court's
+cases together on Penry is this concept of meaningful
+consideration. Because Your Honor focused on one bit of
+language from Johnson: the jury has to be able to give
+some effect. Elsewhere in the Johnson opinion the Court
+said there has to be a meaningful basis for giving
+effect to the relevant mitigating qualities of the
+evidence. And I think neither of those two phrases can
+be read out of the context of the other.
+In other words, it can't just be some
+imaginable, conceivable, strained effect. It has to be
+some effect which speaks sensibly to the way that a
+juror would -- would understand the evidence to relate
+to future dangerousness. In the Johnson case, the
+defendant's evidence was his chronological youth, and I
+believe that it was, it is sensible for the Court to
+find that a reasonable juror could conclude that, that
+its relevance to culpability and its relevance to future
+dangerousness are essentially coextensive. This case is
+not like that.
+CHIEF JUSTICE ROBERTS: In Brewer --
+JUSTICE ALITO: Well, in Johnson wasn't
+there also --
+CHIEF JUSTICE ROBERTS: Go ahead.
+JUSTICE ALITO: Wasn't there also mitigating
+evidence about a troubled, about his troubled youth,
+which is analogous to what was involved at least -- well
+in both of these cases?
+MR. OWEN: Very little such evidence, Your
+Honor, in Mr. Johnson's case. And in that case moreover
+this Court's question presented, the question on which
+it granted review, was limited to the question of age,
+so this Court didn't reach or decide in Johnson the
+question of whether the other facts about Johnson's
+background that found their way before the jury might
+have been within the jurors' effective reach.
+And I do think that the specific evidence in
+Johnson again was argued as a basis for a finding of
+nondangerousness, of rehabilitatability. That's utterly
+untrue of evidence in Mr. Brewer's case and Mr. Cole's
+case, where I think it's very clear that the evidence is
+being offered to provide some kind of explanation for
+the jurors about what caused these men to commit these
+terrible crimes, not that --
+CHIEF JUSTICE ROBERTS: But in, in Brewer's
+case, it's, quoting the record, evidence of one
+hospitalization for a single episode of nonpsychotic
+major depression. So it was certainly opened for a jury
+to determine that as mitigating and not aggravating in
+assessing the likelihood that there was going to be
+further violent behavior.
+MR. OWEN: I don't think, Your Honor --
+CHIEF JUSTICE ROBERTS: Quite a bit
+different than Penry.
+MR. OWEN: I don't think that you can
+separate the diagnosis of depression, that, even that
+one single episode of hospitalization for depression,
+from what the jury knew about Mr. Brewer's upbringing,
+from the fact that they knew he had been hit by his
+father in the terms of, his mother said, numerous times.
+He was struck with the butt of a pistol, he was hit with
+a flashlight, he was hit with a stick of firewood. His
+father told him if you ever raise your hand to me you
+better kill me, because I'll kill you. He saw his
+father bloody his mother, and bruise her eyes, throw
+chairs at her.
+CHIEF JUSTICE ROBERTS: And your submission
+-- your submission is that every juror is, or a
+reasonable juror is going to look at that, and the only
+conclusion that they are going to draw is that he is
+more likely to be violent in the future? As opposed to
+the conclusion that there is mitigating evidence because
+of this, that he should -- mercy should be shown to him
+in light of all of this? And I just don't see how you
+can speculate which way the jury is going to go.
+MR. OWEN: I think that it's not simply
+speculation, Your Honor, I think this Court recognized
+in Tennard as it did in Penry, that when there is
+evidence of mental impairment before the jury, there is
+at least the probable inference of dangerousness. The
+amici before the court, both the American Academy of
+Child and Adolescent Psychiatry, on the one hand, the
+Child Welfare League of America, on the other, their
+amicus briefs I think really -- really detailed the fact
+that this is a commonplace understanding in our society.
+And the reason that we know that, Your
+Honor, is what the prosecutor said in his closing
+argument, where he said to the jury if you take a puppy
+and you beat that puppy, then he is going to bite and he
+is going to bite as long as he lives. There is nothing
+you can do to change that. I think that where you
+have --
+CHIEF JUSTICE ROBERTS: So that was in, in
+Brewer. Now --
+MR. OWEN: Yes.
+CHIEF JUSTICE ROBERTS: -- there was no
+reliance or no similar statement by the prosecutor in
+Abdul-Kabir or Mr. Cole's case.
+MR. OWEN: There was no similar --
+CHIEF JUSTICE ROBERTS: So do we have
+different results in these two consolidated cases?
+MR. OWEN: No, Your Honor. I think that
+this Court's case in -- decision in Tennard, when it's
+talking about the inference of probable future
+dangerousness, this Court says: The jurors might well
+have believed that Mr. Tennard would be dangerous in the
+future, both as an inference to be drawn from the
+evidence and because the prosecutor expressly told them
+that's how they ought to regard the evidence.
+And in this case we have the prosecutor, in
+Mr. Brewer's case we have the prosecutor expressly
+telling the jury, just as the prosecutor did in Mr.
+Tennard's case, what is mitigating about the guy's
+background --
+CHIEF JUSTICE ROBERTS: So the, so the --
+but my point is the absence of a similar prosecutorial
+statement in the Cole case cuts against you.
+MR. OWEN: It simply doesn't cut as far in
+favor of us, Your Honor. The fact that in Tennard this
+Court said that from mental impairment, a probable
+inference of dangerousness may be drawn, cuts squarely
+in our favor. And you don't even have to go to the
+level of inference. In Mr. Cole's case his expert
+witnesses said that the background experiences that this
+young man had make him dangerous. And they, they could
+not forecast exactly how long it might be before he
+would conceivably age out of that. But they said is it
+10 years? It could be 15 years, it could be 20 years.
+I mean, there is just -- that doesn't give a
+reasonable juror, as -- if all you ask the juror is,
+after they have heard that evidence is, is there a
+probability that this guy is going to be dangerous in
+the future? I think they would be compelled to say yes,
+even though they might say, if they were broadly
+instructed --
+CHIEF JUSTICE ROBERTS: Where is evidence of
+abatement in that case that was before the jury? So
+that if you ask them, was it this person's fault in some
+moral sense, that might affect whether they wish to show
+mercy? And if you ask them whether he is going to grow
+out of it, they may well say, it was not his fault
+because of this brain disorder and he is going to grow
+out of it and that was the evidence, and so we are not
+going to sentence him to death.
+MR. OWEN: I think that it's not
+unconceivable that a juror could have reasoned in that
+fashion. But I think it's not reasonably possible. I
+think that this Court's decisions in Penry and Tennard
+suggest that a juror's commonsensical response to
+evidence that a defendant has, presently poses a grave
+danger as a result of his life experiences and the
+enduring impacts that they have left upon him, the
+reasonable response of a juror shown such evidence is to
+find future dangerousness, and that that is precisely
+the problem with the pre-1991 Texas sentencing statute.
+If we had a broad mitigating evidence
+issue like the one that's presently given to Texas
+juries then we could all be confident that the jury had
+engaged in precisely the reasoning that the Court --
+that the Court is hypothesizing. That they looked at
+the evidence and said yes, he's dangerous, but he's also
+deserving of something less than death so we will
+accomplish that by answering this issue in a certain
+way.
+CHIEF JUSTICE ROBERTS: But in Penry we
+didn't establish a per se rule. We said it depends upon
+the evidence. It depends upon the instructions. It
+depends upon what the prosecutors say. It seems to me
+that you're arguing for an absolute rule.
+MR. OWEN: I don't -- no, Your Honor, and
+don't let me, please don't let me be misunderstood. I
+do not believe that this is a per se rule. I think
+Johnson stands with our case. I think that Graham
+stands with our case. I think there's no -- there's no
+need for the Court to -- to change anything other than
+to -- and it doesn't have to change anything about its
+existing approach to Penry for our clients to prevail.
+Because I think that if the Court looks at this evidence
+and concludes that a reasonable juror approaching this,
+there's no reasonable probability that they would have
+felt constrained to find him to be a future danger, then
+we lose. But I don't think you can look at this record
+and see that.
+CHIEF JUSTICE ROBERTS: But it's not no
+reasonable probability, that's not the standard. The
+standard under Smith is whether the juries can consider
+this mitigating evidence in some manner.
+MR. OWEN: I think, Your Honor, that again,
+removing that language from Smith, from the language in
+-- if you're talking about Johnson, I know you're
+referring to Johnson, that the language in Johnson about
+some effect can't be separated from the language about
+meaningful effect.
+JUSTICE SCALIA: It's absolutely one step
+removed from that.
+MR. OWEN: I'm sorry, Your Honor?
+JUSTICE SCALIA: I say the actual question
+is even one step removed. It's whether it is
+unreasonable to conclude otherwise than what you
+conclude, which is wrong.
+MR. OWEN: That's correct. And I think --
+JUSTICE SCALIA: But unreasonable.
+MR. OWEN: That's correct, and I think that
+it is unreasonable. I think the State court in this
+case had essentially two lines of authority, that it was
+trying to decide which one controlled this case. It had
+Penry which involved evidence of mental impairment and
+child abuse, and it had Johnson and Graham which
+involved evidence of youth and other background. And I
+think that the facts of these cases, given the facts of
+these two cases, it is objectively unreasonable to say
+they fit over here with Johnson and Graham rather than
+they fit over here with Penry. And that's why I think
+the decisions by the State courts are not just wrong,
+but objectively unreasonable.
+If the court has no further questions, I
+will reserve the remainder of my time.
+CHIEF JUSTICE ROBERTS: Thank you, Mr. Owen.
+Mr. Marshall.
+ORAL ARGUMENT OF EDWARD L. MARSHALL
+ON BEHALF OF THE RESPONDENT
+MR. MARSHALL: Mr. Chief Justice and may it
+please the Court:
+When the State court considered these Penry
+claims in 1994, 1999 and January 2001, this Court's
+decisions in Graham and Johnson made it clear that the
+Eighth Amendment requires only that a jury be only able
+to consider mitigating evidence in some manner, not in
+every conceivable manner. This is because virtually any
+mitigating evidence may be viewed as relevant to moral
+culpability apart from its relevance to these Texas
+special issues.
+Cole and Brewer with sizzling bright IQ
+scores of 121 and 115, dysfunctional childhoods and
+depression, are much more like the troubled childhood
+and youth evidence in Graham and Johnson than the mental
+retardation, brain damage and severe child abuse
+evidence in Penry. Equating these facts to Penry --
+JUSTICE GINSBURG: It's the same kind of
+evidence. It may be weaker. In other words, it's not
+evidence of good deeds in the community. It's two
+specific kinds of evidence, the very kinds of evidence
+that were involved in Penry. You can argue about
+whether this was weaker, but it's certainly different
+from youth and reputation for good character.
+MR. MARSHALL: Well, I disagree, Your Honor.
+In Graham in particular, the Court was not just
+considering youth, the Court was considering a troubled
+childhood, a difficult childhood in which Graham's
+mother had been hospitalized with a mental illness, his
+custody shifted from relative to relative. That's
+exactly the same kind of evidence we have in Cole.
+JUSTICE GINSBURG: But the evidence was that
+he didn't react hostilely, he didn't do bad deeds. On
+the contrary, he was gentle, kind, God fearing, and
+that's why the jury should regard the murder as
+aberrational. That was the Graham picture, whereas here
+we're dealing with people who are dangerous.
+MR. MARSHALL: Well, Your Honor, that's not
+the way counsel argued it to the jury in either case.
+In both of these cases defense counsel presented his
+case to the jury during -- through his evidence and his
+argument, that this was youthful indiscretion or it was
+an aberration, and it wouldn't happen again, which is
+exactly what Graham --
+JUSTICE GINSBURG: What other choice does
+defense counsel have, given that the jury is going to
+get a question, is this man likely to be a danger in the
+future? What else could counsel argue?
+MR. MARSHALL: Well, Justice Ginsburg,
+that's not the question before the Court. The question
+before the Court is whether the Eighth Amendment was
+violated and whether the jury had a reasonable
+opportunity, and in --
+JUSTICE GINSBURG: Yes. Well, maybe sending
+counsel into those two questions, what violates the
+Eighth Amendment instead of doing what Texas now does
+and say jury mitigating evidence is for you to judge.
+We're not going to bottle it up inside of two special
+questions.
+MR. MARSHALL: Respectfully, Justice
+Ginsburg, that's not the question before the Court,
+though. We're trying to determine in this case whether
+the State courts unreasonably determined that these
+juries had a fair opportunity to consider that evidence.
+And I think looking at argument, when we're determining
+the reasonableness of that decision, looking at
+counsel's argument is all we have to go on in
+determining whether the jury had a fair shot. Now I
+think if you look back at the '90s --
+JUSTICE GINSBURG: But realistically, a
+defense counsel who knows that the jury is going to have
+those two questions, he's got to fit his argument to the
+jury into those questions.
+MR. MARSHALL: Your Honor, that was a
+strategic choice, though. This is not a Sixth Amendment
+claim. We're looking at the Eighth Amendment now. And
+so what counsel chose to do is not the question. We're
+looking at what he did, and we've got this record to
+work with.
+JUSTICE GINSBURG: You're looking at what
+Texas law forced him to do.
+MR. MARSHALL: I don't think that's the
+issue before the Court, Your Honor. I think what we're
+looking at is whether he -- the jury had a fair
+opportunity here, regardless of what counsel chose not
+to do or what the statute forced him to do. The fact is
+when the State courts looked at these claims in 1994 and
+1999, this evidence was much more like Graham than it
+was like Penry, and it was reasonable for them to decide
+that there was no Penry error in these cases because of
+that fact. And I think it's worth mentioning that if
+that's not the case, then I think we've arrived at the
+point where Penry has swallowed the rule announced in
+Jurek 31 years ago and it -- to which it was only
+supposed to be an exception.
+JUSTICE GINSBURG: Jurek was a facial
+challenge, and the Court said no, on its face we can see
+that there are things that would fit into it. Good
+character would fit into it. But Jurek said as applied,
+we're not certainly not ruling on that. All we're
+saying is it doesn't fall on its face, and then as cases
+come up the law is filled out. But Jurek doesn't say --
+Jurek didn't say across the board, it's enough that
+there are these two special factors, that everything can
+be squeezed into them, all mitigating evidence one way
+or another can be squeezed into them.
+MR. MARSHALL: That is correct, Your Honor.
+Jurek was a facial challenge. But in Johnson and Graham
+the Court made it pretty clear, I think, that as long as
+the evidence is relevant in some way within those
+special issues, some mitigating way --
+JUSTICE GINSBURG: I thought in Johnson the
+only question presented was age.
+MR. MARSHALL: In Johnson, Your Honor?
+JUSTICE GINSBURG: Yes.
+MR. MARSHALL: Youth was the central point
+of Johnson, but Graham involved youth and a distinctly
+troubled childhood, much like we have in these cases.
+And so if that evidence was relevant within future
+dangerousness and did not amount to Eighth Amendment
+error, then this evidence has to be just as relevant.
+And in fact we have another layer of analysis on top of
+this because we are looking at the State court's
+decision under AEDPA.
+JUSTICE GINSBURG: I don't see how this fits
+in the Graham package. The Graham is, this child came
+from a deprived background but managed to survive it,
+and he fits right into the category, he's not dangerous.
+Look at all the bad things that were done to him. He
+turns out not to be dangerous. Apart from this one
+murder, he's been a good boy. That's not the picture in
+either of these cases.
+MR. MARSHALL: That's essentially the
+picture, Justice Ginsburg, in Brewer. That's exactly
+the way counsel presented it to the jury. But not only
+did counsel argue that he wasn't going to be dangerous
+despite his childhood shortcomings, there was a
+deliberateness definition submitted in the Brewer case,
+which is what this Court suggested in Penry in 1989
+might remedy this problem. And so the court submitted a
+definition of deliberateness and counsel argued it to
+the jury, that -- the definition was read to the jury,
+counsel argued --
+JUSTICE GINSBURG: Where is that charge?
+MR. MARSHALL: It appears at page 90 of the
+joint appendix, Your Honor, and that's the Brewer joint
+appendix. Now counsel read that definition to the jury,
+and the definition reads as follows: "A manner of doing
+an act characterized by or resulting from careful and
+thorough consideration characterized by awareness of the
+consequences, willful, slow, unhurried and steady, as
+though allowing time for a decision." Now counsel read
+that definition to the jury during his closing argument.
+He argued that Brewer's crime reflected poor planning
+and execution, that he was led into it by other actors,
+by his girlfriend Christy Nystrom, and that his
+commitment to a mental hospital and his mental illness,
+depression in this case, were argued specifically as
+cause for those faults. And so counsel related the
+evidence within that deliberateness instruction to the
+jury, and that provided them with a significant vehicle
+to give effect to this evidence.
+JUSTICE GINSBURG: Is that what the Penry
+Court was talking about, something like what you just
+read?
+MR. MARSHALL: I think so, Your Honor, and
+the Penry Court was not specific about what that
+definition should say, but this is certainly helpful to
+the jury in this case and in taking account some of this
+evidence that was before it.
+JUSTICE KENNEDY: But you see, in Johnson
+the Court was confronted with the special issues and it
+makes the assumption based on the State's representation
+there, that the special issues had enough latitude for a
+jury to fully consider this. What has happened in these
+cases is that the prosecutors tell the jury, they keep
+reminding the jury you just must answer special issues
+one and two as given. And in the Cole case they say,
+even though you felt maybe he had had a rough time as a
+kid, you still must put that out of the mind, of your
+mind, and just go by the special issues. And that's the
+concern in these cases.
+MR. MARSHALL: That may be a concern,
+Justice Kennedy, but the Cole case provides a particular
+example of how defense counsel countered that argument.
+75 percent of his argument, which is between pages 141
+and 144 of the Cole joint appendix, 75 percent of that
+argument is that Cole will burn out as he grows older,
+and that's based on the testimony of his experts. And
+he says that burnout, that likeliness that he will not
+be dangerous is a reasonable one.
+JUSTICE KENNEDY: But that's because the
+issues confined him to that.
+MR. MARSHALL: That's correct, Your Honor,
+but that's a legitimate argument on the evidence here,
+and I think that it would be, it's difficult in my mind
+anyway to determine that the State court in reading
+Graham and Johnson could unreasonably determine that
+that wasn't a good vehicle for the jury when he said,
+you have a reasonable doubt about this man's
+dangerousness because of the testimony that we presented
+to you from his experts that said he wouldn't be
+dangerous in the future.
+JUSTICE GINSBURG: He's 30 years old, and
+the testimony is 40, 50. It says, jury, for 10 years
+this man is going to be walking in prison corridors and
+he's going to be a danger for at least 10 years. And
+that's an effective --
+MR. MARSHALL: Justice Ginsburg, that's
+easily as effective as the -- as youth was in Graham and
+Johnson. Youth is evidence that -- I mean, we don't
+know how long it takes people to grow out of youth, but
+certainly 10 years wouldn't be unreasonable under the
+circumstances in that case. And so I don't see any
+difference between youth and burnout in this context.
+We are talking about a finite amount of time, we don't
+know exactly what that amount of time is, but it's
+certainly reasonable for a jury to give mitigating
+effect to it under that question.
+JUSTICE GINSBURG: Mr. Marshall, I heard
+what you read from this charge, and I don't have the
+exact words of what the Court was talking about in
+Penry, but it did say a special instruction that would
+enable the jury who believed Penry committed the crime
+deliberately, that he committed it deliberately, not
+slowly, whatever you just read, but also believed that
+his background and diminished mental capacity diminished
+his moral culpability, making the imposition of the
+death sentence unwarranted.
+So what Penry said very clearly is yes, it's
+deliberate, but you give them a charge that tells them
+even though it was deliberate, because of his abuse,
+because of his retardation, he is not morally culpable
+to the same extent as someone who doesn't have those
+impairments. That's the instruction that Penry said
+could be given and that would be okay under the
+deliberateness. Quite different from the instruction
+you read.
+MR. MARSHALL: It's different, Your Honor,
+but I don't think it's that much different, and the
+reason is that this makes the crime a function of
+awareness of the consequences of slow unhurried
+consideration of those consequences. And then counsel
+argues to the jury that Brewer is uncapable of engaging
+in that sort of premeditation because of his mental
+problems, and so that's what reduces his culpability
+under the circumstances. And I think if you combine the
+argument and the definition, which we were bound to do
+under Boyde versus California, we're supposed to look at
+the entire context of the trial here, that that meets
+that suggestion in Penry for it. It's not exactly what
+the Court suggested.
+JUSTICE GINSBURG: Wasn't there something
+about moral culpability in what you read?
+MR. MARSHALL: No, Your Honor. It's not
+mentioned in this definition.
+JUSTICE GINSBURG: That's what Penry makes
+clear, makes the distinction, between these are factors
+that don't say he is that dangerous, don't say he didn't
+act deliberately, but they reduce or the jury may decide
+that they reduce his moral culpability. And that's not
+what this charge was?
+MR. MARSHALL: This charge is different and
+you're correct in that, Justice Ginsburg. However,
+future dangerousness also provides that vehicle in this
+case, just the same as it did in Graham, and so -- and
+in Johnson. The Court said that this kind of evidence,
+the evidence of a troubled childhood, could find effect
+within future dangerousness in some manner. And granted
+we can conceive of other ways it might be relevant to
+culpability, but the Court explained -- and this was
+what the State court was working with at the time it
+considered this claim -- this Court explained that just
+because we can imagine other ways in which it might be
+relevant doesn't mean that we have got Eighth Amendment
+error. It's just important that the jury had some way
+of getting to it. And I don't see how this is markedly
+different than the evidence that the Court said fit
+within future dangerousness in Graham.
+Now, in -- I think another thing that I need
+to mention about Cole is, is that my colleague noted the
+expert testimony that Cole lacked impulse control. Now,
+I think the, the mitigating nature of that testimony in
+this case becomes especially apparent when you realize
+that, that Cole planned this crime 2 days in advance.
+He planned to strangle this 66-year-old blind man 2 days
+before he did it. And so I don't think that an impulse
+control problem mitigates his culpability for this crime
+in any way and I don't think any reasonable juror would
+ever see that. So I think that the mitigating
+significance of that evidence in this case is severely
+diminished as opposed to the testimony that the jury
+heard in Penry, for example, which is that he'll never
+learn from his mistakes, he had previously committed a
+rape, he didn't learn from it; this time he committed a
+murder and a rape. And so the mitigating relevance of
+that evidence was only aggravating within future
+dangerousness.
+CHIEF JUSTICE ROBERTS: How do we, how does
+that factor in on the issues that are before us, the
+weakness of the mitigating evidence? In what way are we
+supposed to assess it? We don't have a harmless error
+question in these cases.
+MR. MARSHALL: There is no harmless error
+question, correct, Mr. Chief Justice. However, I think
+when we're looking at the Boyde standard, which is --
+and in Johnson -- a reasonable likelihood that the jury
+was precluded from giving effect to the evidence, the
+reasonableness of that likelihood, the reasonableness of
+that possibility, depends upon the way the juror, the
+jury, heard the evidence and the relative strength of
+that evidence.
+And so evidence of intoxication, for
+example, while it does mitigate culpability in some
+manner, would not create the reasonable possibility of
+Eighth Amendment error in that sense.
+CHIEF JUSTICE ROBERTS: So your argument is
+that the mitigating evidence was not precluded by,
+reasonable consideration was not precluded by the
+instruction; it was precluded by the fact that there
+wasn't much mitigating evidence to begin with?
+MR. MARSHALL: That's correct, Your Honor.
+But in addition to all of that, the State court was
+looking at Penry and Graham when they decided this case
+and there was no Penry II yet. There was no Tennard or
+Smith. And so it was reasonable for them to compare the
+evidence, the weight of that evidence, the strength of
+that evidence, to those cases and decide that it fell on
+the Graham and Johnson side of the line rather than the
+Penry side of the line. That's the only thing they
+could do at the time.
+JUSTICE STEVENS: Well, do you think the
+case should have been decided differently should it have
+been decided after those decisions?
+MR. MARSHALL: Well, Justice Stevens, if we
+take into account the full effect language that gets
+quoted in Penry II, we might well have a different
+result. But that wasn't the standard at the time and
+under AEDPA --
+JUSTICE STEVENS: But those decisions didn't
+purport to change the law.
+MR. MARSHALL: Well, under Teague they did
+not purport to change the law. But I think AEDPA is a
+different inquiry here. We're looking at what clearly
+established law was at the time the State courts made
+their decisions and not necessarily what, you know, what
+the Teague inquiry would be. And so at that point I
+think it's pretty clear under Graham and Johnson we're
+looking at some effect. Whatever "full effect" means
+now, it doesn't apply to these cases.
+And I think that gets to the main point
+here. We're looking at an exceedingly ordinary fact
+pattern in a capital murder case in both of these cases:
+Dysfunctional childhoods, a small amount of abuse in
+Brewer, undescribed --
+JUSTICE STEVENS: Am I correct, your
+position essentially is that, while it may well be true
+that these instructions did not permit the jury to give
+full effect to this mitigating evidence, that was not
+clearly established law at the time of these decisions?
+MR. MARSHALL: That's correct, Justice
+Stevens.
+JUSTICE STEVENS: That's your view.
+JUSTICE KENNEDY: Were these decisions
+post-Johnson.
+MR. MARSHALL: Yes, Your Honor. In fact,
+the Brewer case was decided the year after Johnson and
+the, the Cole case was decided in 1999. So the Court
+had not held forth on what Penry meant in a long time at
+that point. Graham and Johnson were the last clear
+statements the Court had made.
+Now, I want to correct one misstatement by
+my opposing counsel in Brewer. Brewer was -- there are
+three distinct episodes of abuse that appear in the
+record in that case: That he was struck with a pistol
+by his father, he was struck with his fist, and struck
+with a flashlight. He was never struck with a stick of
+firewood, and that's on page 65 of the joint appendix.
+That's pretty clear. This isolated abuse that occurred
+late in life -- we don't know the exact time frame, but
+it could be as late as age 18 or 19 -- surely has
+different characteristics in a jury's eyes than the
+evidence in Penry which, in which the defendant was beat
+and beat severely from a very young age, from his
+infancy, and that beating, that abuse, caused brain
+damage or mental retardation. The ordinary nature of
+this evidence in comparison to the exceptional --
+JUSTICE GINSBURG: Are you suggesting that
+some kind of a psychological expert would say that abuse
+as an adolescent is not as damaging as abuse as a young
+child?
+MR. MARSHALL: I'm not suggesting that, Your
+Honor. I'm just suggesting that this is a smaller
+amount of abuse than what was in Penry.
+JUSTICE SCALIA: I guess striking a big
+person is not quite as bad as striking a little person.
+MR. MARSHALL: That may be true, Your Honor.
+JUSTICE BREYER: If the question is one of
+the evidence was weak, why isn't that a harmless error
+question rather than a question of whether the jury can
+give it effect?
+MR. MARSHALL: Well, there is, there is that
+reasonable likelihood standard built in under Boyde.
+JUSTICE BREYER: The likelihood of?
+MR. MARSHALL: Of constitutional error.
+JUSTICE BREYER: Well, constitutional error
+is --
+MR. MARSHALL: Is the reasonable likelihood
+--
+JUSTICE BREYER: Yes.
+MR. MARSHALL: Reasonable likelihood that
+the juror was precluded from considering the relevant
+mitigating evidence.
+JUSTICE BREYER: All right. So if the
+evidence is very weak and if the instructions prevent
+you from considering it, then it's precluded. But if
+the evidence is very weak it didn't matter.
+MR. MARSHALL: Well, I think it's a
+reasonable reading of Graham and Johnson, though, Your
+Honor, that weak evidence does fit within these special
+issues. That's what those cases held. They said the
+jury could consider the evidence in some manner and
+therefore there was no reasonable likelihood that they
+were precluded from doing so.
+JUSTICE BREYER: So imagine you're a juror
+and you think to yourself, I see all this stuff about
+the childhood, frankly it doesn't move me so far as his
+dangerousness, I think he's dangerous, and I also think
+he did it deliberately. And then you think to yourself,
+well, could I consider it because it shows a bad
+childhood and that is deserving of a life term? I'm not
+sure it shows me that, but can I consider it for that
+purpose at all? What's my answer under Texas law?
+MR. MARSHALL: Well, Your Honor, the State
+court considering this case was looking at Graham, in
+which the Court Stated that that evidence fit within
+future dangerousness.
+JUSTICE BREYER: No, no. I have gotten --
+I've finished considering it for future dangerousness.
+No, it doesn't move me; he's dangerous. Now I say to
+myself, can I consider it for the purpose of showing a
+bad childhood deserving of mercy, if you like? Can I
+consider it for that purpose? What's the answer under
+State law?
+MR. MARSHALL: Yes.
+JUSTICE BREYER: The answer is no.
+MR. MARSHALL: Yes, Justice Breyer, the
+answer is yes.
+JUSTICE BREYER: The answer is yes?
+MR. MARSHALL: The answer is yes because
+this Court said it was yes. This Court said that in
+Graham the jury was free to accept counsel's suggestion
+that Graham's conduct was merely an aberration and that,
+and that he wouldn't do it again. That's exactly the
+way the case was argued to the jury by these two defense
+lawyers.
+JUSTICE BREYER: I'm not talking about
+future dangerousness. I'm talking about -- I would be
+repeating myself. You've taken that, I'm not talking
+about future dangerousness. The jury's decided that
+matter in your favor. I'm saying does Texas law allow
+-- you understood what I said, didn't you?
+MR. MARSHALL: Yes, yes.
+JUSTICE BREYER: All right, and the answer
+is yes, you can take it in to show mercy?
+MR. MARSHALL: Yes, Your Honor.
+JUSTICE KENNEDY: And what's the Texas case
+that says that?
+MR. MARSHALL: Your Honor, it's not a Texas
+case. It's this court in Graham and Johnson. This
+Court said that evidence of a troubled childhood, of the
+particular dysfunction that comes with youth, can be
+taken as an aberration, that the person will not repeat
+--
+JUSTICE KENNEDY: Well, did we say that in
+the case of all childhood, in cases, in every case of
+childhood abuse and so forth?
+MR. MARSHALL: The question is --
+JUSTICE KENNEDY: Or was it really applied
+just in the context of the Graham evidence?
+MR. MARSHALL: Well, Your Honor, in these
+cases it's relevant for the same reasons it was in
+Graham. This evidence is not enough like Penry to
+warrant relief.
+JUSTICE KENNEDY: Right. But the answer to
+Justice Breyer it seems to me has to be that you can
+only consider it in the, in the context of
+deliberateness or future dangerousness.
+MR. MARSHALL: That's correct, Your Honor.
+CHIEF JUSTICE ROBERTS: And that depends on
+the nature of the evidence, I take it? I mean, if the
+evidence we were talking about was biological
+predisposition to violence, that's only going to point
+in one direction, right? I mean, if the evidence is
+isolated incident, incidents of depression, the idea is
+that, well, a juror might look at that and say, well,
+that's why he did it, and that since it was isolated
+it's not likely to come up again and therefore it can be
+regarded as mitigating as well as aggravating.
+MR. MARSHALL: That's correct, Mr. Chief
+Justice.
+CHIEF JUSTICE ROBERTS: And so when you get
+into this evidence of child abuse, I mean, how are we
+supposed to decide if the evidence is sufficient so that
+anyone looking at it is going to say, he's only going to
+do it again, or if someone who's looking at it is going
+to say, well, there's an excuse for it and he's going to
+outgrow it? Do we make that determination in every case
+based on the particular evidence and the particular
+arguments that counsel made?
+MR. MARSHALL: I don't think there's any
+other way to do it, Mr. Chief Justice. This Court has
+continually engaged in a case-specific analysis on a
+case-by-case basis in these types, when granting these
+types of claims.
+If the Court has no further questions --
+JUSTICE GINSBURG: Unless you take the view
+that Penry took, which is you have to let the jury
+distinguish between dangerousness and deliberate conduct
+on the one hand and mitigation for mercy purposes that
+don't tie in at all to dangerousness.
+MR. MARSHALL: That's because, Justice
+Ginsburg, the Penry's evidence was relevant only in an
+aggravating way to those issues. It suggested nothing
+other than the fact that he would be a future danger,
+and when the evidence is not so aggravating, when the
+evidence suggests, suggests that there is a mitigating
+answer to the future dangerousness question, that the
+person won't be a future danger because they're going to
+burn out or because this is an isolated incident, we
+have a different situation.
+JUSTICE KENNEDY: Can you tell me, if you
+know, how many cases in the Texas system, capital cases,
+are pending that were decided before the legislature
+amended the instruction?
+MR. MARSHALL: Justice Kennedy, there are 47
+inmates on Texas death row that were sentenced under
+this statute that remain there. There are nine cases
+which have litigated Penry claims all the way to
+conclusion in Federal court. There are 25 more that are
+somewhere in the pipeline either in State court or
+Federal court. I've actually looked at the cases and 17
+of those cases, 17 of the 34 that are still in the
+system, have evidence that's almost identical to these
+cases.
+JUSTICE STEVENS: But that wasn't the
+question. Your question was how many were before or
+after the --
+JUSTICE KENNEDY: But I take it your answer
+was that all these were tried before Texas amended the
+statute. Was it 1991 when it amended the statute?
+MR. MARSHALL: Yes, Your Honor.
+JUSTICE KENNEDY: And all the cases you
+mentioned were tried before 1991.
+MR. MARSHALL: Yes. 47. 47 cases were
+sentenced under this pre-1991 statute.
+If the Court has no further questions, I'd
+ask that they affirm the judgment of the court below.
+CHIEF JUSTICE ROBERTS: Thank you,
+Mr. Marshall.
+You Mr. Owen, have you 12 minutes remaining.
+REBUTTAL ARGUMENT OF ROBERT C. OWEN
+ON BEHALF OF PETITIONERS
+MR. OWEN: I'd like to make two points about
+Graham since it's been a subject of some discussion.
+First is to remind the Court that Graham was a Teague
+case. Graham was a case about whether the law in 1984,
+prior to Penry -- Mr. Graham's case became final on
+direct appeal -- dictated the result that he was asking
+for, which I think doesn't mean it has no persuasive
+impact on these cases, but I certainly think it limits
+its precedential value outside the scope of the question
+of youth that Johnson later settled squarely.
+The second thing I want to say about Graham
+is this is the State's brief in Graham, 91-7580, and I
+want to just note that at page 26, squarely. This is
+the State's brief in Graham 917580 and I want to note at
+page 26, footnote 8 the State says the insubstantiality
+of Graham's evidence of a troubled childhood is readily
+apparent, which certainly suggests that there is a fair
+reading of the evidence in Graham of this background
+evidence as not being substantial, not being evidence
+about abuse or mistreatment. The fact that he was moved
+from one relative to another because of the
+circumstances in his family, in that case was not shown
+to have any negative impact on him. Whereas I think in
+Mr. Cole's case certainly there is expert testimony that
+it had a very devastating negative impact on him. So
+Graham really does not even give the Court much guidance
+on the question of troubled background because there is
+no indication that Graham actually had a, a background
+of mistreatment.
+By the same token with respect to the
+State's comment or my brother's comment that the, the
+record doesn't bear out that Mr. Brewer was struck by
+his father with a stick of firewood, that is correct.
+What the record actually says is, if I may quote from
+the Brewer JA at page 90 -- 95 -- 65, excuse me: "He
+tried to hit him with a stick of firewood. When he went
+outside to grab the firewood I --" -- that's
+Mr. Brewer's mother -- "slammed the front door and
+locked it, and he smashed the glass out of the front
+door with the firewood. That was the night I had him
+arrested."
+CHIEF JUSTICE ROBERTS: How old was Brewer
+at that time?
+MR. OWEN: I believe he was 15, Your Honor.
+But I also want to, I also want to emphasize that I
+think there, the fact is, the testimony is that
+Mr. Brewer was hit numerous times. That's his mom's
+word. Hit with objects only twice, but hit numerous
+times. And I don't think the Court should also
+underestimate the significance of the evidence that
+Mr. Brewer saw his father brutalize his mother on many
+occasions, because that evidence too contributes. It's
+not just the difference between being hit and watching
+someone else being hit. I think everyone understands
+that there are enduring feelings of shame and guilt, and
+that the teenage son feels --
+CHIEF JUSTICE ROBERTS: But the argument is
+that the jury hearing this evidence in light of all the
+instructions will only conclude that the evidence shows
+that he will be violent again. They will not feel that
+they can take it into account in any way to determine
+that it's a situation in which they should extend mercy,
+or that, I guess it was, I get the Cole and the Brewer
+records confused here, but that this, the cause for the
+violence will abate with, with age.
+MR. OWEN: I think, Your Honor --
+CHIEF JUSTICE ROBERTS: Or that in, I guess
+in Brewer's case in particular, that since the violence
+was caused by a particular bout of depression, that
+would not necessarily recur.
+MR. OWEN: I, I don't think that's -- that's
+not our argument, first, Your Honor, for this reason.
+The court's question was, as I understand
+it, don't we have to show there is no way the jury could
+have understood this evidence except as aggravating? I
+don't think that's, I don't think that's the test. In
+Tennard this Court said if the jury might well have
+considered the evidence as aggravating, then --
+CHIEF JUSTICE ROBERTS: -- that was after --
+I guess the question would be under Johnson, whether or
+not it could be considered in some manner.
+MR. OWEN: In some manner that is reasonable
+and that gives effect to the relevant mitigating
+qualities of the evidence. Yes, Your Honor. And I do
+think that the, that the fact of Mr. Brewer's -- the
+fact that the jury knew that he had endured this
+mistreatment as a teenager could only have been given
+aggravating effect. I don't think there is any way to
+reason from the premise that he was mistreated
+physically and emotionally by his father when he was a
+teenager, to the conclusion that therefore he will be
+less dangerous in the future. That doesn't seem to me
+to be a reasonable connection.
+And I think that what the Court was calling
+for in Johnson was that there be some sensible link
+between the proffered mitigating evidence and these
+narrow questions, which as has been pointed out already
+were the only options for the jury in this case. There
+was no, there was no mercy option. There was no
+mitigation instruction. The jury was told solely these
+two -- these two special issues.
+With respect to the Brewer argument that
+there was a deliberateness instruction, I think Justice
+Ginsburg has it exactly right in observing that in
+Penry, what the Court said was that to satisfy the, you
+know, to fix the deficit in the former Texas special
+issues, a definition of deliberateness would have to
+direct the jury's attention to the defendant's personal
+culpability. And I don't think this instruction does
+that. This instruction directs them to the sort of
+quantity of forethought, how much did he think about it,
+how long did he think about it, did he mull it over?
+But I don't think that that captures the moral
+culpability aspect that Penry says is required under the
+Eighth Amendment.
+If the Court has further questions I'm happy
+to entertain them. Otherwise we would ask that the
+Court grant our motions. In the alternative we would
+ask that the Court reverse the judgments in both cases
+with directions to reinstate the District Court's
+favorable judgment in Mr. Brewer's case and to grant
+habeas relief in Mr. Cole's case.
+Thank you, Your Honor.
+CHIEF JUSTICE ROBERTS: Thank you Mr. Owen.
+The case is submitted.
+(Whereupon, at 12:00 p.m., the case in the
+above-entitled matters was submitted.)
+4:4 16:18 46:19 apparent 12:9 assessing 14:20 bit 12:23 14:23
+40:14 14:19 33:13 appeal 44:10 assumption 5:7 blind 33:2
+47:4,7,17 12:4 attention 48:12 board 25:19
+49:6 11:21 2:3 authority 20:25 bout 46:23
+20:14 allow 40:2 36:19 a.m 2:2 4:2 brain 18:12 22:7
+10:13
+22:7 48:22 apply 35:16 back 6:6 10:23 Brewer 1:13 4:5
+35:20 amended 43:1 approach 4:13 24:10 13:16 16:14
+37:1 43:16,17 19:22 background 22:3 26:25
+Amendment approaching 9:16 10:24 27:4,12 31:10
+41:19 21:22 23:17,22 19:24 14:5 17:9,19 35:21 36:8,14
+24:16,17 26:11 appropriate 21:4 26:18 36:14 45:11,14
+amici 16:1 argues 31:10 based 6:8 28:14 47:14 48:25
+46:15 amount 26:11 argument 2:1 basis 4:17 7:11 37:22 38:1,5
+analogous 13:22 23:8 24:6,8,13 bear 45:11 40:5 41:2
+answer 9:17 46:11 47:1 behalf 2:4,7 3:4 broad 9:10 19:1
+39:9,12,14,15 arguments 42:1 21:16 44:4 brother's 45:10
+35:5,9 19:8 8:19 believed 17:1 burnout 29:6
+21:5,6 23:6 Chief 4:3,9 9:22 36:11,20 13:6 21:24
+28:17,23 14:15,23 15:12 30:21 35:10 17:22
+44:3 40:17,23 42:24 19:10 20:4 closer 9:25 10:5 12:22
+42:24 cause 27:25 22:7 26:17 36:9 46:17 10:9 15:15,17
+9:3,6 central 8:6 26:7 26:9 27:3 32:9 49:1 conduct 39:19
+10:17 cert 5:23,25 6:2 38:18,22 39:8 colleague 32:22 42:10
+6:3 40:12,17,18 combine 31:13 confident 7:2
+13:9 certain 19:8 44:20 come 25:18 19:3
+certainly 5:22 childhoods 22:4 41:14 confined 29:9
+5:24 10:25 35:20 comes 40:13 confronted
+17:5 12:14 14:18 choice 23:11 comment 45:10 28:13
+22:14 25:16 24:16 45:10 confused 46:18
+19:18,19 28:9 30:4,9 chooses 5:23 7:2 commit 14:13 connection
+21:1 44:12,21 45:3 chose 24:18 25:1 commitment 47:22
+24:3 certificate 12:4 Christy 27:22 27:23 consequences
+27:4,24 chairs 15:11 chronic 7:21 committed 8:20 27:17 31:8,9
+challenge 5:16 chronological 30:15,16 33:10 consider 20:6
+32:7,25 25:13,24 13:10 33:11 21:23 24:5
+34:15,24 change 16:11 Circuit 5:3,12 common 4:20 28:16 38:13,21
+36:8,9 19:20,21 35:7 6:7 11:13 commonplace 38:23 39:7,9
+39:1,21 35:9 Circuit's 4:13 16:5 41:3
+changed 5:9 5:2 commonsensi... consideration
+44:8,8,9 character 22:15 circumstances 18:19 5:13 6:19
+46:22 25:15 5:7 30:5 31:13 community 12:23 27:16
+49:1,4 characteristics 45:1 22:11 31:9 34:10
+36:23 claim 24:17 compare 9:23 considered
+5:11,24 6:12 claims 4:14 5:5 comparison 47:7,10
+characterized 21:20 25:3 37:3 considering
+9:7,12 27:15,16 42:6 43:5 compelled 10:9 7:11 22:18,18
+charge 27:10 clear 9:12 14:11 18:3 38:3,7 39:1,5
+12:22 30:12,22 32:3 21:21 25:25 concede 10:1,4 consistent 11:18
+16:21 32:4 31:24 35:14 conceivable consolidated
+16:21 21:11,18,19 damaging 37:6 34:25 35:6,12 detailed 16:4
+23:17 24:2,24 20:1 23:13 deeds 22:11,24 41:24
+27:6 28:5,8,13 dangerous 4:25 8:20 18:20 24:3 29:13,14
+31:16 31:18 32:8,12 17:1,20 18:2 Defendants 7:12 determined 24:4
+41:3 32:13,14,19 19:6 23:3 8:9 9:11,20 determining
+33:4 47:23 48:9,20 15:25 16:25 39:21 different 6:21
+25:23 court's 4:14,21 33:14 38:19 28:9 31:14,22 32:19 35:3,10
+32:5 5:6,8 6:19 8:8 39:3,5,24 40:1 48:11 36:23 42:22
+34:13 11:4 12:7,21 41:4 42:10,12 delay 5:18,22 differently
+36:2,13 14:1 16:23 42:19 deliberate 30:22 34:24
+45:12 18:18 21:20 dangers 9:10 30:23 42:10 difficult 22:19
+48:24 dealing 23:3 8:20 30:16,16 diminished
+27:20 30:15 30:20 43:3 27:4,7 28:1 48:12
+25:1 31:7 33:1,4 December 5:3 31:3 41:4 48:7 direction 41:10
+crimes 14:14 decide 6:3,6,21 48:11 directions 48:24
+29:1 CRIMINAL 1:9 6:24 10:18 DEPARTME... DIRECTOR 1:8
+36:14 1:18 11:25 14:3 1:9,18 1:17
+culpability 8:15 21:1 25:5 32:1 depends 19:11 directs 48:14
+22:1 30:19 decided 5:3 11:3 41:6 discussion 44:6
+34:5 48:13,18 40:1 42:25 15:1,2 22:5 distinct 36:15
+culpable 30:24 deciding 9:9 27:24 41:11 distinction
+6:10 7:2,9 custody 22:21 decision 4:15 46:23 31:24
+11:5 cut 17:13 5:4,8,10 6:7,11 deprivation distinctly 26:8
+cuts 17:12,16 8:8 11:3,4,11 7:20 distinguish
+12:1 16:23 deprived 10:24 42:10
+14:3 D 24:7 26:15 26:18 District 48:24
+16:1,25 D 4:1 27:18 deserving 19:7 DIVISION 1:11
+19:4,5 damage 22:7 decisions 11:5 38:22 39:8 1:20
+20:24 37:2 18:18 21:9,21 despite 27:3 doing 23:22
+engaging 31:10 37:3,15 38:4,6 face 25:13,17 filled 25:18
+entertain 48:21 39:2 40:12,21 fact 7:13,16 15:4 find 4:24 13:12
+35:20 entitled 9:9 41:10,19,20,25 25:2,7 26:13 32:9
+15:2 43:10 44:20,22 36:7 42:16 finds 7:4
+12:14 26:12 32:17 exact 30:13 factors 10:14,19 36:19 45:12,15
+21:15 especially 32:25 17:21 22:22 facts 6:22 8:9 fist 36:17
+12:25 3:9 30:8 31:17 14:4 21:5,5 25:14,15 32:19
+20:12 essentially 13:14 39:20 48:8 22:8 38:11 39:2
+28:3 20:25 26:24 example 9:16 factual 4:20 fits 26:16,19
+32:9 35:23 29:1 33:9 34:5 fact-based 6:11 fix 48:10
+35:2,15 establish 19:11 exceedingly failed 4:16 FKA 1:3
+37:17 established 35:18 fair 6:12 24:5,9 flashlight 15:7
+35:11 36:1 exception 25:11 24:25 44:21 36:18
+30:1 7:13,16,19 excuse 9:7 41:23 family 45:1 follow 5:6
+24:17 10:6,10,12,12 exemplified fashion 18:17 forced 24:22
+32:16 10:13 13:3,8 4:13 father 7:18 15:5 25:2
+48:19 13:10,21,24 existing 19:22 15:8,10 36:17 forecast 17:21
+43:7 15:17,24 17:3 4:22 47:19 48:15
+18:20,23 19:1 17:19 18:21 faults 27:25 format 9:1
+20:7 21:2,4,23 17:18 32:23 40:2 forth 36:10
+22:10,11,12,12 experts 29:5,18 fearing 22:25 found 4:19 6:4
+23:23 24:5 32:14 feel 9:18 46:14 fragmented
+33:24 45:5 49:2 inference 9:20
+16:24
+14:21 28:22 hospitalized
+42:7 God 22:25 H 7:14 22:20 35:10,13
+48:20 going 10:23 habeas 11:23 hostilely 22:24
+13:9,13 15:20 16:9,10 hand 15:8 16:2 19:5 1:11,20
+16:24 18:2,10,12,14 42:11 instructed 18:5
+18:3,24 23:12,24 24:12 happen 23:9 I instruction 9:5
+23:14 27:2 29:22,23 happened 28:16 idea 41:11 28:1 30:14
+29:19 41:9,21,21,22 happy 48:20 identical 43:10 31:1,3 34:11
+41:23 42:20 harmless 33:18 II 34:16 35:3 43:1 48:4,7,13
+39:3,5 good 22:11,15 33:20 37:15 illness 22:20 48:14
+40:1 25:14 26:22 hear 4:3 27:23 instructions
+42:16,19 29:15 heard 18:1 imaginable 13:6 7:10 8:22
+47:21 gotten 39:4 30:11 33:9 imagine 5:8 19:12 35:24
+22:9 34:15,20 35:14 46:7,8 impairments 26:8
+23:11,15 36:11 38:10 hold 5:24 4:24 31:1 IQ 12:9 22:3
+24:2,11 39:1,18 40:11 holdings 4:21 implicated 12:9 irrelevant 11:20
+25:12 40:21,24 44:6 Honor 5:20 6:8 important 32:17 isolated 36:20
+44:7,8,15,16 6:17 7:1,8 9:24 imposition 41:11,13 42:21
+28:4 44:18,22 45:5 10:4,16,22 30:19 issue 5:17 7:9
+30:11 45:7 11:6,9,22 impulse 8:7 19:2,8 24:24
+32:5 Graham's 22:19 12:16,23 13:25 32:23 33:3 issues 6:18,21
+42:8,14 39:19 44:9,20 14:22 15:22 incident 41:11 22:2 26:2
+grant 5:8 6:2 16:7,22 17:14 42:21 28:13,15,18,22
+28:3 14:2 32:10 24:15,24 25:23 incorrect 5:1 48:5,11
+35:24 granting 42:5 26:5 27:12 indicated 7:16
+45:5 grave 18:20 28:7 29:10 7:19 8:1 J
+21:5 30:3 36:7 37:9,13 indiscretion JALIL 1:3
+28:19 grows 29:4 38:11,25 40:7 23:8 January 1:23
+47:16 guess 37:11 40:10,22 41:5 individualized 21:20
+28:2,10,16,17 keep 28:17 18:21 36:21 29:22 33:2
+14:3,8 28:18 29:15,21 Kennedy 6:13 38:22 managed 26:18
+20:10,11 30:9,15 31:10 28:12,25 29:8 light 5:13 15:19 manner 11:16
+21:3,7 32:1,17 33:8 36:5 40:8,16 46:12 20:7 21:23,24
+22:6 33:23 34:2 40:20 41:1 likelihood 14:20 27:14 32:10
+26:3,5,8 35:24 37:16 42:23 43:2,15 33:23,25 37:19 34:6 38:13
+29:14 38:13 39:18,21 43:19 37:20,24 38:2 47:10,11
+32:8 42:9 46:12 kid 28:21 38:14 man's 29:16
+34:20 47:3,6,15 48:2 kill 15:9,9 likeliness 29:6 March 6:1
+36:8,11 48:4 kind 10:14 limited 14:2 markedly 32:18
+40:11 jury's 36:23 14:12 22:9,22 limits 8:7 44:12 Marshall 2:6 3:6
+47:9,24 40:1 48:12 22:25 32:8 line 34:20,21 21:14,15,17
+4:3,9 5:15 6:13 kinds 8:9 22:12 link 47:24 24:1,15,23
+36:19 9:25 10:11,17 knew 15:3,4 little 13:24 26:24 27:11
+48:25 13:16,17,19,20 30:3,8 35:12 locked 45:18 31:5,21 32:4
+16:13,16,20 48:10 17:21 25:25 35:1,8 36:2,7
+19:10 20:4,14 24:12 48:16 37:24 38:2,9
+21:17 22:9,23 L look 15:14 20:2 39:16 40:4,7
+15:13,14 25:12 26:3,6 language 12:13 looked 19:5 25:3 42:13 43:2,18
+18:16 26:16,25 27:10 12:24 20:9,9 43:8 43:21 44:1
+19:24 28:4,12,25 20:11,12 35:2 looking 24:6,7 matter 1:25 4:20
+34:1 38:3 29:8,20,25 late 36:21,22 24:17,19,21,25 9:2 38:8 40:2
+41:12 30:11 31:19,23 latitude 28:15 26:14 33:22 matters 49:6
+8:13,17 34:8,23 35:1,6 35:7,9,11 36:1 35:18 39:1 17:24 30:2
+9:4,8,13 35:22 36:2,4,5 38:24 39:10 41:21,22 32:16 41:7,10
+16:25 37:4,11,14,20 40:2 44:8 looks 19:23 41:19 44:11
+38:16 39:4,12 layer 26:13 lot 7:22 meaningful 4:17
+12:24 40:5,8,16,20 learn 33:10,11 Lynaugh 4:15 13:1 20:13
+15:3 41:1,2,6,17,18 led 27:21 means 35:15
+16:8 42:3,8,13,23 left 18:22 M meant 36:10
+18:7 19:3 43:2,12,15,19 legislature main 6:16 35:17 meets 31:16
+23:1,5,7 43:25 45:21 42:25 major 7:14 men 14:13
+46:11,21 47:8 legitimate 29:11 14:18 mental 4:23
+48:7 49:3 level 17:18 making 30:19 10:13,24 15:24
+21:2 48:4 night 45:19 overrule 12:12 37:10 40:24
+27:23 mom's 46:1 nine 43:4 12:15,20 42:9 43:5 44:9
+30:18 months 7:15 nondangerous... Owen 2:4 3:3,9 48:9,18
+37:2 moral 9:11 18:9 14:9 4:6,7,9 5:20 Penry's 42:14
+31:20 32:2 14:17 10:3,15,21 percent 29:2,3
+43:20 morally 30:24 note 44:17,18 12:16,19 13:24 permit 35:24
+39:8 22:20 45:17 46:1,2 17:13 18:15 personal 48:12
+42:11 46:5 nurturance 7:22 19:15 20:8,16 personality 7:21
+48:3 motion 5:11 Nystrom 27:22 20:21,23 21:13 person's 18:8
+29:12 murder 7:16 12:3 21:6,10 12:13 1:14
+N occurred 36:20 package 26:17 phrases 13:3
+48:1 okay 31:2 45:14 picture 23:2
+44:24 1:7,16 older 29:4 particular 9:3 pipeline 43:7
+47:16 nature 32:24 opened 14:18 9:16 22:17 pistol 15:6 36:16
+necessarily 9:15 12:25 41:25,25 46:22 planning 27:20
+8:14 negative 45:2,4 25:1 pending 42:25 26:7 35:13,17
+10:14 neglect 7:19 opposed 15:16 Penry 4:15 5:2,5 36:11 41:9
+11:15 neither 13:3 33:8 8:8 9:23 10:1 pointed 48:1
+13:2,20 Nelson 5:4,14,16 opposing 36:14 10:10 12:10,22 points 44:5
+15:17 5:19,23,25 6:2 option 48:3 14:24 15:23 poor 27:20
+19:1 20:7 6:3,4,9,10,12 options 48:2 18:18 19:10,22 pose 8:21
+23:23 6:14,17,18,24 oral 1:25 3:2,5 21:2,8,19 22:8 poses 18:20
+26:2 Nelson's 5:25 4:7 21:15 22:8,13 25:5,6 position 35:23
+32:24 nervous 8:6 ordinary 35:18 25:9 27:5 28:4 possibility 34:1
+neuropsychol... 37:2 28:8 30:14,15 34:6
+35:25 8:2 ought 17:4 30:21 31:1,17 possible 18:17
+41:15 never 8:13 33:9 outgrow 41:24 31:23 33:9 postdates 11:5
+47:12,25 36:18 outside 44:13 34:15,16,21 post-Johnson
+9:12 19:13 35:3 3:8 44:3 20:18
+provide 14:12 15:22 repeat 40:14
+provides 28:25 R 4:1 20:2 24:19 repeating 39:25
+32:6 raise 15:8 36:16 45:11,13 represent 5:2
+psychological rape 33:11,12 recur 46:24 28:14
+puppy 16:8,9 reach 14:3,6 reduced 8:14 22:15
+14:1 23:6 35:9 27:8,13,18 reflected 27:20 4:16 9:2
+27:1 purpose 38:24 28:6 30:12,17 regard 4:21 17:4 requires 21:22
+39:7,9 31:4,20 23:1 reserve 21:12
+put 5:24 9:14,17 reading 29:13 regardless 11:12 48:6
+36:20 realistically 14:9 Respondent 2:7
+qualities 4:18 realize 32:25 relate 13:8 response 10:25
+quantity 48:15 reason 6:16,24 22:21 34:2 18:21 35:4
+43:22 1:16 4:4,5 5:4 31:7 47:1,18 relevance 13:13 resulting 8:16
+20:5 20:17 23:13,16 18:23 19:24,25 7:11 10:14 30:24 37:2
+17:15 26:4 30:10 25:5 29:7,16 26:1,10,12 reverse 48:23
+33:4 42:19 43:13,13 37:19,24 38:2 47:12 reviewing 4:14
+31:12 47:2,9 47:22 relief 40:25 49:1 26:19 38:5
+17:3,5 43:23 48:1,20 reasoned 18:16 remedy 27:6 ROBERTS 4:3
+quite 14:23 31:3 reasoning 19:4 remind 44:7 9:22,25 13:16
+quote 45:13 40:23 28:18 15:12 16:13,16
+17:10 sensibly 13:7 sizzling 22:3 Stated 39:2 6:9 27:5 31:18
+19:10 sentence 8:11,12 slammed 45:17 statement 16:17 42:15
+21:13 8:16 9:16 slow 27:17 31:8 17:12 suggesting 37:4
+34:8 18:14 30:20 slowly 30:17 statements 37:8,9
+43:25 sentenced 43:3 small 35:20 36:12 suggestion
+46:11,21 43:22 smaller 37:9 States 1:1 2:1 31:17 39:18
+49:3 sentences 8:16 smashed 45:18 State's 5:23 6:7 suggests 42:18
+separated 20:12 society 8:21 16:5 18:25 25:2 suppose 10:12
+seriously 4:16 son 46:10 steady 27:17 31:15 33:18
+sharp 5:4 26:2 28:13,15 strained 13:6 system 42:24
+40:9 shortcomings 38:11 48:5,10 strategic 24:16
+45:13 27:3 specific 14:7 strength 34:2,18 T
+shot 24:9 22:12 28:8 striking 37:11 T 3:1,1
+12:11 47:3 27:24 strong 10:18 16:8 35:2 40:6
+20:14,17 showing 39:7 speculate 15:20 strongly 9:19 41:7 42:8
+37:11 shown 15:18 speculation struck 15:6 43:15 46:15
+25:13 significant 4:22 37:19 27:6 49:4,6 Teague 35:8,13
+28:12 28:2 stands 19:18,19 substantial 44:7
+32:18 similar 16:17,19 State 5:16 6:9 44:23 teenage 46:10
+38:17 17:11 11:3,5,11 12:1 substituting teenager 7:18
+situation 42:22 34:14 35:11 suggest 8:8 Tennard 5:6
+Sixth 24:16 43:7 44:19 suggested 5:11 11:19,22,24
+15:23 33:5,6,21 turmoil 7:23 14:9 ways 32:11,15
+17:1,14 34:23 35:9,14 turn 5:4 7:7,7 weak 37:15 38:6
+34:16 35:17 38:9,17 turns 26:21 V 38:8,11
+38:19,19,20 twice 46:2 v 1:6,15 4:15 weaker 10:12
+45:2,25 46:3,8 8:19,25 11:24 value 44:13 weakness 33:17
+32:23 threat 8:21 types 42:5,6 42:8 we're 11:10,10
+33:8 three 6:4 7:15 viewed 21:25 23:3,24 24:3,6
+36:15 U violated 23:18 24:17,18,24
+18:25 time 11:12,12,13 underestimate violent 14:21 we've 24:19 25:8
+22:1 21:12 27:18 46:4 15:16 46:14 willful 27:17
+24:22 28:20 30:7,8 underlay 5:8 virtually 21:24 willing 10:4
+40:2,8 32:13 33:11 understand 13:8 vs 4:4 5:4 wish 18:9
+42:24 34:22 35:4,11 47:2 witnesses 17:19
+48:10 36:1,10,21 understanding W word 46:2
+49:2,3 times 15:5 46:1 understands walking 29:22 22:10 30:13
+44:15 token 45:9 understood 40:3 44:15,17,18 working 32:13
+15:8 17:3 48:4 undescribed warrant 40:25 worthy 6:5,18
+treatment 5:5 unhurried 27:17 Washington 23:9 29:18
+10:1,3,5 7:14 31:8 1:22 30:4 39:20
+trial 8:1 9:7 United 1:1 2:1 wasn't 11:3 wrong 20:20
+12:7,21 31:16 unreasonable 13:17,20 27:2 21:9
+14:7,11 trials 9:8 11:11 12:2,4 29:15 31:19
+15:21 tried 43:16,20 20:19,22,24 34:12 35:4 X
+16:4,11 45:15 21:6,10 30:4 43:12 x 1:2,21
+18:3,15 troubled 13:21 unreasonably watching 46:7
+19:17 13:21 22:5,18 24:4 29:14 way 8:15 10:19 Y
+26:9 32:9 unreliable 8:16 13:7 14:5 year 36:8
+40:12 44:20 untrue 14:10 15:20 19:9 years 17:23,23
+21:5,8 45:6 unwarranted 23:5 25:21 17:23 25:10
+true 35:23 37:13 30:20 26:1,2 27:1 29:20,21,23
+28:7 try 7:5 upbringing 15:3 32:17 33:5,17 30:4
+31:6,13 trying 6:20 21:1 use 6:20 34:1 39:21 young 17:20
+33:3 24:3 utterly 11:20 42:3,15 43:5 36:25 37:6
+47:3,17 youth 13:10,21
+22:6,15 4
+26:7,8 4 3:4
+40 29:21
+44:14 44 3:10
+5
+1:6 4:4 50 29:21
+1:15
+6
+36:19 45:14
+66-year-old 33:2
+17:23 29:21
+30:4 7
+2:2 4:2 75 29:2,3
+22:4
+44:2 8
+49:5 8 44:19
+22:4
+29:2 9
+29:3 90 27:11 45:14
+17:23 45:23 90s 24:10
+1:23 43:8,9 91-7580 44:16
+36:22 917580 44:18
+36:22 95 45:14
+10:23
+44:8
+4:14 27:5
+43:17,20
+21:20 25:3
+12:7,8
+21:20 25:4
+33:1,2
+17:23
+21:20
+1:23
+3:7
+43:6
+44:17,19
+29:20
+25:10
+43:9
